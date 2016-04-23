@@ -36,7 +36,7 @@ for root, dirs, files in os.walk('./Corpus/Unsuspense'):
         if f.endswith('.txt'):
             corp = open('./Corpus/Unsuspense/' + f, 'r', encoding='utf-8').read()
             corp = lemmas(corp)
-            unsuspenseCorpus += corp
+            unsuspenseCorpus += corp # собираем все unsuspense в один текст
             totalCorpus.append(corp)
 
 for root, dirs, files in os.walk('./Corpus/Suspense'):
@@ -45,7 +45,7 @@ for root, dirs, files in os.walk('./Corpus/Suspense'):
             corp = open('./Corpus/Suspense/' + f, 'r', encoding='utf-8').read()
             corp = lemmas(corp)
             # print(corp)
-            suspenseCorpus += corp
+            suspenseCorpus += corp # собираем все suspense в один текст
             totalCorpus.append(corp)
 
 tfidf = v.fit_transform(totalCorpus)
