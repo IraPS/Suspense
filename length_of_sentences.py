@@ -16,8 +16,8 @@ def lemmas(text):
     return textn
 
 for root, dirs, files in os.walk('./Corpus/Suspense'):
-    lens = {}
     for f in files:
+        lens_of_sent = 0
         print(f)
         if f.endswith('.txt'):
             o = open('./Corpus/Suspense/' + f, 'r', encoding='utf-8').read()
@@ -29,9 +29,12 @@ for root, dirs, files in os.walk('./Corpus/Suspense'):
                 if i is not '':
                     sentences.append(i)
 
-        lens_of_sent = 0
         for i in sentences:
             i = lemmas(i)
-            print(i)
-            print(len(i.split()))
-
+            # print(i)
+            lens_of_sent += len(i.split())
+        print(lens_of_sent)
+        print(len(sentences))
+        medium_len_of_sent = lens_of_sent/len(sentences)
+        print(medium_len_of_sent)
+        print('\n')
