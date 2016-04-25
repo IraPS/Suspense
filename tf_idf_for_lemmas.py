@@ -57,10 +57,18 @@ def bag_of_words(corpus):
     tfidf_dict = {}
     for col in tfidf.nonzero()[1]:
         tfidf_dict[feature_names[col]] = response[0, col]
-    tfidf_dict = sorted(tfidf_dict.items(), key=lambda x: x[1], reverse=True) # ТУТ отсортированные по убыванию слова со значениями
+    #tfidf_dict = sorted(tfidf_dict.items(), key=lambda x: x[1], reverse=True) # ТУТ отсортированные по убыванию слова со значениями
     return tfidf_dict
 
-for i in bag_of_words(unsuspenseCorpus): print(i)
+suspense = bag_of_words(suspenseCorpus)
+unsuspense = bag_of_words(unsuspenseCorpus)
+
+s = ''
+for i in suspense:
+    if suspense[i] - unsuspense[i] >= 0.04:
+        s += i + ', '
+print(s)
+
 
 tfidf = tfidf.todense()
 print(tfidf.shape)

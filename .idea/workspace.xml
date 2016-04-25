@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ffe9fe2-e726-4e4a-9543-3f650f4de8fa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/length_of_paragraph.py" afterPath="$PROJECT_DIR$/length_of_paragraph.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tf_idf_for_lemmas.py" afterPath="$PROJECT_DIR$/tf_idf_for_lemmas.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Suspense.iws" />
@@ -27,21 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tf_idf_for_lemmas.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tf_idf_for_lemmas.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tf_idf_for_lemmas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="727" max-vertical-offset="1170">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="length_of_paragraph.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/length_of_paragraph.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.72911966" vertical-offset="427" max-vertical-offset="870">
-              <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.9322799" vertical-offset="622" max-vertical-offset="1290">
+              <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -57,9 +47,9 @@
       <list>
         <option value="$PROJECT_DIR$/length_of_paragpaph.py" />
         <option value="$PROJECT_DIR$/length_of_sentences.py" />
-        <option value="$PROJECT_DIR$/tf_idf_for_lemmas.py" />
         <option value="$PROJECT_DIR$/tf_idf.py" />
         <option value="$PROJECT_DIR$/length_of_paragraph.py" />
+        <option value="$PROJECT_DIR$/tf_idf_for_lemmas.py" />
       </list>
     </option>
   </component>
@@ -140,7 +130,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.length_of_paragraph">
+  <component name="RunManager" selected="Python.tf_idf_for_lemmas">
     <configuration default="false" name="tf_idf_for_lemmas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,9 +337,9 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.length_of_paragraph" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tf_idf" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tf_idf_for_lemmas" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tf_idf_for_lemmas" />
+        <item index="1" class="java.lang.String" itemvalue="Python.length_of_paragraph" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tf_idf" />
         <item index="3" class="java.lang.String" itemvalue="Python.length_of_sentences" />
       </list>
     </recent_temporary>
@@ -431,7 +421,13 @@
       <option name="project" value="LOCAL" />
       <updated>1461610027260</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Counting mediana">
+      <created>1461612749976</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1461612749976</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -481,7 +477,8 @@
     <MESSAGE value="Counts lengths of paragraphs and shows the percentage of paragraphs with certain lengths&#10;" />
     <MESSAGE value="Started counting lengths of sentences" />
     <MESSAGE value="Counting tf-idf for each document" />
-    <option name="LAST_COMMIT_MESSAGE" value="Counting tf-idf for each document" />
+    <MESSAGE value="Counting mediana" />
+    <option name="LAST_COMMIT_MESSAGE" value="Counting mediana" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -547,18 +544,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tf_idf_for_lemmas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="727" max-vertical-offset="1170">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/length_of_paragraph.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.72911966" vertical-offset="427" max-vertical-offset="870">
           <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tf_idf_for_lemmas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9322799" vertical-offset="622" max-vertical-offset="1290">
+          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
           <folding />
         </state>
       </provider>
