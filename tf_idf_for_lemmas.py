@@ -60,7 +60,7 @@ def bag_of_words(corpus):
     tfidf_dict = sorted(tfidf_dict.items(), key=lambda x: x[1], reverse=True) # ТУТ отсортированные по убыванию слова со значениями
     return tfidf_dict
 
-print(bag_of_words(unsuspenseCorpus))
+for i in bag_of_words(unsuspenseCorpus): print(i)
 
 tfidf = tfidf.todense()
 print(tfidf.shape)

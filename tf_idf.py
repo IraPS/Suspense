@@ -38,7 +38,19 @@ def bag_of_words(corpus):
     tfidf_dict = sorted(tfidf_dict.items(), key=lambda x: x[1], reverse=True) # ТУТ отсортированные по убыванию слова со значениями
     return tfidf_dict
 
-print(bag_of_words(suspenseCorpus))
+# for i in bag_of_words(unsuspenseCorpus): print(i)
+
+for root, dirs, files in os.walk('./Corpus/Unsuspense'):
+    for f in files:
+        if f.endswith('.txt'):
+            print(f)
+            corp = open('./Corpus/Unsuspense/' + f, 'r', encoding='utf-8').read()
+            for i in bag_of_words(corp):
+                if i[1] >= 0.1:
+                    print(i)
+            print('\n\n')
+
+
 
 tfidf = tfidf.todense()
 print(tfidf.shape)
