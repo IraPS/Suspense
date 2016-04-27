@@ -71,20 +71,25 @@ def pos(sent):
     return adj(sent), adv(sent), num_adj(sent), pron_adj(sent), num_comp(sent), conj(sent), intj(sent), num(sent), \
            part(sent), prep(sent), noun(sent), verb(sent), pron_noun(sent)
 
+all_sentences = []
+
 
 for root, dirs, files in os.walk('./Corpus/Unsuspense/mystemed'):
     for f in files:
         if f.endswith('.txt'):
-            o = open('./Corpus/Unsuspense/mystemed/' + f, 'r', encoding='utf-8').read()
-            # print(o)
-            o = o.split('{"text":"\\s"}')
+            t = open('./Corpus/Unsuspense/mystemed/' + f, 'r', encoding='utf-8').read()
+            o = t.split('{"text":"\\')
             sentences = []
+            all_pos = [0]*13
             for i in o:
                 if i is not '':
                     sentences.append(i)
-
+                    all_sentences.append(i)
+            #print(len(sentences))
             for i in sentences:
-                print(i)
-                print(pos(i))
-                print('\n\n')
+                for k in range(len(pos(i))):
+                    all_pos[k] += pos(i)[k]
+
+
+            for i in all_pos: print(i)
 
