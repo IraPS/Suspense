@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ffe9fe2-e726-4e4a-9543-3f650f4de8fa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/word_order.py" afterPath="$PROJECT_DIR$/word_order.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/count_pos.py" afterPath="$PROJECT_DIR$/count_pos.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Suspense.iws" />
@@ -37,11 +37,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="word_order.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="word_order.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/word_order.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0360577" vertical-offset="319" max-vertical-offset="840">
-              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state vertical-scroll-proportion="-10.962963" vertical-offset="424" max-vertical-offset="840">
+              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="processing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../../rusyntax/processing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="262" max-vertical-offset="810">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="count_pos.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/count_pos.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3227991" vertical-offset="997" max-vertical-offset="1635">
+              <caret line="76" column="65" selection-start-line="76" selection-start-column="65" selection-end-line="76" selection-end-column="65" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -64,10 +86,11 @@
         <option value="$PROJECT_DIR$/length_of_sentences.py" />
         <option value="$PROJECT_DIR$/mystemming.py" />
         <option value="$PROJECT_DIR$/Corpus/Unsuspense/count_pos.py" />
-        <option value="$PROJECT_DIR$/count_pos.py" />
         <option value="$PROJECT_DIR$/exclamations.py" />
         <option value="$PROJECT_DIR$/suspense_parsed.txt" />
         <option value="$PROJECT_DIR$/word_order.py" />
+        <option value="$PROJECT_DIR$/../../../../../rusyntax/processing.py" />
+        <option value="$PROJECT_DIR$/count_pos.py" />
       </list>
     </option>
   </component>
@@ -134,7 +157,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.word_order">
+  <component name="RunManager" selected="Python.count_pos">
     <configuration default="false" name="length_of_sentences" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,9 +384,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.word_order" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exclamations" />
-        <item index="2" class="java.lang.String" itemvalue="Python.count_pos" />
+        <item index="0" class="java.lang.String" itemvalue="Python.count_pos" />
+        <item index="1" class="java.lang.String" itemvalue="Python.word_order" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exclamations" />
         <item index="3" class="java.lang.String" itemvalue="Python.mystemming" />
         <item index="4" class="java.lang.String" itemvalue="Python.length_of_sentences" />
       </list>
@@ -494,7 +517,13 @@
       <option name="project" value="LOCAL" />
       <updated>1462614129594</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="finds order of subject, verb and object">
+      <created>1462616074270</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1462616074270</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -551,7 +580,8 @@
     <MESSAGE value="exclamations" />
     <MESSAGE value="started word order" />
     <MESSAGE value="finds order of subject and object" />
-    <option name="LAST_COMMIT_MESSAGE" value="finds order of subject and object" />
+    <MESSAGE value="finds order of subject, verb and object" />
+    <option name="LAST_COMMIT_MESSAGE" value="finds order of subject, verb and object" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -578,6 +608,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1440">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -791,13 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/count_pos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="982" max-vertical-offset="1515">
-          <caret line="93" column="38" selection-start-line="93" selection-start-column="38" selection-end-line="93" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exclamations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17094018" vertical-offset="0" max-vertical-offset="702">
@@ -824,8 +850,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/word_order.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0360577" vertical-offset="319" max-vertical-offset="840">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        <state vertical-scroll-proportion="-10.962963" vertical-offset="424" max-vertical-offset="840">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../rusyntax/processing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="262" max-vertical-offset="810">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count_pos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3227991" vertical-offset="997" max-vertical-offset="1635">
+          <caret line="76" column="65" selection-start-line="76" selection-start-column="65" selection-end-line="76" selection-end-column="65" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
