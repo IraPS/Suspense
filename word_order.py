@@ -1,4 +1,5 @@
 import re
+import copy
 
 f = open('suspense_parsed.txt', 'r').read()
 aa = []
@@ -33,6 +34,17 @@ for i in words:
             ddd[int(u[0])] = 'S'
             ddd[int(u[3])] = 'V'
             dd.append(ddd)
+            # dd - массив с инфой об S и V
+    fdd = []
+    for el in dd:
+        fd = copy.copy(el)
+        for ele in el:
+            if el[ele] == 'V':
+                for u in i:
+                    if int(u[3]) == ele and u[4] == '1-компл':
+                        fd[int(u[0])] = 'O'
+        fdd.append(fd)
+        # fdd - массив с инфой об S и V и O
     #print(dd)
-    d.append(dd)
+    d.append(fdd)
 print(d)
