@@ -13,13 +13,13 @@ def verb_past(sent):
 
 all_sentences = []
 
-for root, dirs, files in os.walk('./Corpus/Unsuspense/mystemed'):
+for root, dirs, files in os.walk('./Corpus/Suspense/mystemed'):
     for f in files:
         if f.endswith('.txt'):
-            print(f)
+            #print(f)
             all_verbs = 0
             past_verbs = 0
-            t = open('./Corpus/Unsuspense/mystemed/' + f, 'r', encoding='utf-8').read()
+            t = open('./Corpus/Suspense/mystemed/' + f, 'r', encoding='utf-8').read()
             o = t.split('{"text":"\\')
             sentences = []
             for i in o:
@@ -29,4 +29,7 @@ for root, dirs, files in os.walk('./Corpus/Unsuspense/mystemed'):
             for i in sentences:
                 all_verbs += verb(i)
                 past_verbs += verb_past(i)
-            print(all_verbs, past_verbs, '\n')
+            if all_verbs is not 0:
+                print(round(past_verbs/all_verbs, 2))
+            else:
+                print(0)
