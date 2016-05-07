@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ffe9fe2-e726-4e4a-9543-3f650f4de8fa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/word_order.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/word_order.py" afterPath="$PROJECT_DIR$/word_order.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Suspense.iws" />
@@ -30,8 +30,8 @@
       <file leaf-file-name="suspense_parsed.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/suspense_parsed.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.0" vertical-offset="630" max-vertical-offset="1890">
-              <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+            <state vertical-scroll-proportion="-3.8888888" vertical-offset="0" max-vertical-offset="1890">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -40,8 +40,8 @@
       <file leaf-file-name="word_order.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/word_order.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.71153843" vertical-offset="199" max-vertical-offset="615">
-              <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.53125" vertical-offset="214" max-vertical-offset="660">
+              <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -479,7 +479,13 @@
       <option name="project" value="LOCAL" />
       <updated>1462610128146</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="started word order">
+      <created>1462612762004</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1462612762004</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -534,7 +540,8 @@
     <MESSAGE value="mystemming" />
     <MESSAGE value="counting POS" />
     <MESSAGE value="exclamations" />
-    <option name="LAST_COMMIT_MESSAGE" value="exclamations" />
+    <MESSAGE value="started word order" />
+    <option name="LAST_COMMIT_MESSAGE" value="started word order" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -799,16 +806,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/suspense_parsed.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.0" vertical-offset="630" max-vertical-offset="1890">
-          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+        <state vertical-scroll-proportion="-3.8888888" vertical-offset="0" max-vertical-offset="1890">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/word_order.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.71153843" vertical-offset="199" max-vertical-offset="615">
-          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.53125" vertical-offset="214" max-vertical-offset="660">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
           <folding />
         </state>
       </provider>

@@ -26,10 +26,13 @@ d = []
 #print(words)
 
 for i in words:
-    dd = {}
+    dd = []
     for u in i:
         if u[4] == 'предик':
-            print(u)
-            dd[int(u[0])] = 'предикат'
+            ddd = {}
+            ddd[int(u[0])] = 'S'
+            ddd[int(u[3])] = 'V'
+            dd.append(ddd)
+    #print(dd)
     d.append(dd)
 print(d)
