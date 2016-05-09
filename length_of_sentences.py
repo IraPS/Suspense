@@ -15,13 +15,13 @@ def lemmas(text):
             textn += w
     return textn
 
-for root, dirs, files in os.walk('./Corpus/Unsuspense'):
+for root, dirs, files in os.walk('./Corpus/Unsuspense/Original'):
     for f in files:
         if f.endswith('.txt'):
             lens_of_sent = 0
             #print(f)
             if f.endswith('.txt'):
-                o = open('./Corpus/Unsuspense/' + f, 'r', encoding='utf-8').read()
+                o = open('./Corpus/Unsuspense/Original/' + f, 'r', encoding='utf-8').read()
                 # print(o)
                 punct = re.compile('[.?!]')
                 o = punct.split(o)
