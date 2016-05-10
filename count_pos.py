@@ -77,7 +77,7 @@ all_sentences = []
 for root, dirs, files in os.walk('./Corpus/Unsuspense/mystemed'):
     for f in files:
         if f.endswith('.txt'):
-            #print('FILE', f)
+            print('FILE', f)
             t = open('./Corpus/Unsuspense/mystemed/' + f, 'r', encoding='utf-8').read()
             o = t.split('{"text":"\\')
             sentences = []
@@ -95,6 +95,7 @@ for root, dirs, files in os.walk('./Corpus/Unsuspense/mystemed'):
                     all_pos[k] += pos(i)[k]
             #print(all_pos)
             summa = sum(all_pos)
+            print(all_pos[11])
             ratio = all_pos[11]/summa
             print(round(ratio, 2))
             #print('\n\n')
