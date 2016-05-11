@@ -8,43 +8,51 @@ from verbs_in_past_tense import pastVerbsRatio # генератор с ratio г�
 from finitnefinit import finitRatio # генератор с ratio финитные vs. нефинитные глаголы, для абзацев
 from word_order import wordOrderRatio # генератор с ratio S-V vs. V-S порядок слов, для абзацев
 
-length_of_suspense_corpus = 136
-length_of_unsuspense_corpus = 28
 
-first = []
-for i in bowVector('Unsuspense'):
-    first.append(i)
-second = []
-for i in meanLengthPar('Unsuspense', length_of_unsuspense_corpus):
-    second.append(i)
-third = []
-for i in meanLengthSent('Unsuspense'):
-    third.append(i)
-fourth = []
-for i in verbsRatio('Unsuspense'):
-    fourth.append(i)
-fifth = []
-for i in pastVerbsRatio('Unsuspense'):
-    fifth.append(i)
-sixth = []
-for i in finitRatio('Unsuspense'):
-    sixth.append(i)
-seventh = []
-for i in wordOrderRatio('Unsuspense'):
-    seventh.append(i)
+def getCorpusSize(corpus):
+    for root, dirs, files in os.walk('./Corpus/' + corpus + '/Original'):
+        size = 0
+        for f in files:
+            if f.endswith('.txt'):
+                size += 1
+        return size
 
-unsuspense_features = []
 
-for i in range(length_of_unsuspense_corpus):
-    #print(i)
-    a = []
-    a += first[i]
-    a.append(second[i])
-    a.append(third[i])
-    a.append(fourth[i])
-    a.append(fifth[i])
-    a.append(sixth[i])
-    a.append(seventh[i])
-    unsuspense_features.append(a)
+def getFeatures(corpus, size):
+    first = []
+    for i in bowVector(corpus):
+        first.append(i)
+    second = []
+    for i in meanLengthPar(corpus, size):
+        second.append(i)
+    third = []
+    for i in meanLengthSent(corpus):
+        third.append(i)
+    fourth = []
+    for i in verbsRatio(corpus):
+        fourth.append(i)
+    fifth = []
+    for i in pastVerbsRatio(corpus):
+        fifth.append(i)
+    sixth = []
+    for i in finitRatio(corpus):
+        sixth.append(i)
+    seventh = []
+    for i in wordOrderRatio(corpus):
+        seventh.append(i)
+
+    unsuspense_features = []
+
+    for i in range(length_of_unsuspense_corpus):
+        #print(i)
+        a = []
+        a += first[i]
+        a.append(second[i])
+        a.append(third[i])
+        a.append(fourth[i])
+        a.append(fifth[i])
+        a.append(sixth[i])
+        a.append(seventh[i])
+        unsuspense_features.append(a)
 
 print(len(unsuspense_features[0]))
