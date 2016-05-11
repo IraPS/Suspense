@@ -1,8 +1,10 @@
 from pymystem3 import Mystem
-m = Mystem()
 import os
 import nltk
 import re
+
+m = Mystem()
+
 
 def lemmas(text):
     punc = list('.?!-;:",')
@@ -15,13 +17,14 @@ def lemmas(text):
             textn += w
     return textn
 
-for root, dirs, files in os.walk('./Corpus/Unsuspense/Original'):
-    for f in files:
-        if f.endswith('.txt'):
-            lens_of_sent = 0
-            #print(f)
+
+def meanLengthSent(corpus):
+    for root, dirs, files in os.walk('./Corpus/' + corpus + '/Original'):
+        for f in files:
             if f.endswith('.txt'):
-                o = open('./Corpus/Unsuspense/Original/' + f, 'r', encoding='utf-8').read()
+                lens_of_sent = 0
+                #print(f)
+                o = open('./Corpus/' + corpus + '/Original/' + f, 'r', encoding='utf-8').read()
                 # print(o)
                 punct = re.compile('[.?!]')
                 o = punct.split(o)
@@ -29,13 +32,12 @@ for root, dirs, files in os.walk('./Corpus/Unsuspense/Original'):
                 for i in o:
                     if i is not '':
                         sentences.append(i)
-
-            for i in sentences:
-                i = lemmas(i)
-                # print(i)
-                lens_of_sent += len(i.split())
-            #print(lens_of_sent)
-            #print(len(sentences))
-            medium_len_of_sent = lens_of_sent/len(sentences)
-            print(medium_len_of_sent)
-            #print('\n')
+                for i in sentences:
+                    i = lemmas(i)
+                    # print(i)
+                    lens_of_sent += len(i.split())
+                #print(lens_of_sent)
+                #print(len(sentences))
+                medium_len_of_sent = lens_of_sent/len(sentences)
+                yield(round(medium_len_of_sent, 2))
+                #print('\n')
