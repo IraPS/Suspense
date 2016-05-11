@@ -9,6 +9,7 @@ def meanLengthPar(corpus, number_of_files):
         lens = {}
         for f in files:
             if f.endswith('.txt'):
+                # print(f)
                 o = open('./Corpus/' + corpus + '/Original/' + f, 'r', encoding='utf-8').read()
                 # print(o)
                 punct = re.compile('[.?!]')
@@ -24,7 +25,10 @@ def meanLengthPar(corpus, number_of_files):
                     lens[len(sentences)] += 1
                 else:
                     lens[len(sentences)] = 1
+                yield(len(sentences))
         # print(np.median(all))
         #print('SUSPENSE DATA')
-        for i in lens:
-            yield round((lens[i]*100)/number_of_files, 2)
+        #for i in lens:
+            #print(ound((lens[i]*100)/number_of_files, 2))
+
+# for i in meanLengthPar('Unsuspense', 28): print(i)
