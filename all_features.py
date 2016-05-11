@@ -1,5 +1,5 @@
 import os
-import re
+import numpy as np
 from bagofwords_vector import bowVector # генератор с векторами bag-of-words (присутсвие/отсутствие леммы), для абзацев
 from length_of_paragraph import meanLengthPar # генератор со средними длинами абзацев в предложениях
 from length_of_sentences import meanLengthSent # генератор со средними длинами предложений в абзацах
@@ -18,7 +18,11 @@ def getCorpusSize(corpus):
         return size
 
 
-def getFeatures(corpus, size):
+def getFeatures(corpus):
+
+    size = getCorpusSize(corpus)
+    all_features = []
+
     first = []
     for i in bowVector(corpus):
         first.append(i)
@@ -41,9 +45,7 @@ def getFeatures(corpus, size):
     for i in wordOrderRatio(corpus):
         seventh.append(i)
 
-    unsuspense_features = []
-
-    for i in range(length_of_unsuspense_corpus):
+    for i in range(size):
         #print(i)
         a = []
         a += first[i]
@@ -53,6 +55,13 @@ def getFeatures(corpus, size):
         a.append(fifth[i])
         a.append(sixth[i])
         a.append(seventh[i])
-        unsuspense_features.append(a)
+        all_features.append(a)
+    return all_features
 
-print(len(unsuspense_features[0]))
+
+unsuspense_features = getFeatures('Unsuspense')
+unsuspense_features = np.array(unsuspense_features)
+np.savez_compressed('unsuspense_features.npz', unsuspense_features)
+suspense_features = getFeatures('Suspense')
+suspense_features = np.array(suspense_features)
+np.savez_compressed('suspense_features.npz', suspense_features)
