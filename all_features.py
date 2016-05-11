@@ -5,3 +5,5 @@ from length_of_sentences import meanLengthSent # генератор со сре�
 from count_pos import verbsRatio # генератор с ratio глаголы vs. остальные части речи, для абзацев
 from verbs_in_past_tense import pastVerbsRatio # генератор с ratio глаголы в прош.вр. vs. все глаголы, для абзацев
 from finitnefinit import finitRatio # генератор с ratio финитные vs. нефинитные глаголы, для абзацев
+from word_order import wordOrderRatio # генератор с ratio S-V vs. V-S порядок слов, для абзацев
+

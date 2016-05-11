@@ -8,25 +8,15 @@ def do(f):
     for i in f.split('\n\n'):
         if i is not '':
             aa.append(i)
-
     for i in aa:
         a.append(i.split('\n')) # массив с предложениями, каждое предложение - тоже массив его элементов по порядку
-
-
     words = []
-
-
-
     for i in a:
         w = []
         for u in i:
             w.append([(u.split('\t'))[0], (u.split('\t'))[1], (u.split('\t'))[4], (u.split('\t'))[6], (u.split('\t'))[7]])
         words.append(w)
-
     d = []
-
-    #print(words)
-
     for i in words:
         dd = []
         for u in i:
@@ -72,8 +62,9 @@ def ratio(res):
     return round(sv/vs, 2)
 
 
-for root, dirs, files in os.walk('./Corpus/Suspense/Syntaxed'):
-    for file in files:
-        if file.endswith('.conll'):
-            file = open('./Corpus/Suspense/Syntaxed/' + file, 'r').read()
-            print(ratio(do(file)))
+def wordOrderRatio(corpus):
+    for root, dirs, files in os.walk('./Corpus/' + corpus + '/Syntaxed'):
+        for file in files:
+            if file.endswith('.conll'):
+                file = open('./Corpus/' + corpus + '/Syntaxed/' + file, 'r').read()
+                yield ratio(do(file))
