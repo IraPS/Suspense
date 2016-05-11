@@ -58,10 +58,9 @@ def getFeatures(corpus):
         all_features.append(a)
     return all_features
 
+all = []
+all += getFeatures('Unsuspense')
+all += getFeatures('Suspense')
+all = np.array(all)
 
-unsuspense_features = getFeatures('Unsuspense')
-unsuspense_features = np.array(unsuspense_features)
-np.savez_compressed('unsuspense_features.npz', unsuspense_features)
-suspense_features = getFeatures('Suspense')
-suspense_features = np.array(suspense_features)
-np.savez_compressed('suspense_features.npz', suspense_features)
+np.savez_compressed('all_features.npz', all)
