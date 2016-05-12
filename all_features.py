@@ -45,6 +45,7 @@ def getFeatures(corpus):
     for i in wordOrderRatio(corpus):
         seventh.append(i)
 
+
     for i in range(size):
         #print(i)
         a = []
@@ -58,9 +59,5 @@ def getFeatures(corpus):
         all_features.append(a)
     return all_features
 
-all = []
-all += getFeatures('Unsuspense')
-all += getFeatures('Suspense')
-all = np.array(all)
-
-np.savez_compressed('all_features.npz', all)
+new = getFeatures('New')
+np.savez_compressed('new_features.npz', new)
