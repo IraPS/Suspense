@@ -8,22 +8,30 @@ from sklearn import metrics
 from sklearn.cross_validation import cross_val_score
 
 X = np.load('all_features.npz')['arr_0']
-y = np.array([0]*28 + [1]*136)
+y = np.array([1]*141 + [0]*123)
 
-X_test = np.load('new_features.npz')['arr_0']
+#X_test = np.load('new_features.npz')['arr_0']
 #print(X_test)
 
-#X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=0)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=0)
 model = LogisticRegression()
-#model.fit(X_train, y_train)
-model.fit(X, y)
+model.fit(X_train, y_train)
+#model.fit(X, y)
+
 
 predicted = model.predict(X_test)
-print(predicted)
+#print(predicted)
 
-#for i in range(len(y_test)):
-    #print(predicted[i], y_test[i])
+'''
+mistakes = 0
+for i in range(len(y_test)):
+    if y_test[i] != predicted[i]:
+        #print(y_test[i], predicted[i])
+        mistakes += 1
+accuracy = ((len(y_test) - mistakes)/len(y_test))*100
+'''
+print('Accuracy score is', metrics.accuracy_score(y_test, predicted)*100)
 
 scores = cross_val_score(LogisticRegression(), X, y, scoring='accuracy', cv=20)
-print(scores)
-print(scores.mean())
+print('Cross validation accuracy score is', scores.mean()*100)
+
