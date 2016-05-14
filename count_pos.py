@@ -72,21 +72,25 @@ def pos(sent):
            part(sent), prep(sent), noun(sent), verb(sent), pron_noun(sent)
 
 
+
 def verbsRatio(corpus):
+    print('yes')
     all_sentences = []
     for root, dirs, files in os.walk('./Corpus/' + corpus + '/mystemed'):
         for f in files:
             if f.endswith('.txt'):
-                #print('FILE', f)
+                print('FILE', f)
                 t = open('./Corpus/' + corpus + '/mystemed/' + f, 'r', encoding='utf-8').read()
+                print(t)
                 o = t.split('{"text":"\\')
+                print(len(o))
+                print(o)
                 sentences = []
                 all_pos = [0]*13
                 for i in o:
                     if i is not '':
                         sentences.append(i)
                         all_sentences.append(i)
-                #print(len(sentences))
                 for i in sentences:
                     #print(i)
                     #print(pos(i))
@@ -98,3 +102,6 @@ def verbsRatio(corpus):
                 # print(all_pos[11])
                 ratio = all_pos[11]/summa
                 yield round(ratio, 2)
+
+
+for i in verbsRatio('All'): print(i)
