@@ -22,14 +22,7 @@ model.fit(X_train, y_train)
 predicted = model.predict(X_test)
 #print(predicted)
 
-'''
-mistakes = 0
-for i in range(len(y_test)):
-    if y_test[i] != predicted[i]:
-        #print(y_test[i], predicted[i])
-        mistakes += 1
-accuracy = ((len(y_test) - mistakes)/len(y_test))*100
-'''
+
 print('Accuracy score is', metrics.accuracy_score(y_test, predicted)*100)
 
 scores = cross_val_score(LogisticRegression(), X, y, scoring='accuracy', cv=20)

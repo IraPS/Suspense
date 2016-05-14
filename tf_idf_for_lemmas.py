@@ -31,21 +31,21 @@ totalCorpus = []
 suspenseCorpus = ''
 unsuspenseCorpus = ''
 
-for root, dirs, files in os.walk('./Corpus/Unsuspense'):
+for root, dirs, files in os.walk('./Corpus/Suspense/Original'):
     for f in files:
         if f.endswith('.txt'):
-            corp = open('./Corpus/Unsuspense/' + f, 'r', encoding='utf-8').read()
+            corp = open('./Corpus/Suspense/Original/' + f, 'r', encoding='utf-8').read()
             corp = lemmas(corp)
-            unsuspenseCorpus += corp # собираем все unsuspense в один текст
+            suspenseCorpus += corp # собираем все unsuspense в один текст
             totalCorpus.append(corp)
 
-for root, dirs, files in os.walk('./Corpus/Suspense'):
+for root, dirs, files in os.walk('./Corpus/Unsuspense/Original'):
     for f in files:
         if f.endswith('.txt'):
-            corp = open('./Corpus/Suspense/' + f, 'r', encoding='utf-8').read()
+            corp = open('./Corpus/Unsuspense/Original/' + f, 'r', encoding='utf-8').read()
             corp = lemmas(corp)
             # print(corp)
-            suspenseCorpus += corp # собираем все suspense в один текст
+            unsuspenseCorpus += corp # собираем все suspense в один текст
             totalCorpus.append(corp)
 
 tfidf = v.fit_transform(totalCorpus)
@@ -63,11 +63,20 @@ def bag_of_words(corpus):
 suspense = bag_of_words(suspenseCorpus)
 unsuspense = bag_of_words(unsuspenseCorpus)
 
-s = ''
+
+compared = {}
+zeros = []
 for i in suspense:
-    if suspense[i] - unsuspense[i] >= 0.04:
-        s += i + ', '
-print(s)
+    if unsuspense[i] is not 0.0:
+        if suspense[i]/unsuspense[i] > 3:
+            compared[i] = round(suspense[i], 4)
+    else:
+        zeros.append(i)
+
+compared = sorted(compared.items(), key=lambda x: x[1], reverse=True)
+
+for i in compared:
+    print(i)
 
 
 tfidf = tfidf.todense()
