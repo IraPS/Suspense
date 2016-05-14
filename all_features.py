@@ -59,5 +59,6 @@ def getFeatures(corpus):
         all_features.append(a)
     return all_features
 
-new = getFeatures('All')
-np.savez_compressed('all_features.npz', new)
+corpus = 'New'
+features = getFeatures(corpus)
+np.savez_compressed(corpus + '_features.npz', features)

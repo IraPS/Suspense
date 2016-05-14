@@ -22,4 +22,4 @@ def prepare(corpus):
                 print(file)
                 parse('/Users/IrinaPavlova/Desktop/Uni/2015-2016/Programming/github\ desktop/Suspense/Corpus/' + corpus + '/Original/' + file)
 
-prepare('All')
+prepare('New')
