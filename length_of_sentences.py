@@ -41,3 +41,6 @@ def meanLengthSent(corpus):
                 medium_len_of_sent = lens_of_sent/len(sentences)
                 yield(round(medium_len_of_sent, 2))
                 #print('\n')
+
+
+#for i in meanLengthSent('Unsuspense'): print(i)

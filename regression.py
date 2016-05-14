@@ -37,4 +37,4 @@ all_samples = [1]*141 + [0]*123
 suspense_samples = [1]*141
 unsuspense_samples = [0]*123
 
-regression('All', all_samples, '', 'New')
+regression('All', all_samples, 'auto')
