@@ -43,4 +43,4 @@ def meanLengthSent(corpus):
                 #print('\n')
 
 
-#for i in meanLengthSent('Unsuspense'): print(i)
+#for i in meanLengthSent('Suspense'): print(i)

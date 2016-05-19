@@ -22,7 +22,7 @@ def run():
             Layer("Softmax")],
         learning_rate=0.0002,
         learning_rule='nesterov',
-        n_iter=50, valid_size=0.1)
+        n_iter=25, valid_size=0.1)
 
     pipeline = Pipeline([
         ('min/max scaler', MinMaxScaler(feature_range=(0.0, 1.0))),
@@ -38,10 +38,10 @@ def run():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
 
     pipeline.fit(X_train, y_train)
-    score = pipeline.score(X_train, y_train)
+    score = pipeline.score(X_test, y_test)
 
-    # nn.fit(X_train, y_train)
-    # score = nn.score(X_train, y_train)
+    #nn.fit(X_train, y_train)
+    #score = nn.score(X_train, y_train)
 
     return score
 
