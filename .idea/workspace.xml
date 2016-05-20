@@ -40,8 +40,8 @@
       <file leaf-file-name="net_predict.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/net_predict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7629797" vertical-offset="367" max-vertical-offset="960">
-              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.6275395" vertical-offset="367" max-vertical-offset="960">
+              <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -406,12 +406,6 @@
       <option name="number" value="Default" />
       <updated>1461358052764</updated>
     </task>
-    <task id="LOCAL-00006" summary="Started counting lengths of paragraphs&#10;">
-      <created>1461424374160</created>
-      <option name="number" value="00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1461424374160</updated>
-    </task>
     <task id="LOCAL-00007" summary="Counts lengths of paragraphs and shows the percentage of paragraphs with certain lengths&#10;">
       <created>1461425738413</created>
       <option name="number" value="00007" />
@@ -700,7 +694,13 @@
       <option name="project" value="LOCAL" />
       <updated>1463767395585</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="improvements">
+      <created>1463767655723</created>
+      <option name="number" value="00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1463767655723</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1056,8 +1056,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/net_predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7629797" vertical-offset="367" max-vertical-offset="960">
-          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.6275395" vertical-offset="367" max-vertical-offset="960">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>

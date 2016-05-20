@@ -38,17 +38,17 @@ def run():
     #score = nn.score(X_train, y_train)
 
     gradation = {1: 5, 0.9: 4, 0.8: 3, 0.7: 2, 0.6: 1}
-    res = []
+    res = ''
     for i in probs:
         compare = []
         for u in gradation:
             if i[1] < u:
                 compare.append(gradation[u])
-        res.append((i[1], (min(compare))))
+        res += str(min(compare)) + ','
     return res
 
 
-for i in run(): print(i)
+print(run())
 
 
 #for i in range(10): print(run())
