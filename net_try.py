@@ -26,7 +26,7 @@ def run():
 
     pipeline = Pipeline([
         ('min/max scaler', MinMaxScaler(feature_range=(0.0, 1.0))),
-        ('neural network', Classifier(layers=[Layer("Softmax")], n_iter=25))])
+        ('neural network', Classifier(layers=[Layer("ExpLin", units=5), Layer("Softmax")], n_iter=25))])
 
 
 
@@ -38,16 +38,22 @@ def run():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
 
     pipeline.fit(X_train, y_train)
-    score = pipeline.score(X_test, y_test)
+    prediction = pipeline.predict(X_test)
+    probs = pipeline.predict_proba(X_test)
+    score = pipeline.score(X_train, y_train)
 
     #nn.fit(X_train, y_train)
     #score = nn.score(X_train, y_train)
 
-    return score
+    res = []
+    for i in range(len(prediction)):
+        res.append((probs[i], prediction[i]))
+    return res
 
-#print(run())
+for i in run(): print(i)
 
-for i in range(10): print(run())
+
+#for i in range(10): print(run())
 
 # Sigmoid средняя точность ~ 0,6388 (сильный разброс - 20 :(()
 # ExpLin средняя точность ~ 0,667 (не такой сильный разброс - 10 :( )
