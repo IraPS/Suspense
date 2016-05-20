@@ -42,8 +42,6 @@ def run():
     probs = pipeline.predict_proba(X_test)
     score = pipeline.score(X_test, y_test)
 
-    print('PREDICTION', prediction)
-    print('Y_TEST', y_test)
 
     print('SCORE', score)
     print('METRICS SCORE', metrics.accuracy_score(prediction, y_test))
