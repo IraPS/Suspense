@@ -42,9 +42,7 @@ def run():
     for i in probs:
         compare = []
         for u in gradation:
-
             if i[1] < u:
-                print(u)
                 compare.append(gradation[u])
         res.append((i[1], (min(compare))))
     return res
