@@ -12,7 +12,6 @@ from sklearn.metrics import classification_report
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import MinMaxScaler
 
-
 def run():
 
     pipeline = Pipeline([
@@ -22,30 +21,35 @@ def run():
 
     X = np.load('All_features.npz')['arr_0']
 
+    D = np.load('Akunin_features.npz')['arr_0']
+
     all_samples = [1]*141 + [0]*123
     y = np.array(all_samples)
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.0, random_state=0)
 
     pipeline.fit(X_train, y_train)
-    prediction = pipeline.predict(X_test)
-    probs = pipeline.predict_proba(X_test)
-    score = pipeline.score(X_test, y_test)
+    prediction = pipeline.predict(D)
+    probs = pipeline.predict_proba(D)
+    #score = pipeline.score(X_test, y_test)
 
     #print('METRICS SCORE', metrics.accuracy_score(prediction, y_test))
 
     #nn.fit(X_train, y_train)
     #score = nn.score(X_train, y_train)
 
-    gradation = {1: 5, 0.9: 4, 0.8: 3, 0.7: 2, 0.6: 1}
-    res = ''
+    gradation = {1.01: 5, 0.9: 4, 0.8: 3, 0.7: 2, 0.6: 1}
+    ress1 = []
+    ress2 = []
+
     for i in probs:
+        ress2.append(i[1]*10)
         compare = []
         for u in gradation:
             if i[1] < u:
                 compare.append(gradation[u])
-        res += str(min(compare)) + ','
-    return res
+        ress1.append(min(compare))
+    return ress1, ress2
 
 
 print(run())

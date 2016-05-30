@@ -98,6 +98,9 @@ def verbsRatio(corpus):
                         all_pos[k] += pos(i)[k]
                 #print(all_pos)
                 summa = sum(all_pos) - all_pos[11]
+                if summa is not 0:
                 # print(all_pos[11])
-                ratio = all_pos[11]/summa
+                    ratio = all_pos[11]/summa
+                else:
+                    ratio = 100
                 yield round(ratio, 2)

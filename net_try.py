@@ -30,6 +30,8 @@ def run():
 
 
 
+    print('Pipeline', pipeline)
+
     X = np.load('All_features.npz')['arr_0']
 
     all_samples = [1]*141 + [0]*123
@@ -38,10 +40,12 @@ def run():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
 
     pipeline.fit(X_train, y_train)
+
+
     prediction = pipeline.predict(X_test)
     probs = pipeline.predict_proba(X_test)
     score = pipeline.score(X_test, y_test)
-
+    print(score)
     #print('METRICS SCORE', metrics.accuracy_score(prediction, y_test))
 
     #nn.fit(X_train, y_train)

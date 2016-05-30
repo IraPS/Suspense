@@ -14,6 +14,7 @@ def getCorpusSize(corpus):
         size = 0
         for f in files:
             if f.endswith('.txt'):
+                print(f)
                 size += 1
         return size
 
@@ -24,25 +25,25 @@ def getFeatures(corpus):
     all_features = []
 
     first = []
-    for i in bowVector(corpus):
+    for i in bowVector(corpus): # 75 признаков
         first.append(i)
     second = []
-    for i in meanLengthPar(corpus, size):
+    for i in meanLengthPar(corpus, size): # 76ой
         second.append(i)
     third = []
-    for i in meanLengthSent(corpus):
+    for i in meanLengthSent(corpus): # 77ой
         third.append(i)
     fourth = []
-    for i in verbsRatio(corpus):
+    for i in verbsRatio(corpus): # 78ой
         fourth.append(i)
     fifth = []
-    for i in pastVerbsRatio(corpus):
+    for i in pastVerbsRatio(corpus): # 79ый
         fifth.append(i)
     sixth = []
-    for i in finitRatio(corpus):
+    for i in finitRatio(corpus): # 80ый
         sixth.append(i)
     seventh = []
-    for i in wordOrderRatio(corpus):
+    for i in wordOrderRatio(corpus): # 81ый
         seventh.append(i)
 
 
@@ -57,8 +58,9 @@ def getFeatures(corpus):
         a.append(sixth[i])
         a.append(seventh[i])
         all_features.append(a)
+    print(len(all_features))
     return all_features
 
-corpus = 'New'
+corpus = 'Akunin'
 features = getFeatures(corpus)
 np.savez_compressed(corpus + '_features.npz', features)
