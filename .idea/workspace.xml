@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ffe9fe2-e726-4e4a-9543-3f650f4de8fa" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/exclamations.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/all_features.py" afterPath="$PROJECT_DIR$/all_features.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predict_suspense_1.py" afterPath="$PROJECT_DIR$/predict_suspense_1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/predict_suspense_2.py" afterPath="$PROJECT_DIR$/predict_suspense_2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Suspense.iws" />
@@ -29,13 +28,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="predict_suspense_1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="predict_suspense_1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/predict_suspense_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1863354" vertical-offset="0" max-vertical-offset="483">
-              <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predict_suspense_2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/predict_suspense_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4347826" vertical-offset="0" max-vertical-offset="483">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,9 +90,9 @@
         <option value="$PROJECT_DIR$/net_predict.py" />
         <option value="$PROJECT_DIR$/break_text_into_paragraphs.py" />
         <option value="$PROJECT_DIR$/prepare_corpus.py" />
-        <option value="$PROJECT_DIR$/predict_suspense_2.py" />
-        <option value="$PROJECT_DIR$/predict_suspense_1.py" />
         <option value="$PROJECT_DIR$/all_features.py" />
+        <option value="$PROJECT_DIR$/predict_suspense_1.py" />
+        <option value="$PROJECT_DIR$/predict_suspense_2.py" />
       </list>
     </option>
   </component>
@@ -157,7 +168,7 @@
       <recent name="$USER_HOME$/python3/lib/python3.4/site-packages" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.predict_suspense">
+  <component name="RunManager" selected="Python.predict_suspense_2">
     <configuration default="false" name="all_features" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -386,8 +397,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.predict_suspense" />
-        <item index="1" class="java.lang.String" itemvalue="Python.predict_suspense_2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.predict_suspense_2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.predict_suspense" />
         <item index="2" class="java.lang.String" itemvalue="Python.net_predict" />
         <item index="3" class="java.lang.String" itemvalue="Python.break_text_into_paragraphs" />
         <item index="4" class="java.lang.String" itemvalue="Python.all_features" />
@@ -404,18 +415,6 @@
       <created>1461358052764</created>
       <option name="number" value="Default" />
       <updated>1461358052764</updated>
-    </task>
-    <task id="LOCAL-00014" summary="mystemming">
-      <created>1461695595314</created>
-      <option name="number" value="00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1461695595314</updated>
-    </task>
-    <task id="LOCAL-00015" summary="counting POS">
-      <created>1461699045037</created>
-      <option name="number" value="00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1461699045037</updated>
     </task>
     <task id="LOCAL-00016" summary="counting POS">
       <created>1461762489534</created>
@@ -699,7 +698,19 @@
       <option name="project" value="LOCAL" />
       <updated>1464790705615</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="improvements">
+      <created>1464791161915</created>
+      <option name="number" value="00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1464791161915</updated>
+    </task>
+    <task id="LOCAL-00064" summary="improvements">
+      <created>1464791242993</created>
+      <option name="number" value="00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1464791242993</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -724,7 +735,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -735,7 +746,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1019,10 +1030,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/predict_suspense_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1863354" vertical-offset="0" max-vertical-offset="483">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predict_suspense_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4347826" vertical-offset="0" max-vertical-offset="483">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>

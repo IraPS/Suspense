@@ -2,7 +2,7 @@ from all_features import getFeatures
 import numpy as np
 import pickle
 
-novel = input('Please type the name of the novel which stored in a .txt file: ')
+novel = input('Please type the title of the novel which stored in a .txt file: ')
 features = getFeatures(novel)
 np.savez_compressed(novel + '_features.npz', features)
 
