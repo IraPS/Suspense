@@ -19,7 +19,7 @@ Here is the instructions on how to use it:
 
 2. Save the novel you want to analyze in a .txt file with 'utf-8' encoding.
 
-3. Create a folder "Corpus". Inside of it create the folder which is called exactly as the file where your novel is stored.
+3. Create a folder "Corpus" in the directory with the files of this git. Inside of it create the folder which is called exactly as the file where your novel is stored.
 
 4. Put the file with your novel to it's folder in the "Corpus" folder.
 
