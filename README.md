@@ -15,8 +15,7 @@ Here is the instructions on how to use it:
 
 5. Inside of the folder with your novel create three folders called exactly like this: "Original", "Syntaxed", "Mystemed"
 
-6. Go to "prepare_corpus.py" and change the directories in lines 10 and 22.
-In line 10 
+6. Go to "prepare_corpus.py" and change the directories in line 11. You have to change the directory where you store the RU Syntax parser's files. 
 
 7. Run "predict_suspense_1.py". It will ask you to type the title of the novel. Type it exactly as it is without adding '.txt' or anything else.
 
