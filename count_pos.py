@@ -75,11 +75,11 @@ def pos(sent):
 
 def verbsRatio(corpus):
     all_sentences = []
-    for root, dirs, files in os.walk('./Corpus/' + corpus + '/mystemed'):
+    for root, dirs, files in os.walk('./Corpus/' + corpus + '/Mystemed'):
         for f in files:
             if f.endswith('.txt'):
                 #print('FILE', f)
-                t = open('./Corpus/' + corpus + '/mystemed/' + f, 'r', encoding='utf-8').read()
+                t = open('./Corpus/' + corpus + '/Mystemed/' + f, 'r', encoding='utf-8').read()
                 #print(t)
                 o = t.split('{"text":"\\')
                 #print(len(o))

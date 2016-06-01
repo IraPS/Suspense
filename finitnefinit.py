@@ -16,12 +16,12 @@ def nefinit(sent):
 
 
 def finitRatio(corpus):
-    for root, dirs, files in os.walk('./Corpus/' + corpus + '/mystemed'):
+    for root, dirs, files in os.walk('./Corpus/' + corpus + '/Mystemed'):
         for f in files:
             all_sentences = []
             if f.endswith('.txt'):
                 #print('FILE', f)
-                t = open('./Corpus/' + corpus + '/mystemed/' + f, 'r', encoding='utf-8').read()
+                t = open('./Corpus/' + corpus + '/Mystemed/' + f, 'r', encoding='utf-8').read()
                 o = t.split('{"text":"\\')
                 sentences = []
                 for i in o:

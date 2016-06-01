@@ -14,7 +14,6 @@ def getCorpusSize(corpus):
         size = 0
         for f in files:
             if f.endswith('.txt'):
-                print(f)
                 size += 1
         return size
 
@@ -58,9 +57,9 @@ def getFeatures(corpus):
         a.append(sixth[i])
         a.append(seventh[i])
         all_features.append(a)
-    print(len(all_features))
+    print('Features collected')
     return all_features
 
-corpus = 'Akunin'
-features = getFeatures(corpus)
-np.savez_compressed(corpus + '_features.npz', features)
+
+#features = getFeatures(corpus)
+#np.savez_compressed(corpus + '_features.npz', features)

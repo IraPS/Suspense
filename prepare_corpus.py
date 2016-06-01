@@ -3,7 +3,7 @@ import os
 
 def lemmas(corpus, file):
     os.system('./' + 'mystem -d -n -i -s --format=json --eng-gr ' + './Corpus/' + corpus + '/Original/' + file + ' ' +
-              './Corpus/' + corpus + '/mystemed/' + file.split('.')[0] + '_mystemed.txt')
+              './Corpus/' + corpus + '/Mystemed/' + file.split('.')[0] + '_mystemed.txt')
 
 
 def parse(file):
@@ -19,7 +19,7 @@ def prepare(corpus):
     for root, dirs, files in os.walk('./Corpus/' + corpus + '/Original'):
         for file in files:
             if file.endswith('.txt'):
-                print(file)
                 parse('/Users/IrinaPavlova/Desktop/Uni/2015-2016/Programming/github\ desktop/Suspense/Corpus/' + corpus + '/Original/' + file)
 
-prepare('Akunin')
+    print('Corpus is ready for analyzing. Please move the files from RU Syntax'
+          ' parser\'s "out" folder to your corpus\' "Syntaxed" folder')

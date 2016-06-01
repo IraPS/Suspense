@@ -15,13 +15,13 @@ all_sentences = []
 
 
 def pastVerbsRatio(corpus):
-    for root, dirs, files in os.walk('./Corpus/' + corpus + '/mystemed'):
+    for root, dirs, files in os.walk('./Corpus/' + corpus + '/Mystemed'):
         for f in files:
             if f.endswith('.txt'):
                 #print(f)
                 all_verbs = 0
                 past_verbs = 0
-                t = open('./Corpus/' + corpus + '/mystemed/' + f, 'r', encoding='utf-8').read()
+                t = open('./Corpus/' + corpus + '/Mystemed/' + f, 'r', encoding='utf-8').read()
                 o = t.split('{"text":"\\')
                 sentences = []
                 for i in o:
