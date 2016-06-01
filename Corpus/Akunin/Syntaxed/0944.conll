@@ -1,0 +1,68 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	вспомнила	ВСПОМНИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	согласно	СОГЛАСНО	PR	PR	PR	13	обст	_	_
+6	психологической	ПСИХОЛОГИЧЕСКИЙ	A	A - dat sg plen f -	A - dat sg plen f -	7	опред	_	_
+7	науке	НАУКА	S	S f inan dat sg	S f inan dat sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	спрятанные	СПРЯТАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	7	опред	_	_
+10	за	ЗА	PR	PR	PR	13	обст	_	_
+11	спиной	СПИНА	S	S f inan ins sg	S f inan ins sg	10	предл	_	_
+12	руки	РУКА	S	S f inan acc pl	S f inan acc pl	13	1-компл	_	_
+13	означают	ОЗНАЧАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	4	подч-союзн	_	_
+14	скрытность	СКРЫТНОСТЬ	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+15	и	И	CONJ	CONJ	CONJ	13	сент-соч	_	_
+16	нежелание	НЕЖЕЛАНИЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+17	говорить	ГОВОРИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	16	1-компл	_	_
+18	правду	ПРАВДА	S	S f inan acc sg	S f inan acc sg	17	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Возможно	ВОЗМОЖНО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	ли	ЛИ	PART	PART	PART	1	огранич	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	подошла	ПОДХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	2-компл	_	_
+4	журналисту	ЖУРНАЛИСТ	S	S m anim dat sg	S m anim dat sg	3	предл	_	_
+5	ближе	БЛИЗКО	ADV	ADV comp	ADV comp	2	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	пытливо	ПЫТЛИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	2	присвяз	_	_
+8	всматриваясь	ВСМАТРИВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+9	в	В	PR	PR	PR	8	1-компл	_	_
+10	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	11	квазиагент	_	_
+11	лицо	ЛИЦО	S	S n inan acc sg	S n inan acc sg	9	предл	_	_
+12	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+13	пытаясь	ПЫТАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	соч-союзн	_	_
+14	обнаружить	ОБНАРУЖИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	13	1-компл	_	_
+15	в	В	PR	PR	PR	14	обст	_	_
+16	знакомых	ЗНАКОМЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	17	опред	_	_
+17	чертах	ЧЕРТА	S	S f inan loc pl	S f inan loc pl	15	предл	_	_
+18	что-то	ЧТО-ТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+19	чужое	ЧУЖОЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	страшное	СТРАШНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	19	сочин	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	2	предик	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	10	предик	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	как	КАК	CONJ	CONJ	CONJ	3	сравнит	_	_
+6	всегда	ВСЕГДА	ADV	ADV -	ADV -	5	сравн-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	разве что	разве что	ADV	ADV -	-	10	обст	_	_
+9	чуть	ЧУТЬ	ADV	ADV -	ADV -	10	колич-огран	_	_
+10	бледнее	БЛЕДНЫЙ	A	A comp - - plen - -	A comp - - plen - -	2	присвяз	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	На	НА	PR	PR	PR	7	обст	_	_
+2	Варю	ВАРИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	предл	_	_
+3	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	2	1-компл	_	_
+4	'	'	_	_	PUNC	3	PUNC	_	_
+5	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	смотрел	СМОТРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

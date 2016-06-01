@@ -1,0 +1,13 @@
+1	–	–	–	–	PUNC	4	предик	_	_
+2	Там	ТАМ	ADV	ADV -	ADV -	4	обст	_	_
+3	пленный	ПЛЕННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	офицер	ОФИЦЕР	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	крикнул	КРИКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	им	ОНИ	SPRO	SPRO pl - - dat	SPRO pl - - dat	2	2-компл	_	_
+4	вслед	ВСЛЕД	ADV	ADV -	ADV -	2	обст	_	_
+5	волонтер	ВОЛОНТЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

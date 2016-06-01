@@ -1,0 +1,118 @@
+1	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	живо	ЖИВО	ADV	ADV -	ADV -	3	обст	_	_
+3	воспринимал	ВОСПРИНИМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	жизнь	ЖИЗНЬ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	сильно	СИЛЬНО	ADV	ADV -	ADV -	7	обст	_	_
+7	реагировал	РЕАГИРОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	соч-союзн	_	_
+8	на	НА	PR	PR	PR	7	1-компл	_	_
+9	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	10	квазиагент	_	_
+10	явления	ЯВЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	8	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Наташа	НАТАША	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	помнит	ПОМНИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	такой	ТАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	случай	СЛУЧАЙ	S	S m inan nom sg	S m inan nom sg	2	1-компл	_	_
+5	из	ИЗ	PR	PR	PR	4	1-компл	_	_
+6	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	8	квазиагент	_	_
+7	детской	ДЕТСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	опред	_	_
+8	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	5	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	6	обст	_	_
+2	дети	РЕБЕНОК	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+3	стали	СТАНОВИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+4	подрастать	ПОДРАСТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	решили	РЕШАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	для	ДЛЯ	PR	PR	PR	6	обст	_	_
+8	порядка	ПОРЯДОК	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+9	разделить	РАЗДЕЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+10	между	МЕЖДУ	PR	PR	PR	9	2-компл	_	_
+11	ними	ОНИ	SPRO	SPRO pl - - ins	SPRO pl - - ins	10	предл	_	_
+12	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	14	1-компл	_	_
+13	детскую	ДЕТСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	14	опред	_	_
+14	библиотеку	БИБЛИОТЕКА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Некоторые	НЕКОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	книги	КНИГА	S	S f inan nom pl	S f inan nom pl	3	предик	_	_
+3	делили	ДЕЛИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	по	ПО	PR	PR	PR	3	обст	_	_
+5	жребию	ЖРЕБИЙ	S	S m inan dat sg	S m inan dat sg	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Из	ИЗ	PR	PR	PR	7	1-компл	_	_
+2	числа	ЧИСЛО	S	S n inan gen sg	S n inan gen sg	1	предл	_	_
+3	разыгранных	РАЗЫГРЫВАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	4	опред	_	_
+4	книг	КНИГА	S	S f inan gen pl	S f inan gen pl	2	квазиагент	_	_
+5	«	«	_	_	PUNC	4	PUNC	_	_
+6	Последние	ПОСЛЕДНИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	7	опред	_	_
+7	дни	ДЕНЬ	S	S m inan acc pl	S m inan acc pl	10	1-компл	_	_
+8	Помпеи	ПОМПЕИ	S	S f inan gen sg	S f inan gen sg	7	квазиагент	_	_
+9	»	»	_	_	PUNC	8	PUNC	_	_
+10	достались	ДОСТАВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+11	Сереже	СЕРЕЖА	S	S m anim dat sg	S m anim dat sg	10	2-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	а	А	CONJ	CONJ	CONJ	10	сент-соч	_	_
+14	«	«	_	_	PUNC	15	PUNC	_	_
+15	На	НА	PR	PR	PR	19	обст	_	_
+16	заре	ЗАРЯ	S	S f inan loc sg	S f inan loc sg	15	предл	_	_
+17	христианства	ХРИСТИАНСТВО	S	S n inan gen sg	S n inan gen sg	16	квазиагент	_	_
+18	»	»	_	_	PUNC	17	PUNC	_	_
+19	–	–	–	–	PUNC	20	опред	_	_
+20	Наташе	НАТАША	S	S f anim dat sg	S f anim dat sg	13	соч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Эти	ЭТОТ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	книги	КНИГА	S	S f inan nom pl	S f inan nom pl	4	предик	_	_
+3	очень	ОЧЕНЬ	ADV	ADV -	ADV -	4	огранич	_	_
+4	ценил	ЦЕНИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	4	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+8	Наташа	НАТАША	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+9	заметила	ЗАМЕЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+10	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	11	квазиагент	_	_
+11	огорчение	ОГОРЧЕНИЕ	S	S n inan acc sg	S n inan acc sg	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	решила	РЕШАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	уступить	УСТУПАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	Колюше	КОЛЮША	S	S m anim dat sg	S m anim dat sg	3	2-компл	_	_
+5	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	книгу	КНИГА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+8	уговорила	УГОВАРИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+9	то	ТОТ	A	A - acc sg plen n -	A - acc sg plen n -	11	1-компл	_	_
+10	же	ЖЕ	PART	PART	PART	9	огранич	_	_
+11	сделать	СДЕЛАТЬ	V	V pf - - inf - -	V pf - - inf - -	8	1-компл	_	_
+12	со	СО	PR	PR	PR	11	обст	_	_
+13	своею	СВОЙ	A	A - ins sg plen f -	A - ins sg plen f -	0	ROOT	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	Сережу	СЕРЕЖА	S	S m anim acc sg	S m anim acc sg	14	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	9	обст	_	_
+2	Колюше	КОЛЮША	S	S m anim dat sg	S m anim dat sg	5	дат-субъект	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	подч-союзн	_	_
+4	это	ЭТО	S	S n - nom sg	S n - nom sg	5	предик	_	_
+5	сказано	СКАЗАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	3	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	9	предик	_	_
+8	так	ТАК	ADV	ADV -	ADV -	9	обст	_	_
+9	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+10	рад	РАД	A	A - - sg brev m -	A - - sg brev m -	9	присвяз	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	10	1-компл	_	_
+13	бросился	БРОСАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	подч-союзн	_	_
+14	целовать	ЦЕЛОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	1-компл	_	_
+15	и	И	CONJ	CONJ	CONJ	18	соотнос	_	_
+16	брата	БРАТ	S	S m anim acc sg	S m anim acc sg	14	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+19	сестру	СЕСТРА	S	S f anim acc sg	S f anim acc sg	18	соч-союзн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

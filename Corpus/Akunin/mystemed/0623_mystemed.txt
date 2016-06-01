@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"Так"}
+{"analysis":[{"lex":"погибать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"погиб"}
+{"analysis":[{"lex":"сергей","gr":"S,persn,m,anim=nom,sg"}],"text":"Сергей"}
+{"analysis":[{"lex":"верещагин","gr":"S,famn,m,anim=nom,sg"}],"text":"Верещагин"}
+{"analysis":[{"lex":"брат","gr":"S,m,anim=nom,sg"}],"text":"брат"}
+{"analysis":[{"lex":"знаменитый","gr":"A=acc,sg,plen,m,anim"},{"lex":"знаменитый","gr":"A=gen,sg,plen,m"},{"lex":"знаменитый","gr":"A=gen,sg,plen,n"}],"text":"знаменитого"}
+{"analysis":[{"lex":"художник","gr":"S,m,anim=acc,sg"},{"lex":"художник","gr":"S,m,anim=gen,sg"}],"text":"художника"}

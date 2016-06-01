@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"секретарь","gr":"S,m,anim=nom,sg"}],"text":"Секретарь"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"так"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"думать","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"думал"}
+{"text":"\\s"}
+{"analysis":[{"lex":"только","gr":"PART="}],"text":"Только"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=acc"},{"lex":"я","gr":"SPRO,sg,1p=gen"}],"text":"меня"}
+{"analysis":[{"lex":"находить","gr":"V=praet,sg,indic,n,pf,tran"}],"text":"нашло"}
+{"analysis":[{"lex":"затмение","gr":"S,n,inan=acc,sg"},{"lex":"затмение","gr":"S,n,inan=nom,sg"}],"text":"затмение"}

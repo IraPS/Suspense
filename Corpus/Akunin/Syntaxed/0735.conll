@@ -1,0 +1,17 @@
+1	Через	ЧЕРЕЗ	PR	PR	PR	7	обст	_	_
+2	минуту	МИНУТА	S	S f inan acc sg	S f inan acc sg	1	предл	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	7	квазиагент	_	_
+5	уже	УЖЕ	ADV	ADV -	ADV -	7	огранич	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	видела	ВИДЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+8	–	–	–	–	PUNC	7	1-компл	_	_
+9	скрылся	СКРЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	суб-копр	_	_
+10	за	ЗА	PR	PR	PR	9	обст	_	_
+11	серым	СЕРЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	12	опред	_	_
+12	пологом	ПОЛОГ	S	S m inan ins sg	S m inan ins sg	10	предл	_	_
+13	набиравшего	НАБИРАТЬ	PARTCP	PARTCP ipf praet acc sg plen m act anim	PARTCP ipf praet acc sg plen m act anim	14	опред	_	_
+14	силу	СИЛА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+15	дождя	ДОЖДЬ	S	S m inan gen sg	S m inan gen sg	14	квазиагент	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

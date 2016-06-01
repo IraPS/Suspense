@@ -1,0 +1,39 @@
+1	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	отвернулся	ОТВЕРТЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	задумался	ЗАДУМЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	10	обст	_	_
+8	от	ОТ	PR	PR	PR	7	атриб	_	_
+9	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	8	предл	_	_
+10	покачивая	ПОКАЧИВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	5	обст	_	_
+11	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	10	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	зашла	ЗАЙТИ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	сбоку	СБОКУ	ADV	ADV -	ADV -	2	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	2	обст	_	_
+6	видеть	ВИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	инф-союзн	_	_
+7	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	8	квазиагент	_	_
+8	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	2	об-аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+11	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	15	неакт-компл	_	_
+12	особенно	ОСОБЕННО	ADV	ADV -	ADV -	13	огранич	_	_
+13	примечательного	ПРИМЕЧАТЕЛЬНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	15	1-компл	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	разглядела	РАЗГЛЯДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	соч-союзн	_	_
+16	:	:	:	:	PUNC	15	1-компл	_	_
+17	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	прищурившись	ПРИЩУРИВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	21	обст	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	смотрел	СМОТРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	сент-соч	_	_
+22	на	НА	PR	PR	PR	21	1-компл	_	_
+23	звезду	ЗВЕЗДА	S	S f inan acc sg	S f inan acc sg	22	предл	_	_
+24	Марс	МАРС	S	S m inan nom sg	S m inan nom sg	21	предик	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

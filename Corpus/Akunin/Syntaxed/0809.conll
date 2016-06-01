@@ -1,0 +1,23 @@
+1	Тщетно	ТЩЕТНО	ADV	ADV -	ADV -	3	обст	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+3	силилась	СИЛИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	понять	ПОНИМАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	из-за	ИЗ-ЗА	PR	PR	PR	15	обст	_	_
+7	чего	ЧТО	S	S n - gen sg	S n - gen sg	6	предл	_	_
+8	у	У	PR	PR	PR	15	обст	_	_
+9	императора	ИМПЕРАТОР	S	S m anim gen sg	S m anim gen sg	8	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	14	атриб	_	_
+12	главного	ГЛАВНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	14	опред	_	_
+13	дипломатического	ДИПЛОМАТИЧЕСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	14	опред	_	_
+14	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	10	соч-союзн	_	_
+15	возникли	ВОЗНИКАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	1-компл	_	_
+16	разногласия	РАЗНОГЛАСИЕ	S	S n inan nom pl	S n inan nom pl	15	предик	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Ясность	ЯСНОСТЬ	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+2	внес	ВНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Мизинов	МИЗИН	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

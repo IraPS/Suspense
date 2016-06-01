@@ -1,0 +1,37 @@
+1	Тряхнув	ТРЯХНУТЬ	V	V pf praet - ger - -	V pf praet - ger - -	5	обст	_	_
+2	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Лукан	ЛУКАН	S	S m inan gen sg	S m inan gen sg	5	1-компл	_	_
+5	распрямился	РАСПРЯМЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	потер	ПОТИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	сочин	_	_
+8	скулу	СКУЛА	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Посмотрел	ПОСМОТРЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	на	НА	PR	PR	PR	1	1-компл	_	_
+3	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	на	НА	PR	PR	PR	3	1-компл	_	_
+6	другого	ДРУГОЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	4	1-компл	_	_
+2	больше	МНОГО	ADV	ADV comp	ADV comp	4	обст	_	_
+3	всего	ВСЕ	S	S n - gen sg	S n - gen sg	4	предик	_	_
+4	поразило	ПОРАЖАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	то	ТО	S	S n - nom sg	S n - nom sg	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	эксплет	_	_
+8	о	О	PR	PR	PR	14	2-компл	_	_
+9	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	10	квазиагент	_	_
+10	существовании	СУЩЕСТВОВАНИЕ	S	S n inan loc sg	S n inan loc sg	8	предл	_	_
+11	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	12	опред	_	_
+12	трое	ТРОЕ	NUM	NUM nom - -	NUM nom - -	14	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	казалось	КАЗАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	7	подч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	17	огранич	_	_
+17	забыли	ЗАБЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	сент-соч	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

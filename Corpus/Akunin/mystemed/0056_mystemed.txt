@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"все"}
+{"analysis":[{"lex":"повторять","gr":"V,tran=praet,sg,indic,m,ipf"}],"text":"повторял"}
+{"analysis":[{"lex":"ошта","gr":"S,persn,m,anim=abl,sg"},{"lex":"ошта","gr":"S,persn,m,anim=dat,sg"}],"text":"Оште"}
+{"analysis":[{"lex":"ветнаж","qual":"bastard","gr":"S,m,anim=nom,sg"}],"text":"ветнаж"}
+{"analysis":[{"lex":"ошта","gr":"S,persn,m,anim=abl,sg"},{"lex":"ошта","gr":"S,persn,m,anim=dat,sg"}],"text":"оште"}
+{"analysis":[{"lex":"ветнаж","qual":"bastard","gr":"S,m,anim=nom,sg"}],"text":"ветнаж"}

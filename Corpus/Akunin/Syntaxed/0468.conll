@@ -1,0 +1,93 @@
+1	Вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	5	обст	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	1	аппоз	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+4	Фандорин	ФАНДОРИН	S	S f inan nom sg	S f inan nom sg	3	соч-союзн	_	_
+5	стояли	СТОЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	у	У	PR	PR	PR	5	1-компл	_	_
+7	обочины	ОБОЧИНА	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+8	Плевненской	ПЛЕВНЕНСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	дороги	ДОРОГА	S	S f inan nom pl	S f inan nom pl	5	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	5	сент-соч	_	_
+12	мимо	МИМО	PR	PR	PR	15	обст	_	_
+13	нескончаемой	НЕСКОНЧАЕМЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	14	опред	_	_
+14	вереницей	ВЕРЕНИЦА	S	S f inan ins sg	S f inan ins sg	12	предл	_	_
+15	следовали	СЛЕДОВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	11	соч-союзн	_	_
+16	повозки	ПОВОЗКА	S	S f inan nom pl	S f inan nom pl	15	предик	_	_
+17	с	С	PR	PR	PR	16	1-компл	_	_
+18	ранеными	РАНЕНЫЙ	S	S m anim ins pl	S m anim ins pl	17	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Подсчет	ПОДСЧЕТ	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+2	потерь	ПОТЕРЯ	S	S f inan gen pl	S f inan gen pl	1	квазиагент	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	5	огранич	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	закончился	ЗАКАНЧИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	5	сент-соч	_	_
+8	в	В	PR	PR	PR	10	обст	_	_
+9	госпитале	ГОСПИТАЛЬ	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+10	сказали	СКАЗАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	7	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	10	1-компл	_	_
+13	из	ИЗ	PR	PR	PR	15	1-компл	_	_
+14	строя	СТРОЙ	S	S m inan gen sg	S m inan gen sg	13	предл	_	_
+15	убыло	УБЫВАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	12	подч-союзн	_	_
+16	никак	НИКАК	ADV	ADV -	ADV -	15	обст	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	менее	МАЛО	NUM	NUM - - -	NUM - - -	15	предик	_	_
+19	семи	СЕМЬ	NUM	NUM loc - -	NUM loc - -	18	кратн	_	_
+20	тысяч	ТЫСЯЧА	S	S f inan gen pl	S f inan gen pl	15	1-компл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Говорили	ГОВОРИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+4	отличился	ОТЛИЧАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	подч-союзн	_	_
+5	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	оттянувший	ОТТЯГИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	5	опред	_	_
+8	на	НА	PR	PR	PR	7	3-компл	_	_
+9	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	8	предл	_	_
+10	турецкую	ТУРЕЦКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+11	контратаку	КОНТРАТАКА	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+12	–	–	–	–	PUNC	7	2-компл	_	_
+13	если	ЕСЛИ	CONJ	CONJ	CONJ	7	обст	_	_
+14	б	Б	PART	PART	PART	17	огранич	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	17	квазиагент	_	_
+17	казаки	КАЗАК	S	S m anim nom pl	S m anim nom pl	13	подч-союзн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	разгром	РАЗГРОМ	S	S m inan nom sg	S m inan nom sg	20	предик	_	_
+20	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	сент-соч	_	_
+21	бы	БЫ	PART	PART	PART	20	аналит	_	_
+22	во	ВО	PR	PR	PR	25	колич-огран	_	_
+23	сто	СТО	NUM	NUM acc - -	NUM acc - -	24	количест	_	_
+24	крат	КРАТ	S	S m inan gen pl	S m inan gen pl	22	предл	_	_
+25	горше	ГОРЬКИЙ	A	A comp - - plen - -	A comp - - plen - -	20	присвяз	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Еще	ЕЩЕ	ADV	ADV -	ADV -	2	огранич	_	_
+2	поражались	ПОРАЖАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	турецким	ТУРЕЦКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	4	опред	_	_
+4	артиллеристам	АРТИЛЛЕРИСТ	S	S m anim dat pl	S m anim dat pl	2	2-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	7	предик	_	_
+7	продемонстрировали	ПРОДЕМОНСТРИРОВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	сент-соч	_	_
+8	сатанинскую	САТАНИНСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	меткость	МЕТКОСТЬ	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+10	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+11	расстреляли	РАССТРЕЛИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	10	соч-союзн	_	_
+12	колонны	КОЛОННА	S	S f inan nom pl	S f inan nom pl	11	предик	_	_
+13	еще	ЕЩЕ	ADV	ADV -	ADV -	14	огранич	_	_
+14	на	НА	PR	PR	PR	11	обст	_	_
+15	подходе	ПОДХОД	S	S m inan loc sg	S m inan loc sg	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	прежде чем	прежде чем	CONJ	CONJ	ZERO	11	обст	_	_
+18	батальоны	БАТАЛЬОН	S	S m inan acc pl	S m inan acc pl	20	1-компл	_	_
+19	успели	УСПЕВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	17	подч-союзн	_	_
+20	развернуться	РАЗВЕРТЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	19	1-компл	_	_
+21	для	ДЛЯ	PR	PR	PR	20	обст	_	_
+22	атаки	АТАКА	S	S f inan gen sg	S f inan gen sg	21	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

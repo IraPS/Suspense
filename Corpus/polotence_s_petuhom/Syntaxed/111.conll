@@ -1,0 +1,18 @@
+1	Через	ЧЕРЕЗ	PR	PR	PR	5	обст	_	_
+2	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	3	количест	_	_
+3	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	1	предл	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	у	У	PR	PR	PR	5	присвяз	_	_
+7	зеленой	ЗЕЛЕНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	8	опред	_	_
+8	лампы	ЛАМПА	S	S f inan nom pl	S f inan nom pl	6	предл	_	_
+9	в	В	PR	PR	PR	5	обст	_	_
+10	кабинете	КАБИНЕТ	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+11	докторской	ДОКТОРСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	12	опред	_	_
+12	квартиры	КВАРТИРА	S	S f inan gen sg	S f inan gen sg	10	квазиагент	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Дом	ДОМ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	молчал	МОЛЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"через","gr":"PR="}],"text":"Через"}
+{"analysis":[{"lex":"несколько","gr":"NUM="},{"lex":"несколько","gr":"NUM=nom"},{"lex":"несколько","gr":"NUM=acc,inan"}],"text":"несколько"}
+{"analysis":[{"lex":"минута","gr":"S,f,inan=gen,pl"}],"text":"минут"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"был"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"зеленый","gr":"A=abl,sg,plen,f"},{"lex":"зеленый","gr":"A=dat,sg,plen,f"},{"lex":"зеленый","gr":"A=gen,sg,plen,f"},{"lex":"зеленый","gr":"A=ins,sg,plen,f"}],"text":"зеленой"}
+{"analysis":[{"lex":"лампа","gr":"S,f,inan=acc,pl"},{"lex":"лампа","gr":"S,f,inan=gen,sg"},{"lex":"лампа","gr":"S,f,inan=nom,pl"}],"text":"лампы"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"кабинет","gr":"S,m,inan=abl,sg"}],"text":"кабинете"}
+{"analysis":[{"lex":"докторский","gr":"A=abl,sg,plen,f"},{"lex":"докторский","gr":"A=dat,sg,plen,f"},{"lex":"докторский","gr":"A=gen,sg,plen,f"},{"lex":"докторский","gr":"A=ins,sg,plen,f"}],"text":"докторской"}
+{"analysis":[{"lex":"квартира","gr":"S,f,inan=acc,pl"},{"lex":"квартира","gr":"S,f,inan=gen,sg"},{"lex":"квартира","gr":"S,f,inan=nom,pl"}],"text":"квартиры"}
+{"text":"\\s"}
+{"analysis":[{"lex":"дом","gr":"S,m,inan=acc,sg"},{"lex":"дом","gr":"S,m,inan=nom,sg"}],"text":"Дом"}
+{"analysis":[{"lex":"молчать","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"молчал"}

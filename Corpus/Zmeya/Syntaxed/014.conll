@@ -1,0 +1,25 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Джой	ДЖОЙ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	-	-	-	-	PUNC	2	PUNC	_	_
+5	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	встревоженный	ВСТРЕВОЖИТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	7	опред	_	_
+7	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	-	-	-	-	PUNC	7	PUNC	_	_
+10	на	НА	PR	PR	PR	12	обст	_	_
+11	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	10	предл	_	_
+12	действует	ДЕЙСТВОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	сент-соч	_	_
+13	жара	ЖАРА	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Идемте	ИДТИ	V	V ipf - pl imper - 1p	V ipf - pl imper - 1p	6	1-компл	_	_
+2	обратно	ОБРАТНО	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	там	ТАМ	ADV	ADV -	ADV -	6	обст	_	_
+5	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	6	предик	_	_
+6	будете	БЫТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	тени	ТЕНЬ	S	S f inan loc2 sg	S f inan loc2 sg	7	предл	_	_
+9	!	!	SENT	SENT	SENT	8	PUNC	_	_
+

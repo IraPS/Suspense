@@ -1,0 +1,91 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Ничего	НИЧТО	S	S n - gen sg	S n - gen sg	4	1-компл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	трогали	ТРОГАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	примыкат	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+7	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	как	КАК	ADV	ADV -	ADV -	10	обст	_	_
+10	приказано	ПРИКАЗЫВАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	1	сент-соч	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	 	 	 	 	PUNC	14	2-компл	_	_
+13	–	–	–	–	PUNC	14	1-компл	_	_
+14	докладывал	ДОКЛАДЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	сент-соч	_	_
+15	жандарм	ЖАНДАРМ	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	руководивший	РУКОВОДИТЬ	PARTCP	PARTCP ipf praet acc sg plen m act inan	PARTCP ipf praet acc sg plen m act inan	15	опред	_	_
+18	командой	КОМАНДА	S	S f inan ins sg	S f inan ins sg	17	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	–	–	–	–	PUNC	8	1-компл	_	_
+2	Всего	ВСЕГО	PART	PART	PART	3	огранич	_	_
+3	версту	ВЕРСТА	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+4	до	ДО	PR	PR	PR	1	2-компл	_	_
+5	командного	КОМАНДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	пункта	ПУНКТ	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	доскакал	ДОСКАКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Тут	ТУТ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	ложбина	ЛОЖБИНА	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вот	ВОТ	PART	PART	PART	5	огранич	_	_
+5	никто	НИКТО	S	S m - nom sg	S m - nom sg	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	увидел	УВИДЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	выстрел	ВЫСТРЕЛ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+4	–	–	–	–	PUNC	7	1-компл	_	_
+5	такая	ТАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	пальба	ПАЛЬБА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+7	стояла	СТОЯТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	3	подч-союзн	_	_
+8	…	…	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Картина	КАРТИНА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+2	ясная	ЯСНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	1	опред	_	_
+3	:	:	:	:	PUNC	4	обст	_	_
+4	ударили	УДАРЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	кинжалом	КИНЖАЛ	S	S m inan ins sg	S m inan ins sg	4	обст	_	_
+6	в	В	PR	PR	PR	4	2-компл	_	_
+7	спину	СПИНА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	врасплох	ВРАСПЛОХ	ADV	ADV -	ADV -	11	вводн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	неожиданно	НЕОЖИДАННО	ADV	ADV -	ADV -	4	обст	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Потом	ПОТОМ	ADV	ADV -	ADV -	2	обст	_	_
+2	добили	ДОБИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	пулей	ПУЛЯ	S	S f inan ins sg	S f inan ins sg	2	1-компл	_	_
+4	в	В	PR	PR	PR	2	2-компл	_	_
+5	левый	ЛЕВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	6	опред	_	_
+6	висок	ВИСОК	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+7	–	–	–	–	PUNC	8	опред	_	_
+8	выстрел	ВЫСТРЕЛ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	то	ТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+11	в	В	PR	PR	PR	0	ROOT	_	_
+12	упор	УПОР	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Ну-ну	НУ-НУ	INTJ	INTJ	INTJ	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	7	3-компл	_	_
+5	–	–	–	–	PUNC	7	1-компл	_	_
+6	неопределенно	НЕОПРЕДЕЛЕННО	ADV	ADV -	ADV -	7	обст	_	_
+7	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	релят	_	_
+8	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+9	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	склонившись	СКЛОНЯТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	7	обст	_	_
+12	над	НАД	PR	PR	PR	11	1-компл	_	_
+13	трупом	ТРУП	S	S m inan ins sg	S m inan ins sg	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

@@ -1,0 +1,56 @@
+1	–	–	–	–	PUNC	6	предик	_	_
+2	Вовсе	ВОВСЕ	ADV	ADV -	ADV -	6	огранич	_	_
+3	нет	НЕТ	PART	PART	PART	2	вспом	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	милостивый	МИЛОСТИВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	государь	ГОСУДАРЬ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	лично	ЛИЧНО	ADV	ADV -	ADV -	3	обст	_	_
+3	принял	ПРИНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	телеграмму	ТЕЛЕГРАММА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	из	ИЗ	PR	PR	PR	4	1-компл	_	_
+6	штаба	ШТАБ	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+7	верховного	ВЕРХОВНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	присутствовал	ПРИСУТСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	сочин	_	_
+10	при	ПРИ	PR	PR	PR	9	обст	_	_
+11	расшифровке	РАСШИФРОВКА	S	S f inan dat sg	S f inan dat sg	10	предл	_	_
+12	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+13	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	14	суб-копр	_	_
+14	отнес	ОТНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	соч-союзн	_	_
+15	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	14	1-компл	_	_
+16	господину	ГОСПОДИН	S	S m anim dat sg	S m anim dat sg	14	2-компл	_	_
+17	барону	БАРОН	S	S m anim dat sg	S m anim dat sg	16	аппоз	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Отлично	ОТЛИЧНО	ADV	ADV -	ADV -	2	обст	_	_
+2	помню	ПОМНИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	текст	ТЕКСТ	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+4	:	:	:	:	PUNC	2	1-компл	_	_
+5	«	«	_	_	PUNC	4	PUNC	_	_
+6	Начальнику	НАЧАЛЬНИК	S	S m anim dat sg	S m anim dat sg	4	разъяснит	_	_
+7	Западного	ЗАПАДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	8	опред	_	_
+8	отряда	ОТРЯД	S	S m inan gen sg	S m inan gen sg	6	1-компл	_	_
+9	генерал-лейтенанту	ГЕНЕРАЛ-ЛЕЙТЕНАНТ	S	S m anim dat sg	S m anim dat sg	6	аппоз	_	_
+10	барону	БАРОН	S	S m anim dat sg	S m anim dat sg	9	аппоз	_	_
+11	Криденеру	КРИДЕНЕРА	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Приказываю	ПРИКАЗЫВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	занять	ЗАНИМАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+3	Никополь	НИКОПОЛЬ	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	укрепиться	УКРЕПЛЯТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	4	соч-союзн	_	_
+6	там	ТАМ	ADV	ADV -	ADV -	5	обст	_	_
+7	силами	СИЛА	S	S f inan ins pl	S f inan ins pl	5	обст	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	менее	МЕНЕЕ	ADV	ADV -	ADV -	10	огранич	_	_
+10	дивизии	ДИВИЗИЯ	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Николай	НИКОЛАЙ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+2	»	»	_	_	PUNC	1	PUNC	_	_
+3	.	.	SENT	SENT	SENT	1	PUNC	_	_
+

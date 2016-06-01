@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"ну","gr":"PART="}],"text":"Ну"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=nom"}],"text":"вы"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=inpraes,pl,indic,2p"}],"text":"скажете"}
+{"analysis":[{"lex":"теперь","gr":"ADV="}],"text":"теперь"}
+{"analysis":[{"lex":"михайла","gr":"S,persn,m,anim=nom,sg"}],"text":"Михайла"}
+{"analysis":[{"lex":"александрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Александрович"}

@@ -1,0 +1,49 @@
+1	К	К	PR	PR	PR	7	обст	_	_
+2	вечеру	ВЕЧЕР	S	S m inan dat sg	S m inan dat sg	1	предл	_	_
+3	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	5	количест	_	_
+4	главных	ГЛАВНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	5	опред	_	_
+5	заговорщика	ЗАГОВОРЩИК	S	S m anim gen sg	S m anim gen sg	7	предик	_	_
+6	отлично	ОТЛИЧНО	ADV	ADV -	ADV -	7	обст	_	_
+7	поладили	ПОЛАДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	той	ТОТ	A	A - gen sg plen f -	A - gen sg plen f -	12	опред	_	_
+11	же	ЖЕ	PART	PART	PART	10	огранич	_	_
+12	ночью	НОЧЬ	S	S f inan ins sg	S f inan ins sg	13	обст	_	_
+13	произошел	ПРОИСХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+14	государственный	ГОСУДАРСТВЕННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	15	опред	_	_
+15	переворот	ПЕРЕВОРОТ	S	S m inan acc sg	S m inan acc sg	13	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Флот	ФЛОТ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	блокировал	БЛОКИРОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	дворец	ДВОРЕЦ	S	S m inan nom sg	S m inan nom sg	2	1-компл	_	_
+4	с	С	PR	PR	PR	3	атриб	_	_
+5	моря	МОРЕ	S	S n inan gen sg	S n inan gen sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	начальник	НАЧАЛЬНИК	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+8	столичного	СТОЛИЧНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	гарнизона	ГАРНИЗОН	S	S m inan gen sg	S m inan gen sg	7	1-компл	_	_
+10	заменил	ЗАМЕНЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сент-соч	_	_
+11	караул	КАРАУЛ	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+12	своими	СВОЙ	A	A - ins pl plen - -	A - ins pl plen - -	13	опред	_	_
+13	людьми	ЧЕЛОВЕК	S	S m anim ins pl	S m anim ins pl	10	2-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+16	султана	СУЛТАН	S	S m anim gen sg	S m anim gen sg	15	соч-союзн	_	_
+17	вместе	ВМЕСТЕ	ADV	ADV -	ADV -	25	обст	_	_
+18	с	С	PR	PR	PR	17	1-компл	_	_
+19	матерью	МАТЬ	S	S f anim ins sg	S f anim ins sg	18	предл	_	_
+20	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+21	беременной	БЕРЕМЕННЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	22	опред	_	_
+22	Михри	МИХОРЬ	S	S f inan ins sg	S f inan ins sg	20	соч-союзн	_	_
+23	-	-	-	-	PUNC	22	PUNC	_	_
+24	ханум	ХАНУМ	S	S m inan gen sg	S m inan gen sg	22	квазиагент	_	_
+25	перевезли	ПЕРЕВОЗИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	10	сент-соч	_	_
+26	на	НА	PR	PR	PR	25	обст	_	_
+27	лодке	ЛОДКА	S	S f inan loc sg	S f inan loc sg	26	предл	_	_
+28	во	ВО	PR	PR	PR	25	обст	_	_
+29	дворец	ДВОРЕЦ	S	S m inan acc sg	S m inan acc sg	28	предл	_	_
+30	Ферийе	ФЕРИЙЕ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	29	квазиагент	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+

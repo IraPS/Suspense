@@ -1,0 +1,21 @@
+1	Обе	ОБА	NUM	NUM nom f -	NUM nom f -	0	ROOT	_	_
+2	пожилые	ПОЖИЛОЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	дамы	ДАМА	S	S f anim nom pl	S f anim nom pl	4	предик	_	_
+4	взглянули	ВЗГЛЯДЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	примыкат	_	_
+5	на	НА	PR	PR	PR	4	1-компл	_	_
+6	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	5	предл	_	_
+7	с	С	PR	PR	PR	4	обст	_	_
+8	крайним	КРАЙНИЙ	A	A - ins sg plen n -	A - ins sg plen n -	9	опред	_	_
+9	неодобрением	НЕОДОБРЕНИЕ	S	S n inan ins sg	S n inan ins sg	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	да	ДА	CONJ	CONJ	CONJ	1	сент-соч	_	_
+12	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	16	предик	_	_
+13	и	И	CONJ	CONJ	CONJ	16	соотнос	_	_
+14	сама	САМ	A	A - nom sg plen f -	A - nom sg plen f -	16	суб-копр	_	_
+15	несколько	НЕСКОЛЬКО	ADV	ADV -	ADV -	16	огранич	_	_
+16	опешила	ОПЕШИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	11	соч-союзн	_	_
+17	от	ОТ	PR	PR	PR	16	1-компл	_	_
+18	такого	ТАКОЙ	A	A - gen sg plen m -	A - gen sg plen m -	19	опред	_	_
+19	натиска	НАТИСК	S	S m inan gen sg	S m inan gen sg	17	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

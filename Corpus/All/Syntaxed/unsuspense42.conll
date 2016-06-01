@@ -1,0 +1,49 @@
+1	Иван	ИВАН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	Африканович	АФРИКАНОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	4	обст	_	_
+4	молчал	МОЛЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	трезвел	ТРЕЗВЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	будто	БУДТО	PART	PART	PART	6	огранич	_	_
+6	засыпающий	ЗАСЫПАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act inan	PARTCP ipf inpraes acc sg plen m act inan	7	опред	_	_
+7	петух	ПЕТУХ	S	S m anim nom sg	S m anim nom sg	3	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	клонил	КЛОНИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сочин	_	_
+10	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Сперва	СПЕРВА	ADV	ADV -	ADV -	6	обст	_	_
+2	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	6	дат-субъект	_	_
+3	было	БЫЛО	PART	PART	PART	4	огранич	_	_
+4	немножко	НЕМНОЖКО	ADV	ADV -	ADV -	5	огранич	_	_
+5	стыдно	СТЫДНО	ADV	ADV -	ADV -	6	огранич	_	_
+6	перед	ПЕРЕД	PR	PR	PR	0	ROOT	_	_
+7	Парменом	ПАРМЕН	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	за	ЗА	PR	PR	PR	6	сочин	_	_
+9	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	10	опред	_	_
+10	оплошность	ОПЛОШНОСТЬ	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+13	вскоре	ВСКОРЕ	ADV	ADV -	ADV -	18	обст	_	_
+14	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	18	предик	_	_
+15	как бы	как бы	ADV	ADV -	-	17	огранич	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	нарочно	НАРОЧНО	ADV	ADV -	ADV -	18	обст	_	_
+18	забыл	ЗАБЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	соч-союзн	_	_
+19	про	ПРО	PR	PR	PR	18	2-компл	_	_
+20	эту	ЭТОТ	A	A - acc sg plen f -	A - acc sg plen f -	21	опред	_	_
+21	вину	ВИНА	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	и	И	CONJ	CONJ	CONJ	18	сент-соч	_	_
+24	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	26	предик	_	_
+25	опять	ОПЯТЬ	ADV	ADV -	ADV -	26	обст	_	_
+26	установилось	УСТАНАВЛИВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	23	соч-союзн	_	_
+27	на	НА	PR	PR	PR	26	обст	_	_
+28	своих	СВОЙ	A	A - loc pl plen - -	A - loc pl plen - -	29	опред	_	_
+29	местах	МЕСТО	S	S n inan loc pl	S n inan loc pl	27	предл	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+

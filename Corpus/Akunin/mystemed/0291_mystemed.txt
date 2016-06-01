@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"analysis":[{"lex":"вскидывать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"вскинул"}
+{"analysis":[{"lex":"ладонь","gr":"S,f,inan=abl,sg"},{"lex":"ладонь","gr":"S,f,inan=acc,pl"},{"lex":"ладонь","gr":"S,f,inan=dat,sg"},{"lex":"ладонь","gr":"S,f,inan=gen,sg"},{"lex":"ладонь","gr":"S,f,inan=nom,pl"}],"text":"ладони"}
+{"analysis":[{"lex":"пока","gr":"ADV="}],"text":"Пока"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"ударять","gr":"V,tran=praet,pl,indic,pf"}],"text":"ударили"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"рука","gr":"S,f,inan=dat,pl"}],"text":"рукам"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"пас","gr":"S,m,inan=acc,sg"},{"lex":"пас","gr":"S,m,inan=nom,sg"}],"text":"пас"}
+{"text":"\\s"}
+{"analysis":[{"lex":"старый","gr":"A=acc,pl,plen,inan"},{"lex":"старый","gr":"A=nom,pl,plen"}],"text":"Старые"}
+{"analysis":[{"lex":"сапог","gr":"S,m,inan=acc,pl"},{"lex":"сапог","gr":"S,m,inan=nom,pl"}],"text":"сапоги"}
+{"analysis":[{"lex":"это","gr":"PART="}],"text":"это"}
+{"analysis":[{"lex":"уж","gr":"PART="}],"text":"уж"}
+{"analysis":[{"lex":"чересчур","gr":"ADV="}],"text":"чересчур"}

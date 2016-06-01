@@ -1,0 +1,56 @@
+1	В	В	PR	PR	PR	10	обст	_	_
+2	фойе	ФОЙЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	1	предл	_	_
+3	у	У	PR	PR	PR	2	атриб	_	_
+4	высокого	ВЫСОКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	с	С	PR	PR	PR	1	сочин	_	_
+7	бронзовыми	БРОНЗОВЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	8	опред	_	_
+8	завитушками	ЗАВИТУШКА	S	S f inan ins pl	S f inan ins pl	6	предл	_	_
+9	зеркала	ЗЕРКАЛО	S	S n inan gen sg	S n inan gen sg	8	квазиагент	_	_
+10	остановилась	ОСТАНАВЛИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	приложила	ПРИКЛАДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	сочин	_	_
+13	руку	РУКА	S	S f inan acc sg	S f inan acc sg	12	1-компл	_	_
+14	к	К	PR	PR	PR	12	2-компл	_	_
+15	пылающему	ПЫЛАТЬ	PARTCP	PARTCP ipf inpraes dat sg plen m act -	PARTCP ipf inpraes dat sg plen m act -	14	предл	_	_
+16	лбу	ЛОБ	S	S m inan dat sg	S m inan dat sg	12	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Как	КАК	ADV	ADV -	ADV -	2	обст	_	_
+2	поступить	ПОСТУПАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Подняться	ПОДНИМАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+2	к	К	PR	PR	PR	1	2-компл	_	_
+3	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	2	предл	_	_
+4	в	В	PR	PR	PR	1	3-компл	_	_
+5	номер	НОМЕР	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	запереться	ЗАПИРАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	1	сочин	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	на	НА	PR	PR	PR	12	1-компл	_	_
+10	стук	СТУК	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	отвечать	ОТВЕЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Прости	ПРОЩАТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	14	1-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	1	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	велите	ВЕЛЕТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	1	предик	_	_
+7	казнить	КАЗНИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	1	вводн	_	_
+10	титулярный	ТИТУЛЯРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	советник	СОВЕТНИК	S	S m anim nom sg	S m anim nom sg	9	аппоз	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	годится	ГОДИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+15	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	14	предик	_	_
+16	Суворова	СУВОРОВ	S	S m anim gen sg	S m anim gen sg	15	1-компл	_	_
+17	в	В	PR	PR	PR	15	2-компл	_	_
+18	шпионки	ШПИОНКА	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

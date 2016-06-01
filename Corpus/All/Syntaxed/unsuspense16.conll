@@ -1,0 +1,94 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	объяснять	ОБЪЯСНЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	предик	_	_
+3	Петру	ПЕТР	S	S m anim dat sg	S m anim dat sg	2	2-компл	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	ошибки	ОШИБКА	S	S f inan gen sg	S f inan gen sg	3	1-компл	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	соч-союзн	_	_
+7	просто	ПРОСТО	ADV	ADV -	ADV -	8	огранич	_	_
+8	немыслимо	НЕМЫСЛИМО	ADV	ADV -	ADV -	6	присвяз	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	2	предик	_	_
+2	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	настолько	НАСТОЛЬКО	ADV	ADV -	ADV -	4	огранич	_	_
+4	оригинальны	ОРИГИНАЛЬНЫЙ	A	A - - pl brev - -	A - - pl brev - -	2	присвяз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	подходили	ПОДХОДИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	6	подч-союзн	_	_
+9	ни	НИ	PART	PART	PART	10	огранич	_	_
+10	под	ПОД	PR	PR	PR	8	обст	_	_
+11	одно	ОДИН	A	A - acc sg plen n inan	A - acc sg plen n inan	12	количест	_	_
+12	правило	ПРАВИЛО	S	S n inan acc sg	S n inan acc sg	10	предл	_	_
+13	грамматики	ГРАММАТИКА	S	S f inan gen sg	S f inan gen sg	12	квазиагент	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Ну	НУ	PART	PART	PART	3	вводн	_	_
+2	как	КАК	ADV	ADV -	ADV -	3	обст	_	_
+3	объяснить	ОБЪЯСНЯТЬ	V	V pf - - inf - -	V pf - - inf - -	10	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	почему	ПОЧЕМУ	ADV	ADV -	ADV -	10	обст	_	_
+6	«	«	_	_	PUNC	7	PUNC	_	_
+7	перед	ПЕРЕД	PR	PR	PR	10	обст	_	_
+8	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	7	предл	_	_
+9	»	»	_	_	PUNC	8	PUNC	_	_
+10	надо	НАДО	ADV	ADV -	ADV -	0	ROOT	_	_
+11	писать	ПИСАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	предик	_	_
+12	отдельно	ОТДЕЛЬНО	ADV	ADV -	ADV -	11	обст	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	а	А	CONJ	CONJ	CONJ	12	сочин	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	вместе	ВМЕСТЕ	ADV	ADV -	ADV -	14	соч-союзн	_	_
+17	?	?	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Кроме	КРОМЕ	PR	PR	PR	6	вводн	_	_
+2	того	ТО	S	S n - gen sg	S n - gen sg	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	ошибки	ОШИБКА	S	S f inan gen sg	S f inan gen sg	6	предик	_	_
+6	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	настолько	НАСТОЛЬКО	ADV	ADV -	ADV -	8	огранич	_	_
+8	неожиданны	НЕОЖИДАННЫЙ	A	A - - pl brev - -	A - - pl brev - -	6	присвяз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	8	1-компл	_	_
+11	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	16	1-компл	_	_
+12	очень	ОЧЕНЬ	ADV	ADV -	ADV -	13	огранич	_	_
+13	легко	ЛЕГКО	ADV	ADV -	ADV -	15	обст	_	_
+14	можно	МОЖНО	ADV	ADV -	ADV -	15	присвяз	_	_
+15	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	10	подч-союзн	_	_
+16	пропустить	ПРОПУСКАТЬ	V	V pf - - inf - -	V pf - - inf - -	15	предик	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	несмотря на	несмотря на	PR	PR	ZERO	0	ROOT	_	_
+19	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	20	квазиагент	_	_
+20	грубость	ГРУБОСТЬ	S	S f inan nom sg	S f inan nom sg	18	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+2	«	«	_	_	PUNC	3	PUNC	_	_
+3	дерево	ДЕРЕВО	S	S n inan nom sg	S n inan nom sg	1	аппоз	_	_
+4	»	»	_	_	PUNC	3	PUNC	_	_
+5	пишется	ПИСАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	так	ТАК	ADV	ADV -	ADV -	5	обст	_	_
+7	просто	ПРОСТО	PART	PART	PART	6	огранич	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	6	1-компл	_	_
+10	тут	ТУТ	ADV	ADV -	ADV -	14	обст	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	умышленно	УМЫШЛЕННО	ADV	ADV -	ADV -	11	соч-союзн	_	_
+13	трудно	ТРУДНО	ADV	ADV -	ADV -	14	обст	_	_
+14	сделать	СДЕЛАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+15	ошибку	ОШИБКА	S	S f inan acc sg	S f inan acc sg	14	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Петр	ПЕТР	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+3	на	НА	PR	PR	PR	7	обст	_	_
+4	протяжении	ПРОТЯЖЕНИЕ	S	S n inan loc sg	S n inan loc sg	3	предл	_	_
+5	трех	ТРИ	NUM	NUM loc - -	NUM loc - -	6	количест	_	_
+6	лет	ГОД	S	S m inan gen pl	S m inan gen pl	4	квазиагент	_	_
+7	писал	ПИСАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+8	«	«	_	_	PUNC	9	PUNC	_	_
+9	дерьво	ДЕРЬВО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	7	1-компл	_	_
+10	»	»	_	_	PUNC	9	PUNC	_	_
+11	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

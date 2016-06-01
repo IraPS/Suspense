@@ -1,0 +1,61 @@
+1	Когда	КОГДА	CONJ	CONJ	CONJ	8	обст	_	_
+2	ответа	ОТВЕТ	S	S m inan gen sg	S m inan gen sg	4	предик	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	последовало	ПОСЛЕДОВАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	подч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+7	устало	УСТАЛО	ADV	ADV -	ADV -	8	обст	_	_
+8	потер	ПОТИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	8	1-компл	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	признался	ПРИЗНАВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	соч-союзн	_	_
+12	:	:	:	:	PUNC	15	опред	_	_
+13	–	–	–	–	PUNC	15	пасс-анал	_	_
+14	Трудно	ТРУДНО	ADV	ADV -	ADV -	15	огранич	_	_
+15	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	11	2-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	20	предик	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	очень	ОЧЕНЬ	ADV	ADV -	ADV -	20	огранич	_	_
+20	трудно	ТРУДНО	ADV	ADV -	ADV -	8	сент-соч	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Кругом	КРУГОМ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	бестолковщина	БЕСТОЛКОВЩИНА	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	бордель	БОРДЕЛЬ	S	S m inan nom sg	S m inan nom sg	2	аппоз	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Работников	РАБОТНИК	S	S m anim acc pl	S m anim acc pl	3	1-компл	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	хватает	ХВАТАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	особенно	ОСОБЕННО	ADV	ADV -	ADV -	6	огранич	_	_
+6	дельных	ДЕЛЬНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	3	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+2	ведь	ВЕДЬ	PART	PART	PART	4	огранич	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	рутину	РУТИНА	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+5	на	НА	PR	PR	PR	7	обст	_	_
+6	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	5	предл	_	_
+7	навесить	НАВЕШИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	8	1-компл	_	_
+8	хочу	ХОТЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+2	у	У	PR	PR	PR	6	обст	_	_
+3	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	2	предл	_	_
+4	задачка	ЗАДАЧКА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	из	ИЗ	PR	PR	PR	1	1-компл	_	_
+7	простых	ПРОСТОЙ	A	A - acc pl plen - anim	A - acc pl plen - anim	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	в	В	PR	PR	PR	12	огранич	_	_
+10	самый	САМЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	11	опред	_	_
+11	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+12	для	ДЛЯ	PR	PR	PR	1	обст	_	_
+13	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

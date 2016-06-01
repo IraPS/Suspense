@@ -1,0 +1,2 @@
+{"analysis":[{"lex":"глава","gr":"S,m,anim=nom,sg"}],"text":"Глава"}
+{"analysis":[{"lex":"четырнадцатый","gr":"ANUM=nom,sg,f"}],"text":"четырнадцатая"}

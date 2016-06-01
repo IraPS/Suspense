@@ -1,0 +1,22 @@
+1	–	–	–	–	PUNC	9	1-компл	_	_
+2	Пожалуй	ПОЖАЛУЙ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	двух	ДВА	NUM	NUM loc - -	NUM loc - -	5	количест	_	_
+5	шашек	ШАШКА	S	S f inan gen pl	S f inan gen pl	9	предик	_	_
+6	в	В	PR	PR	PR	5	атриб	_	_
+7	самый	САМЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	8	опред	_	_
+8	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+9	хватит	ХВАТИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Или	ИЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	много	МНОГО	ADV	ADV -	ADV -	1	соч-союзн	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Хорошо	ХОРОШО	ADV	ADV -	ADV -	3	вводн	_	_
+2	бы	БЫ	PART	PART	PART	1	вспом	_	_
+3	мерзавца	МЕРЗАВЕЦ	S	S m anim acc sg	S m anim acc sg	5	1-компл	_	_
+4	живьем	ЖИВЬЕМ	ADV	ADV -	ADV -	5	обст	_	_
+5	взять	ВЗЯТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

@@ -1,0 +1,70 @@
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	в	В	PR	PR	PR	7	обст	_	_
+3	следующую	СЛЕДУЮЩИЙ	A	A - acc sg plen f -	A - acc sg plen f -	4	опред	_	_
+4	секунду	СЕКУНДА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+5	руки	РУКА	S	S f inan acc pl	S f inan acc pl	7	1-компл	_	_
+6	полковника	ПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	5	квазиагент	_	_
+7	разжались	РАЗЖИМАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+8	сами	САМ	A	A - nom pl plen - -	A - nom pl plen - -	9	вспом	_	_
+9	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	7	обст	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Сначала	СНАЧАЛА	ADV	ADV -	ADV -	3	обст	_	_
+2	звонко	ЗВОНКО	ADV	ADV -	ADV -	3	обст	_	_
+3	хлопнуло	ХЛОПНУТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	потом	ПОТОМ	ADV	ADV -	ADV -	7	обст	_	_
+6	сочно	СОЧНО	ADV	ADV -	ADV -	7	обст	_	_
+7	хряпнуло	ХРЯПНУТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	3	сочин	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сент-соч	_	_
+10	Варин	ВАРИН	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+11	обидчик	ОБИДЧИК	S	S m anim nom sg	S m anim nom sg	10	аппоз	_	_
+12	отлетел	ОТЛЕТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+13	к	К	PR	PR	PR	12	1-компл	_	_
+14	стене	СТЕНА	S	S f inan loc sg	S f inan loc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Одна	ОДИН	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+2	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	квазиагент	_	_
+3	щека	ЩЕКА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+4	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	багровой	БАГРОВЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	4	присвяз	_	_
+6	от	ОТ	PR	PR	PR	5	1-компл	_	_
+7	пощечины	ПОЩЕЧИНА	S	S f inan acc pl	S f inan acc pl	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+10	другая	ДРУГОЙ	A	A - nom sg plen f -	A - nom sg plen f -	15	опред	_	_
+11	белой	БЕЛЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	15	опред	_	_
+12	от	ОТ	PR	PR	PR	11	1-компл	_	_
+13	увесистого	УВЕСИСТЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	14	опред	_	_
+14	удара	УДАР	S	S m inan gen sg	S m inan gen sg	12	предл	_	_
+15	кулаком	КУЛАК	S	S m inan ins sg	S m inan ins sg	9	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	В	В	PR	PR	PR	7	обст	_	_
+2	двух	ДВА	NUM	NUM loc - -	NUM loc - -	3	количест	_	_
+3	шагах	ШАГ	S	S m inan loc pl	S m inan loc pl	1	предл	_	_
+4	плечом	ПЛЕЧО	S	S n inan ins sg	S n inan ins sg	7	1-компл	_	_
+5	к	К	PR	PR	PR	4	1-компл	_	_
+6	плечу	ПЛЕЧО	S	S n inan dat sg	S n inan dat sg	5	предл	_	_
+7	стояли	СТОЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+8	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	7	1-компл	_	_
+9	'	'	_	_	PUNC	8	PUNC	_	_
+10	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	8	разъяснит	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	11	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	потряхивал	ПОТРЯХИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	пальцами	ПАЛЕЦ	S	S m inan ins pl	S m inan ins pl	2	обст	_	_
+4	правой	ПРАВЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	5	опред	_	_
+5	руки	РУКА	S	S f inan gen sg	S f inan gen sg	3	атриб	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	гусар	ГУСАР	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+8	потирал	ПОТИРАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сент-соч	_	_
+9	кулак	КУЛАК	S	S m inan acc sg	S m inan acc sg	8	1-компл	_	_
+10	левой	ЛЕВЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	8	2-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

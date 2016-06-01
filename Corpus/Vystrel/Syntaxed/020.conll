@@ -1,0 +1,108 @@
+1	—	—	—	—	PUNC	3	1-компл	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	3	предик	_	_
+3	знаете	ЗНАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	—	—	—	—	PUNC	6	1-компл	_	_
+6	продолжал	ПРОДОЛЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	релят	_	_
+7	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	6	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	—	—	—	—	PUNC	6	1-компл	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	9	1-компл	_	_
+11	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	12	предик	_	_
+12	служил	СЛУЖИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	подч-союзн	_	_
+13	в	В	PR	PR	PR	12	1-компл	_	_
+14	*	*	*	*	PUNC	16	количест	_	_
+15	*	*	*	*	PUNC	16	неакт-компл	_	_
+16	*	*	*	*	PUNC	13	предл	_	_
+17	гусарском	ГУСАРСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	18	опред	_	_
+18	полку	ПОЛК	S	S f inan acc sg	S f inan acc sg	6	длительн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Характер	ХАРАКТЕР	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+2	мой	МОЙ	A	A - nom sg plen m -	A - nom sg plen m -	1	опред	_	_
+3	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	4	2-компл	_	_
+4	известен	ИЗВЕСТНЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+5	:	:	:	:	PUNC	8	1-компл	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	предик	_	_
+7	привык	ПРИВЫКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	1-компл	_	_
+8	первенствовать	ПЕРВЕНСТВОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	но	НО	CONJ	CONJ	CONJ	7	сент-соч	_	_
+11	смолоду	СМОЛОДУ	ADV	ADV -	ADV -	13	обст	_	_
+12	это	ЭТО	S	S n - nom sg	S n - nom sg	13	предик	_	_
+13	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	10	соч-союзн	_	_
+14	во	ВО	PR	PR	PR	13	обст	_	_
+15	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	14	предл	_	_
+16	страстию	СТРАСТИЕ	S	S f inan ins sg	S f inan ins sg	13	присвяз	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	В	В	PR	PR	PR	5	обст	_	_
+2	наше	НАШ	A	A - acc sg plen n inan	A - acc sg plen n inan	3	опред	_	_
+3	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	1	предл	_	_
+4	буйство	БУЙСТВО	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+5	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	в	В	PR	PR	PR	5	присвяз	_	_
+7	моде	МОДА	S	S f inan dat sg	S f inan dat sg	6	предл	_	_
+8	:	:	:	:	PUNC	10	обст	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+10	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	сент-соч	_	_
+11	первым	ПЕРВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	12	опред	_	_
+12	буяном	БУЯН	S	S m anim ins sg	S m anim ins sg	10	присвяз	_	_
+13	по	ПО	PR	PR	PR	12	атриб	_	_
+14	армии	АРМИЯ	S	S f inan loc sg	S f inan loc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	2	предик	_	_
+2	хвастались	ХВАСТАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	пьянством	ПЬЯНСТВО	S	S n inan ins sg	S n inan ins sg	2	1-компл	_	_
+4	:	:	:	:	PUNC	6	обст	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+6	перепил	ПЕРЕПИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	разъяснит	_	_
+7	славного	СЛАВНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	8	опред	_	_
+8	Бурцова	БУРЦОВ	S	S m anim acc sg	S m anim acc sg	6	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	воспетого	ВОСПЕВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	8	опред	_	_
+11	Денисом	ДЕНИС	S	S m anim ins sg	S m anim ins sg	10	2-компл	_	_
+12	Давыдовым	ДАВЫДОВ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Дуэли	ДУЭЛЬ	S	S f inan gen sg	S f inan gen sg	5	предик	_	_
+2	в	В	PR	PR	PR	1	атриб	_	_
+3	нашем	НАШ	A	A - loc sg plen m -	A - loc sg plen m -	4	опред	_	_
+4	полку	ПОЛК	S	S m inan loc2 sg	S m inan loc2 sg	2	предл	_	_
+5	случались	СЛУЧАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	поминутно	ПОМИНУТНО	ADV	ADV -	ADV -	5	обст	_	_
+7	:	:	:	:	PUNC	5	1-компл	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+9	на	НА	PR	PR	PR	11	2-компл	_	_
+10	всех	ВСЕ	S	S - - gen pl	S - - gen pl	9	предл	_	_
+11	бывал	БЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	сент-соч	_	_
+12	или	ИЛИ	CONJ	CONJ	CONJ	11	сочин	_	_
+13	свидетелем	СВИДЕТЕЛЬ	S	S m anim ins sg	S m anim ins sg	12	соч-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	или	ИЛИ	CONJ	CONJ	CONJ	13	сочин	_	_
+16	действующим	ДЕЙСТВУЮЩИЙ	A	A - ins sg plen n -	A - ins sg plen n -	17	опред	_	_
+17	лицом	ЛИЦО	S	S n inan ins sg	S n inan ins sg	15	соч-союзн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Товарищи	ТОВАРИЩ	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+2	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	3	1-компл	_	_
+3	обожали	ОБОЖАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+6	полковые	ПОЛКОВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	7	опред	_	_
+7	командиры	КОМАНДИР	S	S m anim nom pl	S m anim nom pl	10	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	поминутно	ПОМИНУТНО	ADV	ADV -	ADV -	10	обст	_	_
+10	сменяемые	СМЕНЯТЬ	PARTCP	PARTCP ipf inpraes acc pl plen - pass inan	PARTCP ipf inpraes acc pl plen - pass inan	5	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	смотрели	СМОТРЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	сочин	_	_
+13	на	НА	PR	PR	PR	12	2-компл	_	_
+14	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	13	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	как	КАК	CONJ	CONJ	CONJ	13	сравнит	_	_
+17	на	НА	PR	PR	PR	16	сравн-союзн	_	_
+18	необходимое	НЕОБХОДИМЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	17	предл	_	_
+19	зло	ЗЛО	S	S n inan acc sg	S n inan acc sg	12	1-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

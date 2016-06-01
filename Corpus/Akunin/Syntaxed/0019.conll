@@ -1,0 +1,95 @@
+1	Хозяин	ХОЗЯИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	2	1-компл	_	_
+4	на	НА	PR	PR	PR	2	2-компл	_	_
+5	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+7	смачно	СМАЧНО	ADV	ADV -	ADV -	8	обст	_	_
+8	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+9	что-то	ЧТО-ТО	S	S n - nom sg	S n - nom sg	8	1-компл	_	_
+10	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	9	опред	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	отчего	ОТЧЕГО	ADV	ADV -	ADV -	16	обст	_	_
+13	за	ЗА	PR	PR	PR	16	обст	_	_
+14	соседними	СОСЕДНИЙ	A	A - ins pl plen - -	A - ins pl plen - -	15	опред	_	_
+15	столами	СТОЛ	S	S m inan ins pl	S m inan ins pl	13	предл	_	_
+16	заоборачивались	ЗАОБОРАЧИВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	8	изъясн	_	_
+17	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+18	недобро	НЕДОБРО	ADV	ADV -	ADV -	19	обст	_	_
+19	загоготали	ЗАГОГОТАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	17	соч-союзн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	поежилась	ПОЕЖИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	надвинула	НАДВИГАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	соч-союзн	_	_
+5	шапку	ШАПКА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+6	на	НА	PR	PR	PR	4	обст	_	_
+7	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Больше	БОЛЬШЕ	ADV	ADV -	ADV -	8	обст	_	_
+2	в	В	PR	PR	PR	8	обст	_	_
+3	корчме	КОРЧМА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	никто	НИКТО	S	S m - nom sg	S m - nom sg	8	1-компл	_	_
+5	в	В	PR	PR	PR	4	атриб	_	_
+6	шапке	ШАПКА	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	снять	СНИМАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	предик	_	_
+3	нельзя	НЕЛЬЗЯ	ADV	ADV -	ADV -	1	соч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	волосы	ВОЛОС	S	S m inan nom pl	S m inan nom pl	6	предик	_	_
+6	рассыпятся	РАССЫПАТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	3	сент-соч	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	такие	ТАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+3	уж	УЖ	PART	PART	PART	2	огранич	_	_
+4	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	2	предик	_	_
+5	длинные	ДЛИННЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+6	–	–	–	–	PUNC	14	1-компл	_	_
+7	как	КАК	CONJ	CONJ	CONJ	6	сравнит	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сравн-союзн	_	_
+9	положено	ПОЛОЖЕННЫЙ	A	A - - sg brev n -	A - - sg brev n -	8	соч-союзн	_	_
+10	современной	СОВРЕМЕННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	11	опред	_	_
+11	женщине	ЖЕНЩИНА	S	S f anim loc sg	S f anim loc sg	9	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	14	предик	_	_
+14	стриглась	СТРИЧЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+15	коротко	КОРОЧЕ	ADV	ADV -	ADV -	14	обст	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	 	 	 	 	PUNC	14	2-компл	_	_
+18	–	–	–	–	PUNC	0	ROOT	_	_
+19	но	НО	CONJ	CONJ	CONJ	18	сочин	_	_
+20	все же	все же	PART	PART	ZERO	19	огранич	_	_
+21	сразу	СРАЗУ	ADV	ADV -	ADV -	22	обст	_	_
+22	выдадут	ВЫДАВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	19	соч-союзн	_	_
+23	принадлежность	ПРИНАДЛЕЖНОСТЬ	S	S f inan acc sg	S f inan acc sg	22	1-компл	_	_
+24	к	К	PR	PR	PR	22	2-компл	_	_
+25	слабому	СЛАБЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	26	опред	_	_
+26	полу	ПОЛ	S	S m inan dat sg	S m inan dat sg	24	предл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Гадкое	ГАДКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	выдуманное	ВЫДУМЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen n pass -	PARTCP pf praet acc sg plen n pass -	1	сочин	_	_
+4	мужчинами	МУЖЧИНА	S	S m anim ins pl	S m anim ins pl	3	агент	_	_
+5	обозначение	ОБОЗНАЧЕНИЕ	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+6	–	–	–	–	PUNC	0	ROOT	_	_
+7	«	«	_	_	PUNC	6	PUNC	_	_
+8	слабый	СЛАБЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	9	опред	_	_
+9	пол	ПОЛ	S	S m inan acc sg	S m inan acc sg	6	1-компл	_	_
+10	»	»	_	_	PUNC	9	PUNC	_	_
+11	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	увы	УВЫ	INTJ	INTJ	INTJ	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	правильное	ПРАВИЛЬНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	1	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

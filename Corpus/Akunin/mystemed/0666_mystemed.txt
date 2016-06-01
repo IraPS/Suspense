@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"По"}
+{"analysis":[{"lex":"дорога","gr":"S,f,inan=abl,sg"},{"lex":"дорога","gr":"S,f,inan=dat,sg"}],"text":"дороге"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,f,pf"}],"text":"спросила"}
+{"analysis":[{"lex":"неужто","gr":"PART="}],"text":"Неужто"}
+{"analysis":[{"lex":"казанзак","qual":"bastard","gr":"S,m,anim=nom,pl"}],"text":"Казанзаки"}
+{"analysis":[{"lex":"турецкий","gr":"A=acc,sg,plen,m,inan"},{"lex":"турецкий","gr":"A=nom,sg,plen,m"}],"text":"турецкий"}
+{"analysis":[{"lex":"агент","gr":"S,m,anim=nom,sg"}],"text":"агент"}
+{"text":"\\s"}
+{"analysis":[{"lex":"невероятно","gr":"ADV="}],"text":"Невероятно"}
+{"text":"\\s"}
+{"analysis":[{"lex":"конечно","gr":"ADV,parenth="}],"text":"Конечно"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"противный","gr":"A=acc,sg,plen,m,inan"},{"lex":"противный","gr":"A=nom,sg,plen,m"}],"text":"противный"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"все"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}

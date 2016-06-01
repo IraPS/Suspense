@@ -1,0 +1,39 @@
+1	Пармена	ПАРМЕН	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+2	у	У	PR	PR	PR	5	обст	_	_
+3	поленницы	ПОЛЕННИЦА	S	S f inan nom pl	S f inan nom pl	2	предл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Иван	ИВАН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Африканович	АФРИКАНОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	забыл	ЗАБЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	привязать	ПРИВЯЗЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	мерина	МЕРИН	S	S m anim gen sg	S m anim gen sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	11	предик	_	_
+9	давно	ДАВНО	ADV	ADV -	ADV -	11	обст	_	_
+10	уже	УЖЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	топал	ТОПАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	соч-союзн	_	_
+12	домой	ДОМОЙ	ADV	ADV -	ADV -	11	2-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	топал	ТОПАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	сочин	_	_
+15	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	14	суб-копр	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	под	ПОД	PR	PR	PR	14	обст	_	_
+18	белой	БЕЛЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	19	опред	_	_
+19	луной	ЛУНА	S	S f inan ins sg	S f inan ins sg	17	предл	_	_
+20	по	ПО	PR	PR	PR	19	атриб	_	_
+21	тихой	ТИХИЙ	A	A - dat sg plen f -	A - dat sg plen f -	22	опред	_	_
+22	дороге	ДОРОГА	S	S f inan dat sg	S f inan dat sg	20	предл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	и	И	CONJ	CONJ	CONJ	14	сент-соч	_	_
+25	завертка	ЗАВЕРТКА	S	S f inan nom sg	S f inan nom sg	27	предик	_	_
+26	одиноко	ОДИНОКО	ADV	ADV -	ADV -	27	обст	_	_
+27	скрипела	СКРИПЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	24	соч-союзн	_	_
+28	в	В	PR	PR	PR	27	обст	_	_
+29	ночных	НОЧНОЙ	A	A - loc pl plen - -	A - loc pl plen - -	30	опред	_	_
+30	полях	ПОЛЕ	S	S n inan loc pl	S n inan loc pl	28	предл	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+

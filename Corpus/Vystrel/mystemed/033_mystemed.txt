@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"граф","gr":"S,m,anim=nom,sg"}],"text":"Граф"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"графиня","gr":"S,f,anim=nom,sg"}],"text":"графиня"}
+{"analysis":[{"lex":"рад","gr":"A,brev=pl"}],"text":"рады"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,pl,indic,ipf"}],"text":"были"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"разговориться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"разговорился"}

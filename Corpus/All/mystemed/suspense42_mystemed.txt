@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"живой","gr":"A=sg,brev,f"}],"text":"Жива"}
+{"analysis":[{"lex":"как","gr":"CONJ="}],"text":"как"}
+{"analysis":[{"lex":"беззвучный","gr":"A=acc,sg,plen,n"},{"lex":"беззвучный","gr":"A=nom,sg,plen,n"}],"text":"беззвучное"}
+{"analysis":[{"lex":"эхо","gr":"S,n,inan=acc,sg"},{"lex":"эхо","gr":"S,n,inan=nom,sg"}],"text":"эхо"}
+{"analysis":[{"lex":"отзываться","gr":"V,intr=praet,pl,indic,pf"}],"text":"отозвались"}
+{"analysis":[{"lex":"сразу","gr":"ADV="}],"text":"сразу"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"фельдшер","gr":"S,m,anim=nom,sg"}],"text":"фельдшер"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"анна","gr":"S,persn,f,anim=nom,sg"}],"text":"Анна"}
+{"analysis":[{"lex":"николаевна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Николаевна"}

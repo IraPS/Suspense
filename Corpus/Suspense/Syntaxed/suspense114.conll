@@ -1,0 +1,65 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	вскочил	ВСКАКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	2-компл	_	_
+4	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	метнулся	МЕТНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	прошептал	ПРОШЕПТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+9	так	ТАК	ADV	ADV -	ADV -	10	обст	_	_
+10	:	:	:	:	PUNC	8	1-компл	_	_
+11	-	-	-	-	PUNC	10	PUNC	_	_
+12	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	4	вводн	_	_
+2	доктор...	ДОКТОР...	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	вспом	_	_
+4	хотите...	ХОТЕТЬ...	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+5	денег	ДЕНЬГИ	S	S - inan gen pl	S - inan gen pl	4	1-компл	_	_
+6	дам...	ДАВАТЬ...	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	4	2-компл	_	_
+7	денег	ДЕНЬГИ	S	S - inan gen pl	S - inan gen pl	6	1-компл	_	_
+8	берите	БРАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	4	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	какие	КАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	опред	_	_
+11	хотите	ХОТЕТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	4	сочин	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Какие	КАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	хотите	ХОТЕТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Продукты	ПРОДУКТ	S	S m inan nom pl	S m inan nom pl	2	предик	_	_
+2	будем	БЫТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	0	ROOT	_	_
+3	доставлять...	ДОСТАВЛЯТЬ...	V	V ipf - - inf - -	V ipf - - inf - -	2	аналит	_	_
+4	только	ТОЛЬКО	PART	PART	PART	5	огранич	_	_
+5	чтоб	ЧТОБ	CONJ	CONJ	CONJ	2	сравнит	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	померла	ПОМИРАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	сравн-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Только	ТОЛЬКО	PART	PART	PART	4	огранич	_	_
+2	чтоб	ЧТОБ	CONJ	CONJ	CONJ	1	вспом	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	померла	ПОМИРАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Калекой	КАЛЕКА	S	S - anim ins sg	S - anim ins sg	2	предик	_	_
+2	останется	ОСТАВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	пущай	ПУЩАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	2	сент-соч	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Пущай	ПУЩАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	0	ROOT	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	кричал	КРИЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	вводн	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+5	в	В	PR	PR	PR	3	обст	_	_
+6	потолок	ПОТОЛОК	S	S m inan acc sg	S m inan acc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Хватит	ХВАТИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+2	прокормить	ПРОКАРМЛИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	хватит	ХВАТИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	1	сочин	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

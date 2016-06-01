@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"барышня","gr":"S,f,anim=nom,sg"}],"text":"Барышня"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=abl"},{"lex":"вы","gr":"SPRO,pl,2p=acc"},{"lex":"вы","gr":"SPRO,pl,2p=gen"}],"text":"вас"}
+{"analysis":[{"lex":"военный","gr":"S,m,anim=nom,sg"}],"text":"военный"}
+{"analysis":[{"lex":"дожидаться","gr":"V,ipf,intr=inpraes,pl,indic,3p"}],"text":"дожидаются"}
+{"analysis":[{"lex":"выпаливать","gr":"V,tran=praet,sg,indic,f,pf"}],"text":"выпалила"}
+{"analysis":[{"lex":"лушка","qual":"bastard","gr":"S,persn,m,anim=nom,sg"}],"text":"Лушка"}
+{"text":"\\s"}
+{"analysis":[{"lex":"черный","gr":"A=acc,sg,plen,m,inan"},{"lex":"черный","gr":"A=nom,sg,plen,m"}],"text":"Черный"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"ус","gr":"S,m,inan=ins,pl"}],"text":"усами"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"при","gr":"PR="}],"text":"при"}
+{"analysis":[{"lex":"букет","gr":"S,m,inan=abl,sg"}],"text":"букете"}
+{"text":"\\s"}
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=gen"}],"text":"Чего"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=inf"}],"text":"сказать"}
+{"analysis":[{"lex":"то","gr":"PART="}],"text":"то"}

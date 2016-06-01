@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"мизин","qual":"bastard","gr":"S,m,inan=gen,pl"}],"text":"Мизинов"}
+{"analysis":[{"lex":"вскакивать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"вскочил"}
+{"analysis":[{"lex":"громко","gr":"ADV="}],"text":"громко"}
+{"analysis":[{"lex":"топать","gr":"V,ipf,intr=inpraes,ger"}],"text":"топая"}
+{"analysis":[{"lex":"проходиться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"прошелся"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"комната","gr":"S,f,inan=abl,sg"},{"lex":"комната","gr":"S,f,inan=dat,sg"}],"text":"комнате"}

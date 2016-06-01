@@ -1,0 +1,3 @@
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"Все"}
+{"analysis":[{"lex":"снова","gr":"ADV="}],"text":"снова"}
+{"analysis":[{"lex":"замирать","gr":"V,intr=praet,pl,indic,pf"}],"text":"замерли"}

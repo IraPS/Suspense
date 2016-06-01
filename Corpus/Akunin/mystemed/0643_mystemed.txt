@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"зато","gr":"CONJ="}],"text":"Зато"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"стол","gr":"S,m,inan=ins,sg"}],"text":"столом"}
+{"analysis":[{"lex":"грозно","gr":"ADV="}],"text":"грозно"}
+{"analysis":[{"lex":"насупливаться","gr":"V,intr=praet,ger,pf"}],"text":"насупившись"}
+{"analysis":[{"lex":"сидеть","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"сидел"}
+{"analysis":[{"lex":"сам","gr":"APRO=acc,sg,m,inan"},{"lex":"сам","gr":"APRO=nom,sg,m"}],"text":"сам"}
+{"analysis":[{"lex":"лаврентий","gr":"S,persn,m,anim=nom,sg"}],"text":"Лаврентий"}
+{"analysis":[{"lex":"аркадьевич","gr":"S,patrn,m,anim=nom,sg"}],"text":"Аркадьевич"}
+{"analysis":[{"lex":"мизин","qual":"bastard","gr":"S,m,inan=gen,pl"}],"text":"Мизинов"}

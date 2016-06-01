@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"Не"}
+{"analysis":[{"lex":"до","gr":"PR="}],"text":"до"}
+{"analysis":[{"lex":"такой","gr":"APRO=abl,sg,f"},{"lex":"такой","gr":"APRO=dat,sg,f"},{"lex":"такой","gr":"APRO=gen,sg,f"},{"lex":"такой","gr":"APRO=ins,sg,f"},{"lex":"такой","gr":"APRO=acc,sg,m,inan"},{"lex":"такой","gr":"APRO=nom,sg,m"}],"text":"такой"}
+{"analysis":[{"lex":"степень","gr":"S,f,inan=abl,sg"},{"lex":"степень","gr":"S,f,inan=acc,pl"},{"lex":"степень","gr":"S,f,inan=dat,sg"},{"lex":"степень","gr":"S,f,inan=gen,sg"},{"lex":"степень","gr":"S,f,inan=nom,pl"}],"text":"степени"}
+{"analysis":[{"lex":"невесело","gr":"ADV="}],"text":"невесело"}
+{"analysis":[{"lex":"хмыкнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"хмыкнул"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Фандорин"}

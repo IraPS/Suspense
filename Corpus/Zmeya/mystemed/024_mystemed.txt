@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"бросать","gr":"V=pl,imper,2p,pf"}],"text":"Бросьте"}
+{"analysis":[{"lex":"бросать","gr":"V=pl,imper,2p,pf"}],"text":"бросьте"}
+{"analysis":[{"lex":"вдруг","gr":"ADV="}],"text":"вдруг"}
+{"analysis":[{"lex":"закричать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"закричал"}
+{"analysis":[{"lex":"кольбер","gr":"S,famn,m,anim=nom,sg"}],"text":"Кольбер"}

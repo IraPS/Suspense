@@ -1,0 +1,202 @@
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+3	усердно	УСЕРДНО	ADV	ADV -	ADV -	4	обст	_	_
+4	работаете	РАБОТАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	1	подч-союзн	_	_
+5	по	ПО	PR	PR	PR	4	обст	_	_
+6	восемь	ВОСЕМЬ	NUM	NUM acc - -	NUM acc - -	7	количест	_	_
+7	часов	ЧАС	S	S m inan gen pl	S m inan gen pl	5	предл	_	_
+8	в	В	PR	PR	PR	7	распред	_	_
+9	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	то	ТО	CONJ	CONJ	CONJ	1	соотнос	_	_
+12	вполне	ВПОЛНЕ	ADV	ADV -	ADV -	13	огранич	_	_
+13	вероятно	ВЕРОЯТНО	ADV	ADV -	ADV -	0	ROOT	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	что	ЧТО	CONJ	CONJ	CONJ	13	1-компл	_	_
+16	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	18	предик	_	_
+17	в конце концов	в конце концов	ADV	ADV -	-	18	обст	_	_
+18	сделают	СДЕЛАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	15	подч-союзн	_	_
+19	начальником	НАЧАЛЬНИК	S	S m anim ins sg	S m anim ins sg	18	присвяз	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	и	И	CONJ	CONJ	CONJ	18	сент-соч	_	_
+22	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	23	предик	_	_
+23	будете	БЫТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	21	соч-союзн	_	_
+24	сидеть	СИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	23	аналит	_	_
+25	в	В	PR	PR	PR	24	обст	_	_
+26	офисе	ОФИС	S	S m inan loc sg	S m inan loc sg	25	предл	_	_
+27	целыми	ЦЕЛЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	28	опред	_	_
+28	сутками	СУТКИ	S	S - inan ins pl	S - inan ins pl	24	1-компл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	5	обст	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	слышу	СЛЫШАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	подч-союзн	_	_
+4	фразу	ФРАЗА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	:	:	:	:	PUNC	0	ROOT	_	_
+6	«	«	_	_	PUNC	5	PUNC	_	_
+7	Надо	НАДО	ADV	ADV -	ADV -	8	обст	_	_
+8	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	1-компл	_	_
+9	карьеру	КАРЬЕРА	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+10	»	»	_	_	PUNC	9	PUNC	_	_
+11	,	,	,	,	PUNC	9	PUNC	_	_
+12	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	13	1-компл	_	_
+13	вспоминается	ВСПОМИНАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	9	релят	_	_
+14	старый	СТАРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	15	опред	_	_
+15	анекдот	АНЕКДОТ	S	S m inan nom sg	S m inan nom sg	13	предик	_	_
+16	о	О	PR	PR	PR	15	1-компл	_	_
+17	европейце	ЕВРОПЕЕЦ	S	S m anim loc sg	S m anim loc sg	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	20	предик	_	_
+20	увидел	УВИДЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	17	релят	_	_
+21	на	НА	PR	PR	PR	20	обст	_	_
+22	пляже	ПЛЯЖ	S	S m inan loc sg	S m inan loc sg	21	предл	_	_
+23	мирно	МИРНО	ADV	ADV -	ADV -	24	обст	_	_
+24	спящего	СПАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act anim	PARTCP ipf inpraes acc sg plen m act anim	20	1-компл	_	_
+25	под	ПОД	PR	PR	PR	24	атриб	_	_
+26	пальмой	ПАЛЬМА	S	S f inan ins sg	S f inan ins sg	25	предл	_	_
+27	туземца	ТУЗЕМЕЦ	S	S m anim gen sg	S m anim gen sg	26	квазиагент	_	_
+28	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+29	начал	НАЧИНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	28	соч-союзн	_	_
+30	читать	ЧИТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	29	1-компл	_	_
+31	парню	ПАРЕНЬ	S	S m anim dat sg	S m anim dat sg	30	2-компл	_	_
+32	нотации	НОТАЦИЯ	S	S f inan acc pl	S f inan acc pl	30	1-компл	_	_
+33	:	:	SENT	SENT	SENT	32	PUNC	_	_
+
+1	–	–	–	–	PUNC	13	1-компл	_	_
+2	Неужели	НЕУЖЕЛИ	PART	PART	PART	3	огранич	_	_
+3	тебе	ТЫ	SPRO	SPRO sg 2p - loc	SPRO sg 2p - loc	1	сочин	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	молодому	МОЛОДОЙ	A	A - dat sg plen m -	A - dat sg plen m -	3	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	полному	ПОЛНЫЙ	A	A - dat sg plen n -	A - dat sg plen n -	8	опред	_	_
+8	сил	СИЛА	S	S f inan gen pl	S f inan gen pl	5	сочин	_	_
+9	мужчине	МУЖЧИНА	S	S m anim dat sg	S m anim dat sg	3	2-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	стыдно	СТЫДНО	ADV	ADV -	ADV -	13	обст	_	_
+13	валяться	ВАЛЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+14	на	НА	PR	PR	PR	13	2-компл	_	_
+15	песке	ПЕСОК	S	S m inan loc sg	S m inan loc sg	14	предл	_	_
+16	?!	?!	SENT	SENT	SENT	15	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	что	ЧТО	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+4	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	соч-союзн	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	удивился	УДИВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	абориген	АБОРИГЕН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	3-компл	_	_
+2	Иди	ИДТИ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	7	обст	_	_
+3	учиться	УЧИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	–	–	–	–	PUNC	7	предик	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	замедлил	ЗАМЕДЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	дать	ДАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	7	1-компл	_	_
+9	ответ	ОТВЕТ	S	S m inan acc sg	S m inan acc sg	8	1-компл	_	_
+10	зануда	ЗАНУДА	S	S - anim nom sg	S - anim nom sg	8	2-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Зачем	ЗАЧЕМ	ADV	ADV -	ADV -	1	обст	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	поинтересовался	ПОИНТЕРЕСОВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	житель	ЖИТЕЛЬ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	страны	СТРАНА	S	S f inan gen sg	S f inan gen sg	3	1-компл	_	_
+5	кокосов	КОКОСОВ	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	2-компл	_	_
+2	Получишь	ПОЛУЧАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	5	обст	_	_
+3	диплом	ДИПЛОМ	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	найдешь	НАХОДИТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+6	отличную	ОТЛИЧНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	7	опред	_	_
+7	работу	РАБОТА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	–	–	–	–	PUNC	10	предик	_	_
+10	нарисовал	НАРИСОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	сент-соч	_	_
+11	радужную	РАДУЖНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	12	опред	_	_
+12	перспективу	ПЕРСПЕКТИВА	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+13	белый	БЕЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	10	сент-соч	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Зачем	ЗАЧЕМ	ADV	ADV -	ADV -	1	обст	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	понял	ПОНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	юноша	ЮНОША	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Будешь	БЫТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	0	ROOT	_	_
+3	откладывать	ОТКЛАДЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	аналит	_	_
+4	деньги	ДЕНЬГИ	S	S - inan acc pl	S - inan acc pl	3	1-компл	_	_
+5	на	НА	PR	PR	PR	3	2-компл	_	_
+6	старость	СТАРОСТЬ	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	–	–	–	–	PUNC	10	1-компл	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	успокаивался	УСПОКАИВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	релят	_	_
+11	«	«	_	_	PUNC	12	PUNC	_	_
+12	учитель	УЧИТЕЛЬ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+13	»	»	_	_	PUNC	12	PUNC	_	_
+14	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Зачем	ЗАЧЕМ	ADV	ADV -	ADV -	1	обст	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	упрямо	УПРЯМО	ADV	ADV -	ADV -	3	обст	_	_
+3	талдычил	ТАЛДЫЧИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	парень	ПАРЕНЬ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Накопишь	НАКАПЛИВАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+3	капитал	КАПИТАЛ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	уедешь	УЕЗЖАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	2	сент-соч	_	_
+6	к	К	PR	PR	PR	5	2-компл	_	_
+7	теплому	ТЕПЛЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	8	опред	_	_
+8	морю	МОРЕ	S	S n inan dat sg	S n inan dat sg	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	ляжешь	ЛОЖИТЬСЯ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	5	сент-соч	_	_
+11	под	ПОД	PR	PR	PR	10	обст	_	_
+12	пальмой	ПАЛЬМА	S	S f inan ins sg	S f inan ins sg	11	предл	_	_
+13	и	И	CONJ	CONJ	CONJ	10	сент-соч	_	_
+14	будешь	БЫТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	13	соч-союзн	_	_
+15	отдыхать	ОТДЫХАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	14	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	–	–	–	–	PUNC	19	1-несобст-компл	_	_
+18	снисходительно	СНИСХОДИТЕЛЬНО	ADV	ADV -	ADV -	19	обст	_	_
+19	завершил	ЗАВЕРШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+20	поучение	ПОУЧЕНИЕ	S	S n inan acc sg	S n inan acc sg	19	1-компл	_	_
+21	ментор	МЕНТОР	S	S m anim nom sg	S m anim nom sg	19	предик	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Так	ТАК	ADV	ADV -	ADV -	5	обст	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+4	уже	УЖЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	лежу	ЛЕЖАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+6	под	ПОД	PR	PR	PR	5	обст	_	_
+7	пальмой	ПАЛЬМА	S	S f inan ins sg	S f inan ins sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	–	–	–	–	PUNC	5	вводн	_	_
+10	засмеялся	ЗАСМЕЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	вводн	_	_
+11	островитянин	ОСТРОВИТЯНИН	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

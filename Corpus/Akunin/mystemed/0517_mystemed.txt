@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"румын","gr":"S,m,anim=acc,pl"},{"lex":"румын","gr":"S,m,anim=gen,pl"},{"lex":"румын","gr":"S,m,anim=nom,sg"}],"text":"Румын"}
+{"analysis":[{"lex":"выпивать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"выпил"}
+{"analysis":[{"lex":"коньяк","gr":"S,m,inan=dat,sg"},{"lex":"коньяк","gr":"S,m,inan=part,sg"}],"text":"коньяку"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"смерить","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"смерил"}
+{"analysis":[{"lex":"оба","gr":"NUM=gen,m"},{"lex":"оба","gr":"NUM=gen,n"},{"lex":"оба","gr":"NUM=abl,m"},{"lex":"оба","gr":"NUM=abl,n"},{"lex":"оба","gr":"NUM=acc,m,anim"}],"text":"обоих"}
+{"analysis":[{"lex":"мрачный","gr":"A=dat,pl,plen"},{"lex":"мрачный","gr":"A=ins,sg,plen,m"},{"lex":"мрачный","gr":"A=ins,sg,plen,n"}],"text":"мрачным"}
+{"analysis":[{"lex":"взгляд","gr":"S,m,inan=ins,sg"}],"text":"взглядом"}

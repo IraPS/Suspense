@@ -1,0 +1,230 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	на	НА	PR	PR	PR	7	обст	_	_
+3	рассвете	РАССВЕТ	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	30	30	NUM	NUM - - -	NUM - - -	5	количест	_	_
+5	августа	АВГУСТ	S	S m inan gen sg	S m inan gen sg	3	компл-аппоз	_	_
+6	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	7	1-компл	_	_
+7	разбудил	РАЗБУДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+8	чудовищный	ЧУДОВИЩНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	грохот	ГРОХОТ	S	S m inan nom sg	S m inan nom sg	7	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	1-компл	_	_
+2	началась	НАЧИНАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	первая	ПЕРВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	канонада	КАНОНАДА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Накануне	НАКАНУНЕ	ADV	ADV -	ADV -	4	обст	_	_
+2	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	объяснил	ОБЪЯСНЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	помимо	ПОМИМО	PR	PR	PR	12	обст	_	_
+8	обычной	ОБЫЧНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	10	опред	_	_
+9	артиллерийской	АРТИЛЛЕРИЙСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	10	опред	_	_
+10	подготовки	ПОДГОТОВКА	S	S f inan gen sg	S f inan gen sg	7	предл	_	_
+11	турок	ТУРОК	S	S m anim gen pl	S m anim gen pl	10	1-компл	_	_
+12	подвергнут	ПОДВЕРГАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	6	подч-союзн	_	_
+13	психологическому	ПСИХОЛОГИЧЕСКИЙ	A	A - dat sg plen n -	A - dat sg plen n -	14	опред	_	_
+14	воздействию	ВОЗДЕЙСТВИЕ	S	S n inan dat sg	S n inan dat sg	12	2-компл	_	_
+15	–	–	–	–	PUNC	18	опред	_	_
+16	это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	18	опред	_	_
+17	новое	НОВЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	18	опред	_	_
+18	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+19	в	В	PR	PR	PR	18	атриб	_	_
+20	военном	ВОЕННЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	21	опред	_	_
+21	искусстве	ИСКУССТВО	S	S n inan loc sg	S n inan loc sg	19	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	С	С	PR	PR	PR	0	ROOT	_	_
+2	первым	ПЕРВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	3	опред	_	_
+3	лучом	ЛУЧ	S	S m inan ins sg	S m inan ins sg	1	предл	_	_
+4	солнца	СОЛНЦЕ	S	S n inan gen sg	S n inan gen sg	3	квазиагент	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	когда	КОГДА	CONJ	CONJ	CONJ	1	обст	_	_
+7	правоверным	ПРАВОВЕРНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	суб-копр	_	_
+8	пора	ПОРА	ADV	ADV -	ADV -	9	обст	_	_
+9	совершать	СОВЕРШАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	подч-союзн	_	_
+10	намаз	НАМАЗ	S	S m inan acc sg	S m inan acc sg	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	триста	ТРИСТА	NUM	NUM acc - -	NUM acc - -	16	количест	_	_
+13	русских	РУССКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	16	опред	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	румынских	РУМЫНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	14	соч-союзн	_	_
+16	орудий	ОРУДИЕ	S	S n inan gen pl	S n inan gen pl	17	1-компл	_	_
+17	откроют	ОТКРЫВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	10	релят	_	_
+18	ураганный	УРАГАННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	19	опред	_	_
+19	огонь	ОГОНЬ	S	S m inan nom sg	S m inan nom sg	17	предик	_	_
+20	по	ПО	PR	PR	PR	19	атриб	_	_
+21	турецким	ТУРЕЦКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	22	опред	_	_
+22	укреплениям	УКРЕПЛЕНИЕ	S	S m inan ins sg	S m inan ins sg	20	предл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	а	А	CONJ	CONJ	CONJ	1	сент-соч	_	_
+25	ровно	РОВНО	ADV	ADV -	ADV -	26	огранич	_	_
+26	в	В	PR	PR	PR	29	обст	_	_
+27	девять	ДЕВЯТЬ	NUM	NUM acc - -	NUM acc - -	28	количест	_	_
+28	канонада	КАНОНАДА	S	S m inan gen sg	S m inan gen sg	26	предл	_	_
+29	прекратится	ПРЕКРАЩАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	24	соч-союзн	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	паша	ПАША	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	ожидая	ОЖИДАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	обст	_	_
+6	атаки	АТАКА	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	пошлет	ПОСЫЛАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+9	на	НА	PR	PR	PR	8	1-компл	_	_
+10	передовые	ПЕРЕДОВОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	11	опред	_	_
+11	позиции	ПОЗИЦИЯ	S	S f inan acc pl	S f inan acc pl	9	предл	_	_
+12	свежие	СВЕЖИЙ	A	A - nom pl plen - -	A - nom pl plen - -	13	опред	_	_
+13	войска	ВОЙСКО	S	S n inan nom pl	S n inan nom pl	8	сочин	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	но	НО	CONJ	CONJ	CONJ	8	сент-соч	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	тут-то	ТУТ-ТО	ADV	ADV -	ADV -	18	обст	_	_
+18	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	15	соч-союзн	_	_
+19	:	:	:	:	PUNC	22	1-компл	_	_
+20	союзники	СОЮЗНИК	S	S m anim nom pl	S m anim nom pl	22	предик	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	двинутся	ДВИНУТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	18	присвяз	_	_
+23	с	С	PR	PR	PR	22	2-компл	_	_
+24	места	МЕСТО	S	S n inan gen sg	S n inan gen sg	23	предл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+27	над	НАД	PR	PR	PR	26	соч-союзн	_	_
+28	плевненскими	ПЛЕВНЕНСКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	29	опред	_	_
+29	просторами	ПРОСТОР	S	S m inan ins pl	S m inan ins pl	27	предл	_	_
+30	воцарится	ВОЦАРЯТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	18	сент-соч	_	_
+31	тишина	ТИШИНА	S	S f inan nom sg	S f inan nom sg	30	предик	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	В	В	PR	PR	PR	8	обст	_	_
+2	одиннадцать	ОДИННАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	3	количест	_	_
+3	ноль	НОЛЬ	S	S m inan nom sg	S m inan nom sg	1	предл	_	_
+4	ноль	НОЛЬ	S	S m inan nom sg	S m inan nom sg	8	предик	_	_
+5	на	НА	PR	PR	PR	8	обст	_	_
+6	недоумевающих	НЕДОУМЕВАТЬ	PARTCP	PARTCP ipf inpraes loc pl plen - act -	PARTCP ipf inpraes loc pl plen - act -	7	опред	_	_
+7	турок	ТУРОК	S	S m anim gen pl	S m anim gen pl	5	предл	_	_
+8	обрушится	ОБРУШИВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+9	новый	НОВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	опред	_	_
+10	шквал	ШКВАЛ	S	S m inan nom sg	S m inan nom sg	8	предик	_	_
+11	огня	ОГОНЬ	S	S m inan gen sg	S m inan gen sg	10	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	предик	_	_
+14	продлится	ПРОДЛИТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	8	изъясн	_	_
+15	до	ДО	PR	PR	PR	14	1-компл	_	_
+16	часа	ЧАС	S	S m inan gen sg	S m inan gen sg	15	предл	_	_
+17	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	16	квазиагент	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Далее	ДАЛЕЕ	ADV	ADV -	ADV -	4	обст	_	_
+2	–	–	–	–	PUNC	4	предик	_	_
+3	опять	ОПЯТЬ	ADV	ADV -	ADV -	4	огранич	_	_
+4	затишье	ЗАТИШЬЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Противник	ПРОТИВНИК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	уносит	УНОСИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	раненых	РАНЕНЫЙ	S	S m anim acc pl	S m anim acc pl	2	1-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	убитых	УБИТЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	4	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	наскоро	НАСКОРО	ADV	ADV -	ADV -	8	обст	_	_
+8	латает	ЛАТАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	сочин	_	_
+9	разрушения	РАЗРУШЕНИЕ	S	S n inan gen sg	S n inan gen sg	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	подкатывает	ПОДКАТЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	8	сочин	_	_
+12	новые	НОВЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	13	опред	_	_
+13	пушки	ПУШКА	S	S f inan acc pl	S f inan acc pl	11	1-компл	_	_
+14	взамен	ВЗАМЕН	PR	PR	PR	11	обст	_	_
+15	разбитых	РАЗБИВАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	20	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	а	А	CONJ	CONJ	CONJ	15	сочин	_	_
+18	штурма	ШТУРМ	S	S m inan gen sg	S m inan gen sg	17	соч-союзн	_	_
+19	все	ВСЕ	S	S - - acc pl	S - - acc pl	20	предик	_	_
+20	нет	НЕТ	ADV	ADV -	ADV -	14	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	У	У	PR	PR	PR	8	обст	_	_
+2	турков	ТУРКОВ	S	S m anim gen pl	S m anim gen pl	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	которые	КОТОРЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	8	2-компл	_	_
+5	крепкими	КРЕПКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	6	опред	_	_
+6	нервами	НЕРВ	S	S m inan ins pl	S m inan ins pl	8	1-компл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	отличаются	ОТЛИЧАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	как	КАК	ADV	ADV -	ADV -	12	огранич	_	_
+12	известно	ИЗВЕСТНО	ADV	ADV -	ADV -	14	вводн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	способны	СПОСОБНЫЙ	A	A - - pl brev - -	A - - pl brev - -	9	соч-союзн	_	_
+15	на	НА	PR	PR	PR	14	1-компл	_	_
+16	минутный	МИНУТНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	17	опред	_	_
+17	порыв	ПОРЫВ	S	S m inan acc sg	S m inan acc sg	15	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	но	НО	CONJ	CONJ	CONJ	8	сент-соч	_	_
+20	пасуют	ПАСОВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	19	соч-союзн	_	_
+21	перед	ПЕРЕД	PR	PR	PR	20	обст	_	_
+22	любым	ЛЮБОЙ	A	A - ins sg plen m -	A - ins sg plen m -	24	опред	_	_
+23	продолжительным	ПРОДОЛЖИТЕЛЬНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	24	опред	_	_
+24	усилием	УСИЛИЕ	S	S n inan ins sg	S n inan ins sg	21	предл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	натурально	НАТУРАЛЬНО	ADV	ADV -	ADV -	27	обст	_	_
+27	начинается	НАЧИНАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	20	сент-соч	_	_
+28	замешательство	ЗАМЕШАТЕЛЬСТВО	S	S n inan acc sg	S n inan acc sg	27	1-компл	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	а	А	CONJ	CONJ	CONJ	27	сент-соч	_	_
+31	возможно	ВОЗМОЖНО	ADV	ADV -	ADV -	0	ROOT	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	и	И	CONJ	CONJ	CONJ	31	сочин	_	_
+34	паника	ПАНИКА	S	S f inan nom sg	S f inan nom sg	33	соч-союзн	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+
+1	На	НА	PR	PR	PR	4	обст	_	_
+2	передовую	ПЕРЕДОВАЯ	S	S f inan acc sg	S f inan acc sg	1	предл	_	_
+3	наверняка	НАВЕРНЯКА	ADV	ADV -	ADV -	4	обст	_	_
+4	съезжается	СЪЕЗЖАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	7	опред	_	_
+6	басурманское	БАСУРМАНСКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	7	опред	_	_
+7	начальство	НАЧАЛЬСТВО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	смотрит	СМОТРЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	сент-соч	_	_
+10	в	В	PR	PR	PR	9	1-компл	_	_
+11	бинокли	БИНОКЛЬ	S	S m inan nom pl	S m inan nom pl	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	15	1-компл	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	понимает	ПОНИМАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	9	сочин	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	тут	ТУТ	ADV	ADV -	ADV -	9	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	в	В	PR	PR	PR	2	сочин	_	_
+5	четырнадцать	ЧЕТЫРНАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	6	колич-вспом	_	_
+6	тридцать	ТРИДЦАТЬ	NUM	NUM acc - -	NUM acc - -	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	противника	ПРОТИВНИК	S	S m anim gen sg	S m anim gen sg	4	атриб	_	_
+9	накрывает	НАКРЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+10	третья	ТРЕТИЙ	A	A - nom sg plen f -	A - nom sg plen f -	11	опред	_	_
+11	волна	ВОЛНА	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+12	канонады	КАНОНАДА	S	S f inan gen sg	S f inan gen sg	11	квазиагент	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	а	А	CONJ	CONJ	CONJ	9	сент-соч	_	_
+15	еще	ЕЩЕ	ADV	ADV -	ADV -	16	огранич	_	_
+16	через	ЧЕРЕЗ	PR	PR	PR	22	обст	_	_
+17	полчаса	ПОЛЧАСА	S	S m inan acc sg	S m inan acc sg	16	предл	_	_
+18	на	НА	PR	PR	PR	16	сочин	_	_
+19	измученных	ИЗМУЧЕННЫЙ	A	A - acc pl plen - anim	A - acc pl plen - anim	20	опред	_	_
+20	ожиданием	ОЖИДАНИЕ	S	S n inan ins sg	S n inan ins sg	18	предл	_	_
+21	турок	ТУРОК	S	S m anim gen pl	S m anim gen pl	20	квазиагент	_	_
+22	устремляются	УСТРЕМЛЯТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	14	соч-союзн	_	_
+23	штурмовые	ШТУРМОВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	24	опред	_	_
+24	колонны	КОЛОННА	S	S f inan nom pl	S f inan nom pl	22	предик	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

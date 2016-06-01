@@ -1,0 +1,76 @@
+1	Временный	ВРЕМЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	штаб	ШТАБ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+3	находился	НАХОДИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	1-компл	_	_
+5	здании	ЗДАНИЕ	S	S n inan loc sg	S n inan loc sg	4	предл	_	_
+6	вокзала	ВОКЗАЛ	S	S m inan gen sg	S m inan gen sg	5	квазиагент	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Еще	ЕЩЕ	ADV	ADV -	ADV -	2	огранич	_	_
+2	издали	ИЗДАЛИ	ADV	ADV -	ADV -	4	обст	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+4	услышала	УСЛЫШАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	бравурную	БРАВУРНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	музыку	МУЗЫКА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+7	–	–	–	–	PUNC	9	опред	_	_
+8	духовой	ДУХОВОЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	оркестр	ОРКЕСТР	S	S m inan nom sg	S m inan nom sg	10	предик	_	_
+10	играл	ИГРАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сент-соч	_	_
+11	«	«	_	_	PUNC	10	PUNC	_	_
+12	Славься	СЛАВИТЬСЯ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	10	разъяснит	_	_
+13	»	»	_	_	PUNC	12	PUNC	_	_
+14	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	окна	ОКНО	S	S n inan nom pl	S n inan nom pl	9	предик	_	_
+3	в	В	PR	PR	PR	2	атриб	_	_
+4	новом	НОВЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	европейского	ЕВРОПЕЙСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	типа	ТИП	S	S m inan gen sg	S m inan gen sg	4	атриб	_	_
+8	здании	ЗДАНИЕ	S	S n inan loc sg	S n inan loc sg	2	опред	_	_
+9	светились	СВЕТИТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	на	НА	PR	PR	PR	14	обст	_	_
+12	привокзальной	ПРИВОКЗАЛЬНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	13	опред	_	_
+13	площади	ПЛОЩАДЬ	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+14	горели	ГОРЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	сент-соч	_	_
+15	костры	КОСТЕР	S	S m inan nom pl	S m inan nom pl	14	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	деловито	ДЕЛОВИТЫЙ	A	A - - sg brev n -	A - - sg brev n -	14	сент-соч	_	_
+18	дымились	ДЫМИТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	17	предик	_	_
+19	трубы	ТРУБА	S	S f inan nom pl	S f inan nom pl	18	предик	_	_
+20	походных	ПОХОДНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	21	опред	_	_
+21	кухонь	КУХНЯ	S	S f inan gen pl	S f inan gen pl	19	квазиагент	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Больше	МНОГО	ADV	ADV comp	ADV comp	4	обст	_	_
+2	всего	ВСЕ	S	S n - gen sg	S n - gen sg	3	опред	_	_
+3	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	4	1-компл	_	_
+4	поразило	ПОРАЖАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	то	ТО	S	S n - nom sg	S n - nom sg	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	эксплет	_	_
+8	у	У	PR	PR	PR	10	1-компл	_	_
+9	платформы	ПЛАТФОРМА	S	S f inan gen sg	S f inan gen sg	8	предл	_	_
+10	стоял	СТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	подч-союзн	_	_
+11	самый	САМЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	опред	_	_
+12	что ни на есть	что ни на есть	PART	PART	ZERO	18	огранич	_	_
+13	обычный	ОБЫЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	15	опред	_	_
+14	пассажирский	ПАССАЖИРСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	15	опред	_	_
+15	поезд	ПОЕЗД	S	S m inan nom sg	S m inan nom sg	18	предик	_	_
+16	:	:	:	:	PUNC	18	опред	_	_
+17	аккуратные	АККУРАТНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	18	опред	_	_
+18	вагончики	ВАГОНЧИК	S	S m inan nom pl	S m inan nom pl	10	предик	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	паровоз	ПАРОВОЗ	S	S m inan nom sg	S m inan nom sg	22	предик	_	_
+21	мирно	МИРНО	ADV	ADV -	ADV -	22	обст	_	_
+22	попыхивает	ПОПЫХИВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	сент-соч	_	_
+23	–	–	–	–	PUNC	22	1-компл	_	_
+24	словно	СЛОВНО	CONJ	CONJ	CONJ	23	сравнит	_	_
+25	и	И	CONJ	CONJ	CONJ	24	сравн-союзн	_	_
+26	нет	НЕТ	PART	PART	PART	27	огранич	_	_
+27	никакой	НИКАКОЙ	A	A - gen sg plen f -	A - gen sg plen f -	28	опред	_	_
+28	войны	ВОЙНА	S	S f inan gen sg	S f inan gen sg	25	соч-союзн	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

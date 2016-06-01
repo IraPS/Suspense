@@ -1,0 +1,46 @@
+1	Человечество	ЧЕЛОВЕЧЕСТВО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+2	быстрыми	БЫСТРЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	3	опред	_	_
+3	шагами	ШАГ	S	S m inan ins pl	S m inan ins pl	1	1-компл	_	_
+4	шло	ИДТИ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	к	К	PR	PR	PR	4	2-компл	_	_
+6	гибели	ГИБЕЛЬ	S	S f inan gen sg	S f inan gen sg	5	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+8	погибло	ПОГИБАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	7	соч-союзн	_	_
+9	бы	БЫ	PART	PART	PART	8	аналит	_	_
+10	окончательно	ОКОНЧАТЕЛЬНО	ADV	ADV -	ADV -	8	обст	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	если	ЕСЛИ	CONJ	CONJ	CONJ	8	обст	_	_
+13	бы	БЫ	PART	PART	PART	0	ROOT	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	жадность	ЖАДНОСТЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+16	"	"	_	_	PUNC	15	PUNC	_	_
+17	Мистера	МИСТЕР	S	S m anim acc sg	S m anim acc sg	15	об-аппоз	_	_
+18	Джеба	ДЖЕБ	S	S m anim gen sg	S m anim gen sg	17	1-компл	_	_
+19	энд	ЭНД	S	S m inan nom sg	S m inan nom sg	17	аппоз	_	_
+20	компани	КОМПАНЬ	S	S f inan loc sg	S f inan loc sg	19	аппоз	_	_
+21	"	"	_	_	PUNC	20	PUNC	_	_
+22	,	,	,	,	PUNC	20	PUNC	_	_
+23	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	0	ROOT	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	желая	ЖЕЛАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	30	опред	_	_
+26	еще	ЕЩЕ	ADV	ADV -	ADV -	27	огранич	_	_
+27	более	БОЛЕЕ	ADV	ADV -	ADV -	28	огранич	_	_
+28	вздуть	ВЗДУВАТЬ	V	V pf - - inf - -	V pf - - inf - -	25	1-компл	_	_
+29	свои	СВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	30	опред	_	_
+30	акции	АКЦИЯ	S	S f inan nom pl	S f inan nom pl	32	предик	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	переутомили	ПЕРЕУТОМЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	23	релят	_	_
+33	рака	РАК	S	S m inan gen sg	S m inan gen sg	32	1-компл	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	понуждая	ПОНУЖДАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	32	обст	_	_
+36	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	35	1-компл	_	_
+37	к	К	PR	PR	PR	35	2-компл	_	_
+38	непосильному	НЕПОСИЛЬНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	39	опред	_	_
+39	свисту	СВИСТ	S	S m inan dat sg	S m inan dat sg	37	предл	_	_
+40	электрическим	ЭЛЕКТРИЧЕСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	41	опред	_	_
+41	раздражением	РАЗДРАЖЕНИЕ	S	S n inan ins sg	S n inan ins sg	0	ROOT	_	_
+42	и	И	CONJ	CONJ	CONJ	41	сочин	_	_
+43	специальными	СПЕЦИАЛЬНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	44	опред	_	_
+44	пилюлями	ПИЛЮЛЯ	S	S f inan ins pl	S f inan ins pl	42	соч-союзн	_	_
+45	.	.	SENT	SENT	SENT	44	PUNC	_	_
+

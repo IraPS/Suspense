@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"государь","gr":"S,m,anim=nom,sg"}],"text":"Государь"}
+{"analysis":[{"lex":"принимать","gr":"V=praet,sg,indic,m,pf"}],"text":"принял"}
+{"analysis":[{"lex":"подарок","gr":"S,m,inan=acc,sg"},{"lex":"подарок","gr":"S,m,inan=nom,sg"}],"text":"подарок"}
+{"analysis":[{"lex":"вытирать","gr":"V=praet,sg,indic,m,pf"}],"text":"вытер"}
+{"analysis":[{"lex":"перчатка","gr":"S,f,inan=ins,sg"}],"text":"перчаткой"}
+{"analysis":[{"lex":"слеза","gr":"S,f,inan=acc,sg"}],"text":"слезу"}

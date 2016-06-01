@@ -1,0 +1,57 @@
+1	—	—	—	—	PUNC	2	предик	_	_
+2	Может	МОЧЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	20	вводн	_	_
+3	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	9	предик	_	_
+6	никогда	НИКОГДА	ADV	ADV -	ADV -	9	обст	_	_
+7	больше	БОЛЬШЕ	ADV	ADV -	ADV -	9	обст	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	увидимся	УВИДЕТЬСЯ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	2	сент-соч	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	—	—	—	—	PUNC	9	опред	_	_
+12	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+13	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	предик	_	_
+14	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	12	2-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	—	—	—	—	PUNC	2	1-компл	_	_
+17	перед	ПЕРЕД	PR	PR	PR	20	обст	_	_
+18	разлукой	РАЗЛУКА	S	S f inan ins sg	S f inan ins sg	17	предл	_	_
+19	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	20	предик	_	_
+20	хотел	ХОТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+21	с	С	PR	PR	PR	20	1-компл	_	_
+22	вами	ВЫ	SPRO	SPRO pl 2p - ins	SPRO pl 2p - ins	21	предл	_	_
+23	объясниться	ОБЪЯСНЯТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	20	2-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	2	предик	_	_
+2	могли	МОЧЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	заметить	ЗАМЕЧАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+7	мало	МАЛО	ADV	ADV -	ADV -	8	обст	_	_
+8	уважаю	УВАЖАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	5	подч-союзн	_	_
+9	постороннее	ПОСТОРОННИЙ	A	A - nom sg plen n -	A - nom sg plen n -	10	опред	_	_
+10	мнение	МНЕНИЕ	S	S n inan nom sg	S n inan nom sg	8	присвяз	_	_
+11	;	;	SENT	SENT	SENT	10	PUNC	_	_
+
+1	но	НО	CONJ	CONJ	CONJ	10	обст	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+3	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	4	1-компл	_	_
+4	люблю	ЛЮБИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	чувствую	ЧУВСТВОВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	6	соч-союзн	_	_
+8	:	:	:	:	PUNC	10	предик	_	_
+9	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	13	дат-субъект	_	_
+10	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+11	бы	БЫ	PART	PART	PART	10	аналит	_	_
+12	тягостно	ТЯГОСТНО	ADV	ADV -	ADV -	13	обст	_	_
+13	оставить	ОСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	10	предик	_	_
+14	в	В	PR	PR	PR	13	обст	_	_
+15	вашем	ВАШ	A	A - loc sg plen m -	A - loc sg plen m -	16	опред	_	_
+16	уме	УМ	S	S m inan loc sg	S m inan loc sg	14	предл	_	_
+17	несправедливое	НЕСПРАВЕДЛИВЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	18	опред	_	_
+18	впечатление	ВПЕЧАТЛЕНИЕ	S	S n inan acc sg	S n inan acc sg	13	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

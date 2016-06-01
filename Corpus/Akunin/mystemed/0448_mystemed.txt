@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"тяжело","gr":"ADV="}],"text":"тяжело"}
+{"analysis":[{"lex":"вздыхать","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"вздохнула"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"отступать","gr":"V,intr=inf,ipf"}],"text":"отступать"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"было"}
+{"analysis":[{"lex":"поздно","gr":"ADV="}],"text":"поздно"}

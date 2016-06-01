@@ -1,0 +1,21 @@
+1	Полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	отломил	ОТЛАМЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	изрядный	ИЗРЯДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	кусок	КУСОК	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+5	рокфора	РОКФОР	S	S m inan gen sg	S m inan gen sg	4	квазиагент	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+8	у	У	PR	PR	PR	11	обст	_	_
+9	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	8	предл	_	_
+10	вконец	ВКОНЕЦ	ADV	ADV -	ADV -	11	обст	_	_
+11	испортилось	ИСПОРТИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	7	соч-союзн	_	_
+12	настроение	НАСТРОЕНИЕ	S	S n inan nom sg	S n inan nom sg	11	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Черные	ЧЕРНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	2	опред	_	_
+2	предсказания	ПРЕДСКАЗАНИЕ	S	S n inan gen sg	S n inan gen sg	4	предик	_	_
+3	Лукана	ЛУКАН	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+4	оказались	ОКАЗЫВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	верны	ВЕРНЫЙ	A	A - - pl brev - -	A - - pl brev - -	4	присвяз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

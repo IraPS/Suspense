@@ -1,0 +1,35 @@
+1	Поисковые	ПОИСКОВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	команды	КОМАНДА	S	S f inan nom pl	S f inan nom pl	5	предик	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	затемно	ЗАТЕМНО	ADV	ADV -	ADV -	5	обст	_	_
+5	разошлись	РАСХОДИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+6	по	ПО	PR	PR	PR	5	обст	_	_
+7	квадратам	КВАДРАТ	S	S m inan dat pl	S m inan dat pl	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	В	В	PR	PR	PR	4	обст	_	_
+2	четверть	ЧЕТВЕРТЬ	S	S f inan acc sg	S f inan acc sg	1	предл	_	_
+3	восьмого	ВОСЬМОЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	прискакал	ПРИСКАКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	нарочный	НАРОЧНЫЙ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+6	с	С	PR	PR	PR	4	обст	_	_
+7	14	14	NUM	NUM - - -	NUM - - -	8	количест	_	_
+8	участка	УЧАСТОК	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	вбежал	ВБЕГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сочин	_	_
+11	в	В	PR	PR	PR	10	2-компл	_	_
+12	хату	ХАТА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+15	сразу	СРАЗУ	ADV	ADV -	ADV -	23	обст	_	_
+16	же	ЖЕ	PART	PART	PART	15	огранич	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	застегивая	ЗАСТЕГИВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	23	обст	_	_
+19	на	НА	PR	PR	PR	18	обст	_	_
+20	ходу	ХОД	S	S m inan loc2 sg	S m inan loc2 sg	19	предл	_	_
+21	китель	КИТЕЛЬ	S	S m inan acc sg	S m inan acc sg	18	1-компл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	вышел	ВЫХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	соч-союзн	_	_
+24	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	23	предик	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

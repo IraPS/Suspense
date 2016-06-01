@@ -1,0 +1,35 @@
+1	В	В	PR	PR	PR	12	обст	_	_
+2	особой	ОСОБЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	3	опред	_	_
+3	части	ЧАСТЬ	S	S f inan dat sg	S f inan dat sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	предик	_	_
+6	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	7	обст	_	_
+7	занимала	ЗАНИМАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	3	релят	_	_
+8	целых	ЦЕЛЫЙ	A	A - acc pl plen - anim	A - acc pl plen - anim	10	опред	_	_
+9	три	ТРИ	NUM	NUM nom - -	NUM nom - -	10	количест	_	_
+10	дома	ДОМ	S	S m inan gen sg	S m inan gen sg	7	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	сказали	СКАЗАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	что	ЧТО	CONJ	CONJ	CONJ	12	1-компл	_	_
+15	господину	ГОСПОДИН	S	S m anim dat sg	S m anim dat sg	17	2-компл	_	_
+16	Фандорину	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+17	выделен	ВЫДЕЛЯТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	14	подч-союзн	_	_
+18	отдельный	ОТДЕЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	19	опред	_	_
+19	коттэдж	КОТТЭДЖ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	17	предик	_	_
+20	(	(	_	_	PUNC	21	PUNC	_	_
+21	дежурный	ДЕЖУРНЫЙ	S	S m anim nom sg	S m anim nom sg	22	предик	_	_
+22	произнес	ПРОИЗНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	17	сент-соч	_	_
+23	новое	НОВЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	22	1-компл	_	_
+24	слово	СЛОВО	S	S n inan acc sg	S n inan acc sg	22	обст	_	_
+25	с	С	PR	PR	PR	24	атриб	_	_
+26	явным	ЯВНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	27	опред	_	_
+27	удовольствием	УДОВОЛЬСТВИЕ	S	S n inan ins sg	S n inan ins sg	25	предл	_	_
+28	)	)	_	_	PUNC	27	PUNC	_	_
+29	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+30	показали	ПОКАЗЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	29	соч-союзн	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	как	КАК	CONJ	CONJ	CONJ	30	сравнит	_	_
+33	пройти	ПРОХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	32	сравн-союзн	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+

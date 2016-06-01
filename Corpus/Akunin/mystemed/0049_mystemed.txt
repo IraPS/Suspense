@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"варин","gr":"S,famn,m,anim=nom,sg"}],"text":"Варин"}
+{"analysis":[{"lex":"новый","gr":"A=acc,sg,plen,m,inan"},{"lex":"новый","gr":"A=nom,sg,plen,m"}],"text":"новый"}
+{"analysis":[{"lex":"знакомый","gr":"S,m,anim=nom,sg"}],"text":"знакомый"}
+{"analysis":[{"lex":"замалчивать","gr":"V=praet,sg,indic,m,pf"}],"text":"замолчал"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"что-то","gr":"SPRO,sg,n,inan=acc"},{"lex":"что-то","gr":"SPRO,sg,n,inan=nom"}],"text":"что-то"}
+{"analysis":[{"lex":"прикидывать","gr":"V,tran=inpraes,ger,ipf"}],"text":"прикидывая"}
+{"analysis":[{"lex":"оглянуться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"оглянулся"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"игрок","gr":"S,m,anim=acc,pl"},{"lex":"игрок","gr":"S,m,anim=gen,pl"}],"text":"игроков"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"кость","gr":"S,f,inan=abl,sg"},{"lex":"кость","gr":"S,f,inan=acc,pl"},{"lex":"кость","gr":"S,f,inan=dat,sg"},{"lex":"кость","gr":"S,f,inan=gen,sg"},{"lex":"кость","gr":"S,f,inan=nom,pl"}],"text":"кости"}
+{"text":"\\s"}
+{"analysis":[{"lex":"снова","gr":"ADV="}],"text":"Снова"}
+{"analysis":[{"lex":"тяжко","gr":"ADV="}],"text":"тяжко"}
+{"analysis":[{"lex":"вздыхать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"вздохнул"}

@@ -1,0 +1,32 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	отныне	ОТНЫНЕ	ADV	ADV -	ADV -	7	обст	_	_
+3	никто	НИКТО	S	S m - nom sg	S m - nom sg	7	1-компл	_	_
+4	больше	МНОГО	ADV	ADV comp	ADV comp	7	обст	_	_
+5	Мидхату	МИДХАТ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	мешал	МЕШАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+8	–	–	–	–	PUNC	7	1-компл	_	_
+9	кроме	КРОМЕ	PR	PR	PR	7	обст	_	_
+10	судьбы	СУДЬБА	S	S f inan gen sg	S f inan gen sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	13	предик	_	_
+13	нанесла	НАНОСИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	сент-соч	_	_
+14	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	13	неакт-компл	_	_
+15	удар	УДАР	S	S m inan nom sg	S m inan nom sg	13	разъяснит	_	_
+16	с	С	PR	PR	PR	15	1-компл	_	_
+17	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	18	огранич	_	_
+18	неожиданной	НЕОЖИДАННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	19	опред	_	_
+19	стороны	СТОРОНА	S	S f inan gen sg	S f inan gen sg	16	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Великого	ВЕЛИКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	2	опред	_	_
+2	политика	ПОЛИТИК	S	S m anim gen sg	S m anim gen sg	3	присвяз	_	_
+3	подвела	ПОДВОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	марионетка	МАРИОНЕТКА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	новый	НОВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	султан	СУЛТАН	S	S m anim nom sg	S m anim nom sg	3	вводн	_	_
+9	Mурад	МУРАД	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

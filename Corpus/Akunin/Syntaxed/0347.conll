@@ -1,0 +1,16 @@
+1	Агент	АГЕНТ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	открывался	ОТКРЫВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	с	С	PR	PR	PR	2	2-компл	_	_
+4	новой	НОВЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	7	опред	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	неожиданной	НЕОЖИДАННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	4	сочин	_	_
+7	стороны	СТОРОНА	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	предик	_	_
+10	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	14	1-компл	_	_
+11	отчего-то	ОТЧЕГО-ТО	ADV	ADV -	ADV -	14	обст	_	_
+12	совсем	СОВСЕМ	ADV	ADV -	ADV -	13	огранич	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	понравилась	ПОНРАВИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сент-соч	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

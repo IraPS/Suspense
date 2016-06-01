@@ -1,0 +1,100 @@
+1	Тут	ТУТ	ADV	ADV -	ADV -	13	обст	_	_
+2	Демьян	ДЕМЬЯН	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+3	Лукич	ЛУКИЧ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	резким	РЕЗКИЙ	A	A - ins sg plen n -	A - ins sg plen n -	8	опред	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	как бы	как бы	ADV	ADV -	-	7	огранич	_	_
+7	злобным	ЗЛОБНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	4	сочин	_	_
+8	движением	ДВИЖЕНИЕ	S	S n inan ins sg	S n inan ins sg	2	об-аппоз	_	_
+9	от	ОТ	PR	PR	PR	8	1-компл	_	_
+10	края	КРАЙ	S	S m inan gen sg	S m inan gen sg	9	предл	_	_
+11	до	ДО	PR	PR	PR	9	соотнос	_	_
+12	верху	ВЕРХ	S	S m inan loc2 sg	S m inan loc2 sg	11	предл	_	_
+13	разорвал	РАЗРЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+14	юбку	ЮБКА	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+15	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+16	сразу	СРАЗУ	ADV	ADV -	ADV -	18	обст	_	_
+17	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	18	1-компл	_	_
+18	обнажил	ОБНАЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	глянул	ГЛЯНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	то	ТО	S	S n - nom sg	S n - nom sg	4	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	эксплет	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	9	предик	_	_
+9	увидал	УВИДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	подч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	превысило	ПРЕВЫШАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	2	сент-соч	_	_
+12	мои	МОЙ	A	A - nom pl plen - -	A - nom pl plen - -	13	опред	_	_
+13	ожидания	ОЖИДАНИЕ	S	S n inan nom pl	S n inan nom pl	11	предик	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Левой	ЛЕВЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	7	предик	_	_
+2	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	собственно	СОБСТВЕННО	ADV	ADV -	ADV -	7	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Начиная	НАЧИНАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	6	обст	_	_
+2	от	ОТ	PR	PR	PR	1	2-компл	_	_
+3	раздробленного	РАЗДРОБЛЕННЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	опред	_	_
+4	колена	КОЛЕНО	S	S n inan acc pl	S n inan acc pl	2	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	лежала	ЛЕЖАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+7	кровавая	КРОВАВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	8	опред	_	_
+8	рвань	РВАНЬ	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	красные	КРАСНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	12	опред	_	_
+11	мятые	МЯТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	12	опред	_	_
+12	мышцы	МЫШЦА	S	S f inan nom pl	S f inan nom pl	8	сочин	_	_
+13	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+14	остро	ОСТРО	ADV	ADV -	ADV -	18	обст	_	_
+15	во	ВО	PR	PR	PR	18	обст	_	_
+16	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	17	опред	_	_
+17	стороны	СТОРОНА	S	S f inan acc pl	S f inan acc pl	15	предл	_	_
+18	торчали	ТОРЧАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	13	соч-союзн	_	_
+19	белые	БЕЛЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	21	опред	_	_
+20	раздавленные	РАЗДАВЛИВАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	21	опред	_	_
+21	кости	КОСТЬ	S	S f inan acc pl	S f inan acc pl	18	1-компл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Правая	ПРАВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	предик	_	_
+2	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	переломлена	ПЕРЕЛАМЫВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	2	пасс-анал	_	_
+4	в	В	PR	PR	PR	3	обст	_	_
+5	голени	ГОЛЕНЬ	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	так	ТАК	ADV	ADV -	ADV -	3	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	6	1-компл	_	_
+9	обе	ОБА	NUM	NUM nom f -	NUM nom f -	12	количест	_	_
+10	кости	КОСТЬ	S	S f inan acc pl	S f inan acc pl	12	1-компл	_	_
+11	концами	КОНЕЦ	S	S m inan ins pl	S m inan ins pl	12	1-компл	_	_
+12	выскочили	ВЫСКОЧИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	8	подч-союзн	_	_
+13	наружу	НАРУЖУ	ADV	ADV -	ADV -	12	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	пробив	ПРОБИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	12	обст	_	_
+16	кожу	КОЖА	S	S f inan acc sg	S f inan acc sg	15	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	От	ОТ	PR	PR	PR	8	обст	_	_
+2	этого	ЭТО	S	S n - gen sg	S n - gen sg	1	предл	_	_
+3	ступня	СТУПНЯ	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+4	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	3	1-компл	_	_
+5	безжизненно	БЕЗЖИЗНЕННО	ADV	ADV -	ADV -	3	вводн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как бы	как бы	ADV	ADV -	-	8	огранич	_	_
+8	отдельно	ОТДЕЛЬНО	ADV	ADV -	ADV -	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	лежала	ЛЕЖАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	8	вводн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	повернувшись	ПОВЕРТЫВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	10	обст	_	_
+13	набок	НАБОК	ADV	ADV -	ADV -	12	обст	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

@@ -1,0 +1,44 @@
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Ушли	УХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	мерзавцы	МЕРЗАВЕЦ	S	S m anim nom pl	S m anim nom pl	2	предик	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	издали	ИЗДАЛИ	ADV	ADV -	ADV -	3	обст	_	_
+3	крикнул	КРИКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	обст	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	присовокупил	ПРИСОВОКУПЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+7	выражение	ВЫРАЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	смысл	СМЫСЛ	S	S m inan nom sg	S m inan nom sg	14	1-компл	_	_
+10	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	квазиагент	_	_
+11	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	14	предик	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	вполне	ВПОЛНЕ	ADV	ADV -	ADV -	14	огранич	_	_
+14	поняла	ПОНИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	There	THERE	NONLEX	NONLEX	NONLEX	1	аппоз	_	_
+3	'	'	_	_	PUNC	2	PUNC	_	_
+4	s	S	NONLEX	NONLEX	NONLEX	2	аппоз	_	_
+5	a	A	NONLEX	NONLEX	NONLEX	4	аппоз	_	_
+6	lady	LADY	NONLEX	NONLEX	NONLEX	5	аппоз	_	_
+7	here	HERE	NONLEX	NONLEX	NONLEX	6	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	1	опред	_	_
+10	–	–	–	–	PUNC	11	1-компл	_	_
+11	погрозил	ПОГРОЗИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	релят	_	_
+12	пальцем	ПАЛЕЦ	S	S m inan ins sg	S m inan ins sg	11	2-компл	_	_
+13	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	сняв	СНИМАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	0	ROOT	_	_
+16	котелок	КОТЕЛОК	S	S m inan acc sg	S m inan acc sg	15	1-компл	_	_
+17	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+18	вытирая	ВЫТИРАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	17	соч-союзн	_	_
+19	розовую	РОЗОВЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	20	опред	_	_
+20	лысину	ЛЫСИНА	S	S f inan acc sg	S f inan acc sg	18	1-компл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

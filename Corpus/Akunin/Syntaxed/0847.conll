@@ -1,0 +1,157 @@
+1	Да	ДА	PART	PART	PART	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	о	О	PR	PR	PR	0	ROOT	_	_
+4	Гридневе	ГРИДНЕВ	S	S m anim ins sg	S m anim ins sg	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Восемнадцатилетнего	ВОСЕМНАДЦАТИЛЕТНИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	2	опред	_	_
+2	прапорщика	ПРАПОРЩИК	S	S m anim acc sg	S m anim acc sg	5	1-компл	_	_
+3	к	К	PR	PR	PR	5	1-компл	_	_
+4	Варе	ВАР	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+5	приставил	ПРИСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Герой	ГЕРОЙ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+2	Плевны	ПЛЕВНА	S	S f inan gen sg	S f inan gen sg	1	1-компл	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+4	Шейнова	ШЕЙНОВ	S	S m anim nom sg	S m anim nom sg	3	соч-союзн	_	_
+5	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	денно	ДЕННО	ADV	ADV -	ADV -	9	обст	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	нощно	НОЩНО	ADV	ADV -	ADV -	7	соч-союзн	_	_
+9	занят	ЗАНИМАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	5	пасс-анал	_	_
+10	ратными	РАТНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	11	опред	_	_
+11	трудами	ТРУД	S	S m inan ins pl	S m inan ins pl	9	2-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	5	сент-соч	_	_
+14	про	ПРО	PR	PR	PR	17	3-компл	_	_
+15	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	14	предл	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	забывал	ЗАБЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	13	соч-союзн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	10	обст	_	_
+2	удавалось	УДАВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	подч-союзн	_	_
+3	вырваться	ВЫРЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	штаб	ШТАБ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	8	обст	_	_
+8	заглядывал	ЗАГЛЯДЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	релят	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	присылал	ПРИСЫЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+11	гигантские	ГИГАНТСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	12	опред	_	_
+12	букеты	БУКЕТ	S	S m inan acc pl	S m inan acc pl	10	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	приглашал	ПРИГЛАШАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	сочин	_	_
+15	на	НА	PR	PR	PR	14	1-компл	_	_
+16	праздники	ПРАЗДНИК	S	S m inan acc pl	S m inan acc pl	15	предл	_	_
+17	(	(	_	_	PUNC	18	PUNC	_	_
+18	Новый	НОВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	19	опред	_	_
+19	Год	ГОД	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+20	вот	ВОТ	PART	PART	PART	21	огранич	_	_
+21	дважды	ДВАЖДЫ	ADV	ADV -	ADV -	22	обст	_	_
+22	встречали	ВСТРЕЧАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	10	сент-соч	_	_
+23	–	–	–	–	PUNC	22	1-компл	_	_
+24	по	ПО	PR	PR	PR	23	обст	_	_
+25	западному	ЗАПАДНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	26	опред	_	_
+26	стилю	СТИЛЬ	S	S m inan dat sg	S m inan dat sg	24	предл	_	_
+27	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+28	по-русски	ПО-РУССКИ	ADV	ADV -	ADV -	27	соч-союзн	_	_
+29	)	)	_	_	PUNC	28	PUNC	_	_
+30	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	6	соотнос	_	_
+3	этого	ЭТО	S	S n - gen sg	S n - gen sg	6	предик	_	_
+4	настырному	НАСТЫРНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	5	опред	_	_
+5	Мишелю	МИШЕЛЬ	S	S m anim dat sg	S m anim dat sg	6	дат-субъект	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	соч-союзн	_	_
+7	мало	МАЛО	ADV	ADV -	ADV -	6	присвяз	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Откомандировал	ОТКОМАНДИРОВЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	в	В	PR	PR	PR	1	2-компл	_	_
+3	Варино	ВАРИНО	S	S - anim nonflex nonflex	S - anim nonflex nonflex	2	предл	_	_
+4	распоряжение	РАСПОРЯЖЕНИЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+5	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	4	1-компл	_	_
+6	из	ИЗ	PR	PR	PR	5	электив	_	_
+7	своих	СВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	8	опред	_	_
+8	ординарцев	ОРДИНАРЕЦ	S	S m anim gen pl	S m anim gen pl	6	предл	_	_
+9	–	–	–	–	PUNC	5	аппоз	_	_
+10	«	«	_	_	PUNC	9	PUNC	_	_
+11	для	ДЛЯ	PR	PR	PR	5	атриб	_	_
+12	помощи	ПОМОЩЬ	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	в	В	PR	PR	PR	12	1-компл	_	_
+14	дороге	ДОРОГА	S	S f inan dat sg	S f inan dat sg	13	предл	_	_
+15	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+16	защиты	ЗАЩИТА	S	S f inan gen sg	S f inan gen sg	15	соч-союзн	_	_
+17	»	»	_	_	PUNC	16	PUNC	_	_
+18	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Прапорщик	ПРАПОРЩИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	сначала	СНАЧАЛА	ADV	ADV -	ADV -	3	обст	_	_
+3	дулся	ДУТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	смотрел	СМОТРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	соч-союзн	_	_
+6	на	НА	PR	PR	PR	5	1-компл	_	_
+7	начальство	НАЧАЛЬСТВО	S	S n inan acc sg	S n inan acc sg	6	предл	_	_
+8	в	В	PR	PR	PR	7	атриб	_	_
+9	юбке	ЮБКА	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	волчонком	ВОЛЧОНОК	S	S m anim ins sg	S m anim ins sg	5	2-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+13	довольно	ДОВОЛЬНО	ADV	ADV -	ADV -	14	огранич	_	_
+14	быстро	БЫСТРО	ADV	ADV -	ADV -	15	обст	_	_
+15	приручился	ПРИРУЧАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	соч-союзн	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	21	вводн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	даже	ДАЖЕ	PART	PART	PART	21	огранич	_	_
+21	проникся	ПРОНИКАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	16	соч-союзн	_	_
+22	романтическими	РОМАНТИЧЕСКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	23	опред	_	_
+23	чувствами	ЧУВСТВО	S	S n inan ins pl	S n inan ins pl	21	1-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Смешно	СМЕШНО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	но	НО	CONJ	CONJ	CONJ	1	сочин	_	_
+4	лестно	ЛЕСТНО	ADV	ADV -	ADV -	3	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Гриднев	ГРИДНЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	некрасив	НЕКРАСИВЫЙ	A	A - - sg brev m -	A - - sg brev m -	2	присвяз	_	_
+4	(	(	_	_	PUNC	5	PUNC	_	_
+5	красивого	КРАСИВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	стратег	СТРАТЕГ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+7	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	прислал	ПРИСЫЛАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сент-соч	_	_
+10	бы	БЫ	PART	PART	PART	9	аналит	_	_
+11	)	)	_	_	PUNC	10	PUNC	_	_
+12	,	,	,	,	PUNC	10	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	9	сент-соч	_	_
+14	мил	МИЛЫЙ	A	A - - sg brev m -	A - - sg brev m -	13	соч-союзн	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	по	ПО	PR	PR	PR	15	соч-союзн	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	щенячьи	ЩЕНЯЧИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	19	1-компл	_	_
+19	пылок	ПЫЛКИЙ	A	A - - sg brev m -	A - - sg brev m -	2	присвяз	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Рядом	РЯДОМ	ADV	ADV -	ADV -	5	оп-опред	_	_
+2	с	С	PR	PR	PR	1	1-компл	_	_
+3	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	2	предл	_	_
+4	двадцатидвухлетняя	ДВАДЦАТИДВУХЛЕТНИЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+6	чувствовала	ЧУВСТВОВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+7	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	6	1-компл	_	_
+8	женщиной	ЖЕНЩИНА	S	S f anim ins sg	S f anim ins sg	6	сочин	_	_
+9	взрослой	ВЗРОСЛЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	8	опред	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	бывалой	БЫВАЛЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	10	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

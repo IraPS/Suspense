@@ -1,0 +1,102 @@
+1	На	НА	PR	PR	PR	9	обст	_	_
+2	третий	ТРЕТИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	"	"	_	_	PUNC	5	PUNC	_	_
+5	дикой	ДИКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+6	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	3	квазиагент	_	_
+7	"	"	_	_	PUNC	6	PUNC	_	_
+8	Джой	ДЖОЙ	S	S m anim gen sg	S m anim gen sg	3	атриб	_	_
+9	захотелось	ЗАХОТЕТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+10	пойти	ПОЙТИ	V	V pf - - inf - -	V pf - - inf - -	9	предик	_	_
+11	в	В	PR	PR	PR	10	2-компл	_	_
+12	лес	ЛЕС	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	9	сент-соч	_	_
+15	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	16	предик	_	_
+16	пригласила	ПРИГЛАШАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	соч-союзн	_	_
+17	Кольбера	КОЛЬБЕР	S	S f inan nom sg	S f inan nom sg	34	предик	_	_
+18	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	19	1-компл	_	_
+19	провожать	ПРОВОЖАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	17	1-компл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	смутно	СМУТНО	ADV	ADV -	ADV -	22	обст	_	_
+22	надеясь	НАДЕЯТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	19	обст	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	что	ЧТО	CONJ	CONJ	CONJ	22	1-компл	_	_
+25	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	26	квазиагент	_	_
+26	каменное	КАМЕННЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	27	опред	_	_
+27	обещание	ОБЕЩАНИЕ	S	S n inan acc sg	S n inan acc sg	30	1-компл	_	_
+28	"	"	_	_	PUNC	29	PUNC	_	_
+29	не	НЕ	PART	PART	PART	30	огранич	_	_
+30	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	31	предик	_	_
+31	более	БОЛЕЕ	ADV	ADV -	ADV -	24	подч-союзн	_	_
+32	предложений	ПРЕДЛОЖЕНИЕ	S	S n inan gen pl	S n inan gen pl	31	1-компл	_	_
+33	"	"	_	_	PUNC	32	PUNC	_	_
+34	встретит	ВСТРЕЧАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	16	изъясн	_	_
+35	повод	ПОВОД	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+36	растаять	РАСТАИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	35	1-компл	_	_
+37	.	.	SENT	SENT	SENT	36	PUNC	_	_
+
+1	Уже	УЖЕ	ADV	ADV -	ADV -	2	огранич	_	_
+2	три	ТРИ	NUM	NUM nom - -	NUM nom - -	3	количест	_	_
+3	месяца	МЕСЯЦ	S	S m inan gen sg	S m inan gen sg	7	длительн	_	_
+4	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	7	2-компл	_	_
+5	никто	НИКТО	S	S m - nom sg	S m - nom sg	7	1-компл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	говорил	ГОВОРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+8	о	О	PR	PR	PR	7	3-компл	_	_
+9	любви	ЛЮБОВЬ	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	хотела	ХОТЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	какой-нибудь	КАКОЙ-НИБУДЬ	A	A - acc sg plen m inan	A - acc sg plen m inan	5	опред	_	_
+4	небольшой	НЕБОЛЬШОЙ	A	A - gen sg plen f -	A - gen sg plen f -	5	опред	_	_
+5	сцены	СЦЕНА	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	вызывающей	ВЫЗЫВАЮЩИЙ	A	A - ins sg plen f -	A - ins sg plen f -	15	опред	_	_
+8	мимолетное	МИМОЛЕТНЫЙ	A	A - acc sg plen n -	A - acc sg plen n -	15	опред	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	вполне	ВПОЛНЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	безопасное	БЕЗОПАСНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	8	сочин	_	_
+12	настроение	НАСТРОЕНИЕ	S	S n inan acc sg	S n inan acc sg	11	сочин	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	напоминающее	НАПОМИНАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen n act -	PARTCP ipf inpraes acc sg plen n act -	12	опред	_	_
+15	любовь	ЛЮБОВЬ	S	S f inan nom sg	S f inan nom sg	2	разъяснит	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	7	обст	_	_
+2	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	шел	ИДТИ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	подч-союзн	_	_
+4	сзади	СЗАДИ	ADV	ADV -	ADV -	3	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+7	испытывала	ИСПЫТЫВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+8	чувство	ЧУВСТВО	S	S n inan acc sg	S n inan acc sg	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	словно	СЛОВНО	CONJ	CONJ	CONJ	8	сравнит	_	_
+11	за	ЗА	PR	PR	PR	13	обст	_	_
+12	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	11	предл	_	_
+13	движется	ДВИГАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	сравн-союзн	_	_
+14	боязливо	БОЯЗЛИВО	ADV	ADV -	ADV -	15	обст	_	_
+15	жаждущая	ЖАЖДАТЬ	PARTCP	PARTCP ipf inpraes nom sg plen f act -	PARTCP ipf inpraes nom sg plen f act -	16	1-компл	_	_
+16	упасть	УПАСТЬ	V	V pf - - inf - -	V pf - - inf - -	13	1-компл	_	_
+17	стена	СТЕНА	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Надо	НАДО	ADV	ADV -	ADV -	2	присвяз	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	угадать	УГАДЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+4	момент	МОМЕНТ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	отойти	ОТХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	3	сочин	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	6	обст	_	_
+11	стена	СТЕНА	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+12	хлопнулась	ХЛОПНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	подч-союзн	_	_
+13	на	НА	PR	PR	PR	12	2-компл	_	_
+14	пустое	ПУСТОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	15	опред	_	_
+15	место	МЕСТО	S	S n inan acc sg	S n inan acc sg	13	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

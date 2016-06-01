@@ -1,0 +1,40 @@
+1	Князь	КНЯЗЬ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	привычно	ПРИВЫЧНО	ADV	ADV -	ADV -	3	обст	_	_
+3	растянул	РАСТЯГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	рот	РОТ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	в	В	PR	PR	PR	3	2-компл	_	_
+6	лишенной	ЛИШЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	8	опред	_	_
+7	малейших	МАЛЫЙ	A	A supr gen pl plen - -	A supr gen pl plen - -	8	опред	_	_
+8	признаков	ПРИЗНАК	S	S m inan gen pl	S m inan gen pl	5	предл	_	_
+9	веселья	ВЕСЕЛИЕ	S	S n inan gen sg	S n inan gen sg	8	квазиагент	_	_
+10	улыбке	УЛЫБКА	S	S f inan dat sg	S f inan dat sg	3	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+13	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	14	предик	_	_
+14	вспомнила	ВСПОМНИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	12	соч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	что	ЧТО	CONJ	CONJ	CONJ	14	1-компл	_	_
+17	у	У	PR	PR	PR	22	1-компл	_	_
+18	канцлера	КАНЦЛЕР	S	S m anim gen sg	S m anim gen sg	17	предл	_	_
+19	в	В	PR	PR	PR	22	обст	_	_
+20	прошлом	ПРОШЛЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	21	опред	_	_
+21	году	ГОД	S	S m inan loc2 sg	S m inan loc2 sg	19	предл	_	_
+22	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	16	подч-союзн	_	_
+23	какая-то	КАКОЙ-ТО	A	A - nom sg plen f -	A - nom sg plen f -	25	опред	_	_
+24	личная	ЛИЧНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	25	опред	_	_
+25	трагедия	ТРАГЕДИЯ	S	S f inan nom sg	S f inan nom sg	22	предик	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Кто-то	КТО-ТО	S	S m - nom sg	S m - nom sg	5	1-компл	_	_
+2	там	ТАМ	ADV	ADV -	ADV -	5	обст	_	_
+3	у	У	PR	PR	PR	5	обст	_	_
+4	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	3	предл	_	_
+5	умер	УМИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	–	–	–	–	PUNC	5	1-компл	_	_
+7	не то	не то	CONJ	CONJ	ZERO	5	сент-соч	_	_
+8	сын	СЫН	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	не то	не то	CONJ	CONJ	ZERO	8	сочин	_	_
+11	внук	ВНУК	S	S m anim nom sg	S m anim nom sg	10	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

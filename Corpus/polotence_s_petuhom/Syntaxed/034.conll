@@ -1,0 +1,34 @@
+1	В	В	PR	PR	PR	6	обст	_	_
+2	тоске	ТОСКА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	сумерках	СУМЕРКИ	S	S - inan loc pl	S - inan loc pl	3	соч-союзн	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+6	прошелся	ПРОХОДИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	по	ПО	PR	PR	PR	6	обст	_	_
+8	кабинету	КАБИНЕТ	S	S m inan dat sg	S m inan dat sg	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	6	обст	_	_
+2	поравнялся	ПОРАВНЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+3	с	С	PR	PR	PR	2	1-компл	_	_
+4	лампой	ЛАМПА	S	S f inan ins sg	S f inan ins sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	уважал	УВАЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	как	КАК	CONJ	CONJ	CONJ	6	1-компл	_	_
+9	в	В	PR	PR	PR	13	обст	_	_
+10	безграничной	БЕЗГРАНИЧНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	11	опред	_	_
+11	тьме	ТЬМА	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+12	полей	ПОЛЕ	S	S n inan gen pl	S n inan gen pl	11	квазиагент	_	_
+13	мелькнул	МЕЛЬКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	подч-союзн	_	_
+14	мой	МОЙ	A	A - nom sg plen m -	A - nom sg plen m -	16	опред	_	_
+15	бледный	БЛЕДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	16	опред	_	_
+16	лик	ЛИК	S	S m inan nom sg	S m inan nom sg	13	предик	_	_
+17	рядом	РЯДОМ	ADV	ADV -	ADV -	0	ROOT	_	_
+18	с	С	PR	PR	PR	17	1-компл	_	_
+19	огоньками	ОГОНЕК	S	S m inan ins pl	S m inan ins pl	18	предл	_	_
+20	лампы	ЛАМПА	S	S f inan gen sg	S f inan gen sg	19	квазиагент	_	_
+21	в	В	PR	PR	PR	17	уточн	_	_
+22	окне	ОКНО	S	S n inan loc sg	S n inan loc sg	21	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

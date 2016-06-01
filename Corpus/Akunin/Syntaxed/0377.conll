@@ -1,0 +1,39 @@
+1	В	В	PR	PR	PR	5	обст	_	_
+2	этот	ЭТОТ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	миг	МИГ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	предик	_	_
+5	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как	КАК	CONJ	CONJ	CONJ	5	1-компл	_	_
+8	в	В	PR	PR	PR	11	обст	_	_
+9	шатер	ШАТЕР	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	бесшумно	БЕСШУМНО	ADV	ADV -	ADV -	11	обст	_	_
+11	вплывает	ВПЛЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	подч-союзн	_	_
+12	подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	ужасно	УЖАСНО	ADV	ADV -	ADV -	16	огранич	_	_
+16	похожий	ПОХОЖИЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	суб-копр	_	_
+17	на	НА	PR	PR	PR	16	атриб	_	_
+18	черного	ЧЕРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	19	опред	_	_
+19	ворона	ВОРОН	S	S m anim gen sg	S m anim gen sg	17	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	унюхавшего	УНЮХАТЬ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	19	опред	_	_
+22	сладкий	СЛАДКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	24	опред	_	_
+23	трупный	ТРУПНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	24	опред	_	_
+24	запах	ЗАПАХ	S	S m inan acc sg	S m inan acc sg	21	1-компл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	вспомнила	ВСПОМНИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	чем	ЧЕМ	CONJ	CONJ	CONJ	2	сравнит	_	_
+5	закончилось	ЗАКАНЧИВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	4	сравн-союзн	_	_
+6	предыдущее	ПРЕДЫДУЩИЙ	A	A - nom sg plen n -	A - nom sg plen n -	7	опред	_	_
+7	появление	ПОЯВЛЕНИЕ	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+8	жандарма	ЖАНДАРМ	S	S m anim gen sg	S m anim gen sg	7	квазиагент	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+11	передернулась	ПЕРЕДЕРГИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

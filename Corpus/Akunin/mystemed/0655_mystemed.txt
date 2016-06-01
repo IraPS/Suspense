@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"ехать","gr":"V,ipf,intr=sg,imper,1p"}],"text":"Едемте"}
+{"analysis":[{"lex":"варвара","gr":"S,persn,f,anim=nom,sg"}],"text":"Варвара"}
+{"analysis":[{"lex":"андреевна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Андреевна"}
+{"analysis":[{"lex":"зурова","qual":"bastard","gr":"S,famn,f,anim=nom,sg"}],"text":"Зурова"}
+{"analysis":[{"lex":"находить","gr":"V=praet,pl,indic,pf,tran"}],"text":"нашли"}
+{"analysis":[{"lex":"короче","gr":"ADV="}],"text":"коротко"}
+{"analysis":[{"lex":"бросать","gr":"V=praet,sg,indic,m,pf"}],"text":"бросил"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"убивать","gr":"V,tran=praet,sg,partcp,brev,m,pf,pass"}],"text":"Убит"}
+{"analysis":[{"lex":"всхлипывать","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"всхлипнула"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}

@@ -1,0 +1,44 @@
+1	–	–	–	–	PUNC	16	обст	_	_
+2	И	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	все же	все же	PART	PART	ZERO	2	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	если	ЕСЛИ	CONJ	CONJ	CONJ	2	соч-союзн	_	_
+6	в	В	PR	PR	PR	11	обст	_	_
+7	стране	СТРАНА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	избирательное	ИЗБИРАТЕЛЬНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	11	предик	_	_
+9	право	ПРАВО	ADV	ADV -	ADV -	11	обст	_	_
+10	уже	УЖЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	введено	ВВОДИТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	5	подч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	 	 	 	 	PUNC	11	предик	_	_
+14	–	–	–	–	PUNC	16	1-компл	_	_
+15	мягко	МЯГКО	ADV	ADV -	ADV -	16	обст	_	_
+16	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+17	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	16	предик	_	_
+18	(	(	_	_	PUNC	19	PUNC	_	_
+19	разговор	РАЗГОВОР	S	S m inan nom sg	S m inan nom sg	16	разъяснит	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	конечно	КОНЕЧНО	ADV	ADV -	ADV -	24	вводн	_	_
+22	же	ЖЕ	PART	PART	PART	21	огранич	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	шел	ИДТИ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	примыкат	_	_
+25	по-французски	ПО-ФРАНЦУЗСКИ	ADV	ADV -	ADV -	24	обст	_	_
+26	)	)	_	_	PUNC	25	PUNC	_	_
+27	,	,	,	,	PUNC	25	PUNC	_	_
+28	 	 	 	 	PUNC	16	1-компл	_	_
+29	–	–	–	–	PUNC	0	ROOT	_	_
+30	несправедливо	НЕСПРАВЕДЛИВО	ADV	ADV -	ADV -	31	обст	_	_
+31	обижать	ОБИЖАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	29	1-компл	_	_
+32	целую	ЦЕЛЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	33	опред	_	_
+33	половину	ПОЛОВИНА	S	S f inan acc sg	S f inan acc sg	31	1-компл	_	_
+34	человечества	ЧЕЛОВЕЧЕСТВО	S	S n inan gen sg	S n inan gen sg	33	квазиагент	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	да	ДА	CONJ	CONJ	CONJ	29	сочин	_	_
+37	к	К	PR	PR	PR	0	ROOT	_	_
+38	тому	ТО	S	S n - dat sg	S n - dat sg	0	ROOT	_	_
+39	же	ЖЕ	PART	PART	PART	38	огранич	_	_
+40	еще	ЕЩЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+41	и	И	CONJ	CONJ	CONJ	40	сочин	_	_
+42	лучшую	ХОРОШИЙ	A	A supr acc sg plen f -	A supr acc sg plen f -	41	соч-союзн	_	_
+43	.	.	SENT	SENT	SENT	42	PUNC	_	_
+

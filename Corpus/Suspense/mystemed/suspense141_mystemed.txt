@@ -1,0 +1,3 @@
+{"analysis":[{"lex":"вдруг","gr":"ADV="}],"text":"Вдруг"}
+{"analysis":[{"lex":"лошадь","gr":"S,f,anim=abl,sg"},{"lex":"лошадь","gr":"S,f,anim=dat,sg"},{"lex":"лошадь","gr":"S,f,anim=gen,sg"},{"lex":"лошадь","gr":"S,f,anim=nom,pl"}],"text":"лошади"}
+{"analysis":[{"lex":"останавливаться","gr":"V,intr=praet,pl,indic,pf"}],"text":"остановились"}

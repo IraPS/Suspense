@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"однако","gr":"CONJ="}],"text":"Однако"}
+{"analysis":[{"lex":"генерал","gr":"S,m,anim=nom,sg"}],"text":"генерал"}
+{"analysis":[{"lex":"испугаться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"испугался"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"много","gr":"ADV=comp"}],"text":"больше"}
+{"text":"\\s"}
+{"analysis":[{"lex":"вздрагивать","gr":"V,intr=praet,ger,pf"}],"text":"Вздрогнув"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"обертываться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"обернулся"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"ошеломленно","gr":"ADV="}],"text":"ошеломленно"}
+{"analysis":[{"lex":"уставляться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"уставился"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"невольный","gr":"A=acc,sg,plen,f"}],"text":"невольную"}
+{"analysis":[{"lex":"свидетельница","gr":"S,f,anim=acc,sg"}],"text":"свидетельницу"}
+{"analysis":[{"lex":"конфиденциальный","gr":"A=abl,sg,plen,f"},{"lex":"конфиденциальный","gr":"A=dat,sg,plen,f"},{"lex":"конфиденциальный","gr":"A=gen,sg,plen,f"},{"lex":"конфиденциальный","gr":"A=ins,sg,plen,f"}],"text":"конфиденциальной"}
+{"analysis":[{"lex":"беседа","gr":"S,f,inan=acc,pl"},{"lex":"беседа","gr":"S,f,inan=gen,sg"},{"lex":"беседа","gr":"S,f,inan=nom,pl"}],"text":"беседы"}

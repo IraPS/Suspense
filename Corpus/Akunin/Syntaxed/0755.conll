@@ -1,0 +1,58 @@
+1	Убитых	УБИТЫЙ	S	S m anim loc pl	S m anim loc pl	2	предик	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	много	МНОГО	ADV	ADV -	ADV -	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	корпус	КОРПУС	S	S m inan nom sg	S m inan nom sg	8	предик	_	_
+6	Ганецкого	ГАНЕЦКИЙ	S	S m anim nom sg	S m anim nom sg	5	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	захваченный	ЗАХВАТИТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	2	сент-соч	_	_
+9	врасплох	ВРАСПЛОХ	ADV	ADV -	ADV -	8	обст	_	_
+10	нежданной	НЕЖДАННЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	11	опред	_	_
+11	атакой	АТАКА	S	S f inan ins sg	S f inan ins sg	8	агент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	полег	ПОЛЕГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+14	чуть не	чуть не	PART	PART	ZERO	15	огранич	_	_
+15	целиком	ЦЕЛИКОМ	ADV	ADV -	ADV -	13	обст	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	у	У	PR	PR	PR	6	1-компл	_	_
+3	всех	ВСЕ	S	S - - gen pl	S - - gen pl	2	предл	_	_
+4	на	НА	PR	PR	PR	3	атриб	_	_
+5	устах	УСТА	S	S - inan loc pl	S - inan loc pl	4	предл	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	соч-союзн	_	_
+7	имя	ИМЯ	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+8	Белого	БЕЛЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	Генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	7	квазиагент	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	неуязвимого	НЕУЯЗВИМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	Ахиллеса	АХИЛЛЕС	S	S m anim gen sg	S m anim gen sg	9	об-аппоз	_	_
+13	–	–	–	–	PUNC	14	опред	_	_
+14	Соболева	СОБОЛЕВ	S	S m anim gen sg	S m anim gen sg	12	1-компл	_	_
+15	-	-	-	-	PUNC	14	PUNC	_	_
+16	второго	ВТОРОЙ	A	A - gen sg plen m -	A - gen sg plen m -	14	опред	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	29	предик	_	_
+19	в	В	PR	PR	PR	29	обст	_	_
+20	решительный	РЕШИТЕЛЬНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	21	опред	_	_
+21	момент	МОМЕНТ	S	S m inan acc sg	S m inan acc sg	19	предл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	на	НА	PR	PR	PR	29	обст	_	_
+24	свой	СВОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	25	опред	_	_
+25	страх	СТРАХ	S	S m inan acc sg	S m inan acc sg	23	предл	_	_
+26	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+27	риск	РИСК	S	S m inan nom sg	S m inan nom sg	26	соч-союзн	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	ударил	УДАРЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	сент-соч	_	_
+30	через	ЧЕРЕЗ	PR	PR	PR	29	обст	_	_
+31	оставленную	ОСТАВЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	33	опред	_	_
+32	турками	ТУРОК	S	S m anim ins pl	S m anim ins pl	31	агент	_	_
+33	Плевну	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	30	предл	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	прямо	ПРЯМО	PART	PART	PART	36	огранич	_	_
+36	Осману	ОСМАН	S	S m anim dat sg	S m anim dat sg	29	2-компл	_	_
+37	в	В	PR	PR	PR	29	обст	_	_
+38	неприкрытый	НЕПРИКРЫТЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	39	опред	_	_
+39	бок	БОК	S	S m inan acc sg	S m inan acc sg	37	предл	_	_
+40	.	.	SENT	SENT	SENT	39	PUNC	_	_
+

@@ -1,0 +1,20 @@
+1	В	В	PR	PR	PR	6	обст	_	_
+2	глазах	ГЛАЗ	S	S m inan loc pl	S m inan loc pl	1	предл	_	_
+3	Эраста	ЭРАСТ	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+4	Петровича	ПЕТРОВИЧ	S	S m anim gen sg	S m anim gen sg	3	аппоз	_	_
+5	вновь	ВНОВЬ	ADV	ADV -	ADV -	6	обст	_	_
+6	промелькнула	ПРОМЕЛЬКНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	18	опред	_	_
+7	искорка	ИСКОРКА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	которую	КОТОРЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	16	1-компл	_	_
+10	у	У	PR	PR	PR	14	обст	_	_
+11	нормального	НОРМАЛЬНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	человека	ЧЕЛОВЕК	S	S m anim gen sg	S m anim gen sg	10	предл	_	_
+13	можно	МОЖНО	ADV	ADV -	ADV -	14	присвяз	_	_
+14	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	7	релят	_	_
+15	бы	БЫ	PART	PART	PART	14	аналит	_	_
+16	счесть	СЧЕСТЬ	V	V pf - - inf - -	V pf - - inf - -	14	предик	_	_
+17	признаком	ПРИЗНАК	S	S m inan ins sg	S m inan ins sg	16	обст	_	_
+18	веселости	ВЕСЕЛОСТЬ	S	S f inan loc sg	S f inan loc sg	0	ROOT	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

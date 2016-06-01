@@ -1,0 +1,44 @@
+1	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	2	предик	_	_
+2	вынул	ВЫНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	из	ИЗ	PR	PR	PR	2	2-компл	_	_
+4	кармана	КАРМАН	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	утром	УТРО	S	S n inan ins sg	S n inan ins sg	4	агент	_	_
+6	полученное	ПОЛУЧАТЬ	PARTCP	PARTCP pf praet acc sg plen n pass -	PARTCP pf praet acc sg plen n pass -	7	опред	_	_
+7	письмо	ПИСЬМО	S	S n inan acc sg	S n inan acc sg	2	1-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+9	дал	ДАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+10	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	0	ROOT	_	_
+11	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	12	1-компл	_	_
+12	читать	ЧИТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Кто-то	КТО-ТО	S	S m - nom sg	S m - nom sg	10	обст	_	_
+2	(	(	_	_	PUNC	3	PUNC	_	_
+3	казалось	КАЗАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	примыкат	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	атриб	_	_
+6	поверенный	ПОВЕРЕННЫЙ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+7	по	ПО	PR	PR	PR	6	атриб	_	_
+8	делам	ДЕЛО	S	S n inan dat pl	S n inan dat pl	7	предл	_	_
+9	)	)	_	_	PUNC	8	PUNC	_	_
+10	писал	ПИСАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+11	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	10	неакт-компл	_	_
+12	из	ИЗ	PR	PR	PR	10	1-компл	_	_
+13	Москвы	МОСКВА	S	S f inan gen sg	S f inan gen sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	что	ЧТО	CONJ	CONJ	CONJ	10	2-компл	_	_
+16	известная	ИЗВЕСТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	17	опред	_	_
+17	особа	ОСОБА	S	S f anim nom sg	S f anim nom sg	19	предик	_	_
+18	скоро	СКОРО	ADV	ADV -	ADV -	19	обст	_	_
+19	должна	ДОЛЖНЫЙ	A	A - - sg brev f -	A - - sg brev f -	15	подч-союзн	_	_
+20	вступить	ВСТУПАТЬ	V	V pf - - inf - -	V pf - - inf - -	19	1-компл	_	_
+21	в	В	PR	PR	PR	20	1-компл	_	_
+22	законный	ЗАКОННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	23	опред	_	_
+23	брак	БРАК	S	S m inan acc sg	S m inan acc sg	21	предл	_	_
+24	с	С	PR	PR	PR	23	атриб	_	_
+25	молодой	МОЛОДОЙ	A	A - ins sg plen f -	A - ins sg plen f -	28	опред	_	_
+26	и	И	CONJ	CONJ	CONJ	25	сочин	_	_
+27	прекрасной	ПРЕКРАСНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	26	соч-союзн	_	_
+28	девушкой	ДЕВУШКА	S	S f anim ins sg	S f anim ins sg	24	предл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

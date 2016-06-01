@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"Но"}
+{"analysis":[{"lex":"раздосадовать","gr":"V,pf,tran=praet,nom,sg,partcp,plen,f,pass"}],"text":"раздосадованная"}
+{"analysis":[{"lex":"генералов","gr":"S,famn,m,anim=dat,pl"},{"lex":"генералов","gr":"S,famn,m,anim=ins,sg"}],"text":"Генераловым"}
+{"analysis":[{"lex":"равнодушие","gr":"S,n,inan=ins,sg"}],"text":"равнодушием"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"дерзко","gr":"ADV="}],"text":"дерзко"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,f,pf"}],"text":"спросила"}
+{"analysis":[{"lex":"второй","gr":"ANUM=abl,sg,f"},{"lex":"второй","gr":"ANUM=dat,sg,f"},{"lex":"второй","gr":"ANUM=gen,sg,f"},{"lex":"второй","gr":"ANUM=ins,sg,f"},{"lex":"второй","gr":"ANUM=acc,sg,m,inan"},{"lex":"второй","gr":"ANUM=nom,sg,m"}],"text":"Второй"}
+{"text":"\\s"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"кто","gr":"SPRO,sg,m,anim=nom"}],"text":"кто"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}
+{"analysis":[{"lex":"первый","gr":"ANUM=acc,sg,m,inan"},{"lex":"первый","gr":"ANUM=nom,sg,m"}],"text":"первый"}

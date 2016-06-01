@@ -1,0 +1,138 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	мальчишки	МАЛЬЧИШКА	S	S m anim nom pl	S m anim nom pl	17	предик	_	_
+3	в	В	PR	PR	PR	11	огранич	_	_
+4	белых	БЕЛЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	6	опред	_	_
+5	замашных	ЗАМАШНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	6	опред	_	_
+6	рубашках	РУБАШКА	S	S f inan loc pl	S f inan loc pl	3	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	коротеньких	КОРОТЕНЬКИЙ	A	A - loc pl plen - -	A - loc pl plen - -	9	опред	_	_
+9	порточках	ПОРТОЧКИ	S	S - inan loc pl	S - inan loc pl	7	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	с	С	PR	PR	PR	17	обст	_	_
+12	белыми	БЕЛЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	14	опред	_	_
+13	раскрытыми	РАСКРЫВАТЬ	PARTCP	PARTCP pf praet ins pl plen - pass -	PARTCP pf praet ins pl plen - pass -	14	опред	_	_
+14	головами	ГОЛОВА	S	S f inan ins pl	S f inan ins pl	11	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	все	ВСЕ	S	S - - nom pl	S - - nom pl	17	1-компл	_	_
+17	подходят	ПОДХОДИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	1	соч-союзн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Идут	ИДТИ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+2	по	ПО	PR	PR	PR	1	обст	_	_
+3	двое	ДВОЕ	NUM	NUM nom - -	NUM nom - -	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	по	ПО	PR	PR	PR	9	вводн	_	_
+6	трое	ТРОЕ	NUM	NUM nom - -	NUM nom - -	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	мелко	МЕЛКО	ADV	ADV -	ADV -	9	обст	_	_
+9	перебирая	ПЕРЕБИРАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	1	обст	_	_
+10	босыми	БОСОЙ	A	A - ins pl plen - -	A - ins pl plen - -	11	опред	_	_
+11	ножками	НОЖКА	S	S f inan ins pl	S f inan ins pl	9	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+14	косятся	КОСИТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	13	соч-союзн	_	_
+15	на	НА	PR	PR	PR	14	1-компл	_	_
+16	лохматую	ЛОХМАТЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	17	опред	_	_
+17	овчарку	ОВЧАРКА	S	S f anim acc sg	S f anim acc sg	15	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	привязанную	ПРИВЯЗЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	17	опред	_	_
+20	к	К	PR	PR	PR	19	2-компл	_	_
+21	яблоне	ЯБЛОНЯ	S	S f inan loc sg	S f inan loc sg	20	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Покупает	ПОКУПАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	конечно	КОНЕЧНО	ADV	ADV -	ADV -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	ибо	ИБО	CONJ	CONJ	CONJ	5	сочин	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	покупки	ПОКУПКА	S	S f inan gen sg	S f inan gen sg	8	соч-союзн	_	_
+10	-	-	-	-	PUNC	9	PUNC	_	_
+11	то	ТО	CONJ	CONJ	CONJ	5	разъяснит	_	_
+12	всего	ВСЕГО	PART	PART	PART	13	огранич	_	_
+13	на	НА	PR	PR	PR	21	обст	_	_
+14	копейку	КОПЕЙКА	S	S f inan acc sg	S f inan acc sg	13	предл	_	_
+15	или	ИЛИ	CONJ	CONJ	CONJ	13	сочин	_	_
+16	на	НА	PR	PR	PR	15	соч-союзн	_	_
+17	яйцо	ЯЙЦО	S	S n inan acc sg	S n inan acc sg	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	но	НО	CONJ	CONJ	CONJ	13	сочин	_	_
+20	покупателей	ПОКУПАТЕЛЬ	S	S m anim gen pl	S m anim gen pl	19	соч-союзн	_	_
+21	много	МНОГО	ADV	ADV -	ADV -	11	эксплет	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	торговля	ТОРГОВЛЯ	S	S f inan nom sg	S f inan nom sg	24	предик	_	_
+24	идет	ИДТИ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	соч-союзн	_	_
+25	бойко	БОЙКО	ADV	ADV -	ADV -	24	обст	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	и	И	CONJ	CONJ	CONJ	24	сент-соч	_	_
+28	чахоточный	ЧАХОТОЧНЫЙ	S	S m anim nom sg	S m anim nom sg	37	предик	_	_
+29	мещанин	МЕЩАНИН	S	S m anim nom sg	S m anim nom sg	28	аппоз	_	_
+30	в	В	PR	PR	PR	37	обст	_	_
+31	длинном	ДЛИННЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	32	опред	_	_
+32	сюртуке	СЮРТУК	S	S m inan loc sg	S m inan loc sg	30	предл	_	_
+33	и	И	CONJ	CONJ	CONJ	32	сочин	_	_
+34	рыжих	РЫЖИЙ	A	A - loc pl plen - -	A - loc pl plen - -	35	опред	_	_
+35	сапогах	САПОГ	S	S m inan loc pl	S m inan loc pl	33	соч-союзн	_	_
+36	—	—	—	—	PUNC	37	1-компл	_	_
+37	весел	ВЕСЕЛЫЙ	A	A - - sg brev m -	A - - sg brev m -	27	соч-союзн	_	_
+38	.	.	SENT	SENT	SENT	37	PUNC	_	_
+
+1	Вместе	ВМЕСТЕ	ADV	ADV -	ADV -	11	обст	_	_
+2	с	С	PR	PR	PR	1	1-компл	_	_
+3	братом	БРАТ	S	S m anim ins sg	S m anim ins sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	картавым	КАРТАВЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	3	опред	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	шустрым	ШУСТРЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	8	опред	_	_
+8	полуидиотом	ПОЛУИДИОТ	S	S m anim ins sg	S m anim ins sg	3	об-аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	предик	_	_
+11	живет	ЖИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+12	у	У	PR	PR	PR	20	обст	_	_
+13	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	12	предл	_	_
+14	«	«	_	_	PUNC	13	PUNC	_	_
+15	из	ИЗ	PR	PR	PR	12	атриб	_	_
+16	милости	МИЛОСТЬ	S	S f inan dat sg	S f inan dat sg	15	предл	_	_
+17	»	»	_	_	PUNC	16	PUNC	_	_
+18	,	,	,	,	PUNC	16	PUNC	_	_
+19	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	20	предик	_	_
+20	торгует	ТОРГОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	сочин	_	_
+21	с	С	PR	PR	PR	20	1-компл	_	_
+22	шуточками	ШУТОЧКА	S	S f inan ins pl	S f inan ins pl	21	предл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	прибаутками	ПРИБАУТКА	S	S f inan ins pl	S f inan ins pl	20	2-компл	_	_
+25	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+26	даже	ДАЖЕ	PART	PART	PART	27	огранич	_	_
+27	иногда	ИНОГДА	ADV	ADV -	ADV -	25	соч-союзн	_	_
+28	«	«	_	_	PUNC	27	PUNC	_	_
+29	тронет	ТРОНУТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	11	сент-соч	_	_
+30	»	»	_	_	PUNC	29	PUNC	_	_
+31	на	НА	PR	PR	PR	29	1-компл	_	_
+32	тульской	ТУЛЬСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	33	опред	_	_
+33	гармонике	ГАРМОНИКА	S	S f inan loc sg	S f inan loc sg	31	предл	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	до	ДО	PR	PR	PR	6	обст	_	_
+3	вечера	ВЕЧЕР	S	S m inan gen sg	S m inan gen sg	2	предл	_	_
+4	в	В	PR	PR	PR	6	обст	_	_
+5	саду	САД	S	S m inan loc2 sg	S m inan loc2 sg	4	предл	_	_
+6	толпится	ТОЛПИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+7	народ	НАРОД	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	слышится	СЛЫШАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	сент-соч	_	_
+10	около	ОКОЛО	PR	PR	PR	9	предик	_	_
+11	шалаша	ШАЛАШ	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+12	смех	СМЕХ	S	S m inan nom sg	S m inan nom sg	11	аппоз	_	_
+13	и	И	CONJ	CONJ	CONJ	9	сент-соч	_	_
+14	говор	ГОВОР	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	а	А	CONJ	CONJ	CONJ	14	сочин	_	_
+17	иногда	ИНОГДА	ADV	ADV -	ADV -	19	огранич	_	_
+18	и	И	CONJ	CONJ	CONJ	19	соотнос	_	_
+19	топот	ТОПОТ	S	S m inan nom sg	S m inan nom sg	16	соч-союзн	_	_
+20	пляски	ПЛЯСКА	S	S f inan gen sg	S f inan gen sg	19	квазиагент	_	_
+21	...	...	SENT	SENT	SENT	20	PUNC	_	_
+

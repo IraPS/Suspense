@@ -1,0 +1,32 @@
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	вышел	ВЫХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	отставку	ОТСТАВКА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	удалился	УДАЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	это	ЭТОТ	A	A - acc sg plen n inan	A - acc sg plen n inan	9	опред	_	_
+9	местечко	МЕСТЕЧКО	S	S n inan acc sg	S n inan acc sg	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	С тех пор	С тех пор	ADV	ADV -	-	3	обст	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	прошло	ПРОХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+4	ни	НИ	PART	PART	PART	5	огранич	_	_
+5	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	6	количест	_	_
+6	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	3	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	чтоб	ЧТОБ	CONJ	CONJ	CONJ	3	обст	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	думал	ДУМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	подч-союзн	_	_
+12	о	О	PR	PR	PR	11	1-компл	_	_
+13	мщении	МЩЕНИЕ	S	S n inan loc sg	S n inan loc sg	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Ныне	НЫНЕ	ADV	ADV -	ADV -	4	обст	_	_
+2	час	ЧАС	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+3	мой	МОЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	предик	_	_
+4	настал	НАСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	...	...	SENT	SENT	SENT	4	PUNC	_	_
+

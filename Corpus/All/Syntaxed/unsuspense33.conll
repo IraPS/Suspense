@@ -1,0 +1,16 @@
+1	Читатель	ЧИТАТЕЛЬ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+2	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	6	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вероятно	ВЕРОЯТНО	ADV	ADV -	ADV -	6	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	понимает	ПОНИМАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	почему	ПОЧЕМУ	ADV	ADV -	ADV -	12	обст	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	12	предик	_	_
+10	с	С	PR	PR	PR	12	обст	_	_
+11	участием	УЧАСТИЕ	S	S n inan ins sg	S n inan ins sg	10	предл	_	_
+12	посмотрел	ПОСМОТРЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	1-компл	_	_
+13	на	НА	PR	PR	PR	12	1-компл	_	_
+14	Арину	АРИНА	S	S f inan acc sg	S f inan acc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

@@ -1,0 +1,40 @@
+1	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	2	предик	_	_
+2	встал	ВСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	вынул	ВЫНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	соч-союзн	_	_
+5	из	ИЗ	PR	PR	PR	4	2-компл	_	_
+6	картона	КАРТОН	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+7	красную	КРАСНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	шапку	ШАПКА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+9	с	С	PR	PR	PR	4	обст	_	_
+10	золотою	ЗОЛОТОЙ	A	A - ins sg plen f -	A - ins sg plen f -	11	опред	_	_
+11	кистью	КИСТЬ	S	S f inan ins sg	S f inan ins sg	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	с	С	PR	PR	PR	4	1-компл	_	_
+14	галуном	ГАЛУН	S	S m inan ins sg	S m inan ins sg	13	предл	_	_
+15	(	(	_	_	PUNC	16	PUNC	_	_
+16	то	ТО	NONLEX	NONLEX	NONLEX	4	2-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	что	ЧТО	CONJ	CONJ	CONJ	16	эксплет	_	_
+19	французы	ФРАНЦУЗ	S	S m anim nom pl	S m anim nom pl	20	предик	_	_
+20	называют	НАЗЫВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	18	подч-союзн	_	_
+21	bonnet	BONNET	NONLEX	NONLEX	NONLEX	20	1-компл	_	_
+22	de	DE	NONLEX	NONLEX	NONLEX	21	аппоз	_	_
+23	police	POLICE	NONLEX	NONLEX	NONLEX	22	аппоз	_	_
+24	)	)	_	_	PUNC	23	PUNC	_	_
+25	;	;	SENT	SENT	SENT	23	PUNC	_	_
+
+1	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	3	1-компл	_	_
+3	надел	НАДЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	;	;	SENT	SENT	SENT	3	PUNC	_	_
+
+1	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	прострелена	ПРОСТРЕЛИТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	2	пасс-анал	_	_
+4	на	НА	PR	PR	PR	3	обст	_	_
+5	вершок	ВЕРШОК	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	ото	ОТО	PR	PR	PR	3	2-компл	_	_
+7	лба	ЛОБ	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

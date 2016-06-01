@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"гм","gr":"INTJ="}],"text":"Гм"}
+{"analysis":[{"lex":"очень","gr":"ADV="}],"text":"очень"}
+{"analysis":[{"lex":"многозначитальный","qual":"bastard","gr":"A=sg,brev,n"}],"text":"многозначитально"}
+{"analysis":[{"lex":"промычать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"промычал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"однако","gr":"CONJ="}],"text":"однако"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=abl"},{"lex":"вы","gr":"SPRO,pl,2p=acc"},{"lex":"вы","gr":"SPRO,pl,2p=gen"}],"text":"вас"}
+{"analysis":[{"lex":"инструментарий","gr":"S,m,inan=acc,sg"},{"lex":"инструментарий","gr":"S,m,inan=nom,sg"}],"text":"инструментарий"}
+{"analysis":[{"lex":"прелестный","gr":"A=acc,sg,plen,m,inan"},{"lex":"прелестный","gr":"A=nom,sg,plen,m"}],"text":"прелестный"}
+{"text":"\\s"}
+{"analysis":[{"lex":"гм","gr":"INTJ="}],"text":"Гм"}

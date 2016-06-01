@@ -1,0 +1,217 @@
+1	С	С	PR	PR	PR	8	обст	_	_
+2	конца	КОНЕЦ	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	сентября	СЕНТЯБРЬ	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+4	наши	НАШ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	сады	САД	S	S m inan nom pl	S m inan nom pl	8	предик	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	гумна	ГУМНО	S	S n inan gen sg	S n inan gen sg	6	соч-союзн	_	_
+8	пустели	ПУСТЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	погода	ПОГОДА	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	по	ПО	PR	PR	PR	16	вводн	_	_
+13	обыкновению	ОБЫКНОВЕНИЕ	S	S n inan dat sg	S n inan dat sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	круто	КРУТО	ADV	ADV -	ADV -	16	обст	_	_
+16	менялась	МЕНЯТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	8	сент-соч	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Ветер	ВЕТЕР	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+2	по	ПО	PR	PR	PR	1	атриб	_	_
+3	целым	ЦЕЛЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	4	опред	_	_
+4	дням	ДЕНЬ	S	S m inan dat pl	S m inan dat pl	2	предл	_	_
+5	рвал	РВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	трепал	ТРЕПАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	соч-союзн	_	_
+8	деревья	ДЕРЕВО	S	S n inan acc pl	S n inan acc pl	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	дожди	ДОЖДЬ	S	S m inan nom pl	S m inan nom pl	11	предик	_	_
+11	поливали	ПОЛИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	8	релят	_	_
+12	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	11	1-компл	_	_
+13	с	С	PR	PR	PR	11	обст	_	_
+14	утра	УТРО	S	S n inan gen sg	S n inan gen sg	13	предл	_	_
+15	до	ДО	PR	PR	PR	11	обст	_	_
+16	ночи	НОЧЬ	S	S f inan gen sg	S f inan gen sg	15	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Иногда	ИНОГДА	ADV	ADV -	ADV -	8	обст	_	_
+2	к	К	PR	PR	PR	8	обст	_	_
+3	вечеру	ВЕЧЕР	S	S m inan dat sg	S m inan dat sg	2	предл	_	_
+4	между	МЕЖДУ	PR	PR	PR	3	квазиагент	_	_
+5	хмурыми	ХМУРЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	7	опред	_	_
+6	низкими	НИЗКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	7	опред	_	_
+7	тучами	ТУЧА	S	S f inan ins pl	S f inan ins pl	4	предл	_	_
+8	пробивался	ПРОБИВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+9	на	НА	PR	PR	PR	8	обст	_	_
+10	западе	ЗАПАД	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+11	трепещущий	ТРЕПЕЩУЩИЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+12	золотистый	ЗОЛОТИСТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	свет	СВЕТ	S	S m inan nom sg	S m inan nom sg	8	предик	_	_
+14	низкого	НИЗКИЙ	A	A - gen sg plen n -	A - gen sg plen n -	15	опред	_	_
+15	солнца	СОЛНЦЕ	S	S n inan gen sg	S n inan gen sg	13	квазиагент	_	_
+16	;	;	SENT	SENT	SENT	15	PUNC	_	_
+
+1	воздух	ВОЗДУХ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	делался	ДЕЛАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	чист	ЧИСТЫЙ	A	A - - sg brev m -	A - - sg brev m -	2	присвяз	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	ясен	ЯСНЫЙ	A	A - - sg brev m -	A - - sg brev m -	4	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+8	солнечный	СОЛНЕЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	свет	СВЕТ	S	S m inan nom sg	S m inan nom sg	11	предик	_	_
+10	ослепительно	ОСЛЕПИТЕЛЬНО	ADV	ADV -	ADV -	11	обст	_	_
+11	сверкал	СВЕРКАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	соч-союзн	_	_
+12	между	МЕЖДУ	PR	PR	PR	11	обст	_	_
+13	листвою	ЛИСТВА	S	S f inan ins sg	S f inan ins sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	между	МЕЖДУ	PR	PR	PR	11	обст	_	_
+16	ветвями	ВЕТВЬ	S	S f inan ins pl	S f inan ins pl	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	которые	КОТОРЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	21	1-компл	_	_
+19	живою	ЖИВОЙ	A	A - ins sg plen f -	A - ins sg plen f -	20	опред	_	_
+20	сеткою	СЕТКА	S	S f inan ins sg	S f inan ins sg	21	обст	_	_
+21	двигались	ДВИГАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	16	релят	_	_
+22	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+23	волновались	ВОЛНОВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	22	соч-союзн	_	_
+24	от	ОТ	PR	PR	PR	23	1-компл	_	_
+25	ветра	ВЕТЕР	S	S m inan gen sg	S m inan gen sg	24	предл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Холодно	ХОЛОДНО	ADV	ADV -	ADV -	4	обст	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	ярко	ЯРКО	ADV	ADV -	ADV -	2	соч-союзн	_	_
+4	сияло	СИЯТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	обст	_	_
+6	севере	СЕВЕР	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+7	над	НАД	PR	PR	PR	6	1-компл	_	_
+8	тяжелыми	ТЯЖЕЛЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	10	опред	_	_
+9	свинцовыми	СВИНЦОВЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	10	опред	_	_
+10	тучами	ТУЧА	S	S f inan ins pl	S f inan ins pl	7	предл	_	_
+11	жидкое	ЖИДКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	13	опред	_	_
+12	голубое	ГОЛУБОЙ	A	A - nom sg plen n -	A - nom sg plen n -	13	опред	_	_
+13	небо	НЕБО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+16	из-за	ИЗ-ЗА	PR	PR	PR	20	обст	_	_
+17	этих	ЭТОТ	A	A - gen pl plen - -	A - gen pl plen - -	18	опред	_	_
+18	туч	ТУЧА	S	S f inan gen pl	S f inan gen pl	16	предл	_	_
+19	медленно	МЕДЛЕННО	ADV	ADV -	ADV -	20	обст	_	_
+20	выплывали	ВЫПЛЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	15	соч-союзн	_	_
+21	хребты	ХРЕБЕТ	S	S m inan nom pl	S m inan nom pl	20	предик	_	_
+22	снеговых	СНЕГОВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	23	опред	_	_
+23	гор	ГОРА	S	S f inan gen pl	S f inan gen pl	21	квазиагент	_	_
+24	-	-	-	-	PUNC	23	PUNC	_	_
+25	облаков	ОБЛАКО	S	S n inan gen pl	S n inan gen pl	23	сочин	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Стоишь	СТОЯТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	11	1-компл	_	_
+2	у	У	PR	PR	PR	1	1-компл	_	_
+3	окна	ОКНО	S	S n inan gen sg	S n inan gen sg	2	предл	_	_
+4	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+5	думаешь	ДУМАТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	4	соч-союзн	_	_
+6	:	:	:	:	PUNC	5	1-компл	_	_
+7	«	«	_	_	PUNC	6	PUNC	_	_
+8	Авось	АВОСЬ	ADV	ADV -	ADV -	5	обст	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	бог	БОГ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+11	даст	ДАВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	распогодится	РАСПОГОДИТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	11	сочин	_	_
+14	»	»	_	_	PUNC	13	PUNC	_	_
+15	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	ветер	ВЕТЕР	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	унимался	УНИМАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	волновал	ВОЛНОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	сад	САД	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	рвал	РВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сочин	_	_
+6	непрерывно	НЕПРЕРЫВНО	ADV	ADV -	ADV -	5	обст	_	_
+7	бегущую	БЕЖАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen f act -	PARTCP ipf inpraes acc sg plen f act -	5	1-компл	_	_
+8	из	ИЗ	PR	PR	PR	7	атриб	_	_
+9	трубы	ТРУБА	S	S f inan gen sg	S f inan gen sg	8	предл	_	_
+10	людской	ЛЮДСКОЙ	A	A - loc sg plen f -	A - loc sg plen f -	11	опред	_	_
+11	струю	СТРУЯ	S	S f inan acc sg	S f inan acc sg	5	длительн	_	_
+12	дыма	ДЫМ	S	S m inan gen sg	S m inan gen sg	11	квазиагент	_	_
+13	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+14	снова	СНОВА	ADV	ADV -	ADV -	15	обст	_	_
+15	нагонял	НАГОНЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	13	соч-союзн	_	_
+16	зловещие	ЗЛОВЕЩИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	17	опред	_	_
+17	космы	КОСМЫ	S	S f inan acc pl	S f inan acc pl	15	1-компл	_	_
+18	пепельных	ПЕПЕЛЬНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	19	опред	_	_
+19	облаков	ОБЛАКО	S	S n inan gen pl	S n inan gen pl	17	квазиагент	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	2	предик	_	_
+2	бежали	БЕЖАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	низко	НИЗКО	ADV	ADV -	ADV -	2	обст	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	быстро	БЫСТРО	ADV	ADV -	ADV -	4	соч-союзн	_	_
+6	—	—	—	—	PUNC	2	1-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+8	скоро	СКОРО	ADV	ADV -	ADV -	7	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	точно	ТОЧНО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+11	дым	ДЫМ	S	S m inan nom sg	S m inan nom sg	13	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	затуманивали	ЗАТУМАНИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	10	соч-союзн	_	_
+14	солнце	СОЛНЦЕ	S	S n inan nom sg	S n inan nom sg	13	присвяз	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Погасал	ПОГАСАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	1	1-компл	_	_
+3	блеск	БЛЕСК	S	S m inan nom sg	S m inan nom sg	1	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	закрывалось	ЗАКРЫВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	сент-соч	_	_
+6	окошечко	ОКОШЕЧКО	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	голубое	ГОЛУБОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	7	предл	_	_
+9	небо	НЕБО	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	5	сент-соч	_	_
+12	в	В	PR	PR	PR	14	обст	_	_
+13	саду	САД	S	S m inan loc2 sg	S m inan loc2 sg	12	предл	_	_
+14	становилось	СТАНОВИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	11	соч-союзн	_	_
+15	пустынно	ПУСТЫННО	ADV	ADV -	ADV -	14	обст	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	скучно	СКУЧНО	ADV	ADV -	ADV -	16	соч-союзн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+20	снова	СНОВА	ADV	ADV -	ADV -	19	соч-союзн	_	_
+21	начинал	НАЧИНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	14	разъяснит	_	_
+22	сеять	СЕЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	21	1-компл	_	_
+23	дождь...	ДОЖДЬ...	S	S m inan acc sg	S m inan acc sg	22	1-компл	_	_
+24	сперва	СПЕРВА	ADV	ADV -	ADV -	25	огранич	_	_
+25	тихо	ТИХО	ADV	ADV -	ADV -	22	обст	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	осторожно	ОСТОРОЖНО	ADV	ADV -	ADV -	31	вводн	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	потом	ПОТОМ	ADV	ADV -	ADV -	31	обст	_	_
+30	все	ВСЕ	S	S - - nom pl	S - - nom pl	31	предик	_	_
+31	гуще	ГУСТОЙ	A	A comp - - plen - -	A comp - - plen - -	22	присвяз	_	_
+32	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	36	вводн	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	превращался	ПРЕВРАЩАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	32	соч-союзн	_	_
+37	в	В	PR	PR	PR	36	2-компл	_	_
+38	ливень	ЛИВЕНЬ	S	S m inan acc sg	S m inan acc sg	37	предл	_	_
+39	с	С	PR	PR	PR	36	обст	_	_
+40	бурей	БУРЯ	S	S f inan ins sg	S f inan ins sg	39	предл	_	_
+41	и	И	CONJ	CONJ	CONJ	40	сочин	_	_
+42	темнотою	ТЕМНОТА	S	S f inan ins sg	S f inan ins sg	41	соч-союзн	_	_
+43	.	.	SENT	SENT	SENT	42	PUNC	_	_
+
+1	Наступала	НАСТУПАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+2	долгая	ДОЛГИЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	тревожная	ТРЕВОЖНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	сочин	_	_
+5	ночь	НОЧЬ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+6	...	...	SENT	SENT	SENT	5	PUNC	_	_
+

@@ -1,0 +1,59 @@
+1	Человеку	ЧЕЛОВЕК	S	S m anim dat sg	S m anim dat sg	8	2-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	в	В	PR	PR	PR	8	обст	_	_
+4	сущности	СУЩНОСТЬ	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	очень	ОЧЕНЬ	ADV	ADV -	ADV -	7	огранич	_	_
+7	немного	НЕМНОГО	ADV	ADV -	ADV -	8	огранич	_	_
+8	нужно	НУЖНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	прежде всего	прежде всего	ADV	ADV -	-	4	обст	_	_
+3	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	4	2-компл	_	_
+4	нужен	НУЖНЫЙ	A	A - - sg brev m -	A - - sg brev m -	1	соч-союзн	_	_
+5	огонь	ОГОНЬ	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Направляясь	НАПРАВЛЯТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	15	обст	_	_
+2	в	В	PR	PR	PR	1	1-компл	_	_
+3	мурьевскую	МУРЬЕВСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	4	опред	_	_
+4	глушь	ГЛУШЬ	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	13	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	помнится	ПОМНИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	13	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	еще	ЕЩЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	в	В	PR	PR	PR	13	обст	_	_
+12	Москве	МОСКВА	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	давал	ДАВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	релят	_	_
+14	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	13	2-компл	_	_
+15	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+16	держать	ДЕРЖАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	15	1-компл	_	_
+17	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	16	1-компл	_	_
+18	солидно	СОЛИДНО	ADV	ADV -	ADV -	16	обст	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Мой	МОЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+2	юный	ЮНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	вид	ВИД	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+4	отравлял	ОТРАВЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	4	2-компл	_	_
+6	существование	СУЩЕСТВОВАНИЕ	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+7	на	НА	PR	PR	PR	6	атриб	_	_
+8	первых	ПЕРВЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	9	опред	_	_
+9	шагах	ШАГ	S	S m inan loc pl	S m inan loc pl	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Каждому	КАЖДЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	2	1-компл	_	_
+2	приходилось	ПРИХОДИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	представляться	ПРЕДСТАВЛЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	2	предик	_	_
+4	:	:	:	:	PUNC	3	1-компл	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Доктор	ДОКТОР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	такой-то	ТАКОЙ-ТО	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

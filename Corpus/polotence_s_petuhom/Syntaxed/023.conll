@@ -1,0 +1,20 @@
+1	Засим	ЗАСИМ	ADV	ADV -	ADV -	3	обст	_	_
+2	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	3	предик	_	_
+3	обошли	ОБХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	пустые	ПУСТОЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	палаты	ПАЛАТА	S	S f inan nom pl	S f inan nom pl	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	9	предик	_	_
+9	убедился	УБЕЖДАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	9	1-компл	_	_
+12	в	В	PR	PR	PR	15	обст	_	_
+13	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	12	предл	_	_
+14	свободно	СВОБОДНО	ADV	ADV -	ADV -	15	обст	_	_
+15	можно	МОЖНО	ADV	ADV -	ADV -	11	подч-союзн	_	_
+16	разместить	РАЗМЕЩАТЬ	V	V pf - - inf - -	V pf - - inf - -	15	предик	_	_
+17	сорок	СОРОК	NUM	NUM acc - -	NUM acc - -	18	количест	_	_
+18	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

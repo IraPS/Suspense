@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"},{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Маклафлин"}
+{"analysis":[{"lex":"испытующий","gr":"A=sg,brev,n"}],"text":"испытующе"}
+{"analysis":[{"lex":"посмотреть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"посмотрел"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=acc"},{"lex":"она","gr":"SPRO,sg,3p,f=gen"}],"text":"нее"}
+{"analysis":[{"lex":"поправлять","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"поправил"}
+{"analysis":[{"lex":"запотевать","gr":"V,intr=praet,nom,pl,partcp,plen,pf,act"},{"lex":"запотевать","gr":"V,intr=praet,acc,pl,partcp,plen,pf,act,inan"}],"text":"запотевшие"}
+{"analysis":[{"lex":"от","gr":"PR="}],"text":"от"}
+{"analysis":[{"lex":"пара","gr":"S,f,inan=nom,sg"}],"text":"пара"}
+{"analysis":[{"lex":"очки","gr":"S,pl,inan=acc"},{"lex":"очки","gr":"S,pl,inan=nom"}],"text":"очки"}

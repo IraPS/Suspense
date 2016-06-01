@@ -1,0 +1,94 @@
+1	–	–	–	–	PUNC	3	предик	_	_
+2	Меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	3	1-компл	_	_
+3	учили	УЧИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	фехтовать	ФЕХТОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	на	НА	PR	PR	PR	4	обст	_	_
+6	эспадронах	ЭСПАДРОН	S	S m inan loc pl	S m inan loc pl	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+9	это	ЭТО	S	S n - nom sg	S n - nom sg	25	опред	_	_
+10	почти	ПОЧТИ	ADV	ADV -	ADV -	11	огранич	_	_
+11	одно	ОДИН	A	A - nom sg plen n -	A - nom sg plen n -	25	предик	_	_
+12	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+13	то	ТО	S	S n - nom sg	S n - nom sg	12	соч-союзн	_	_
+14	же	ЖЕ	PART	PART	PART	13	огранич	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	 	 	 	 	PUNC	19	2-компл	_	_
+17	–	–	–	–	PUNC	19	1-компл	_	_
+18	невозмутимо	НЕВОЗМУТИМО	ADV	ADV -	ADV -	19	обст	_	_
+19	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	релят	_	_
+20	француз	ФРАНЦУЗ	S	S m anim nom sg	S m anim nom sg	19	предик	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	взвешивая	ВЗВЕШИВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	25	обст	_	_
+23	в	В	PR	PR	PR	22	1-компл	_	_
+24	руке	РУКА	S	S f inan loc sg	S f inan loc sg	23	предл	_	_
+25	клинок	КЛИНОК	S	S m inan nom sg	S m inan nom sg	8	соч-союзн	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Господа	ГОСПОДИН	S	S m anim nom pl	S m anim nom pl	5	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	надо	НАДО	ADV	ADV -	ADV -	0	ROOT	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	предик	_	_
+2	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	3	обст	_	_
+3	обрела	ОБРЕТАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	голос	ГОЛОС	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	об-аппоз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	дат-субъект	_	_
+2	Это	ЭТО	S	S n - nom sg	S n - nom sg	4	предик	_	_
+3	все	ВСЕ	S	S - - acc pl	S - - acc pl	4	огранич	_	_
+4	из-за	ИЗ-ЗА	PR	PR	PR	0	ROOT	_	_
+5	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	немного	НЕМНОГО	ADV	ADV -	ADV -	3	огранич	_	_
+3	выпил	ВЫПИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	8	предик	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	хотел	ХОТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	соч-союзн	_	_
+9	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	8	1-компл	_	_
+10	оскорбить	ОСКОРБЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	8	2-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	13	предик	_	_
+13	знаю	ЗНАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	8	сент-соч	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Ну	НУ	PART	PART	PART	2	огранич	_	_
+2	перестаньте	ПЕРЕСТАВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	это	ЭТО	S	S n - nom sg	S n - nom sg	7	предик	_	_
+6	в конце концов	в конце концов	ADV	ADV -	-	7	огранич	_	_
+7	нелепо	НЕЛЕПО	ADV	ADV -	ADV -	2	вводн	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	какое	КАКОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	1	предл	_	_
+3	положение	ПОЛОЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	6	предик	_	_
+5	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	6	1-компл	_	_
+6	ставите	СТАВИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	квазиагент	_	_
+3	голос	ГОЛОС	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+4	жалобно	ЖАЛОБНО	ADV	ADV -	ADV -	5	обст	_	_
+5	дрогнул	ДРОГНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	5	сент-соч	_	_
+8	мольба	МОЛЬБА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+9	так и	так и	CONJ	CONJ	ZERO	8	сравнит	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	9	сравн-союзн	_	_
+12	услышана	УСЛЫШАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	11	пасс-анал	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

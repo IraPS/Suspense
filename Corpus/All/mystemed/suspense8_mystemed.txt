@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"готовить","gr":"V,ipf,tran=pl,imper,2p"}],"text":"Готовьте"}
+{"analysis":[{"lex":"ампутация","gr":"S,f,inan=acc,sg"}],"text":"ампутацию"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"фельдшер","gr":"S,m,anim=dat,sg"}],"text":"фельдшеру"}
+{"analysis":[{"lex":"чужой","gr":"A,plen=dat,pl"},{"lex":"чужой","gr":"A,plen=ins,sg,m"},{"lex":"чужой","gr":"A,plen=ins,sg,n"}],"text":"чужим"}
+{"analysis":[{"lex":"голос","gr":"S,m,inan=ins,sg"}],"text":"голосом"}

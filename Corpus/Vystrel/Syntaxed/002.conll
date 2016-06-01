@@ -1,0 +1,396 @@
+1	Один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	3	количест	_	_
+2	только	ТОЛЬКО	PART	PART	PART	3	огранич	_	_
+3	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	принадлежал	ПРИНАДЛЕЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	нашему	НАШ	A	A - dat sg plen m -	A - dat sg plen m -	6	опред	_	_
+6	обществу	ОБЩЕСТВО	S	S n inan dat sg	S n inan dat sg	4	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	будучи	БЫТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	обст	_	_
+10	военным	ВОЕННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	9	присвяз	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	3	дат-субъект	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	около	ОКОЛО	PR	PR	PR	2	присвяз	_	_
+4	тридцати	ТРИДЦАТЬ	NUM	NUM loc - -	NUM loc - -	6	количест	_	_
+5	пяти	ПЯТЬ	NUM	NUM loc - -	NUM loc - -	6	количест	_	_
+6	лет	ГОД	S	S m inan gen pl	S m inan gen pl	3	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+9	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	12	предик	_	_
+10	за	ЗА	PR	PR	PR	12	обст	_	_
+11	то	ТО	S	S n - acc sg	S n - acc sg	10	предл	_	_
+12	почитали	ПОЧИТАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	8	соч-союзн	_	_
+13	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	12	1-компл	_	_
+14	стариком	СТАРИК	S	S m anim ins sg	S m anim ins sg	12	2-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Опытность	ОПЫТНОСТЬ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	давала	ДАВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	2	2-компл	_	_
+4	перед	ПЕРЕД	PR	PR	PR	2	обст	_	_
+5	нами	МЫ	SPRO	SPRO pl 1p - ins	SPRO pl 1p - ins	4	предл	_	_
+6	многие	МНОГИЙ	A	A - nom pl plen - -	A - nom pl plen - -	7	опред	_	_
+7	преимущества	ПРЕИМУЩЕСТВО	S	S n inan nom pl	S n inan nom pl	2	сочин	_	_
+8	;	;	SENT	SENT	SENT	7	PUNC	_	_
+
+1	к	К	PR	PR	PR	6	вводн	_	_
+2	тому	ТО	S	S n - dat sg	S n - dat sg	1	предл	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	квазиагент	_	_
+5	обыкновенная	ОБЫКНОВЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	угрюмость	УГРЮМОСТЬ	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	крутой	КРУТОЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	нрав	НРАВ	S	S m inan nom sg	S m inan nom sg	6	сочин	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	злой	ЗЛОЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	опред	_	_
+12	язык	ЯЗЫК	S	S m inan nom sg	S m inan nom sg	10	соч-союзн	_	_
+13	имели	ИМЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+14	сильное	СИЛЬНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	15	опред	_	_
+15	влияние	ВЛИЯНИЕ	S	S n inan acc sg	S n inan acc sg	13	1-компл	_	_
+16	на	НА	PR	PR	PR	15	1-компл	_	_
+17	молодые	МОЛОДОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	19	опред	_	_
+18	наши	НАШ	A	A - acc pl plen - inan	A - acc pl plen - inan	19	опред	_	_
+19	умы	УМ	S	S m inan acc pl	S m inan acc pl	16	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Какая-то	КАКОЙ-ТО	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	таинственность	ТАИНСТВЕННОСТЬ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	окружала	ОКРУЖАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	судьбу	СУДЬБА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+6	;	;	SENT	SENT	SENT	5	PUNC	_	_
+
+1	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	казался	КАЗАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	русским	РУССКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	а	А	CONJ	CONJ	CONJ	2	сочин	_	_
+6	носил	НОСИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	соч-союзн	_	_
+7	иностранное	ИНОСТРАННЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	8	опред	_	_
+8	имя	ИМЯ	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Некогда	НЕКОГДА	ADV	ADV -	ADV -	3	обст	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	служил	СЛУЖИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	1-компл	_	_
+5	гусарах	ГУСАР	S	S m anim loc pl	S m anim loc pl	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+8	даже	ДАЖЕ	PART	PART	PART	9	огранич	_	_
+9	счастливо	СЧАСТЛИВО	ADV	ADV -	ADV -	7	соч-союзн	_	_
+10	;	;	SENT	SENT	SENT	9	PUNC	_	_
+
+1	никто	НИКТО	S	S m - nom sg	S m - nom sg	3	1-компл	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	знал	ЗНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	причины	ПРИЧИНА	S	S f inan gen sg	S f inan gen sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	побудившей	ПОБУЖДАТЬ	PARTCP	PARTCP pf praet loc sg plen f act -	PARTCP pf praet loc sg plen f act -	3	2-компл	_	_
+7	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	8	1-компл	_	_
+8	выйти	ВЫХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+9	в	В	PR	PR	PR	8	2-компл	_	_
+10	отставку	ОТСТАВКА	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+11	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+12	поселиться	ПОСЕЛЯТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	11	соч-союзн	_	_
+13	в	В	PR	PR	PR	12	обст	_	_
+14	бедном	БЕДНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	15	опред	_	_
+15	местечке	МЕСТЕЧКО	S	S n inan loc sg	S n inan loc sg	13	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	где	ГДЕ	ADV	ADV -	ADV -	18	обст	_	_
+18	жил	ЖИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	сент-соч	_	_
+19	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	18	предик	_	_
+20	вместе	ВМЕСТЕ	ADV	ADV -	ADV -	18	обст	_	_
+21	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+22	бедно	БЕДНО	ADV	ADV -	ADV -	21	соч-союзн	_	_
+23	и	И	CONJ	CONJ	CONJ	18	сент-соч	_	_
+24	расточительно	РАСТОЧИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	23	соч-союзн	_	_
+25	:	:	:	:	PUNC	26	1-компл	_	_
+26	ходил	ХОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	18	сочин	_	_
+27	вечно	ВЕЧНО	ADV	ADV -	ADV -	28	обст	_	_
+28	пешком	ПЕШКОМ	ADV	ADV -	ADV -	26	обст	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	в	В	PR	PR	PR	35	огранич	_	_
+31	изношенном	ИЗНОШЕННЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	33	опред	_	_
+32	черном	ЧЕРНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	33	опред	_	_
+33	сертуке	СЕРТУК	S	S m inan loc sg	S m inan loc sg	30	предл	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	а	А	CONJ	CONJ	CONJ	26	сочин	_	_
+36	держал	ДЕРЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	35	соч-союзн	_	_
+37	открытый	ОТКРЫТЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	38	опред	_	_
+38	стол	СТОЛ	S	S m inan acc sg	S m inan acc sg	36	1-компл	_	_
+39	для	ДЛЯ	PR	PR	PR	38	атриб	_	_
+40	всех	ВЕСЬ	A	A - gen pl plen - -	A - gen pl plen - -	41	опред	_	_
+41	офицеров	ОФИЦЕР	S	S m anim gen pl	S m anim gen pl	39	предл	_	_
+42	нашего	НАШ	A	A - gen sg plen m -	A - gen sg plen m -	43	опред	_	_
+43	полка	ПОЛК	S	S m inan gen sg	S m inan gen sg	41	1-компл	_	_
+44	.	.	SENT	SENT	SENT	43	PUNC	_	_
+
+1	Правда	ПРАВДА	ADV	ADV -	ADV -	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	обед	ОБЕД	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	квазиагент	_	_
+5	состоял	СОСТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	из	ИЗ	PR	PR	PR	5	1-компл	_	_
+7	двух	ДВА	NUM	NUM loc - -	NUM loc - -	0	ROOT	_	_
+8	или	ИЛИ	CONJ	CONJ	CONJ	7	сочин	_	_
+9	трех	ТРИ	NUM	NUM loc - -	NUM loc - -	8	соч-союзн	_	_
+10	блюд	БЛЮДО	S	S n inan gen pl	S n inan gen pl	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	изготовленных	ИЗГОТАВЛИВАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	10	опред	_	_
+13	отставным	ОТСТАВНОЙ	A	A - ins sg plen m -	A - ins sg plen m -	14	опред	_	_
+14	солдатом	СОЛДАТ	S	S m anim ins sg	S m anim ins sg	12	агент	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	но	НО	CONJ	CONJ	CONJ	7	сент-соч	_	_
+17	шампанское	ШАМПАНСКОЕ	S	S n inan nom sg	S n inan nom sg	18	предик	_	_
+18	лилось	ЛИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	16	соч-союзн	_	_
+19	притом	ПРИТОМ	CONJ	CONJ	CONJ	18	сочин	_	_
+20	рекою	РЕКА	S	S f inan ins sg	S f inan ins sg	19	соч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Никто	НИКТО	S	S m - nom sg	S m - nom sg	3	1-компл	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	знал	ЗНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	ни	НИ	CONJ	CONJ	CONJ	8	соотнос	_	_
+5	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	квазиагент	_	_
+6	состояния	СОСТОЯНИЕ	S	S n inan gen sg	S n inan gen sg	3	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	ни	НИ	CONJ	CONJ	CONJ	6	сочин	_	_
+9	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	10	квазиагент	_	_
+10	доходов	ДОХОД	S	S m inan gen pl	S m inan gen pl	8	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+13	никто	НИКТО	S	S m - nom sg	S m - nom sg	15	предик	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	осмеливался	ОСМЕЛИВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	соч-союзн	_	_
+16	о	О	PR	PR	PR	15	1-компл	_	_
+17	том	ТО	S	S n - loc sg	S n - loc sg	19	2-компл	_	_
+18	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	19	1-компл	_	_
+19	спрашивать	СПРАШИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	16	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	У	У	PR	PR	PR	3	обст	_	_
+2	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	1	предл	_	_
+3	водились	ВОДИТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	книги	КНИГА	S	S f inan nom pl	S f inan nom pl	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	большею	БОЛЬШИЙ	A	A - ins sg plen f -	A - ins sg plen f -	7	опред	_	_
+7	частию	ЧАСТЬ	S	S f inan ins sg	S f inan ins sg	8	атриб	_	_
+8	военные	ВОЕННЫЙ	S	S m anim nom pl	S m anim nom pl	4	сочин	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	да	ДА	CONJ	CONJ	CONJ	8	сочин	_	_
+11	романы	РОМАН	S	S m inan nom pl	S m inan nom pl	10	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	охотно	ОХОТНО	ADV	ADV -	ADV -	3	обст	_	_
+3	давал	ДАВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	5	1-компл	_	_
+5	читать	ЧИТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	никогда	НИКОГДА	ADV	ADV -	ADV -	9	обст	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	требуя	ТРЕБОВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	5	обст	_	_
+10	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	9	1-компл	_	_
+11	назад	НАЗАД	ADV	ADV -	ADV -	9	обст	_	_
+12	;	;	SENT	SENT	SENT	11	PUNC	_	_
+
+1	зато	ЗАТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	никогда	НИКОГДА	ADV	ADV -	ADV -	4	обст	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	возвращал	ВОЗВРАЩАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+5	хозяину	ХОЗЯИН	S	S m anim dat sg	S m anim dat sg	4	2-компл	_	_
+6	книги	КНИГА	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	им	ОНИ	SPRO	SPRO pl - - dat	SPRO pl - - dat	9	2-компл	_	_
+9	занятой	ЗАНИМАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	4	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Главное	ГЛАВНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+2	упражнение	УПРАЖНЕНИЕ	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+3	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	2	квазиагент	_	_
+4	состояло	СОСТОЯТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	в	В	PR	PR	PR	4	1-компл	_	_
+6	стрельбе	СТРЕЛЬБА	S	S f inan dat sg	S f inan dat sg	5	предл	_	_
+7	из	ИЗ	PR	PR	PR	6	атриб	_	_
+8	пистолета	ПИСТОЛЕТ	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Стены	СТЕНА	S	S f inan nom pl	S f inan nom pl	0	ROOT	_	_
+2	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	1	квазиагент	_	_
+3	комнаты	КОМНАТА	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+4	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	релят	_	_
+5	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	6	предик	_	_
+6	источены	ИСТОЧАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	4	пасс-анал	_	_
+7	пулями	ПУЛЯ	S	S f inan ins pl	S f inan ins pl	6	агент	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	все	ВСЕ	S	S - - acc pl	S - - acc pl	7	опред	_	_
+10	в	В	PR	PR	PR	9	обст	_	_
+11	скважинах	СКВАЖИНА	S	S f inan loc pl	S f inan loc pl	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	как	КАК	CONJ	CONJ	CONJ	9	сравнит	_	_
+14	соты	СОТЫ	S	S - inan nom pl	S - inan nom pl	13	сравн-союзн	_	_
+15	пчелиные	ПЧЕЛИНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	предик	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Богатое	БОГАТЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+2	собрание	СОБРАНИЕ	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+3	пистолетов	ПИСТОЛЕТ	S	S m inan gen pl	S m inan gen pl	2	квазиагент	_	_
+4	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	единственной	ЕДИНСТВЕННЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	6	опред	_	_
+6	роскошью	РОСКОШЬ	S	S f inan ins sg	S f inan ins sg	4	присвяз	_	_
+7	бедной	БЕДНЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	8	опред	_	_
+8	мазанки	МАЗАНКА	S	S f inan nom pl	S f inan nom pl	4	сент-соч	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	где	ГДЕ	ADV	ADV -	ADV -	12	обст	_	_
+11	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	предик	_	_
+12	жил	ЖИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	сент-соч	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Искусство	ИСКУССТВО	S	S n inan nom sg	S n inan nom sg	8	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	до	ДО	PR	PR	PR	5	обст	_	_
+4	коего	КОЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	предл	_	_
+5	достиг	ДОСТИГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	релят	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+9	неимоверно	НЕИМОВЕРНО	ADV	ADV -	ADV -	8	присвяз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+12	если	ЕСЛИ	CONJ	CONJ	CONJ	25	обст	_	_
+13	б	Б	PART	PART	PART	15	огранич	_	_
+14	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	15	предик	_	_
+15	вызвался	ВЫЗЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	подч-союзн	_	_
+16	пулей	ПУЛЯ	S	S f inan ins sg	S f inan ins sg	15	1-компл	_	_
+17	сбить	СБИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	16	1-компл	_	_
+18	грушу	ГРУША	S	S f inan acc sg	S f inan acc sg	17	1-компл	_	_
+19	с	С	PR	PR	PR	18	атриб	_	_
+20	фуражки	ФУРАЖКА	S	S f inan gen sg	S f inan gen sg	19	предл	_	_
+21	кого	КТО	S	S m - acc sg	S m - acc sg	25	предик	_	_
+22	б	Б	PART	PART	PART	25	огранич	_	_
+23	то	ТО	S	S n - nom sg	S n - nom sg	25	предик	_	_
+24	ни	НИ	PART	PART	PART	25	огранич	_	_
+25	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	11	соч-союзн	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	никто	НИКТО	S	S m - nom sg	S m - nom sg	34	1-компл	_	_
+28	б	Б	PART	PART	PART	29	огранич	_	_
+29	в	В	PR	PR	PR	27	обст	_	_
+30	нашем	НАШ	A	A - loc sg plen m -	A - loc sg plen m -	31	опред	_	_
+31	полку	ПОЛКА	S	S m inan loc2 sg	S m inan loc2 sg	29	предл	_	_
+32	не	НЕ	PART	PART	PART	33	огранич	_	_
+33	усумнился	УСУМНИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	25	релят	_	_
+34	подставить	ПОДСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	33	1-компл	_	_
+35	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	34	2-компл	_	_
+36	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	37	опред	_	_
+37	головы	ГОЛОВА	S	S f inan gen sg	S f inan gen sg	34	1-компл	_	_
+38	.	.	SENT	SENT	SENT	37	PUNC	_	_
+
+1	Разговор	РАЗГОВОР	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+2	между	МЕЖДУ	PR	PR	PR	1	квазиагент	_	_
+3	нами	МЫ	SPRO	SPRO pl 1p - ins	SPRO pl 1p - ins	2	предл	_	_
+4	касался	КАСАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	часто	ЧАСТО	ADV	ADV -	ADV -	4	обст	_	_
+6	поединков	ПОЕДИНОК	S	S m inan gen pl	S m inan gen pl	4	1-компл	_	_
+7	;	;	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	4	предик	_	_
+2	(	(	_	_	PUNC	3	PUNC	_	_
+3	так	ТАК	ADV	ADV -	ADV -	4	обст	_	_
+4	назову	НАЗЫВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+5	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	4	1-компл	_	_
+6	)	)	_	_	PUNC	5	PUNC	_	_
+7	никогда	НИКОГДА	ADV	ADV -	ADV -	11	обст	_	_
+8	в	В	PR	PR	PR	11	обст	_	_
+9	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	8	предл	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	вмешивался	ВМЕШИВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сент-соч	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	На	НА	PR	PR	PR	4	обст	_	_
+2	вопрос	ВОПРОС	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	случалось	СЛУЧАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	ли	ЛИ	PART	PART	PART	4	огранич	_	_
+6	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	4	2-компл	_	_
+7	драться	ДРАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	4	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сент-соч	_	_
+10	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	9	предик	_	_
+11	сухо	СУХО	ADV	ADV -	ADV -	9	обст	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	что	ЧТО	CONJ	CONJ	CONJ	9	1-компл	_	_
+14	случалось	СЛУЧАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	13	подч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	но	НО	CONJ	CONJ	CONJ	9	сент-соч	_	_
+17	в	В	PR	PR	PR	20	обст	_	_
+18	подробности	ПОДРОБНОСТЬ	S	S f inan acc pl	S f inan acc pl	17	предл	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	входил	ВХОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	соч-союзн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	и	И	CONJ	CONJ	CONJ	20	сент-соч	_	_
+23	видно	ВИДНО	ADV	ADV -	ADV -	24	присвяз	_	_
+24	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	22	соч-союзн	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	что	ЧТО	CONJ	CONJ	CONJ	24	предик	_	_
+27	таковые	ТАКОВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	28	опред	_	_
+28	вопросы	ВОПРОС	S	S m inan nom pl	S m inan nom pl	29	предик	_	_
+29	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	26	подч-союзн	_	_
+30	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	31	1-компл	_	_
+31	неприятны	НЕПРИЯТНЫЙ	A	A - - pl brev - -	A - - pl brev - -	29	присвяз	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	2	предик	_	_
+2	полагали	ПОЛАГАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	на	НА	PR	PR	PR	8	обст	_	_
+6	совести	СОВЕСТЬ	S	S f inan dat sg	S f inan dat sg	5	предл	_	_
+7	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	8	1-компл	_	_
+8	лежала	ЛЕЖАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	подч-союзн	_	_
+9	какая-нибудь	КАКОЙ-НИБУДЬ	A	A - nom sg plen f -	A - nom sg plen f -	11	опред	_	_
+10	несчастная	НЕСЧАСТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	11	опред	_	_
+11	жертва	ЖЕРТВА	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+12	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	14	квазиагент	_	_
+13	ужасного	УЖАСНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	14	опред	_	_
+14	искусства	ИСКУССТВО	S	S n inan gen sg	S n inan gen sg	11	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Впрочем	ВПРОЧЕМ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	нам	МЫ	SPRO	SPRO pl 1p - dat	SPRO pl 1p - dat	14	неакт-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	в	В	PR	PR	PR	8	обст	_	_
+6	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	приходило	ПРИХОДИТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	4	соч-союзн	_	_
+9	подозревать	ПОДОЗРЕВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+10	в	В	PR	PR	PR	9	обст	_	_
+11	нем	ОН	SPRO	SPRO sg 3p m loc	SPRO sg 3p m loc	10	предл	_	_
+12	что-нибудь	ЧТО-НИБУДЬ	S	S n - nom sg	S n - nom sg	14	обст	_	_
+13	похожее	ПОХОЖИЙ	A	A - nom sg plen n -	A - nom sg plen n -	14	предик	_	_
+14	на	НА	PR	PR	PR	0	ROOT	_	_
+15	робость	РОБОСТЬ	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+2	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	коих	КОЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+5	одна	ОДИН	A	A - nom sg plen f -	A - nom sg plen f -	6	количест	_	_
+6	наружность	НАРУЖНОСТЬ	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+7	удаляет	УДАЛЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	релят	_	_
+8	таковые	ТАКОВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	подозрения	ПОДОЗРЕНИЕ	S	S n inan nom pl	S n inan nom pl	7	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Нечаянный	НЕЧАЯННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	случай	СЛУЧАЙ	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+3	всех	ВЕСЬ	A	A - gen pl plen - -	A - gen pl plen - -	4	опред	_	_
+4	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	5	1-компл	_	_
+5	изумил	ИЗУМЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

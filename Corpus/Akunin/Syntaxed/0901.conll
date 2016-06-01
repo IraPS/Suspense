@@ -1,0 +1,58 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	промолчала	ПРОМОЛЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	потому что	потому что	CONJ	CONJ	ZERO	2	обст	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	знала	ЗНАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	подч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	замечательно	ЗАМЕЧАТЕЛЬНО	ADV	ADV -	ADV -	9	обст	_	_
+9	это	ЭТО	S	S n - nom sg	S n - nom sg	6	опред	_	_
+10	или	ИЛИ	CONJ	CONJ	CONJ	6	сочин	_	_
+11	нет	НЕТ	PART	PART	PART	10	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	От	ОТ	PR	PR	PR	6	обст	_	_
+2	Соболевской	СОБОЛЕВСКАЯ	S	S f anim loc sg	S f anim loc sg	1	предл	_	_
+3	лихости	ЛИХОСТЬ	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+4	у	У	PR	PR	PR	6	1-компл	_	_
+5	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	4	предл	_	_
+6	закружилась	ЗАКРУЖИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+7	голова	ГОЛОВА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	возникал	ВОЗНИКАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+4	вопрос	ВОПРОС	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+5	:	:	:	:	PUNC	4	1-компл	_	_
+6	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+7	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	0	ROOT	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	то	ТО	CONJ	CONJ	CONJ	6	вспом	_	_
+10	как	КАК	CONJ	CONJ	CONJ	6	соч-союзн	_	_
+11	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	сравн-союзн	_	_
+12	?	?	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Маршировать	МАРШИРОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+2	под	ПОД	PR	PR	PR	1	обст	_	_
+3	барабан	БАРАБАН	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+4	с	С	PR	PR	PR	1	2-компл	_	_
+5	егерским	ЕГЕРСКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	6	опред	_	_
+6	батальоном	БАТАЛЬОН	S	S m inan ins sg	S m inan ins sg	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	держась	ДЕРЖАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	1	обст	_	_
+9	за	ЗА	PR	PR	PR	8	1-компл	_	_
+10	стремя	СТРЕМЯ	S	S n inan acc sg	S n inan acc sg	9	предл	_	_
+11	Гульноры	ГУЛЬНОРА	S	S f anim gen sg	S f anim gen sg	10	1-компл	_	_
+12	?	?	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Или	ИЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	оставаться	ОСТАВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	1	инф-союзн	_	_
+3	среди	СРЕДИ	PR	PR	PR	2	обст	_	_
+4	ночи	НОЧЬ	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	во	ВО	PR	PR	PR	4	атриб	_	_
+6	вражеском	ВРАЖЕСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	7	опред	_	_
+7	городе	ГОРОД	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+8	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	7	квазиагент	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+

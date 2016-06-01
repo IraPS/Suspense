@@ -1,0 +1,25 @@
+1	По	ПО	PR	PR	PR	4	вводн	_	_
+2	дороге	ДОРОГА	S	S f inan dat sg	S f inan dat sg	1	предл	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	4	предик	_	_
+4	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	:	:	:	:	PUNC	11	предик	_	_
+6	–	–	–	–	PUNC	11	обст	_	_
+7	Неужто	НЕУЖТО	PART	PART	PART	8	огранич	_	_
+8	Казанзаки	КАЗАНЗАК	S	S m anim nom pl	S m anim nom pl	11	предик	_	_
+9	–	–	–	–	PUNC	11	опред	_	_
+10	турецкий	ТУРЕЦКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	агент	АГЕНТ	S	S m inan nom sg	S m inan nom sg	4	соч-союзн	_	_
+12	?	?	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Невероятно	НЕВЕРОЯТНО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Конечно	КОНЕЧНО	ADV	ADV -	ADV -	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	противный	ПРОТИВНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	4	сочин	_	_
+7	все же	все же	PART	PART	ZERO	6	огранич	_	_
+8	…	…	SENT	SENT	SENT	7	PUNC	_	_
+

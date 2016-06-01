@@ -1,0 +1,49 @@
+1	Уже	УЖЕ	ADV	ADV -	ADV -	2	огранич	_	_
+2	эту	ЭТОТ	A	A - acc sg plen f -	A - acc sg plen f -	3	опред	_	_
+3	бумажку	БУМАЖКА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+4	хотели	ХОТЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	послать	ПОСЫЛАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	1-компл	_	_
+6	на	НА	PR	PR	PR	5	2-компл	_	_
+7	склад	СКЛАД	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	но	НО	CONJ	CONJ	CONJ	4	сент-соч	_	_
+10	тут	ТУТ	ADV	ADV -	ADV -	13	обст	_	_
+11	к	К	PR	PR	PR	13	1-компл	_	_
+12	директору	ДИРЕКТОР	S	S m anim dat sg	S m anim dat sg	11	предл	_	_
+13	явилась	ЯВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	соч-союзн	_	_
+14	машинистка	МАШИНИСТКА	S	S f anim nom sg	S f anim nom sg	13	предик	_	_
+15	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+16	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	соч-союзн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	что	ЧТО	CONJ	CONJ	CONJ	16	1-компл	_	_
+19	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	21	предик	_	_
+20	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	21	обст	_	_
+21	звонила	ЗВОНИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	18	подч-союзн	_	_
+22	своей	СВОЙ	A	A - ins sg plen f -	A - ins sg plen f -	23	опред	_	_
+23	мамаше	МАМАША	S	S f anim dat sg	S f anim dat sg	21	1-компл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	старой	СТАРЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	26	опред	_	_
+26	машинистке	МАШИНИСТКА	S	S f anim dat sg	S f anim dat sg	23	об-аппоз	_	_
+27	с	С	PR	PR	PR	26	атриб	_	_
+28	тридцатилетним	ТРИДЦАТИЛЕТНИЙ	A	A - ins sg plen m -	A - ins sg plen m -	29	опред	_	_
+29	стажем	СТАЖ	S	S m inan ins sg	S m inan ins sg	27	предл	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	та	ТОТ	A	A - nom sg plen f -	A - nom sg plen f -	4	предик	_	_
+3	её	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	2	опред	_	_
+4	заверила	ЗАВЕРЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	нужно	НУЖНО	ADV	ADV -	ADV -	8	обст	_	_
+8	писать	ПИСАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+9	—	—	—	—	PUNC	11	опред	_	_
+10	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	11	количест	_	_
+11	кочерёг	КОЧЕРГА	S	S f inan gen pl	S f inan gen pl	8	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Или	ИЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	3	количест	_	_
+3	кочерг	КОЧЕРГ	S	S m inan acc sg	S m inan acc sg	1	соч-союзн	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

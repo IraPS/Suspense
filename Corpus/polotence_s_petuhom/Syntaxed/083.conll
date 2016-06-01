@@ -1,0 +1,69 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Сейчас	СЕЙЧАС	ADV	ADV -	ADV -	3	обст	_	_
+3	помрет	ПОМИРАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	-	-	-	-	PUNC	3	PUNC	_	_
+6	как бы	как бы	ADV	ADV -	-	7	обст	_	_
+7	угадал	УГАДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+8	мою	МОЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	мысль	МЫСЛЬ	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	шепнул	ШЕПНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+12	фельдшер	ФЕЛЬДШЕР	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	покосился	ПОКОСИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	2-компл	_	_
+4	простыню	ПРОСТЫНЯ	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	2	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	видимо	ВИДИМО	ADV	ADV -	ADV -	10	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	раздумал	РАЗДУМЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+11	:	:	:	:	PUNC	13	предик	_	_
+12	жаль	ЖАЛЬ	ADV	ADV -	ADV -	13	обст	_	_
+13	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	10	изъясн	_	_
+14	кровавить	КРОВАВИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	1-компл	_	_
+15	простыню	ПРОСТЫНЯ	S	S f inan acc sg	S f inan acc sg	14	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	через	ЧЕРЕЗ	PR	PR	PR	6	обст	_	_
+3	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	4	количест	_	_
+4	секунд	СЕКУНДА	S	S f inan gen pl	S f inan gen pl	2	предл	_	_
+5	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	7	1-компл	_	_
+6	пришлось	ПРИХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	подч-союзн	_	_
+7	прикрыть	ПРИКРЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	6	предик	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	лежала	ЛЕЖАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	2	сравнит	_	_
+5	труп	ТРУП	S	S m inan nom sg	S m inan nom sg	4	сравн-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+8	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	10	предик	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	умерла	УМИРАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	В	В	PR	PR	PR	5	обст	_	_
+2	голове	ГОЛОВА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	моей	МОЙ	A	A - gen sg plen f -	A - gen sg plen f -	5	предик	_	_
+4	вдруг	ВДРУГ	ADV	ADV -	ADV -	5	обст	_	_
+5	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+6	светло	СВЕТЛО	ADV	ADV -	ADV -	5	присвяз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	как	КАК	CONJ	CONJ	CONJ	6	сравнит	_	_
+9	под	ПОД	PR	PR	PR	8	сравн-союзн	_	_
+10	стеклянным	СТЕКЛЯННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	11	опред	_	_
+11	потолком	ПОТОЛОК	S	S m inan ins sg	S m inan ins sg	9	предл	_	_
+12	нашего	НАШ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+13	далекого	ДАЛЕКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+14	анатомического	АНАТОМИЧЕСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+15	театра	ТЕАТР	S	S m inan gen sg	S m inan gen sg	11	квазиагент	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

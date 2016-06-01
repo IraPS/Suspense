@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"операционный","gr":"A=abl,sg,plen,f"},{"lex":"операционный","gr":"A=dat,sg,plen,f"},{"lex":"операционный","gr":"A=gen,sg,plen,f"},{"lex":"операционный","gr":"A=ins,sg,plen,f"}],"text":"операционной"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"мыть","gr":"V,ipf,tran=praet,sg,indic,m"}],"text":"мыл"}
+{"analysis":[{"lex":"окровавливать","gr":"V,tran=praet,acc,pl,partcp,plen,pf,pass,inan"},{"lex":"окровавливать","gr":"V,tran=praet,nom,pl,partcp,plen,pf,pass"}],"text":"окровавленные"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"локоть","gr":"S,m,inan=acc,sg"},{"lex":"локоть","gr":"S,m,inan=nom,sg"}],"text":"локоть"}
+{"analysis":[{"lex":"рука","gr":"S,f,inan=acc,pl"},{"lex":"рука","gr":"S,f,inan=gen,sg"},{"lex":"рука","gr":"S,f,inan=nom,pl"}],"text":"руки"}

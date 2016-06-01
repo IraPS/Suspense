@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"потом","gr":"ADVPRO="}],"text":"Потом"}
+{"analysis":[{"lex":"раздаваться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"раздалось"}
+{"analysis":[{"lex":"характерный","gr":"A=acc,sg,plen,n"},{"lex":"характерный","gr":"A=nom,sg,plen,n"}],"text":"характерное"}
+{"analysis":[{"lex":"попискивание","qual":"bastard","gr":"S,n,inan=acc,sg"},{"lex":"попискивание","qual":"bastard","gr":"S,n,inan=nom,sg"}],"text":"попискивание"}
+{"analysis":[{"lex":"дочь","gr":"S,f,anim=acc,sg"},{"lex":"дочь","gr":"S,f,anim=nom,sg"}],"text":"дочь"}
+{"analysis":[{"lex":"решать","gr":"V,tran=praet,sg,indic,f,pf"}],"text":"решила"}
+{"analysis":[{"lex":"воспользоваться","gr":"V,pf,intr=inf"}],"text":"воспользоваться"}
+{"analysis":[{"lex":"мобильный","gr":"A=dat,pl,plen"},{"lex":"мобильный","gr":"A=ins,sg,plen,m"},{"lex":"мобильный","gr":"A=ins,sg,plen,n"}],"text":"мобильным"}
+{"analysis":[{"lex":"телефон","gr":"S,m,inan=ins,sg"}],"text":"телефоном"}

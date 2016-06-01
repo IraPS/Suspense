@@ -1,0 +1,66 @@
+1	П	П	S	S - - nonflex nonflex	S - - nonflex nonflex	3	предик	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	побывал	ПОБЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	1-компл	_	_
+5	редакции	РЕДАКЦИЯ	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	«	«	_	_	PUNC	7	PUNC	_	_
+7	Дейли	ДЕЙЛИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	5	аппоз	_	_
+8	пост	ПОСТ	S	S m inan acc sg	S m inan acc sg	3	сочин	_	_
+9	»	»	_	_	PUNC	8	PUNC	_	_
+10	,	,	,	,	PUNC	8	PUNC	_	_
+11	убедился	УБЕЖДАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+12	в	В	PR	PR	PR	11	обст	_	_
+13	полной	ПОЛНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	14	опред	_	_
+14	невиновности	НЕВИНОВНОСТЬ	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+15	Маклафлина	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	второе	ВТОРОЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	3	опред	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	друзья	ДРУГ	S	S m anim nom pl	S m anim nom pl	6	предик	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	коллеги	КОЛЛЕГА	S	S - anim nom pl	S - anim nom pl	4	соч-союзн	_	_
+6	отзываются	ОТЗЫВАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+7	о	О	PR	PR	PR	6	2-компл	_	_
+8	Шеймасе	ШЕЙМАС	S	S m anim gen sg	S m anim gen sg	7	предл	_	_
+9	как	КАК	CONJ	CONJ	CONJ	7	сравнит	_	_
+10	о	О	PR	PR	PR	9	сравн-союзн	_	_
+11	человеке	ЧЕЛОВЕК	S	S m anim loc sg	S m anim loc sg	10	предл	_	_
+12	прямом	ПРЯМОЙ	A	A - loc sg plen m -	A - loc sg plen m -	11	опред	_	_
+13	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+14	бесхитростном	БЕСХИТРОСТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	17	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	отрицательно	ОТРИЦАТЕЛЬНО	ADV	ADV -	ADV -	17	обст	_	_
+17	настроенном	НАСТРАИВАТЬ	PARTCP	PARTCP pf praet loc sg plen m pass -	PARTCP pf praet loc sg plen m pass -	13	соч-союзн	_	_
+18	по отношению к	по отношению к	PR	PR	ZERO	17	обст	_	_
+19	британской	БРИТАНСКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	20	опред	_	_
+20	политике	ПОЛИТИКА	S	S f inan dat sg	S f inan dat sg	18	предл	_	_
+21	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	более	БОЛЕЕ	ADV	ADV -	ADV -	24	огранич	_	_
+24	того	ТО	S	S n - gen sg	S n - gen sg	21	соч-союзн	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	чуть	ЧУТЬ	ADV	ADV -	ADV -	28	огранич	_	_
+27	ли	ЛИ	PART	PART	PART	26	огранич	_	_
+28	не	НЕ	PART	PART	PART	29	огранич	_	_
+29	связанном	СВЯЗЫВАТЬ	PARTCP	PARTCP pf praet loc sg plen m pass -	PARTCP pf praet loc sg plen m pass -	24	эксплет	_	_
+30	с	С	PR	PR	PR	29	2-компл	_	_
+31	ирландским	ИРЛАНДСКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	33	опред	_	_
+32	национальным	НАЦИОНАЛЬНЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	33	опред	_	_
+33	движением	ДВИЖЕНИЕ	S	S n inan ins sg	S n inan ins sg	30	предл	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	Агент	АГЕНТ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+2	коварного	КОВАРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+3	Дизраэли	ДИЗРАЭЛЬ	S	S m inan gen sg	S m inan gen sg	1	1-компл	_	_
+4	из	ИЗ	PR	PR	PR	3	2-компл	_	_
+5	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	4	предл	_	_
+6	никак	НИКАК	ADV	ADV -	ADV -	8	обст	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	вырисовывается	ВЫРИСОВЫВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

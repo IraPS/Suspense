@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"тут","gr":"ADVPRO="}],"text":"Тут"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"обливаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"облился"}
+{"analysis":[{"lex":"прохладный","gr":"A=dat,pl,plen"},{"lex":"прохладный","gr":"A=ins,sg,plen,m"},{"lex":"прохладный","gr":"A=ins,sg,plen,n"}],"text":"прохладным"}
+{"analysis":[{"lex":"пот","gr":"S,m,inan=ins,sg"}],"text":"потом"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"тоскливо","gr":"ADV="}],"text":"тоскливо"}
+{"analysis":[{"lex":"поглядеть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"поглядел"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"зеркальный","gr":"A=acc,pl,plen,inan"},{"lex":"зеркальный","gr":"A=nom,pl,plen"}],"text":"зеркальные"}
+{"analysis":[{"lex":"сиять","gr":"V,ipf,intr=inpraes,nom,pl,partcp,plen,act"},{"lex":"сиять","gr":"V,ipf,intr=inpraes,acc,pl,partcp,plen,act,inan"}],"text":"сияющие"}
+{"analysis":[{"lex":"шкафик","qual":"bastard","gr":"S,m,inan=acc,pl"},{"lex":"шкафик","qual":"bastard","gr":"S,m,inan=nom,pl"}],"text":"шкафики"}

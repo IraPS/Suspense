@@ -1,0 +1,52 @@
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	злой	ЗЛОЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	рок	РОК	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+4	сильнее	СИЛЬНО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+5	отваги	ОТВАГА	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Грянули	ГРЯНУТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+2	выстрелы	ВЫСТРЕЛ	S	S m inan nom pl	S m inan nom pl	1	предик	_	_
+3	из	ИЗ	PR	PR	PR	2	атриб	_	_
+4	засады	ЗАСАДА	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	1	сент-соч	_	_
+7	доблестный	ДОБЛЕСТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	ординарец	ОРДИНАРЕЦ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+9	рухнул	РУХНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+10	наземь	НАЗЕМЬ	ADV	ADV -	ADV -	9	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Обливаясь	ОБЛИВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	5	обст	_	_
+2	кровью	КРОВЬ	S	S f inan ins sg	S f inan ins sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+5	вскочил	ВСКАКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	с	С	PR	PR	PR	11	обст	_	_
+8	клинком	КЛИНОК	S	S m inan ins sg	S m inan ins sg	7	предл	_	_
+9	в	В	PR	PR	PR	8	атриб	_	_
+10	руке	РУКА	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	ринулся	РИНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+12	на	НА	PR	PR	PR	11	2-компл	_	_
+13	басурман	БАСУРМАНИН	S	S m anim acc pl	S m anim acc pl	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	но	НО	CONJ	CONJ	CONJ	5	сент-соч	_	_
+16	уж	УЖ	PART	PART	PART	17	огранич	_	_
+17	налетели	НАЛЕТАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	15	соч-союзн	_	_
+18	на	НА	PR	PR	PR	17	1-компл	_	_
+19	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	18	предл	_	_
+20	черными	ЧЕРНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	21	опред	_	_
+21	коршунами	КОРШУН	S	S m inan ins pl	S m inan ins pl	17	обст	_	_
+22	жестокие	ЖЕСТОКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	23	опред	_	_
+23	враги	ВРАГ	S	S m anim nom pl	S m anim nom pl	17	предик	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	повалили	ПОВАЛИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	17	сочин	_	_
+26	и	И	CONJ	CONJ	CONJ	25	сочин	_	_
+27	долго	ДОЛГО	ADV	ADV -	ADV -	28	обст	_	_
+28	рубили	РУБИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	26	соч-союзн	_	_
+29	шашками	ШАШКА	S	S f inan ins pl	S f inan ins pl	28	1-компл	_	_
+30	безжизненное	БЕЗЖИЗНЕННЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	31	опред	_	_
+31	тело	ТЕЛО	S	S n inan nom sg	S n inan nom sg	28	предик	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

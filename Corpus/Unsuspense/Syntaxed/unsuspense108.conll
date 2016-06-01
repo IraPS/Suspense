@@ -1,0 +1,106 @@
+1	За	ЗА	PR	PR	PR	5	обст	_	_
+2	последние	ПОСЛЕДНИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	3	опред	_	_
+3	годы	ГОД	S	S m inan acc pl	S m inan acc pl	1	предл	_	_
+4	одно	ОДИН	A	A - nom sg plen n -	A - nom sg plen n -	5	предик	_	_
+5	поддерживало	ПОДДЕРЖИВАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	угасающий	УГАСАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act inan	PARTCP ipf inpraes acc sg plen m act inan	7	опред	_	_
+7	дух	ДУХ	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+8	помещиков	ПОМЕЩИК	S	S m anim gen pl	S m anim gen pl	7	квазиагент	_	_
+9	—	—	—	—	PUNC	5	предик	_	_
+10	охота	ОХОТА	ADV	ADV -	ADV -	5	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Прежде	ПРЕЖДЕ	PR	PR	PR	10	обст	_	_
+2	такие	ТАКОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	3	опред	_	_
+3	усадьбы	УСАДЬБА	S	S f inan acc pl	S f inan acc pl	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как	КАК	CONJ	CONJ	CONJ	2	сравнит	_	_
+6	усадьба	УСАДЬБА	S	S f inan nom sg	S f inan nom sg	5	сравн-союзн	_	_
+7	Анны	АННА	S	S f anim gen sg	S f anim gen sg	6	квазиагент	_	_
+8	Герасимовны	ГЕРАСИМОВНА	S	S f anim gen sg	S f anim gen sg	7	аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	редкость	РЕДКОСТЬ	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	разрушающиеся	РАЗРУШАТЬСЯ	PARTCP	PARTCP ipf inpraes nom pl plen - act -	PARTCP ipf inpraes nom pl plen - act -	2	соч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	но	НО	CONJ	CONJ	CONJ	1	сент-соч	_	_
+6	все	ВСЕ	S	S - - nom pl	S - - nom pl	8	суб-копр	_	_
+7	еще	ЕЩЕ	ADV	ADV -	ADV -	8	огранич	_	_
+8	жившие	ЖИТЬ	PARTCP	PARTCP ipf praet nom pl plen - act -	PARTCP ipf praet nom pl plen - act -	0	ROOT	_	_
+9	на	НА	PR	PR	PR	8	1-компл	_	_
+10	широкую	ШИРОКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+11	ногу	НОГА	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+12	усадьбы	УСАДЬБА	S	S f inan gen sg	S f inan gen sg	11	1-компл	_	_
+13	с	С	PR	PR	PR	8	атриб	_	_
+14	огромным	ОГРОМНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	15	опред	_	_
+15	поместьем	ПОМЕСТЬЕ	S	S m inan ins sg	S m inan ins sg	13	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	с	С	PR	PR	PR	15	атриб	_	_
+18	садом	САД	S	S m inan ins sg	S m inan ins sg	17	предл	_	_
+19	в	В	PR	PR	PR	8	1-компл	_	_
+20	двадцать	ДВАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	21	количест	_	_
+21	десятин	ДЕСЯТИНА	S	S f inan gen pl	S f inan gen pl	19	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Правда	ПРАВДА	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	сохранились	СОХРАНЯТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	некоторые	НЕКОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	14	предик	_	_
+5	из	ИЗ	PR	PR	PR	4	электив	_	_
+6	таких	ТАКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	7	опред	_	_
+7	усадеб	УСАДЬБА	S	S f inan gen pl	S f inan gen pl	5	предл	_	_
+8	еще	ЕЩЕ	ADV	ADV -	ADV -	14	огранич	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	до	ДО	PR	PR	PR	9	соч-союзн	_	_
+11	сего	СЕЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	12	опред	_	_
+12	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	10	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+15	в	В	PR	PR	PR	18	предик	_	_
+16	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	15	предл	_	_
+17	уже	УЖЕ	ADV	ADV -	ADV -	18	огранич	_	_
+18	нет	НЕТ	ADV	ADV -	ADV -	14	соч-союзн	_	_
+19	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	18	квазиагент	_	_
+20	...	...	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Нет	НЕТ	PART	PART	PART	33	огранич	_	_
+2	троек	ТРОЙКА	S	S f inan gen pl	S f inan gen pl	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	нет	НЕТ	PART	PART	PART	5	огранич	_	_
+5	верховых	ВЕРХОВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	2	оп-опред	_	_
+6	«	«	_	_	PUNC	5	PUNC	_	_
+7	киргизов	КИРГИЗ	S	S m anim acc pl	S m anim acc pl	1	сент-соч	_	_
+8	»	»	_	_	PUNC	7	PUNC	_	_
+9	,	,	,	,	PUNC	7	PUNC	_	_
+10	нет	НЕТ	ADV	ADV -	ADV -	11	огранич	_	_
+11	гончих	ГОНЧИЙ	A	A - gen pl plen - -	A - gen pl plen - -	7	оп-опред	_	_
+12	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+13	борзых	БОРЗАЯ	S	S f anim acc pl	S f anim acc pl	12	соч-союзн	_	_
+14	собак	СОБАКА	S	S f anim gen pl	S f anim gen pl	13	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	нет	НЕТ	PART	PART	PART	17	огранич	_	_
+17	дворни	ДВОРНЯ	S	S f inan gen sg	S f inan gen sg	7	1-компл	_	_
+18	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+19	нет	НЕТ	ADV	ADV -	ADV -	21	огранич	_	_
+20	самого	САМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	21	опред	_	_
+21	обладателя	ОБЛАДАТЕЛЬ	S	S m anim gen sg	S m anim gen sg	18	соч-союзн	_	_
+22	всего	ВЕСЬ	A	A - acc sg plen m anim	A - acc sg plen m anim	25	опред	_	_
+23	этого	ЭТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	25	опред	_	_
+24	—	—	—	—	PUNC	25	опред	_	_
+25	помещика	ПОМЕЩИК	S	S m anim gen sg	S m anim gen sg	21	сочин	_	_
+26	-	-	-	-	PUNC	25	PUNC	_	_
+27	охотника	ОХОТНИК	S	S m anim gen sg	S m anim gen sg	25	аппоз	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	вроде	ВРОДЕ	PR	PR	PR	33	вводн	_	_
+30	моего	МОЙ	A	A - gen sg plen m -	A - gen sg plen m -	31	опред	_	_
+31	покойного	ПОКОЙНЫЙ	A	A comp2 - - plen - -	A comp2 - - plen - -	29	предл	_	_
+32	шурина	ШУРИН	S	S m anim acc sg	S m anim acc sg	33	1-компл	_	_
+33	Арсения	АРСЕНИЯ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+34	Семеныча	СЕМЕНЫЧ	S	S m anim nom sg	S m anim nom sg	33	аппоз	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+

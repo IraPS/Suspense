@@ -1,0 +1,17 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	немедленно	НЕМЕДЛЕННО	ADV	ADV -	ADV -	5	обст	_	_
+5	зашифровать	ЗАШИФРОВЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	разъяснит	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	отправить	ОТПРАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	6	соч-союзн	_	_
+8	Криденеру	КРИДЕНЕРА	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+9	по	ПО	PR	PR	PR	7	обст	_	_
+10	телеграфу	ТЕЛЕГРАФ	S	S m inan dat sg	S m inan dat sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	 	 	 	 	PUNC	14	2-компл	_	_
+13	–	–	–	–	PUNC	14	1-компл	_	_
+14	приказал	ПРИКАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	релят	_	_
+15	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"ведь","gr":"PART="}],"text":"ведь"}
+{"analysis":[{"lex":"накаркать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"накаркал"}
+{"text":"\\s"}
+{"analysis":[{"lex":"минута","gr":"S,f,inan=acc,sg"}],"text":"Минуту"}
+{"analysis":[{"lex":"спустя","gr":"PR="}],"text":"спустя"}
+{"analysis":[{"lex":"сзади","gr":"ADV="}],"text":"сзади"}
+{"analysis":[{"lex":"раздаваться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"раздался"}
+{"analysis":[{"lex":"приближаться","gr":"V,intr=inpraes,acc,sg,partcp,plen,m,ipf,act,inan"},{"lex":"приближаться","gr":"V,intr=inpraes,nom,sg,partcp,plen,m,ipf,act"}],"text":"приближающийся"}
+{"analysis":[{"lex":"стук","gr":"S,m,inan=acc,sg"},{"lex":"стук","gr":"S,m,inan=nom,sg"}],"text":"стук"}
+{"analysis":[{"lex":"копыто","gr":"S,n,inan=gen,pl"}],"text":"копыт"}

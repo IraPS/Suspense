@@ -1,0 +1,171 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Продолжай	ПРОДОЛЖАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	8	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Мизинов	МИЗИН	S	S f inan nom sg	S f inan nom sg	2	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	8	обст	_	_
+7	–	–	–	–	PUNC	8	1-компл	_	_
+8	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	император	ИМПЕРАТОР	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	9	1-компл	_	_
+2	С	С	PR	PR	PR	1	обст	_	_
+3	позволения	ПОЗВОЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	2	предл	_	_
+4	вашего	ВАШ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	величества	ВЕЛИЧЕСТВО	S	S n inan gen sg	S n inan gen sg	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	 	 	 	 	PUNC	9	обст	_	_
+8	–	–	–	–	PUNC	9	1-компл	_	_
+9	поднял	ПОДЫМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+10	сморщенный	СМОРЩЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	палец	ПАЛЕЦ	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+12	канцлер	КАНЦЛЕР	S	S m anim nom sg	S m anim nom sg	11	аппоз	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	11	предик	_	_
+2	Если	ЕСЛИ	CONJ	CONJ	CONJ	11	обст	_	_
+3	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	затеял	ЗАТЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	подч-союзн	_	_
+5	столь	СТОЛЬ	ADV	ADV -	ADV -	6	огранич	_	_
+6	ответственную	ОТВЕТСТВЕННЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	7	опред	_	_
+7	диверсию	ДИВЕРСИЯ	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	зачем	ЗАЧЕМ	ADV	ADV -	ADV -	11	обст	_	_
+10	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	11	1-компл	_	_
+11	понадобилось	ПОНАДОБИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+12	извещать	ИЗВЕЩАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	1-компл	_	_
+13	о	О	PR	PR	PR	12	1-компл	_	_
+14	своем	СВОЙ	A	A - loc sg plen n -	A - loc sg plen n -	15	опред	_	_
+15	намерении	НАМЕРЕНИЕ	S	S n inan loc sg	S n inan loc sg	13	предл	_	_
+16	сию	СЕЙ	A	A - acc sg plen f -	A - acc sg plen f -	17	опред	_	_
+17	девицу	ДЕВИЦА	S	S f anim acc sg	S f anim acc sg	15	1-компл	_	_
+18	?	?	SENT	SENT	SENT	17	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Палец	ПАЛЕЦ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+3	качнулся	КАЧНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	5	квазиагент	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Но	НО	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	это	ЭТО	S	S n - nom sg	S n - nom sg	5	предик	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	очевидно	ОЧЕВИДНО	ADV	ADV -	ADV -	2	соч-союзн	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	вытер	ВЫТИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	вспотевший	ВСПОТЕТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	5	опред	_	_
+5	лоб	ЛОБ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	присвяз	_	_
+2	Расчет	РАСЧЕТ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	обст	_	_
+5	то	ТО	S	S n - acc sg	S n - acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	эксплет	_	_
+8	Суворова	СУВОРОВ	S	S m anim gen sg	S m anim gen sg	10	предик	_	_
+9	немедленно	НЕМЕДЛЕННО	ADV	ADV -	ADV -	10	обст	_	_
+10	разнесет	РАЗНЕСТИ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	7	подч-союзн	_	_
+11	такую	ТАКОЙ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+12	сногсшибательную	СНОГСШИБАТЕЛЬНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+13	новость	НОВОСТЬ	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+14	по	ПО	PR	PR	PR	10	обст	_	_
+15	всему	ВСЕ	S	S n - dat sg	S n - dat sg	16	опред	_	_
+16	лагерю	ЛАГЕРЬ	S	S m inan dat sg	S m inan dat sg	14	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Сразу	СРАЗУ	ADV	ADV -	ADV -	3	обст	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	дойдет	ДОХОДИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+4	до	ДО	PR	PR	PR	3	1-компл	_	_
+5	штаба	ШТАБ	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Ликование	ЛИКОВАНИЕ	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	сумбур	СУМБУР	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Дальнюю	ДАЛЬНИЙ	A	A - acc sg plen f -	A - acc sg plen f -	2	опред	_	_
+2	канонаду	КАНОНАДА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+3	сочтут	СЧЕСТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+4	салютом	САЛЮТ	S	S m inan ins sg	S m inan ins sg	3	2-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Возможно	ВОЗМОЖНО	ADV	ADV -	ADV -	12	обст	_	_
+2	даже	ДАЖЕ	PART	PART	PART	7	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	на	НА	PR	PR	PR	7	вводн	_	_
+5	радостях	РАДОСТЬ	S	S f inan loc pl	S f inan loc pl	4	предл	_	_
+6	первому	ПЕРВЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	7	опред	_	_
+7	донесению	ДОНЕСЕНИЕ	S	S n inan dat sg	S n inan dat sg	12	1-компл	_	_
+8	от	ОТ	PR	PR	PR	7	1-компл	_	_
+9	атакованного	АТАКОВАТЬ	PARTCP	PARTCP ipf praet acc sg plen m pass anim	PARTCP ipf praet acc sg plen m pass anim	10	опред	_	_
+10	Ганецкого	ГАНЕЦКИЙ	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	поверят	ПОВЕРЯТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	15	1-компл	_	_
+13	–	–	–	–	PUNC	15	1-компл	_	_
+14	станут	СТАНОВИТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+15	перепроверять	ПЕРЕПРОВЕРЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	14	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Мелкий	МЕЛКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	штрих	ШТРИХ	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	импровизация	ИМПРОВИЗАЦИЯ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+5	ловкого	ЛОВКИЙ	A	A - gen sg plen n -	A - gen sg plen n -	6	опред	_	_
+6	интригана	ИНТРИГАН	S	S n inan gen sg	S n inan gen sg	4	квазиагент	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	Пожалуй	ПОЖАЛУЙ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	6	2-компл	_	_
+5	–	–	–	–	PUNC	6	1-компл	_	_
+6	согласился	СОГЛАШАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	князь	КНЯЗЬ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Но	НО	CONJ	CONJ	CONJ	1	эксплет	_	_
+3	куда	КУДА	ADV	ADV -	ADV -	4	2-компл	_	_
+4	делся	ДЕВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	соч-союзн	_	_
+5	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	царь	ЦАРЬ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	кого	КТО	S	S m - acc sg	S m - acc sg	5	1-компл	_	_
+4	бы	БЫ	PART	PART	PART	3	аналит	_	_
+5	допросить	ДОПРАШИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	да	ДА	CONJ	CONJ	CONJ	1	сочин	_	_
+8	очную	ОЧНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	ставку	СТАВКА	S	S f inan acc sg	S f inan acc sg	7	соч-союзн	_	_
+10	с	С	PR	PR	PR	9	атриб	_	_
+11	Веллсли	ВЕЛЛСЛИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	10	предл	_	_
+12	устроить	УСТРАИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Ох	ОХ	INTJ	INTJ	INTJ	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	отвертелся	ОТВЕРТЕТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	бы	БЫ	PART	PART	PART	4	аналит	_	_
+6	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+

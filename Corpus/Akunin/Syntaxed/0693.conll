@@ -1,0 +1,22 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	знала	ЗНАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	это	ЭТО	S	S n - nom sg	S n - nom sg	6	опред	_	_
+6	секретарь	СЕКРЕТАРЬ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+7	Мизинова	МИЗИНОВ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	тихий	ТИХИЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	опред	_	_
+10	чиновничек	ЧИНОВНИЧЕК	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+11	с	С	PR	PR	PR	10	атриб	_	_
+12	труднозапоминающейся	ТРУДНОЗАПОМИНАТЬСЯ	PARTCP	PARTCP ipf inpraes loc sg plen f act -	PARTCP ipf inpraes loc sg plen f act -	11	предл	_	_
+13	фамилией	ФАМИЛИЯ	S	S f inan ins sg	S f inan ins sg	10	атриб	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	18	предик	_	_
+16	почему-то	ПОЧЕМУ-ТО	ADV	ADV -	ADV -	18	обст	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	любят	ЛЮБИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	10	релят	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	опасаются	ОПАСАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	19	соч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

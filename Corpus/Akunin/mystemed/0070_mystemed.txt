@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"варварский","gr":"A=acc,sg,plen,n"},{"lex":"варварский","gr":"A=nom,sg,plen,n"}],"text":"Варварское"}
+{"analysis":[{"lex":"седло","gr":"S,n,inan=acc,sg"},{"lex":"седло","gr":"S,n,inan=nom,sg"}],"text":"седло"}
+{"analysis":[{"lex":"орудие","gr":"S,n,inan=acc,sg"},{"lex":"орудие","gr":"S,n,inan=nom,sg"}],"text":"орудие"}
+{"analysis":[{"lex":"пытка","gr":"S,f,inan=acc,pl"},{"lex":"пытка","gr":"S,f,inan=gen,sg"},{"lex":"пытка","gr":"S,f,inan=nom,pl"}],"text":"пытки"}
+{"analysis":[{"lex":"доставлять","gr":"V,tran=praet,sg,indic,n,ipf"}],"text":"доставляло"}
+{"analysis":[{"lex":"вар","gr":"S,m,inan=abl,sg"}],"text":"Варе"}
+{"analysis":[{"lex":"масса","gr":"S,f,inan=acc,sg"}],"text":"массу"}
+{"analysis":[{"lex":"неудобство","gr":"S,n,inan=gen,pl"}],"text":"неудобств"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"терпеть","gr":"V,ipf,tran=praet,sg,indic,f"}],"text":"терпела"}
+{"analysis":[{"lex":"время","gr":"S,n,inan=acc,sg"},{"lex":"время","gr":"S,n,inan=nom,sg"}],"text":"время"}
+{"analysis":[{"lex":"от","gr":"PR="}],"text":"от"}
+{"analysis":[{"lex":"время","gr":"S,n,inan=abl,sg"},{"lex":"время","gr":"S,n,inan=dat,sg"},{"lex":"время","gr":"S,n,inan=gen,sg"}],"text":"времени"}
+{"analysis":[{"lex":"менять","gr":"V,ipf,tran=inpraes,ger"}],"text":"меняя"}
+{"analysis":[{"lex":"центр","gr":"S,m,inan=acc,sg"},{"lex":"центр","gr":"S,m,inan=nom,sg"}],"text":"центр"}
+{"analysis":[{"lex":"тяжесть","gr":"S,f,inan=abl,sg"},{"lex":"тяжесть","gr":"S,f,inan=acc,pl"},{"lex":"тяжесть","gr":"S,f,inan=dat,sg"},{"lex":"тяжесть","gr":"S,f,inan=gen,sg"},{"lex":"тяжесть","gr":"S,f,inan=nom,pl"}],"text":"тяжести"}

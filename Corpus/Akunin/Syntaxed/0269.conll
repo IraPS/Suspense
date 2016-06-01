@@ -1,0 +1,39 @@
+1	Шатер	ШАТЕР	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	где	ГДЕ	ADV	ADV -	ADV -	4	обст	_	_
+4	собирались	СОБИРАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	аккредитованные	АККРЕДИТОВАТЬ	PARTCP	PARTCP ipf praet acc pl plen - pass inan	PARTCP ipf praet acc pl plen - pass inan	11	обст	_	_
+6	при	ПРИ	PR	PR	PR	5	обст	_	_
+7	главной	ГЛАВНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	8	опред	_	_
+8	квартире	КВАРТИРА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+9	журналисты	ЖУРНАЛИСТ	S	S m anim nom pl	S m anim nom pl	11	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	предик	_	_
+12	виден	ВИДНЫЙ	A	A - - sg brev m -	A - - sg brev m -	11	присвяз	_	_
+13	издалека	ИЗДАЛЕКА	ADV	ADV -	ADV -	11	обст	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	У	У	PR	PR	PR	6	1-компл	_	_
+2	входа	ВХОД	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	на	НА	PR	PR	PR	2	атриб	_	_
+4	длинном	ДЛИННЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	5	опред	_	_
+5	шнуре	ШНУР	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+6	висели	ВИСЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	флажки	ФЛАЖОК	S	S m inan nom pl	S m inan nom pl	6	предик	_	_
+8	разных	РАЗНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	стран	СТРАНА	S	S f inan gen pl	S f inan gen pl	7	квазиагент	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	вымпелы	ВЫМПЕЛ	S	S m inan nom pl	S m inan nom pl	7	сочин	_	_
+12	журналов	ЖУРНАЛ	S	S m inan gen pl	S m inan gen pl	11	квазиагент	_	_
+13	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+14	газет	ГАЗЕТА	S	S f inan gen pl	S f inan gen pl	13	соч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	а также	а также	CONJ	CONJ	ZERO	6	сент-соч	_	_
+17	почему-то	ПОЧЕМУ-ТО	ADV	ADV -	ADV -	19	огранич	_	_
+18	красные	КРАСНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	19	опред	_	_
+19	подтяжки	ПОДТЯЖКА	S	S f inan nom pl	S f inan nom pl	0	ROOT	_	_
+20	с	С	PR	PR	PR	19	атриб	_	_
+21	белыми	БЕЛЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	22	опред	_	_
+22	звездочками	ЗВЕЗДОЧКА	S	S m inan ins pl	S m inan ins pl	20	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

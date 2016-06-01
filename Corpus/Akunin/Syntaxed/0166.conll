@@ -1,0 +1,88 @@
+1	Особенно	ОСОБЕННО	ADV	ADV -	ADV -	2	огранич	_	_
+2	интересовали	ИНТЕРЕСОВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	жандарма	ЖАНДАРМ	S	S m anim acc sg	S m anim acc sg	2	1-компл	_	_
+4	подробности	ПОДРОБНОСТЬ	S	S f inan acc pl	S f inan acc pl	2	сочин	_	_
+5	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	квазиагент	_	_
+6	встречи	ВСТРЕЧА	S	S f inan gen sg	S f inan gen sg	4	квазиагент	_	_
+7	с	С	PR	PR	PR	6	2-компл	_	_
+8	«	«	_	_	PUNC	9	PUNC	_	_
+9	лицом	ЛИЦО	S	S n inan ins sg	S n inan ins sg	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	именующим	ИМЕНОВАТЬ	PARTCP	PARTCP ipf inpraes dat pl plen - act -	PARTCP ipf inpraes dat pl plen - act -	4	опред	_	_
+12	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	11	1-компл	_	_
+13	титулярным	ТИТУЛЯРНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	14	опред	_	_
+14	советником	СОВЕТНИК	S	S m anim ins sg	S m anim ins sg	11	2-компл	_	_
+15	Фандориным	ФАНДОРИН	S	S m anim dat pl	S m anim dat pl	11	1-компл	_	_
+16	»	»	_	_	PUNC	15	PUNC	_	_
+17	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	записал	ЗАПИСЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	про	ПРО	PR	PR	PR	6	3-компл	_	_
+5	видинского	ВИДИНСКИЙ	S	S m anim acc sg	S m anim acc sg	4	предл	_	_
+6	Юсуф	ЮСУФ	S	S m anim nom sg	S m anim nom sg	3	соч-союзн	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	пашу	ПАША	S	S m anim acc sg	S m anim acc sg	2	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+11	про	ПРО	PR	PR	PR	0	ROOT	_	_
+12	кофей	КОФЕЙ	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+13	с	С	PR	PR	PR	12	атриб	_	_
+14	французским	ФРАНЦУЗСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	15	опред	_	_
+15	языком	ЯЗЫК	S	S m inan ins sg	S m inan ins sg	13	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+18	про	ПРО	PR	PR	PR	17	соч-союзн	_	_
+19	выигранное	ВЫИГРЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen n pass -	PARTCP pf praet acc sg plen n pass -	22	опред	_	_
+20	в	В	PR	PR	PR	19	4-компл	_	_
+21	нарды	НАРДЫ	S	S - inan acc pl	S - inan acc pl	20	предл	_	_
+22	освобождение	ОСВОБОЖДЕНИЕ	S	S n inan nom sg	S n inan nom sg	18	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Больше	МНОГО	ADV	ADV comp	ADV comp	4	обст	_	_
+2	всего	ВСЕ	S	S n - gen sg	S n - gen sg	3	опред	_	_
+3	подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	оживился	ОЖИВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	когда	КОГДА	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	узнал	УЗНАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	подч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	волонтер	ВОЛОНТЕР	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+11	разговаривал	РАЗГОВАРИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	9	подч-союзн	_	_
+12	с	С	PR	PR	PR	11	обст	_	_
+13	башибузуками	БАШИБУЗУК	S	S m inan loc sg	S m inan loc sg	12	предл	_	_
+14	по-турецки	ПО-ТУРЕЦКИ	ADV	ADV -	ADV -	11	обст	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+17	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	16	соч-союзн	_	_
+18	хотел	ХОТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	сочин	_	_
+19	знать	ЗНАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	18	1-компл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	как	КАК	CONJ	CONJ	CONJ	18	сравнит	_	_
+22	именно	ИМЕННО	PART	PART	PART	23	огранич	_	_
+23	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	24	предик	_	_
+24	говорил	ГОВОРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	21	сравн-союзн	_	_
+25	–	–	–	–	PUNC	24	1-компл	_	_
+26	с	С	PR	PR	PR	24	обст	_	_
+27	запинкой	ЗАПИНКА	S	S f inan ins sg	S f inan ins sg	26	предл	_	_
+28	или	ИЛИ	CONJ	CONJ	CONJ	26	сочин	_	_
+29	без	БЕЗ	PR	PR	PR	28	соч-союзн	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	На	НА	PR	PR	PR	7	обст	_	_
+2	одно	ОДИН	A	A - acc sg plen n inan	A - acc sg plen n inan	1	предл	_	_
+3	выяснение	ВЫЯСНЕНИЕ	S	S n inan acc sg	S n inan acc sg	7	1-компл	_	_
+4	ерунды	ЕРУНДА	S	S f inan gen sg	S f inan gen sg	3	1-компл	_	_
+5	с	С	PR	PR	PR	4	1-компл	_	_
+6	запинкой	ЗАПИНКА	S	S f inan ins sg	S f inan ins sg	5	предл	_	_
+7	ушло	УХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	наверное	НАВЕРНОЕ	ADV	ADV -	ADV -	13	вводн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	меньше	МАЛО	NUM	NUM - - -	NUM - - -	13	количест	_	_
+13	получаса	ПОЛУЧАС	S	S m inan gen sg	S m inan gen sg	7	предик	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

@@ -1,0 +1,29 @@
+1	–	–	–	–	PUNC	5	опред	_	_
+2	Барышня	БАРЫШНЯ	S	S f anim nom sg	S f anim nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	1	вводн	_	_
+5	военный	ВОЕННЫЙ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+6	дожидаются	ДОЖИДАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	10	обст	_	_
+9	–	–	–	–	PUNC	10	1-компл	_	_
+10	выпалила	ВЫПАЛИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	1-компл	_	_
+11	Лушка	ЛУШКА	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Черный	ЧЕРНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	с	С	PR	PR	PR	2	сочин	_	_
+5	усами	УС	S	S m inan ins pl	S m inan ins pl	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	при	ПРИ	PR	PR	PR	6	соч-союзн	_	_
+8	букете	БУКЕТ	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Чего	ЧТО	S	S n inan gen sg	S n inan gen sg	2	1-компл	_	_
+2	сказать	СКАЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	вводн	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	то	ТО	NONLEX	NONLEX	NONLEX	0	ROOT	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+

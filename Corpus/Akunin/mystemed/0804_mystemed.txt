@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"во","gr":"PR="}],"text":"во"}
+{"analysis":[{"lex":"второй","gr":"ANUM=abl,sg,f"},{"lex":"второй","gr":"ANUM=dat,sg,f"},{"lex":"второй","gr":"ANUM=gen,sg,f"},{"lex":"второй","gr":"ANUM=ins,sg,f"},{"lex":"второй","gr":"ANUM=acc,sg,m,inan"},{"lex":"второй","gr":"ANUM=nom,sg,m"}],"text":"второй"}
+{"analysis":[{"lex":"раз","gr":"S,m,inan=acc,sg"},{"lex":"раз","gr":"S,m,inan=gen,pl"},{"lex":"раз","gr":"S,m,inan=nom,sg"}],"text":"раз"}
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"Так"}
+{"analysis":[{"lex":"значит","gr":"ADV,parenth="}],"text":"значит"}
+{"analysis":[{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"},{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Маклафлин"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"ганецкий","qual":"bastard","gr":"S,famn,m,anim=dat,pl"},{"lex":"ганецкий","qual":"bastard","gr":"S,famn,m,anim=ins,sg"}],"text":"Ганецким"}
+{"analysis":[{"lex":"хорошо","gr":"ADV=parenth"}],"text":"хорошо"}
+{"analysis":[{"lex":"знакомый","gr":"A=sg,brev,m"}],"text":"знаком"}
+{"analysis":[{"lex":"если","gr":"CONJ="}],"text":"если"}
+{"analysis":[{"lex":"называть","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"назвал"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"имя","gr":"S,n,inan=abl,sg"},{"lex":"имя","gr":"S,n,inan=dat,sg"},{"lex":"имя","gr":"S,n,inan=gen,sg"}],"text":"имени"}
+{"analysis":[{"lex":"отчество","gr":"S,n,inan=dat,sg"}],"text":"отчеству"}

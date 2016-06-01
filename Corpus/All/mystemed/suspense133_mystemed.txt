@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"Все"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"облегчение","gr":"S,n,inan=ins,sg"}],"text":"облегчением"}
+{"analysis":[{"lex":"вздыхать","gr":"V,intr=praet,pl,indic,pf"}],"text":"вздохнули"}
+{"analysis":[{"lex":"когда","gr":"CONJ="}],"text":"когда"}
+{"analysis":[{"lex":"увидеть","gr":"V,pf,tran=praet,pl,indic"}],"text":"увидели"}
+{"analysis":[{"lex":"платформа","gr":"S,f,inan=acc,sg"}],"text":"платформу"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"который","gr":"APRO=abl,sg,f"},{"lex":"который","gr":"APRO=dat,sg,f"},{"lex":"который","gr":"APRO=gen,sg,f"},{"lex":"который","gr":"APRO=ins,sg,f"}],"text":"которой"}
+{"analysis":[{"lex":"стоять","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"стоял"}
+{"analysis":[{"lex":"панфилыч","gr":"S,patrn,m,anim=nom,sg"}],"text":"Панфилыч"}

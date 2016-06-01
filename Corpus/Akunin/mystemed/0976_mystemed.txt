@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"За"}
+{"analysis":[{"lex":"дверь","gr":"S,f,inan=ins,sg"}],"text":"дверью"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"стало"}
+{"analysis":[{"lex":"тихо","gr":"ADV="}],"text":"тихо"}

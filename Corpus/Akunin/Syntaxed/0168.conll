@@ -1,0 +1,22 @@
+1	–	–	–	–	PUNC	8	1-компл	_	_
+2	Генерал-адъютант	ГЕНЕРАЛ-АДЪЮТАНТ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	 	 	 	 	PUNC	8	обст	_	_
+6	–	–	–	–	PUNC	8	1-компл	_	_
+7	зычно	ЗЫЧНО	ADV	ADV -	ADV -	8	обст	_	_
+8	объявил	ОБЪЯВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	8	предик	_	_
+10	с	С	PR	PR	PR	8	обст	_	_
+11	порога	ПОРОГ	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	строго	СТРОГО	ADV	ADV -	ADV -	14	обст	_	_
+14	взглянув	ВЗГЛЯДЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	8	обст	_	_
+15	на	НА	PR	PR	PR	14	1-компл	_	_
+16	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	15	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Казанзаки	КАЗАНЗАК	S	S m anim nom pl	S m anim nom pl	1	предик	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+

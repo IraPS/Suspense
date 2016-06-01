@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=abl"},{"lex":"вы","gr":"SPRO,pl,2p=acc"},{"lex":"вы","gr":"SPRO,pl,2p=gen"}],"text":"Вас"}
+{"analysis":[{"lex":"конечно","gr":"ADV,parenth="}],"text":"конечно"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"самый","gr":"APRO=abl,sg,m"},{"lex":"самый","gr":"APRO=abl,sg,n"}],"text":"самом"}
+{"analysis":[{"lex":"дело","gr":"S,n,inan=abl,sg"}],"text":"деле"}
+{"analysis":[{"lex":"интересовать","gr":"V,ipf,tran=inpraes,sg,indic,3p"}],"text":"интересует"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inpraes,sg,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=inpraes,pl,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,1p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,1p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,2p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,2p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,3p,ipf"}],"text":"есть"}
+{"analysis":[{"lex":"ли","gr":"PART="}],"text":"ли"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=acc"},{"lex":"я","gr":"SPRO,sg,1p=gen"}],"text":"меня"}
+{"analysis":[{"lex":"жена","gr":"S,f,anim=nom,sg"}],"text":"жена"}
+{"analysis":[{"lex":"улыбаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"улыбнулся"}
+{"analysis":[{"lex":"журналист","gr":"S,m,anim=nom,sg"}],"text":"журналист"}

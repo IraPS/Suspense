@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Фандорин"}
+{"analysis":[{"lex":"дернуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"дернул"}
+{"analysis":[{"lex":"подбородок","gr":"S,m,inan=ins,sg"}],"text":"подбородком"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"ничто","gr":"SPRO,sg,n=gen"}],"text":"ничего"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}

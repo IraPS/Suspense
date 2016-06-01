@@ -1,0 +1,21 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Господа	ГОСПОДИН	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	разве	РАЗВЕ	PART	PART	PART	5	огранич	_	_
+5	в	В	PR	PR	PR	8	обст	_	_
+6	парламент	ПАРЛАМЕНТ	S	S m inan acc sg	S m inan acc sg	5	предл	_	_
+7	принудительно	ПРИНУДИТЕЛЬНО	ADV	ADV -	ADV -	8	обст	_	_
+8	выбирают	ВЫБИРАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	встревожился	ВСТРЕВОЖИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	гусар	ГУСАР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	все	ВСЕ	S	S - - nom pl	S - - nom pl	7	1-компл	_	_
+7	развеселились	РАЗВЕСЕЛЯТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	5	соч-союзн	_	_
+8	еще	ЕЩЕ	ADV	ADV -	ADV -	9	огранич	_	_
+9	пуще	ПУЩЕ	ADV	ADV -	ADV -	7	обст	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

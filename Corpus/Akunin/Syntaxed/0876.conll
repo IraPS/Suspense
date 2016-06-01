@@ -1,0 +1,62 @@
+1	–	–	–	–	PUNC	2	2-компл	_	_
+2	Пустите	ПУСКАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	0	ROOT	_	_
+3	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	Михаил	МИХАИЛ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+6	Дмитриевич	ДМИТРИЕВИЧ	S	S m anim nom sg	S m anim nom sg	5	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	10	обст	_	_
+9	–	–	–	–	PUNC	10	1-компл	_	_
+10	попросил	ПОПРОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сент-соч	_	_
+11	бравый	БРАВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+12	кавалерийский	КАВАЛЕРИЙСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+14	(	(	_	_	PUNC	15	PUNC	_	_
+15	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	19	вводн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	18	квазиагент	_	_
+18	фамилия	ФАМИЛИЯ	S	S f inan nom sg	S f inan nom sg	19	предик	_	_
+19	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	10	сент-соч	_	_
+20	Струков	СТРУК	S	S m anim acc pl	S m anim acc pl	19	присвяз	_	_
+21	)	)	_	_	PUNC	20	PUNC	_	_
+22	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Посажу	ПОСАДИТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+3	по	ПО	PR	PR	PR	2	2-компл	_	_
+4	вагонам	ВАГОН	S	S m inan dat pl	S m inan dat pl	3	предл	_	_
+5	своих	СВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	казачков	КАЗАЧОК	S	S m anim acc pl	S m anim acc pl	2	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	прокатимся	ПРОКАТИТЬСЯ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	6	сочин	_	_
+9	с	С	PR	PR	PR	8	2-компл	_	_
+10	ветерком	ВЕТЕРОК	S	S m inan ins sg	S m inan ins sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Глядишь	ГЛЯДЕТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	8	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	какого-нибудь	КАКОЙ-НИБУДЬ	A	A - acc sg plen m anim	A - acc sg plen m anim	5	опред	_	_
+5	пашу	ПАША	S	S m anim acc sg	S m anim acc sg	8	1-компл	_	_
+6	в	В	PR	PR	PR	8	обст	_	_
+7	плен	ПЛЕН	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+8	захватим	ЗАХВАТИТЬ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	что	ЧТО	CONJ	CONJ	CONJ	1	вспом	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	имеем	ИМЕТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	1	соч-союзн	_	_
+5	право	ПРАВО	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Приказа	ПРИКАЗ	S	S m inan gen sg	S m inan gen sg	0	ROOT	_	_
+2	о	О	PR	PR	PR	1	1-компл	_	_
+3	прекращении	ПРЕКРАЩЕНИЕ	S	S n inan loc sg	S n inan loc sg	2	предл	_	_
+4	военных	ВОЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	5	опред	_	_
+5	действий	ДЕЙСТВИЕ	S	S n inan gen pl	S n inan gen pl	3	1-компл	_	_
+6	пока	ПОКА	CONJ	CONJ	CONJ	1	обст	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	поступало	ПОСТУПАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	6	подч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

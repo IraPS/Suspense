@@ -1,0 +1,46 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	когда	КОГДА	CONJ	CONJ	CONJ	23	обст	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	предик	_	_
+4	уже	УЖЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	подч-союзн	_	_
+6	на	НА	PR	PR	PR	5	присвяз	_	_
+7	грани	ГРАНЬ	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	сухой	СУХОЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	сочин	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	бесслезной	БЕССЛЕЗНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	11	опред	_	_
+11	истерики	ИСТЕРИКА	S	S f inan gen sg	S f inan gen sg	8	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	дверь	ДВЕРЬ	S	S f inan nom sg	S f inan nom sg	18	предик	_	_
+14	глинобитной	ГЛИНОБИТНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	13	опред	_	_
+15	хатенки	ХАТЕНКА	S	S f inan acc pl	S f inan acc pl	14	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	где	ГДЕ	ADV	ADV -	ADV -	18	обст	_	_
+18	располагалась	РАСПОЛАГАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	11	релят	_	_
+19	особая	ОСОБЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	20	опред	_	_
+20	часть	ЧАСТЬ	S	S f inan nom sg	S f inan nom sg	18	сравн-союзн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	внезапно	ВНЕЗАПНО	ADV	ADV -	ADV -	23	обст	_	_
+23	распахнулась	РАСПАХИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	и	И	CONJ	CONJ	CONJ	23	сент-соч	_	_
+26	вошел	ВХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	25	соч-союзн	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	даже	ДАЖЕ	CONJ	CONJ	CONJ	23	обст	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	скорее	СКОРО	ADV	ADV comp	ADV comp	32	вводн	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	вбежал	ВБЕГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	28	подч-союзн	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	очень	ОЧЕНЬ	ADV	ADV -	ADV -	35	огранич	_	_
+35	важный	ВАЖНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	36	опред	_	_
+36	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	32	предик	_	_
+37	,	,	,	,	PUNC	36	PUNC	_	_
+38	с	С	PR	PR	PR	41	вводн	_	_
+39	начальственно	НАЧАЛЬСТВЕННЫЙ	A	A - - sg brev n -	A - - sg brev n -	38	предл	_	_
+40	выпученными	ВЫПУЧИВАТЬ	PARTCP	PARTCP pf praet ins pl plen - pass -	PARTCP pf praet ins pl plen - pass -	41	опред	_	_
+41	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	32	обст	_	_
+42	и	И	CONJ	CONJ	CONJ	41	сочин	_	_
+43	пышными	ПЫШНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	44	опред	_	_
+44	подусниками	ПОДУСНИК	S	S m inan ins pl	S m inan ins pl	42	соч-союзн	_	_
+45	.	.	SENT	SENT	SENT	44	PUNC	_	_
+

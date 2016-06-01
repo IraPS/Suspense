@@ -1,0 +1,133 @@
+1	Вокруг	ВОКРУГ	ADV	ADV -	ADV -	2	обст	_	_
+2	царило	ЦАРИТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	оживление	ОЖИВЛЕНИЕ	S	S n inan nom sg	S n inan nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+7	изо	ИЗО	PR	PR	PR	10	обст	_	_
+8	всех	ВЕСЬ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	сил	СИЛА	S	S f inan gen pl	S f inan gen pl	7	предл	_	_
+10	старалась	СТАРАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	5	соч-союзн	_	_
+11	проникнуться	ПРОНИКАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	10	1-компл	_	_
+12	всеобщим	ВСЕОБЩИЙ	A	A - ins sg plen m -	A - ins sg plen m -	13	опред	_	_
+13	подъемом	ПОДЪЕМ	S	S m inan ins sg	S m inan ins sg	11	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	но	НО	CONJ	CONJ	CONJ	10	сент-соч	_	_
+16	как-то	КАК-ТО	ADV	ADV -	ADV -	18	обст	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	получалось	ПОЛУЧАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	15	соч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	3	обст	_	_
+2	правде	ПРАВДА	S	S f inan dat sg	S f inan dat sg	1	предл	_	_
+3	говоря	ГОВОРИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	8	1-компл	_	_
+6	до	ДО	PR	PR	PR	8	обст	_	_
+7	смерти	СМЕРТЬ	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+8	наскучили	НАСКУЧИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+9	разговоры	РАЗГОВОР	S	S m inan nom pl	S m inan nom pl	8	предик	_	_
+10	о	О	PR	PR	PR	9	2-компл	_	_
+11	резервах	РЕЗЕРВ	S	S m inan loc pl	S m inan loc pl	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	дислокациях	ДИСЛОКАЦИЯ	S	S m inan gen sg	S m inan gen sg	11	квазиагент	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+15	коммуникациях	КОММУНИКАЦИЯ	S	S f inan loc pl	S f inan loc pl	14	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	К	К	PR	PR	PR	5	2-компл	_	_
+2	Пете	ПЕТЯ	S	S m anim dat sg	S m anim dat sg	1	предл	_	_
+3	по-прежнему	ПО-ПРЕЖНЕМУ	ADV	ADV -	ADV -	5	обст	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	пускали	ПУСКАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	Фандорин	ФАНДОРИН	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+8	ходил	ХОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	сент-соч	_	_
+9	мрачнее	МРАЧНЫЙ	A	A comp - - plen - -	A comp - - plen - -	8	присвяз	_	_
+10	ночи	НОЧЬ	S	S f inan gen sg	S f inan gen sg	9	сравнит	_	_
+11	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+12	на	НА	PR	PR	PR	14	обст	_	_
+13	вопросы	ВОПРОС	S	S m inan acc pl	S m inan acc pl	12	предл	_	_
+14	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	соч-союзн	_	_
+15	невразумительным	НЕВРАЗУМИТЕЛЬНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	16	опред	_	_
+16	мычанием	МЫЧАНИЕ	S	S n inan ins sg	S n inan ins sg	14	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	19	предик	_	_
+19	появлялся	ПОЯВЛЯТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	14	сент-соч	_	_
+20	только	ТОЛЬКО	PART	PART	PART	21	огранич	_	_
+21	сопровождая	СОПРОВОЖДАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	19	обст	_	_
+22	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	23	опред	_	_
+23	патрона	ПАТРОН	S	S m anim gen sg	S m anim gen sg	21	1-компл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	косился	КОСИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	19	сочин	_	_
+26	на	НА	PR	PR	PR	25	1-компл	_	_
+27	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	26	предл	_	_
+28	взглядом	ВЗГЛЯД	S	S m inan ins sg	S m inan ins sg	25	2-компл	_	_
+29	плененного	ПЛЕНЯТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	30	опред	_	_
+30	волка	ВОЛК	S	S m anim gen sg	S m anim gen sg	28	квазиагент	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	строил	СТРОИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	25	сочин	_	_
+33	жалостные	ЖАЛОСТНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	34	опред	_	_
+34	рожи	РОЖА	S	S f inan acc pl	S f inan acc pl	32	1-компл	_	_
+35	буфетчику	БУФЕТЧИК	S	S m anim dat sg	S m anim dat sg	32	2-компл	_	_
+36	Семену	СЕМЕН	S	S m anim dat sg	S m anim dat sg	35	аппоз	_	_
+37	,	,	,	,	PUNC	36	PUNC	_	_
+38	но	НО	CONJ	CONJ	CONJ	32	сочин	_	_
+39	в	В	PR	PR	PR	42	обст	_	_
+40	карты	КАРТА	S	S f inan acc pl	S f inan acc pl	39	предл	_	_
+41	не	НЕ	PART	PART	PART	42	огранич	_	_
+42	играл	ИГРАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	38	соч-союзн	_	_
+43	и	И	CONJ	CONJ	CONJ	42	сочин	_	_
+44	вина	ВИНО	S	S n inan gen sg	S n inan gen sg	46	1-компл	_	_
+45	не	НЕ	PART	PART	PART	46	огранич	_	_
+46	просил	ПРОСИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	43	соч-союзн	_	_
+47	–	–	–	–	PUNC	51	1-компл	_	_
+48	в	В	PR	PR	PR	47	обст	_	_
+49	отряде	ОТРЯД	S	S m inan loc sg	S m inan loc sg	48	предл	_	_
+50	Соболева	СОБОЛЕВА	S	S m anim gen sg	S m anim gen sg	49	квазиагент	_	_
+51	царила	ЦАРИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	46	1-компл	_	_
+52	железная	ЖЕЛЕЗНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	53	опред	_	_
+53	дисциплина	ДИСЦИПЛИНА	S	S f inan nom sg	S f inan nom sg	51	предик	_	_
+54	.	.	SENT	SENT	SENT	53	PUNC	_	_
+
+1	Гусар	ГУСАР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	пожаловался	ПОЖАЛОВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	шепотом	ШЕПОТОМ	ADV	ADV -	ADV -	2	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+6	«	«	_	_	PUNC	7	PUNC	_	_
+7	Жеромка	ЖЕРОМКА	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+8	»	»	_	_	PUNC	7	PUNC	_	_
+9	прибрал	ПРИБИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	подч-союзн	_	_
+10	к	К	PR	PR	PR	9	2-компл	_	_
+11	рукам	РУКА	S	S f inan dat pl	S f inan dat pl	10	предл	_	_
+12	«	«	_	_	PUNC	11	PUNC	_	_
+13	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	14	опред	_	_
+14	хозяйство	ХОЗЯЙСТВО	S	S n inan nom sg	S n inan nom sg	9	1-компл	_	_
+15	»	»	_	_	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+17	никому	НИКТО	S	S m - dat sg	S m - dat sg	18	1-компл	_	_
+18	вздохнуть	ВЗДЫХАТЬ	V	V pf - - inf - -	V pf - - inf - -	20	1-компл	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	дает	ДАВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	16	соч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Михаил	МИХАИЛ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+3	Дмитриевич	ДМИТРИЕВИЧ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	5	1-компл	_	_
+5	оберегает	ОБЕРЕГАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	дает	ДАВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	соч-союзн	_	_
+9	закатить	ЗАКАТИТЬ	V	V pf - - inf - -	V pf - - inf - -	8	1-компл	_	_
+10	хорошую	ХОРОШИЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+11	взбучку	ВЗБУЧКА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Скорей	СКОРО	ADV	ADV comp	ADV comp	4	обст	_	_
+2	бы	БЫ	PART	PART	PART	4	аналит	_	_
+3	уж	УЖ	PART	PART	PART	4	огранич	_	_
+4	штурм	ШТУРМ	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

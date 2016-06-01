@@ -1,0 +1,27 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	уже	УЖЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	час	ЧАС	S	S m inan nom sg	S m inan nom sg	8	1-компл	_	_
+6	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+7	пыталась	ПЫТАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	соч-союзн	_	_
+8	объяснить	ОБЪЯСНЯТЬ	V	V pf - - inf - -	V pf - - inf - -	7	1-компл	_	_
+9	бритому	БРИТЬ	PARTCP	PARTCP ipf praet dat sg plen m pass -	PARTCP ipf praet dat sg plen m pass -	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	бровастому	БРОВАСТЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	12	опред	_	_
+12	мучителю	МУЧИТЕЛЬ	S	S f inan nom sg	S f inan nom sg	20	предик	_	_
+13	в	В	PR	PR	PR	12	атриб	_	_
+14	синем	СИНИЙ	A	A - loc sg plen m -	A - loc sg plen m -	15	опред	_	_
+15	мундире	МУНДИР	S	S m inan loc sg	S m inan loc sg	13	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	какого	КАКОЙ	A	A - gen sg plen m -	A - gen sg plen m -	18	опред	_	_
+18	рода	РОД	S	S m inan gen sg	S m inan gen sg	19	атриб	_	_
+19	отношения	ОТНОШЕНИЕ	S	S n inan gen sg	S n inan gen sg	20	1-компл	_	_
+20	связывают	СВЯЗЫВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	7	изъясн	_	_
+21	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	20	1-компл	_	_
+22	с	С	PR	PR	PR	20	2-компл	_	_
+23	шифровальщиком	ШИФРОВАЛЬЩИК	S	S m anim ins sg	S m anim ins sg	22	предл	_	_
+24	Петром	ПЕТР	S	S m anim ins sg	S m anim ins sg	23	аппоз	_	_
+25	Яблоновым	ЯБЛОНОВ	S	S m anim gen sg	S m anim gen sg	24	1-компл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"вспомнить","gr":"V,pf,tran=praet,ger"}],"text":"Вспомнив"}
+{"analysis":[{"lex":"этот","gr":"APRO=nom,pl"},{"lex":"этот","gr":"APRO=acc,pl,inan"}],"text":"эти"}
+{"analysis":[{"lex":"замечательный","gr":"A=acc,pl,plen,inan"},{"lex":"замечательный","gr":"A=nom,pl,plen"}],"text":"замечательные"}
+{"analysis":[{"lex":"слово","gr":"S,n,inan=acc,pl"},{"lex":"слово","gr":"S,n,inan=gen,sg"},{"lex":"слово","gr":"S,n,inan=nom,pl"}],"text":"слова"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"улыбаться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"улыбнулась"}
+{"analysis":[{"lex":"повертываться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"повернулась"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"бок","gr":"S,m,inan=acc,sg"},{"lex":"бок","gr":"S,m,inan=nom,sg"}],"text":"бок"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"стала"}
+{"analysis":[{"lex":"думать","gr":"V,ipf,intr=inf"}],"text":"думать"}
+{"analysis":[{"lex":"про","gr":"PR="}],"text":"про"}
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"д"}
+{"analysis":[{"lex":"эвр","qual":"bastard","gr":"S,m,inan=abl,sg"}],"text":"Эвре"}

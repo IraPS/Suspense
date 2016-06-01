@@ -1,0 +1,111 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	осенний	ОСЕННИЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	ясный	ЯСНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	немножко	НЕМНОЖКО	ADV	ADV -	ADV -	7	огранич	_	_
+7	холодный	ХОЛОДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	сочин	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	утром	УТРО	S	S n inan ins sg	S n inan ins sg	7	сочин	_	_
+10	морозный	МОРОЗНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	11	опред	_	_
+11	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	24	обст	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	когда	КОГДА	CONJ	CONJ	CONJ	11	эксплет	_	_
+14	береза	БЕРЕЗА	S	S f inan nom sg	S f inan nom sg	21	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	словно	СЛОВНО	CONJ	CONJ	CONJ	14	сравнит	_	_
+17	сказочное	СКАЗОЧНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	18	опред	_	_
+18	дерево	ДЕРЕВО	S	S n inan nom sg	S n inan nom sg	16	сравн-союзн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	21	опред	_	_
+21	золотая	ЗОЛОТОЙ	A	A - nom sg plen f -	A - nom sg plen f -	13	подч-союзн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	красиво	КРАСИВО	ADV	ADV -	ADV -	24	обст	_	_
+24	рисуется	РИСОВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+25	на	НА	PR	PR	PR	24	обст	_	_
+26	бледно-голубом	БЛЕДНО-ГОЛУБОЙ	A	A - loc sg plen n -	A - loc sg plen n -	27	опред	_	_
+27	небе	НЕБО	S	S n inan loc sg	S n inan loc sg	25	предл	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	когда	КОГДА	CONJ	CONJ	CONJ	24	обст	_	_
+30	низкое	НИЗКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	31	опред	_	_
+31	солнце	СОЛНЦЕ	S	S n inan nom sg	S n inan nom sg	34	предик	_	_
+32	уж	УЖ	PART	PART	PART	34	огранич	_	_
+33	не	НЕ	PART	PART	PART	34	огранич	_	_
+34	греет	ГРЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	29	подч-союзн	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	но	НО	CONJ	CONJ	CONJ	34	сочин	_	_
+37	блестит	БЛЕСТЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	36	соч-союзн	_	_
+38	ярче	ЯРКО	ADV	ADV comp	ADV comp	37	обст	_	_
+39	летнего	ЛЕТНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	58	1-компл	_	_
+40	,	,	,	,	PUNC	39	PUNC	_	_
+41	небольшая	НЕБОЛЬШОЙ	A	A - nom sg plen f -	A - nom sg plen f -	43	опред	_	_
+42	осиновая	ОСИНОВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	43	опред	_	_
+43	роща	РОЩА	S	S f inan nom sg	S f inan nom sg	45	предик	_	_
+44	вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	43	опред	_	_
+45	сверкает	СВЕРКАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	39	релят	_	_
+46	насквозь	НАСКВОЗЬ	ADV	ADV -	ADV -	45	обст	_	_
+47	,	,	,	,	PUNC	46	PUNC	_	_
+48	словно	СЛОВНО	CONJ	CONJ	CONJ	39	сравнит	_	_
+49	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	53	1-компл	_	_
+50	весело	ВЕСЕЛО	ADV	ADV -	ADV -	53	обст	_	_
+51	и	И	CONJ	CONJ	CONJ	50	сочин	_	_
+52	легко	ЛЕГКО	ADV	ADV -	ADV -	51	соч-союзн	_	_
+53	стоять	СТОЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	48	сравн-союзн	_	_
+54	голой	ГОЛЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	53	2-компл	_	_
+55	,	,	,	,	PUNC	54	PUNC	_	_
+56	изморозь	ИЗМОРОЗЬ	S	S f inan nom sg	S f inan nom sg	58	предик	_	_
+57	еще	ЕЩЕ	ADV	ADV -	ADV -	58	огранич	_	_
+58	белеет	БЕЛЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	37	предик	_	_
+59	на	НА	PR	PR	PR	58	2-компл	_	_
+60	дне	ДНО	S	S n inan loc sg	S n inan loc sg	59	предл	_	_
+61	долин	ДОЛИНА	S	S f inan gen pl	S f inan gen pl	60	1-компл	_	_
+62	,	,	,	,	PUNC	61	PUNC	_	_
+63	а	А	CONJ	CONJ	CONJ	58	сент-соч	_	_
+64	свежий	СВЕЖИЙ	A	A - nom sg plen m -	A - nom sg plen m -	65	опред	_	_
+65	ветер	ВЕТЕР	S	S m inan nom sg	S m inan nom sg	67	предик	_	_
+66	тихонько	ТИХОНЬКО	ADV	ADV -	ADV -	67	обст	_	_
+67	шевелит	ШЕВЕЛИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	63	соч-союзн	_	_
+68	и	И	CONJ	CONJ	CONJ	67	сочин	_	_
+69	гонит	ГНАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	68	соч-союзн	_	_
+70	упавшие	УПАСТЬ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	72	опред	_	_
+71	покоробленные	ПОКОРОБИТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	72	опред	_	_
+72	листья	ЛИСТ	S	S m inan nom pl	S m inan nom pl	69	предик	_	_
+73	,	,	,	,	PUNC	72	PUNC	_	_
+74	—	—	—	—	PUNC	67	1-компл	_	_
+75	когда	КОГДА	CONJ	CONJ	CONJ	74	обст	_	_
+76	по	ПО	PR	PR	PR	79	обст	_	_
+77	реке	РЕКА	S	S f inan loc sg	S f inan loc sg	76	предл	_	_
+78	радостно	РАДОСТНО	ADV	ADV -	ADV -	79	обст	_	_
+79	мчатся	МЧАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	75	подч-союзн	_	_
+80	синие	СИНИЙ	A	A - nom pl plen - -	A - nom pl plen - -	81	опред	_	_
+81	волны	ВОЛНА	S	S f inan nom pl	S f inan nom pl	79	предик	_	_
+82	,	,	,	,	PUNC	81	PUNC	_	_
+83	мерно	МЕРНО	ADV	ADV -	ADV -	84	обст	_	_
+84	вздымая	ВЗДЫМАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	79	обст	_	_
+85	рассеянных	РАССЕЯННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	86	опред	_	_
+86	гусей	ГУСЬ	S	S m anim gen pl	S m anim gen pl	84	1-компл	_	_
+87	и	И	CONJ	CONJ	CONJ	86	сочин	_	_
+88	уток	УТКА	S	S f anim acc pl	S f anim acc pl	87	соч-союзн	_	_
+89	;	;	SENT	SENT	SENT	88	PUNC	_	_
+
+1	вдали	ВДАЛИ	ADV	ADV -	ADV -	3	обст	_	_
+2	мельница	МЕЛЬНИЦА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	стучит	СТУЧАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	полузакрытая	ПОЛУЗАКРЫТЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	6	опред	_	_
+6	вербами	ВЕРБА	S	S f inan ins pl	S f inan ins pl	3	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	пестрея	ПЕСТРЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	17	обст	_	_
+11	в	В	PR	PR	PR	10	обст	_	_
+12	светлом	СВЕТЛЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	13	опред	_	_
+13	воздухе	ВОЗДУХ	S	S m inan loc sg	S m inan loc sg	11	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	голуби	ГОЛУБЬ	S	S m anim nom pl	S m anim nom pl	17	предик	_	_
+16	быстро	БЫСТРО	ADV	ADV -	ADV -	17	обст	_	_
+17	кружатся	КРУЖИТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	8	соч-союзн	_	_
+18	над	НАД	PR	PR	PR	17	обст	_	_
+19	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	18	предл	_	_
+20	...	...	SENT	SENT	SENT	19	PUNC	_	_
+

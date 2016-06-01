@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=dat,sg"}],"text":"Соболеву"}
+{"analysis":[{"lex":"слегка","gr":"ADV="}],"text":"слегка"}
+{"analysis":[{"lex":"поклониться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"поклонился"}
+{"analysis":[{"lex":"поздравлять","gr":"V,tran=inpraes,sg,indic,1p,ipf"}],"text":"Поздравляю"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"б","gr":"PART="}],"text":"б"}
+{"analysis":[{"lex":"бриллиантовый","gr":"A=abl,sg,plen,f"},{"lex":"бриллиантовый","gr":"A=dat,sg,plen,f"},{"lex":"бриллиантовый","gr":"A=gen,sg,plen,f"},{"lex":"бриллиантовый","gr":"A=ins,sg,plen,f"}],"text":"бриллиантовой"}
+{"analysis":[{"lex":"шпага","gr":"S,f,inan=ins,sg"}],"text":"шпагой"}
+{"analysis":[{"lex":"ваш","gr":"APRO=acc,sg,n"},{"lex":"ваш","gr":"APRO=nom,sg,n"}],"text":"ваше"}
+{"analysis":[{"lex":"превосходительство","gr":"S,n,anim=acc,sg"},{"lex":"превосходительство","gr":"S,n,anim=nom,sg"}],"text":"превосходительство"}
+{"text":"\\s"}
+{"analysis":[{"lex":"это","gr":"PART="}],"text":"Это"}
+{"analysis":[{"lex":"высокий","gr":"A=nom,sg,plen,f"}],"text":"высокая"}
+{"analysis":[{"lex":"честь","gr":"S,f,inan=acc,sg"},{"lex":"честь","gr":"S,f,inan=nom,sg"}],"text":"честь"}

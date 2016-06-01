@@ -1,0 +1,41 @@
+1	Забыв	ЗАБЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	0	ROOT	_	_
+2	об	ОБ	PR	PR	PR	1	1-компл	_	_
+3	уместном	УМЕСТНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	4	опред	_	_
+4	тоне	ТОН	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+7	горячо	ГОРЯЧО	ADV	ADV -	ADV -	8	обст	_	_
+8	воскликнула	ВОСКЛИЦАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	релят	_	_
+9	:	:	:	:	PUNC	12	обст	_	_
+10	–	–	–	–	PUNC	12	1-компл	_	_
+11	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	12	предик	_	_
+12	живем	ЖИТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	8	1-компл	_	_
+13	в	В	PR	PR	PR	12	1-компл	_	_
+14	такое	ТАКОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	13	предл	_	_
+15	тяжелое	ТЯЖЕЛЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	12	опред	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	сложное	СЛОЖНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	12	опред	_	_
+18	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	17	1-компл	_	_
+19	!	!	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Честные	ЧЕСТНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+3	стонут	СТОНАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	под	ПОД	PR	PR	PR	3	обст	_	_
+5	бременем	БРЕМЯ	S	S n inan ins sg	S n inan ins sg	4	предл	_	_
+6	тупости	ТУПОСТЬ	S	S f inan gen sg	S f inan gen sg	5	квазиагент	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	произвола	ПРОИЗВОЛ	S	S m inan gen sg	S m inan gen sg	7	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+11	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	12	предик	_	_
+12	рассуждаете	РАССУЖДАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	10	соч-союзн	_	_
+13	как	КАК	CONJ	CONJ	CONJ	12	1-компл	_	_
+14	старик	СТАРИК	S	S m anim nom sg	S m anim nom sg	19	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	про	ПРО	PR	PR	PR	19	3-компл	_	_
+17	какого-то	КАКОЙ-ТО	A	A - gen sg plen m -	A - gen sg plen m -	18	опред	_	_
+18	садовника	САДОВНИК	S	S m anim gen sg	S m anim gen sg	16	предл	_	_
+19	толкуете	ТОЛКОВАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	13	подч-союзн	_	_
+20	!	!	SENT	SENT	SENT	19	PUNC	_	_
+

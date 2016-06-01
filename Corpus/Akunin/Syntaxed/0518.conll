@@ -1,0 +1,77 @@
+1	–	–	–	–	PUNC	3	2-компл	_	_
+2	Кому	КТО	S	S m - dat sg	S m - dat sg	3	1-компл	_	_
+3	предсказал	ПРЕДСКАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	?	?	SENT	SENT	SENT	1	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	прищурился	ПРИЩУРИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	11	1-компл	_	_
+2	В	В	PR	PR	PR	1	обст	_	_
+3	рапорте	РАПОРТ	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	на	НА	PR	PR	PR	1	1-компл	_	_
+5	имя	ИМЯ	S	S n inan acc sg	S n inan acc sg	4	предл	_	_
+6	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	государя	ГОСУДАРЬ	S	S m anim gen sg	S m anim gen sg	5	квазиагент	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	11	обст	_	_
+10	–	–	–	–	PUNC	11	1-компл	_	_
+11	пояснила	ПОЯСНЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+12	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	И	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	6	обст	_	_
+4	проницательность	ПРОНИЦАТЕЛЬНОСТЬ	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+5	полковника	ПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	оценена	ОЦЕНИВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	2	соч-союзн	_	_
+7	по	ПО	PR	PR	PR	6	обст	_	_
+8	заслугам	ЗАСЛУГА	S	S f inan dat pl	S f inan dat pl	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Угощайтесь	УГОЩАТЬСЯ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	господа	ГОСПОДИН	S	S m anim nom pl	S m anim nom pl	2	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	пейте	ПИТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	2	сент-соч	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	6	опред	_	_
+9	–	–	–	–	PUNC	11	опред	_	_
+10	широким	ШИРОКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	11	опред	_	_
+11	жестом	ЖЕСТ	S	S m inan ins sg	S m inan ins sg	12	обст	_	_
+12	пригласил	ПРИГЛАШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+13	Лукан	ЛУКАН	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+15	порывисто	ПОРЫВИСТО	ADV	ADV -	ADV -	16	обст	_	_
+16	поднялся	ПОДНИМАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Все	ВСЕ	S	S - - nom pl	S - - nom pl	3	предик	_	_
+3	пойдет	ПОЙТИ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	3-компл	_	_
+5	мой	МОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	6	опред	_	_
+6	счет	СЧЕТ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	6	предик	_	_
+3	с	С	PR	PR	PR	2	атриб	_	_
+4	госпожой	ГОСПОЖА	S	S f anim ins sg	S f anim ins sg	3	предл	_	_
+5	Суворовой	СУВОРОВА	S	S f anim loc sg	S f anim loc sg	6	пасс-анал	_	_
+6	едем	ЕХАТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	1	соч-союзн	_	_
+7	кататься	КАТАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	6	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+2	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	3	1-компл	_	_
+3	обещала	ОБЕЩАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

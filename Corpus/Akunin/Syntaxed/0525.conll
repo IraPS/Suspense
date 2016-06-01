@@ -1,0 +1,18 @@
+1	От	ОТ	PR	PR	PR	6	1-компл	_	_
+2	галантности	ГАЛАНТНОСТЬ	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+3	будущего	БУДУЩИЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	сенатора	СЕНАТОР	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	осталось	ОСТАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	следа	СЛЕД	S	S m inan gen sg	S m inan gen sg	7	соч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Карие	КАРИЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+2	с	С	PR	PR	PR	1	атриб	_	_
+3	желтизной	ЖЕЛТИЗНА	S	S f inan ins sg	S f inan ins sg	2	предл	_	_
+4	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	5	1-компл	_	_
+5	метали	МЕТАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	молнии	МОЛНИЯ	S	S f inan nom pl	S f inan nom pl	5	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

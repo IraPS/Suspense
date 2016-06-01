@@ -1,0 +1,166 @@
+1	При	ПРИ	PR	PR	PR	6	обст	_	_
+2	живости	ЖИВОСТЬ	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	характера	ХАРАКТЕР	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	6	предик	_	_
+5	иногда	ИНОГДА	ADV	ADV -	ADV -	6	обст	_	_
+6	бывал	БЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	нетерпелив	НЕТЕРПЕЛИВЫЙ	A	A - - sg brev m -	A - - sg brev m -	6	присвяз	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Так	ТАК	ADV	ADV -	ADV -	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+4	всегда	ВСЕГДА	ADV	ADV -	ADV -	5	обст	_	_
+5	выражал	ВЫРАЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	недовольство	НЕДОВОЛЬСТВО	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+7	горячими	ГОРЯЧИЙ	A	A - ins pl plen - -	A - ins pl plen - -	8	опред	_	_
+8	блюдами	БЛЮДО	S	S n inan ins pl	S n inan ins pl	6	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Как-то	КАК-ТО	ADV	ADV -	ADV -	2	огранич	_	_
+2	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	4	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	сидя	СИДЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	обст	_	_
+5	за	ЗА	PR	PR	PR	4	1-компл	_	_
+6	обедом	ОБЕД	S	S m inan ins sg	S m inan ins sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	9	предик	_	_
+9	стукнул	СТУКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+10	кулаком	КУЛАК	S	S m inan ins sg	S m inan ins sg	9	обст	_	_
+11	по	ПО	PR	PR	PR	9	обст	_	_
+12	столу	СТОЛ	S	S m inan dat sg	S m inan dat sg	11	предл	_	_
+13	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+14	воскликнул	ВОСКЛИЦАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	делая	ДЕЛАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	14	обст	_	_
+17	ударение	УДАРЕНИЕ	S	S n inan acc sg	S n inan acc sg	16	1-компл	_	_
+18	на	НА	PR	PR	PR	17	атриб	_	_
+19	первом	ПЕРВЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	20	опред	_	_
+20	слове	СЛОВО	S	S n inan loc sg	S n inan loc sg	18	предл	_	_
+21	:	:	:	:	PUNC	16	2-компл	_	_
+22	«	«	_	_	PUNC	21	PUNC	_	_
+23	Опять	ОПЯТЬ	ADV	ADV -	ADV -	24	обст	_	_
+24	каша	КАША	S	S f inan nom sg	S f inan nom sg	14	1-компл	_	_
+25	горячая	ГОРЯЧИЙ	A	A - nom sg plen f -	A - nom sg plen f -	24	опред	_	_
+26	!	!	!	!	PUNC	24	PUNC	_	_
+27	»	»	SENT	SENT	SENT	26	PUNC	_	_
+
+1	За	ЗА	PR	PR	PR	0	ROOT	_	_
+2	это	ЭТО	S	S n - acc sg	S n - acc sg	7	предик	_	_
+3	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	7	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	конечно	КОНЕЧНО	ADV	ADV -	ADV -	7	вводн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	досталось	ДОСТАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	С тех пор	С тех пор	ADV	ADV -	-	5	обст	_	_
+2	над	НАД	PR	PR	PR	5	обст	_	_
+3	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	2	предл	_	_
+4	часто	ЧАСТО	ADV	ADV -	ADV -	5	обст	_	_
+5	подшучивали	ПОДШУЧИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	когда	КОГДА	CONJ	CONJ	CONJ	5	обст	_	_
+8	кушанье	КУШАНЬЕ	S	S n inan nom sg	S n inan nom sg	10	предик	_	_
+9	нельзя	НЕЛЬЗЯ	ADV	ADV -	ADV -	10	огранич	_	_
+10	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	7	подч-союзн	_	_
+11	есть	ЕСТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	1-компл	_	_
+12	сразу	СРАЗУ	ADV	ADV -	ADV -	13	обст	_	_
+13	:	:	:	:	PUNC	11	присвяз	_	_
+14	«	«	_	_	PUNC	13	PUNC	_	_
+15	Что	ЧТО	CONJ	CONJ	CONJ	5	обст	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	21	предик	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	опять	ОПЯТЬ	ADV	ADV -	ADV -	21	обст	_	_
+20	каша	КАША	S	S f inan nom sg	S f inan nom sg	21	предик	_	_
+21	горячая	ГОРЯЧИЙ	A	A - nom sg plen f -	A - nom sg plen f -	15	подч-союзн	_	_
+22	?	?	?	?	PUNC	21	PUNC	_	_
+23	»	»	SENT	SENT	SENT	22	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	другой	ДРУГОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	6	1-компл	_	_
+5	сильно	СИЛЬНО	ADV	ADV -	ADV -	6	обст	_	_
+6	досталось	ДОСТАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+7	за	ЗА	PR	PR	PR	6	2-компл	_	_
+8	стеклянный	СТЕКЛЯННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	9	опред	_	_
+9	шприц	ШПРИЦ	S	S m inan acc sg	S m inan acc sg	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	суб-копр	_	_
+12	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	13	предик	_	_
+13	сломал	СЛОМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	сент-соч	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	побежав	ПОБЕЖАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	13	обст	_	_
+16	с	С	PR	PR	PR	15	обст	_	_
+17	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	16	предл	_	_
+18	за	ЗА	PR	PR	PR	15	1-компл	_	_
+19	забежавшей	ЗАБЕГАТЬ	PARTCP	PARTCP pf praet loc sg plen f act -	PARTCP pf praet loc sg plen f act -	23	опред	_	_
+20	в	В	PR	PR	PR	19	2-компл	_	_
+21	квартиру	КВАРТИРА	S	S f inan acc sg	S f inan acc sg	20	предл	_	_
+22	чужой	ЧУЖОЙ	A	A - ins sg plen f -	A - ins sg plen f -	23	опред	_	_
+23	кошкой	КОШКА	S	S f anim ins sg	S f anim ins sg	18	предл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	13	обст	_	_
+26	полить	ПОЛИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	25	инф-союзн	_	_
+27	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	26	1-компл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	водой	ВОДА	S	S f inan ins sg	S f inan ins sg	0	ROOT	_	_
+2	из	ИЗ	PR	PR	PR	1	атриб	_	_
+3	шприца	ШПРИЦ	S	S m inan gen sg	S m inan gen sg	2	предл	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	помню	ПОМНИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	соч-союзн	_	_
+5	за	ЗА	PR	PR	PR	4	1-компл	_	_
+6	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	5	предл	_	_
+7	ни	НИ	PART	PART	PART	8	огранич	_	_
+8	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	9	количест	_	_
+9	случая	СЛУЧАЙ	S	S m inan gen sg	S m inan gen sg	4	обст	_	_
+10	злобы	ЗЛОБА	S	S f inan gen sg	S f inan gen sg	9	атриб	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	сухости	СУХОСТЬ	S	S f inan gen sg	S f inan gen sg	10	сочин	_	_
+13	или	ИЛИ	CONJ	CONJ	CONJ	12	сочин	_	_
+14	черствости	ЧЕРСТВОСТЬ	S	S f inan loc sg	S f inan loc sg	13	соч-союзн	_	_
+15	сердца	СЕРДЦЕ	S	S n inan gen sg	S n inan gen sg	14	квазиагент	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	невнимания	НЕВНИМАНИЕ	S	S n inan gen sg	S n inan gen sg	12	квазиагент	_	_
+18	к	К	PR	PR	PR	12	1-компл	_	_
+19	нужде	НУЖДА	S	S f inan loc sg	S f inan loc sg	18	предл	_	_
+20	ближних	БЛИЖНИЙ	S	S m anim gen pl	S m anim gen pl	19	квазиагент	_	_
+21	или	ИЛИ	CONJ	CONJ	CONJ	20	сочин	_	_
+22	знакомых	ЗНАКОМЫЙ	S	S m anim gen pl	S m anim gen pl	21	соч-союзн	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	замечал	ЗАМЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	в	В	PR	PR	PR	5	огранич	_	_
+4	нем	ОН	SPRO	SPRO sg 3p m loc	SPRO sg 3p m loc	3	предл	_	_
+5	иногда	ИНОГДА	ADV	ADV -	ADV -	2	обст	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	чувство	ЧУВСТВО	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+8	гнева	ГНЕВ	S	S m inan gen sg	S m inan gen sg	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	но	НО	CONJ	CONJ	CONJ	7	сочин	_	_
+11	это	ЭТО	S	S n - nom sg	S n - nom sg	12	предик	_	_
+12	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	10	соч-союзн	_	_
+13	лишь	ЛИШЬ	PART	PART	PART	14	огранич	_	_
+14	в	В	PR	PR	PR	12	присвяз	_	_
+15	тех	ТОТ	A	A - loc pl plen - -	A - loc pl plen - -	16	опред	_	_
+16	случаях	СЛУЧАЙ	S	S m inan loc pl	S m inan loc pl	14	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	когда	КОГДА	CONJ	CONJ	CONJ	16	1-компл	_	_
+19	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	20	предик	_	_
+20	видел	ВИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	18	подч-союзн	_	_
+21	несправедливость	НЕСПРАВЕДЛИВОСТЬ	S	S f inan acc sg	S f inan acc sg	20	1-компл	_	_
+22	или	ИЛИ	CONJ	CONJ	CONJ	21	сочин	_	_
+23	обиду	ОБИДА	S	S f inan acc sg	S f inan acc sg	22	соч-союзн	_	_
+24	кого-либо	КТО-ЛИБО	S	S m - acc sg	S m - acc sg	12	сент-соч	_	_
+25	из	ИЗ	PR	PR	PR	24	электив	_	_
+26	близких	БЛИЗКИЕ	S	S - anim loc pl	S - anim loc pl	25	предл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

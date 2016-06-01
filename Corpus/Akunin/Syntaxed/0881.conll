@@ -1,0 +1,108 @@
+1	Вагон	ВАГОН	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	удобный	УДОБНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	с	С	PR	PR	PR	3	сочин	_	_
+6	плюшевыми	ПЛЮШЕВЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	7	опред	_	_
+7	диванами	ДИВАН	S	S m inan ins pl	S m inan ins pl	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	с	С	PR	PR	PR	5	сочин	_	_
+10	большим	БОЛЬШОЙ	A	A - ins sg plen m -	A - ins sg plen m -	11	опред	_	_
+11	столом	СТОЛ	S	S m inan ins sg	S m inan ins sg	9	предл	_	_
+12	красного	КРАСНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	13	опред	_	_
+13	дерева	ДЕРЕВО	S	S n inan gen sg	S n inan gen sg	11	квазиагент	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Конвойцы	КОНВОЕЦ	S	S m inan nom sg	S m inan nom sg	7	предик	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	белая	БЕЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+4	соболевская	СОБОЛЕВСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+5	кобыла	КОБЫЛА	S	S f anim nom sg	S f anim nom sg	2	соч-союзн	_	_
+6	Гульнора	ГУЛЬНОРА	S	S f anim nom sg	S f anim nom sg	5	аппоз	_	_
+7	расположились	РАСПОЛАГАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+8	в	В	PR	PR	PR	7	обст	_	_
+9	отсеке	ОТСЕК	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+10	для	ДЛЯ	PR	PR	PR	9	атриб	_	_
+11	свиты	СВИТА	S	S f inan gen sg	S f inan gen sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Оттуда	ОТТУДА	ADV	ADV -	ADV -	0	ROOT	_	_
+2	то	ТО	PART	PART	PART	1	огранич	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сент-соч	_	_
+4	дело	ДЕЛО	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+5	доносилось	ДОНОСИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	соч-союзн	_	_
+6	ржание	РЖАНИЕ	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+7	–	–	–	–	PUNC	8	опред	_	_
+8	Гульнора	ГУЛЬНОРА	S	S m inan gen sg	S m inan gen sg	6	квазиагент	_	_
+9	все	ВСЕ	S	S - - acc pl	S - - acc pl	11	предик	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	могла	МОЧЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	6	релят	_	_
+12	успокоиться	УСПОКАИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+13	после	ПОСЛЕ	PR	PR	PR	12	обст	_	_
+14	нервного	НЕРВНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+15	процесса	ПРОЦЕСС	S	S m inan gen sg	S m inan gen sg	13	предл	_	_
+16	погрузки	ПОГРУЗКА	S	S f inan gen sg	S f inan gen sg	15	квазиагент	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	В	В	PR	PR	PR	3	обст	_	_
+2	салоне	САЛОН	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	ехали	ЕХАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	3	сент-соч	_	_
+10	'	'	_	_	PUNC	9	PUNC	_	_
+11	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	9	сочин	_	_
+12	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+13	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	14	количест	_	_
+14	офицеров	ОФИЦЕР	S	S m anim gen pl	S m anim gen pl	12	соч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	в том числе	в том числе	ADV	ADV -	-	22	обст	_	_
+17	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+18	Митя	МИТЯ	S	S m anim nom sg	S m anim nom sg	17	соч-союзн	_	_
+19	Гриднев	ГРИДНЕВ	S	S m anim nom sg	S m anim nom sg	18	аппоз	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	мирно	МИРНО	ADV	ADV -	ADV -	22	обст	_	_
+22	спавший	СПАДАТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	9	сент-соч	_	_
+23	в	В	PR	PR	PR	22	обст	_	_
+24	углу	УГОЛ	S	S m inan loc2 sg	S m inan loc2 sg	23	предл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Офицеры	ОФИЦЕР	S	S m anim nom pl	S m anim nom pl	2	предик	_	_
+2	толпились	ТОЛПИТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	вокруг	ВОКРУГ	PR	PR	PR	2	1-компл	_	_
+4	Перепелкина	ПЕРЕПЕЛКИН	S	S m anim acc sg	S m anim acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	отмечавшего	ОТМЕЧАТЬ	PARTCP	PARTCP ipf praet acc sg plen m act anim	PARTCP ipf praet acc sg plen m act anim	4	опред	_	_
+7	по	ПО	PR	PR	PR	6	обст	_	_
+8	карте	КАРТА	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+9	продвижение	ПРОДВИЖЕНИЕ	S	S n inan nom sg	S n inan nom sg	2	разъяснит	_	_
+10	поезда	ПОЕЗД	S	S m inan gen sg	S m inan gen sg	9	квазиагент	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+13	курили	КУРИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	12	соч-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+16	писал	ПИСАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сент-соч	_	_
+17	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	16	1-компл	_	_
+18	в	В	PR	PR	PR	16	обст	_	_
+19	блокноте	БЛОКНОТ	S	S m inan loc sg	S m inan loc sg	18	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	а	А	CONJ	CONJ	CONJ	16	сент-соч	_	_
+22	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	25	предик	_	_
+23	с	С	PR	PR	PR	22	атриб	_	_
+24	Соболевым	СОБОЛЕВ	S	S m inan loc sg	S m inan loc sg	23	предл	_	_
+25	стояли	СТОЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	21	соч-союзн	_	_
+26	поодаль	ПООДАЛЬ	ADV	ADV -	ADV -	25	обст	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	у	У	PR	PR	PR	25	1-компл	_	_
+29	окна	ОКНО	S	S n inan gen sg	S n inan gen sg	28	предл	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	и	И	CONJ	CONJ	CONJ	25	сочин	_	_
+32	вели	ВЕСТИ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	31	соч-союзн	_	_
+33	непростой	НЕПРОСТОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	34	опред	_	_
+34	разговор	РАЗГОВОР	S	S m inan acc sg	S m inan acc sg	32	1-компл	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+

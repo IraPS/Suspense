@@ -1,0 +1,37 @@
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Между	МЕЖДУ	PR	PR	PR	1	1-компл	_	_
+3	союзниками	СОЮЗНИК	S	S m anim ins pl	S m anim ins pl	2	предл	_	_
+4	пробежала	ПРОБЕЖАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	черная	ЧЕРНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	кошка	КОШКА	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	6	опред	_	_
+9	–	–	–	–	PUNC	10	1-компл	_	_
+10	констатировал	КОНСТАТИРОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	вводн	_	_
+11	Ипполит	ИППОЛИТ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	PUNC	_	_
+2	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	это	ЭТО	S	S n - nom sg	S n - nom sg	5	предик	_	_
+4	только	ТОЛЬКО	PART	PART	PART	5	огранич	_	_
+5	начало	НАЧАЛО	S	S n inan acc sg	S n inan acc sg	2	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Мордобоем	МОРДОБОЙ	S	S m inan ins sg	S m inan ins sg	6	1-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Лука	ЛУКА	S	S m anim nom sg	S m anim nom sg	1	об-аппоз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	отделаешься	ОТДЕЛЫВАТЬСЯ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	За	ЗА	PR	PR	PR	3	3-компл	_	_
+2	такое	ТАКОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	1	предл	_	_
+3	обхождение	ОБХОЖДЕНИЕ	S	S n inan acc sg	S n inan acc sg	7	1-компл	_	_
+4	с	С	PR	PR	PR	7	обст	_	_
+5	дамой	ДАМА	S	S f anim ins sg	S f anim ins sg	4	предл	_	_
+6	шкуру	ШКУРА	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+7	дырявят	ДЫРЯВИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

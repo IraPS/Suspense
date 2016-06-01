@@ -1,0 +1,57 @@
+1	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	оставался	ОСТАВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	Сан	САН	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	Стефано	СТЕФАНО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	4	аппоз	_	_
+7	–	–	–	–	PUNC	2	1-компл	_	_
+8	с	С	PR	PR	PR	7	1-компл	_	_
+9	подписанием	ПОДПИСАНИЕ	S	S n inan ins sg	S n inan ins sg	8	предл	_	_
+10	мира	МИР	S	S m inan gen sg	S m inan gen sg	9	1-компл	_	_
+11	дипломатическая	ДИПЛОМАТИЧЕСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	12	опред	_	_
+12	возня	ВОЗНЯ	S	S f inan nom sg	S f inan nom sg	15	предик	_	_
+13	отнюдь	ОТНЮДЬ	ADV	ADV -	ADV -	14	огранич	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	заканчивалась	ЗАКАНЧИВАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	сент-соч	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	На	НА	PR	PR	PR	4	обст	_	_
+2	станцию	СТАНЦИЯ	S	S f inan acc sg	S f inan acc sg	1	предл	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	пришел	ПРИХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	прямо	ПРЯМО	ADV	ADV -	ADV -	6	огранич	_	_
+6	с	С	PR	PR	PR	4	2-компл	_	_
+7	какого-то	КАКОЙ-ТО	A	A - gen sg plen m -	A - gen sg plen m -	8	опред	_	_
+8	приема	ПРИЕМ	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+9	–	–	–	–	PUNC	4	сент-соч	_	_
+10	во	ВО	PR	PR	PR	9	обст	_	_
+11	фраке	ФРАК	S	S m inan loc sg	S m inan loc sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	цилиндре	ЦИЛИНДР	S	S m inan loc sg	S m inan loc sg	11	сочин	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	белом	БЕЛЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	13	сочин	_	_
+16	шелковом	ШЕЛКОВЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	17	опред	_	_
+17	галстуке	ГАЛСТУК	S	S m inan loc sg	S m inan loc sg	9	предик	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Подарил	ПОДАРИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	Варе	ВАРЯ	S	S f anim dat sg	S f anim dat sg	1	2-компл	_	_
+3	букет	БУКЕТ	S	S m inan acc sg	S m inan acc sg	1	1-компл	_	_
+4	пармских	ПАРМСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	5	опред	_	_
+5	фиалок	ФИАЛКА	S	S f inan gen pl	S f inan gen pl	3	квазиагент	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	повздыхал	ПОВЗДЫХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	сочин	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	попереминался	ПОПЕРЕМИНАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сочин	_	_
+10	с	С	PR	PR	PR	9	2-компл	_	_
+11	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	10	предл	_	_
+12	на	НА	PR	PR	PR	9	обст	_	_
+13	ногу	НОГА	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	но	НО	CONJ	CONJ	CONJ	9	сочин	_	_
+16	красноречием	КРАСНОРЕЧИЕ	S	S n inan ins sg	S n inan ins sg	19	1-компл	_	_
+17	сегодня	СЕГОДНЯ	ADV	ADV -	ADV -	19	обст	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	блистал	БЛИСТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	соч-союзн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

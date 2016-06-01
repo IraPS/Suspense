@@ -1,0 +1,108 @@
+1	Собирались	СОБИРАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	долго	ДОЛГО	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+5	выехали	ВЫЕЗЖАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	соч-союзн	_	_
+6	только	ТОЛЬКО	PART	PART	PART	7	огранич	_	_
+7	на	НА	PR	PR	PR	5	4-компл	_	_
+8	третий	ТРЕТИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	9	опред	_	_
+9	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	4	1-компл	_	_
+2	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	даму	ДАМА	S	S f anim acc sg	S f anim acc sg	2	сравн-союзн	_	_
+4	посадили	ПОСАДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	27	1-компл	_	_
+5	в	В	PR	PR	PR	4	2-компл	_	_
+6	бричку	БРИЧКА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	к	К	PR	PR	PR	4	обст	_	_
+8	Маклафлину	МАКЛАФЛИН	S	S m anim dat sg	S m anim dat sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	остальные	ОСТАЛЬНОЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	предик	_	_
+11	поехали	ПОЕХАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	разъяснит	_	_
+12	верхом	ВЕРХОМ	ADV	ADV -	ADV -	11	обст	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+15	на	НА	PR	PR	PR	14	соч-союзн	_	_
+16	француза	ФРАНЦУЗ	S	S m anim gen sg	S m anim gen sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	восседавшего	ВОССЕДАТЬ	PARTCP	PARTCP ipf praet acc sg plen m act anim	PARTCP ipf praet acc sg plen m act anim	11	1-компл	_	_
+19	на	НА	PR	PR	PR	18	атриб	_	_
+20	тоскующем	ТОСКУЮЩИЙ	A	A - loc sg plen m -	A - loc sg plen m -	24	опред	_	_
+21	от	ОТ	PR	PR	PR	20	1-компл	_	_
+22	медленной	МЕДЛЕННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	23	опред	_	_
+23	езды	ЕЗДА	S	S f inan gen sg	S f inan gen sg	21	предл	_	_
+24	Ятагане	ЯТАГАН	S	S m inan acc sg	S m inan acc sg	19	предл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	смотреть	СМОТРЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	2-компл	_	_
+27	пришлось	ПРИХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+28	издали	ИЗДАЛИ	ADV	ADV -	ADV -	27	обст	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	а	А	CONJ	CONJ	CONJ	27	сент-соч	_	_
+31	беседу	БЕСЕДА	S	S f inan acc sg	S f inan acc sg	32	1-компл	_	_
+32	вести	ВЕСТИ	V	V ipf - - inf - -	V ipf - - inf - -	30	соч-союзн	_	_
+33	с	С	PR	PR	PR	32	2-компл	_	_
+34	ирландцем	ИРЛАНДЕЦ	S	S f inan acc sg	S f inan acc sg	33	предл	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+
+1	Тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	3	предик	_	_
+2	всесторонне	ВСЕСТОРОННЕ	ADV	ADV -	ADV -	3	обст	_	_
+3	обсудил	ОБСУЖДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	с	С	PR	PR	PR	3	обст	_	_
+5	Варей	ВАРЯ	S	S f anim ins sg	S f anim ins sg	4	предл	_	_
+6	климатические	КЛИМАТИЧЕСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	7	опред	_	_
+7	условия	УСЛОВИЕ	S	S n inan nom pl	S n inan nom pl	17	предик	_	_
+8	на	НА	PR	PR	PR	7	1-компл	_	_
+9	Балканах	БАЛКАНЫ	S	S m inan loc pl	S m inan loc pl	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	в	В	PR	PR	PR	7	атриб	_	_
+12	Лондоне	ЛОНДОН	S	S m inan loc sg	S m inan loc sg	11	предл	_	_
+13	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+14	Средней	СРЕДНИЙ	A	A - gen sg plen f -	A - gen sg plen f -	15	опред	_	_
+15	Азии	АЗИЯ	S	S f inan gen sg	S f inan gen sg	13	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	рассказал	РАССКАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+18	об	ОБ	PR	PR	PR	17	3-компл	_	_
+19	устройстве	УСТРОЙСТВО	S	S n inan loc sg	S n inan loc sg	18	предл	_	_
+20	рессор	РЕССОРА	S	S f inan gen pl	S f inan gen pl	19	1-компл	_	_
+21	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	22	опред	_	_
+22	экипажа	ЭКИПАЖ	S	S m inan gen sg	S m inan gen sg	20	квазиагент	_	_
+23	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+24	подробно	ПОДРОБНО	ADV	ADV -	ADV -	25	обст	_	_
+25	описал	ОПИСЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	23	соч-союзн	_	_
+26	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	27	количест	_	_
+27	остроумнейших	ОСТРОУМНЫЙ	A	A supr loc pl plen - -	A supr loc pl plen - -	29	опред	_	_
+28	шахматных	ШАХМАТНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	29	опред	_	_
+29	этюдов	ЭТЮД	S	S m inan gen pl	S m inan gen pl	25	1-компл	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	От	ОТ	PR	PR	PR	7	обст	_	_
+2	всего	ВСЕ	S	S n - gen sg	S n - gen sg	3	опред	_	_
+3	этого	ЭТО	S	S n inan gen sg	S n inan gen sg	1	предл	_	_
+4	настроение	НАСТРОЕНИЕ	S	S n inan nom sg	S n inan nom sg	7	предик	_	_
+5	у	У	PR	PR	PR	7	обст	_	_
+6	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	5	предл	_	_
+7	испортилось	ИСПОРТИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сент-соч	_	_
+10	на	НА	PR	PR	PR	13	обст	_	_
+11	привалах	ПРИВАЛ	S	S m inan loc pl	S m inan loc pl	10	предл	_	_
+12	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	13	предик	_	_
+13	смотрела	СМОТРЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	9	соч-союзн	_	_
+14	на	НА	PR	PR	PR	13	1-компл	_	_
+15	оживленных	ОЖИВЛЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	16	опред	_	_
+16	попутчиков	ПОПУТЧИК	S	S m anim gen pl	S m anim gen pl	14	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	в том числе	в том числе	ADV	ADV -	-	24	обст	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	на	НА	PR	PR	PR	19	соч-союзн	_	_
+21	разрумянившегося	РАЗРУМЯНИВАТЬСЯ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	20	предл	_	_
+22	от	ОТ	PR	PR	PR	21	1-компл	_	_
+23	моциона	МОЦИОН	S	S m inan gen sg	S m inan gen sg	22	предл	_	_
+24	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	13	сент-соч	_	_
+25	'	'	_	_	PUNC	24	PUNC	_	_
+26	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	24	сочин	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	мизантропически	МИЗАНТРОПИЧЕСКИ	ADV	ADV -	ADV -	24	обст	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

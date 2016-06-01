@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"тот","gr":"APRO=acc,sg,m,inan"},{"lex":"тот","gr":"APRO=nom,sg,m"}],"text":"Тот"}
+{"analysis":[{"lex":"доставать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"достал"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"папка","gr":"S,f,inan=acc,pl"},{"lex":"папка","gr":"S,f,inan=gen,sg"},{"lex":"папка","gr":"S,f,inan=nom,pl"}],"text":"папки"}
+{"analysis":[{"lex":"сложенный","gr":"A=acc,sg,plen,m,inan"},{"lex":"сложенный","gr":"A=nom,sg,plen,m"}],"text":"сложенный"}
+{"analysis":[{"lex":"вчетверо","gr":"ADV="}],"text":"вчетверо"}
+{"analysis":[{"lex":"белоснежный","gr":"A=acc,sg,plen,m,inan"},{"lex":"белоснежный","gr":"A=nom,sg,plen,m"}],"text":"белоснежный"}
+{"analysis":[{"lex":"листок","gr":"S,m,inan=acc,sg"},{"lex":"листок","gr":"S,m,inan=nom,sg"}],"text":"листок"}

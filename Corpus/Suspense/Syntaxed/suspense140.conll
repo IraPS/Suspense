@@ -1,0 +1,254 @@
+1	Восьми	ВОСЕМЬ	NUM	NUM loc - -	NUM loc - -	2	количест	_	_
+2	лет	ГОД	S	S m inan gen pl	S m inan gen pl	4	длительн	_	_
+3	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	поступил	ПОСТУПАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	сразу	СРАЗУ	ADV	ADV -	ADV -	6	огранич	_	_
+6	во	ВО	PR	PR	PR	4	обст	_	_
+7	2	2	NUM	NUM - - -	NUM - - -	6	предл	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	й	Й	S	S - - nonflex nonflex	S - - nonflex nonflex	4	1-компл	_	_
+10	класс	КЛАСС	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+11	школы	ШКОЛА	S	S f inan gen sg	S f inan gen sg	10	квазиагент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	за	ЗА	PR	PR	PR	16	3-компл	_	_
+14	1	1	NUM	NUM - - -	NUM - - -	13	предл	_	_
+15	-	-	-	-	PUNC	14	PUNC	_	_
+16	й	Й	S	S - - nonflex nonflex	S - - nonflex nonflex	11	релят	_	_
+17	класс	КЛАСС	S	S m inan nom sg	S m inan nom sg	19	обст	_	_
+18	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	19	предик	_	_
+19	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	релят	_	_
+20	подготовлен	ПОДГОТОВИТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	19	пасс-анал	_	_
+21	дома	ДОМА	ADV	ADV -	ADV -	20	обст	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Впрочем	ВПРОЧЕМ	CONJ	CONJ	CONJ	6	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	это	ЭТО	S	S n - nom sg	S n - nom sg	6	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	точно	ТОЧНО	ADV	ADV -	ADV -	6	обст	_	_
+6	сказано	СКАЗАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	10	1-компл	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	готовили	ГОТОВИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	6	релят	_	_
+11	специально	СПЕЦИАЛЬНО	ADV	ADV -	ADV -	10	обст	_	_
+12	ко	КО	PR	PR	PR	10	2-компл	_	_
+13	2	2	NUM	NUM - - -	NUM - - -	15	композ	_	_
+14	-	-	-	-	PUNC	13	PUNC	_	_
+15	му	МУ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	12	предл	_	_
+16	классу	КЛАСС	S	S m inan dat sg	S m inan dat sg	21	1-компл	_	_
+17	:	:	:	:	PUNC	21	предик	_	_
+18	как-то	КАК-ТО	ADV	ADV -	ADV -	19	огранич	_	_
+19	само	САМ	A	A - nom sg plen n -	A - nom sg plen n -	21	обст	_	_
+20	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	19	вспом	_	_
+21	вышло	ВЫХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	6	предик	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	что	ЧТО	CONJ	CONJ	CONJ	21	предик	_	_
+24	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	30	предик	_	_
+25	к	К	PR	PR	PR	30	2-компл	_	_
+26	семи	СЕМЬ	NUM	NUM loc - -	NUM loc - -	27	количест	_	_
+27	годам	ГОД	S	S m inan dat pl	S m inan dat pl	25	предл	_	_
+28	уже	УЖЕ	ADV	ADV -	ADV -	29	огранич	_	_
+29	бегло	БЕГЛО	ADV	ADV -	ADV -	30	обст	_	_
+30	читал	ЧИТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	23	подч-союзн	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	писал	ПИСАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	30	сочин	_	_
+33	и	И	CONJ	CONJ	CONJ	32	сочин	_	_
+34	хорошо	ХОРОШО	ADV	ADV -	ADV -	35	обст	_	_
+35	считал	СЧИТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	33	соч-союзн	_	_
+36	и	И	CONJ	CONJ	CONJ	35	сент-соч	_	_
+37	в	В	PR	PR	PR	41	обст	_	_
+38	1	1	NUM	NUM - - -	NUM - - -	37	предл	_	_
+39	-	-	-	-	PUNC	38	PUNC	_	_
+40	м	М	S	S m inan nonflex nonflex	S m inan nonflex nonflex	41	опред	_	_
+41	классе	КЛАСС	S	S m inan loc sg	S m inan loc sg	44	обст	_	_
+42	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	45	1-компл	_	_
+43	нечего	НЕЧЕГО	ADV	ADV -	ADV -	44	присвяз	_	_
+44	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	36	соч-союзн	_	_
+45	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	44	предик	_	_
+46	.	.	SENT	SENT	SENT	45	PUNC	_	_
+
+1	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	одаренным	ОДАРЕННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	4	опред	_	_
+4	мальчиком	МАЛЬЧИК	S	S m anim ins sg	S m anim ins sg	2	присвяз	_	_
+5	по	ПО	PR	PR	PR	4	атриб	_	_
+6	своим	СВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	8	опред	_	_
+7	умственным	УМСТВЕННЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	8	опред	_	_
+8	способностям	СПОСОБНОСТЬ	S	S f inan dat pl	S f inan dat pl	5	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	от	ОТ	PR	PR	PR	13	обст	_	_
+11	Господа	ГОСПОДЬ	S	S m anim gen sg	S m anim gen sg	10	предл	_	_
+12	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	13	предик	_	_
+13	получил	ПОЛУЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+14	полные	ПОЛНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	15	опред	_	_
+15	десять	ДЕСЯТЬ	NUM	NUM acc - -	NUM acc - -	16	количест	_	_
+16	талантов	ТАЛАНТ	S	S m inan gen pl	S m inan gen pl	13	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Наука	НАУКА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	давалась	ДАВАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	2	2-компл	_	_
+4	легко	ЛЕГКО	ADV	ADV -	ADV -	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+7	учился	УЧИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сент-соч	_	_
+8	как бы	как бы	ADV	ADV -	-	9	огранич	_	_
+9	шутя	ШУТЯ	ADV	ADV -	ADV -	7	обст	_	_
+10	;	;	SENT	SENT	SENT	9	PUNC	_	_
+
+1	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	всегда	ВСЕГДА	ADV	ADV -	ADV -	4	атриб	_	_
+4	отличником	ОТЛИЧНИК	S	S m anim ins sg	S m anim ins sg	2	присвяз	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	в	В	PR	PR	PR	9	обст	_	_
+7	конце	КОНЕЦ	S	S m inan loc sg	S m inan loc sg	6	предл	_	_
+8	года	ГОД	S	S m inan gen sg	S m inan gen sg	7	квазиагент	_	_
+9	приносил	ПРИНОСИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	соч-союзн	_	_
+10	награды	НАГРАДА	S	S f inan acc pl	S f inan acc pl	9	1-компл	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	похвальные	ПОХВАЛЬНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	13	опред	_	_
+13	грамоты	ГРАМОТА	S	S f inan acc pl	S f inan acc pl	11	соч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Будучи	БЫТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	6	обст	_	_
+2	в	В	PR	PR	PR	1	2-компл	_	_
+3	8	8	NUM	NUM - - -	NUM - - -	5	количест	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	м	М	S	S m inan nonflex nonflex	S m inan nonflex nonflex	2	предл	_	_
+6	классе	КЛАСС	S	S m inan loc sg	S m inan loc sg	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	13	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	как бы	как бы	ADV	ADV -	-	11	огранич	_	_
+11	случайно	СЛУЧАЙНО	ADV	ADV -	ADV -	13	обст	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	нашел	НАХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	сент-соч	_	_
+14	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	16	количест	_	_
+15	неизвестных	НЕИЗВЕСТНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	16	опред	_	_
+16	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	13	2-компл	_	_
+17	способа	СПОСОБ	S	S m inan gen sg	S m inan gen sg	13	1-компл	_	_
+18	доказательства	ДОКАЗАТЕЛЬСТВО	S	S n inan gen sg	S n inan gen sg	17	1-компл	_	_
+19	теоремы	ТЕОРЕМА	S	S f inan gen sg	S f inan gen sg	18	1-компл	_	_
+20	Пифагора	ПИФАГОР	S	S m anim gen sg	S m anim gen sg	19	квазиагент	_	_
+21	;	;	SENT	SENT	SENT	20	PUNC	_	_
+
+1	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	4	предик	_	_
+2	из	ИЗ	PR	PR	PR	1	электив	_	_
+3	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	2	предл	_	_
+4	пошел	ПОЙТИ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	2-компл	_	_
+6	школьную	ШКОЛЬНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	7	опред	_	_
+7	выставку	ВЫСТАВКА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+8	как	КАК	CONJ	CONJ	CONJ	4	сравнит	_	_
+9	еще	ЕЩЕ	ADV	ADV -	ADV -	10	огранич	_	_
+10	никем	НИКТО	S	S n - ins sg	S n - ins sg	8	сравн-союзн	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	открытый	ОТКРЫТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	суб-копр	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	2	квазиагент	_	_
+2	сочинения	СОЧИНЕНИЕ	S	S n inan gen sg	S n inan gen sg	3	1-компл	_	_
+3	читались	ЧИТАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	всем	ВСЕ	S	S - - dat pl	S - - dat pl	0	ROOT	_	_
+5	в	В	PR	PR	PR	4	атриб	_	_
+6	классе	КЛАСС	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+7	как	КАК	CONJ	CONJ	CONJ	4	сравнит	_	_
+8	образцовые	ОБРАЗЦОВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	7	сравн-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Учителя	УЧИТЕЛЬ	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+2	очень	ОЧЕНЬ	ADV	ADV -	ADV -	3	огранич	_	_
+3	ценили	ЦЕНИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	Колю	КОЛЯ	S	S m anim acc sg	S m anim acc sg	3	1-компл	_	_
+5	:	:	:	:	PUNC	8	опред	_	_
+6	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	8	квазиагент	_	_
+7	классная	КЛАССНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	8	опред	_	_
+8	наставница	НАСТАВНИЦА	S	S f anim nom sg	S f anim nom sg	3	2-компл	_	_
+9	в	В	PR	PR	PR	8	атриб	_	_
+10	старших	СТАРШИЙ	A	A - loc pl plen - -	A - loc pl plen - -	11	опред	_	_
+11	классах	КЛАСС	S	S m inan loc pl	S m inan loc pl	9	предл	_	_
+12	школы	ШКОЛА	S	S f inan gen sg	S f inan gen sg	11	квазиагент	_	_
+13	так и	так и	CONJ	CONJ	ZERO	3	обст	_	_
+14	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	13	подч-союзн	_	_
+15	о	О	PR	PR	PR	14	1-компл	_	_
+16	нем	НЕМОЙ	A	A - dat sg plen n -	A - dat sg plen n -	19	опред	_	_
+17	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	19	количест	_	_
+18	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	19	квазиагент	_	_
+19	однокласснице	ОДНОКЛАССНИЦА	S	S f anim dat sg	S f anim dat sg	15	предл	_	_
+20	:	:	:	:	PUNC	22	композ	_	_
+21	«	«	_	_	PUNC	20	PUNC	_	_
+22	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	24	предик	_	_
+23	еще	ЕЩЕ	ADV	ADV -	ADV -	24	огранич	_	_
+24	услышим	УСЛЫШАТЬ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	3	сент-соч	_	_
+25	в	В	PR	PR	PR	24	обст	_	_
+26	будущем	БУДУЩЕЕ	S	S n inan loc sg	S n inan loc sg	25	предл	_	_
+27	про	ПРО	PR	PR	PR	24	3-компл	_	_
+28	Колю...	КОЛЯ...	S	S m anim dat sg	S m anim dat sg	27	предл	_	_
+29	»	»	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	15	обст	_	_
+2	мама	МАМА	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+3	справлялась	СПРАВЛЯТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	подч-союзн	_	_
+4	у	У	PR	PR	PR	3	2-компл	_	_
+5	учителей	УЧИТЕЛЬ	S	S m anim gen pl	S m anim gen pl	4	предл	_	_
+6	об	ОБ	PR	PR	PR	3	1-компл	_	_
+7	успехах	УСПЕХ	S	S m inan loc pl	S m inan loc pl	6	предл	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	поведении	ПОВЕДЕНИЕ	S	S n inan loc sg	S n inan loc sg	8	соч-союзн	_	_
+10	Колюши	КОЛЮША	S	S m anim gen sg	S m anim gen sg	9	квазиагент	_	_
+11	в	В	PR	PR	PR	9	атриб	_	_
+12	школе	ШКОЛА	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	то	ТО	CONJ	CONJ	CONJ	1	соотнос	_	_
+15	слышала	СЛЫШАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+16	такие	ТАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	17	опред	_	_
+17	ответы	ОТВЕТ	S	S m inan nom pl	S m inan nom pl	15	предик	_	_
+18	:	:	:	:	PUNC	17	аппоз	_	_
+19	«	«	_	_	PUNC	18	PUNC	_	_
+20	Что	ЧТО	CONJ	CONJ	CONJ	15	сент-соч	_	_
+21	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	22	предик	_	_
+22	беспокоитесь	БЕСПОКОИТЬСЯ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	20	соч-союзн	_	_
+23	?	?	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	лучший	ХОРОШИЙ	A	A supr nom sg plen m -	A supr nom sg plen m -	0	ROOT	_	_
+3	из	ИЗ	PR	PR	PR	2	электив	_	_
+4	лучших	ХОРОШИЙ	A	A supr gen pl plen - -	A supr gen pl plen - -	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Откройте	ОТКРЫВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	3	вводн	_	_
+2	нам	МЫ	SPRO	SPRO pl 1p - dat	SPRO pl 1p - dat	1	2-компл	_	_
+3	секрет	СЕКРЕТ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+4	вашей	ВАШ	A	A - gen sg plen f -	A - gen sg plen f -	5	опред	_	_
+5	системы	СИСТЕМА	S	S f inan gen sg	S f inan gen sg	3	1-компл	_	_
+6	воспитания	ВОСПИТАНИЕ	S	S n inan gen sg	S n inan gen sg	5	квазиагент	_	_
+7	»	»	_	_	PUNC	6	PUNC	_	_
+8	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	2	1-компл	_	_
+2	могла	МОЧЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	мама	МАМА	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	ответить	ОТВЕЧАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	на	НА	PR	PR	PR	4	3-компл	_	_
+6	последний	ПОСЛЕДНИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	7	опред	_	_
+7	вопрос	ВОПРОС	S	S m inan acc sg	S m inan acc sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	когда	КОГДА	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	в	В	PR	PR	PR	18	обст	_	_
+11	основу	ОСНОВА	S	S f inan acc sg	S f inan acc sg	10	предл	_	_
+12	всей	ВЕСЬ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+13	системы	СИСТЕМА	S	S f inan gen sg	S f inan gen sg	11	1-компл	_	_
+14	нашего	НАШ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+15	воспитания	ВОСПИТАНИЕ	S	S n inan gen sg	S n inan gen sg	13	квазиагент	_	_
+16	детей	РЕБЕНОК	S	S m anim gen pl	S m anim gen pl	15	1-компл	_	_
+17	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	18	предик	_	_
+18	клали	КЛАСТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	подч-союзн	_	_
+19	живую	ЖИВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	20	опред	_	_
+20	веру	ВЕРА	S	S f inan acc sg	S f inan acc sg	18	1-компл	_	_
+21	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+22	учение	УЧЕНИЕ	S	S n inan nom sg	S n inan nom sg	21	соч-союзн	_	_
+23	Христа	ХРИСТОС	S	S m anim gen sg	S m anim gen sg	22	1-компл	_	_
+24	?	?	SENT	SENT	SENT	23	PUNC	_	_
+

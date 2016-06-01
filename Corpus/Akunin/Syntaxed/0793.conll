@@ -1,0 +1,57 @@
+1	Наблюдение	НАБЛЮДЕНИЕ	S	S n inan nom sg	S n inan nom sg	2	предик	_	_
+2	третье	ТРЕТИЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	самое	САМЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	сочин	_	_
+5	интересное	ИНТЕРЕСНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	6	опред	_	_
+6	:	:	:	:	PUNC	2	сент-соч	_	_
+7	несмотря на	несмотря на	PR	PR	ZERO	6	атриб	_	_
+8	возраст	ВОЗРАСТ	S	S m inan nom sg	S m inan nom sg	12	предик	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	порфироносность	ПОРФИРОНОСНОСТЬ	S	S f inan acc sg	S f inan acc sg	9	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	неравнодушен	НЕРАВНОДУШНЫЙ	A	A - - sg brev m -	A - - sg brev m -	7	предл	_	_
+13	к	К	PR	PR	PR	12	1-компл	_	_
+14	женскому	ЖЕНСКИЙ	A	A - dat sg plen n -	A - dat sg plen n -	15	опред	_	_
+15	полу	ПОЛ	S	S m inan dat sg	S m inan dat sg	13	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	иначе	ИНАЧЕ	CONJ	CONJ	CONJ	12	сравнит	_	_
+3	зачем	ЗАЧЕМ	ADV	ADV -	ADV -	6	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	6	опред	_	_
+6	величество	ВЕЛИЧЕСТВО	S	S n inan nom sg	S n inan nom sg	2	сравн-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	по	ПО	PR	PR	PR	6	1-компл	_	_
+9	груди	ГРУДЬ	S	S f inan loc2 sg	S f inan loc2 sg	8	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+11	талии	ТАЛИЯ	S	S f inan gen sg	S f inan gen sg	10	соч-союзн	_	_
+12	взглядом	ВЗГЛЯД	S	S m inan ins sg	S m inan ins sg	13	2-компл	_	_
+13	рыскать	РЫСКАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	1	соч-союзн	_	_
+14	?	?	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Видно	ВИДНО	ADV	ADV -	ADV -	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	правду	ПРАВДА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+4	говорят	ГОВОРИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+5	про	ПРО	PR	PR	PR	4	3-компл	_	_
+6	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	5	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+8	княжну	КНЯЖНА	S	S f anim acc sg	S f anim acc sg	7	соч-союзн	_	_
+9	Долгорукову	ДОЛГОРУКОВ	S	S m anim dat sg	S m anim dat sg	8	аппоз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	13	предик	_	_
+12	вдвое	ВДВОЕ	ADV	ADV -	ADV -	13	колич-огран	_	_
+13	моложе	МОЛОДОЙ	A	A comp - - plen - -	A comp - - plen - -	4	сент-соч	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+3	окончательно	ОКОНЧАТЕЛЬНО	ADV	ADV -	ADV -	4	обст	_	_
+4	перестала	ПЕРЕСТАВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+5	бояться	БОЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+6	Царя	ЦАРЬ	S	S m anim acc sg	S m anim acc sg	5	1-компл	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	Освободителя	ОСВОБОДИТЕЛЬ	S	S f inan nom sg	S f inan nom sg	4	сочин	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

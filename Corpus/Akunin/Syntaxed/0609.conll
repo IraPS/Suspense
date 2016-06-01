@@ -1,0 +1,20 @@
+1	Рота	РОТА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	развернулась	РАЗВЕРТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	линию	ЛИНИЯ	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	медленно	МЕДЛЕННО	ADV	ADV -	ADV -	7	обст	_	_
+7	побежала	ПОБЕЖАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	соч-союзн	_	_
+8	к	К	PR	PR	PR	7	1-компл	_	_
+9	далекому	ДАЛЕКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+10	редуту	РЕДУТ	S	S m inan dat sg	S m inan dat sg	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	над	НАД	PR	PR	PR	16	обст	_	_
+13	которым	КОТОРЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	12	предл	_	_
+14	еще	ЕЩЕ	ADV	ADV -	ADV -	15	огранич	_	_
+15	пуще	ПУЩЕ	ADV	ADV -	ADV -	16	обст	_	_
+16	завздыбились	ЗАВЗДЫБИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	7	сент-соч	_	_
+17	земляные	ЗЕМЛЯНОЙ	A	A - nom pl plen - -	A - nom pl plen - -	18	опред	_	_
+18	фонтаны	ФОНТАН	S	S m inan nom pl	S m inan nom pl	16	предик	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

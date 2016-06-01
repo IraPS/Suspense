@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"охранка","gr":"S,f,inan=abl,sg"},{"lex":"охранка","gr":"S,f,inan=dat,sg"}],"text":"охранке"}
+{"analysis":[{"lex":"служить","gr":"V,ipf,tran=inf"}],"text":"служить"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inpraes,sg,indic,1p"}],"text":"буду"}

@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"когда","gr":"CONJ="}],"text":"Когда"}
+{"analysis":[{"lex":"выходить","gr":"V,intr=praet,pl,indic,pf"}],"text":"вышли"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"адъютантский","gr":"A=acc,sg,plen,f"}],"text":"адъютантскую"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,f,pf"}],"text":"спросила"}
+{"analysis":[{"lex":"генерал","gr":"S,m,anim=acc,sg"},{"lex":"генерал","gr":"S,m,anim=gen,sg"}],"text":"генерала"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"если","gr":"CONJ="}],"text":"если"}
+{"analysis":[{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"},{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Маклафлин"}
+{"analysis":[{"lex":"вообще","gr":"ADV,parenth="}],"text":"вообще"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"отыскиваться","gr":"V,intr=inpraes,sg,indic,3p,pf"}],"text":"отыщется"}

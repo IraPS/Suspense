@@ -1,0 +1,10 @@
+1	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	оглянулся	ОГЛЯНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	шептунов	ШЕПТУН	S	S f inan ins sg	S f inan ins sg	3	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	грозно	ГРОЗНО	ADV	ADV -	ADV -	7	обст	_	_
+7	двинул	ДВИНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+8	бровями	БРОВЬ	S	S f inan ins pl	S f inan ins pl	7	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

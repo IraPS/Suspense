@@ -1,0 +1,41 @@
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	3	количест	_	_
+3	лет	ГОД	S	S m inan gen pl	S m inan gen pl	4	предл	_	_
+4	тому назад	тому назад	PR	PR	ZERO	6	обст	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+6	женился	ЖЕНИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	—	—	—	—	PUNC	10	1-компл	_	_
+2	Первый	ПЕРВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	месяц	МЕСЯЦ	S	S m inan acc sg	S m inan acc sg	1	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	the	THE	NONLEX	NONLEX	NONLEX	3	аппоз	_	_
+6	honey	HONEY	NONLEX	NONLEX	NONLEX	5	аппоз	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	moon	MOON	NONLEX	NONLEX	NONLEX	6	аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	провел	ПРОВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+11	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+12	здесь	ЗДЕСЬ	ADV	ADV -	ADV -	10	обст	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	в	В	PR	PR	PR	10	обст	_	_
+15	этой	ЭТОТ	A	A - loc sg plen f -	A - loc sg plen f -	16	опред	_	_
+16	деревне	ДЕРЕВНЯ	S	S f inan loc sg	S f inan loc sg	14	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Этому	ЭТОТ	A	A - dat sg plen m -	A - dat sg plen m -	2	опред	_	_
+2	дому	ДОМ	S	S m inan dat sg	S m inan dat sg	3	2-компл	_	_
+3	обязан	ОБЯЗАННЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+5	лучшими	ХОРОШИЙ	A	A supr ins pl plen - -	A supr ins pl plen - -	6	опред	_	_
+6	минутами	МИНУТА	S	S f inan ins pl	S f inan ins pl	3	1-компл	_	_
+7	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	6	1-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+9	одним	ОДИН	A	A - ins sg plen m -	A - ins sg plen m -	8	соч-союзн	_	_
+10	из	ИЗ	PR	PR	PR	9	электив	_	_
+11	самых	САМЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	12	опред	_	_
+12	тяжелых	ТЯЖЕЛЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	13	опред	_	_
+13	воспоминаний	ВОСПОМИНАНИЕ	S	S n inan gen pl	S n inan gen pl	10	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

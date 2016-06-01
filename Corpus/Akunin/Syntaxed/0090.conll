@@ -1,0 +1,13 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Гого	ГОГО	S	S f inan nonflex nonflex	S f inan nonflex nonflex	0	ROOT	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	крикнул	КРИКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	сверкнув	СВЕРКНУТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+6	белыми	БЕЛЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	7	опред	_	_
+7	зубами	ЗУБ	S	S m inan ins pl	S m inan ins pl	5	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

@@ -1,0 +1,10 @@
+1	Так	ТАК	ADV	ADV -	ADV -	2	обст	_	_
+2	погиб	ПОГИБАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Сергей	СЕРГЕЙ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	Верещагин	ВЕРЕЩАГИН	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	брат	БРАТ	S	S m anim nom sg	S m anim nom sg	3	об-аппоз	_	_
+7	знаменитого	ЗНАМЕНИТЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	8	опред	_	_
+8	художника	ХУДОЖНИК	S	S m anim gen sg	S m anim gen sg	6	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

@@ -1,0 +1,84 @@
+1	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	промолчал	ПРОМОЛЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Дейли	ДЕЙЛИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	0	ROOT	_	_
+3	пост	ПОСТ	S	S m inan acc sg	S m inan acc sg	2	атриб	_	_
+4	»	»	_	_	PUNC	6	PUNC	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	Лондон	ЛОНДОН	S	S m inan acc sg	S m inan acc sg	3	примыкат	_	_
+7	)	)	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	15	15	NUM	NUM - - -	NUM - - -	6	нум-аппоз	_	_
+10	(	(	_	_	PUNC	11	PUNC	_	_
+11	3	3	NUM	NUM - - -	NUM - - -	9	примыкат	_	_
+12	)	)	_	_	PUNC	11	PUNC	_	_
+13	июля	ИЮЛЬ	S	S m inan gen sg	S m inan gen sg	6	атриб	_	_
+14	1877	1877	NUM	NUM - - -	NUM - - -	15	опред	_	_
+15	г	Г	S	S m inan nonflex nonflex	S m inan nonflex nonflex	13	атриб	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	…	…	SENT	SENT	SENT	0	ROOT	_	_
+
+1	Передовой	ПЕРЕДОВОЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	отряд	ОТРЯД	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+3	стремительного	СТРЕМИТЕЛЬНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+5	Гурко	ГУРКО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	4	аппоз	_	_
+6	взял	ВЗЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	древнюю	ДРЕВНИЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	столицу	СТОЛИЦА	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+9	болгарского	БОЛГАРСКИЙ	A	A - gen sg plen n -	A - gen sg plen n -	10	опред	_	_
+10	царства	ЦАРСТВО	S	S n inan gen sg	S n inan gen sg	8	квазиагент	_	_
+11	город	ГОРОД	S	S m inan acc sg	S m inan acc sg	8	разъяснит	_	_
+12	Тырново	ТЫРНОВО	S	S f inan gen sg	S f inan gen sg	11	квазиагент	_	_
+13	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+14	рвется	РВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	13	соч-союзн	_	_
+15	к	К	PR	PR	PR	14	2-компл	_	_
+16	Шипкинскому	ШИПКИНСКИЙ	A	A - dat sg plen m -	A - dat sg plen m -	17	опред	_	_
+17	перевалу	ПЕРЕВАЛ	S	S m inan dat sg	S m inan dat sg	15	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	за	ЗА	PR	PR	PR	21	1-компл	_	_
+20	которым	КОТОРЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	19	предл	_	_
+21	лежат	ЛЕЖАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	6	сент-соч	_	_
+22	беззащитные	БЕЗЗАЩИТНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	23	опред	_	_
+23	равнины	РАВНИНА	S	S f inan nom pl	S f inan nom pl	21	предик	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	простирающиеся	ПРОСТИРАТЬСЯ	PARTCP	PARTCP ipf inpraes nom pl plen - act -	PARTCP ipf inpraes nom pl plen - act -	23	разъяснит	_	_
+26	до	ДО	PR	PR	PR	21	обст	_	_
+27	самого	САМ	A	A - gen sg plen m -	A - gen sg plen m -	28	опред	_	_
+28	Константинополя	КОНСТАНТИНОПОЛЬ	S	S m inan gen sg	S m inan gen sg	26	предл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Военный	ВОЕННЫЙ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+2	везир	ВЕЗИР	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	Редиф	РЕДИФ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	паша	ПАША	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+6	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+7	главнокомандующий	ГЛАВНОКОМАНДУЮЩИЙ	S	S m anim nom sg	S m anim nom sg	6	соч-союзн	_	_
+8	Абдул	АБДУЛ	S	S m anim nom sg	S m anim nom sg	7	аппоз	_	_
+9	Керим	КЕРИМ	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	-	-	-	-	PUNC	9	PUNC	_	_
+11	паша	ПАША	S	S m anim nom sg	S m anim nom sg	7	об-аппоз	_	_
+12	сняты	СНИМАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	0	ROOT	_	_
+13	со	СО	PR	PR	PR	12	обст	_	_
+14	своих	СВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	15	опред	_	_
+15	постов	ПОСТ	S	S m inan gen pl	S m inan gen pl	13	предл	_	_
+16	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+17	отданы	ОТДАВАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	16	соч-союзн	_	_
+18	под	ПОД	PR	PR	PR	17	обст	_	_
+19	суд	СУД	S	S m inan acc sg	S m inan acc sg	18	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	3	обст	_	_
+2	Турцию	ТУРЦИЯ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+3	может	МОЧЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	спасти	СПАСАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	только	ТОЛЬКО	PART	PART	PART	6	огранич	_	_
+6	чудо	ЧУДО	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+7	»	»	_	_	PUNC	6	PUNC	_	_
+8	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

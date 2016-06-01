@@ -1,0 +1,159 @@
+1	Постлано	ПОСТИЛАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	3	пасс-анал	_	_
+2	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	3	дат-субъект	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	обст	_	_
+5	печке	ПЕЧКА	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Вскоре	ВСКОРЕ	ADV	ADV -	ADV -	6	огранич	_	_
+2	сквозь	СКВОЗЬ	PR	PR	PR	6	атриб	_	_
+3	подстилку	ПОДСТИЛКА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	(	(	_	_	PUNC	5	PUNC	_	_
+5	старый	СТАРЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	6	опред	_	_
+6	тулуп	ТУЛУП	S	S m inan acc sg	S m inan acc sg	14	1-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	байковое	БАЙКОВЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	9	опред	_	_
+9	одеялишко	ОДЕЯЛИШКО	S	S n inan nom sg	S n inan nom sg	7	соч-союзн	_	_
+10	поверх	ПОВЕРХ	PR	PR	PR	13	обст	_	_
+11	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	10	предл	_	_
+12	)	)	_	_	PUNC	11	PUNC	_	_
+13	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+14	доходить	ДОХОДИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	предик	_	_
+15	до	ДО	PR	PR	PR	14	2-компл	_	_
+16	тела	ТЕЛО	S	S n inan gen sg	S n inan gen sg	15	предл	_	_
+17	устойчивое	УСТОЙЧИВЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	14	1-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	ровное	РОВНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	20	опред	_	_
+20	тепло	ТЕПЛО	S	S n inan nom sg	S n inan nom sg	13	сент-соч	_	_
+21	кирпичей	КИРПИЧ	S	S m inan gen pl	S m inan gen pl	20	квазиагент	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Засыпая	ЗАСЫПАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	думал	ДУМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	:	:	:	:	PUNC	7	обст	_	_
+6	вот	ВОТ	PART	PART	PART	7	огранич	_	_
+7	шел	ИДТИ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	1-компл	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	предик	_	_
+9	вдоль	ВДОЛЬ	PR	PR	PR	7	обст	_	_
+10	деревни	ДЕРЕВНЯ	S	S f inan gen sg	S f inan gen sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	и	И	CONJ	CONJ	CONJ	7	сент-соч	_	_
+13	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	14	опред	_	_
+14	избы	ИЗБА	S	S f inan nom pl	S f inan nom pl	15	предик	_	_
+15	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	12	соч-союзн	_	_
+16	для	ДЛЯ	PR	PR	PR	15	обст	_	_
+17	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	16	предл	_	_
+18	одинаковые	ОДИНАКОВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	присвяз	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	что	ЧТО	S	S n - nom sg	S n - nom sg	3	предик	_	_
+3	затаилось	ЗАТАИВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+4	в	В	PR	PR	PR	3	обст	_	_
+5	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	за	ЗА	PR	PR	PR	3	1-компл	_	_
+8	ветхими	ВЕТХИЙ	A	A - ins pl plen - -	A - ins pl plen - -	9	опред	_	_
+9	бревнами	БРЕВНО	S	S f inan ins pl	S f inan ins pl	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	за	ЗА	PR	PR	PR	3	2-компл	_	_
+12	черными	ЧЕРНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	13	опред	_	_
+13	стеклами	СТЕКЛО	S	S f inan ins pl	S f inan ins pl	11	предл	_	_
+14	окон	ОКНО	S	S n inan gen pl	S n inan gen pl	13	квазиагент	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	что	ЧТО	CONJ	CONJ	CONJ	13	1-компл	_	_
+17	за	ЗА	PR	PR	PR	20	3-компл	_	_
+18	люди	ЧЕЛОВЕК	S	S m anim - pl	S m anim - pl	17	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	что	ЧТО	CONJ	CONJ	CONJ	16	подч-союзн	_	_
+21	за	ЗА	PR	PR	PR	24	обст	_	_
+22	думы	ДУМА	S	S f inan gen sg	S f inan gen sg	21	предл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	—	—	—	—	PUNC	20	подч-союзн	_	_
+25	неизвестно	НЕИЗВЕСТНО	ADV	ADV -	ADV -	24	обст	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	2	огранич	_	_
+2	приоткрылась	ПРИОТКРЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	дверь	ДВЕРЬ	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+4	в	В	PR	PR	PR	3	атриб	_	_
+5	одну	ОДИН	A	A - acc sg plen f -	A - acc sg plen f -	6	количест	_	_
+6	избу	ИЗБА	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+9	оказалось	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	8	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	9	предик	_	_
+12	живет	ЖИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	подч-союзн	_	_
+13	в	В	PR	PR	PR	12	3-компл	_	_
+14	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	13	предл	_	_
+15	тетя	ТЕТЯ	S	S f anim nom sg	S f anim nom sg	12	предик	_	_
+16	Маша	МАША	S	S f anim nom sg	S f anim nom sg	15	аппоз	_	_
+17	со	СО	PR	PR	PR	15	атриб	_	_
+18	своим	СВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	22	опред	_	_
+19	великим	ВЕЛИКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	22	опред	_	_
+20	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+21	свежим	СВЕЖИЙ	A	A - ins sg plen m -	A - ins sg plen m -	20	соч-союзн	_	_
+22	горем	ГОРЕ	S	S n inan ins sg	S n inan ins sg	17	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	уж	УЖ	PART	PART	PART	3	огранич	_	_
+3	нет	НЕТ	ADV	ADV -	ADV -	6	обст	_	_
+4	у	У	PR	PR	PR	6	1-компл	_	_
+5	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	4	предл	_	_
+6	мужа	МУЖ	S	S m anim gen sg	S m anim gen sg	1	соч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	нет	НЕТ	PART	PART	PART	9	огранич	_	_
+9	сыновей	СЫН	S	S m anim gen pl	S m anim gen pl	6	сочин	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	надо	НАДО	ADV	ADV -	ADV -	16	вводн	_	_
+13	полагать	ПОЛАГАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Значит	ЗНАЧИТ	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	так и	так и	CONJ	CONJ	ZERO	0	ROOT	_	_
+4	поплывет	ПОПЛЫТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	3	соч-союзн	_	_
+5	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	4	предик	_	_
+6	через	ЧЕРЕЗ	PR	PR	PR	4	обст	_	_
+7	море	МОРЕ	S	S n inan loc sg	S n inan loc sg	6	предл	_	_
+8	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	7	квазиагент	_	_
+9	одна	ОДИН	A	A - nom sg plen f -	A - nom sg plen f -	14	вспом	_	_
+10	в	В	PR	PR	PR	4	обст	_	_
+11	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+12	низкой	НИЗКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+13	деревенской	ДЕРЕВЕНСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+14	избе	ИЗБА	S	S f inan dat sg	S f inan dat sg	10	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	остались	ОСТАВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	соч-союзн	_	_
+3	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	5	опред	_	_
+4	одни	ОДИН	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	воспоминания	ВОСПОМИНАНИЕ	S	S n inan nom pl	S n inan nom pl	2	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Единственная	ЕДИНСТВЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	надежда	НАДЕЖДА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	то	ТО	S	S n - acc sg	S n - acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	эксплет	_	_
+7	особенно	ОСОБЕННО	ADV	ADV -	ADV -	8	огранич	_	_
+8	вспоминать	ВСПОМИНАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	9	аналит	_	_
+9	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	подч-союзн	_	_
+10	некогда	НЕКОГДА	ADV	ADV -	ADV -	11	обст	_	_
+11	:	:	:	:	PUNC	12	дат-субъект	_	_
+12	надо	НАДО	ADV	ADV -	ADV -	9	подч-союзн	_	_
+13	ведь	ВЕДЬ	PART	PART	PART	0	ROOT	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	работать	РАБОТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	14	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

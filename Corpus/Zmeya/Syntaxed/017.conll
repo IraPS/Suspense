@@ -1,0 +1,59 @@
+1	Джой	ДЖОЙ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	встала	ВСТАВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	2	1-компл	_	_
+2	захотелось	ЗАХОТЕТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	вцепиться	ВЦЕПЛЯТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	густые	ГУСТОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	7	опред	_	_
+6	рыжеватые	РЫЖЕВАТЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	7	опред	_	_
+7	волосы	ВОЛОС	S	S m inan acc pl	S m inan acc pl	4	предл	_	_
+8	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+9	долго	ДОЛГО	ADV	ADV -	ADV -	10	обст	_	_
+10	трясти	ТРЯСТИ	V	V ipf - - inf - -	V ipf - - inf - -	8	соч-союзн	_	_
+11	эту	ЭТОТ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+12	тяжелую	ТЯЖЕЛЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+13	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	понимающую	ПОНИМАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen f act -	PARTCP ipf inpraes acc sg plen f act -	10	сочин	_	_
+17	смысла	СМЫСЛ	S	S m inan gen sg	S m inan gen sg	16	1-компл	_	_
+18	игры	ИГРА	S	S f inan gen sg	S f inan gen sg	17	квазиагент	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	захотел	ЗАХОТЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	ответить	ОТВЕЧАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	4	1-компл	_	_
+6	прихотливому	ПРИХОТЛИВЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	7	опред	_	_
+7	настроению	НАСТРОЕНИЕ	S	S n inan dat sg	S n inan dat sg	4	2-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Обидчиво	ОБИДЧИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	7	предик	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	тяжело	ТЯЖЕЛО	ADV	ADV -	ADV -	4	обст	_	_
+4	взволнованная	ВЗВОЛНОВАТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	5	опред	_	_
+5	девушка	ДЕВУШКА	S	S f anim nom sg	S f anim nom sg	2	соч-союзн	_	_
+6	пристально	ПРИСТАЛЬНО	ADV	ADV -	ADV -	7	обст	_	_
+7	смотрела	СМОТРЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+8	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	7	1-компл	_	_
+9	под	ПОД	PR	PR	PR	7	обст	_	_
+10	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	покусывал	ПОКУСЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сочин	_	_
+13	губу	ГУБА	S	S f inan acc sg	S f inan acc sg	12	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	2	квазиагент	_	_
+2	внимание	ВНИМАНИЕ	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+3	привлекло	ПРИВЛЕКАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+4	нечто	НЕЧТО	S	S n - nom sg	S n - nom sg	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	блеснувшее	БЛЕСНУТЬ	PARTCP	PARTCP pf praet acc sg plen n act -	PARTCP pf praet acc sg plen n act -	4	опред	_	_
+7	в	В	PR	PR	PR	6	1-компл	_	_
+8	зашуршавшей	ЗАШУРШАТЬ	PARTCP	PARTCP pf praet loc sg plen f act -	PARTCP pf praet loc sg plen f act -	9	опред	_	_
+9	траве	ТРАВА	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

@@ -1,0 +1,45 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	обернулась	ОБЕРТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	квазиагент	_	_
+6	замутило	ЗАМУТИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	4	соч-союзн	_	_
+7	:	:	:	:	PUNC	12	1-компл	_	_
+8	у	У	PR	PR	PR	12	обст	_	_
+9	куста	КУСТ	S	S m inan gen sg	S m inan gen sg	8	предл	_	_
+10	невесть	НЕВЕСТЬ	PART	PART	PART	11	огранич	_	_
+11	откуда	ОТКУДА	ADV	ADV -	ADV -	12	1-компл	_	_
+12	появился	ПОЯВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	изъясн	_	_
+13	бандитский	БАНДИТСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	гнедой	ГНЕДОЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	2-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	на	НА	PR	PR	PR	22	обст	_	_
+17	котором	КОТОРЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	16	предл	_	_
+18	давеча	ДАВЕЧА	ADV	ADV -	ADV -	22	обст	_	_
+19	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	22	предик	_	_
+20	так	ТАК	ADV	ADV -	ADV -	22	обст	_	_
+21	неудачно	НЕУДАЧНО	ADV	ADV -	ADV -	22	обст	_	_
+22	скакала	СКАКАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	разъяснит	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Гнедой	ГНЕДОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	0	ROOT	_	_
+2	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	ни	НИ	PART	PART	PART	4	огранич	_	_
+4	в	В	PR	PR	PR	2	сравн-союзн	_	_
+5	чем	ЧТО	S	S n - ins sg	S n - ins sg	4	предл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	бывало	БЫВАЛО	ADV	ADV -	ADV -	8	обст	_	_
+8	щипал	ЩИПАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	сочин	_	_
+9	травку	ТРАВКА	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	8	сент-соч	_	_
+12	на	НА	PR	PR	PR	17	обст	_	_
+13	боку	БОК	S	S m inan loc2 sg	S m inan loc2 sg	12	предл	_	_
+14	у	У	PR	PR	PR	17	1-компл	_	_
+15	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	14	предл	_	_
+16	по-прежнему	ПО-ПРЕЖНЕМУ	ADV	ADV -	ADV -	17	обст	_	_
+17	покачивалась	ПОКАЧИВАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	11	соч-союзн	_	_
+18	тошнотворная	ТОШНОТВОРНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	19	опред	_	_
+19	подвеска	ПОДВЕСКА	S	S f inan nom sg	S f inan nom sg	17	предик	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

@@ -1,0 +1,35 @@
+1	Тщетно	ТЩЕТНО	ADV	ADV -	ADV -	3	обст	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+3	толковала	ТОЛКОВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	про	ПРО	PR	PR	PR	3	2-компл	_	_
+5	равные	РАВНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	6	опред	_	_
+6	права	ПРАВО	S	S n inan acc pl	S n inan acc pl	4	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	американскую	АМЕРИКАНСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	территорию	ТЕРРИТОРИЯ	S	S f inan acc sg	S f inan acc sg	7	соч-союзн	_	_
+10	Вайоминг	ВАЙОМИНГ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	где	ГДЕ	ADV	ADV -	ADV -	14	обст	_	_
+13	женщинам	ЖЕНЩИНА	S	S f anim dat pl	S f anim dat pl	14	предик	_	_
+14	дозволено	ДОЗВОЛЯТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	3	сент-соч	_	_
+15	голосовать	ГОЛОСОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	14	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	и	И	CONJ	CONJ	CONJ	14	сент-соч	_	_
+18	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	25	предик	_	_
+19	ужасного	УЖАСНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	25	обст	_	_
+20	с	С	PR	PR	PR	19	атриб	_	_
+21	Вайомингом	ВАЙОМИНГ	S	S m anim ins sg	S m anim ins sg	20	предл	_	_
+22	от	ОТ	PR	PR	PR	25	1-компл	_	_
+23	этого	ЭТО	S	S n - gen sg	S n - gen sg	22	предл	_	_
+24	не	НЕ	PART	PART	PART	25	огранич	_	_
+25	произошло	ПРОИСХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	17	соч-союзн	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Никто	НИКТО	S	S m - nom sg	S m - nom sg	6	1-компл	_	_
+2	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	3	1-компл	_	_
+3	слова	СЛОВО	S	S n inan gen sg	S n inan gen sg	1	1-компл	_	_
+4	всерьез	ВСЕРЬЕЗ	ADV	ADV -	ADV -	6	обст	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	воспринимал	ВОСПРИНИМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

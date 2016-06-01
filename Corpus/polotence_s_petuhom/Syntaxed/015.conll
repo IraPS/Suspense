@@ -1,0 +1,34 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	тут	ТУТ	ADV	ADV -	ADV -	5	обст	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+5	ухватился	УХВАТЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+6	за	ЗА	PR	PR	PR	5	2-компл	_	_
+7	чемодан	ЧЕМОДАН	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	вскинул	ВСКИДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	сочин	_	_
+10	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	9	1-компл	_	_
+11	на	НА	PR	PR	PR	9	2-компл	_	_
+12	плечо	ПЛЕЧО	S	S n inan acc sg	S n inan acc sg	11	предл	_	_
+13	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+14	понес	ПОНЕСТИ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	захромал	ЗАХРОМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	за	ЗА	PR	PR	PR	2	обст	_	_
+4	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	безуспешно	БЕЗУСПЕШНО	ADV	ADV -	ADV -	7	обст	_	_
+7	пытаясь	ПЫТАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+8	всунуть	ВСОВЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	7	1-компл	_	_
+9	руку	РУКА	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+10	в	В	PR	PR	PR	8	2-компл	_	_
+11	карман	КАРМАН	S	S m inan acc sg	S m inan acc sg	10	предл	_	_
+12	брюк	БРЮКИ	S	S - inan gen pl	S - inan gen pl	11	квазиагент	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	8	обст	_	_
+15	вынуть	ВЫНИМАТЬ	V	V pf - - inf - -	V pf - - inf - -	14	инф-союзн	_	_
+16	портмоне	ПОРТМОНЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	15	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

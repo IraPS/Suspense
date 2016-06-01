@@ -1,0 +1,19 @@
+1	Плакала	ПЛАКАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+2	долго	ДОЛГО	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	потом	ПОТОМ	ADV	ADV -	ADV -	6	обст	_	_
+5	слезы	СЛЕЗА	S	S f inan gen sg	S f inan gen sg	6	1-компл	_	_
+6	высохли	ВЫСЫХАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	сент-соч	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	потом	ПОТОМ	ADV	ADV -	ADV -	9	обст	_	_
+9	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	6	сент-соч	_	_
+10	прохладно	ПРОХЛАДНО	ADV	ADV -	ADV -	9	присвяз	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	а	А	CONJ	CONJ	CONJ	9	сент-соч	_	_
+13	раненых	РАНЕНЫЙ	S	S m anim acc pl	S m anim acc pl	15	1-компл	_	_
+14	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	15	предик	_	_
+15	везли	ВЕЗТИ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	12	соч-союзн	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	везли	ВЕЗТИ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	16	соч-союзн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

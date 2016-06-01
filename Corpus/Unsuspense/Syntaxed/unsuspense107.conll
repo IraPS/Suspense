@@ -1,0 +1,195 @@
+1	Склад	СКЛАД	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+2	средней	СРЕДНИЙ	A	A - gen sg plen f -	A - gen sg plen f -	4	опред	_	_
+3	дворянской	ДВОРЯНСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	4	опред	_	_
+4	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	1	квазиагент	_	_
+5	еще	ЕЩЕ	ADV	ADV -	ADV -	11	огранич	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	на	НА	PR	PR	PR	6	соч-союзн	_	_
+8	моей	МОЙ	A	A - loc sg plen f -	A - loc sg plen f -	9	опред	_	_
+9	памяти	ПАМЯТЬ	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	—	—	—	—	PUNC	16	1-компл	_	_
+12	очень	ОЧЕНЬ	ADV	ADV -	ADV -	13	огранич	_	_
+13	недавно	НЕДАВНО	ADV	ADV -	ADV -	16	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	—	—	—	—	PUNC	16	1-компл	_	_
+16	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+17	много	МНОГО	ADV	ADV -	ADV -	16	1-компл	_	_
+18	общего	ОБЩИЙ	A	A - gen sg plen n -	A - gen sg plen n -	17	1-компл	_	_
+19	со	СО	PR	PR	PR	18	атриб	_	_
+20	складом	СКЛАД	S	S m inan ins sg	S m inan ins sg	19	предл	_	_
+21	богатой	БОГАТЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	23	опред	_	_
+22	мужицкой	МУЖИЦКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	23	опред	_	_
+23	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	20	квазиагент	_	_
+24	по	ПО	PR	PR	PR	16	обст	_	_
+25	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	26	опред	_	_
+26	домовитости	ДОМОВИТОСТЬ	S	S f inan gen sg	S f inan gen sg	24	предл	_	_
+27	и	И	CONJ	CONJ	CONJ	16	сент-соч	_	_
+28	сельскому	СЕЛЬСКИЙ	A	A - dat sg plen n -	A - dat sg plen n -	30	опред	_	_
+29	старосветскому	СТАРОСВЕТСКИЙ	A	A - dat sg plen m -	A - dat sg plen m -	30	опред	_	_
+30	благополучию	БЛАГОПОЛУЧИЕ	S	S n inan dat sg	S n inan dat sg	27	соч-союзн	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	Такова	ТАКОВ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	например	НАПРИМЕР	ADV	ADV -	ADV -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	разъяснит	_	_
+6	усадьба	УСАДЬБА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+7	тетки	ТЕТКА	S	S f anim gen sg	S f anim gen sg	6	квазиагент	_	_
+8	Анны	АННА	S	S f anim gen sg	S f anim gen sg	7	аппоз	_	_
+9	Герасимовны	ГЕРАСИМОВНА	S	S f anim gen sg	S f anim gen sg	8	аппоз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	жившей	ЖИТЬ	PARTCP	PARTCP ipf praet loc sg plen f act -	PARTCP ipf praet loc sg plen f act -	7	опред	_	_
+12	от	ОТ	PR	PR	PR	11	2-компл	_	_
+13	Выселок	ВЫСЕЛОК	S	S m inan acc sg	S m inan acc sg	12	предл	_	_
+14	верстах	ВЕРСТА	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+15	в	В	PR	PR	PR	11	2-компл	_	_
+16	двенадцати	ДВЕНАДЦАТЬ	NUM	NUM loc - -	NUM loc - -	15	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Пока	ПОКА	CONJ	CONJ	CONJ	12	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	бывало	БЫВАЛО	ADV	ADV -	ADV -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	доедешь	ДОЕЗЖАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	1	подч-союзн	_	_
+6	до	ДО	PR	PR	PR	5	2-компл	_	_
+7	этой	ЭТОТ	A	A - gen sg plen f -	A - gen sg plen f -	8	опред	_	_
+8	усадьбы	УСАДЬБА	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	уже	УЖЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	совсем	СОВСЕМ	ADV	ADV -	ADV -	12	огранич	_	_
+12	обедняется	ОБЕДНЯТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	С	С	PR	PR	PR	5	обст	_	_
+2	собаками	СОБАКА	S	S f anim ins pl	S f anim ins pl	1	предл	_	_
+3	на	НА	PR	PR	PR	5	обст	_	_
+4	сворах	СВОРА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	ехать	ЕХАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	предик	_	_
+6	приходится	ПРИХОДИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	шагом	ШАГ	S	S m inan ins sg	S m inan ins sg	6	агент	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	да	ДА	CONJ	CONJ	CONJ	6	обст	_	_
+10	и	И	CONJ	CONJ	CONJ	15	соотнос	_	_
+11	спешить	СПЕШИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	1-компл	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	хочется	ХОТЕТЬСЯ	V	V ipf praes - indic - -	V ipf praes - indic - -	0	ROOT	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	—	—	—	—	PUNC	13	сочин	_	_
+16	так	ТАК	ADV	ADV -	ADV -	17	огранич	_	_
+17	весело	ВЕСЕЛО	ADV	ADV -	ADV -	18	огранич	_	_
+18	в	В	PR	PR	PR	13	2-компл	_	_
+19	открытом	ОТКРЫТЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	20	опред	_	_
+20	поле	ПОЛЕ	S	S n inan loc sg	S n inan loc sg	18	предл	_	_
+21	в	В	PR	PR	PR	13	3-компл	_	_
+22	солнечный	СОЛНЕЧНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	25	опред	_	_
+23	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+24	прохладный	ПРОХЛАДНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	23	соч-союзн	_	_
+25	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	21	предл	_	_
+26	!	!	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Местность	МЕСТНОСТЬ	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	ровная	РОВНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	видно	ВИДНО	ADV	ADV -	ADV -	2	огранич	_	_
+5	далеко	ДАЛЕКО	ADV	ADV -	ADV -	2	огранич	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Небо	НЕБО	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+2	легкое	ЛЕГКИЙ	A	A - acc sg plen n -	A - acc sg plen n -	5	опред	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	3	соч-союзн	_	_
+5	просторное	ПРОСТОРНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	глубокое	ГЛУБОКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	6	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Солнце	СОЛНЦЕ	S	S n inan nom sg	S n inan nom sg	2	предик	_	_
+2	сверкает	СВЕРКАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	сбоку	СБОКУ	ADV	ADV -	ADV -	2	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	дорога	ДОРОГА	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	укатанная	УКАТЫВАТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	6	опред	_	_
+9	после	ПОСЛЕ	PR	PR	PR	8	обст	_	_
+10	дождей	ДОЖДЬ	S	S m inan gen pl	S m inan gen pl	9	предл	_	_
+11	телегами	ТЕЛЕГА	S	S f inan ins pl	S f inan ins pl	8	агент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	замаслилась	ЗАМАСЛИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	соч-союзн	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	блестит	БЛЕСТЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	14	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	как	КАК	CONJ	CONJ	CONJ	15	сравнит	_	_
+18	рельсы	РЕЛЬС	S	S m inan acc pl	S m inan acc pl	17	сравн-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Вокруг	ВОКРУГ	ADV	ADV -	ADV -	2	обст	_	_
+2	раскидываются	РАСКИДЫВАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+3	широкими	ШИРОКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	4	опред	_	_
+4	косяками	КОСЯК	S	S m inan ins pl	S m inan ins pl	2	1-компл	_	_
+5	свежие	СВЕЖИЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	опред	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	пышно	ПЫШНО	ADV	ADV -	ADV -	10	вводн	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	зеленые	ЗЕЛЕНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	10	опред	_	_
+10	озими	ОЗИМЬ	S	S m inan acc pl	S m inan acc pl	2	сочин	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Взовьется	ВЗВИВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+2	откуда-нибудь	ОТКУДА-НИБУДЬ	ADV	ADV -	ADV -	1	обст	_	_
+3	ястребок	ЯСТРЕБОК	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+4	в	В	PR	PR	PR	1	обст	_	_
+5	прозрачном	ПРОЗРАЧНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	6	опред	_	_
+6	воздухе	ВОЗДУХ	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+8	замрет	ЗАМИРАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	7	соч-союзн	_	_
+9	на	НА	PR	PR	PR	8	обст	_	_
+10	одном	ОДИН	A	A - loc sg plen n -	A - loc sg plen n -	11	опред	_	_
+11	месте	МЕСТО	S	S n inan loc sg	S n inan loc sg	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	трепеща	ТРЕПЕТАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	обст	_	_
+14	острыми	ОСТРЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	15	опред	_	_
+15	крылышками	КРЫЛЫШКО	S	S n inan ins pl	S n inan ins pl	13	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	в	В	PR	PR	PR	5	обст	_	_
+3	ясную	ЯСНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	4	опред	_	_
+4	даль	ДАЛЬ	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+5	убегают	УБЕГАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	1	соч-союзн	_	_
+6	четко	ЧЕТКО	ADV	ADV -	ADV -	7	огранич	_	_
+7	видные	ВИДНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+8	телеграфные	ТЕЛЕГРАФНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	столбы	СТОЛБ	S	S m inan nom pl	S m inan nom pl	5	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+12	проволоки	ПРОВОЛОКА	S	S f inan gen sg	S f inan gen sg	11	соч-союзн	_	_
+13	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	12	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	как	КАК	CONJ	CONJ	CONJ	9	сравнит	_	_
+16	серебряные	СЕРЕБРЯНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	17	опред	_	_
+17	струны	СТРУНА	S	S f inan nom pl	S f inan nom pl	15	сравн-союзн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	скользят	СКОЛЬЗИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	5	сочин	_	_
+20	по	ПО	PR	PR	PR	19	обст	_	_
+21	склону	СКЛОН	S	S m inan dat sg	S m inan dat sg	20	предл	_	_
+22	ясного	ЯСНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	23	опред	_	_
+23	неба	НЕБО	S	S n inan gen sg	S n inan gen sg	21	квазиагент	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	На	НА	PR	PR	PR	3	обст	_	_
+2	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	1	предл	_	_
+3	сидят	СИДЕТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	кобчики	КОБЧИК	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	—	—	—	—	PUNC	3	2-компл	_	_
+7	совсем	СОВСЕМ	ADV	ADV -	ADV -	8	огранич	_	_
+8	черные	ЧЕРНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	9	опред	_	_
+9	значки	ЗНАЧОК	S	S m inan acc pl	S m inan acc pl	3	1-компл	_	_
+10	на	НА	PR	PR	PR	3	2-компл	_	_
+11	нотной	НОТНЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	12	опред	_	_
+12	бумаге	БУМАГА	S	S f inan dat sg	S f inan dat sg	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

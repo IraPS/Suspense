@@ -1,0 +1,40 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	вскочила	ВСКАКИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	топнула	ТОПНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сочин	_	_
+5	ногой	НОГА	S	S f inan ins sg	S f inan ins sg	4	1-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	направилась	НАПРАВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	соч-союзн	_	_
+8	к	К	PR	PR	PR	7	2-компл	_	_
+9	выходу	ВЫХОД	S	S m inan dat sg	S m inan dat sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	но	НО	CONJ	CONJ	CONJ	7	сент-соч	_	_
+12	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+13	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	соч-союзн	_	_
+14	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	13	2-компл	_	_
+15	в	В	PR	PR	PR	13	3-компл	_	_
+16	спину	СПИНА	S	S f inan acc sg	S f inan acc sg	15	предл	_	_
+17	:	:	:	:	PUNC	22	предик	_	_
+18	–	–	–	–	PUNC	22	обст	_	_
+19	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	22	предик	_	_
+20	уж	УЖ	PART	PART	PART	21	огранич	_	_
+21	там	ТАМ	ADV	ADV -	ADV -	22	колич-огран	_	_
+22	поосторожней	ОСТОРОЖНО	ADV	ADV comp	ADV comp	13	1-компл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	ладно	ЛАДНО	PART	PART	PART	13	огранич	_	_
+25	?	?	SENT	SENT	SENT	24	PUNC	_	_
+
+1	С	С	S	S f inan nonflex nonflex	S f inan nonflex nonflex	0	ROOT	_	_
+2	к	К	PR	PR	PR	1	2-компл	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	корреспондентского	КОРРЕСПОНДЕНТСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	пункта	ПУНКТ	S	S m inan gen sg	S m inan gen sg	2	предл	_	_
+6	ни	НИ	CONJ	CONJ	CONJ	1	сочин	_	_
+7	ногой	НОГА	S	S f inan ins sg	S f inan ins sg	6	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Мало	МАЛО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	ли	ЛИ	PART	PART	PART	1	огранич	_	_
+3	что	ЧТО	S	S n - acc sg	S n - acc sg	1	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

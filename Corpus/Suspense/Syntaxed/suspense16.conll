@@ -1,0 +1,15 @@
+1	-	-	-	-	PUNC	3	PUNC	_	_
+2	-	-	-	-	PUNC	3	PUNC	_	_
+3	Провалилась	ПРОВАЛИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	подлая	ПОДЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	-	-	-	-	PUNC	3	PUNC	_	_
+2	-	-	-	-	PUNC	3	PUNC	_	_
+3	напутственно	НАПУТСТВЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	предик	_	_
+4	прошамкали	ПРОШАМКАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	чьи-то	ЧЕЙ-ТО	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+6	губы	ГУБА	S	S f inan nom pl	S f inan nom pl	4	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

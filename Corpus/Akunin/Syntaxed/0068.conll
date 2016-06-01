@@ -1,0 +1,186 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Ну	НУ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	а	А	CONJ	CONJ	CONJ	1	сент-соч	_	_
+5	вдруг	ВДРУГ	ADV	ADV -	ADV -	8	обст	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	8	предик	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	испугался	ИСПУГАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+9	бы	БЫ	PART	PART	PART	8	аналит	_	_
+10	?	?	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	обст	_	_
+2	С	С	PR	PR	PR	1	атриб	_	_
+3	тем	ТОТ	A	A - dat pl plen - -	A - dat pl plen - -	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	кто	КТО	S	S m - nom sg	S m - nom sg	7	предик	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	испугался	ИСПУГАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	бы	БЫ	PART	PART	PART	7	аналит	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	13	предик	_	_
+11	бы	БЫ	PART	PART	PART	13	аналит	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	сел	САДИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	сент-соч	_	_
+14	играть	ИГРАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	PUNC	_	_
+2	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	как	КАК	ADV	ADV -	ADV -	6	обст	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	6	предик	_	_
+6	смогли	СМОЧЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	соч-союзн	_	_
+7	выиграть	ВЫИГРЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+8	осла	ОСЕЛ	S	S m anim acc sg	S m anim acc sg	7	1-компл	_	_
+9	с	С	PR	PR	PR	7	2-компл	_	_
+10	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	11	количест	_	_
+11	раза	РАЗ	S	S m inan gen sg	S m inan gen sg	9	предл	_	_
+12	?	?	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	полюбопытствовала	ПОЛЮБОПЫТСТВОВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Неужто	НЕУЖТО	PART	PART	PART	5	огранич	_	_
+3	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+5	поставил	ПОСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	осла	ОСЕЛ	S	S m anim acc sg	S m anim acc sg	5	1-компл	_	_
+7	против	ПРОТИВ	PR	PR	PR	5	обст	_	_
+8	трех	ТРИ	NUM	NUM loc - -	NUM loc - -	9	количест	_	_
+9	курушей	КУРУШ	S	S m inan gen pl	S m inan gen pl	7	предл	_	_
+10	?	?	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	предик	_	_
+2	Нет	НЕТ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	конечна	КОНЕЧНЫЙ	A	A - - sg brev f -	A - - sg brev f -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	На	НА	PR	PR	PR	6	обст	_	_
+3	что	ЧТО	S	S n - acc sg	S n - acc sg	2	предл	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	6	предик	_	_
+6	играли	ИГРАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	8	1-компл	_	_
+2	На	НА	PR	PR	PR	1	обст	_	_
+3	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	 	 	 	 	PUNC	8	3-компл	_	_
+6	–	–	–	–	PUNC	8	1-компл	_	_
+7	невозмутимо	НЕВОЗМУТИМО	ADV	ADV -	ADV -	8	обст	_	_
+8	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Девушка	ДЕВУШКА	S	S f anim nom sg	S f anim nom sg	1	предик	_	_
+3	против	ПРОТИВ	PR	PR	PR	2	1-компл	_	_
+4	осла	ОСЕЛ	S	S m anim acc sg	S m anim acc sg	3	предл	_	_
+5	–	–	–	–	PUNC	8	опред	_	_
+6	это	ЭТО	S	S n - nom sg	S n - nom sg	8	опред	_	_
+7	выгодная	ВЫГОДНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	8	опред	_	_
+8	ставка	СТАВКА	S	S f inan nom sg	S f inan nom sg	2	аппоз	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	3	предик	_	_
+2	уж	УЖ	ADV	ADV -	ADV -	3	огранич	_	_
+3	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	простите	ПРОЩАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	3	вводн	_	_
+6	великодушно	ВЕЛИКОДУШНО	ADV	ADV -	ADV -	5	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	3	вводн	_	_
+9	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	8	аппоз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+12	другого	ДРУГОЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	опред	_	_
+13	выхода	ВЫХОД	S	S m inan gen sg	S m inan gen sg	15	предик	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	11	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Простить	ПРОЩАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+3	?!	?!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+3	так	ТАК	ADV	ADV -	ADV -	4	обст	_	_
+4	качнулась	КАЧНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	в	В	PR	PR	PR	4	2-компл	_	_
+6	седле	СЕДЛО	S	S n inan loc sg	S n inan loc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+9	едва	ЕДВА	ADV	ADV -	ADV -	11	обст	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	съехала	СЪЕЗЖАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	подч-союзн	_	_
+12	на	НА	PR	PR	PR	11	2-компл	_	_
+13	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+4	бы	БЫ	PART	PART	PART	6	аналит	_	_
+5	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	6	предик	_	_
+6	проиграли	ПРОИГРЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	3	подч-союзн	_	_
+7	?!	?!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	У	У	PR	PR	PR	1	2-компл	_	_
+3	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	1	вводн	_	_
+6	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	5	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	сент-соч	_	_
+9	одно	ОДИН	A	A - nom sg plen n -	A - nom sg plen n -	11	количест	_	_
+10	странное	СТРАННЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	11	опред	_	_
+11	свойство	СВОЙСТВО	S	S n inan nom sg	S n inan nom sg	8	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+2	т	Т	S	S - - nonflex nonflex	S - - nonflex nonflex	4	1-компл	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	терпеть	ТЕРПЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	1-компл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	могу	МОЧЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+7	азартных	АЗАРТНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	8	опред	_	_
+8	игр	ИГРА	S	S f inan gen pl	S f inan gen pl	6	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+11	когда	КОГДА	CONJ	CONJ	CONJ	16	обст	_	_
+12	приходится	ПРИХОДИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	подч-союзн	_	_
+13	играть	ИГРАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	неизменно	НЕИЗМЕННО	ADV	ADV -	ADV -	16	обст	_	_
+16	выигрываю	ВЫИГРЫВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	10	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Les	LES	NONLEX	NONLEX	NONLEX	0	ROOT	_	_
+2	caprices	CAPRICES	NONLEX	NONLEX	NONLEX	1	аппоз	_	_
+3	de	DE	NONLEX	NONLEX	NONLEX	2	аппоз	_	_
+4	la	LA	NONLEX	NONLEX	NONLEX	3	аппоз	_	_
+5	f	F	NONLEX	NONLEX	NONLEX	4	аппоз	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	fortune	FORTUNE	NONLEX	NONLEX	NONLEX	5	аппоз	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	свободу	СВОБОДА	S	S f inan acc sg	S f inan acc sg	2	соч-союзн	_	_
+4	у	У	PR	PR	PR	0	ROOT	_	_
+5	видинского	ВИДИНСКИЙ	S	S m anim acc sg	S m anim acc sg	4	предл	_	_
+6	паши	ПАША	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+7	в	В	PR	PR	PR	4	обст	_	_
+8	нарды	НАРДЫ	S	S - inan acc pl	S - inan acc pl	7	предл	_	_
+9	выиграл	ВЫИГРЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	вводн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"вид","gr":"S,m,inan=acc,sg"},{"lex":"вид","gr":"S,m,inan=nom,sg"}],"text":"Вид"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"волонтер","gr":"S,m,anim=acc,sg"},{"lex":"волонтер","gr":"S,m,anim=gen,sg"}],"text":"волонтера"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"был"}
+{"analysis":[{"lex":"изможденный","gr":"A=acc,sg,plen,m,inan"},{"lex":"изможденный","gr":"A=nom,sg,plen,m"}],"text":"изможденный"}
+{"analysis":[{"lex":"под","gr":"PR="}],"text":"под"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=ins,pl"}],"text":"глазами"}
+{"analysis":[{"lex":"залегать","gr":"V,intr=praet,pl,indic,pf"}],"text":"залегли"}
+{"analysis":[{"lex":"темный","gr":"A=acc,pl,plen,inan"},{"lex":"темный","gr":"A=nom,pl,plen"}],"text":"темные"}
+{"analysis":[{"lex":"круг","gr":"S,m,inan=acc,pl"},{"lex":"круг","gr":"S,m,inan=nom,pl"}],"text":"круги"}
+{"analysis":[{"lex":"видимо","gr":"ADV,parenth="}],"text":"видимо"}
+{"analysis":[{"lex":"спать","gr":"V,ipf,intr=inf"}],"text":"спать"}
+{"analysis":[{"lex":"минувший","gr":"A=abl,sg,plen,f"},{"lex":"минувший","gr":"A=dat,sg,plen,f"},{"lex":"минувший","gr":"A=gen,sg,plen,f"},{"lex":"минувший","gr":"A=ins,sg,plen,f"}],"text":"минувшей"}
+{"analysis":[{"lex":"ночь","gr":"S,f,inan=ins,sg"}],"text":"ночью"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=dat"}],"text":"ему"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"доводиться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"довелось"}

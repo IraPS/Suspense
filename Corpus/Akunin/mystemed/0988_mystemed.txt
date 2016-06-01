@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"виселица","gr":"S,f,inan=acc,sg"}],"text":"виселицу"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"казанзак","qual":"bastard","gr":"S,m,anim=nom,pl"}],"text":"Казанзаки"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"зуров","qual":"bastard","gr":"S,famn,m,anim=acc,sg"},{"lex":"зуров","qual":"bastard","gr":"S,famn,m,anim=gen,sg"}],"text":"Зурова"}
+{"analysis":[{"lex":"прошептать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"прошептал"}
+{"analysis":[{"lex":"анвар","gr":"S,persn,m,anim=nom,sg"}],"text":"Анвар"}

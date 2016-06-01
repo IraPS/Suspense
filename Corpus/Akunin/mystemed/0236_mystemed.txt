@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"секретарь","gr":"S,m,anim=abl,pl"}],"text":"секретарях"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"нуждаться","gr":"V,ipf,intr=inpraes,sg,indic,1p"}],"text":"нуждаюсь"}

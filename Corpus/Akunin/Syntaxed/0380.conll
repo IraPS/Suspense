@@ -1,0 +1,39 @@
+1	Повисшую	ПОВИСАТЬ	PARTCP	PARTCP pf praet acc sg plen f act -	PARTCP pf praet acc sg plen f act -	2	опред	_	_
+2	паузу	ПАУЗА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+3	нарушил	НАРУШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	развязный	РАЗВЯЗНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	басок	БАСОК	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+6	Зурова	ЗУРОВ	S	S m anim acc sg	S m anim acc sg	9	1-компл	_	_
+7	:	:	:	:	PUNC	9	опред	_	_
+8	–	–	–	–	PUNC	9	опред	_	_
+9	Это	ЭТО	S	S n - nom sg	S n - nom sg	5	квазиагент	_	_
+10	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+11	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	соч-союзн	_	_
+12	знаменитый	ЗНАМЕНИТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	жандарм	ЖАНДАРМ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+14	Козинаки	КОЗИНАК	S	S m inan acc pl	S m inan acc pl	11	1-компл	_	_
+15	?	?	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Приветствую	ПРИВЕТСТВОВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	1	вводн	_	_
+5	битая	БИТЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	морда	МОРДА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	И	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	блестя	БЛЕСТЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	обст	_	_
+5	наглыми	НАГЛЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	6	опред	_	_
+6	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	4	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	выжидательно	ВЫЖИДАТЕЛЬНО	ADV	ADV -	ADV -	9	обст	_	_
+9	посмотрел	ПОСМОТРЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	соч-союзн	_	_
+10	на	НА	PR	PR	PR	9	1-компл	_	_
+11	залившегося	ЗАЛИВАТЬСЯ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	10	предл	_	_
+12	краской	КРАСКА	S	S f inan ins sg	S f inan ins sg	9	2-компл	_	_
+13	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	12	квазиагент	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

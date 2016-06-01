@@ -1,0 +1,39 @@
+1	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	молчал	МОЛЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Отпустив	ОТПУСКАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	7	обст	_	_
+2	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	1	обст	_	_
+3	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	4	квазиагент	_	_
+4	руку	РУКА	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+7	понял	ПОНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	11	предик	_	_
+11	говорила	ГОВОРИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	9	подч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+14	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+15	:	:	SENT	SENT	SENT	14	PUNC	_	_
+
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	3	предик	_	_
+3	будете	БЫТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+4	чьей-нибудь	ЧЕЙ-НИБУДЬ	A	A - gen sg plen f -	A - gen sg plen f -	5	опред	_	_
+5	женой	ЖЕНА	S	S f anim ins sg	S f anim ins sg	3	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+8	это	ЭТО	S	S n - nom sg	S n - nom sg	9	опред	_	_
+9	главное	ГЛАВНОЕ	S	S n inan acc sg	S n inan acc sg	7	соч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Чтоб	ЧТОБ	CONJ	CONJ	CONJ	5	обст	_	_
+2	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	1	инф-союзн	_	_
+3	женой	ЖЕНА	S	S f anim ins sg	S f anim ins sg	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	надо	НАДО	ADV	ADV -	ADV -	0	ROOT	_	_
+6	жить	ЖИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

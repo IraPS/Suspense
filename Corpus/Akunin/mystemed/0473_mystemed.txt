@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"плакать","gr":"V,ipf,intr=praet,sg,indic,f"}],"text":"Плакала"}
+{"analysis":[{"lex":"долго","gr":"ADV="}],"text":"долго"}
+{"analysis":[{"lex":"потом","gr":"ADVPRO="}],"text":"потом"}
+{"analysis":[{"lex":"слеза","gr":"S,f,inan=acc,pl"},{"lex":"слеза","gr":"S,f,inan=gen,sg"},{"lex":"слеза","gr":"S,f,inan=nom,pl"}],"text":"слезы"}
+{"analysis":[{"lex":"высыхать","gr":"V,intr=praet,pl,indic,pf"}],"text":"высохли"}
+{"analysis":[{"lex":"потом","gr":"ADVPRO="}],"text":"потом"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"стало"}
+{"analysis":[{"lex":"прохладно","gr":"ADV="}],"text":"прохладно"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"а"}
+{"analysis":[{"lex":"раненый","gr":"S,m,anim=abl,pl"},{"lex":"раненый","gr":"S,m,anim=acc,pl"},{"lex":"раненый","gr":"S,m,anim=gen,pl"}],"text":"раненых"}
+{"analysis":[{"lex":"весь","gr":"APRO=nom,pl"},{"lex":"весь","gr":"APRO=acc,sg,n"},{"lex":"весь","gr":"APRO=nom,sg,n"},{"lex":"весь","gr":"APRO=acc,pl,inan"}],"text":"все"}
+{"analysis":[{"lex":"везти","gr":"V=praet,pl,indic,ipf"}],"text":"везли"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"везти","gr":"V=praet,pl,indic,ipf"}],"text":"везли"}

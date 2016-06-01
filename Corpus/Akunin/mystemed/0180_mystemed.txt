@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"казанзак","qual":"bastard","gr":"S,m,anim=nom,pl"}],"text":"Казанзаки"}
+{"analysis":[{"lex":"почтительно","gr":"ADV="}],"text":"почтительно"}
+{"analysis":[{"lex":"взять","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"взял"}
+{"analysis":[{"lex":"листок","gr":"S,m,inan=acc,sg"},{"lex":"листок","gr":"S,m,inan=nom,sg"}],"text":"листок"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"звенеть","gr":"V,ipf,intr=inpraes,ger"}],"text":"звеня"}
+{"analysis":[{"lex":"шпора","gr":"S,f,inan=ins,pl"}],"text":"шпорами"}
+{"analysis":[{"lex":"побежать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"побежал"}
+{"analysis":[{"lex":"исполнять","gr":"V,tran=inf,ipf"}],"text":"исполнять"}

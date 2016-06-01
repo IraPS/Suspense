@@ -1,0 +1,89 @@
+1	–	–	–	–	PUNC	3	предик	_	_
+2	Где	ГДЕ	ADV	ADV -	ADV -	3	обст	_	_
+3	Мишель	МИШЕЛЬ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	испуганно	ИСПУГАННО	ADV	ADV -	ADV -	3	обст	_	_
+3	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	предик	_	_
+2	Убит	УБИВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Ранен	РАНИТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+2	?	?	SENT	SENT	SENT	1	PUNC	_	_
+
+1	–	–	–	–	PUNC	8	1-компл	_	_
+2	Жив	ЖИВОЙ	A	A - - sg brev m -	A - - sg brev m -	1	присвяз	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	здоров	ЗДОРОВЫЙ	A	A - - sg brev m -	A - - sg brev m -	3	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	8	3-компл	_	_
+7	–	–	–	–	PUNC	8	1-компл	_	_
+8	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	9	аппоз	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	внимательно	ВНИМАТЕЛЬНО	ADV	ADV -	ADV -	14	обст	_	_
+13	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	14	квазиагент	_	_
+14	оглядывая	ОГЛЯДЫВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	обст	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	2-компл	_	_
+2	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+3	в	В	PR	PR	PR	7	обст	_	_
+4	своей	СВОЙ	A	A - loc sg plen f -	A - loc sg plen f -	5	опред	_	_
+5	стихии	СТИХИЯ	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+6	–	–	–	–	PUNC	7	предик	_	_
+7	преследует	ПРЕСЛЕДОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+8	неприятеля	НЕПРИЯТЕЛЬ	S	S m anim acc sg	S m anim acc sg	7	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	бедного	БЕДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+3	Перепелкина	ПЕРЕПЕЛКИН	S	S m inan gen sg	S m inan gen sg	5	1-компл	_	_
+4	снова	СНОВА	ADV	ADV -	ADV -	5	обст	_	_
+5	ранили	РАНИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	соч-союзн	_	_
+6	–	–	–	–	PUNC	7	опред	_	_
+7	ятаганом	ЯТАГАН	S	S m inan ins sg	S m inan ins sg	5	обст	_	_
+8	полуха	ПОЛУХА	ADV	ADV -	ADV -	9	обст	_	_
+9	отхватили	ОТХВАТЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	5	сент-соч	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Видно	ВИДНО	ADV	ADV -	ADV -	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	опять	ОПЯТЬ	ADV	ADV -	ADV -	5	обст	_	_
+4	орден	ОРДЕН	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+5	получит	ПОЛУЧАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	за	ЗА	PR	PR	PR	6	1-компл	_	_
+3	прапорщика	ПРАПОРЩИК	S	S m anim acc sg	S m anim acc sg	2	предл	_	_
+4	Гриднева	ГРИДНЕВ	S	S m anim gen sg	S m anim gen sg	3	атриб	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	беспокойтесь	БЕСПОКОИТЬСЯ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	1	соч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	10	предик	_	_
+9	тоже	ТОЖЕ	PART	PART	PART	10	огранич	_	_
+10	жив	ЖИВОЙ	A	A - - sg brev m -	A - - sg brev m -	6	сент-соч	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	знаю	ЗНАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	 	 	 	 	PUNC	13	1-компл	_	_
+6	–	–	–	–	PUNC	7	1-компл	_	_
+7	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	примыкат	_	_
+8	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+11	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	10	соч-союзн	_	_
+12	чуть	ЧУТЬ	ADV	ADV -	ADV -	13	огранич	_	_
+13	прищурился	ПРИЩУРИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	релят	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

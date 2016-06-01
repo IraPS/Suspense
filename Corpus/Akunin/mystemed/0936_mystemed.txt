@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"перепелкин","gr":"S,famn,m,anim=nom,sg"}],"text":"Перепелкин"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}
+{"analysis":[{"lex":"несколько","gr":"NUM="},{"lex":"несколько","gr":"NUM=nom"},{"lex":"несколько","gr":"NUM=acc,inan"}],"text":"несколько"}
+{"analysis":[{"lex":"раз","gr":"S,m,inan=acc,sg"},{"lex":"раз","gr":"S,m,inan=gen,pl"},{"lex":"раз","gr":"S,m,inan=nom,sg"}],"text":"раз"}
+{"analysis":[{"lex":"моргнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"моргнул"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"нервно","gr":"ADV="}],"text":"нервно"}
+{"analysis":[{"lex":"расстегнуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"расстегнул"}
+{"analysis":[{"lex":"тугой","gr":"A=acc,sg,plen,m,inan"},{"lex":"тугой","gr":"A=nom,sg,plen,m"},{"lex":"тугой","gr":"A=abl,sg,plen,f"},{"lex":"тугой","gr":"A=dat,sg,plen,f"},{"lex":"тугой","gr":"A=gen,sg,plen,f"},{"lex":"тугой","gr":"A=ins,sg,plen,f"}],"text":"тугой"}
+{"analysis":[{"lex":"воротник","gr":"S,m,inan=acc,sg"},{"lex":"воротник","gr":"S,m,inan=nom,sg"}],"text":"воротник"}

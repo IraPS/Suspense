@@ -1,0 +1,13 @@
+1	Так	ТАК	ADV	ADV -	ADV -	2	обст	_	_
+2	пал	ПАСТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	третий	ТРЕТИЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	предик	_	_
+4	из	ИЗ	PR	PR	PR	3	электив	_	_
+5	гонцов	ГОНЕЦ	S	S m anim acc pl	S m anim acc pl	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	отправленных	ОТПРАВЛЯТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	5	опред	_	_
+8	Соболевым	СОБОЛЕВ	S	S m anim dat pl	S m anim dat pl	7	2-компл	_	_
+9	к	К	PR	PR	PR	3	разъяснит	_	_
+10	Государю	ГОСУДАРЬ	S	S m anim dat sg	S m anim dat sg	9	предл	_	_
+11	…	…	…	…	PUNC	2	1-компл	_	_
+12	»	»	SENT	SENT	SENT	11	PUNC	_	_
+

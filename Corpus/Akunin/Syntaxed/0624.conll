@@ -1,0 +1,15 @@
+1	Так	ТАК	ADV	ADV -	ADV -	2	обст	_	_
+2	увял	УВЯНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	многообещающий	МНОГООБЕЩАЮЩИЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	талант	ТАЛАНТ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	которому	КОТОРЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	9	1-компл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	суждено	СУЖДЕНО	ADV	ADV -	ADV -	9	обст	_	_
+9	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	4	релят	_	_
+10	расцвесть	РАСЦВЕСТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	вводн	_	_
+11	в	В	PR	PR	PR	10	обст	_	_
+12	полную	ПОЛНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+13	силу	СИЛА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

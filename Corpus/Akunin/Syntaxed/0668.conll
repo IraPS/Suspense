@@ -1,0 +1,33 @@
+1	Перед	ПЕРЕД	PR	PR	PR	4	обст	_	_
+2	самым	САМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	3	опред	_	_
+3	полуднем	ПОЛДЕНЬ	S	S m inan ins sg	S m inan ins sg	1	предл	_	_
+4	нашелся	НАХОДИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+6	подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+7	–	–	–	–	PUNC	0	ROOT	_	_
+8	после	ПОСЛЕ	PR	PR	PR	7	обст	_	_
+9	того	ТО	S	S n - gen sg	S n - gen sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	как	КАК	CONJ	CONJ	CONJ	9	эксплет	_	_
+12	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+13	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+14	велел	ВЕЛЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	подч-союзн	_	_
+15	еще	ЕЩЕ	ADV	ADV -	ADV -	16	огранич	_	_
+16	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	14	обст	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	потщательней	ТЩАТЕЛЬНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	20	вводн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	прочесать	ПРОЧЕСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	14	1-компл	_	_
+21	рощицу	РОЩИЦА	S	S f inan acc sg	S f inan acc sg	20	1-компл	_	_
+22	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+23	кустарник	КУСТАРНИК	S	S m inan nom sg	S m inan nom sg	22	соч-союзн	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	расположенные	РАСПОЛАГАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	23	опред	_	_
+26	неподалеку	НЕПОДАЛЕКУ	ADV	ADV -	ADV -	25	обст	_	_
+27	от	ОТ	PR	PR	PR	26	1-компл	_	_
+28	места	МЕСТО	S	S n inan gen sg	S n inan gen sg	27	предл	_	_
+29	гибели	ГИБЕЛЬ	S	S f inan gen sg	S f inan gen sg	28	1-компл	_	_
+30	бедного	БЕДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	31	опред	_	_
+31	Ипполита	ИППОЛИТ	S	S m anim gen sg	S m anim gen sg	29	квазиагент	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

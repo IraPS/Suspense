@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"залп","gr":"S,m,inan=acc,sg"},{"lex":"залп","gr":"S,m,inan=nom,sg"}],"text":"Залп"}
+{"analysis":[{"lex":"грянуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"грянул"}
+{"analysis":[{"lex":"совсем","gr":"ADV="}],"text":"совсем"}
+{"analysis":[{"lex":"близко","gr":"ADV="}],"text":"близко"}

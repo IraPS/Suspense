@@ -1,0 +1,125 @@
+1	Вот	ВОТ	PART	PART	PART	0	ROOT	_	_
+2	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	1	1-компл	_	_
+3	иллюстрация	ИЛЛЮСТРАЦИЯ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+4	к	К	PR	PR	PR	3	1-компл	_	_
+5	мыслям	МЫСЛЬ	S	S f inan dat pl	S f inan dat pl	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	которые	КОТОРЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	0	ROOT	_	_
+8	секунду	СЕКУНДА	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+9	назад	НАЗАД	ADV	ADV -	ADV -	10	обст	_	_
+10	вертелись	ВЕРТЕТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	7	примыкат	_	_
+11	в	В	PR	PR	PR	10	обст	_	_
+12	моей	МОЙ	A	A - loc sg plen f -	A - loc sg plen f -	13	опред	_	_
+13	голове	ГОЛОВА	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	В	В	PR	PR	PR	3	1-компл	_	_
+2	саду	САД	S	S m inan loc2 sg	S m inan loc2 sg	1	предл	_	_
+3	стоит	СТОИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	семидесятилетняя	СЕМИДЕСЯТИЛЕТНИЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+5	Раиса	РАИСА	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+6	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	5	аппоз	_	_
+7	Звягина	ЗВЯГИНА	S	S f anim nom sg	S f anim nom sg	6	аппоз	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Большую	БОЛЬШИЙ	A	A - acc sg plen f -	A - acc sg plen f -	2	опред	_	_
+2	часть	ЧАСТЬ	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+3	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	2	квазиагент	_	_
+4	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	5	предик	_	_
+5	провела	ПРОВОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	18	предик	_	_
+6	в	В	PR	PR	PR	5	обст	_	_
+7	бухгалтерии	БУХГАЛТЕРИЯ	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	щелкала	ЩЕЛКАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	5	сочин	_	_
+10	сначала	СНАЧАЛА	ADV	ADV -	ADV -	9	обст	_	_
+11	счетами	СЧЕТ	S	S m inan ins pl	S m inan ins pl	9	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	потом	ПОТОМ	ADV	ADV -	ADV -	14	обст	_	_
+14	калькулятором	КАЛЬКУЛЯТОР	S	S m inan ins sg	S m inan ins sg	11	сочин	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	в конце концов	в конце концов	ADV	ADV -	-	18	обст	_	_
+17	даже	ДАЖЕ	PART	PART	PART	18	огранич	_	_
+18	освоила	ОСВАИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+19	компьютер	КОМПЬЮТЕР	S	S m inan acc sg	S m inan acc sg	18	1-компл	_	_
+20	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+21	десять	ДЕСЯТЬ	NUM	NUM acc - -	NUM acc - -	22	количест	_	_
+22	лет	ГОД	S	S m inan gen pl	S m inan gen pl	24	длительн	_	_
+23	назад	НАЗАД	ADV	ADV -	ADV -	24	обст	_	_
+24	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	20	соч-союзн	_	_
+25	с	С	PR	PR	PR	27	обст	_	_
+26	почетом	ПОЧЕТ	S	S f inan acc sg	S f inan acc sg	25	предл	_	_
+27	отправлена	ОТПРАВЛЯТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	24	пасс-анал	_	_
+28	на	НА	PR	PR	PR	27	2-компл	_	_
+29	пенсию	ПЕНСИЯ	S	S f inan acc sg	S f inan acc sg	28	предл	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Двое	ДВОЕ	NUM	NUM nom - -	NUM nom - -	2	количест	_	_
+2	детей	РЕБЕНОК	S	S m anim gen pl	S m anim gen pl	5	предик	_	_
+3	Раисы	РАИСА	S	S f anim gen sg	S f anim gen sg	2	атриб	_	_
+4	уже	УЖЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	жили	ЖИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	собственной	СОБСТВЕННЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	7	опред	_	_
+7	жизнью	ЖИЗНЬ	S	S f inan ins sg	S f inan ins sg	5	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	в	В	PR	PR	PR	15	обст	_	_
+10	которой	КОТОРЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	9	предл	_	_
+11	для	ДЛЯ	PR	PR	PR	13	1-компл	_	_
+12	мамы	МАМА	S	S f anim gen sg	S f anim gen sg	11	предл	_	_
+13	места	МЕСТО	S	S n inan gen sg	S n inan gen sg	15	предик	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	нашлось	НАХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	5	сент-соч	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	внуки	ВНУК	S	S m anim nom pl	S m anim nom pl	19	предик	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	нуждались	НУЖДАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	15	сент-соч	_	_
+20	в	В	PR	PR	PR	19	2-компл	_	_
+21	бабушке	БАБУШКА	S	S f anim dat sg	S f anim dat sg	20	предл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	а	А	CONJ	CONJ	CONJ	19	сент-соч	_	_
+24	муж	МУЖ	S	S m anim nom sg	S m anim nom sg	26	предик	_	_
+25	рано	РАНО	ADV	ADV -	ADV -	26	обст	_	_
+26	умер	УМИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	23	соч-союзн	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Особых	ОСОБЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	2	опред	_	_
+2	накоплений	НАКОПЛЕНИЕ	S	S n inan gen pl	S n inan gen pl	18	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	по	ПО	PR	PR	PR	10	обст	_	_
+6	примеру	ПРИМЕР	S	S m inan dat sg	S m inan dat sg	5	предл	_	_
+7	пенсионеров	ПЕНСИОНЕР	S	S m anim gen pl	S m anim gen pl	6	квазиагент	_	_
+8	с	С	PR	PR	PR	10	обст	_	_
+9	Запада	ЗАПАД	S	S m inan gen sg	S m inan gen sg	8	предл	_	_
+10	кататься	КАТАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	4	инф-союзн	_	_
+11	по	ПО	PR	PR	PR	10	обст	_	_
+12	разным	РАЗНЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	13	опред	_	_
+13	странам	СТРАНА	S	S f inan dat pl	S f inan dat pl	11	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	у	У	PR	PR	PR	18	1-компл	_	_
+16	Раечки	РАЕЧКА	S	S f inan acc sg	S f inan acc sg	15	предл	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	зато	ЗАТО	CONJ	CONJ	CONJ	18	сент-соч	_	_
+21	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	22	предик	_	_
+22	владела	ВЛАДЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	20	соч-союзн	_	_
+23	небольшой	НЕБОЛЬШОЙ	A	A - ins sg plen f -	A - ins sg plen f -	24	опред	_	_
+24	дачкой	ДАЧКА	S	S f inan ins sg	S f inan ins sg	22	1-компл	_	_
+25	на	НА	PR	PR	PR	24	атриб	_	_
+26	берегу	БЕРЕГ	S	S m inan loc2 sg	S m inan loc2 sg	25	предл	_	_
+27	озера	ОЗЕРО	S	S n inan gen sg	S n inan gen sg	26	квазиагент	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	оставив	ОСТАВЛЯТЬ	V	V pf praet - ger - -	V pf praet - ger - -	38	обст	_	_
+32	городскую	ГОРОДСКОЙ	A	A - acc sg plen f -	A - acc sg plen f -	33	опред	_	_
+33	квартиру	КВАРТИРА	S	S f inan acc sg	S f inan acc sg	31	1-компл	_	_
+34	дочери	ДОЧЬ	S	S f anim gen sg	S f anim gen sg	33	квазиагент	_	_
+35	Тамаре	ТАМАРА	S	S f anim dat sg	S f anim dat sg	34	аппоз	_	_
+36	,	,	,	,	PUNC	35	PUNC	_	_
+37	Звягина	ЗВЯГИНА	S	S m inan gen sg	S m inan gen sg	34	атриб	_	_
+38	переселилась	ПЕРЕСЕЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	29	соч-союзн	_	_
+39	в	В	PR	PR	PR	38	2-компл	_	_
+40	Подмосковье	ПОДМОСКОВЬЕ	S	S n inan loc sg	S n inan loc sg	39	предл	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+

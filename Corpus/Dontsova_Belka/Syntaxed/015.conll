@@ -1,0 +1,21 @@
+1	Тамара	ТАМАРА	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	закрыла	ЗАКРЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	лицо	ЛИЦО	S	S n inan acc sg	S n inan acc sg	2	1-компл	_	_
+4	руками	РУКА	S	S f inan ins pl	S f inan ins pl	2	2-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	затряслась	ЗАТРЯСТИСЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	соч-союзн	_	_
+7	в	В	PR	PR	PR	6	обст	_	_
+8	рыданиях	РЫДАНИЕ	S	S n inan loc pl	S n inan loc pl	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	Вера	ВЕРА	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+11	бросилась	БРОСАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сент-соч	_	_
+12	на	НА	PR	PR	PR	11	обст	_	_
+13	шею	ШЕЯ	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	Олегу	ОЛЕГ	S	S m anim dat sg	S m anim dat sg	11	2-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Мама	МАМА	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+3	погибла	ПОГИБАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+

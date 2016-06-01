@@ -1,0 +1,91 @@
+1	–	–	–	–	PUNC	2	PUNC	_	_
+2	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	нам	МЫ	SPRO	SPRO pl 1p - dat	SPRO pl 1p - dat	7	1-компл	_	_
+4	нужно	НУЖНО	ADV	ADV -	ADV -	7	обст	_	_
+5	подробно	ПОДРОБНО	ADV	ADV -	ADV -	7	обст	_	_
+6	все	ВСЕ	S	S - - acc pl	S - - acc pl	7	1-компл	_	_
+7	обсудить	ОБСУЖДАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Во-первых	ВО-ПЕРВЫХ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	…	…	SENT	SENT	SENT	1	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Обсудим	ОБСУЖДАТЬ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	5	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	обязательно	ОБЯЗАТЕЛЬНО	ADV	ADV -	ADV -	5	огранич	_	_
+5	обсудим	ОБСУЖДАТЬ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Только	ТОЛЬКО	PART	PART	PART	3	огранич	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	3	сочин	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Встретимся	ВСТРЕЧАТЬСЯ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	0	ROOT	_	_
+2	у	У	PR	PR	PR	1	атриб	_	_
+3	журналистов	ЖУРНАЛИСТ	S	S m anim gen pl	S m anim gen pl	2	предл	_	_
+4	в	В	PR	PR	PR	1	обст	_	_
+5	палатке	ПАЛАТКА	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	ладно	ЛАДНО	PART	PART	PART	1	огранич	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	У	У	PR	PR	PR	0	ROOT	_	_
+2	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	1	предл	_	_
+3	там	ТАМ	ADV	ADV -	ADV -	4	огранич	_	_
+4	вроде	ВРОДЕ	PR	PR	PR	1	разъяснит	_	_
+5	клуба	КЛУБ	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	3	предик	_	_
+2	ведь	ВЕДЬ	PART	PART	PART	3	огранич	_	_
+3	знаешь	ЗНАТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	0	ROOT	_	_
+4	француза	ФРАНЦУЗ	S	S m anim acc sg	S m anim acc sg	3	1-компл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Ну	НУ	PART	PART	PART	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+4	'	'	_	_	PUNC	3	PUNC	_	_
+5	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	3	вводн	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	славный	СЛАВНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	0	ROOT	_	_
+2	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	8	предик	_	_
+8	приехала	ПРИЕЗЖАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	подч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+2	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	4	обст	_	_
+3	ужасно	УЖАСНО	ADV	ADV -	ADV -	4	огранич	_	_
+4	занят	ЗАНИМАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	отлучился	ОТЛУЧАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	вводн	_	_
+7	на	НА	PR	PR	PR	6	обст	_	_
+8	минуту	МИНУТА	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Хватятся	ХВАТИТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+2	–	–	–	–	PUNC	0	ROOT	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	сносить	СНОСИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	1-компл	_	_
+5	головы	ГОЛОВА	S	S f inan acc pl	S f inan acc pl	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	1	сочин	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+

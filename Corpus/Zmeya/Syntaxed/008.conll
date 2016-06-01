@@ -1,0 +1,97 @@
+1	Прогулка	ПРОГУЛКА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+2	в	В	PR	PR	PR	1	атриб	_	_
+3	лесу	ЛЕС	S	S m inan loc2 sg	S m inan loc2 sg	2	предл	_	_
+4	изображала	ИЗОБРАЖАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	следующее	СЛЕДУЮЩИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	8	обст	_	_
+6	:	:	:	:	PUNC	8	1-компл	_	_
+7	впереди	ВПЕРЕДИ	ADV	ADV -	ADV -	8	обст	_	_
+8	шла	ИДТИ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	1-компл	_	_
+9	девушка	ДЕВУШКА	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+10	брюнетка	БРЮНЕТКА	S	S f anim nom sg	S f anim nom sg	9	аппоз	_	_
+11	небольшого	НЕБОЛЬШОЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	роста	РОСТ	S	S m inan gen sg	S m inan gen sg	9	об-аппоз	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	с	С	PR	PR	PR	9	атриб	_	_
+15	красивым	КРАСИВЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	19	опред	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	немного	НЕМНОГО	ADV	ADV -	ADV -	18	огранич	_	_
+18	ленивым	ЛЕНИВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	19	опред	_	_
+19	лицом	ЛИЦО	S	S n inan ins sg	S n inan ins sg	14	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	напоминающим	НАПОМИНАТЬ	PARTCP	PARTCP ipf inpraes dat pl plen - act -	PARTCP ipf inpraes dat pl plen - act -	9	опред	_	_
+22	улыбку	УЛЫБКА	S	S f inan acc sg	S f inan acc sg	21	1-компл	_	_
+23	сквозь	СКВОЗЬ	PR	PR	PR	21	обст	_	_
+24	пальцы	ПАЛЕЦ	S	S m inan acc pl	S m inan acc pl	23	предл	_	_
+25	;	;	SENT	SENT	SENT	24	PUNC	_	_
+
+1	а	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	за	ЗА	PR	PR	PR	6	обст	_	_
+3	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	неуклюже	НЕУКЛЮЖЕ	ADV	ADV -	ADV -	6	обст	_	_
+6	поводя	ПОВОДИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	обст	_	_
+7	плечами	ПЛЕЧО	S	S n inan ins pl	S n inan ins pl	6	1-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+9	сдвинув	СДВИГАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	8	соч-союзн	_	_
+10	брови	БРОВЬ	S	S f inan acc pl	S f inan acc pl	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	шел	ИДТИ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+13	рослый	РОСЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	детина	ДЕТИНА	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	тщательно	ТЩАТЕЛЬНО	ADV	ADV -	ADV -	17	обст	_	_
+17	рассматривая	РАССМАТРИВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	обст	_	_
+18	дорогу	ДОРОГА	S	S f inan acc sg	S f inan acc sg	17	1-компл	_	_
+19	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+20	заботливо	ЗАБОТЛИВО	ADV	ADV -	ADV -	21	обст	_	_
+21	предупреждая	ПРЕДУПРЕЖДАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	19	соч-союзн	_	_
+22	о	О	PR	PR	PR	21	1-компл	_	_
+23	всех	ВЕСЬ	A	A - loc pl plen - -	A - loc pl plen - -	24	опред	_	_
+24	препятствиях	ПРЕПЯТСТВИЕ	S	S n inan loc pl	S n inan loc pl	22	предл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Со стороны	Со стороны	PR	PR	ZERO	0	ROOT	_	_
+2	каждый	КАЖДЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	предик	_	_
+3	подумал	ПОДУМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	предл	_	_
+4	бы	БЫ	PART	PART	PART	3	аналит	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+7	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+8	невозмутимо	НЕВОЗМУТИМО	ADV	ADV -	ADV -	9	обст	_	_
+9	скучает	СКУЧАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	подч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	но	НО	CONJ	CONJ	CONJ	9	сент-соч	_	_
+12	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	13	предик	_	_
+13	шел	ИДТИ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	соч-союзн	_	_
+14	в	В	PR	PR	PR	13	обст	_	_
+15	счастливом	СЧАСТЛИВЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	приподнятом	ПРИПОДЫМАТЬ	PARTCP	PARTCP pf praet loc sg plen m pass -	PARTCP pf praet loc sg plen m pass -	13	обст	_	_
+18	настроении	НАСТРОЕНИЕ	S	S n inan loc sg	S n inan loc sg	13	сочин	_	_
+19	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+20	мог	МОЧЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	19	соч-союзн	_	_
+21	бы	БЫ	PART	PART	PART	20	аналит	_	_
+22	идти	ИДТИ	V	V ipf - - inf - -	V ipf - - inf - -	20	1-компл	_	_
+23	так	ТАК	ADV	ADV -	ADV -	22	обст	_	_
+24	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	25	количест	_	_
+25	тысяч	ТЫСЯЧА	S	S f inan gen pl	S f inan gen pl	23	1-компл	_	_
+26	лет	ГОД	S	S m inan gen pl	S m inan gen pl	25	квазиагент	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	видел	ВИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	Джой	ДЖОЙ	S	S m anim nom sg	S m anim nom sg	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	6	предик	_	_
+6	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	сент-соч	_	_
+7	с	С	PR	PR	PR	6	присвяз	_	_
+8	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	7	предл	_	_
+9	;	;	SENT	SENT	SENT	8	PUNC	_	_
+
+1	этого	ЭТО	S	S n - gen sg	S n - gen sg	5	1-компл	_	_
+2	Кольберу	КОЛЬБЕР	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	5	огранич	_	_
+5	достаточно	ДОСТАТОЧНО	ADV	ADV -	ADV -	3	присвяз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

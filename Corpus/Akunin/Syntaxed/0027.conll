@@ -1,0 +1,122 @@
+1	С	С	PR	PR	PR	4	обст	_	_
+2	курсами	КУРС	S	S m inan ins pl	S m inan ins pl	1	предл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	сложилось	СКЛАДЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Теоретическую	ТЕОРЕТИЧЕСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	часть	ЧАСТЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+3	Варенька	ВАРЕНЬКА	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+4	одолела	ОДОЛЕВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	примыкат	_	_
+5	без	БЕЗ	PR	PR	PR	4	обст	_	_
+6	труда	ТРУД	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	хотя	ХОТЯ	CONJ	CONJ	CONJ	4	обст	_	_
+9	многое	МНОГОЕ	S	S n - nom sg	S n - nom sg	15	обст	_	_
+10	в	В	PR	PR	PR	9	атриб	_	_
+11	процессе	ПРОЦЕСС	S	S m inan loc sg	S m inan loc sg	10	предл	_	_
+12	создания	СОЗДАНИЕ	S	S n inan gen sg	S n inan gen sg	11	квазиагент	_	_
+13	человеческого	ЧЕЛОВЕЧЕСКИЙ	A	A - gen sg plen n -	A - gen sg plen n -	14	опред	_	_
+14	существа	СУЩЕСТВО	S	S n anim gen sg	S n anim gen sg	15	2-компл	_	_
+15	показалось	ПОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	8	подч-союзн	_	_
+16	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	15	2-компл	_	_
+17	удивительным	УДИВИТЕЛЬНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	15	1-компл	_	_
+18	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+19	невероятным	НЕВЕРОЯТНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	18	соч-союзн	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+22	когда	КОГДА	CONJ	CONJ	CONJ	29	обст	_	_
+23	довелось	ДОВОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	22	подч-союзн	_	_
+24	присутствовать	ПРИСУТСТВОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	23	предик	_	_
+25	на	НА	PR	PR	PR	24	1-компл	_	_
+26	настоящих	НАСТОЯЩИЙ	A	A - loc pl plen - -	A - loc pl plen - -	27	опред	_	_
+27	родах	РОДЫ	S	S - inan loc pl	S - inan loc pl	25	предл	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	произошел	ПРОИСХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	соч-союзн	_	_
+30	конфуз	КОНФУЗ	S	S m inan nom sg	S m inan nom sg	29	предик	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	выдержав	ВЫДЕРЖИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	0	ROOT	_	_
+3	истошных	ИСТОШНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	4	опред	_	_
+4	воплей	ВОПЛЬ	S	S m inan gen pl	S m inan gen pl	2	1-компл	_	_
+5	роженицы	РОЖЕНИЦА	S	S f anim gen sg	S f anim gen sg	4	квазиагент	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+7	ужасного	УЖАСНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	8	опред	_	_
+8	вида	ВИД	S	S m inan gen sg	S m inan gen sg	6	соч-союзн	_	_
+9	сплюснутой	СПЛЮСНУТЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	11	опред	_	_
+10	младенческой	МЛАДЕНЧЕСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	11	опред	_	_
+11	головки	ГОЛОВКА	S	S f inan gen sg	S f inan gen sg	8	квазиагент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+14	лезла	ЛЕЗТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	13	подч-союзн	_	_
+15	из	ИЗ	PR	PR	PR	14	1-компл	_	_
+16	истерзанной	ИСТЕРЗАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	19	опред	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	окровавленной	ОКРОВАВЛЕННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	19	опред	_	_
+19	плоти	ПЛОТЬ	S	S f inan gen sg	S f inan gen sg	15	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	23	предик	_	_
+22	позорно	ПОЗОРНО	ADV	ADV -	ADV -	23	обст	_	_
+23	бухнулась	БУХНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	19	релят	_	_
+24	в	В	PR	PR	PR	23	2-компл	_	_
+25	обморок	ОБМОРОК	S	S m inan acc sg	S m inan acc sg	24	предл	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	и	И	CONJ	CONJ	CONJ	23	сент-соч	_	_
+28	после	ПОСЛЕ	PR	PR	PR	30	обст	_	_
+29	этого	ЭТО	S	S n - gen sg	S n - gen sg	28	предл	_	_
+30	оставалось	ОСТАВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	27	соч-союзн	_	_
+31	только	ТОЛЬКО	PART	PART	PART	32	огранич	_	_
+32	уйти	УХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	30	предик	_	_
+33	на	НА	PR	PR	PR	32	1-компл	_	_
+34	телеграфные	ТЕЛЕГРАФНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	35	опред	_	_
+35	курсы	КУРСЫ	S	S - inan acc pl	S - inan acc pl	33	предл	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+
+1	Стать	СТАНОВИТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	8	предик	_	_
+2	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	1	1-компл	_	_
+3	из	ИЗ	PR	PR	PR	2	электив	_	_
+4	первых	ПЕРВЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	6	опред	_	_
+5	русских	РУССКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	телеграфисток	ТЕЛЕГРАФИСТКА	S	S f anim gen pl	S f anim gen pl	3	предл	_	_
+7	поначалу	ПОНАЧАЛУ	ADV	ADV -	ADV -	8	обст	_	_
+8	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+9	лестно	ЛЕСТНО	ADV	ADV -	ADV -	10	огранич	_	_
+10	–	–	–	–	PUNC	8	присвяз	_	_
+11	про	ПРО	PR	PR	PR	10	атриб	_	_
+12	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	11	предл	_	_
+13	даже	ДАЖЕ	CONJ	CONJ	CONJ	8	обст	_	_
+14	написали	НАПИСАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	13	подч-союзн	_	_
+15	в	В	PR	PR	PR	14	обст	_	_
+16	«	«	_	_	PUNC	17	PUNC	_	_
+17	Петербургских	ПЕТЕРБУРГСКИЙ	A	A - loc pl plen - -	A - loc pl plen - -	18	опред	_	_
+18	ведомостях	ВЕДОМОСТЬ	S	S f inan loc pl	S f inan loc pl	15	предл	_	_
+19	»	»	_	_	PUNC	21	PUNC	_	_
+20	(	(	_	_	PUNC	21	PUNC	_	_
+21	номер	НОМЕР	S	S m inan nom sg	S m inan nom sg	35	огранич	_	_
+22	от	ОТ	PR	PR	PR	21	атриб	_	_
+23	28	28	NUM	NUM - - -	NUM - - -	22	предл	_	_
+24	ноября	НОЯБРЬ	S	S m inan gen sg	S m inan gen sg	23	атриб	_	_
+25	1875	1875	NUM	NUM - - -	NUM - - -	26	опред	_	_
+26	года	ГОД	S	S m inan gen sg	S m inan gen sg	24	атриб	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	статья	СТАТЬЯ	S	S f inan nom sg	S f inan nom sg	31	предик	_	_
+29	«	«	_	_	PUNC	30	PUNC	_	_
+30	Давно	ДАВНО	ADV	ADV -	ADV -	31	огранич	_	_
+31	пора	ПОРА	ADV	ADV -	ADV -	21	примыкат	_	_
+32	»	»	_	_	PUNC	31	PUNC	_	_
+33	)	)	_	_	PUNC	31	PUNC	_	_
+34	,	,	,	,	PUNC	31	PUNC	_	_
+35	однако	ОДНАКО	CONJ	CONJ	CONJ	8	сент-соч	_	_
+36	служба	СЛУЖБА	S	S f inan nom sg	S f inan nom sg	37	предик	_	_
+37	оказалась	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+38	невыносимо	НЕВЫНОСИМЫЙ	A	A - - sg brev n -	A - - sg brev n -	37	присвяз	_	_
+39	скучной	СКУЧНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	37	присвяз	_	_
+40	и	И	CONJ	CONJ	CONJ	37	сочин	_	_
+41	без	БЕЗ	PR	PR	PR	0	ROOT	_	_
+42	каких-либо	КАКОЙ-ЛИБО	A	A - gen pl plen - -	A - gen pl plen - -	43	опред	_	_
+43	видов	ВИД	S	S m inan gen pl	S m inan gen pl	41	предл	_	_
+44	на	НА	PR	PR	PR	41	сочин	_	_
+45	будущее	БУДУЩЕЕ	S	S n inan acc sg	S n inan acc sg	44	предл	_	_
+46	.	.	SENT	SENT	SENT	45	PUNC	_	_
+

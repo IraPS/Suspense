@@ -1,0 +1,31 @@
+1	Когда	КОГДА	CONJ	CONJ	CONJ	18	обст	_	_
+2	в	В	PR	PR	PR	7	обст	_	_
+3	половине	ПОЛОВИНА	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+4	одиннадцатого	ОДИННАДЦАТЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+5	позолоченные	ПОЗОЛОТИТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	6	опред	_	_
+6	двери	ДВЕРЬ	S	S f inan gen sg	S f inan gen sg	3	квазиагент	_	_
+7	распахнулись	РАСПАХИВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	в	В	PR	PR	PR	11	обст	_	_
+10	зал	ЗАЛ	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+11	вошел	ВХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+12	пьяноватый	ПЬЯНОВАТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	потомок	ПОТОМОК	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+14	римского	РИМСКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	15	опред	_	_
+15	легата	ЛЕГАТ	S	S m anim acc sg	S m anim acc sg	13	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	18	предик	_	_
+18	обрадовалась	ОБРАДОВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+19	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	18	2-компл	_	_
+20	как	КАК	CONJ	CONJ	CONJ	18	сравнит	_	_
+21	родному	РОДНОЙ	A	A - dat sg plen m -	A - dat sg plen m -	20	сравн-союзн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	вскочила	ВСКАКИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	18	сочин	_	_
+24	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+25	с	С	PR	PR	PR	28	обст	_	_
+26	неподдельной	НЕПОДДЕЛЬНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	27	опред	_	_
+27	сердечностью	СЕРДЕЧНОСТЬ	S	S f inan ins sg	S f inan ins sg	25	предл	_	_
+28	замахала	ЗАМАХАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	24	соч-союзн	_	_
+29	рукой	РУКА	S	S f inan ins sg	S f inan ins sg	28	1-компл	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+

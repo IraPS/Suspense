@@ -1,0 +1,128 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+4	уж	УЖ	PART	PART	PART	5	огранич	_	_
+5	думал	ДУМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	приедете	ПРИЕЗЖАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	5	1-компл	_	_
+9	!	!	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	приветствовал	ПРИВЕТСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	опред	_	_
+3	вновь	ВНОВЬ	ADV	ADV -	ADV -	4	обст	_	_
+4	прибывшую	ПРИБЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen f act -	PARTCP pf praet acc sg plen f act -	5	опред	_	_
+5	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	2	обст	_	_
+6	'	'	_	_	PUNC	5	PUNC	_	_
+7	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	такой	ТАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+10	же	ЖЕ	PART	PART	PART	9	огранич	_	_
+11	взбудораженный	ВЗБУДОРАЖИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	7	об-аппоз	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	как	КАК	CONJ	CONJ	CONJ	9	сравнит	_	_
+14	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	15	опред	_	_
+15	остальные	ОСТАЛЬНОЙ	A	A - nom pl plen - -	A - nom pl plen - -	13	сравн-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	обратила	ОБРАЩАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	внимание	ВНИМАНИЕ	S	S n inan acc sg	S n inan acc sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+7	надел	НАДЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	подч-союзн	_	_
+8	свои	СВОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	11	опред	_	_
+9	знаменитые	ЗНАМЕНИТЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	11	опред	_	_
+10	рыжие	РЫЖИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	11	опред	_	_
+11	опорки	ОПОРОК	S	S m inan acc pl	S m inan acc pl	7	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	8	1-компл	_	_
+2	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	8	предик	_	_
+3	тут	ТУТ	ADV	ADV -	ADV -	2	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как	КАК	CONJ	CONJ	CONJ	2	сравнит	_	_
+6	идиоты	ИДИОТ	S	S m anim nom pl	S m anim nom pl	5	сравн-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	торчим	ТОРЧАТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	0	ROOT	_	_
+9	с	С	PR	PR	PR	8	обст	_	_
+10	самого	САМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	11	опред	_	_
+11	рассвета	РАССВЕТ	S	S m inan gen sg	S m inan gen sg	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	а	А	CONJ	CONJ	CONJ	8	сент-соч	_	_
+14	русские	РУССКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	опред	_	_
+15	офицеры	ОФИЦЕР	S	S m anim nom pl	S m anim nom pl	16	предик	_	_
+16	начали	НАЧИНАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	13	соч-союзн	_	_
+17	подтягиваться	ПОДТЯГИВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	16	1-компл	_	_
+18	только	ТОЛЬКО	PART	PART	PART	19	огранич	_	_
+19	к	К	PR	PR	PR	17	1-компл	_	_
+20	полудню	ПОЛДЕНЬ	S	S m inan dat sg	S m inan dat sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	пожаловал	ПОЖАЛОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	четверть	ЧЕТВЕРТЬ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	часа	ЧАС	S	S m inan - sg	S m inan - sg	6	предл	_	_
+6	назад	НАЗАД	ADV	ADV -	ADV -	3	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	от	ОТ	PR	PR	PR	12	обст	_	_
+9	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	8	предл	_	_
+10	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	12	предик	_	_
+11	и	И	CONJ	CONJ	CONJ	12	соотнос	_	_
+12	узнали	УЗНАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	3	сент-соч	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	что	ЧТО	CONJ	CONJ	CONJ	12	1-компл	_	_
+15	штурм	ШТУРМ	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+16	начнется	НАЧИНАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	14	подч-союзн	_	_
+17	лишь	ЛИШЬ	PART	PART	PART	18	огранич	_	_
+18	в	В	PR	PR	PR	16	обст	_	_
+19	три	ТРИ	NUM	NUM nom - -	NUM nom - -	20	количест	_	_
+20	часа	ЧАС	S	S m inan - sg	S m inan - sg	18	предл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	 	 	 	 	PUNC	25	2-компл	_	_
+23	–	–	–	–	PUNC	25	1-компл	_	_
+24	весело	ВЕСЕЛО	ADV	ADV -	ADV -	25	обст	_	_
+25	зачастил	ЗАЧАСТИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+26	журналист	ЖУРНАЛИСТ	S	S m anim nom sg	S m anim nom sg	25	предик	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	вижу	ВИДЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	8	предик	_	_
+6	тоже	ТОЖЕ	PART	PART	PART	7	огранич	_	_
+7	заранее	ЗАРАНЕЕ	ADV	ADV -	ADV -	8	обст	_	_
+8	знали	ЗНАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	сент-соч	_	_
+9	диспозицию	ДИСПОЗИЦИЯ	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Нехорошо	НЕХОРОШО	ADV	ADV -	ADV -	6	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	1	вводн	_	_
+4	Барбара	БАРБАРА	S	S f anim nom sg	S f anim nom sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	могли	МОЧЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	бы	БЫ	PART	PART	PART	6	аналит	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+9	предупредить	ПРЕДУПРЕЖДАТЬ	V	V pf - - inf - -	V pf - - inf - -	8	соч-союзн	_	_
+10	по-приятельски	ПО-ПРИЯТЕЛЬСКИ	ADV	ADV -	ADV -	9	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Ведь	ВЕДЬ	PART	PART	PART	6	огранич	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+3	в	В	PR	PR	PR	6	обст	_	_
+4	четыре	ЧЕТЫРЕ	NUM	NUM nom - -	NUM nom - -	5	количест	_	_
+5	утра	УТРО	S	S n inan gen sg	S n inan gen sg	3	предл	_	_
+6	поднялся	ПОДНИМАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	6	сент-соч	_	_
+9	для	ДЛЯ	PR	PR	PR	12	обст	_	_
+10	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	9	предл	_	_
+11	это	ЭТО	S	S n - nom sg	S n - nom sg	12	предик	_	_
+12	хуже	ПЛОХОЙ	A	A comp - - plen - -	A comp - - plen - -	8	соч-союзн	_	_
+13	смерти	СМЕРТЬ	S	S f inan gen sg	S f inan gen sg	12	сравнит	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

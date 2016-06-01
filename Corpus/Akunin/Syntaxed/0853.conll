@@ -1,0 +1,106 @@
+1	Сначала	СНАЧАЛА	ADV	ADV -	ADV -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	в	В	PR	PR	PR	1	сочин	_	_
+5	Казанлыке	КАЗАНЛЫК	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	9	количест	_	_
+8	заезжий	ЗАЕЗЖИЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	адъютантик	АДЪЮТАНТИК	S	S m inan acc sg	S m inan acc sg	4	сочин	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	вполне	ВПОЛНЕ	ADV	ADV -	ADV -	13	огранич	_	_
+13	разобравшийся	РАЗБИРАТЬСЯ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	9	опред	_	_
+14	в	В	PR	PR	PR	13	обст	_	_
+15	Варином	ВАРИН	S	S m inan ins sg	S m inan ins sg	14	предл	_	_
+16	статусе	СТАТУС	S	S m inan loc sg	S m inan loc sg	13	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	неудачно	НЕУДАЧНО	ADV	ADV -	ADV -	19	обст	_	_
+19	пошутил	ПОШУТИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	релят	_	_
+20	:	:	:	:	PUNC	21	1-компл	_	_
+21	назвал	НАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	19	сочин	_	_
+22	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	24	квазиагент	_	_
+23	«	«	_	_	PUNC	24	PUNC	_	_
+24	герцогиней	ГЕРЦОГИНЯ	S	S f anim ins sg	S f anim ins sg	21	2-компл	_	_
+25	Мальборо	МАЛЬБОРО	S	S m inan gen sg	S m inan gen sg	24	1-компл	_	_
+26	»	»	_	_	PUNC	25	PUNC	_	_
+27	,	,	,	,	PUNC	25	PUNC	_	_
+28	явно	ЯВНО	ADV	ADV -	ADV -	29	обст	_	_
+29	намекая	НАМЕКАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	21	обст	_	_
+30	на	НА	PR	PR	PR	29	1-компл	_	_
+31	то	ТО	S	S n - acc sg	S n - acc sg	30	предл	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	что	ЧТО	CONJ	CONJ	CONJ	31	эксплет	_	_
+34	«	«	_	_	PUNC	35	PUNC	_	_
+35	герцог	ГЕРЦОГ	S	S m anim nom sg	S m anim nom sg	38	предик	_	_
+36	Мальборо	МАЛЬБОРО	S	S m inan gen sg	S m inan gen sg	35	1-компл	_	_
+37	»	»	_	_	PUNC	36	PUNC	_	_
+38	–	–	–	–	PUNC	33	подч-союзн	_	_
+39	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	21	предик	_	_
+40	.	.	SENT	SENT	SENT	39	PUNC	_	_
+
+1	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	предик	_	_
+2	'	'	_	_	PUNC	1	PUNC	_	_
+3	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	1	аппоз	_	_
+4	потребовал	ПОТРЕБОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	от	ОТ	PR	PR	PR	4	1-компл	_	_
+6	наглеца	НАГЛЕЦ	S	S m anim acc sg	S m anim acc sg	5	предл	_	_
+7	извинений	ИЗВИНЕНИЕ	S	S n inan gen pl	S n inan gen pl	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	11	предик	_	_
+10	спьяну	СПЬЯНУ	ADV	ADV -	ADV -	11	обст	_	_
+11	заартачился	ЗААРТАЧИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сент-соч	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+14	пошли	ПОЙТИ	V	V pf praet pl indic - -	V pf praet pl indic - -	13	соч-союзн	_	_
+15	стреляться	СТРЕЛЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	14	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	6	предик	_	_
+2	тогда	ТОГДА	ADV	ADV -	ADV -	6	обст	_	_
+3	в	В	PR	PR	PR	6	присвяз	_	_
+4	шатре	ШАТЕР	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а то	а то	CONJ	CONJ	ZERO	6	сент-соч	_	_
+9	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	13	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	конечно	КОНЕЧНО	ADV	ADV -	ADV -	13	вводн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	прекратила	ПРЕКРАЩАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+14	бы	БЫ	PART	PART	PART	13	аналит	_	_
+15	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	17	опред	_	_
+16	дурацкий	ДУРАЦКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	17	опред	_	_
+17	конфликт	КОНФЛИКТ	S	S m inan nom sg	S m inan nom sg	13	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	ничего	НИЧЕГО	ADV	ADV -	ADV -	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	обошлось	ОБХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+5	:	:	:	:	PUNC	6	опред	_	_
+6	адъютантик	АДЪЮТАНТИК	S	S m inan gen sg	S m inan gen sg	4	1-компл	_	_
+7	промазал	ПРОМАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сочин	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	7	1-компл	_	_
+10	'	'	_	_	PUNC	9	PUNC	_	_
+11	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	9	1-компл	_	_
+12	ответным	ОТВЕТНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	13	опред	_	_
+13	выстрелом	ВЫСТРЕЛ	S	S m inan ins sg	S m inan ins sg	14	обст	_	_
+14	сбил	СБИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	сочин	_	_
+15	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	14	2-компл	_	_
+16	с	С	PR	PR	PR	14	1-компл	_	_
+17	головы	ГОЛОВА	S	S f inan gen sg	S f inan gen sg	16	предл	_	_
+18	фуражку	ФУРАЖКА	S	S f inan acc sg	S f inan acc sg	14	сочин	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	после	ПОСЛЕ	PR	PR	PR	23	обст	_	_
+21	чего	ЧТО	S	S n - gen sg	S n - gen sg	20	предл	_	_
+22	обидчик	ОБИДЧИК	S	S m anim nom sg	S m anim nom sg	23	предик	_	_
+23	протрезвел	ПРОТРЕЗВЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	сочин	_	_
+24	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+25	признал	ПРИЗНАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	24	соч-союзн	_	_
+26	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	27	опред	_	_
+27	неправоту	НЕПРАВОТА	S	S f inan acc sg	S f inan acc sg	25	1-компл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+

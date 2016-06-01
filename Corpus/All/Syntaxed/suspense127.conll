@@ -1,0 +1,45 @@
+1	Истопник	ИСТОПНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	предполагая	ПРЕДПОЛАГАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	11	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	9	1-компл	_	_
+7	опять	ОПЯТЬ	ADV	ADV -	ADV -	8	обст	_	_
+8	будут	БЫТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	5	подч-союзн	_	_
+9	жучить	ЖУЧИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	аналит	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+12	на	НА	PR	PR	PR	11	3-компл	_	_
+13	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	14	опред	_	_
+14	вопросы	ВОПРОС	S	S m inan acc pl	S m inan acc pl	12	предл	_	_
+15	хмуро	ХМУРО	ADV	ADV -	ADV -	11	обст	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	односложно	ОДНОСЛОЖНО	ADV	ADV -	ADV -	16	соч-союзн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	бормотал	БОРМОТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	:	:	:	:	PUNC	2	1-компл	_	_
+4	дескать	ДЕСКАТЬ	ADV	ADV -	ADV -	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	нужно	НУЖНО	ADV	ADV -	ADV -	7	огранич	_	_
+7	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	8	количест	_	_
+8	штук	ШТУКА	S	S f inan gen pl	S f inan gen pl	2	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	тогда	ТОГДА	ADV	ADV -	ADV -	15	обст	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	дескать	ДЕСКАТЬ	ADV	ADV -	ADV -	15	вводн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	ещё	ЕЩЕ	ADV	ADV -	ADV -	15	огранич	_	_
+15	можно	МОЖНО	ADV	ADV -	ADV -	8	релят	_	_
+16	оберечься	ОБЕРЕГАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	15	предик	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	иначе	ИНАЧЕ	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	пущай	ПУЩАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	4	обст	_	_
+4	отдают	ОТДАВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	2	подч-союзн	_	_
+5	под	ПОД	PR	PR	PR	4	2-компл	_	_
+6	суд	СУД	S	S m inan acc sg	S m inan acc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

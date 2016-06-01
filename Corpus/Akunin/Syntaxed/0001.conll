@@ -1,0 +1,135 @@
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Ревю	РЕВЮ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	0	ROOT	_	_
+3	паризьен	ПАРИЗЬЕН	S	S f inan nom sg	S f inan nom sg	2	аппоз	_	_
+4	»	»	_	_	PUNC	6	PUNC	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	Париж	ПАРИЖ	S	S m inan acc sg	S m inan acc sg	3	примыкат	_	_
+7	)	)	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	14	14	NUM	NUM - - -	NUM - - -	6	нум-аппоз	_	_
+10	(	(	_	_	PUNC	11	PUNC	_	_
+11	2	2	NUM	NUM - - -	NUM - - -	9	примыкат	_	_
+12	)	)	_	_	PUNC	11	PUNC	_	_
+13	июля	ИЮЛЬ	S	S m inan gen sg	S m inan gen sg	6	квазиагент	_	_
+14	1877	1877	NUM	NUM - - -	NUM - - -	15	опред	_	_
+15	г	Г	S	S m inan nonflex nonflex	S m inan nonflex nonflex	13	атриб	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Наш	НАШ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	вот	ВОТ	PART	PART	PART	6	огранич	_	_
+6	уже	УЖЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	вторую	ВТОРОЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	неделю	НЕДЕЛЯ	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+9	находящийся	НАХОДИТЬСЯ	PARTCP	PARTCP ipf inpraes acc sg plen m act inan	PARTCP ipf inpraes acc sg plen m act inan	3	релят	_	_
+10	при	ПРИ	PR	PR	PR	9	обст	_	_
+11	русской	РУССКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+12	Дунайской	ДУНАЙСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+13	армии	АРМИЯ	S	S f inan gen sg	S f inan gen sg	10	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	сообщает	СООБЩАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	что	ЧТО	CONJ	CONJ	CONJ	15	1-компл	_	_
+18	вчерашним	ВЧЕРАШНИЙ	A	A - ins sg plen m -	A - ins sg plen m -	19	опред	_	_
+19	приказом	ПРИКАЗ	S	S m inan ins sg	S m inan ins sg	25	присвяз	_	_
+20	от	ОТ	PR	PR	PR	19	атриб	_	_
+21	1	1	NUM	NUM - - -	NUM - - -	20	предл	_	_
+22	июля	ИЮЛЬ	S	S m inan gen sg	S m inan gen sg	21	атриб	_	_
+23	(	(	_	_	PUNC	24	PUNC	_	_
+24	13	13	NUM	NUM - - -	NUM - - -	25	количест	_	_
+25	июля	ИЮЛЬ	S	S m inan gen sg	S m inan gen sg	30	атриб	_	_
+26	по	ПО	PR	PR	PR	25	обст	_	_
+27	европейскому	ЕВРОПЕЙСКИЙ	A	A - dat sg plen m -	A - dat sg plen m -	28	опред	_	_
+28	стилю	СТИЛЬ	S	S m inan dat sg	S m inan dat sg	26	предл	_	_
+29	)	)	_	_	PUNC	28	PUNC	_	_
+30	император	ИМПЕРАТОР	S	S m anim nom sg	S m anim nom sg	32	предик	_	_
+31	Александр	АЛЕКСАНДР	S	S m anim nom sg	S m anim nom sg	30	аппоз	_	_
+32	благодарит	БЛАГОДАРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	17	подч-союзн	_	_
+33	свои	СВОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	35	опред	_	_
+34	победоносные	ПОБЕДОНОСНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	35	опред	_	_
+35	войска	ВОЙСКО	S	S n inan nom pl	S n inan nom pl	32	присвяз	_	_
+36	,	,	,	,	PUNC	35	PUNC	_	_
+37	успешно	УСПЕШНО	ADV	ADV -	ADV -	38	обст	_	_
+38	форсировавшие	ФОРСИРОВАТЬ	PARTCP	PARTCP ipf praet nom pl plen - act -	PARTCP ipf praet nom pl plen - act -	35	опред	_	_
+39	Дунай	ДУНАЙ	S	S m inan nom sg	S m inan nom sg	38	1-компл	_	_
+40	и	И	CONJ	CONJ	CONJ	38	сочин	_	_
+41	вторгшиеся	ВТОРГАТЬСЯ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	0	ROOT	_	_
+42	в	В	PR	PR	PR	41	2-компл	_	_
+43	пределы	ПРЕДЕЛ	S	S m inan acc pl	S m inan acc pl	42	предл	_	_
+44	Османского	ОСМАНСКИЙ	A	A - gen sg plen n -	A - gen sg plen n -	45	опред	_	_
+45	государства	ГОСУДАРСТВО	S	S n inan gen sg	S n inan gen sg	43	квазиагент	_	_
+46	.	.	SENT	SENT	SENT	45	PUNC	_	_
+
+1	В	В	PR	PR	PR	4	обст	_	_
+2	Высочайшем	ВЫСОКИЙ	A	A supr loc sg plen m -	A supr loc sg plen m -	3	опред	_	_
+3	приказе	ПРИКАЗ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+4	сказано	СКАЗАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	предик	_	_
+7	враг	ВРАГ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+8	полностью	ПОЛНОСТЬЮ	ADV	ADV -	ADV -	9	огранич	_	_
+9	сломлен	СЛАМЫВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	6	подч-союзн	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	далее	ДАЛЕЕ	ADV	ADV -	ADV -	22	обст	_	_
+13	как	КАК	CONJ	CONJ	CONJ	12	сравнит	_	_
+14	через	ЧЕРЕЗ	PR	PR	PR	13	сравн-союзн	_	_
+15	две	ДВА	NUM	NUM nom f -	NUM nom f -	16	количест	_	_
+16	недели	НЕДЕЛЯ	S	S f inan gen sg	S f inan gen sg	14	предл	_	_
+17	над	НАД	PR	PR	PR	12	сочин	_	_
+18	Святой	СВЯТОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	19	опред	_	_
+19	Софией	СОФИЯ	S	S f inan ins sg	S f inan ins sg	17	предл	_	_
+20	в	В	PR	PR	PR	22	обст	_	_
+21	Константинополе	КОНСТАНТИНОПОЛЬ	S	S m inan loc sg	S m inan loc sg	20	предл	_	_
+22	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	соч-союзн	_	_
+23	установлен	УСТАНАВЛИВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	22	пасс-анал	_	_
+24	православный	ПРАВОСЛАВНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	25	опред	_	_
+25	крест	КРЕСТ	S	S m inan nom sg	S m inan nom sg	22	предик	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Наступающая	НАСТУПАТЬ	PARTCP	PARTCP ipf inpraes nom sg plen f act -	PARTCP ipf inpraes nom sg plen f act -	5	2-компл	_	_
+2	армия	АРМИЯ	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+3	почти	ПОЧТИ	ADV	ADV -	ADV -	4	огранич	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	встречает	ВСТРЕЧАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	сопротивления	СОПРОТИВЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	5	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	если	ЕСЛИ	CONJ	CONJ	CONJ	5	обст	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	считать	СЧИТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	инф-союзн	_	_
+11	комариных	КОМАРИНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	12	опред	_	_
+12	укусов	УКУС	S	S m inan gen pl	S m inan gen pl	10	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	предик	_	_
+15	наносят	НАНОСИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	12	релят	_	_
+16	по	ПО	PR	PR	PR	15	обст	_	_
+17	русским	РУССКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	18	опред	_	_
+18	коммуникациям	КОММУНИКАЦИЯ	S	S f inan dat pl	S f inan dat pl	16	предл	_	_
+19	летучие	ЛЕТУЧИЙ	A	A - nom pl plen - -	A - nom pl plen - -	20	опред	_	_
+20	отряды	ОТРЯД	S	S m inan nom pl	S m inan nom pl	22	предик	_	_
+21	так	ТАК	ADV	ADV -	ADV -	22	обст	_	_
+22	называемых	НАЗЫВАТЬ	PARTCP	PARTCP ipf inpraes loc pl plen - pass -	PARTCP ipf inpraes loc pl plen - pass -	10	2-компл	_	_
+23	башибузуков	БАШИБУЗУК	S	S m anim gen pl	S m anim gen pl	22	квазиагент	_	_
+24	(	(	_	_	PUNC	25	PUNC	_	_
+25	„	„	„	„	PUNC	27	опред	_	_
+26	бешеных	БЕШЕНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	27	опред	_	_
+27	голов	ГОЛОВА	S	S f inan gen pl	S f inan gen pl	23	1-компл	_	_
+28	“	“	“	“	PUNC	27	примыкат	_	_
+29	)	)	_	_	PUNC	28	PUNC	_	_
+30	–	–	–	–	PUNC	10	1-компл	_	_
+31	полуразбойников	ПОЛУРАЗБОЙНИК	S	S m anim acc pl	S m anim acc pl	10	2-компл	_	_
+32	-	-	-	-	PUNC	31	PUNC	_	_
+33	полупартизан	ПОЛУПАРТИЗАН	S	S m anim acc pl	S m anim acc pl	31	сочин	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	известных	ИЗВЕСТНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	38	опред	_	_
+36	своим	СВОЙ	A	A - dat pl plen - -	A - dat pl plen - -	38	опред	_	_
+37	диким	ДИКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	38	опред	_	_
+38	нравом	НРАВ	S	S m inan ins sg	S m inan ins sg	33	сочин	_	_
+39	и	И	CONJ	CONJ	CONJ	38	сочин	_	_
+40	кровожадной	КРОВОЖАДНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	41	опред	_	_
+41	свирепостью	СВИРЕПОСТЬ	S	S f inan ins sg	S f inan ins sg	39	соч-союзн	_	_
+42	»	»	_	_	PUNC	41	PUNC	_	_
+43	.	.	SENT	SENT	SENT	41	PUNC	_	_
+

@@ -1,0 +1,26 @@
+1	Корчаков	КОРЧАК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	мечтательно	МЕЧТАТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	3	композ	_	_
+3	вздохнул	ВЗДЫХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	:	:	:	:	PUNC	18	1-компл	_	_
+5	–	–	–	–	PUNC	18	обст	_	_
+6	Да	ДА	PART	PART	PART	5	огранич	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	5	сочин	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	такой	ТАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	как	КАК	CONJ	CONJ	CONJ	5	сравнит	_	_
+13	говорят	ГОВОРИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	12	сравн-союзн	_	_
+14	в	В	PR	PR	PR	13	3-компл	_	_
+15	Замоскворечье	ЗАМОСКВОРЕЧЬЕ	S	S n inan loc sg	S n inan loc sg	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	компрометаж	КОМПРОМЕТАЖ	S	S m inan gen sg	S m inan gen sg	18	1-компл	_	_
+18	позволил	ПОЗВОЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	1-компл	_	_
+19	бы	БЫ	PART	PART	PART	18	аналит	_	_
+20	нам	МЫ	SPRO	SPRO pl 1p - dat	SPRO pl 1p - dat	22	дат-субъект	_	_
+21	полностью	ПОЛНОСТЬЮ	ADV	ADV -	ADV -	22	огранич	_	_
+22	нейтрализовать	НЕЙТРАЛИЗОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	18	2-компл	_	_
+23	британскую	БРИТАНСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	24	опред	_	_
+24	дипломатию	ДИПЛОМАТИЯ	S	S f inan acc sg	S f inan acc sg	22	1-компл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

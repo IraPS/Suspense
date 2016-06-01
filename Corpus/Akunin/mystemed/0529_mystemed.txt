@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"много","gr":"ADV,praed="}],"text":"Много"}
+{"analysis":[{"lex":"пить","gr":"V,ipf,tran=praet,sg,indic,f"}],"text":"пила"}
+{"analysis":[{"lex":"маруся","gr":"S,persn,f,anim=nom,sg"}],"text":"Маруся"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,m,pf"}],"text":"спросил"}
+{"analysis":[{"lex":"один","gr":"APRO=acc,sg,m,inan"},{"lex":"один","gr":"APRO=nom,sg,m"}],"text":"один"}
+{"analysis":[{"lex":"по-русски","gr":"ADV="}],"text":"по-русски"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"все"}
+{"analysis":[{"lex":"захохотать","gr":"V,pf,intr=praet,pl,indic"}],"text":"захохотали"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"пуще","gr":"ADV="}],"text":"пуще"}

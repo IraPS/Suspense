@@ -1,0 +1,49 @@
+1	Мимоза	МИМОЗА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	кисейная	КИСЕЙНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	барышня	БАРЫШНЯ	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	слабый	СЛАБЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	7	опред	_	_
+7	пол	ПОЛ	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	ругала	РУГАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	вводн	_	_
+10	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	9	предик	_	_
+11	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Знала	ЗНАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+2	ведь	ВЕДЬ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+5	на	НА	PR	PR	PR	7	1-компл	_	_
+6	войну	ВОЙНА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	едешь	ЕХАТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	4	подч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	7	сочин	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	в	В	PR	PR	PR	0	ROOT	_	_
+12	Павловское	ПАВЛОВСКИЙ	A	A - acc sg plen n -	A - acc sg plen n -	11	предл	_	_
+13	на	НА	PR	PR	PR	11	сочин	_	_
+14	гуляние	ГУЛЯНИЕ	S	S n inan acc sg	S n inan acc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	6	огранич	_	_
+3	очень	ОЧЕНЬ	ADV	ADV -	ADV -	6	огранич	_	_
+4	уж	УЖ	PART	PART	PART	3	огранич	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	хотелось	ХОТЕТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	соч-союзн	_	_
+7	доставлять	ДОСТАВЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	2-компл	_	_
+8	удовольствие	УДОВОЛЬСТВИЕ	S	S n inan acc sg	S n inan acc sg	7	1-компл	_	_
+9	титулярному	ТИТУЛЯРНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	10	опред	_	_
+10	советнику	СОВЕТНИК	S	S m anim dat sg	S m anim dat sg	7	2-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	17	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	выходит	ВЫХОДИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	17	вводн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	опять	ОПЯТЬ	ADV	ADV -	ADV -	17	обст	_	_
+17	оказался	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	сент-соч	_	_
+18	прав	ПРАВЫЙ	A	A - - sg brev m -	A - - sg brev m -	17	присвяз	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

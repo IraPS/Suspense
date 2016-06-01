@@ -1,0 +1,3 @@
+{"analysis":[{"lex":"джой","gr":"S,persn,m,anim=nom,sg"}],"text":"Джой"}
+{"analysis":[{"lex":"подходить","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"подошла"}
+{"analysis":[{"lex":"близко","gr":"ADV=comp"}],"text":"ближе"}

@@ -1,0 +1,97 @@
+1	Когда	КОГДА	CONJ	CONJ	CONJ	12	обст	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	добрел	ДОБРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	подч-союзн	_	_
+4	до	ДО	PR	PR	PR	3	2-компл	_	_
+5	автомобиля	АВТОМОБИЛЬ	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	людей	ЧЕЛОВЕК	S	S m anim gen pl	S m anim gen pl	3	1-компл	_	_
+8	около	ОКОЛО	PR	PR	PR	12	предик	_	_
+9	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	8	предл	_	_
+10	уже	УЖЕ	ADV	ADV -	ADV -	12	огранич	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	0	ROOT	_	_
+2	уж	УЖ	PART	PART	PART	3	огранич	_	_
+3	снег	СНЕГ	S	S m inan nom sg	S m inan nom sg	1	предик	_	_
+4	из-под	ИЗ-ПОД	PR	PR	PR	3	атриб	_	_
+5	задних	ЗАДНИЙ	A	A - loc pl plen - -	A - loc pl plen - -	6	опред	_	_
+6	колес	КОЛЕСО	S	S f inan loc pl	S f inan loc pl	4	предл	_	_
+7	долетел	ДОЛЕТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	вводн	_	_
+8	до	ДО	PR	PR	PR	7	обст	_	_
+9	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	8	предл	_	_
+10	—	—	—	—	PUNC	13	обст	_	_
+11	так	ТАК	ADV	ADV -	ADV -	13	обст	_	_
+12	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	13	предик	_	_
+13	приблизился	ПРИБЛИЖАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	сочин	_	_
+14	к	К	PR	PR	PR	13	1-компл	_	_
+15	цели	ЦЕЛЬ	S	S f inan gen sg	S f inan gen sg	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	3	огранич	_	_
+2	уж	УЖ	PART	PART	PART	3	огранич	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	вижу	ВИДЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	как	КАК	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	бешено	БЕШЕНО	ADV	ADV -	ADV -	8	обст	_	_
+8	крутятся	КРУТИТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	6	подч-союзн	_	_
+9	колеса	КОЛЕСО	S	S n inan gen sg	S n inan gen sg	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	стараясь	СТАРАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	обст	_	_
+12	зацепиться	ЗАЦЕПЛЯТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+13	хоть	ХОТЬ	PART	PART	PART	14	огранич	_	_
+14	за	ЗА	PR	PR	PR	12	обст	_	_
+15	какую-нибудь	КАКОЙ-НИБУДЬ	A	A - acc sg plen f inan	A - acc sg plen f inan	16	опред	_	_
+16	опору	ОПОРА	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	как	КАК	CONJ	CONJ	CONJ	12	сравнит	_	_
+19	дрожит	ДРОЖАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	18	сравн-союзн	_	_
+20	деревянный	ДЕРЕВЯННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	21	опред	_	_
+21	кузов	КУЗОВ	S	S m inan acc sg	S m inan acc sg	19	1-компл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	2	огранич	_	_
+2	уж	УЖ	PART	PART	PART	3	огранич	_	_
+3	три	ТРИ	NUM	NUM nom - -	NUM nom - -	4	количест	_	_
+4	метра	МЕТР	S	S m inan gen sg	S m inan gen sg	21	предик	_	_
+5	от	ОТ	PR	PR	PR	4	2-компл	_	_
+6	кончиков	КОНЧИК	S	S m inan gen pl	S m inan gen pl	5	предл	_	_
+7	моих	МОЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+8	протянутых	ПРОТЯГИВАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	9	опред	_	_
+9	рук	РУКА	S	S f inan gen pl	S f inan gen pl	6	квазиагент	_	_
+10	до	ДО	PR	PR	PR	4	3-компл	_	_
+11	заднего	ЗАДНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	борта	БОРТ	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	вот	ВОТ	PART	PART	PART	15	огранич	_	_
+15	уж	УЖ	PART	PART	PART	16	огранич	_	_
+16	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	12	эксплет	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	вот	ВОТ	PART	PART	PART	4	огранич	_	_
+19	уж	УЖ	PART	PART	PART	20	огранич	_	_
+20	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	21	количест	_	_
+21	метр	МЕТР	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+22	…	…	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Только	ТОЛЬКО	PART	PART	PART	3	огранич	_	_
+2	бы	БЫ	PART	PART	PART	1	вспом	_	_
+3	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	11	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	в	В	PR	PR	PR	3	сочин	_	_
+6	эту	ЭТОТ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+7	последнюю	ПОСЛЕДНИЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	секунду	СЕКУНДА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	дернулся	ДЕРНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	когда	КОГДА	CONJ	CONJ	CONJ	11	1-компл	_	_
+14	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	16	предик	_	_
+15	почти	ПОЧТИ	ADV	ADV -	ADV -	16	огранич	_	_
+16	ухватился	УХВАТЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	подч-союзн	_	_
+17	за	ЗА	PR	PR	PR	16	2-компл	_	_
+18	борт	БОРТ	S	S m inan acc sg	S m inan acc sg	17	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

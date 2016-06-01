@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=nom"}],"text":"Вы"}
+{"analysis":[{"lex":"когда","gr":"CONJ="}],"text":"когда"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"позиция","gr":"S,f,inan=acc,sg"}],"text":"позицию"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,f,pf"}],"text":"спросила"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"усаживаться","gr":"V,intr=inpraes,ger,ipf"}],"text":"усаживаясь"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"койка","gr":"S,f,inan=acc,sg"}],"text":"койку"}
+{"analysis":[{"lex":"потому","gr":"ADVPRO="}],"text":"потому"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"больше","gr":"ADV="}],"text":"больше"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"было"}
+{"analysis":[{"lex":"некуда","gr":"ADV,praed="}],"text":"некуда"}

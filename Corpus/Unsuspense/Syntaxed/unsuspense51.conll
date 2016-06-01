@@ -1,0 +1,160 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	В	В	PR	PR	PR	0	ROOT	_	_
+3	Желтухиной	ЖЕЛТУХИНА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	опять	ОПЯТЬ	ADV	ADV -	ADV -	5	огранич	_	_
+5	падеж	ПАДЕЖ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	–	–	–	–	PUNC	8	1-компл	_	_
+8	говорила	ГОВОРИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	5	релят	_	_
+9	мельничиха	МЕЛЬНИЧИХА	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	–	–	–	–	PUNC	9	опред	_	_
+12	у	У	PR	PR	PR	11	1-компл	_	_
+13	отца	ОТЕЦ	S	S m anim gen sg	S m anim gen sg	12	предл	_	_
+14	Ивана	ИВАН	S	S m anim gen sg	S m anim gen sg	13	аппоз	_	_
+15	обе	ОБА	NUM	NUM nom f -	NUM nom f -	16	количест	_	_
+16	коровы	КОРОВА	S	S f anim gen sg	S f anim gen sg	17	предик	_	_
+17	свалились	СВАЛИВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	8	сент-соч	_	_
+18	…	…	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Господи	ГОСПОДИ	INTJ	INTJ	INTJ	2	вводн	_	_
+2	помилуй	ПОМИЛОВАТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	0	ROOT	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	2	вспом	_	_
+4	ваши	ВАШ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	свиньи	СВИНЬЯ	S	S f anim nom pl	S f anim nom pl	2	соч-союзн	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	помолчав	ПОМОЛЧАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	Ермолай	ЕРМОЛАЙ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Живут	ЖИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	Хоть	ХОТЬ	PART	PART	PART	3	огранич	_	_
+3	бы	БЫ	PART	PART	PART	4	аналит	_	_
+4	поросеночка	ПОРОСЕНОЧЕК	S	S m anim acc sg	S m anim acc sg	6	обст	_	_
+5	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	6	1-компл	_	_
+6	подарили	ПОДАРИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Мельничиха	МЕЛЬНИЧИХА	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	помолчала	ПОМОЛЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	потом	ПОТОМ	ADV	ADV -	ADV -	5	обст	_	_
+5	вздохнула	ВЗДЫХАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сочин	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	С	С	PR	PR	PR	5	обст	_	_
+3	кем	КТО	S	S m - ins sg	S m - ins sg	2	предл	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	5	предик	_	_
+5	это	ЭТО	S	S n - acc sg	S n - acc sg	1	опред	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	С	С	PR	PR	PR	1	обст	_	_
+3	барином	БАРИН	S	S m anim ins sg	S m anim ins sg	2	предл	_	_
+4	–	–	–	–	PUNC	0	ROOT	_	_
+5	с	С	PR	PR	PR	4	атриб	_	_
+6	костомаровским	КОСТОМАРОВСКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Ермолай	ЕРМОЛАЙ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	бросил	БРОСАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	5	количест	_	_
+4	еловых	ЕЛОВЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	5	опред	_	_
+5	веток	ВЕТКА	S	S f inan gen pl	S f inan gen pl	2	1-компл	_	_
+6	на	НА	PR	PR	PR	5	1-компл	_	_
+7	огонь	ОГОНЬ	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+8	;	;	SENT	SENT	SENT	7	PUNC	_	_
+
+1	ветки	ВЕТКА	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+2	тотчас	ТОТЧАС	ADV	ADV -	ADV -	3	огранич	_	_
+3	дружно	ДРУЖНО	ADV	ADV -	ADV -	4	обст	_	_
+4	затрещали	ЗАТРЕЩАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	густой	ГУСТОЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+7	белый	БЕЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	дым	ДЫМ	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+9	повалил	ПОВАЛИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сент-соч	_	_
+10	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	9	2-компл	_	_
+11	прямо	ПРЯМО	PART	PART	PART	12	огранич	_	_
+12	в	В	PR	PR	PR	9	обст	_	_
+13	лицо	ЛИЦО	S	S n inan acc sg	S n inan acc sg	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	–	–	–	–	PUNC	9	1-компл	_	_
+2	Чего	ЧТО	S	S n inan gen sg	S n inan gen sg	1	1-компл	_	_
+3	твой	ТВОЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	муж	МУЖ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+5	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	9	1-компл	_	_
+6	в	В	PR	PR	PR	9	обст	_	_
+7	избу	ИЗБА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	пустил	ПУСКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+10	?	?	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	предик	_	_
+2	Боится	БОЯТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Вишь	ВИШЬ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	толстый	ТОЛСТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	брюхач	БРЮХАЧ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+6	…	…	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Голубушка	ГОЛУБУШКА	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Арина	АРИНА	S	S f anim nom sg	S f anim nom sg	1	аппоз	_	_
+4	Тимофеевна	ТИМОФЕЕВНА	S	S f anim nom sg	S f anim nom sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	вынеси	ВЫНЕСТИ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	0	ROOT	_	_
+7	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	6	1-компл	_	_
+8	стаканчик	СТАКАНЧИК	S	S m inan acc sg	S m inan acc sg	6	сочин	_	_
+9	винца	ВИНЦО	S	S n inan gen sg	S n inan gen sg	8	квазиагент	_	_
+10	!	!	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Мельничиха	МЕЛЬНИЧИХА	S	S m inan gen sg	S m inan gen sg	2	1-компл	_	_
+2	встала	ВСТАВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	исчезла	ИСЧЕЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	соч-союзн	_	_
+5	во	ВО	PR	PR	PR	4	обст	_	_
+6	мраке	МРАК	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Ермолай	ЕРМОЛАЙ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	запел	ЗАПЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	вполголоса	ВПОЛГОЛОСА	ADV	ADV -	ADV -	2	обст	_	_
+4	:	:	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Как	КАК	CONJ	CONJ	CONJ	5	вводн	_	_
+2	к	К	PR	PR	PR	1	сравн-союзн	_	_
+3	любезной	ЛЮБЕЗНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	2	предл	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	ходил	ХОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	сапожки	САПОЖОК	S	S m inan nom pl	S m inan nom pl	3	предик	_	_
+3	обносил	ОБНОСИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	…	…	SENT	SENT	SENT	3	PUNC	_	_
+

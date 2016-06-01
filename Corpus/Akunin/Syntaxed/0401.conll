@@ -1,0 +1,67 @@
+1	Демократический	ДЕМОКРАТИЧЕСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	принцип	ПРИНЦИП	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+3	ущемляет	УЩЕМЛЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	обст	_	_
+5	правах	ПРАВО	S	S n inan loc pl	S n inan loc pl	4	предл	_	_
+6	тех	ТОТ	A	A - gen pl plen - -	A - gen pl plen - -	11	опред	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	кто	КТО	S	S m - nom sg	S m - nom sg	9	предик	_	_
+9	умнее	УМНЫЙ	A	A comp - - plen - -	A comp - - plen - -	6	релят	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	т	Т	S	S - - nonflex nonflex	S - - nonflex nonflex	3	1-компл	_	_
+12	-	-	-	-	PUNC	11	PUNC	_	_
+13	талантливее	ТАЛАНТЛИВЫЙ	A	A comp - - plen - -	A comp - - plen - -	3	2-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	работоспособнее	РАБОТОСПОСОБНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	17	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	ставит	СТАВИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	изъясн	_	_
+18	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	17	1-компл	_	_
+19	в	В	PR	PR	PR	17	2-компл	_	_
+20	зависимость	ЗАВИСИМОСТЬ	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	от	ОТ	PR	PR	PR	17	1-компл	_	_
+22	тупой	ТУПОЙ	A	A - gen sg plen f -	A - gen sg plen f -	23	опред	_	_
+23	воли	ВОЛЯ	S	S f inan gen sg	S f inan gen sg	21	предл	_	_
+24	глупых	ГЛУПЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	30	опред	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	бездарных	БЕЗДАРНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	24	сочин	_	_
+27	и	И	CONJ	CONJ	CONJ	26	сочин	_	_
+28	ленивых	ЛЕНИВЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	27	соч-союзн	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	17	2-компл	_	_
+31	-	-	-	-	PUNC	30	PUNC	_	_
+32	потому что	потому что	CONJ	CONJ	ZERO	3	обст	_	_
+33	таковых	ТАКОВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	37	предик	_	_
+34	в	В	PR	PR	PR	37	обст	_	_
+35	обществе	ОБЩЕСТВО	S	S n inan loc sg	S n inan loc sg	34	предл	_	_
+36	всегда	ВСЕГДА	ADV	ADV -	ADV -	37	колич-огран	_	_
+37	больше	МНОГО	ADV	ADV comp	ADV comp	32	подч-союзн	_	_
+38	.	.	SENT	SENT	SENT	37	PUNC	_	_
+
+1	Пусть	ПУСТЬ	PART	PART	PART	7	огранич	_	_
+2	наши	НАШ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+3	с	С	PR	PR	PR	2	атриб	_	_
+4	вами	ВЫ	SPRO	SPRO pl 2p - ins	SPRO pl 2p - ins	3	предл	_	_
+5	соотечественники	СООТЕЧЕСТВЕННИК	S	S m anim nom pl	S m anim nom pl	7	предик	_	_
+6	сначала	СНАЧАЛА	ADV	ADV -	ADV -	7	обст	_	_
+7	отучатся	ОТУЧАТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+8	от	ОТ	PR	PR	PR	7	1-компл	_	_
+9	свинства	СВИНСТВО	S	S n inan gen sg	S n inan gen sg	8	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+11	заслужат	ЗАСЛУЖИВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	10	соч-союзн	_	_
+12	право	ПРАВО	S	S n inan acc sg	S n inan acc sg	11	1-компл	_	_
+13	носить	НОСИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	1-компл	_	_
+14	звание	ЗВАНИЕ	S	S n inan acc sg	S n inan acc sg	13	1-компл	_	_
+15	г	Г	S	S m inan nonflex nonflex	S m inan nonflex nonflex	14	1-компл	_	_
+16	-	-	-	-	PUNC	15	PUNC	_	_
+17	гражданина	ГРАЖДАНИН	S	S m anim gen sg	S m anim gen sg	14	квазиагент	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	а	А	CONJ	CONJ	CONJ	11	сент-соч	_	_
+20	уж	УЖ	PART	PART	PART	21	огранич	_	_
+21	тогда	ТОГДА	ADV	ADV -	ADV -	22	обст	_	_
+22	можно	МОЖНО	ADV	ADV -	ADV -	19	соч-союзн	_	_
+23	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	22	предик	_	_
+24	ио	ИО	CONJ	CONJ	CONJ	23	присвяз	_	_
+25	парламенте	ПАРЛАМЕНТ	S	S m inan loc sg	S m inan loc sg	26	1-компл	_	_
+26	подумать	ПОДУМАТЬ	V	V pf - - inf - -	V pf - - inf - -	24	инф-союзн	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

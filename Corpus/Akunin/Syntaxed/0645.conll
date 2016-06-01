@@ -1,0 +1,11 @@
+1	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	вскочил	ВСКАКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	громко	ГРОМКО	ADV	ADV -	ADV -	5	обст	_	_
+5	топая	ТОПАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	прошелся	ПРОХОДИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+8	по	ПО	PR	PR	PR	7	обст	_	_
+9	комнате	КОМНАТА	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

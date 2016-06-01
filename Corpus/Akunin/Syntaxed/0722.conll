@@ -1,0 +1,64 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Half	HALF	NONLEX	NONLEX	NONLEX	1	аппоз	_	_
+3	past	PAST	NONLEX	NONLEX	NONLEX	2	аппоз	_	_
+4	seven	SEVEN	NONLEX	NONLEX	NONLEX	3	аппоз	_	_
+5	…	…	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Another	ANOTHER	NONLEX	NONLEX	NONLEX	0	ROOT	_	_
+2	forty	FORTY	NONLEX	NONLEX	NONLEX	1	аппоз	_	_
+3	minutes	MINUTES	NONLEX	NONLEX	NONLEX	2	аппоз	_	_
+4	to	TO	NONLEX	NONLEX	NONLEX	3	аппоз	_	_
+5	get	GET	NONLEX	NONLEX	NONLEX	4	аппоз	_	_
+6	there	THERE	NONLEX	NONLEX	NONLEX	5	аппоз	_	_
+7	…	…	SENT	SENT	SENT	6	PUNC	_	_
+
+1	All	ALL	NONLEX	NONLEX	NONLEX	0	ROOT	_	_
+2	right	RIGHT	NONLEX	NONLEX	NONLEX	1	аппоз	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	an	AN	NONLEX	NONLEX	NONLEX	2	аппоз	_	_
+5	hour	HOUR	NONLEX	NONLEX	NONLEX	4	аппоз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	It	IT	NONLEX	NONLEX	NONLEX	8	предик	_	_
+2	'	'	_	_	PUNC	1	PUNC	_	_
+3	ll	LL	NONLEX	NONLEX	NONLEX	1	аппоз	_	_
+4	be	BE	NONLEX	NONLEX	NONLEX	3	аппоз	_	_
+5	half	HALF	NONLEX	NONLEX	NONLEX	4	аппоз	_	_
+6	past	PAST	NONLEX	NONLEX	NONLEX	5	аппоз	_	_
+7	eight	EIGHT	NONLEX	NONLEX	NONLEX	6	аппоз	_	_
+8	…	…	…	…	PUNC	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	 	 	 	 	PUNC	12	обст	_	_
+11	–	–	–	–	PUNC	12	1-компл	_	_
+12	пробормотал	ПРОБОРМОТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	вводн	_	_
+13	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	предик	_	_
+14	на	НА	PR	PR	PR	12	обст	_	_
+15	своем	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	17	опред	_	_
+16	невразумительном	НЕВРАЗУМИТЕЛЬНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	17	опред	_	_
+17	наречии	НАРЕЧИЕ	S	S n inan loc sg	S n inan loc sg	14	предл	_	_
+18	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+19	вздохнул	ВЗДЫХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	18	соч-союзн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Ну	НУ	PART	PART	PART	3	огранич	_	_
+3	хорошо	ХОРОШО	PART	PART	PART	6	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	разве что	разве что	ADV	ADV -	-	6	огранич	_	_
+6	на	НА	PR	PR	PR	1	2-компл	_	_
+7	минутку	МИНУТКА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Доеду	ДОЕЗЖАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+2	с	С	PR	PR	PR	1	2-компл	_	_
+3	вами	ВЫ	SPRO	SPRO pl 2p - ins	SPRO pl 2p - ins	2	предл	_	_
+4	до	ДО	PR	PR	PR	1	3-компл	_	_
+5	развилки	РАЗВИЛКА	S	S f inan gen sg	S f inan gen sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	1	сент-соч	_	_
+8	там	ТАМ	PART	PART	PART	9	огранич	_	_
+9	сверну	СВЕРТЫВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	7	соч-союзн	_	_
+10	на	НА	PR	PR	PR	9	1-компл	_	_
+11	Петырницы	ПЕТЫРНИЦА	S	S f inan acc sg	S f inan acc sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

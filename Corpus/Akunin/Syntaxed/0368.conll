@@ -1,0 +1,44 @@
+1	Еще	ЕЩЕ	ADV	ADV -	ADV -	2	огранич	_	_
+2	в	В	PR	PR	PR	6	обст	_	_
+3	обед	ОБЕД	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+4	по	ПО	PR	PR	PR	6	обст	_	_
+5	лагерю	ЛАГЕРЬ	S	S m inan dat sg	S m inan dat sg	4	предл	_	_
+6	поползли	ПОПОЛЗТИ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	какие-то	КАКОЙ-ТО	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+8	нехорошие	НЕХОРОШИЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	слухи	СЛУХ	S	S m inan nom pl	S m inan nom pl	6	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	6	сент-соч	_	_
+12	в	В	PR	PR	PR	16	огранич	_	_
+13	шестом	ШЕСТОЙ	A	A - loc sg plen m -	A - loc sg plen m -	14	опред	_	_
+14	часу	ЧАС	S	S m inan loc2 sg	S m inan loc2 sg	12	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	когда	КОГДА	CONJ	CONJ	CONJ	26	обст	_	_
+17	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	20	предик	_	_
+18	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+19	Фандорин	ФАНДОРИН	S	S f inan nom sg	S f inan nom sg	18	соч-союзн	_	_
+20	шли	ИДТИ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	16	подч-союзн	_	_
+21	со	СО	PR	PR	PR	20	обст	_	_
+22	стрельбища	СТРЕЛЬБИЩЕ	S	S n inan gen sg	S n inan gen sg	21	предл	_	_
+23	(	(	_	_	PUNC	24	PUNC	_	_
+24	титулярный	ТИТУЛЯРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	25	опред	_	_
+25	советник	СОВЕТНИК	S	S m anim nom sg	S m anim nom sg	26	предик	_	_
+26	учил	УЧИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	соч-союзн	_	_
+27	помощницу	ПОМОЩНИЦА	S	S f anim acc sg	S f anim acc sg	26	1-компл	_	_
+28	обращаться	ОБРАЩАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	26	2-компл	_	_
+29	с	С	PR	PR	PR	28	1-компл	_	_
+30	револьвером	РЕВОЛЬВЕР	S	S m inan ins sg	S m inan ins sg	29	предл	_	_
+31	системы	СИСТЕМА	S	S f inan gen sg	S f inan gen sg	30	квазиагент	_	_
+32	«	«	_	_	PUNC	33	PUNC	_	_
+33	кольт	КОЛЬТ	S	S m inan acc sg	S m inan acc sg	31	примыкат	_	_
+34	»	»	_	_	PUNC	33	PUNC	_	_
+35	)	)	_	_	PUNC	33	PUNC	_	_
+36	,	,	,	,	PUNC	33	PUNC	_	_
+37	им	ОНИ	SPRO	SPRO pl - - dat	SPRO pl - - dat	38	1-компл	_	_
+38	встретился	ВСТРЕЧАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	30	релят	_	_
+39	хмуро	ХМУРО	ADV	ADV -	ADV -	38	обст	_	_
+40	-	-	-	-	PUNC	39	PUNC	_	_
+41	возбужденный	ВОЗБУЖДАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	26	1-компл	_	_
+42	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	26	предик	_	_
+43	.	.	SENT	SENT	SENT	42	PUNC	_	_
+

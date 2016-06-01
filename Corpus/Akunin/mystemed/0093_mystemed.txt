@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"помогать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"помог"}
+{"analysis":[{"lex":"онемевать","gr":"V,intr=praet,abl,sg,partcp,plen,f,pf,act"},{"lex":"онемевать","gr":"V,intr=praet,dat,sg,partcp,plen,f,pf,act"},{"lex":"онемевать","gr":"V,intr=praet,gen,sg,partcp,plen,f,pf,act"},{"lex":"онемевать","gr":"V,intr=praet,ins,sg,partcp,plen,f,pf,act"}],"text":"онемевшей"}
+{"analysis":[{"lex":"вар","gr":"S,m,inan=abl,sg"}],"text":"Варе"}
+{"analysis":[{"lex":"садиться","gr":"V,intr=inf,pf"}],"text":"сесть"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"гнедой","gr":"A=acc,sg,plen,m,anim"},{"lex":"гнедой","gr":"A=gen,sg,plen,m"},{"lex":"гнедой","gr":"A=gen,sg,plen,n"}],"text":"гнедого"}
+{"analysis":[{"lex":"выдергивать","gr":"V=praet,sg,indic,m,pf"}],"text":"выдернул"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"седельный","gr":"A=acc,sg,plen,m,anim"},{"lex":"седельный","gr":"A=gen,sg,plen,m"},{"lex":"седельный","gr":"A=gen,sg,plen,n"}],"text":"седельного"}
+{"analysis":[{"lex":"чехол","gr":"S,m,inan=gen,sg"}],"text":"чехла"}
+{"analysis":[{"lex":"ружье","gr":"S,n,inan=abl,sg"},{"lex":"ружье","gr":"S,n,inan=acc,sg"},{"lex":"ружье","gr":"S,n,inan=nom,sg"}],"text":"ружье"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"они","gr":"SPRO,pl=nom"}],"text":"они"}
+{"analysis":[{"lex":"понестись","gr":"V,pf,intr=praet,pl,indic"}],"text":"понеслись"}
+{"analysis":[{"lex":"вскачь","gr":"ADV="}],"text":"вскачь"}

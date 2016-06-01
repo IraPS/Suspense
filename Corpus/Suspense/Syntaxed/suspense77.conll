@@ -1,0 +1,13 @@
+1	Потеряв	ПОТЕРЯТЬ	V	V pf praet - ger - -	V pf praet - ger - -	6	обст	_	_
+2	терпение	ТЕРПЕНИЕ	S	S n inan nom sg	S n inan nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	директор	ДИРЕКТОР	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+5	прямолинейно	ПРЯМОЛИНЕЙНО	ADV	ADV -	ADV -	6	обст	_	_
+6	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	истопника	ИСТОПНИК	S	S m anim acc sg	S m anim acc sg	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	6	2-компл	_	_
+10	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	11	2-компл	_	_
+11	нужно	НУЖНО	ADV	ADV -	ADV -	9	подч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

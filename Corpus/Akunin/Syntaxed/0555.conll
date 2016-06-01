@@ -1,0 +1,112 @@
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	2	1-компл	_	_
+2	скажет	СКАЗАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+3	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Правительственный	ПРАВИТЕЛЬСТВЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	вестник	ВЕСТНИК	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+4	»	»	_	_	PUNC	6	PUNC	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	Санкт-Петербург	САНКТ-ПЕТЕРБУРГ	S	S m inan nom sg	S m inan nom sg	3	примыкат	_	_
+7	)	)	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	30	30	NUM	NUM - - -	NUM - - -	3	атриб	_	_
+10	июля	ИЮЛЬ	S	S m inan gen sg	S m inan gen sg	9	атриб	_	_
+11	(	(	_	_	PUNC	12	PUNC	_	_
+12	11	11	NUM	NUM - - -	NUM - - -	3	примыкат	_	_
+13	августа	АВГУСТ	S	S m inan gen sg	S m inan gen sg	12	атриб	_	_
+14	)	)	_	_	PUNC	13	PUNC	_	_
+15	1877	1877	NUM	NUM - - -	NUM - - -	16	опред	_	_
+16	г	Г	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Невзирая на	Невзирая на	PR	PR	ZERO	12	обст	_	_
+3	мучительные	МУЧИТЕЛЬНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+4	приступы	ПРИСТУП	S	S m inan nom pl	S m inan nom pl	2	предл	_	_
+5	эпидемического	ЭПИДЕМИЧЕСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	катара	КАТАР	S	S m inan gen sg	S m inan gen sg	4	квазиагент	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	кровавого	КРОВАВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	поноса	ПОНОС	S	S m inan gen sg	S m inan gen sg	7	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	Государь	ГОСУДАРЬ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+12	провел	ПРОВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+13	последние	ПОСЛЕДНИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	14	опред	_	_
+14	дни	ДЕНЬ	S	S m inan acc pl	S m inan acc pl	12	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	посещая	ПОСЕЩАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	обст	_	_
+17	госпитали	ГОСПИТАЛЬ	S	S m inan acc pl	S m inan acc pl	16	1-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	переполненные	ПЕРЕПОЛНЯТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	17	опред	_	_
+20	тифозными	ТИФОЗНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	0	ROOT	_	_
+21	больными	БОЛЬНОЙ	A	A - ins pl plen - -	A - ins pl plen - -	20	сочин	_	_
+22	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+23	ранеными	РАНЕНЫЙ	S	S m anim ins pl	S m anim ins pl	22	соч-союзн	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	квазиагент	_	_
+2	императорское	ИМПЕРАТОРСКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	3	опред	_	_
+3	величество	ВЕЛИЧЕСТВО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+4	относится	ОТНОСИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	с	С	PR	PR	PR	4	1-компл	_	_
+6	такою	ТАКОЙ	A	A - ins sg plen f -	A - ins sg plen f -	8	опред	_	_
+7	искреннею	ИСКРЕННИЙ	A	A - ins sg plen f -	A - ins sg plen f -	8	опред	_	_
+8	сердечностью	СЕРДЕЧНОСТЬ	S	S f inan ins sg	S f inan ins sg	5	предл	_	_
+9	к	К	PR	PR	PR	4	2-компл	_	_
+10	страдальцам	СТРАДАЛЕЦ	S	S m anim dat pl	S m anim dat pl	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+13	невольно	НЕВОЛЬНО	ADV	ADV -	ADV -	14	обст	_	_
+14	становится	СТАНОВИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	12	подч-союзн	_	_
+15	тепло	ТЕПЛО	ADV	ADV -	ADV -	14	обст	_	_
+16	при	ПРИ	PR	PR	PR	14	обст	_	_
+17	этих	ЭТОТ	A	A - loc pl plen - -	A - loc pl plen - -	18	опред	_	_
+18	сценах	СЦЕНА	S	S f inan loc pl	S f inan loc pl	16	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Солдатики	СОЛДАТИК	S	S m anim nom pl	S m anim nom pl	6	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+4	дети	РЕБЕНОК	S	S m anim nom pl	S m anim nom pl	3	сравн-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	бросаются	БРОСАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+7	на	НА	PR	PR	PR	6	2-компл	_	_
+8	подарки	ПОДАРОК	S	S m inan acc pl	S m inan acc pl	7	предл	_	_
+9	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+10	радуются	РАДОВАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	9	соч-союзн	_	_
+11	чрезвычайно	ЧРЕЗВЫЧАЙНО	ADV	ADV -	ADV -	12	огранич	_	_
+12	наивно	НАИВНО	ADV	ADV -	ADV -	10	обст	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Автору	АВТОР	S	S m anim dat sg	S m anim dat sg	6	1-компл	_	_
+2	сих	СЕЙ	A	A - gen pl plen - -	A - gen pl plen - -	3	опред	_	_
+3	строк	СТРОКА	S	S f inan gen pl	S f inan gen pl	1	1-компл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	6	обст	_	_
+6	приходилось	ПРИХОДИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+7	видеть	ВИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	как	КАК	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	прекрасные	ПРЕКРАСНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	12	опред	_	_
+11	синие	СИНИЙ	A	A - nom pl plen - -	A - nom pl plen - -	12	опред	_	_
+12	глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	14	предик	_	_
+13	Государя	ГОСУДАРЬ	S	S m anim gen sg	S m anim gen sg	12	квазиагент	_	_
+14	овлажнялись	ОВЛАЖНЯТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	подч-союзн	_	_
+15	слезою	СЛЕЗА	S	S f inan ins sg	S f inan ins sg	14	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Невозможно	НЕВОЗМОЖНО	ADV	ADV -	ADV -	2	обст	_	_
+2	наблюдать	НАБЛЮДАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+3	эти	ЭТОТ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	опред	_	_
+4	сцены	СЦЕНА	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+5	без	БЕЗ	PR	PR	PR	2	обст	_	_
+6	особого	ОСОБЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	7	опред	_	_
+7	чувства	ЧУВСТВО	S	S n inan gen sg	S n inan gen sg	5	предл	_	_
+8	благоговейного	БЛАГОГОВЕЙНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	9	опред	_	_
+9	умиления	УМИЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	7	1-компл	_	_
+10	»	»	_	_	PUNC	9	PUNC	_	_
+11	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

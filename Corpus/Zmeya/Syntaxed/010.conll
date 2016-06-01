@@ -1,0 +1,11 @@
+1	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	заметил	ЗАМЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	отдохнув	ОТДЫХАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	8	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	следует	СЛЕДОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	подч-союзн	_	_
+9	возвратиться	ВОЗВРАЩАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	8	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

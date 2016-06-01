@@ -1,0 +1,168 @@
+1	Помню	ПОМНИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	1	предик	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сент-соч	_	_
+4	старуху	СТАРУХА	S	S f anim acc sg	S f anim acc sg	5	1-компл	_	_
+5	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	бывало	БЫВАЛО	ADV	ADV -	ADV -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	сидит	СИДЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	сент-соч	_	_
+6	на	НА	PR	PR	PR	5	1-компл	_	_
+7	скамеечке	СКАМЕЕЧКА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	на	НА	PR	PR	PR	5	обст	_	_
+10	крыльце	КРЫЛЬЦО	S	S n inan loc sg	S n inan loc sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	согнувшись	СГИБАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	28	обст	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	тряся	ТРЯСТИ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	сочин	_	_
+15	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	14	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	задыхаясь	ЗАДЫХАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	14	сочин	_	_
+18	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+19	держась	ДЕРЖАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	18	соч-союзн	_	_
+20	за	ЗА	PR	PR	PR	19	2-компл	_	_
+21	скамейку	СКАМЕЙКА	S	S f inan acc sg	S f inan acc sg	20	предл	_	_
+22	руками	РУКА	S	S f inan ins pl	S f inan ins pl	19	обст	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	—	—	—	—	PUNC	28	1-компл	_	_
+25	все	ВСЕ	S	S - - acc pl	S - - acc pl	28	предик	_	_
+26	о	О	PR	PR	PR	25	3-компл	_	_
+27	чем-то	ЧТО-ТО	S	S n - ins sg	S n - ins sg	26	предл	_	_
+28	думает	ДУМАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	сент-соч	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	О	О	PR	PR	PR	9	3-компл	_	_
+3	добре	ДОБРО	S	S n inan loc sg	S n inan loc sg	2	предл	_	_
+4	своем	СВОЙ	A	A - loc sg plen m -	A - loc sg plen m -	9	обст	_	_
+5	небось	НЕБОСЬ	ADV	ADV -	ADV -	4	огранич	_	_
+6	»	»	_	_	PUNC	5	PUNC	_	_
+7	,	,	,	,	PUNC	5	PUNC	_	_
+8	—	—	—	—	PUNC	9	предик	_	_
+9	говорили	ГОВОРИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+10	бабы	БАБА	S	S f anim nom pl	S f anim nom pl	9	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	потому что	потому что	CONJ	CONJ	ZERO	10	сочин	_	_
+13	«	«	_	_	PUNC	14	PUNC	_	_
+14	добра	ДОБРО	S	S n inan gen sg	S n inan gen sg	12	соч-союзн	_	_
+15	»	»	_	_	PUNC	14	PUNC	_	_
+16	у	У	PR	PR	PR	14	2-компл	_	_
+17	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	16	предл	_	_
+18	в	В	PR	PR	PR	14	3-компл	_	_
+19	сундуках	СУНДУК	S	S m inan loc pl	S m inan loc pl	18	предл	_	_
+20	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	9	сент-соч	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	правда	ПРАВДА	ADV	ADV -	ADV -	20	разъяснит	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	много	МНОГО	ADV	ADV -	ADV -	22	сочин	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	6	предик	_	_
+3	будто	БУДТО	PART	PART	PART	6	огранич	_	_
+4	и	И	CONJ	CONJ	CONJ	3	вспом	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	слышит	СЛЫШАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+7	;	;	SENT	SENT	SENT	6	PUNC	_	_
+
+1	подслеповато	ПОДСЛЕПОВАТЫЙ	A	A comp2 - - plen - -	A comp2 - - plen - -	2	предик	_	_
+2	смотрит	СМОТРЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	куда-то	КУДА-ТО	ADV	ADV -	ADV -	4	огранич	_	_
+4	вдаль	ВДАЛЬ	ADV	ADV -	ADV -	2	обст	_	_
+5	из-под	ИЗ-ПОД	PR	PR	PR	2	обст	_	_
+6	грустно	ГРУСТНО	ADV	ADV -	ADV -	7	огранич	_	_
+7	приподнятых	ПРИПОДНЯТЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	8	опред	_	_
+8	бровей	БРОВЬ	S	S f inan gen pl	S f inan gen pl	5	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	трясет	ТРЯСТИ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	сочин	_	_
+11	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	10	1-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+13	точно	ТОЧНО	ADV	ADV -	ADV -	14	обст	_	_
+14	силится	СИЛИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	12	соч-союзн	_	_
+15	вспомнить	ВСПОМНИТЬ	V	V pf - - inf - -	V pf - - inf - -	14	1-компл	_	_
+16	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	15	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Большая	БОЛЬШОЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	предик	_	_
+2	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	старуха	СТАРУХА	S	S f anim nom sg	S f anim nom sg	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+6	какая-то	КАКОЙ-ТО	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+7	темная	ТЕМНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	присвяз	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Панева	ПАНЕВ	S	S m anim acc sg	S m anim acc sg	7	1-компл	_	_
+2	—	—	—	—	PUNC	5	опред	_	_
+3	чуть не	чуть не	PART	PART	ZERO	4	огранич	_	_
+4	прошлого	ПРОШЛЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	5	опред	_	_
+5	столетия	СТОЛЕТИЕ	S	S n inan gen sg	S n inan gen sg	1	атриб	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	чуньки	ЧУНЬКА	S	S - - acc pl	S - - acc pl	9	опред	_	_
+8	—	—	—	—	PUNC	9	опред	_	_
+9	покойницкие	ПОКОЙНИЦКАЯ	S	S f inan acc pl	S f inan acc pl	17	вводн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	шея	ШЕЯ	S	S f inan nom sg	S f inan nom sg	17	предик	_	_
+12	—	—	—	—	PUNC	17	опред	_	_
+13	желтая	ЖЕЛТЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	17	опред	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	высохшая	ВЫСОХШИЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	рубаха	РУБАХА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+18	с	С	PR	PR	PR	17	атриб	_	_
+19	канифасовыми	КАНИФАСОВЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	20	опред	_	_
+20	косяками	КОСЯК	S	S m inan ins pl	S m inan ins pl	18	предл	_	_
+21	всегда	ВСЕГДА	ADV	ADV -	ADV -	22	огранич	_	_
+22	белая	БЕЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	32	опред	_	_
+23	-	-	-	-	PUNC	22	PUNC	_	_
+24	белая	БЕЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	22	сочин	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	—	—	—	—	PUNC	24	сочин	_	_
+27	«	«	_	_	PUNC	26	PUNC	_	_
+28	совсем	СОВСЕМ	ADV	ADV -	ADV -	22	огранич	_	_
+29	хоть	ХОТЬ	CONJ	CONJ	CONJ	22	сравнит	_	_
+30	в	В	PR	PR	PR	29	сравн-союзн	_	_
+31	гроб	ГРОБ	S	S m inan acc sg	S m inan acc sg	30	предл	_	_
+32	клади	КЛАСТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	17	сент-соч	_	_
+33	»	»	_	_	PUNC	32	PUNC	_	_
+34	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	около	ОКОЛО	PR	PR	PR	6	обст	_	_
+3	крыльца	КРЫЛЬЦО	S	S n inan gen sg	S n inan gen sg	2	предл	_	_
+4	большой	БОЛЬШОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	5	опред	_	_
+5	камень	КАМЕНЬ	S	S m inan acc sg	S m inan acc sg	6	1-компл	_	_
+6	лежал	ЛЕЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+7	:	:	:	:	PUNC	6	1-компл	_	_
+8	сама	САМ	A	A - nom sg plen f -	A - nom sg plen f -	9	суб-копр	_	_
+9	купила	КУПИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	2-компл	_	_
+10	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	9	неакт-компл	_	_
+11	на	НА	PR	PR	PR	9	2-компл	_	_
+12	могилку	МОГИЛКА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	так же как	так же как	CONJ	CONJ	ZERO	6	1-компл	_	_
+15	и	И	CONJ	CONJ	CONJ	18	соотнос	_	_
+16	саван	САВАН	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	—	—	—	—	PUNC	16	сочин	_	_
+19	отличный	ОТЛИЧНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	20	опред	_	_
+20	саван	САВАН	S	S m inan acc sg	S m inan acc sg	18	1-компл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	с	С	PR	PR	PR	18	2-компл	_	_
+23	ангелами	АНГЕЛ	S	S m anim ins pl	S m anim ins pl	22	предл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	с	С	PR	PR	PR	18	атриб	_	_
+26	крестами	КРЕСТ	S	S m inan ins pl	S m inan ins pl	25	предл	_	_
+27	и	И	CONJ	CONJ	CONJ	25	сочин	_	_
+28	с	С	PR	PR	PR	27	соч-союзн	_	_
+29	молитвой	МОЛИТВА	S	S f inan ins sg	S f inan ins sg	28	предл	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	напечатанной	НАПЕЧАТАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	16	опред	_	_
+32	по	ПО	PR	PR	PR	31	обст	_	_
+33	краям	КРАЙ	S	S m inan dat pl	S m inan dat pl	32	предл	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+

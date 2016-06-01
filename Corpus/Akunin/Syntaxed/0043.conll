@@ -1,0 +1,64 @@
+1	Должно	ДОЛЖНО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	на	НА	PR	PR	PR	7	обст	_	_
+5	лице	ЛИЦО	S	S n inan loc sg	S n inan loc sg	4	предл	_	_
+6	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	5	квазиагент	_	_
+7	отразилось	ОТРАЖАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	сент-соч	_	_
+8	крайнее	КРАЙНИЙ	A	A - nom sg plen n -	A - nom sg plen n -	9	опред	_	_
+9	недоумение	НЕДОУМЕНИЕ	S	S n inan nom sg	S n inan nom sg	7	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Во	ВО	PR	PR	PR	6	обст	_	_
+2	всяком	ВСЯКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	3	опред	_	_
+3	случае	СЛУЧАЙ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	волонтер	ВОЛОНТЕР	S	S m inan gen sg	S m inan gen sg	6	1-компл	_	_
+6	счел	СЧЕСТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	нужным	НУЖНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	6	2-компл	_	_
+8	присовокупить	ПРИСОВОКУПЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+9	:	:	:	:	PUNC	8	1-компл	_	_
+10	–	–	–	–	PUNC	11	опред	_	_
+11	Война	ВОЙНА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	6	вводн	_	_
+14	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	13	аппоз	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	 	 	 	 	PUNC	6	1-компл	_	_
+17	–	–	–	–	PUNC	19	опред	_	_
+18	ужасная	УЖАСНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	19	опред	_	_
+19	гадость	ГАДОСТЬ	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	На	НА	PR	PR	PR	6	обст	_	_
+2	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	1	предл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	б	Б	PART	PART	PART	6	аналит	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	бывает	БЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	ни	НИ	CONJ	CONJ	CONJ	10	соотнос	_	_
+8	правых	ПРАВЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	ни	НИ	CONJ	CONJ	CONJ	8	сочин	_	_
+11	виноватых	ВИНОВАТЫЙ	A	A - acc pl plen - anim	A - acc pl plen - anim	10	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	хорошие	ХОРОШИЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	предик	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	плохие	ПЛОХОЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	соч-союзн	_	_
+5	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+6	с	С	PR	PR	PR	5	присвяз	_	_
+7	обеих	ОБА	NUM	NUM loc f -	NUM loc f -	8	количест	_	_
+8	сторон	СТОРОНА	S	S f inan gen pl	S f inan gen pl	6	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Только	ТОЛЬКО	PART	PART	PART	2	огранич	_	_
+2	хороших	ХОРОШИЙ	A	A - acc pl plen - anim	A - acc pl plen - anim	4	1-компл	_	_
+3	обычно	ОБЫЧНО	ADV	ADV -	ADV -	4	обст	_	_
+4	убивают	УБИВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+5	п	П	S	S n inan nonflex nonflex	S n inan nonflex nonflex	4	предик	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	первыми	ПЕРВЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	5	опред	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

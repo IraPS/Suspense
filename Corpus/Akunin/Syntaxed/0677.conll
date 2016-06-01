@@ -1,0 +1,30 @@
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Читайте	ЧИТАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	читайте	ЧИТАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	2	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	8	обст	_	_
+7	–	–	–	–	PUNC	8	1-компл	_	_
+8	поторопил	ПОТОРОПИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+9	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	8	1-компл	_	_
+10	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	У	У	PR	PR	PR	1	обст	_	_
+3	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	2	предл	_	_
+4	тут	ТУТ	ADV	ADV -	ADV -	6	обст	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	институт	ИНСТИТУТ	S	S m inan acc sg	S m inan acc sg	1	сочин	_	_
+7	благородных	БЛАГОРОДНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	8	опред	_	_
+8	девиц	ДЕВИЦА	S	S f anim gen pl	S f anim gen pl	6	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	а	А	CONJ	CONJ	CONJ	6	сочин	_	_
+11	госпожа	ГОСПОЖА	S	S f anim nom sg	S f anim nom sg	10	соч-союзн	_	_
+12	Суворова	СУВОРОВ	S	S m anim gen sg	S m anim gen sg	11	1-компл	_	_
+13	–	–	–	–	PUNC	11	опред	_	_
+14	член	ЧЛЕН	S	S m anim nom sg	S m anim nom sg	11	об-аппоз	_	_
+15	следственной	СЛЕДСТВЕННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	16	опред	_	_
+16	группы	ГРУППА	S	S f inan gen sg	S f inan gen sg	14	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

@@ -1,0 +1,26 @@
+1	Звали	ЗВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	подполковника	ПОДПОЛКОВНИК	S	S m anim acc sg	S m anim acc sg	1	1-компл	_	_
+3	Иван	ИВАН	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+4	Харитонович	ХАРИТОНОВИЧ	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+5	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	в	В	PR	PR	PR	9	огранич	_	_
+8	Варино	ВАРИНО	S	S - anim nonflex nonflex	S - anim nonflex nonflex	7	предл	_	_
+9	положение	ПОЛОЖЕНИЕ	S	S n inan nom sg	S n inan nom sg	1	сент-соч	_	_
+10	входить	ВХОДИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	9	1-компл	_	_
+11	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	14	предик	_	_
+12	решительно	РЕШИТЕЛЬНО	ADV	ADV -	ADV -	14	обст	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	желал	ЖЕЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	9	сент-соч	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	14	сент-соч	_	_
+17	дело	ДЕЛО	S	S n inan nom sg	S n inan nom sg	19	предик	_	_
+18	явно	ЯВНО	ADV	ADV -	ADV -	19	обст	_	_
+19	шло	ИДТИ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	16	соч-союзн	_	_
+20	к	К	PR	PR	PR	19	1-компл	_	_
+21	принудительной	ПРИНУДИТЕЛЬНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	22	опред	_	_
+22	высылке	ВЫСЫЛКА	S	S f inan loc sg	S f inan loc sg	20	предл	_	_
+23	в	В	PR	PR	PR	19	2-компл	_	_
+24	Россию	РОССИЯ	S	S f inan acc sg	S f inan acc sg	23	предл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

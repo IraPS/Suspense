@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"Д"}
+{"analysis":[{"lex":"эвр","qual":"bastard","gr":"S,m,inan=abl,sg"}],"text":"Эвре"}
+{"analysis":[{"lex":"пожимать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"пожал"}
+{"analysis":[{"lex":"плечо","gr":"S,n,inan=ins,pl"}],"text":"плечами"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"взять","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"взял"}
+{"analysis":[{"lex":"тот","gr":"APRO=acc,sg,f"}],"text":"ту"}
+{"analysis":[{"lex":"сабля","gr":"S,f,inan=acc,sg"}],"text":"саблю"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,f,ipf"}],"text":"была"}
+{"analysis":[{"lex":"близкий","gr":"A=comp"}],"text":"ближе"}

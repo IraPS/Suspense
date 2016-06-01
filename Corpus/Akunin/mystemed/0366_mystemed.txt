@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"вечер","gr":"S,m,inan=acc,sg"},{"lex":"вечер","gr":"S,m,inan=nom,sg"}],"text":"Вечер"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"вправду","gr":"ADV="}],"text":"вправду"}
+{"analysis":[{"lex":"складываться","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"складывался"}
+{"analysis":[{"lex":"весело","gr":"ADV="}],"text":"весело"}

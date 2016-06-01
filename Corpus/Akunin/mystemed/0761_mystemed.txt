@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"оркестр","gr":"S,m,inan=acc,sg"},{"lex":"оркестр","gr":"S,m,inan=nom,sg"}],"text":"Оркестр"}
+{"analysis":[{"lex":"грянуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"грянул"}
+{"analysis":[{"lex":"торжественный","gr":"A=acc,sg,plen,m,inan"},{"lex":"торжественный","gr":"A=nom,sg,plen,m"}],"text":"торжественный"}
+{"analysis":[{"lex":"преображенский","gr":"A=acc,sg,plen,m,inan"},{"lex":"преображенский","gr":"A=nom,sg,plen,m"}],"text":"Преображенский"}
+{"analysis":[{"lex":"марш","gr":"S,m,inan=acc,sg"},{"lex":"марш","gr":"S,m,inan=nom,sg"}],"text":"марш"}

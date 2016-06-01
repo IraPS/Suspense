@@ -1,0 +1,40 @@
+1	В	В	PR	PR	PR	3	обст	_	_
+2	ушах	УХО	S	S n inan loc pl	S n inan loc pl	1	предл	_	_
+3	звенело	ЗВЕНЕТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	от	ОТ	PR	PR	PR	3	1-компл	_	_
+5	выстрелов	ВЫСТРЕЛ	S	S m inan gen pl	S m inan gen pl	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	успела	УСПЕВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	ни	НИ	CONJ	CONJ	CONJ	7	соотнос	_	_
+5	вскрикнуть	ВСКРИКИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	ни	НИ	CONJ	CONJ	CONJ	5	сочин	_	_
+8	испугаться	ИСПУГАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	7	соч-союзн	_	_
+9	–	–	–	–	PUNC	10	опред	_	_
+10	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	8	1-компл	_	_
+11	'	'	_	_	PUNC	10	PUNC	_	_
+12	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	3	вводн	_	_
+13	протянул	ПРОТЯГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+14	левую	ЛЕВЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	15	опред	_	_
+15	руку	РУКА	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	цепко	ЦЕПКО	ADV	ADV -	ADV -	18	обст	_	_
+18	схватил	СХВАТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	сочин	_	_
+19	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	18	1-компл	_	_
+20	за	ЗА	PR	PR	PR	18	2-компл	_	_
+21	локоть	ЛОКОТЬ	S	S m inan acc sg	S m inan acc sg	20	предл	_	_
+22	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+23	притянул	ПРИТЯГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	22	соч-союзн	_	_
+24	к	К	PR	PR	PR	23	2-компл	_	_
+25	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	24	предл	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	закрывшись	ЗАКРЫВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	23	обст	_	_
+28	ею	ОНА	SPRO	SPRO sg 3p f ins	SPRO sg 3p f ins	27	1-компл	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	как	КАК	CONJ	CONJ	CONJ	27	сравнит	_	_
+31	щитом	ЩИТ	S	S m inan ins sg	S m inan ins sg	30	сравн-союзн	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

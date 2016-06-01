@@ -1,0 +1,84 @@
+1	В	В	PR	PR	PR	5	обст	_	_
+2	ресторан	РЕСТОРАН	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	предик	_	_
+4	ужасно	УЖАСНО	ADV	ADV -	ADV -	5	обст	_	_
+5	опоздала	ОПАЗДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Условилась	УСЛАВЛИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+2	с	С	PR	PR	PR	1	2-компл	_	_
+3	Маклафлином	МАКЛАФЛИН	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	на	НА	PR	PR	PR	1	1-компл	_	_
+5	семь	СЕМЬ	NUM	NUM acc - -	NUM acc - -	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	1	сочин	_	_
+8	появилась	ПОЯВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+9	в	В	PR	PR	PR	8	обст	_	_
+10	девятом	ДЕВЯТЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	«	«	_	_	PUNC	3	PUNC	_	_
+3	Дейли	ДЕЙЛИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	1	аппоз	_	_
+4	пост	ПОСТ	S	S m inan acc sg	S m inan acc sg	13	1-компл	_	_
+5	»	»	_	_	PUNC	4	PUNC	_	_
+6	,	,	,	,	PUNC	4	PUNC	_	_
+7	будучи	БЫТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	обст	_	_
+8	истинным	ИСТИННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	9	опред	_	_
+9	джентльменом	ДЖЕНТЛЬМЕН	S	S m anim ins sg	S m anim ins sg	7	присвяз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	на	НА	PR	PR	PR	13	вводн	_	_
+12	рандеву	РАНДЕВУ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	11	предл	_	_
+13	безропотно	БЕЗРОПОТНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+14	согласился	СОГЛАШАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	предик	_	_
+15	(	(	_	_	PUNC	16	PUNC	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	идти	ИДТИ	V	V ipf - - inf - -	V ipf - - inf - -	14	1-компл	_	_
+18	же	ЖЕ	PART	PART	PART	17	огранич	_	_
+19	в	В	PR	PR	PR	17	2-компл	_	_
+20	ресторан	РЕСТОРАН	S	S m inan acc sg	S m inan acc sg	19	предл	_	_
+21	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	22	количест	_	_
+22	–	–	–	–	PUNC	24	предик	_	_
+23	еще	ЕЩЕ	ADV	ADV -	ADV -	24	огранич	_	_
+24	сочтут	СЧЕСТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	13	сент-соч	_	_
+25	за	ЗА	PR	PR	PR	24	2-компл	_	_
+26	кокотку	КОКОТКА	S	S f inan acc sg	S f inan acc sg	25	предл	_	_
+27	)	)	_	_	PUNC	26	PUNC	_	_
+28	,	,	,	,	PUNC	26	PUNC	_	_
+29	да	ДА	CONJ	CONJ	CONJ	24	сент-соч	_	_
+30	и	И	CONJ	CONJ	CONJ	35	соотнос	_	_
+31	за	ЗА	PR	PR	PR	34	обст	_	_
+32	опоздание	ОПОЗДАНИЕ	S	S n inan acc sg	S n inan acc sg	31	предл	_	_
+33	не	НЕ	PART	PART	PART	34	огранич	_	_
+34	упрекнул	УПРЕКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	29	соч-союзн	_	_
+35	ни	НИ	CONJ	CONJ	CONJ	34	сочин	_	_
+36	единым	ЕДИНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	37	количест	_	_
+37	словом	СЛОВО	S	S n inan ins sg	S n inan ins sg	35	соч-союзн	_	_
+38	,	,	,	,	PUNC	37	PUNC	_	_
+39	но	НО	CONJ	CONJ	CONJ	37	сент-соч	_	_
+40	вид	ВИД	S	S m inan nom sg	S m inan nom sg	41	предик	_	_
+41	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	39	соч-союзн	_	_
+42	глубоко	ГЛУБОКО	ADV	ADV -	ADV -	43	огранич	_	_
+43	несчастный	НЕСЧАСТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	41	присвяз	_	_
+44	.	.	SENT	SENT	SENT	43	PUNC	_	_
+
+1	Ничего	НИЧТО	S	S n - gen sg	S n - gen sg	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	долг	ДОЛГ	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+4	платежом	ПЛАТЕЖ	S	S m inan ins sg	S m inan ins sg	5	1-компл	_	_
+5	красен	КРАСНЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Мучил	МУЧИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	предик	_	_
+2	всю	ВЕСЬ	A	A - acc sg plen f -	A - acc sg plen f -	3	опред	_	_
+3	дорогу	ДОРОГА	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+4	своими	СВОЙ	A	A - ins pl plen - -	A - ins pl plen - -	6	опред	_	_
+5	метеорологическими	МЕТЕОРОЛОГИЧЕСКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	6	опред	_	_
+6	познаниями	ПОЗНАНИЕ	S	S n inan ins pl	S n inan ins pl	1	2-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	11	обст	_	_
+9	пускай	ПУСКАЙ	PART	PART	PART	11	огранич	_	_
+10	пользу	ПОЛЬЗА	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+11	приносит	ПРИНОСИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

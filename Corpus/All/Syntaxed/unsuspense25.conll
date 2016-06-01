@@ -1,0 +1,208 @@
+1	Как	КАК	ADV	ADV -	ADV -	3	огранич	_	_
+2	и	И	CONJ	CONJ	CONJ	3	соотнос	_	_
+3	другие	ДРУГОЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	длительн	_	_
+4	из	ИЗ	PR	PR	PR	3	электив	_	_
+5	наших	НАШ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	детей	РЕБЕНОК	S	S m anim gen pl	S m anim gen pl	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+9	перед	ПЕРЕД	PR	PR	PR	11	обст	_	_
+10	праздниками	ПРАЗДНИК	S	S m inan ins pl	S m inan ins pl	9	предл	_	_
+11	ходил	ХОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+12	ко	КО	PR	PR	PR	11	обст	_	_
+13	всенощной	ВСЕНОЩНАЯ	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	утром	УТРО	S	S n inan ins sg	S n inan ins sg	14	соч-союзн	_	_
+16	к	К	PR	PR	PR	11	обст	_	_
+17	литургии	ЛИТУРГИЯ	S	S f inan loc sg	S f inan loc sg	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	причащаясь	ПРИЧАЩАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	11	обст	_	_
+20	обычно	ОБЫЧНО	ADV	ADV -	ADV -	22	огранич	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	реже	РЕДКО	ADV	ADV comp	ADV comp	19	обст	_	_
+23	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	24	количест	_	_
+24	раза	РАЗ	S	S m inan gen sg	S m inan gen sg	22	сравнит	_	_
+25	в	В	PR	PR	PR	24	распред	_	_
+26	месяц	МЕСЯЦ	S	S m inan acc sg	S m inan acc sg	25	предл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	если	ЕСЛИ	CONJ	CONJ	CONJ	21	обст	_	_
+3	в	В	PR	PR	PR	6	обст	_	_
+4	детстве	ДЕТСТВО	S	S n inan loc sg	S n inan loc sg	3	предл	_	_
+5	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	6	предик	_	_
+6	делал	ДЕЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	подч-союзн	_	_
+7	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	8	опред	_	_
+8	это	ЭТО	S	S n - nom sg	S n - nom sg	6	1-компл	_	_
+9	из	ИЗ	PR	PR	PR	6	2-компл	_	_
+10	послушания	ПОСЛУШАНИЕ	S	S n inan gen sg	S n inan gen sg	9	предл	_	_
+11	(	(	_	_	PUNC	12	PUNC	_	_
+12	хотя	ХОТЯ	CONJ	CONJ	CONJ	10	примыкат	_	_
+13	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+14	охотно	ОХОТНО	ADV	ADV -	ADV -	13	соч-союзн	_	_
+15	)	)	_	_	PUNC	14	PUNC	_	_
+16	,	,	,	,	PUNC	14	PUNC	_	_
+17	то	ТО	CONJ	CONJ	CONJ	2	соотнос	_	_
+18	юношей	ЮНОША	S	S m anim ins sg	S m anim ins sg	21	обст	_	_
+19	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	21	предик	_	_
+20	глубоко	ГЛУБОКО	ADV	ADV -	ADV -	21	обст	_	_
+21	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+22	понимать	ПОНИМАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	21	1-компл	_	_
+23	секрет	СЕКРЕТ	S	S m inan acc sg	S m inan acc sg	22	1-компл	_	_
+24	успеха	УСПЕХ	S	S m inan gen sg	S m inan gen sg	23	1-компл	_	_
+25	во	ВО	PR	PR	PR	23	атриб	_	_
+26	всех	ВЕСЬ	A	A - loc pl plen - -	A - loc pl plen - -	28	опред	_	_
+27	жизненных	ЖИЗНЕННЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	28	опред	_	_
+28	делах	ДЕЛО	S	S n inan loc pl	S n inan loc pl	25	предл	_	_
+29	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+30	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	29	соч-союзн	_	_
+31	усиленно	УСИЛЕННО	ADV	ADV -	ADV -	32	обст	_	_
+32	молиться	МОЛИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	30	1-компл	_	_
+33	и	И	CONJ	CONJ	CONJ	32	сочин	_	_
+34	искать	ИСКАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	33	соч-союзн	_	_
+35	помощи	ПОМОЩЬ	S	S f inan gen sg	S f inan gen sg	34	1-компл	_	_
+36	у	У	PR	PR	PR	34	2-компл	_	_
+37	Бога	БОГ	S	S m anim gen sg	S m anim gen sg	36	предл	_	_
+38	,	,	,	,	PUNC	37	PUNC	_	_
+39	когда	КОГДА	CONJ	CONJ	CONJ	34	обст	_	_
+40	в	В	PR	PR	PR	42	обст	_	_
+41	этом	ЭТО	S	S n - loc sg	S n - loc sg	40	предл	_	_
+42	чувствовал	ЧУВСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	39	подч-союзн	_	_
+43	нужду	НУЖДА	S	S f inan acc sg	S f inan acc sg	42	1-компл	_	_
+44	.	.	SENT	SENT	SENT	43	PUNC	_	_
+
+1	Больше	МНОГО	ADV	ADV comp	ADV comp	4	обст	_	_
+2	всего	ВСЕ	S	S n - gen sg	S n - gen sg	4	1-компл	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	любил	ЛЮБИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	читать	ЧИТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+6	акафист	АКАФИСТ	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+7	своему	СВОЙ	A	A - dat sg plen m -	A - dat sg plen m -	8	опред	_	_
+8	Ангелу	АНГЕЛ	S	S m anim dat sg	S m anim dat sg	5	2-компл	_	_
+9	–	–	–	–	PUNC	5	1-компл	_	_
+10	Святителю	СВЯТИТЕЛЬ	S	S f inan nom sg	S f inan nom sg	4	разъяснит	_	_
+11	Николаю	НИКОЛАЙ	S	S m anim dat sg	S m anim dat sg	10	1-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+13	знал	ЗНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	соч-союзн	_	_
+14	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	13	1-компл	_	_
+15	наизусть	НАИЗУСТЬ	ADV	ADV -	ADV -	13	обст	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Как	КАК	ADV	ADV -	ADV -	5	вводн	_	_
+2	правило	ПРАВИЛО	S	S n inan nom sg	S n inan nom sg	1	сравн-союзн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+5	прочитывал	ПРОЧИТЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	5	1-компл	_	_
+7	перед	ПЕРЕД	PR	PR	PR	5	обст	_	_
+8	каждым	КАЖДЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	7	предл	_	_
+9	из	ИЗ	PR	PR	PR	8	электив	_	_
+10	своих	СВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	11	опред	_	_
+11	экзаменов	ЭКЗАМЕН	S	S m inan gen pl	S m inan gen pl	9	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	К	К	PR	PR	PR	4	обст	_	_
+2	молитве	МОЛИТВА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	относился	ОТНОСИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	очень	ОЧЕНЬ	ADV	ADV -	ADV -	6	огранич	_	_
+6	серьезно	СЕРЬЕЗНЫЙ	A	A - - sg brev n -	A - - sg brev n -	4	1-компл	_	_
+7	:	:	:	:	PUNC	11	1-компл	_	_
+8	между прочим	между прочим	ADV	ADV -	-	11	обст	_	_
+9	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	11	предик	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	допускал	ДОПУСКАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	предик	_	_
+12	небрежности	НЕБРЕЖНОСТЬ	S	S f inan gen sg	S f inan gen sg	11	1-компл	_	_
+13	в	В	PR	PR	PR	11	2-компл	_	_
+14	одежде	ОДЕЖДА	S	S f inan loc sg	S f inan loc sg	13	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	когда	КОГДА	CONJ	CONJ	CONJ	11	обст	_	_
+17	стоял	СТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	подч-союзн	_	_
+18	на	НА	PR	PR	PR	17	1-компл	_	_
+19	молитве	МОЛИТВА	S	S f inan loc sg	S f inan loc sg	18	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Будучи	БЫТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	обст	_	_
+2	юношей	ЮНОША	S	S m anim gen pl	S m anim gen pl	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	когда	КОГДА	CONJ	CONJ	CONJ	1	обст	_	_
+5	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	6	1-компл	_	_
+6	звали	ЗВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	4	подч-союзн	_	_
+7	молиться	МОЛИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	6	2-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	10	предик	_	_
+10	надевал	НАДЕВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+11	на	НА	PR	PR	PR	10	1-компл	_	_
+12	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	11	предл	_	_
+13	обувь	ОБУВЬ	S	S f inan nom sg	S f inan nom sg	10	разъяснит	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	пояс	ПОЯС	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+16	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+17	приводил	ПРИВОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	соч-союзн	_	_
+18	в	В	PR	PR	PR	17	2-компл	_	_
+19	порядок	ПОРЯДОК	S	S m inan acc sg	S m inan acc sg	18	предл	_	_
+20	свой	СВОЙ	A	A - nom sg plen m -	A - nom sg plen m -	21	опред	_	_
+21	костюм	КОСТЮМ	S	S m inan nom sg	S m inan nom sg	19	аппоз	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Из	ИЗ	PR	PR	PR	8	1-компл	_	_
+2	повседневных	ПОВСЕДНЕВНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	3	опред	_	_
+3	молитв	МОЛИТВА	S	S f inan gen pl	S f inan gen pl	1	предл	_	_
+4	Колюшиному	КОЛЮШИНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	5	опред	_	_
+5	сердцу	СЕРДЦЕ	S	S n inan dat sg	S n inan dat sg	7	1-компл	_	_
+6	особо	ОСОБО	ADV	ADV -	ADV -	7	огранич	_	_
+7	близки	БЛИЗКИЙ	A	A - - pl brev - -	A - - pl brev - -	3	квазиагент	_	_
+8	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+9	«	«	_	_	PUNC	10	PUNC	_	_
+10	Царю	ЦАРЬ	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+11	Небесный	НЕБЕСНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	опред	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+14	кондак	КОНДАК	S	S m inan acc sg	S m inan acc sg	13	соч-союзн	_	_
+15	Богородице	БОГОРОДИЦА	S	S f anim loc sg	S f anim loc sg	10	квазиагент	_	_
+16	«	«	_	_	PUNC	15	PUNC	_	_
+17	Взбранной	ВЗБРАННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	18	опред	_	_
+18	Воеводе	ВОЕВОДА	S	S f inan nom sg	S f inan nom sg	10	сочин	_	_
+19	победительная...	ПОБЕДИТЕЛЬНЫЙ...	A	A comp2 - - plen - -	A comp2 - - plen - -	18	атриб	_	_
+20	»	»	_	_	PUNC	19	PUNC	_	_
+21	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+2	никогда	НИКОГДА	ADV	ADV -	ADV -	4	обст	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	уходил	УХОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	с	С	PR	PR	PR	4	1-компл	_	_
+6	праздничного	ПРАЗДНИЧНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	8	опред	_	_
+7	всенощного	ВСЕНОЩНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	8	опред	_	_
+8	бдения	БДЕНИЕ	S	S n inan gen sg	S n inan gen sg	5	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	выслушав	ВЫСЛУШИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	4	обст	_	_
+12	этого	ЭТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	13	опред	_	_
+13	песнопения	ПЕСНОПЕНИЕ	S	S n inan acc pl	S n inan acc pl	11	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	которое	КОТОРЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	17	1-компл	_	_
+16	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	17	предик	_	_
+17	называл	НАЗЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сочин	_	_
+18	«	«	_	_	PUNC	17	PUNC	_	_
+19	гимном	ГИМН	S	S m inan ins sg	S m inan ins sg	17	сочин	_	_
+20	Богоматери	БОГОМАТЕРЬ	S	S f anim gen sg	S f anim gen sg	19	квазиагент	_	_
+21	»	»	_	_	PUNC	20	PUNC	_	_
+22	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	любил	ЛЮБИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	вычурного	ВЫЧУРНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	6	опред	_	_
+5	хорового	ХОРОВОЙ	A	A - gen sg plen n -	A - gen sg plen n -	6	опред	_	_
+6	пения	ПЕНИЕ	S	S n inan gen sg	S n inan gen sg	3	1-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+8	очень	ОЧЕНЬ	ADV	ADV -	ADV -	9	огранич	_	_
+9	ценил	ЦЕНИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	соч-союзн	_	_
+10	общее	ОБЩИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	11	опред	_	_
+11	пение	ПЕНИЕ	S	S n inan acc sg	S n inan acc sg	9	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	всею	ВЕСЬ	A	A - ins sg plen f -	A - ins sg plen f -	14	опред	_	_
+14	церковью	ЦЕРКОВЬ	S	S f inan ins sg	S f inan ins sg	9	обст	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

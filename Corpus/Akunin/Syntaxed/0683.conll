@@ -1,0 +1,174 @@
+1	Докладываю	ДОКЛАДЫВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+4	за	ЗА	PR	PR	PR	22	обст	_	_
+5	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	4	предл	_	_
+6	службы	СЛУЖБА	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+7	в	В	PR	PR	PR	4	уточн	_	_
+8	Тифлисском	ТИФЛИССКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	10	опред	_	_
+9	жандармском	ЖАНДАРМСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	10	опред	_	_
+10	управлении	УПРАВЛЕНИЕ	S	S n inan loc sg	S n inan loc sg	7	предл	_	_
+11	с	С	PR	PR	PR	10	1-компл	_	_
+12	января	ЯНВАРЬ	S	S m inan gen sg	S m inan gen sg	11	предл	_	_
+13	1872	1872	NUM	NUM - - -	NUM - - -	14	опред	_	_
+14	г.	Г.	S	S - - nonflex nonflex	S - - nonflex nonflex	12	атриб	_	_
+15	по	ПО	PR	PR	PR	22	обст	_	_
+16	сентябрь	СЕНТЯБРЬ	S	S m inan acc sg	S m inan acc sg	15	предл	_	_
+17	1876	1876	NUM	NUM - - -	NUM - - -	18	опред	_	_
+18	г.	Г.	S	S m inan nonflex nonflex	S m inan nonflex nonflex	16	квазиагент	_	_
+19	подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	22	предик	_	_
+20	Иван	ИВАН	S	S m anim nom sg	S m anim nom sg	19	аппоз	_	_
+21	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	20	аппоз	_	_
+22	проявил	ПРОЯВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	подч-союзн	_	_
+23	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	22	1-компл	_	_
+24	дельным	ДЕЛЬНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	22	2-компл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	энергичным	ЭНЕРГИЧНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	24	сочин	_	_
+27	работником	РАБОТНИК	S	S m anim ins sg	S m anim ins sg	22	1-компл	_	_
+28	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+29	официальных	ОФИЦИАЛЬНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	30	опред	_	_
+30	взысканий	ВЗЫСКАНИЕ	S	S n inan gen pl	S n inan gen pl	28	соч-союзн	_	_
+31	не	НЕ	PART	PART	PART	32	огранич	_	_
+32	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	22	сочин	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	Напротив	НАПРОТИВ	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	получил	ПОЛУЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	по	ПО	PR	PR	PR	3	обст	_	_
+5	выслуге	ВЫСЛУГА	S	S f inan dat sg	S f inan dat sg	4	предл	_	_
+6	орден	ОРДЕН	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+7	Св	СВ	NONLEX	NONLEX	NONLEX	6	аппоз	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Станислава	СТАНИСЛАВА	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+2	3	3	NUM	NUM - - -	NUM - - -	3	количест	_	_
+3	степени	СТЕПЕНЬ	S	S f inan gen sg	S f inan gen sg	1	1-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+5	две	ДВА	NUM	NUM nom f -	NUM nom f -	6	количест	_	_
+6	благодарности	БЛАГОДАРНОСТЬ	S	S f inan gen sg	S f inan gen sg	4	соч-союзн	_	_
+7	от	ОТ	PR	PR	PR	1	атриб	_	_
+8	Е.	Е.	S	S - - nonflex nonflex	S - - nonflex nonflex	10	опред	_	_
+9	И.	И.	S	S - - nonflex nonflex	S - - nonflex nonflex	10	опред	_	_
+10	Высочества	ВЫСОЧЕСТВО	S	S n inan acc pl	S n inan acc pl	7	предл	_	_
+11	кавказского	КАВКАЗСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	наместника	НАМЕСТНИК	S	S m anim gen sg	S m anim gen sg	10	квазиагент	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	согласно	СОГЛАСНО	PR	PR	PR	11	обст	_	_
+4	поступившей	ПОСТУПАТЬ	PARTCP	PARTCP pf praet loc sg plen f act -	PARTCP pf praet loc sg plen f act -	5	опред	_	_
+5	летом	ЛЕТО	S	S n inan ins sg	S n inan ins sg	3	предл	_	_
+6	1876	1876	NUM	NUM - - -	NUM - - -	7	опред	_	_
+7	г.	Г.	S	S - - nonflex nonflex	S - - nonflex nonflex	11	обст	_	_
+8	агентурной	АГЕНТУРНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	11	предик	_	_
+9	информации	ИНФОРМАЦИЯ	S	S f inan gen sg	S f inan gen sg	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	подч-союзн	_	_
+12	странные	СТРАННЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	13	опред	_	_
+13	пристрастия	ПРИСТРАСТИЕ	S	S n inan acc pl	S n inan acc pl	11	1-компл	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+15	якобы	ЯКОБЫ	PART	PART	PART	17	огранич	_	_
+16	даже	ДАЖЕ	PART	PART	PART	17	огранич	_	_
+17	состоял	СОСТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	14	соч-союзн	_	_
+18	в	В	PR	PR	PR	17	1-компл	_	_
+19	противоестественной	ПРОТИВОЕСТЕСТВЕННЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	20	опред	_	_
+20	связи	СВЯЗЬ	S	S f inan loc2 sg	S f inan loc2 sg	18	предл	_	_
+21	с	С	PR	PR	PR	20	1-компл	_	_
+22	известным	ИЗВЕСТНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	24	опред	_	_
+23	тифлисским	ТИФЛИССКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	24	опред	_	_
+24	педерастом	ПЕДЕРАСТ	S	S m anim ins sg	S m anim ins sg	21	предл	_	_
+25	князем	КНЯЗЬ	S	S m anim ins sg	S m anim ins sg	24	аппоз	_	_
+26	Виссарионом	ВИССАРИОН	S	S m anim ins sg	S m anim ins sg	25	аппоз	_	_
+27	Шаликовым	ШАЛИКОВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	31	опред	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	по	ПО	PR	PR	PR	31	вводн	_	_
+30	прозвищу	ПРОЗВИЩЕ	S	S n inan dat sg	S n inan dat sg	29	предл	_	_
+31	Шалун	ШАЛУН	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+32	Бесо	БЕСО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	31	аппоз	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+2	бы	БЫ	PART	PART	PART	4	аналит	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	придал	ПРИДАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	значения	ЗНАЧЕНИЕ	S	S n inan gen sg	S n inan gen sg	4	1-компл	_	_
+6	подобным	ПОДОБНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	7	опред	_	_
+7	сплетням	СПЛЕТНЯ	S	S f inan dat pl	S f inan dat pl	4	2-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	подтвержденным	ПОДТВЕРЖДАТЬ	PARTCP	PARTCP pf praet dat pl plen - pass -	PARTCP pf praet dat pl plen - pass -	7	опред	_	_
+11	доказательствами	ДОКАЗАТЕЛЬСТВО	S	S n inan ins pl	S n inan ins pl	10	2-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	однако	ОДНАКО	CONJ	CONJ	CONJ	4	1-компл	_	_
+14	с	С	PR	PR	PR	16	обст	_	_
+15	учетом	УЧЕТ	S	S m inan loc sg	S m inan loc sg	14	предл	_	_
+16	того	ТО	S	S n - gen sg	S n - gen sg	32	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	что	ЧТО	CONJ	CONJ	CONJ	16	эксплет	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	невзирая на	невзирая на	PR	PR	ZERO	25	обст	_	_
+21	зрелый	ЗРЕЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	22	опред	_	_
+22	возраст	ВОЗРАСТ	S	S m inan nom sg	S m inan nom sg	20	предл	_	_
+23	подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	25	предик	_	_
+24	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	23	аппоз	_	_
+25	холост	ХОЛОСТОЙ	A	A - - sg brev m -	A - - sg brev m -	18	подч-союзн	_	_
+26	и	И	CONJ	CONJ	CONJ	27	соотнос	_	_
+27	в	В	PR	PR	PR	25	1-компл	_	_
+28	связях	СВЯЗЬ	S	S f inan loc pl	S f inan loc pl	27	предл	_	_
+29	с	С	PR	PR	PR	28	атриб	_	_
+30	женщинами	ЖЕНЩИНА	S	S f anim ins pl	S f anim ins pl	29	предл	_	_
+31	не	НЕ	PART	PART	PART	32	огранич	_	_
+32	замечался	ЗАМЕЧАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	13	подч-союзн	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	решил	РЕШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сочин	_	_
+35	провести	ПРОВОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	34	1-компл	_	_
+36	секретное	СЕКРЕТНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	37	2-компл	_	_
+37	внутреннее	ВНУТРЕННИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	35	1-компл	_	_
+38	расследование	РАССЛЕДОВАНИЕ	S	S n inan acc sg	S n inan acc sg	37	1-компл	_	_
+39	.	.	SENT	SENT	SENT	38	PUNC	_	_
+
+1	Удалось	УДАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+2	установить	УСТАНАВЛИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	с	С	PR	PR	PR	12	обст	_	_
+6	Шалуном	ШАЛУН	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+8	Казанзаки	КАЗАНЗАК	S	S m anim nom pl	S m anim nom pl	7	аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	действительно	ДЕЙСТВИТЕЛЬНО	ADV	ADV -	ADV -	12	вводн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	знаком	ЗНАКОМЫЙ	A	A - - sg brev m -	A - - sg brev m -	4	подч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	однако	ОДНАКО	CONJ	CONJ	CONJ	1	сент-соч	_	_
+15	факт	ФАКТ	S	S m inan nom sg	S m inan nom sg	19	предик	_	_
+16	интимных	ИНТИМНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	17	опред	_	_
+17	отношений	ОТНОШЕНИЕ	S	S n inan gen pl	S n inan gen pl	15	1-компл	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	подтвержден	ПОДТВЕРЖДАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	14	соч-союзн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Все же	Все же	PART	PART	ZERO	3	огранич	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	почел	ПОЧИТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	за	ЗА	PR	PR	PR	3	обст	_	_
+5	благо	БЛАГО	S	S n inan acc sg	S n inan acc sg	4	предл	_	_
+6	ходатайствовать	ХОДАТАЙСТВОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+7	о	О	PR	PR	PR	6	1-компл	_	_
+8	переводе	ПЕРЕВОД	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+9	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	8	квазиагент	_	_
+10	Казанзаки	КАЗАНЗАК	S	S m anim gen sg	S m anim gen sg	9	аппоз	_	_
+11	в	В	PR	PR	PR	6	2-компл	_	_
+12	другое	ДРУГОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	11	предл	_	_
+13	управление	УПРАВЛЕНИЕ	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+14	без	БЕЗ	PR	PR	PR	6	обст	_	_
+15	каких-либо	КАКОЙ-ЛИБО	A	A - gen pl plen - -	A - gen pl plen - -	16	опред	_	_
+16	последствий	ПОСЛЕДСТВИЕ	S	S n inan gen pl	S n inan gen pl	14	предл	_	_
+17	для	ДЛЯ	PR	PR	PR	16	атриб	_	_
+18	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	20	квазиагент	_	_
+19	послужного	ПОСЛУЖНОЙ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+20	списка	СПИСОК	S	S m inan gen sg	S m inan gen sg	17	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"подполковник","gr":"S,m,anim=nom,sg"}],"text":"Подполковник"}
+{"analysis":[{"lex":"немедленно","gr":"ADV="}],"text":"немедленно"}
+{"analysis":[{"lex":"зашифровывать","gr":"V=inf,pf"}],"text":"зашифровать"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"отправлять","gr":"V,tran=inf,pf"}],"text":"отправить"}
+{"analysis":[{"lex":"криденера","qual":"bastard","gr":"S,persn,f,anim=acc,sg"}],"text":"Криденеру"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"телеграф","gr":"S,m,inan=dat,sg"}],"text":"телеграфу"}
+{"analysis":[{"lex":"приказывать","gr":"V=praet,sg,indic,m,pf"}],"text":"приказал"}
+{"analysis":[{"lex":"мизин","qual":"bastard","gr":"S,m,inan=gen,pl"}],"text":"Мизинов"}

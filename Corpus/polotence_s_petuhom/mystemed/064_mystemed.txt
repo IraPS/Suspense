@@ -1,0 +1,1 @@
+{"analysis":[{"lex":"кто","gr":"SPRO,sg,m,anim=nom"}],"text":"Кто"}

@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"иван","gr":"S,persn,m,anim=nom,sg"}],"text":"Иван"}
+{"analysis":[{"lex":"африканович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Африканович"}
+{"analysis":[{"lex":"сникать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"сник"}
+{"analysis":[{"lex":"замалчивать","gr":"V=praet,sg,indic,m,pf"}],"text":"замолчал"}
+{"analysis":[{"lex":"степановна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Степановна"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"нюшка","gr":"S,persn,f,anim=ins,sg"}],"text":"Нюшкой"}
+{"analysis":[{"lex":"постоять","gr":"V,pf,intr=praet,pl,indic"}],"text":"постояли"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"ворота","gr":"S,pl,inan=gen"}],"text":"ворот"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"уходить","gr":"V,intr=praet,pl,indic,pf"}],"text":"ушли"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"а"}
+{"analysis":[{"lex":"они","gr":"SPRO,pl=nom"}],"text":"они"}
+{"analysis":[{"lex":"двинуться","gr":"V,pf,intr=praet,pl,indic"}],"text":"двинулись"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"дорога","gr":"S,f,inan=abl,sg"},{"lex":"дорога","gr":"S,f,inan=dat,sg"}],"text":"дороге"}

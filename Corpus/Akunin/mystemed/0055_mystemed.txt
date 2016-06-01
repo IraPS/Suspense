@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"толстяк","gr":"S,m,anim=nom,sg"}],"text":"Толстяк"}
+{"analysis":[{"lex":"тоже","gr":"PART="}],"text":"тоже"}
+{"analysis":[{"lex":"вскакивать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"вскочил"}
+{"analysis":[{"lex":"схватывать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"схватил"}
+{"analysis":[{"lex":"волонтер","gr":"S,m,anim=acc,sg"},{"lex":"волонтер","gr":"S,m,anim=gen,sg"}],"text":"волонтера"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"рукав","gr":"S,m,inan=acc,sg"},{"lex":"рукав","gr":"S,m,inan=nom,sg"}],"text":"рукав"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"быстро","gr":"ADV="}],"text":"быстро"}
+{"analysis":[{"lex":"заговаривать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"заговорил"}
+{"analysis":[{"lex":"что-то","gr":"SPRO,sg,n,inan=acc"},{"lex":"что-то","gr":"SPRO,sg,n,inan=nom"}],"text":"что-то"}
+{"analysis":[{"lex":"отчаянно","gr":"ADV="}],"text":"отчаянно"}
+{"analysis":[{"lex":"пучить","gr":"V,ipf,tran=inpraes,ger"}],"text":"пуча"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=acc,pl"},{"lex":"глаз","gr":"S,m,inan=gen,sg"},{"lex":"глаз","gr":"S,m,inan=nom,pl"}],"text":"глаза"}

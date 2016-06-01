@@ -1,0 +1,71 @@
+1	Полгода	ПОЛГОДА	S	S m inan acc pl	S m inan acc pl	2	предл	_	_
+2	спустя	СПУСТЯ	PR	PR	PR	7	обст	_	_
+3	пароход	ПАРОХОД	S	S m inan acc sg	S m inan acc sg	2	аппрокс-колич	_	_
+4	«	«	_	_	PUNC	5	PUNC	_	_
+5	Адрианополь	АДРИАНОПОЛЬ	S	S m inan acc sg	S m inan acc sg	3	примыкат	_	_
+6	»	»	_	_	PUNC	5	PUNC	_	_
+7	напоролся	НАПАРЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	на	НА	PR	PR	PR	7	1-компл	_	_
+9	скалу	СКАЛА	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	в	В	PR	PR	PR	7	обст	_	_
+11	Термаикосском	ТЕРМАИКОССКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	12	опред	_	_
+12	заливе	ЗАЛИВ	S	S m inan loc sg	S m inan loc sg	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	плыл	ПЛЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	до	ДО	PR	PR	PR	2	1-компл	_	_
+4	берега	БЕРЕГ	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	8	количест	_	_
+6	с	С	PR	PR	PR	5	атриб	_	_
+7	половиной	ПОЛОВИНА	S	S f inan ins sg	S f inan ins sg	6	предл	_	_
+8	лье	ЛЬЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	2	длительн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Сапоги	САПОГ	S	S m inan nom pl	S m inan nom pl	2	предик	_	_
+2	тянули	ТЯНУТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	2	1-компл	_	_
+4	ко	КО	PR	PR	PR	2	обст	_	_
+5	дну	ДНО	S	S n inan dat sg	S n inan dat sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+9	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	11	1-компл	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	сбросил	СБРОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	знал	ЗНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	это	ЭТО	S	S n - nom sg	S n - nom sg	6	предик	_	_
+6	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	подч-союзн	_	_
+7	равносильно	РАВНОСИЛЬНО	ADV	ADV -	ADV -	6	обст	_	_
+8	капитуляции	КАПИТУЛЯЦИЯ	S	S f inan gen sg	S f inan gen sg	6	присвяз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+11	тогда	ТОГДА	ADV	ADV -	ADV -	14	обст	_	_
+12	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	14	1-компл	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	доплыть	ДОПЛЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	10	соч-союзн	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Сапоги	САПОГ	S	S m inan nom pl	S m inan nom pl	2	предик	_	_
+2	помогли	ПОМОГАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	5	1-компл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	сдаться	СДАВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	До	ДО	PR	PR	PR	3	обст	_	_
+2	берега	БЕРЕГ	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	добрался	ДОБИРАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+5	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	3	сент-соч	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	9	суб-копр	_	_
+8	остальные	ОСТАЛЬНОЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	предик	_	_
+9	утонули	УТОПАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	5	сент-соч	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

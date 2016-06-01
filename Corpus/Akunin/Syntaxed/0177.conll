@@ -1,0 +1,150 @@
+1	–	–	–	–	PUNC	5	предик	_	_
+2	В	В	PR	PR	PR	5	обст	_	_
+3	каком	КАКОЙ	A	A - loc sg plen m -	A - loc sg plen m -	2	предл	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	5	предик	_	_
+5	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	0	ROOT	_	_
+6	состоянии	СОСТОЯНИЕ	S	S n inan loc sg	S n inan loc sg	5	1-компл	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	хотел	ХОТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	бы	БЫ	PART	PART	PART	3	аналит	_	_
+5	принести	ПРИНОСИТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+6	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	5	1-компл	_	_
+7	свои	СВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	8	опред	_	_
+8	глубочайшие	ГЛУБОКИЙ	A	A supr nom pl plen - -	A supr nom pl plen - -	3	сочин	_	_
+9	…	…	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Не	НЕ	PART	PART	PART	3	огранич	_	_
+3	стоит	СТОИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	об	ОБ	PR	PR	PR	3	2-компл	_	_
+5	этом	ЭТО	S	S n - loc sg	S n - loc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	8	опред	_	_
+8	высокопревосходительство	ВЫСОКОПРЕВОСХОДИТЕЛЬСТВО	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	 	 	 	 	PUNC	8	опред	_	_
+11	–	–	–	–	PUNC	0	ROOT	_	_
+12	вежливо	ВЕЖЛИВО	ADV	ADV -	ADV -	11	обст	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	но	НО	CONJ	CONJ	CONJ	11	сочин	_	_
+15	решительно	РЕШИТЕЛЬНО	ADV	ADV -	ADV -	16	обст	_	_
+16	перебил	ПЕРЕБИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	соч-союзн	_	_
+17	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	–	–	–	–	PUNC	8	опред	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+3	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	8	обст	_	_
+4	в	В	PR	PR	PR	8	обст	_	_
+5	совершенном	СОВЕРШЕННЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	6	опред	_	_
+6	п	П	S	S n inan nonflex nonflex	S n inan nonflex nonflex	4	предл	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	порядке	ПОРЯДОК	S	S m inan loc sg	S m inan loc sg	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Лучше	ХОРОШО	ADV	ADV comp	ADV comp	2	обст	_	_
+2	скажите	СКАЗАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	передал	ПЕРЕДАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+5	ли	ЛИ	PART	PART	PART	4	огранич	_	_
+6	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	4	2-компл	_	_
+7	этот	ЭТОТ	A	A - acc sg plen m inan	A - acc sg plen m inan	8	опред	_	_
+8	г	Г	S	S - - nonflex nonflex	S - - nonflex nonflex	4	обст	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+11	(	(	_	_	PUNC	12	PUNC	_	_
+12	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	14	предик	_	_
+13	небрежно	НЕБРЕЖНО	ADV	ADV -	ADV -	14	обст	_	_
+14	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сент-соч	_	_
+15	на	НА	PR	PR	PR	14	2-компл	_	_
+16	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	15	предл	_	_
+17	)	)	_	_	PUNC	16	PUNC	_	_
+18	про	ПРО	PR	PR	PR	14	обст	_	_
+19	Плевну	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	18	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Ведь	ВЕДЬ	PART	PART	PART	0	ROOT	_	_
+2	каждый	КАЖДЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	час	ЧАС	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+4	дорог	ДОРОГА	S	S f inan gen pl	S f inan gen pl	3	квазиагент	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	PART	PART	PART	1	огранич	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	да	ДА	PART	PART	PART	1	вводн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	У	У	PR	PR	PR	0	ROOT	_	_
+2	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	1	предл	_	_
+3	с	С	PR	PR	PR	1	обст	_	_
+4	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	3	предл	_	_
+5	приказ	ПРИКАЗ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+6	главнокомандующего	ГЛАВНОКОМАНДУЮЩИЙ	S	S m anim gen sg	S m anim gen sg	5	квазиагент	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	но	НО	CONJ	CONJ	CONJ	1	сент-соч	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+10	прежде	ПРЕЖДЕ	ADV	ADV -	ADV -	11	обст	_	_
+11	желал	ЖЕЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	соч-союзн	_	_
+12	убедиться	УБЕЖДАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	что	ЧТО	CONJ	CONJ	CONJ	12	1-компл	_	_
+15	это	ЭТО	S	S n - nom sg	S n - nom sg	17	предик	_	_
+16	действительно	ДЕЙСТВИТЕЛЬНО	ADV	ADV -	ADV -	17	огранич	_	_
+17	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	14	подч-союзн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	слушайте	СЛУШАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	достал	ДОСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	из	ИЗ	PR	PR	PR	3	2-компл	_	_
+5	кармана	КАРМАН	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	листок	ЛИСТОК	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	вставил	ВСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+9	в	В	PR	PR	PR	8	2-компл	_	_
+10	глаз	ГЛАЗ	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+11	монокль	МОНОКЛЬ	S	S m inan acc sg	S m inan acc sg	8	1-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+13	прочел	ПРОЧИТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	соч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	–	–	–	–	PUNC	8	опред	_	_
+2	«	«	_	_	PUNC	1	PUNC	_	_
+3	Начальнику	НАЧАЛЬНИК	S	S m anim dat sg	S m anim dat sg	1	2-компл	_	_
+4	Западного	ЗАПАДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	отряда	ОТРЯД	S	S m inan gen sg	S m inan gen sg	3	1-компл	_	_
+6	генерал-лейтенанту	ГЕНЕРАЛ-ЛЕЙТЕНАНТ	S	S m anim dat sg	S m anim dat sg	3	аппоз	_	_
+7	барону	БАРОН	S	S m anim dat sg	S m anim dat sg	6	аппоз	_	_
+8	Криденеру	КРИДЕНЕРА	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Приказываю	ПРИКАЗЫВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	занять	ЗАНИМАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+3	Плевну	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	укрепиться	УКРЕПЛЯТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	4	соч-союзн	_	_
+6	там	ТАМ	ADV	ADV -	ADV -	5	обст	_	_
+7	силами	СИЛА	S	S f inan ins pl	S f inan ins pl	5	обст	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	менее	МЕНЕЕ	ADV	ADV -	ADV -	10	огранич	_	_
+10	дивизии	ДИВИЗИЯ	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Николай	НИКОЛАЙ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+2	»	»	_	_	PUNC	1	PUNC	_	_
+3	.	.	SENT	SENT	SENT	1	PUNC	_	_
+

@@ -1,0 +1,28 @@
+1	В	В	PR	PR	PR	5	обст	_	_
+2	следующий	СЛЕДУЮЩИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	миг	МИГ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	5	предик	_	_
+5	вылетела	ВЫЛЕТАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	из	ИЗ	PR	PR	PR	5	1-компл	_	_
+7	седла	СЕДЛО	S	S n inan gen sg	S n inan gen sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	описала	ОПИСЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	сочин	_	_
+10	в	В	PR	PR	PR	9	обст	_	_
+11	воздухе	ВОЗДУХ	S	S m inan loc sg	S m inan loc sg	10	предл	_	_
+12	дугу	ДУГА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+15	ухнулась	УХНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	соч-союзн	_	_
+16	во	ВО	PR	PR	PR	15	обст	_	_
+17	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	16	предл	_	_
+18	зеленое	ЗЕЛЕНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	мягкое	МЯГКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	18	сочин	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	хрустящее	ХРУСТЕТЬ	PARTCP	PARTCP ipf inpraes acc sg plen n act -	PARTCP ipf inpraes acc sg plen n act -	20	сочин	_	_
+23	–	–	–	–	PUNC	0	ROOT	_	_
+24	в	В	PR	PR	PR	23	2-компл	_	_
+25	придорожный	ПРИДОРОЖНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	26	опред	_	_
+26	куст	КУСТ	S	S m inan acc sg	S m inan acc sg	24	предл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

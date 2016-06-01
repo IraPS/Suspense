@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"мизин","qual":"bastard","gr":"S,m,inan=gen,pl"}],"text":"Мизинов"}
+{"analysis":[{"lex":"пробурчать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"пробурчал"}
+{"analysis":[{"lex":"ага","gr":"PART="}],"text":"Ага"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"здесь","gr":"ADVPRO="}],"text":"здесь"}
+{"text":"\\s"}
+{"analysis":[{"lex":"отлично","gr":"ADV="}],"text":"Отлично"}

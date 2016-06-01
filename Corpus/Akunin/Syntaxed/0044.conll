@@ -1,0 +1,39 @@
+1	–	–	–	–	PUNC	6	предик	_	_
+2	Зачем	ЗАЧЕМ	ADV	ADV -	ADV -	6	обст	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	6	предик	_	_
+5	тогда	ТОГДА	ADV	ADV -	ADV -	6	обст	_	_
+6	отправились	ОТПРАВЛЯТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	добровольцем	ДОБРОВОЛЕЦ	S	S m anim ins sg	S m anim ins sg	6	2-компл	_	_
+8	в	В	PR	PR	PR	6	обст	_	_
+9	Сербию	СЕРБИЯ	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	?	?	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	запальчиво	ЗАПАЛЬЧИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+3	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	предик	_	_
+4	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	Ведь	ВЕДЬ	PART	PART	PART	6	огранич	_	_
+3	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	6	2-компл	_	_
+4	никто	НИКТО	S	S m - nom sg	S m - nom sg	6	1-компл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	гнал	ГНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Из	ИЗ	PR	PR	PR	1	обст	_	_
+3	эгоистических	ЭГОИСТИЧЕСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	4	опред	_	_
+4	соображений	СООБРАЖЕНИЕ	S	S n inan gen pl	S n inan gen pl	2	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	болен	БОЛЬНОЙ	A	A - - sg brev m -	A - - sg brev m -	1	присвяз	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	нуждался	НУЖДАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	сочин	_	_
+5	в	В	PR	PR	PR	4	1-компл	_	_
+6	лечении	ЛЕЧЕНИЕ	S	S n inan loc sg	S n inan loc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

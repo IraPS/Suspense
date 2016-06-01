@@ -1,0 +1,23 @@
+1	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	вскинул	ВСКИДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	ладони	ЛАДОНЬ	S	S f inan acc pl	S f inan acc pl	2	1-компл	_	_
+4	:	:	:	:	PUNC	8	неакт-компл	_	_
+5	–	–	–	–	PUNC	8	предик	_	_
+6	Пока	ПОКА	ADV	ADV -	ADV -	8	обст	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	ударили	УДАРЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	сент-соч	_	_
+9	по	ПО	PR	PR	PR	8	1-компл	_	_
+10	рукам	РУКА	S	S f inan dat pl	S f inan dat pl	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	13	предик	_	_
+13	пас	ПАС	S	S m inan acc sg	S m inan acc sg	8	сент-соч	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Старые	СТАРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	сапоги	САПОГ	S	S m inan nom pl	S m inan nom pl	6	предик	_	_
+3	–	–	–	–	PUNC	6	обст	_	_
+4	это	ЭТО	S	S n - nom sg	S n - nom sg	6	предик	_	_
+5	уж	УЖ	PART	PART	PART	6	огранич	_	_
+6	чересчур	ЧЕРЕСЧУР	ADV	ADV -	ADV -	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

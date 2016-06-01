@@ -1,0 +1,20 @@
+1	Так	ТАК	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+4	Анна	АННА	S	S f anim nom sg	S f anim nom sg	13	предик	_	_
+5	Николаевна	НИКОЛАЕВНА	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+6	с	С	PR	PR	PR	4	атриб	_	_
+7	вспыхнувшим	ВСПЫХИВАТЬ	PARTCP	PARTCP pf praet dat pl plen - act -	PARTCP pf praet dat pl plen - act -	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	обиженным	ОБИЖЕННЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	10	опред	_	_
+10	лицом	ЛИЦО	S	S n inan ins sg	S n inan ins sg	13	обст	_	_
+11	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	13	обст	_	_
+12	же	ЖЕ	PART	PART	PART	11	огранич	_	_
+13	бросилась	БРОСАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	подч-союзн	_	_
+14	к	К	PR	PR	PR	13	2-компл	_	_
+15	столику	СТОЛИК	S	S m inan dat sg	S m inan dat sg	14	предл	_	_
+16	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+17	сломала	СЛОМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	16	соч-союзн	_	_
+18	ампулу	АМПУЛА	S	S f inan acc sg	S f inan acc sg	17	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

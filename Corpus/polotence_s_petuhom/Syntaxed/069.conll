@@ -1,0 +1,27 @@
+1	В	В	PR	PR	PR	5	обст	_	_
+2	операционной	ОПЕРАЦИОННЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	3	опред	_	_
+3	секунд	СЕКУНДА	S	S f inan gen pl	S f inan gen pl	1	предл	_	_
+4	десять	ДЕСЯТЬ	NUM	NUM acc - -	NUM acc - -	5	присвяз	_	_
+5	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	полное	ПОЛНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	7	опред	_	_
+7	молчание	МОЛЧАНИЕ	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	но	НО	CONJ	CONJ	CONJ	5	сент-соч	_	_
+10	за	ЗА	PR	PR	PR	14	обст	_	_
+11	закрытыми	ЗАКРЫТЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	12	опред	_	_
+12	дверями	ДВЕРЬ	S	S f inan ins pl	S f inan ins pl	10	предл	_	_
+13	слышно	СЛЫШНО	ADV	ADV -	ADV -	14	обст	_	_
+14	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	9	соч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	как	КАК	CONJ	CONJ	CONJ	14	сравнит	_	_
+17	глухо	ГЛУХО	ADV	ADV -	ADV -	18	обст	_	_
+18	выкрикивал	ВЫКРИКИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	сравн-союзн	_	_
+19	кто-то	КТО-ТО	S	S m - nom sg	S m - nom sg	18	1-компл	_	_
+20	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+21	бухал	БУХАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	20	соч-союзн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	все	ВСЕ	S	S - - acc pl	S - - acc pl	24	предик	_	_
+24	бухал	БУХАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	14	сент-соч	_	_
+25	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	24	1-компл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

@@ -1,0 +1,23 @@
+1	В	В	PR	PR	PR	6	обст	_	_
+2	этот	ЭТОТ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	миг	МИГ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	с	С	PR	PR	PR	6	обст	_	_
+5	лестницы	ЛЕСТНИЦА	S	S f inan gen sg	S f inan gen sg	4	предл	_	_
+6	донесся	ДОНОСИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	грохот	ГРОХОТ	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+8	множества	МНОЖЕСТВО	S	S n inan gen sg	S n inan gen sg	7	квазиагент	_	_
+9	сапог	САПОГ	S	S m inan gen pl	S m inan gen pl	8	квазиагент	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	дверь	ДВЕРЬ	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+12	распахнулась	РАСПАХИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	сент-соч	_	_
+13	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+14	вошли	ВХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	13	соч-союзн	_	_
+15	двое	ДВОЕ	NUM	NUM nom - -	NUM nom - -	16	количест	_	_
+16	:	:	:	:	PUNC	14	1-компл	_	_
+17	Лаврентий	ЛАВРЕНТИЙ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+18	Аркадьевич	АРКАДЬЕВИЧ	S	S m anim nom sg	S m anim nom sg	17	аппоз	_	_
+19	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	18	аппоз	_	_
+20	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+21	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	20	соч-союзн	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

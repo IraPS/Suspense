@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"вот","gr":"PART="}],"text":"Вот"}
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"что"}
+{"analysis":[{"lex":"значить","gr":"V,ipf,tran=inpraes,sg,indic,3p"}],"text":"значит"}
+{"analysis":[{"lex":"стоять","gr":"V,ipf,intr=inf"}],"text":"стоять"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"тяга","gr":"S,f,inan=abl,sg"},{"lex":"тяга","gr":"S,f,inan=dat,sg"}],"text":"тяге"}

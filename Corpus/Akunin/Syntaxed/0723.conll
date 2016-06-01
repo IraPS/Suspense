@@ -1,0 +1,30 @@
+1	Привязав	ПРИВЯЗЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	7	обст	_	_
+2	поводья	ПОВОД	S	S m inan acc pl	S m inan acc pl	1	1-компл	_	_
+3	к	К	PR	PR	PR	2	1-компл	_	_
+4	коляске	КОЛЯСКА	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+7	уселся	УСАЖИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	рядом	РЯДОМ	ADV	ADV -	ADV -	7	1-компл	_	_
+9	с	С	PR	PR	PR	8	1-компл	_	_
+10	Варей	ВАРЯ	S	S f anim ins sg	S f anim ins sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	13	количест	_	_
+13	пирожок	ПИРОЖОК	S	S m inan nom sg	S m inan nom sg	14	предик	_	_
+14	проглотил	ПРОГЛАТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	разъяснит	_	_
+15	целиком	ЦЕЛИКОМ	ADV	ADV -	ADV -	14	обст	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	от	ОТ	PR	PR	PR	14	1-компл	_	_
+18	второго	ВТОРОЙ	A	A - gen sg plen m -	A - gen sg plen m -	19	предик	_	_
+19	откусил	ОТКУСЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	17	предл	_	_
+20	половину	ПОЛОВИНА	S	S f inan acc sg	S f inan acc sg	19	1-компл	_	_
+21	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+22	с	С	PR	PR	PR	24	обст	_	_
+23	удовольствием	УДОВОЛЬСТВИЕ	S	S n inan ins sg	S n inan ins sg	22	предл	_	_
+24	отхлебнул	ОТХЛЕБЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	соч-союзн	_	_
+25	из	ИЗ	PR	PR	PR	24	2-компл	_	_
+26	крышечки	КРЫШЕЧКА	S	S f inan acc pl	S f inan acc pl	25	предл	_	_
+27	горячего	ГОРЯЧИЙ	A	A - gen sg plen m -	A - gen sg plen m -	28	опред	_	_
+28	кофе	КОФЕ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	26	атриб	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

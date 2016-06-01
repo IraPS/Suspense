@@ -1,0 +1,88 @@
+1	–	–	–	–	PUNC	2	предик	_	_
+2	Говорите	ГОВОРИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	поторопила	ПОТОРОПИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+4	Фандорина	ФАНДОРИН	S	S m anim acc sg	S m anim acc sg	2	разъяснит	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	с	С	PR	PR	PR	12	2-компл	_	_
+7	интересом	ИНТЕРЕС	S	S m inan ins sg	S m inan ins sg	6	предл	_	_
+8	наблюдавшего	НАБЛЮДАТЬ	PARTCP	PARTCP ipf praet acc sg plen m act anim	PARTCP ipf praet acc sg plen m act anim	7	опред	_	_
+9	за	ЗА	PR	PR	PR	8	1-компл	_	_
+10	слезинкой	СЛЕЗИНКА	S	S f inan ins sg	S f inan ins sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	4	релят	_	_
+13	медленно	МЕДЛЕННО	ADV	ADV -	ADV -	14	обст	_	_
+14	катилась	КАТИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	12	подч-союзн	_	_
+15	по	ПО	PR	PR	PR	14	обст	_	_
+16	Вариной	ВАРИНА	S	S m inan loc sg	S m inan loc sg	15	предл	_	_
+17	щеке	ЩЕКА	S	S f inan dat sg	S f inan dat sg	14	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	опред	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+3	уж	УЖ	ADV	ADV -	ADV -	4	огранич	_	_
+4	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	6	1-компл	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	простите	ПРОЩАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	0	ROOT	_	_
+7	великодушно	ВЕЛИКОДУШНО	ADV	ADV -	ADV -	6	обст	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	6	1-компл	_	_
+10	втравил	ВТРАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	подч-союзн	_	_
+11	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	10	1-компл	_	_
+12	в	В	PR	PR	PR	10	2-компл	_	_
+13	этакую	ЭТАКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	14	опред	_	_
+14	историю	ИСТОРИЯ	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	 	 	 	 	PUNC	10	1-компл	_	_
+17	–	–	–	–	PUNC	19	1-компл	_	_
+18	виновато	ВИНОВАТО	ADV	ADV -	ADV -	19	обст	_	_
+19	произнес	ПРОИЗНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	сент-соч	_	_
+20	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	19	предик	_	_
+21	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	20	аппоз	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	кратно-длительн	_	_
+2	Всякого	ВСЯКИЙ	S	S m - acc sg	S m - acc sg	3	1-компл	_	_
+3	ожидал	ОЖИДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+6	т	Т	S	S n - nonflex nonflex	S n - nonflex nonflex	0	ROOT	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	такого	ТАКОЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+9	…	…	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	PUNC	_	_
+2	Что	ЧТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+4	обнаружили	ОБНАРУЖИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	подч-союзн	_	_
+5	в	В	PR	PR	PR	4	обст	_	_
+6	бумагах	БУМАГА	S	S f inan loc pl	S f inan loc pl	5	предл	_	_
+7	Лукана	ЛУКАН	S	S m anim acc sg	S m anim acc sg	4	1-компл	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	сердито	СЕРДИТО	ADV	ADV -	ADV -	3	обст	_	_
+3	перебила	ПЕРЕБИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	чувствуя	ЧУВСТВОВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	3	обст	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	если	ЕСЛИ	CONJ	CONJ	CONJ	20	обст	_	_
+11	разговор	РАЗГОВОР	S	S m inan nom sg	S m inan nom sg	13	предик	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	свернет	СВЕРТЫВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	10	подч-союзн	_	_
+14	в	В	PR	PR	PR	13	2-компл	_	_
+15	деловое	ДЕЛОВОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	14	предл	_	_
+16	русло	РУСЛО	S	S n inan acc sg	S n inan acc sg	13	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	20	предик	_	_
+19	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	20	обст	_	_
+20	разревется	РАЗРЕВЕТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	9	подч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

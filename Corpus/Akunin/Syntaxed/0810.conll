@@ -1,0 +1,92 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	достал	ДОСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	из-за	ИЗ-ЗА	PR	PR	PR	2	обст	_	_
+4	обшлага	ОБШЛАГ	S	S m inan acc pl	S m inan acc pl	3	предл	_	_
+5	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	6	количест	_	_
+6	листков	ЛИСТОК	S	S m inan gen pl	S m inan gen pl	4	квазиагент	_	_
+7	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	откашлявшись	ОТКАШЛИВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	11	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	заговорил	ЗАГОВАРИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	очень	ОЧЕНЬ	ADV	ADV -	ADV -	14	огранич	_	_
+14	похожий	ПОХОЖИЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	суб-копр	_	_
+15	на	НА	PR	PR	PR	14	атриб	_	_
+16	зубрилу	ЗУБРИЛА	S	S - anim acc sg	S - anim acc sg	15	предл	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	отличника	ОТЛИЧНИК	S	S m anim gen sg	S m anim gen sg	14	1-компл	_	_
+19	:	:	:	:	PUNC	20	опред	_	_
+20	–	–	–	–	PUNC	11	1-компл	_	_
+21	Если	ЕСЛИ	CONJ	CONJ	CONJ	11	сент-соч	_	_
+22	позволите	ПОЗВОЛЯТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	21	подч-союзн	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	0	ROOT	_	_
+25	от	ОТ	PR	PR	PR	0	ROOT	_	_
+26	частного	ЧАСТНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	25	предл	_	_
+27	к	К	PR	PR	PR	25	соотнос	_	_
+28	общему	ОБЩИЙ	A	A - dat sg plen n -	A - dat sg plen n -	27	предл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Итак	ИТАК	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Прежде всего	Прежде всего	ADV	ADV -	-	2	огранич	_	_
+2	должен	ДОЛЖНЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+3	повиниться	ПОВИНИТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	11	длительн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	пока	ПОКА	CONJ	CONJ	CONJ	2	сравнит	_	_
+5	армия	АРМИЯ	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+6	осаждала	ОСАЖДАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	подч-союзн	_	_
+7	Плевну	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	против	ПРОТИВ	PR	PR	PR	11	обст	_	_
+10	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	9	предл	_	_
+11	действовал	ДЕЙСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+12	хитрый	ХИТРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	15	опред	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	жестокий	ЖЕСТОКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	сочин	_	_
+15	враг	ВРАГ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	23	1-компл	_	_
+18	моя	МОЙ	A	A - nom sg plen f -	A - nom sg plen f -	19	опред	_	_
+19	служба	СЛУЖБА	S	S f inan nom sg	S f inan nom sg	21	предик	_	_
+20	не	НЕ	PART	PART	PART	21	огранич	_	_
+21	сумела	СУМЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	релят	_	_
+22	вовремя	ВОВРЕМЯ	ADV	ADV -	ADV -	21	обст	_	_
+23	выявить	ВЫЯВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	21	1-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Именно	ИМЕННО	PART	PART	PART	2	огранич	_	_
+2	из-за	ИЗ-ЗА	PR	PR	PR	9	обст	_	_
+3	козней	КОЗНИ	S	S - inan gen pl	S - inan gen pl	2	предл	_	_
+4	этого	ЭТОТ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+5	тщательно	ТЩАТЕЛЬНО	ADV	ADV -	ADV -	6	обст	_	_
+6	законспирированного	ЗАКОНСПИРИРОВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	7	опред	_	_
+7	врага	ВРАГ	S	S m anim gen sg	S m anim gen sg	3	квазиагент	_	_
+8	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	9	предик	_	_
+9	потеряли	ПОТЕРЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+10	столько	СТОЛЬКО	NUM	NUM acc - -	NUM acc - -	9	предик	_	_
+11	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	10	1-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+13	людей	ЧЕЛОВЕК	S	S m anim gen pl	S m anim gen pl	12	соч-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	а	А	CONJ	CONJ	CONJ	9	сент-соч	_	_
+16	30	30	NUM	NUM - - -	NUM - - -	22	обст	_	_
+17	ноября	НОЯБРЬ	S	S m inan gen sg	S m inan gen sg	16	атриб	_	_
+18	чуть	ЧУТЬ	ADV	ADV -	ADV -	22	огранич	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	вовсе	ВОВСЕ	ADV	ADV -	ADV -	19	соч-союзн	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	лишились	ЛИШАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	15	соч-союзн	_	_
+23	плодов	ПЛОД	S	S m inan gen pl	S m inan gen pl	22	1-компл	_	_
+24	всех	ВЕСЬ	A	A - gen pl plen - -	A - gen pl plen - -	27	опред	_	_
+25	наших	НАШ	A	A - gen pl plen - -	A - gen pl plen - -	27	опред	_	_
+26	многомесячных	МНОГОМЕСЯЧНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	27	опред	_	_
+27	усилий	УСИЛИЕ	S	S n inan gen pl	S n inan gen pl	23	квазиагент	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+

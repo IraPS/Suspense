@@ -1,0 +1,29 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Не	НЕ	PART	PART	PART	3	огранич	_	_
+3	возьму	ВЗЯТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	-	-	-	-	PUNC	3	PUNC	_	_
+6	сурово	СУРОВО	ADV	ADV -	ADV -	7	обст	_	_
+7	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	1-компл	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	предик	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	даже	ДАЖЕ	PART	PART	PART	11	огранич	_	_
+11	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	12	обст	_	_
+12	замотал	ЗАМАТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	у	У	PR	PR	PR	4	обст	_	_
+3	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	2	предл	_	_
+4	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+5	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	6	опред	_	_
+6	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	такие	ТАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	4	присвяз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	8	эксплет	_	_
+12	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	13	предик	_	_
+13	взял	ВЗЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	подч-союзн	_	_
+14	...	...	SENT	SENT	SENT	13	PUNC	_	_
+

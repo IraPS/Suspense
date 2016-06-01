@@ -1,0 +1,19 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	смотрела	СМОТРЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	враля	ВРАЛЬ	S	S m anim acc sg	S m anim acc sg	3	предл	_	_
+5	недоверчиво	НЕДОВЕРЧИВО	ADV	ADV -	ADV -	2	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	ибо	ИБО	CONJ	CONJ	CONJ	2	обст	_	_
+8	представить	ПРЕДСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	7	инф-союзн	_	_
+9	титулярного	ТИТУЛЯРНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	10	опред	_	_
+10	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	8	1-компл	_	_
+11	«	«	_	_	PUNC	10	PUNC	_	_
+12	аравийским	АРАВИЙСКИЙ	A	A - ins sg plen n -	A - ins sg plen n -	13	опред	_	_
+13	ураганом	УРАГАН	S	S m inan ins sg	S m inan ins sg	10	разъяснит	_	_
+14	»	»	_	_	PUNC	13	PUNC	_	_
+15	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	2	сент-соч	_	_
+16	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	17	огранич	_	_
+17	невозможно	НЕВОЗМОЖНЫЙ	A	A - - sg brev n -	A - - sg brev n -	15	присвяз	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

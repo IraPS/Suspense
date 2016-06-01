@@ -1,0 +1,14 @@
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+2	до	ДО	PR	PR	PR	4	обст	_	_
+3	того	ТО	S	S n - gen sg	S n - gen sg	2	предл	_	_
+4	растерялся	РАСТЕРИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	вместо	ВМЕСТО	PR	PR	PR	9	обст	_	_
+8	губ	ГУБА	S	S f inan gen pl	S f inan gen pl	7	предл	_	_
+9	поцеловал	ПОЦЕЛОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	подч-союзн	_	_
+10	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	9	1-компл	_	_
+11	в	В	PR	PR	PR	9	2-компл	_	_
+12	нос	НОС	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

@@ -1,0 +1,34 @@
+1	Судя	СУДЯ	ADV	ADV -	ADV -	8	вводн	_	_
+2	по	ПО	PR	PR	PR	8	обст	_	_
+3	рассказам	РАССКАЗ	S	S m inan dat pl	S m inan dat pl	2	предл	_	_
+4	(	(	_	_	PUNC	5	PUNC	_	_
+5	сама	САМ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	ездила	ЕЗДИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+9	)	)	_	_	PUNC	8	PUNC	_	_
+10	,	,	,	,	PUNC	8	PUNC	_	_
+11	Казанзаки	КАЗАНЗАК	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+12	полусидел	ПОЛУСИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	сент-соч	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	полулежал	ПОЛУЛЕЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	сочин	_	_
+15	за	ЗА	PR	PR	PR	14	1-компл	_	_
+16	густым	ГУСТОЙ	A	A - ins sg plen m -	A - ins sg plen m -	17	опред	_	_
+17	кустом	КУСТ	S	S m inan ins sg	S m inan ins sg	15	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	привалившись	ПРИВАЛИВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	14	обст	_	_
+20	спиной	СПИНА	S	S f inan ins sg	S f inan ins sg	19	2-компл	_	_
+21	к	К	PR	PR	PR	19	1-компл	_	_
+22	валуну	ВАЛУН	S	S f inan acc sg	S f inan acc sg	21	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	В	В	PR	PR	PR	4	обст	_	_
+2	правой	ПРАВЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	3	опред	_	_
+3	руке	РУКА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+4	револьвер	РЕВОЛЬВЕР	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	во	ВО	PR	PR	PR	4	вводн	_	_
+7	лбу	ЛОБ	S	S m inan dat sg	S m inan dat sg	6	предл	_	_
+8	дырка	ДЫРКА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

@@ -1,0 +1,21 @@
+1	Прежде всего	Прежде всего	ADV	ADV -	-	0	ROOT	_	_
+2	Фандорин	ФАНДОРИНА	S	S f inan gen pl	S f inan gen pl	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+5	опять	ОПЯТЬ	ADV	ADV -	ADV -	4	соч-союзн	_	_
+6	с	С	PR	PR	PR	1	1-компл	_	_
+7	книжкой	КНИЖКА	S	S f inan ins sg	S f inan ins sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Довольно	ДОВОЛЬНО	ADV	ADV -	ADV -	2	огранич	_	_
+2	глупо	ГЛУПО	ADV	ADV -	ADV -	4	обст	_	_
+3	–	–	–	–	PUNC	4	1-компл	_	_
+4	читать	ЧИТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	предик	_	_
+5	можно	МОЖНО	ADV	ADV -	ADV -	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сент-соч	_	_
+7	у	У	PR	PR	PR	0	ROOT	_	_
+8	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	7	предл	_	_
+9	в	В	PR	PR	PR	7	уточн	_	_
+10	палатке	ПАЛАТКА	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

@@ -1,0 +1,85 @@
+1	На	НА	PR	PR	PR	6	обст	_	_
+2	сей	СЕЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	поумневший	ПОУМНЕТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	5	опред	_	_
+5	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+6	действовал	ДЕЙСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	наверняка	НАВЕРНЯКА	ADV	ADV -	ADV -	6	обст	_	_
+8	–	–	–	–	PUNC	6	1-компл	_	_
+9	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+10	по	ПО	PR	PR	PR	0	ROOT	_	_
+11	-	-	-	-	PUNC	10	PUNC	_	_
+12	европейскому	ЕВРОПЕЙСКИЙ	A	A - dat sg plen m -	A - dat sg plen m -	10	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+15	по	ПО	PR	PR	PR	14	соч-союзн	_	_
+16	-	-	-	-	PUNC	15	PUNC	_	_
+17	восточному	ВОСТОЧНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	15	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Начал	НАЧИНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	обст	_	_
+2	по-европейски	ПО-ЕВРОПЕЙСКИ	ADV	ADV -	ADV -	3	огранич	_	_
+3	:	:	:	:	PUNC	6	2-компл	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	атриб	_	_
+5	агенты	АГЕНТ	S	S m anim nom pl	S m anim nom pl	6	предик	_	_
+6	зачастили	ЗАЧАСТИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	на	НА	PR	PR	PR	6	обст	_	_
+8	верфи	ВЕРФЬ	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	в	В	PR	PR	PR	6	2-компл	_	_
+11	арсенал	АРСЕНАЛ	S	S m inan acc sg	S m inan acc sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	на	НА	PR	PR	PR	16	обст	_	_
+14	монетный	МОНЕТНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	15	опред	_	_
+15	двор	ДВОР	S	S m inan acc sg	S m inan acc sg	13	предл	_	_
+16	–	–	–	–	PUNC	6	1-компл	_	_
+17	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+18	рабочие	РАБОЧИЙ	S	S m anim nom pl	S m anim nom pl	23	предик	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	которым	КОТОРЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	23	1-компл	_	_
+21	давным-давно	ДАВНЫМ-ДАВНО	ADV	ADV -	ADV -	23	обст	_	_
+22	не	НЕ	PART	PART	PART	23	огранич	_	_
+23	выплачивали	ВЫПЛАЧИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	17	соч-союзн	_	_
+24	жалованье	ЖАЛОВАНИЕ	S	S n inan acc sg	S n inan acc sg	23	1-компл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	повалили	ПОВАЛИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	сочин	_	_
+27	на	НА	PR	PR	PR	26	2-компл	_	_
+28	улицы	УЛИЦА	S	S f inan gen sg	S f inan gen sg	27	предл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Затем	ЗАТЕМ	ADV	ADV -	ADV -	2	обст	_	_
+2	последовал	ПОСЛЕДОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	чисто	ЧИСТО	ADV	ADV -	ADV -	4	огранич	_	_
+4	восточный	ВОСТОЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	трюк	ТРЮК	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	25	25	NUM	NUM - - -	NUM - - -	6	обст	_	_
+2	мая	МАЙ	S	S m inan gen sg	S m inan gen sg	1	атриб	_	_
+3	Мидхат	МИДХАТ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	паша	ПАША	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+6	объявил	ОБЪЯВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	правоверным	ПРАВОВЕРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	суб-копр	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	6	1-компл	_	_
+10	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	13	2-компл	_	_
+11	во	ВО	PR	PR	PR	13	обст	_	_
+12	сне	СОН	S	S m inan loc sg	S m inan loc sg	11	предл	_	_
+13	явился	ЯВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	подч-союзн	_	_
+14	Пророк	ПРОРОК	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+15	(	(	_	_	PUNC	16	PUNC	_	_
+16	поди	ПОДИ	INTJ	INTJ	INTJ	19	вводн	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	ка	КА	PART	PART	PART	19	огранич	_	_
+19	проверь	ПРОВЕРЯТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	14	примыкат	_	_
+20	)	)	_	_	PUNC	19	PUNC	_	_
+21	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+22	поручил	ПОРУЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	соч-союзн	_	_
+23	своему	СВОЙ	A	A - dat sg plen m -	A - dat sg plen m -	24	опред	_	_
+24	рабу	РАБ	S	S m anim dat sg	S m anim dat sg	22	2-компл	_	_
+25	спасти	СПАСАТЬ	V	V pf - - inf - -	V pf - - inf - -	22	1-компл	_	_
+26	гибнущую	ГИБНУТЬ	PARTCP	PARTCP ipf inpraes acc sg plen f act -	PARTCP ipf inpraes acc sg plen f act -	25	1-компл	_	_
+27	Турцию	ТУРЦИЯ	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+

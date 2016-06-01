@@ -1,0 +1,3 @@
+{"analysis":[{"lex":"они","gr":"SPRO,pl=nom"}],"text":"Они"}
+{"analysis":[{"lex":"оставаться","gr":"V,intr=praet,pl,indic,pf"}],"text":"остались"}
+{"analysis":[{"lex":"вдвоем","gr":"ADV="}],"text":"вдвоем"}

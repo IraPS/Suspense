@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"Но"}
+{"analysis":[{"lex":"почему","gr":"ADVPRO="}],"text":"почему"}
+{"analysis":[{"lex":"ахнуть","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"ахнула"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}

@@ -1,0 +1,143 @@
+1	Высотку	ВЫСОТКА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	на	НА	PR	PR	PR	5	2-компл	_	_
+4	которой	КОТОРЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	3	предл	_	_
+5	расположились	РАСПОЛАГАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+6	корреспонденты	КОРРЕСПОНДЕНТ	S	S m anim nom pl	S m anim nom pl	5	предик	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	военные	ВОЕННЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	наблюдатели	НАБЛЮДАТЕЛЬ	S	S m anim nom pl	S m anim nom pl	7	соч-союзн	_	_
+10	нейтральных	НЕЙТРАЛЬНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	11	опред	_	_
+11	стран	СТРАНА	S	S f inan gen pl	S f inan gen pl	9	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	найти	НАХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	14	предик	_	_
+14	оказалось	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	5	сент-соч	_	_
+15	просто	ПРОСТО	PART	PART	PART	16	огранич	_	_
+16	–	–	–	–	PUNC	14	присвяз	_	_
+17	еще	ЕЩЕ	ADV	ADV -	ADV -	18	огранич	_	_
+18	с	С	PR	PR	PR	16	атриб	_	_
+19	дороги	ДОРОГА	S	S f inan gen sg	S f inan gen sg	18	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	сплошь	СПЛОШЬ	ADV	ADV -	ADV -	22	обст	_	_
+22	запруженной	ЗАПРУЖИВАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	16	опред	_	_
+23	повозками	ПОВОЗКА	S	S f inan ins pl	S f inan ins pl	22	2-компл	_	_
+24	с	С	PR	PR	PR	23	атриб	_	_
+25	боеприпасами	БОЕПРИПАСЫ	S	S - inan ins pl	S - inan ins pl	24	предл	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	28	предик	_	_
+28	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	сент-соч	_	_
+29	вдали	ВДАЛИ	ADV	ADV -	ADV -	30	огранич	_	_
+30	белое	БЕЛЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	31	опред	_	_
+31	полотнище	ПОЛОТНИЩЕ	S	S n inan nom sg	S n inan nom sg	28	присвяз	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	Оно	ОНО	SPRO	SPRO sg 3p n nom	SPRO sg 3p n nom	3	предик	_	_
+2	вяло	ВЯЛО	ADV	ADV -	ADV -	3	обст	_	_
+3	покачивалось	ПОКАЧИВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	обст	_	_
+5	ветру	ВЕТЕР	S	S m inan dat sg	S m inan dat sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	под	ПОД	PR	PR	PR	9	обст	_	_
+8	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	7	предл	_	_
+9	темнело	ТЕМНЕТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	сент-соч	_	_
+10	изрядное	ИЗРЯДНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	11	опред	_	_
+11	скопление	СКОПЛЕНИЕ	S	S n inan nom sg	S n inan nom sg	9	предик	_	_
+12	людей	ЧЕЛОВЕК	S	S m anim gen pl	S m anim gen pl	11	квазиагент	_	_
+13	–	–	–	–	PUNC	11	1-компл	_	_
+14	пожалуй	ПОЖАЛУЙ	PART	PART	PART	16	вводн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	11	разъяснит	_	_
+17	сто	СТО	NUM	NUM acc - -	NUM acc - -	16	аппрокс-колич	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	если	ЕСЛИ	CONJ	CONJ	CONJ	16	обст	_	_
+20	не	НЕ	PART	PART	PART	21	огранич	_	_
+21	больше	МНОГО	ADV	ADV comp	ADV comp	19	подч-союзн	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Дорожный	ДОРОЖНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	распорядитель	РАСПОРЯДИТЕЛЬ	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	осипший	ОСИПШИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	2	опред	_	_
+5	от	ОТ	PR	PR	PR	4	1-компл	_	_
+6	крика	КРИК	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+7	капитан	КАПИТАН	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+8	с	С	PR	PR	PR	17	обст	_	_
+9	красной	КРАСНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	10	опред	_	_
+10	повязкой	ПОВЯЗКА	S	S f inan ins sg	S f inan ins sg	8	предл	_	_
+11	на	НА	PR	PR	PR	10	атриб	_	_
+12	рукаве	РУКАВ	S	S m inan loc sg	S m inan loc sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	распределявший	РАСПРЕДЕЛЯТЬ	PARTCP	PARTCP ipf praet acc sg plen m act inan	PARTCP ipf praet acc sg plen m act inan	10	опред	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	куда	КУДА	ADV	ADV -	ADV -	17	2-компл	_	_
+17	подвозить	ПОДВОЗИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	22	1-компл	_	_
+18	снаряды	СНАРЯД	S	S m inan acc pl	S m inan acc pl	17	1-компл	_	_
+19	в первую очередь	в первую очередь	ADV	ADV -	-	17	обст	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	мельком	МЕЛЬКОМ	ADV	ADV -	ADV -	22	обст	_	_
+22	улыбнулся	УЛЫБАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+23	миловидной	МИЛОВИДНЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	24	опред	_	_
+24	барышне	БАРЫШНЯ	S	S f anim dat sg	S f anim dat sg	22	2-компл	_	_
+25	в	В	PR	PR	PR	24	атриб	_	_
+26	кружевной	КРУЖЕВНОЙ	A	A - loc sg plen f -	A - loc sg plen f -	27	опред	_	_
+27	шляпке	ШЛЯПКА	S	S f inan loc sg	S f inan loc sg	25	предл	_	_
+28	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+29	махнул	МАХНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	28	соч-союзн	_	_
+30	рукой	РУКА	S	S f inan ins sg	S f inan ins sg	29	1-компл	_	_
+31	:	:	:	:	PUNC	32	опред	_	_
+32	–	–	–	–	PUNC	29	2-компл	_	_
+33	Туда	ТУДА	ADV	ADV -	ADV -	0	ROOT	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	туда	ТУДА	ADV	ADV -	ADV -	33	сочин	_	_
+36	,	,	,	,	PUNC	35	PUNC	_	_
+37	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	35	сочин	_	_
+38	.	.	SENT	SENT	SENT	37	PUNC	_	_
+
+1	Да	ДА	PART	PART	PART	2	огранич	_	_
+2	смотрите	СМОТРЕТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+3	никуда	НИКУДА	ADV	ADV -	ADV -	5	1-компл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	сворачивайте	СВОРАЧИВАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	2	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	7	вводн	_	_
+2	белому	БЕЛЫЙ	A	A - dat sg plen n -	A - dat sg plen n -	3	опред	_	_
+3	флагу	ФЛАГ	S	S m inan dat sg	S m inan dat sg	1	предл	_	_
+4	вражеская	ВРАЖЕСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+5	артиллерия	АРТИЛЛЕРИЯ	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	бьет	БИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	7	сент-соч	_	_
+10	в	В	PR	PR	PR	0	ROOT	_	_
+11	прочие	ПРОЧИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	12	опред	_	_
+12	места	МЕСТО	S	S n inan acc pl	S n inan acc pl	10	предл	_	_
+13	нет	НЕТ	PART	PART	PART	15	вводн	_	_
+14	-	-	-	-	PUNC	13	PUNC	_	_
+15	нет	НЕТ	PART	PART	PART	16	огранич	_	_
+16	да	ДА	PART	PART	PART	0	ROOT	_	_
+17	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+18	залетит	ЗАЛЕТАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	17	соч-союзн	_	_
+19	снарядик	СНАРЯДИК	S	S m inan acc sg	S m inan acc sg	18	1-компл	_	_
+20	-	-	-	-	PUNC	19	PUNC	_	_
+21	другой	ДРУГОЙ	A	A - gen sg plen f -	A - gen sg plen f -	19	кратн	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Куда	КУДА	ADV	ADV -	ADV -	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	куда	КУДА	ADV	ADV -	ADV -	4	2-компл	_	_
+4	попер	ПОПЕРЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	дубина	ДУБИНА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+7	стоеросовая	СТОЕРОСОВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	разъяснит	_	_
+8	?!	?!	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	четырехфунтовые	ЧЕТЫРЕХФУНТОВЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	3	1-компл	_	_
+6	на	НА	PR	PR	PR	3	3-компл	_	_
+7	шестую	ШЕСТОЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	предл	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+

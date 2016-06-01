@@ -1,0 +1,47 @@
+1	Гусар	ГУСАР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	лежал	ЛЕЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	ничком	НИЧКОМ	ADV	ADV -	ADV -	2	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	вывернув	ВЫВОРАЧИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+6	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+7	вбок	ВБОК	ADV	ADV -	ADV -	5	2-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Еще	ЕЩЕ	ADV	ADV -	ADV -	2	огранич	_	_
+2	издали	ИЗДАЛИ	ADV	ADV -	ADV -	4	обст	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+4	заметила	ЗАМЕЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	серебряную	СЕРЕБРЯНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	рукоятку	РУКОЯТКА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+7	кавказского	КАВКАЗСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	8	опред	_	_
+8	кинжала	КИНЖАЛ	S	S m inan gen sg	S m inan gen sg	6	квазиагент	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	намертво	НАМЕРТВО	ADV	ADV -	ADV -	11	обст	_	_
+11	засевшего	ЗАСЕСТЬ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	6	опред	_	_
+12	в	В	PR	PR	PR	11	обст	_	_
+13	левой	ЛЕВЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	14	опред	_	_
+14	лопатке	ЛОПАТКА	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Спешившись	СПЕШИВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	3	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	профиль	ПРОФИЛЬ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	:	:	:	:	PUNC	8	опред	_	_
+6	удивленно	УДИВЛЕННО	ADV	ADV -	ADV -	7	огранич	_	_
+7	открытый	ОТКРЫТЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	8	опред	_	_
+8	глаз	ГЛАЗ	S	S m inan acc sg	S m inan acc sg	9	1-компл	_	_
+9	отливал	ОТЛИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	изъясн	_	_
+10	красивым	КРАСИВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	12	опред	_	_
+11	стеклянным	СТЕКЛЯННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	12	опред	_	_
+12	блеском	БЛЕСК	S	S m inan ins sg	S m inan ins sg	9	2-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	развороченный	РАЗВОРАЧИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	12	опред	_	_
+15	выстрелом	ВЫСТРЕЛ	S	S m inan ins sg	S m inan ins sg	14	2-компл	_	_
+16	висок	ВИСОК	S	S m inan acc sg	S m inan acc sg	14	1-компл	_	_
+17	чернел	ЧЕРНЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	9	сочин	_	_
+18	окаемом	ОКАТЬ	PARTCP	PARTCP ipf inpraes loc sg plen m pass -	PARTCP ipf inpraes loc sg plen m pass -	17	1-компл	_	_
+19	порохового	ПОРОХОВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+20	ожога	ОЖОГ	S	S m inan gen sg	S m inan gen sg	18	1-компл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

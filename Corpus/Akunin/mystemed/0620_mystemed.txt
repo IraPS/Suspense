@@ -1,0 +1,2 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=acc,sg"}],"text":"Варю"}
+{"analysis":[{"lex":"замутить","gr":"V,pf,intr=praet,sg,indic,n"}],"text":"замутило"}

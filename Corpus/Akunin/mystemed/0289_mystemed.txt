@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"румын","gr":"S,m,anim=acc,pl"},{"lex":"румын","gr":"S,m,anim=gen,pl"},{"lex":"румын","gr":"S,m,anim=nom,sg"}],"text":"Румын"}
+{"analysis":[{"lex":"поспешно","gr":"ADV="}],"text":"поспешно"}
+{"analysis":[{"lex":"отряхивать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"отряхнул"}
+{"analysis":[{"lex":"ус","gr":"S,m,inan=acc,pl"},{"lex":"ус","gr":"S,m,inan=nom,pl"}],"text":"усы"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"ставить","gr":"V,ipf,tran=inpraes,sg,indic,1p"}],"text":"Ставлю"}
+{"analysis":[{"lex":"триста","gr":"NUM=acc"},{"lex":"триста","gr":"NUM=nom"}],"text":"триста"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"мсье","gr":"S,m,anim=abl,pl"},{"lex":"мсье","gr":"S,m,anim=abl,sg"},{"lex":"мсье","gr":"S,m,anim=acc,pl"},{"lex":"мсье","gr":"S,m,anim=acc,sg"},{"lex":"мсье","gr":"S,m,anim=dat,pl"},{"lex":"мсье","gr":"S,m,anim=dat,sg"},{"lex":"мсье","gr":"S,m,anim=gen,pl"},{"lex":"мсье","gr":"S,m,anim=gen,sg"},{"lex":"мсье","gr":"S,m,anim=ins,pl"},{"lex":"мсье","gr":"S,m,anim=ins,sg"},{"lex":"мсье","gr":"S,m,anim=nom,pl"},{"lex":"мсье","gr":"S,m,anim=nom,sg"}],"text":"мсье"}
+{"analysis":[{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=acc,sg"},{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=gen,sg"}],"text":"Маклафлина"}
+{"text":"\\s"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"Но"}
+{"analysis":[{"lex":"какой","gr":"APRO=abl,sg,f"},{"lex":"какой","gr":"APRO=dat,sg,f"},{"lex":"какой","gr":"APRO=gen,sg,f"},{"lex":"какой","gr":"APRO=ins,sg,f"},{"lex":"какой","gr":"APRO=acc,sg,m,inan"},{"lex":"какой","gr":"APRO=nom,sg,m"}],"text":"какой"}
+{"analysis":[{"lex":"взять","gr":"V,pf,tran=inf"}],"text":"взять"}
+{"analysis":[{"lex":"предмет","gr":"S,m,inan=acc,sg"},{"lex":"предмет","gr":"S,m,inan=nom,sg"}],"text":"предмет"}

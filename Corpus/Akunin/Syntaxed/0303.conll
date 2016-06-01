@@ -1,0 +1,17 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Никополь	НИКОПОЛЬ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	тише	ТИХО	ADV	ADV comp	ADV comp	4	обст	_	_
+4	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	что	ЧТО	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+4	Плевна	ПЛЕВНА	S	S f inan nom sg	S f inan nom sg	2	соч-союзн	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+

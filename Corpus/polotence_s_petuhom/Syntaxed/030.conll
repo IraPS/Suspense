@@ -1,0 +1,81 @@
+1	Человеку	ЧЕЛОВЕК	S	S m anim dat sg	S m anim dat sg	8	дат-субъект	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	кроме	КРОМЕ	PR	PR	PR	1	атриб	_	_
+4	огня	ОГОНЬ	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	нужно	НУЖНО	ADV	ADV -	ADV -	8	обст	_	_
+7	еще	ЕЩЕ	ADV	ADV -	ADV -	8	огранич	_	_
+8	освоиться	ОСВАИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Петух	ПЕТУХ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	давно	ДАВНО	ADV	ADV -	ADV -	4	обст	_	_
+4	мною	Я	SPRO	SPRO sg 1p - ins	SPRO sg 1p - ins	2	присвяз	_	_
+5	съеден	СЪЕДАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	2	пасс-анал	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	сенник	СЕННИК	S	S m inan nom sg	S m inan nom sg	10	предик	_	_
+8	для	ДЛЯ	PR	PR	PR	7	атриб	_	_
+9	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	8	предл	_	_
+10	набит	НАБИВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	2	сент-соч	_	_
+11	Егорычем	ЕГОРЫЧ	S	S m anim ins sg	S m anim ins sg	10	2-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	покрыт	ПОКРЫВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	10	сочин	_	_
+14	простыней	ПРОСТЫНЯ	S	S f inan gen pl	S f inan gen pl	13	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	горела	ГОРЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	10	сент-соч	_	_
+17	лампа	ЛАМПА	S	S f inan nom sg	S f inan nom sg	16	предик	_	_
+18	в	В	PR	PR	PR	17	атриб	_	_
+19	кабинете	КАБИНЕТ	S	S m inan loc sg	S m inan loc sg	18	предл	_	_
+20	в	В	PR	PR	PR	17	атриб	_	_
+21	моей	МОЙ	A	A - loc sg plen f -	A - loc sg plen f -	22	опред	_	_
+22	резиденции	РЕЗИДЕНЦИЯ	S	S f inan loc sg	S f inan loc sg	20	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как	КАК	CONJ	CONJ	CONJ	8	вводн	_	_
+6	зачарованный	ЗАЧАРОВЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	5	сравн-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	глядел	ГЛЯДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	соч-союзн	_	_
+9	на	НА	PR	PR	PR	8	1-компл	_	_
+10	третье	ТРЕТИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	9	предл	_	_
+11	достижение	ДОСТИЖЕНИЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+12	легендарного	ЛЕГЕНДАРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	опред	_	_
+13	Леопольда	ЛЕОПОЛЬД	S	S m anim gen sg	S m anim gen sg	11	квазиагент	_	_
+14	:	:	:	:	PUNC	18	2-компл	_	_
+15	шкаф	ШКАФ	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+16	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	релят	_	_
+17	битком	БИТКОМ	ADV	ADV -	ADV -	18	обст	_	_
+18	набит	НАБИВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	16	пасс-анал	_	_
+19	книгами	КНИГА	S	S f inan ins pl	S f inan ins pl	18	2-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Одних	ОДИН	A	A - acc pl plen - anim	A - acc pl plen - anim	2	опред	_	_
+2	руководств	РУКОВОДСТВО	S	S n inan gen pl	S n inan gen pl	11	1-компл	_	_
+3	по	ПО	PR	PR	PR	11	обст	_	_
+4	хирургии	ХИРУРГИЯ	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	на	НА	PR	PR	PR	3	сочин	_	_
+6	русском	РУССКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	9	опред	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	немецком	НЕМЕЦКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	7	соч-союзн	_	_
+9	языках	ЯЗЫК	S	S m inan loc pl	S m inan loc pl	5	предл	_	_
+10	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+11	насчитал	НАСЧИТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	бегло	БЕГЛО	ADV	ADV -	ADV -	11	обст	_	_
+13	около	ОКОЛО	PR	PR	PR	11	сочин	_	_
+14	тридцати	ТРИДЦАТЬ	NUM	NUM loc - -	NUM loc - -	15	количест	_	_
+15	томов	ТОМ	S	S m inan gen pl	S m inan gen pl	13	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	терапия	ТЕРАПИЯ	S	S f inan nom sg	S f inan nom sg	1	соч-союзн	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Накожные	НАКОЖНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+2	чудные	ЧУДНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	атласы	АТЛАС	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+

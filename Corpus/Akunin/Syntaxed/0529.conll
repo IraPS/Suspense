@@ -1,0 +1,19 @@
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Много	МНОГО	ADV	ADV -	ADV -	3	обст	_	_
+3	пила	ПИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	Маруся	МАРУСЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	4	количест	_	_
+4	по-русски	ПО-РУССКИ	ADV	ADV -	ADV -	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	все	ВСЕ	S	S - - nom pl	S - - nom pl	8	1-компл	_	_
+8	захохотали	ЗАХОХОТАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	соч-союзн	_	_
+9	еще	ЕЩЕ	ADV	ADV -	ADV -	10	огранич	_	_
+10	пуще	ПУЩЕ	ADV	ADV -	ADV -	8	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

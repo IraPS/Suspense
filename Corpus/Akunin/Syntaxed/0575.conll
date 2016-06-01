@@ -1,0 +1,67 @@
+1	Подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	завистливо	ЗАВИСТЛИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+3	причмокнул	ПРИЧМОКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	1-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	осторожно	ОСТОРОЖНО	ADV	ADV -	ADV -	6	обст	_	_
+6	перешел	ПЕРЕХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+7	к	К	PR	PR	PR	6	1-компл	_	_
+8	главному	ГЛАВНОЕ	S	S n inan dat sg	S n inan dat sg	7	предл	_	_
+9	:	:	:	:	PUNC	12	1-компл	_	_
+10	–	–	–	–	PUNC	12	обст	_	_
+11	Все	ВСЕ	S	S - - nom pl	S - - nom pl	12	1-компл	_	_
+12	гадают	ГАДАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	6	изъясн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	куда	КУДА	ADV	ADV -	ADV -	15	2-компл	_	_
+15	запропастилась	ЗАПРОПАСТИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	12	релят	_	_
+16	наша	НАШ	A	A - nom sg plen f -	A - nom sg plen f -	17	опред	_	_
+17	героиня	ГЕРОИНЯ	S	S f anim nom sg	S f anim nom sg	15	предик	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	а	А	CONJ	CONJ	CONJ	15	сент-соч	_	_
+20	героиня	ГЕРОИНЯ	S	S f anim nom sg	S f anim nom sg	24	предик	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	оказывается	ОКАЗЫВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	24	вводн	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	занята	ЗАНЯТЫЙ	A	A - - sg brev f -	A - - sg brev f -	19	соч-союзн	_	_
+25	важными	ВАЖНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	27	опред	_	_
+26	государственными	ГОСУДАРСТВЕННЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	27	опред	_	_
+27	делами	ДЕЛО	S	S n inan ins pl	S n inan ins pl	24	1-компл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Ну-с	НУ-С	PART	PART	PART	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+4	там	ТАМ	ADV	ADV -	ADV -	10	обст	_	_
+5	на	НА	PR	PR	PR	10	обст	_	_
+6	уме	УМ	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+7	у	У	PR	PR	PR	10	2-компл	_	_
+8	хитроумного	ХИТРОУМНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	господина	ГОСПОДИН	S	S m anim gen sg	S m anim gen sg	7	предл	_	_
+10	Фандорина	ФАНДОРИН	S	S m anim acc sg	S m anim acc sg	3	подч-союзн	_	_
+11	?	?	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Какие	КАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	гипотезы	ГИПОТЕЗА	S	S f inan nom pl	S f inan nom pl	6	предик	_	_
+3	по поводу	по поводу	PR	PR	ZERO	2	атриб	_	_
+4	таинственных	ТАИНСТВЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	5	опред	_	_
+5	записей	ЗАПИСЬ	S	S f inan gen pl	S f inan gen pl	3	предл	_	_
+6	Лукана	ЛУКАН	S	S m anim acc sg	S m anim acc sg	0	ROOT	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	удивляйтесь	УДИВЛЯТЬСЯ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	2	вводн	_	_
+5	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+8	в	В	PR	PR	PR	2	сент-соч	_	_
+9	курсе	КУРС	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+10	событий	СОБЫТИЕ	S	S n inan gen pl	S n inan gen pl	9	квазиагент	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Как-никак	КАК-НИКАК	ADV	ADV -	ADV -	2	обст	_	_
+2	заведую	ЗАВЕДОВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	особой	ОСОБЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	4	опред	_	_
+4	частью	ЧАСТЬ	S	S f inan ins sg	S f inan ins sg	2	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

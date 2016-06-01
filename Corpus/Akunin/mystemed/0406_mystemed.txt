@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"часто","gr":"ADV=comp"}],"text":"Чаще"}
+{"analysis":[{"lex":"все","gr":"SPRO,sg,n,inan=gen"}],"text":"всего"}
+{"analysis":[{"lex":"история","gr":"S,f,inan=abl,sg"},{"lex":"история","gr":"S,f,inan=acc,pl"},{"lex":"история","gr":"S,f,inan=dat,sg"},{"lex":"история","gr":"S,f,inan=gen,sg"},{"lex":"история","gr":"S,f,inan=nom,pl"}],"text":"истории"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,pl,indic,ipf"}],"text":"были"}
+{"analysis":[{"lex":"смешной","gr":"A=acc,pl,plen,inan"},{"lex":"смешной","gr":"A=nom,pl,plen"}],"text":"смешные"}
+{"analysis":[{"lex":"иногда","gr":"ADV="}],"text":"иногда"}
+{"analysis":[{"lex":"страшный","gr":"A=acc,pl,plen,inan"},{"lex":"страшный","gr":"A=nom,pl,plen"}],"text":"страшные"}

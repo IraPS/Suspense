@@ -1,0 +1,193 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	слышала	СЛЫШАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	соч-союзн	_	_
+5	–	–	–	–	PUNC	4	1-компл	_	_
+6	земля	ЗЕМЛЯ	S	S f inan nom sg	S f inan nom sg	5	аппоз	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+8	небо	НЕБО	S	S n inan nom sg	S n inan nom sg	9	предик	_	_
+9	совершили	СОВЕРШАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	7	соч-союзн	_	_
+10	кульбит	КУЛЬБИТ	S	S m inan acc sg	S m inan acc sg	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	поменявшись	ПОМЕНЯТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	9	обст	_	_
+13	местами	МЕСТО	S	S n inan ins pl	S n inan ins pl	12	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+16	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	15	соч-союзн	_	_
+17	'	'	_	_	PUNC	16	PUNC	_	_
+18	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	9	2-компл	_	_
+19	с	С	PR	PR	PR	22	обст	_	_
+20	Фандориным	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	едва	ЕДВА	ADV	ADV -	ADV -	22	обст	_	_
+22	успели	УСПЕВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	9	сочин	_	_
+23	подхватить	ПОДХВАТЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	22	1-компл	_	_
+24	обмякшую	ОБМЯКАТЬ	PARTCP	PARTCP pf praet acc sg plen f act -	PARTCP pf praet acc sg plen f act -	25	опред	_	_
+25	барышню	БАРЫШНЯ	S	S f anim acc sg	S f anim acc sg	23	1-компл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Ревю	РЕВЮ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	0	ROOT	_	_
+3	паризьен	ПАРИЗЬЕН	S	S f inan nom sg	S f inan nom sg	2	аппоз	_	_
+4	»	»	_	_	PUNC	6	PUNC	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	Париж	ПАРИЖ	S	S m inan acc sg	S m inan acc sg	3	примыкат	_	_
+7	)	)	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	15	15	NUM	NUM - - -	NUM - - -	6	нум-аппоз	_	_
+10	(	(	_	_	PUNC	11	PUNC	_	_
+11	3	3	NUM	NUM - - -	NUM - - -	9	примыкат	_	_
+12	)	)	_	_	PUNC	11	PUNC	_	_
+13	июля	ИЮЛЬ	S	S m inan gen sg	S m inan gen sg	6	квазиагент	_	_
+14	1877	1877	NUM	NUM - - -	NUM - - -	15	опред	_	_
+15	г	Г	S	S m inan nonflex nonflex	S m inan nonflex nonflex	13	атриб	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Герб	ГЕРБ	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+3	Российской	РОССИЙСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	4	опред	_	_
+4	империи	ИМПЕРИЯ	S	S f inan gen sg	S f inan gen sg	2	квазиагент	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	двуглавый	ДВУГЛАВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	орел	ОРЕЛ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	превосходным	ПРЕВОСХОДНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	10	опред	_	_
+10	образом	ОБРАЗ	S	S m inan ins sg	S m inan ins sg	11	обст	_	_
+11	отражает	ОТРАЖАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	релят	_	_
+12	всю	ВЕСЬ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+13	систему	СИСТЕМА	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+14	управления	УПРАВЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	13	квазиагент	_	_
+15	в	В	PR	PR	PR	13	атриб	_	_
+16	этой	ЭТОТ	A	A - loc sg plen f -	A - loc sg plen f -	17	опред	_	_
+17	стране	СТРАНА	S	S f inan loc sg	S f inan loc sg	15	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	где	ГДЕ	ADV	ADV -	ADV -	24	обст	_	_
+20	всякое	ВСЯКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	24	предик	_	_
+21	мало-мальски	МАЛО-МАЛЬСКИ	ADV	ADV -	ADV -	24	обст	_	_
+22	важное	ВАЖНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	23	опред	_	_
+23	дело	ДЕЛО	S	S n inan nom sg	S n inan nom sg	24	предик	_	_
+24	поручается	ПОРУЧАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	сочин	_	_
+25	не	НЕ	PART	PART	PART	26	огранич	_	_
+26	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	24	2-компл	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	а	А	CONJ	CONJ	CONJ	24	сент-соч	_	_
+29	по	ПО	PR	PR	PR	33	вводн	_	_
+30	меньшей	МЕНЬШИЙ	A	A - dat sg plen f -	A - dat sg plen f -	31	опред	_	_
+31	мере	МЕРА	S	S f inan dat sg	S f inan dat sg	29	предл	_	_
+32	двум	ДВА	NUM	NUM dat - -	NUM dat - -	33	количест	_	_
+33	инстанциям	ИНСТАНЦИЯ	S	S f inan dat pl	S f inan dat pl	28	соч-союзн	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	36	предик	_	_
+36	мешают	МЕШАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	33	релят	_	_
+37	друг	ДРУГ	S	S - - nom sg	S - - nom sg	38	вспом	_	_
+38	другу	ДРУГ	S	S - - dat sg	S - - dat sg	36	1-компл	_	_
+39	и	И	CONJ	CONJ	CONJ	36	сочин	_	_
+40	ни	НИ	PART	PART	PART	41	огранич	_	_
+41	за	ЗА	PR	PR	PR	44	1-компл	_	_
+42	что	ЧТО	S	S n - acc sg	S n - acc sg	41	предл	_	_
+43	не	НЕ	PART	PART	PART	44	огранич	_	_
+44	отвечают	ОТВЕЧАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	39	соч-союзн	_	_
+45	.	.	SENT	SENT	SENT	44	PUNC	_	_
+
+1	То	ТО	S	S n - nom sg	S n - nom sg	3	предик	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	происходит	ПРОИСХОДИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+5	в	В	PR	PR	PR	0	ROOT	_	_
+6	действующей	ДЕЙСТВУЮЩИЙ	A	A - loc sg plen f -	A - loc sg plen f -	7	опред	_	_
+7	армии	АРМИЯ	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Формально	ФОРМАЛЬНО	ADV	ADV -	ADV -	3	обст	_	_
+2	главнокомандующим	ГЛАВНОКОМАНДУЮЩИЙ	S	S m anim ins sg	S m anim ins sg	3	1-компл	_	_
+3	является	ЯВЛЯТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	великий	ВЕЛИКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	князь	КНЯЗЬ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+6	Николай	НИКОЛАЙ	S	S m anim nom sg	S m anim nom sg	5	аппоз	_	_
+7	Николаевич	НИКОЛАЕВИЧ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	в настоящее время	в настоящее время	ADV	ADV -	-	10	обст	_	_
+10	находящийся	НАХОДИТЬСЯ	PARTCP	PARTCP ipf inpraes acc sg plen m act inan	PARTCP ipf inpraes acc sg plen m act inan	5	опред	_	_
+11	в	В	PR	PR	PR	10	1-компл	_	_
+12	деревне	ДЕРЕВНЯ	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	Царевицы	ЦАРЕВИЦА	S	S f inan acc pl	S f inan acc pl	3	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	однако	ОДНАКО	CONJ	CONJ	CONJ	3	обст	_	_
+16	в	В	PR	PR	PR	25	обст	_	_
+17	непосредственной	НЕПОСРЕДСТВЕННЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	18	опред	_	_
+18	близости	БЛИЗОСТЬ	S	S f inan loc sg	S f inan loc sg	16	предл	_	_
+19	от	ОТ	PR	PR	PR	18	атриб	_	_
+20	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	21	квазиагент	_	_
+21	штаба	ШТАБ	S	S m inan gen sg	S m inan gen sg	19	предл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	в	В	PR	PR	PR	25	обст	_	_
+24	городке	ГОРОДОК	S	S m inan loc sg	S m inan loc sg	23	предл	_	_
+25	Бела	БЕЛ	S	S f anim nom sg	S f anim nom sg	27	композ	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	расквартирована	РАСКВАРТИРОВЫВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	35	1-компл	_	_
+28	ставка	СТАВКА	S	S f inan nom sg	S f inan nom sg	27	предик	_	_
+29	императора	ИМПЕРАТОР	S	S m anim gen sg	S m anim gen sg	28	квазиагент	_	_
+30	Александра	АЛЕКСАНДР	S	S m anim gen sg	S m anim gen sg	29	аппоз	_	_
+31	II	II	NUM	NUM - - -	NUM - - -	30	вспом	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	при	ПРИ	PR	PR	PR	35	обст	_	_
+34	котором	КОТОРЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	33	предл	_	_
+35	находятся	НАХОДИТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	15	подч-союзн	_	_
+36	канцлер	КАНЦЛЕР	S	S m anim nom sg	S m anim nom sg	35	предик	_	_
+37	,	,	,	,	PUNC	36	PUNC	_	_
+38	военный	ВОЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	39	опред	_	_
+39	министр	МИНИСТР	S	S m anim nom sg	S m anim nom sg	36	сочин	_	_
+40	,	,	,	,	PUNC	39	PUNC	_	_
+41	шеф	ШЕФ	S	S m anim nom sg	S m anim nom sg	39	сочин	_	_
+42	жандармов	ЖАНДАРМ	S	S m anim gen pl	S m anim gen pl	41	1-компл	_	_
+43	и	И	CONJ	CONJ	CONJ	41	сочин	_	_
+44	прочие	ПРОЧИЙ	A	A - nom pl plen - -	A - nom pl plen - -	46	опред	_	_
+45	высшие	ВЫСОКИЙ	A	A supr nom pl plen - -	A supr nom pl plen - -	46	опред	_	_
+46	сановники	САНОВНИК	S	S m anim nom pl	S m anim nom pl	43	соч-союзн	_	_
+47	.	.	SENT	SENT	SENT	46	PUNC	_	_
+
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	21	обст	_	_
+2	учесть	УЧИТЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	инф-союзн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	союзная	СОЮЗНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+6	румынская	РУМЫНСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+7	армия	АРМИЯ	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+8	подчиняется	ПОДЧИНЯТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	подч-союзн	_	_
+9	собственному	СОБСТВЕННЫЙ	A	A - dat sg plen n -	A - dat sg plen n -	10	опред	_	_
+10	командующему	КОМАНДУЮЩИЙ	S	S m anim dat sg	S m anim dat sg	8	1-компл	_	_
+11	в	В	PR	PR	PR	10	атриб	_	_
+12	лице	ЛИЦО	S	S n inan loc sg	S n inan loc sg	11	предл	_	_
+13	князя	КНЯЗЬ	S	S m anim gen sg	S m anim gen sg	12	квазиагент	_	_
+14	Карла	КАРЛА	S	S m anim nom sg	S m anim nom sg	8	сочин	_	_
+15	Гогенцоллерна	ГОГЕНЦОЛЛЕРН	S	S m anim nom sg	S m anim nom sg	14	аппоз	_	_
+16	-	-	-	-	PUNC	15	PUNC	_	_
+17	Зигмарингена	ЗИГМАРИНГЕН	S	S m inan gen sg	S m inan gen sg	15	1-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	на	НА	PR	PR	PR	21	1-компл	_	_
+20	ум	УМ	S	S m inan acc sg	S m inan acc sg	19	предл	_	_
+21	приходит	ПРИХОДИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+22	уже	УЖЕ	ADV	ADV -	ADV -	24	огранич	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	двуглавый	ДВУГЛАВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	25	опред	_	_
+25	царь	ЦАРЬ	S	S m anim nom sg	S m anim nom sg	21	предик	_	_
+26	пернатых	ПЕРНАТОЕ	S	S n anim loc pl	S n anim loc pl	25	1-компл	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	а	А	CONJ	CONJ	CONJ	25	сочин	_	_
+29	остроумная	ОСТРОУМНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	31	опред	_	_
+30	русская	РУССКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	31	опред	_	_
+31	басня	БАСНЯ	S	S f inan nom sg	S f inan nom sg	28	соч-союзн	_	_
+32	про	ПРО	PR	PR	PR	31	1-компл	_	_
+33	лебедя	ЛЕБЕДЬ	S	S m anim acc sg	S m anim acc sg	32	предл	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	рака	РАК	S	S m inan gen sg	S m inan gen sg	33	сочин	_	_
+36	и	И	CONJ	CONJ	CONJ	35	сочин	_	_
+37	щуку	ЩУКА	S	S f anim acc sg	S f anim acc sg	36	соч-союзн	_	_
+38	,	,	,	,	PUNC	37	PUNC	_	_
+39	опрометчиво	ОПРОМЕТЧИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	21	сент-соч	_	_
+40	запряженных	ЗАПРЯГАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	39	предик	_	_
+41	в	В	PR	PR	PR	40	2-компл	_	_
+42	один	ОДИН	A	A - acc sg plen m inan	A - acc sg plen m inan	43	количест	_	_
+43	экипаж	ЭКИПАЖ	S	S m inan acc sg	S m inan acc sg	41	предл	_	_
+44	…	…	…	…	PUNC	43	PUNC	_	_
+45	»	»	SENT	SENT	SENT	44	PUNC	_	_
+

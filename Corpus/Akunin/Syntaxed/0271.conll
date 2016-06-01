@@ -1,0 +1,11 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	отдернул	ОТДЕРГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	полотняный	ПОЛОТНЯНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	полог	ПОЛОГ	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+8	заглянула	ЗАГЛЯДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	соч-союзн	_	_
+9	внутрь	ВНУТРЬ	ADV	ADV -	ADV -	8	обст	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

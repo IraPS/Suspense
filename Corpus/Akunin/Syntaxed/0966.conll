@@ -1,0 +1,15 @@
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Кто	КТО	S	S m - nom sg	S m - nom sg	3	предик	_	_
+3	тгонется	ТГОНУТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+4	с	С	PR	PR	PR	3	обст	_	_
+5	места	МЕСТО	S	S n inan gen sg	S n inan gen sg	4	предл	_	_
+6	–	–	–	–	PUNC	7	1-компл	_	_
+7	убью	УБИВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	3	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	12	2-компл	_	_
+10	–	–	–	–	PUNC	12	1-компл	_	_
+11	негромко	НЕГРОМКО	ADV	ADV -	ADV -	12	обст	_	_
+12	предупредил	ПРЕДУПРЕЖДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+13	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	предик	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

@@ -1,0 +1,57 @@
+1	Теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	4	обст	_	_
+2	на	НА	PR	PR	PR	4	обст	_	_
+3	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	2	предл	_	_
+4	пялились	ПЯЛИТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	со	СО	PR	PR	PR	4	обст	_	_
+6	всех	ВЕСЬ	A	A - gen pl plen - -	A - gen pl plen - -	7	опред	_	_
+7	сторон	СТОРОНА	S	S f inan gen pl	S f inan gen pl	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+10	взгляды	ВЗГЛЯД	S	S m inan nom pl	S m inan nom pl	11	предик	_	_
+11	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	соч-союзн	_	_
+12	клейкие	КЛЕЙКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	присвяз	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	нехорошие	НЕХОРОШИЙ	A	A - nom pl plen - -	A - nom pl plen - -	12	сочин	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Только	ТОЛЬКО	PART	PART	PART	2	огранич	_	_
+2	игрокам	ИГРОК	S	S m anim dat pl	S m anim dat pl	7	дат-субъект	_	_
+3	в	В	PR	PR	PR	5	обст	_	_
+4	кости	КОСТЬ	S	S f inan acc pl	S f inan acc pl	3	предл	_	_
+5	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	до	ДО	PR	PR	PR	5	присвяз	_	_
+8	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	да	ДА	CONJ	CONJ	CONJ	7	сочин	_	_
+11	через	ЧЕРЕЗ	PR	PR	PR	10	соч-союзн	_	_
+12	стол	СТОЛ	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	ближе	БЛИЗКО	ADV	ADV comp	ADV comp	11	обст	_	_
+15	к	К	PR	PR	PR	14	1-компл	_	_
+16	стойке	СТОЙКА	S	S f inan dat sg	S f inan dat sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	сент-соч	_	_
+19	спиной	СПИНА	S	S f inan ins sg	S f inan ins sg	18	1-компл	_	_
+20	какой-то	КАКОЙ-ТО	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+21	понурый	ПОНУРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	уткнувшись	УТЫКАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	0	ROOT	_	_
+24	носом	НОС	S	S m inan ins sg	S m inan ins sg	23	1-компл	_	_
+25	в	В	PR	PR	PR	23	2-компл	_	_
+26	кружку	КРУЖКА	S	S f inan acc sg	S f inan acc sg	25	предл	_	_
+27	с	С	PR	PR	PR	26	атриб	_	_
+28	вином	ВИНО	S	S n inan ins sg	S n inan ins sg	27	предл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Видны	ВИДНЫЙ	A	A - - pl brev - -	A - - pl brev - -	2	присвяз	_	_
+2	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	только	ТОЛЬКО	PART	PART	PART	4	огранич	_	_
+4	стриженые	СТРИЖЕНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+5	черные	ЧЕРНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	6	опред	_	_
+6	волосы	ВОЛОС	S	S m inan acc pl	S m inan acc pl	7	1-компл	_	_
+7	да	ДА	CONJ	CONJ	CONJ	2	сравнит	_	_
+8	седоватые	СЕДОВАТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	виски	ВИСОК	S	S m inan nom pl	S m inan nom pl	7	сравн-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

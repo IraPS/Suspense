@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"шеф","gr":"S,m,anim=nom,sg"}],"text":"Шеф"}
+{"analysis":[{"lex":"жандарм","gr":"S,m,anim=acc,pl"},{"lex":"жандарм","gr":"S,m,anim=gen,pl"}],"text":"жандармов"}
+{"analysis":[{"lex":"заволноваться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"заволновался"}
+{"analysis":[{"lex":"готовиться","gr":"V,ipf,intr=inpraes,ger"}],"text":"готовясь"}
+{"analysis":[{"lex":"оправдываться","gr":"V,intr=inf,ipf"}],"text":"оправдываться"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"александр","gr":"S,persn,m,anim=nom,sg"}],"text":"Александр"}
+{"analysis":[{"lex":"махнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"махнул"}
+{"analysis":[{"lex":"рука","gr":"S,f,inan=ins,sg"}],"text":"рукой"}
+{"analysis":[{"lex":"потом","gr":"ADVPRO="}],"text":"Потом"}
+{"text":"\\s"}
+{"analysis":[{"lex":"продолжать","gr":"V,tran=sg,imper,2p,ipf"}],"text":"Продолжай"}
+{"analysis":[{"lex":"суворов","gr":"S,famn,m,anim=acc,sg"},{"lex":"суворов","gr":"S,famn,m,anim=gen,sg"}],"text":"Суворова"}

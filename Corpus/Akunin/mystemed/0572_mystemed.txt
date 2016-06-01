@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"настороженно","gr":"ADV="}],"text":"Настороженно"}
+{"analysis":[{"lex":"нахмуриваться","gr":"V,intr=praet,ger,pf"}],"text":"нахмурившись"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"ждать","gr":"V,ipf,tran=praet,sg,indic,f"}],"text":"ждала"}
+{"analysis":[{"lex":"подвох","gr":"S,m,inan=gen,sg"}],"text":"подвоха"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"жандарм","gr":"S,m,anim=nom,sg"}],"text":"жандарм"}
+{"analysis":[{"lex":"заулыбаться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"заулыбался"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"сладко","gr":"ADV=comp"}],"text":"слаще"}

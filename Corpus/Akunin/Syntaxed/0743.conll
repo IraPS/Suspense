@@ -1,0 +1,9 @@
+1	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	встрепенулся	ВСТРЕПЕНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	пытливо	ПЫТЛИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	2	1-компл	_	_
+5	заглянул	ЗАГЛЯДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+6	в	В	PR	PR	PR	5	2-компл	_	_
+7	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

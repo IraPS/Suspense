@@ -1,0 +1,70 @@
+1	Его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	2	квазиагент	_	_
+2	тело	ТЕЛО	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+3	разрывалось	РАЗРЫВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	от	ОТ	PR	PR	PR	3	1-компл	_	_
+5	дрожи	ДРОЖЬ	S	S f inan gen sg	S f inan gen sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	которую	КОТОРЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	1-компл	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	9	предик	_	_
+9	сдерживал	СДЕРЖИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	сент-соч	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Джой	ДЖОЙ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	беспомощно	БЕСПОМОЩНО	ADV	ADV -	ADV -	3	обст	_	_
+3	смотрела	СМОТРЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	1-компл	_	_
+5	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	7	опред	_	_
+6	укушенную	УКУСИТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	7	опред	_	_
+7	руку	РУКА	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	испытала	ИСПЫТЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	гадливую	ГАДЛИВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	боль	БОЛЬ	S	S f inan nom sg	S f inan nom sg	2	присвяз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	8	квазиагент	_	_
+8	воображение	ВООБРАЖЕНИЕ	S	S n inan nom sg	S n inan nom sg	10	предик	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	действовало	ДЕЙСТВОВАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	6	соч-союзн	_	_
+11	так	ТАК	ADV	ADV -	ADV -	12	огранич	_	_
+12	быстро	БЫСТРО	ADV	ADV -	ADV -	10	обст	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	как	КАК	CONJ	CONJ	CONJ	11	сравнит	_	_
+15	у	У	PR	PR	PR	14	сравн-союзн	_	_
+16	Кольбера	КОЛЬБЕР	S	S m anim acc sg	S m anim acc sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	10	сент-соч	_	_
+19	сознание	СОЗНАНИЕ	S	S n inan nom sg	S n inan nom sg	22	предик	_	_
+20	конца	КОНЕЦ	S	S m inan gen sg	S m inan gen sg	19	квазиагент	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	оглушило	ОГЛУШАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	18	соч-союзн	_	_
+23	еще	ЕЩЕ	PART	PART	PART	24	огранич	_	_
+24	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	22	1-компл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	резкость	РЕЗКОСТЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	приказания	ПРИКАЗАНИЕ	S	S n inan acc pl	S n inan acc pl	3	соч-союзн	_	_
+5	Кольбера	КОЛЬБЕР	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+6	вооружили	ВООРУЖАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	релят	_	_
+7	всю	ВЕСЬ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+8	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+9	самостоятельность	САМОСТОЯТЕЛЬНОСТЬ	S	S f inan nom sg	S f inan nom sg	6	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	очутившуюся	ОЧУТИТЬСЯ	PARTCP	PARTCP pf praet acc sg plen f act -	PARTCP pf praet acc sg plen f act -	9	опред	_	_
+12	в	В	PR	PR	PR	11	обст	_	_
+13	опасности	ОПАСНОСТЬ	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+14	от	ОТ	PR	PR	PR	13	квазиагент	_	_
+15	той	ТОТ	A	A - gen sg plen f -	A - gen sg plen f -	17	опред	_	_
+16	крупной	КРУПНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	17	опред	_	_
+17	услуги	УСЛУГА	S	S f inan gen sg	S f inan gen sg	14	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	которую	КОТОРЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	20	1-компл	_	_
+20	собрался	СОБИРАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	релят	_	_
+21	оказать	ОКАЗЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	20	1-компл	_	_
+22	Кольбер	КОЛЬБЕР	S	S f inan acc sg	S f inan acc sg	21	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

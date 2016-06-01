@@ -1,0 +1,20 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	обернулась	ОБЕРТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	скорчила	СКОРЧИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	соч-союзн	_	_
+5	гримасу	ГРИМАСА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	уверенная	УВЕРЯТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	2	сент-соч	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	за	ЗА	PR	PR	PR	15	обст	_	_
+11	непривычной	НЕПРИВЫЧНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	12	опред	_	_
+12	любезностью	ЛЮБЕЗНОСТЬ	S	S f inan ins sg	S f inan ins sg	10	предл	_	_
+13	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	12	квазиагент	_	_
+14	немедленно	НЕМЕДЛЕННО	ADV	ADV -	ADV -	15	обст	_	_
+15	последует	ПОСЛЕДОВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	9	подч-союзн	_	_
+16	какой-нибудь	КАКОЙ-НИБУДЬ	A	A - nom sg plen m -	A - nom sg plen m -	18	опред	_	_
+17	змеиный	ЗМЕИНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	18	опред	_	_
+18	укус	УКУС	S	S m inan nom sg	S m inan nom sg	15	предик	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

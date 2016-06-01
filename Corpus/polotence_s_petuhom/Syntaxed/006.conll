@@ -1,0 +1,77 @@
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	содрогнулся	СОДРОГАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	оглянулся	ОГЛЯНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+5	тоскливо	ТОСКЛИВО	ADV	ADV -	ADV -	4	обст	_	_
+6	на	НА	PR	PR	PR	4	2-компл	_	_
+7	белый	БЕЛЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	опред	_	_
+8	облупленный	ОБЛУПЛЕННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	опред	_	_
+9	двухэтажный	ДВУХЭТАЖНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	опред	_	_
+10	корпус	КОРПУС	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	на	НА	PR	PR	PR	4	обст	_	_
+13	небеленые	НЕБЕЛЕНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	15	опред	_	_
+14	бревенчатые	БРЕВЕНЧАТЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	15	опред	_	_
+15	стены	СТЕНА	S	S f inan acc pl	S f inan acc pl	12	предл	_	_
+16	фельдшерского	ФЕЛЬДШЕРСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	17	опред	_	_
+17	домика	ДОМИК	S	S m inan gen sg	S m inan gen sg	15	квазиагент	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	на	НА	PR	PR	PR	24	обст	_	_
+20	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	22	опред	_	_
+21	будущую	БУДУЩИЙ	A	A - acc sg plen f -	A - acc sg plen f -	22	опред	_	_
+22	резиденцию	РЕЗИДЕНЦИЯ	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+23	-	-	-	-	PUNC	22	PUNC	_	_
+24	двухэтажный	ДВУХЭТАЖНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	сент-соч	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	очень	ОЧЕНЬ	ADV	ADV -	ADV -	27	огранич	_	_
+27	чистенький	ЧИСТЕНЬКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	24	сент-соч	_	_
+28	дом	ДОМ	S	S m inan nom sg	S m inan nom sg	27	предик	_	_
+29	с	С	PR	PR	PR	28	атриб	_	_
+30	гробовыми	ГРОБОВОЙ	A	A - ins pl plen - -	A - ins pl plen - -	32	опред	_	_
+31	загадочными	ЗАГАДОЧНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	32	опред	_	_
+32	окнами	ОКНО	S	S n inan ins pl	S n inan ins pl	29	предл	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	протяжно	ПРОТЯЖНО	ADV	ADV -	ADV -	35	обст	_	_
+35	вздохнул	ВЗДЫХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	27	сент-соч	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	тут	ТУТ	ADV	ADV -	ADV -	5	обст	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	мутно	МУТНО	ADV	ADV -	ADV -	5	обст	_	_
+5	мелькнула	МЕЛЬКНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+6	в	В	PR	PR	PR	5	обст	_	_
+7	голове	ГОЛОВА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	вместо	ВМЕСТО	PR	PR	PR	12	обст	_	_
+9	латинских	ЛАТИНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	опред	_	_
+10	слов	СЛОВО	S	S n inan gen pl	S n inan gen pl	8	предл	_	_
+11	сладкая	СЛАДКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	12	опред	_	_
+12	фраза	ФРАЗА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	которую	КОТОРЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	15	1-компл	_	_
+15	спел	СПЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	релят	_	_
+16	в	В	PR	PR	PR	15	обст	_	_
+17	ошалевших	ОШАЛЕВАТЬ	PARTCP	PARTCP pf praet loc pl plen - act -	PARTCP pf praet loc pl plen - act -	20	опред	_	_
+18	от	ОТ	PR	PR	PR	17	1-компл	_	_
+19	качки	КАЧКА	S	S f inan gen sg	S f inan gen sg	18	предл	_	_
+20	мозгах	МОЗГИ	S	S - inan loc pl	S - inan loc pl	16	предл	_	_
+21	полный	ПОЛНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	22	опред	_	_
+22	тенор	ТЕНОР	S	S m inan nom sg	S m inan nom sg	15	предик	_	_
+23	с	С	PR	PR	PR	22	атриб	_	_
+24	голубыми	ГОЛУБОЙ	A	A - ins pl plen - -	A - ins pl plen - -	25	опред	_	_
+25	ляжками	ЛЯЖКА	S	S f inan ins pl	S f inan ins pl	23	предл	_	_
+26	:	:	:	:	PUNC	25	PUNC	_	_
+27	-	-	-	-	PUNC	26	PUNC	_	_
+28	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	"	"	_	_	PUNC	2	PUNC	_	_
+2	Привет	ПРИВЕТ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+3	тебе...	ТЫ...	SPRO	SPRO sg 2p - loc	SPRO sg 2p - loc	0	ROOT	_	_
+4	при	ПРИ	PR	PR	PR	3	обст	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	ют	ЮТ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+7	свя	СВЯ	NONLEX	NONLEX	NONLEX	6	аппоз	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	щенный...	ЩЕННЫЙ...	A	A - acc sg plen m inan	A - acc sg plen m inan	6	опред	_	_
+10	"	"	SENT	SENT	SENT	9	PUNC	_	_
+

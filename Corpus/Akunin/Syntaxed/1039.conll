@@ -1,0 +1,15 @@
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	оглянулась	ОГЛЯНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	еще	ЕЩЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	секунду	СЕКУНДА	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+6	помешкала	ПОМЕШКАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сочин	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	вскочила	ВСКАКИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+9	на	НА	PR	PR	PR	8	1-компл	_	_
+10	поплывшую	ПОПЛЫТЬ	PARTCP	PARTCP pf praet acc sg plen f act -	PARTCP pf praet acc sg plen f act -	13	опред	_	_
+11	вдоль	ВДОЛЬ	PR	PR	PR	10	обст	_	_
+12	перрона	ПЕРРОН	S	S m inan gen sg	S m inan gen sg	11	предл	_	_
+13	ступеньку	СТУПЕНЬКА	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

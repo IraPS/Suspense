@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}
+{"analysis":[{"lex":"поймать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"поймал"}
+{"analysis":[{"lex":"варин","gr":"S,famn,m,anim=nom,sg"}],"text":"Варин"}
+{"analysis":[{"lex":"взгляд","gr":"S,m,inan=acc,sg"},{"lex":"взгляд","gr":"S,m,inan=nom,sg"}],"text":"взгляд"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"состроить","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"состроил"}
+{"analysis":[{"lex":"ипохондрический","gr":"A=acc,sg,plen,f"}],"text":"ипохондрическую"}
+{"analysis":[{"lex":"гримаса","gr":"S,f,inan=acc,sg"}],"text":"гримасу"}
+{"text":"\\s"}
+{"analysis":[{"lex":"всеобщий","gr":"A=acc,sg,plen,m,anim"},{"lex":"всеобщий","gr":"A=gen,sg,plen,m"},{"lex":"всеобщий","gr":"A=gen,sg,plen,n"}],"text":"Всеобщего"}
+{"analysis":[{"lex":"воодушевление","gr":"S,n,inan=acc,pl"},{"lex":"воодушевление","gr":"S,n,inan=gen,sg"},{"lex":"воодушевление","gr":"S,n,inan=nom,pl"}],"text":"воодушевления"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"явно","gr":"ADV="}],"text":"явно"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"разделять","gr":"V,tran=praet,sg,indic,m,ipf"}],"text":"разделял"}

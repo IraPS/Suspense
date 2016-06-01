@@ -1,0 +1,69 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	хотела	ХОТЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	выбежать	ВЫБЕГАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	на	НА	PR	PR	PR	3	1-компл	_	_
+5	дорогу	ДОРОГА	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+8	тут	ТУТ	ADV	ADV -	ADV -	11	обст	_	_
+9	из	ИЗ	PR	PR	PR	11	1-компл	_	_
+10	корчмы	КОРЧМА	S	S f inan gen sg	S f inan gen sg	9	предл	_	_
+11	выскочил	ВЫСКОЧИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+12	хозяин	ХОЗЯИН	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	в	В	PR	PR	PR	18	огранич	_	_
+15	красной	КРАСНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	16	опред	_	_
+16	рубахе	РУБАХА	S	S f inan loc sg	S f inan loc sg	14	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	с	С	PR	PR	PR	11	обст	_	_
+19	багровым	БАГРОВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	20	опред	_	_
+20	носом	НОС	S	S m inan ins sg	S m inan ins sg	18	предл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	с	С	PR	PR	PR	18	сочин	_	_
+23	бородавками	БОРОДАВКА	S	S f inan acc sg	S f inan acc sg	22	предл	_	_
+24	на	НА	PR	PR	PR	22	сочин	_	_
+25	щеке	ЩЕКА	S	S f inan dat sg	S f inan dat sg	24	предл	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	сердито	СЕРДИТО	ADV	ADV -	ADV -	28	обст	_	_
+28	закричал	ЗАКРИЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	сочин	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	показал	ПОКАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	28	сочин	_	_
+31	:	:	:	:	PUNC	33	2-компл	_	_
+32	сначала	СНАЧАЛА	ADV	ADV -	ADV -	33	обст	_	_
+33	плати	ПЛАТИТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	30	обст	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	потом	ПОТОМ	ADV	ADV -	ADV -	36	обст	_	_
+36	уходи	УХОДИТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	33	сочин	_	_
+37	.	.	SENT	SENT	SENT	36	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	вернулась	ВЕРНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	потому что	потому что	CONJ	CONJ	ZERO	2	сочин	_	_
+5	испугалась	ИСПУГАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	соч-союзн	_	_
+6	хозяина	ХОЗЯИН	S	S m anim acc sg	S m anim acc sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	5	сент-соч	_	_
+9	платить	ПЛАТИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	предик	_	_
+10	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	8	соч-союзн	_	_
+11	нечем	НЕЧЕГО	S	S n inan ins sg	S n inan ins sg	10	присвяз	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Тихо	ТИХО	ADV	ADV -	ADV -	2	обст	_	_
+2	села	САДИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	угол	УГОЛ	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	попыталась	ПОПЫТАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	соч-союзн	_	_
+7	отнестись	ОТНОСИТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+8	к	К	PR	PR	PR	7	1-компл	_	_
+9	случившемуся	СЛУЧАТЬСЯ	PARTCP	PARTCP pf praet dat sg plen m act -	PARTCP pf praet dat sg plen m act -	8	предл	_	_
+10	как	КАК	CONJ	CONJ	CONJ	9	сравнит	_	_
+11	к	К	PR	PR	PR	10	сравн-союзн	_	_
+12	приключению	ПРИКЛЮЧЕНИЕ	S	S n inan dat sg	S n inan dat sg	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	получилось	ПОЛУЧАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

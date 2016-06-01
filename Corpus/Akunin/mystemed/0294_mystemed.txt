@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"итого","gr":"ADV="}],"text":"Итого"}
+{"analysis":[{"lex":"десять","gr":"NUM=acc"},{"lex":"десять","gr":"NUM=nom"}],"text":"десять"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"один","gr":"APRO=dat,sg,m"},{"lex":"один","gr":"APRO=dat,sg,n"}],"text":"одному"}
+{"analysis":[{"lex":"резюмировать","gr":"V,tran=praet,sg,indic,m,ipf"},{"lex":"резюмировать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"резюмировал"}
+{"analysis":[{"lex":"лукан","gr":"S,persn,m,anim=nom,sg"}],"text":"Лукан"}
+{"text":"\\s"}
+{"analysis":[{"lex":"господин","gr":"S,m,anim=nom,pl"}],"text":"Господа"}
+{"analysis":[{"lex":"выигрыш","gr":"S,m,inan=acc,sg"},{"lex":"выигрыш","gr":"S,m,inan=nom,sg"}],"text":"выигрыш"}
+{"analysis":[{"lex":"небольшой","gr":"A=acc,sg,plen,m,inan"},{"lex":"небольшой","gr":"A=nom,sg,plen,m"},{"lex":"небольшой","gr":"A=abl,sg,plen,f"},{"lex":"небольшой","gr":"A=dat,sg,plen,f"},{"lex":"небольшой","gr":"A=gen,sg,plen,f"},{"lex":"небольшой","gr":"A=ins,sg,plen,f"}],"text":"небольшой"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"верный","gr":"A=acc,sg,plen,m,inan"},{"lex":"верный","gr":"A=nom,sg,plen,m"}],"text":"верный"}

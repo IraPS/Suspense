@@ -1,0 +1,46 @@
+1	В	В	PR	PR	PR	7	обст	_	_
+2	этот	ЭТОТ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	миг	МИГ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	в	В	PR	PR	PR	7	обст	_	_
+5	шатер	ШАТЕР	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	стремительно	СТРЕМИТЕЛЬНО	ADV	ADV -	ADV -	7	обст	_	_
+7	вошел	ВХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	Варин	ВАРИН	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+9	знакомец	ЗНАКОМЕЦ	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	–	–	–	–	PUNC	7	вводн	_	_
+11	капитан	КАПИТАН	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+12	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	11	аппоз	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	2	1-компл	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	узнать	УЗНАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+5	:	:	:	:	PUNC	4	1-компл	_	_
+6	мундир	МУНДИР	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+7	с	С	PR	PR	PR	6	атриб	_	_
+8	иголочки	ИГОЛОЧКА	S	S f inan gen sg	S f inan gen sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	сапоги	САПОГ	S	S m inan acc pl	S m inan acc pl	11	1-компл	_	_
+11	сияют	СИЯТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	4	изъясн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	на	НА	PR	PR	PR	11	2-компл	_	_
+14	глазу	ГЛАЗ	S	S m inan dat sg	S m inan dat sg	13	предл	_	_
+15	импозантная	ИМПОЗАНТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	17	опред	_	_
+16	черная	ЧЕРНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	17	опред	_	_
+17	повязка	ПОВЯЗКА	S	S f inan nom sg	S f inan nom sg	14	аппоз	_	_
+18	(	(	_	_	PUNC	19	PUNC	_	_
+19	видно	ВИДНО	ADV	ADV -	ADV -	24	вводн	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	синяк	СИНЯК	S	S m inan nom sg	S m inan nom sg	24	предик	_	_
+22	еще	ЕЩЕ	ADV	ADV -	ADV -	24	огранич	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	прошел	ПРОХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	17	примыкат	_	_
+25	)	)	_	_	PUNC	24	PUNC	_	_
+26	,	,	,	,	PUNC	24	PUNC	_	_
+27	голова	ГОЛОВА	S	S f inan nom sg	S f inan nom sg	28	предик	_	_
+28	обвязана	ОБВЯЗЫВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	11	сент-соч	_	_
+29	белым	БЕЛЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	30	опред	_	_
+30	бинтом	БИНТ	S	S m inan ins sg	S m inan ins sg	28	агент	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+

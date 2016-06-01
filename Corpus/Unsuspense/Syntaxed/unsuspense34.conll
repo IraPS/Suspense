@@ -1,0 +1,38 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Что	ЧТО	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	кажется	КАЗАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	вводн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	нездорова	НЕЗДОРОВЫЙ	A	A - - sg brev f -	A - - sg brev f -	2	сравн-союзн	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+4	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	2	обст	_	_
+5	Ермолая	ЕРМОЛАЙ	S	S m anim gen sg	S m anim gen sg	2	2-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Какое	КАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	3	опред	_	_
+3	здоровье	ЗДОРОВЬЕ	S	S n inan acc sg	S n inan acc sg	1	1-компл	_	_
+4	!..	!..	SENT	SENT	SENT	3	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	завтра	ЗАВТРА	ADV	ADV -	ADV -	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	чай	ЧАЙ	S	S m inan acc sg	S m inan acc sg	1	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	тяга	ТЯГА	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+7	хороша	ХОРОШИЙ	A	A - - sg brev f -	A - - sg brev f -	8	присвяз	_	_
+8	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	сент-соч	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	3	1-компл	_	_
+2	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	3	обст	_	_
+3	соснуть	СОСНУТЬ	V	V pf - - inf - -	V pf - - inf - -	5	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	худо	ХУДО	ADV	ADV -	ADV -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

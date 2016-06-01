@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"смущаться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"смутилась"}
+{"analysis":[{"lex":"ну","gr":"PART="}],"text":"Ну"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"только","gr":"PART="}],"text":"только"}
+{"text":"\\s"}
+{"analysis":[{"lex":"родитель","gr":"S,m,anim=nom,pl"}],"text":"Родители"}
+{"analysis":[{"lex":"брат","gr":"S,m,anim=nom,pl"}],"text":"братья"}
+{"analysis":[{"lex":"сестра","gr":"S,f,anim=gen,sg"},{"lex":"сестра","gr":"S,f,anim=nom,pl"}],"text":"сестры"}

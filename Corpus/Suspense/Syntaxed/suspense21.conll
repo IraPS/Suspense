@@ -1,0 +1,66 @@
+1	Светлые	СВЕТЛЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	чуть	ЧУТЬ	ADV	ADV -	ADV -	4	огранич	_	_
+4	рыжеватые	РЫЖЕВАТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	1	сочин	_	_
+5	волосы	ВОЛОС	S	S m inan nom pl	S m inan nom pl	6	предик	_	_
+6	свешивались	СВЕШИВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	со	СО	PR	PR	PR	6	1-компл	_	_
+8	стола	СТОЛ	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+9	сбившимся	СБИВАТЬСЯ	PARTCP	PARTCP pf praet dat pl plen - act -	PARTCP pf praet dat pl plen - act -	11	опред	_	_
+10	засохшим	ЗАСЫХАТЬ	PARTCP	PARTCP pf praet dat pl plen - act -	PARTCP pf praet dat pl plen - act -	11	опред	_	_
+11	колтуном	КОЛТУН	S	S m inan ins sg	S m inan ins sg	6	обст	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Коса	КОСА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	гигантская	ГИГАНТСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	конец	КОНЕЦ	S	S m inan nom sg	S m inan nom sg	5	соч-союзн	_	_
+7	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	8	1-компл	_	_
+8	касался	КАСАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сент-соч	_	_
+9	пола	ПОЛ	S	S m inan gen sg	S m inan gen sg	8	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Ситцевая	СИТЦЕВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	юбка	ЮБКА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	изорвана	ИЗОРВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	3	пасс-анал	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+7	кровь	КРОВЬ	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+8	на	НА	PR	PR	PR	11	огранич	_	_
+9	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	8	предл	_	_
+10	разного	РАЗНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	11	опред	_	_
+11	цвета	ЦВЕТ	S	S m inan gen sg	S m inan gen sg	7	квазиагент	_	_
+12	-	-	-	-	PUNC	11	PUNC	_	_
+13	пятно	ПЯТНО	S	S n inan nom sg	S n inan nom sg	6	соч-союзн	_	_
+14	бурое	БУРЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	13	опред	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	пятно	ПЯТНО	S	S n inan nom sg	S n inan nom sg	13	сочин	_	_
+17	жирное	ЖИРНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	16	опред	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	алое	АЛЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	17	сочин	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Свет	СВЕТ	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+2	"	"	_	_	PUNC	3	PUNC	_	_
+3	молнии	МОЛНИЯ	S	S f inan gen sg	S f inan gen sg	1	1-компл	_	_
+4	"	"	_	_	PUNC	3	PUNC	_	_
+5	показался	ПОКАЗЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	5	1-компл	_	_
+7	желтым	ЖЕЛТЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	5	2-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	живым	ЖИВОЙ	A	A - ins sg plen n -	A - ins sg plen n -	8	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	5	сент-соч	_	_
+12	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	13	квазиагент	_	_
+13	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	14	предик	_	_
+14	бумажным	БУМАЖНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	19	агент	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	белым	БЕЛЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	14	сочин	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	нос	НОС	S	S m inan nom sg	S m inan nom sg	19	предик	_	_
+19	заострен	ЗАОСТРЯТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	11	соч-союзн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

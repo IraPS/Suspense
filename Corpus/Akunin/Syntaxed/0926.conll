@@ -1,0 +1,392 @@
+1	–	–	–	–	PUNC	4	предик	_	_
+2	Тут-то	ТУТ-ТО	ADV	ADV -	ADV -	4	обст	_	_
+3	и	И	CONJ	CONJ	CONJ	4	соотнос	_	_
+4	выяснилось	ВЫЯСНЯТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	4	сент-соч	_	_
+7	–	–	–	–	PUNC	6	аппрокс-колич	_	_
+8	как	КАК	CONJ	CONJ	CONJ	7	сравнит	_	_
+9	ни	НИ	PART	PART	PART	10	огранич	_	_
+10	в	В	PR	PR	PR	8	сравн-союзн	_	_
+11	чем	ЧТО	S	S n - ins sg	S n - ins sg	10	предл	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	бывало	БЫВАЛО	ADV	ADV -	ADV -	14	обст	_	_
+14	продолжил	ПРОДОЛЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	вводн	_	_
+15	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+16	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	15	аппоз	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	 	 	 	 	PUNC	15	опред	_	_
+19	–	–	–	–	PUNC	0	ROOT	_	_
+20	что	ЧТО	CONJ	CONJ	CONJ	19	1-компл	_	_
+21	прославленного	ПРОСЛАВЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	22	опред	_	_
+22	Шарля	ШАРЛЬ	S	S m anim gen sg	S m anim gen sg	31	предик	_	_
+23	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	22	аппоз	_	_
+24	'	'	_	_	PUNC	23	PUNC	_	_
+25	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	22	аппоз	_	_
+26	в	В	PR	PR	PR	22	атриб	_	_
+27	родной	РОДНОЙ	A	A - loc sg plen f -	A - loc sg plen f -	28	опред	_	_
+28	редакции	РЕДАКЦИЯ	S	S f inan loc sg	S f inan loc sg	26	предл	_	_
+29	никогда	НИКОГДА	ADV	ADV -	ADV -	31	обст	_	_
+30	не	НЕ	PART	PART	PART	31	огранич	_	_
+31	видели	ВИДЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	20	подч-союзн	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	Это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	2	опред	_	_
+2	третье	ТРЕТИЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	присылал	ПРИСЫЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	свои	СВОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	5	опред	_	_
+4	блестящие	БЛЕСТЯЩИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	5	опред	_	_
+5	статьи	СТАТЬЯ	S	S f inan acc pl	S f inan acc pl	2	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	очерки	ОЧЕРК	S	S m inan nom pl	S m inan nom pl	2	длительн	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	фельетоны	ФЕЛЬЕТОН	S	S m inan nom pl	S m inan nom pl	8	соч-союзн	_	_
+10	по	ПО	PR	PR	PR	9	2-компл	_	_
+11	почте	ПОЧТА	S	S f inan dat sg	S f inan dat sg	10	предл	_	_
+12	или	ИЛИ	CONJ	CONJ	CONJ	11	сочин	_	_
+13	телеграфом	ТЕЛЕГРАФ	S	S m inan ins sg	S m inan ins sg	12	соч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Ну	НУ	PART	PART	PART	1	огранич	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	3	соч-союзн	_	_
+5	с	С	PR	PR	PR	0	ROOT	_	_
+6	того	ТО	S	S n - gen sg	S n - gen sg	5	предл	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	возмутился	ВОЗМУЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Шарль	ШАРЛЬ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	паркетный	ПАРКЕТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	шаркун	ШАРКУН	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	8	предик	_	_
+8	искатель	ИСКАТЕЛЬ	S	S m anim nom sg	S m anim nom sg	2	об-аппоз	_	_
+9	приключений	ПРИКЛЮЧЕНИЕ	S	S n inan gen pl	S n inan gen pl	8	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	И	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	даже	ДАЖЕ	PART	PART	PART	4	огранич	_	_
+4	в	В	PR	PR	PR	2	соч-союзн	_	_
+5	б	Б	S	S - - nonflex nonflex	S - - nonflex nonflex	4	предл	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	большей	БОЛЬШИЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	опред	_	_
+8	степени	СТЕПЕНЬ	S	S f inan gen sg	S f inan gen sg	4	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	чем	ЧЕМ	CONJ	CONJ	CONJ	8	сравнит	_	_
+11	предполагает	ПРЕДПОЛАГАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	сравн-союзн	_	_
+12	ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	13	опред	_	_
+13	превосходительство	ПРЕВОСХОДИТЕЛЬСТВО	S	S n anim nom sg	S n anim nom sg	11	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	порылся	ПОРЫТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	обст	_	_
+4	подшивках	ПОДШИВКА	S	S f inan loc pl	S f inan loc pl	3	предл	_	_
+5	«	«	_	_	PUNC	4	PUNC	_	_
+6	Ревю	РЕВЮ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	4	аппоз	_	_
+7	паризьен	ПАРИЗЬЕН	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+8	»	»	_	_	PUNC	7	PUNC	_	_
+9	,	,	,	,	PUNC	7	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+11	выяснились	ВЫЯСНЯТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	10	соч-союзн	_	_
+12	очень	ОЧЕНЬ	ADV	ADV -	ADV -	13	огранич	_	_
+13	любопытные	ЛЮБОПЫТНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	14	опред	_	_
+14	совпадения	СОВПАДЕНИЕ	S	S n inan nom pl	S n inan nom pl	11	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Первые	ПЕРВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	публикации	ПУБЛИКАЦИЯ	S	S f inan gen sg	S f inan gen sg	7	предик	_	_
+3	господина	ГОСПОДИН	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+4	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	3	аппоз	_	_
+5	'	'	_	_	PUNC	4	PUNC	_	_
+6	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	3	аппоз	_	_
+7	присланы	ПРИСЫЛАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	0	ROOT	_	_
+8	из	ИЗ	PR	PR	PR	7	2-компл	_	_
+9	Болгарии	БОЛГАРИЯ	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	десять	ДЕСЯТЬ	NUM	NUM acc - -	NUM acc - -	11	количест	_	_
+11	лет	ГОД	S	S m inan gen pl	S m inan gen pl	13	длительн	_	_
+12	назад	НАЗАД	ADV	ADV -	ADV -	13	обст	_	_
+13	–	–	–	–	PUNC	15	предик	_	_
+14	как раз	как раз	ADV	ADV -	-	15	огранич	_	_
+15	в	В	PR	PR	PR	7	сент-соч	_	_
+16	ту	ТОТ	A	A - acc sg plen f -	A - acc sg plen f -	17	опред	_	_
+17	пору	ПОРА	S	S f inan acc sg	S f inan acc sg	15	предл	_	_
+18	в	В	PR	PR	PR	15	сент-соч	_	_
+19	Дунайском	ДУНАЙСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	20	опред	_	_
+20	вилайете	ВИЛАЙЕТ	S	S m inan loc sg	S m inan loc sg	18	предл	_	_
+21	губернаторствовал	ГУБЕРНАТОРСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	вводн	_	_
+22	Мидхат	МИДХАТ	S	S m anim nom sg	S m anim nom sg	21	предик	_	_
+23	-	-	-	-	PUNC	22	PUNC	_	_
+24	паша	ПАША	S	S m anim nom sg	S m anim nom sg	22	аппоз	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	при	ПРИ	PR	PR	PR	28	обст	_	_
+27	котором	КОТОРЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	26	предл	_	_
+28	состоял	СОСТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сент-соч	_	_
+29	секретарем	СЕКРЕТАРЬ	S	S m anim ins sg	S m anim ins sg	28	1-компл	_	_
+30	молодой	МОЛОДОЙ	A	A - nom sg plen m -	A - nom sg plen m -	31	опред	_	_
+31	чиновник	ЧИНОВНИК	S	S m anim nom sg	S m anim nom sg	28	предик	_	_
+32	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	31	аппоз	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	В	В	PR	PR	PR	7	обст	_	_
+2	1868	1868	NUM	NUM - - -	NUM - - -	3	опред	_	_
+3	году	ГОД	S	S m inan loc2 sg	S m inan loc2 sg	1	предл	_	_
+4	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	7	предик	_	_
+5	'	'	_	_	PUNC	4	PUNC	_	_
+6	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+7	присылает	ПРИСЫЛАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+8	из	ИЗ	PR	PR	PR	7	1-компл	_	_
+9	Константинополя	КОНСТАНТИНОПОЛЬ	S	S m inan gen sg	S m inan gen sg	8	предл	_	_
+10	ряд	РЯД	S	S m inan acc sg	S m inan acc sg	7	разъяснит	_	_
+11	блестящих	БЛЕСТЯЩИЙ	A	A - gen pl plen - -	A - gen pl plen - -	12	опред	_	_
+12	зарисовок	ЗАРИСОВКА	S	S f inan gen pl	S f inan gen pl	10	квазиагент	_	_
+13	о	О	PR	PR	PR	12	1-компл	_	_
+14	нравах	НРАВ	S	S m inan loc pl	S m inan loc pl	13	предл	_	_
+15	султанского	СУЛТАНСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	16	опред	_	_
+16	двора	ДВОР	S	S m inan gen sg	S m inan gen sg	14	квазиагент	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+2	период	ПЕРИОД	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+3	первого	ПЕРВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	взлета	ВЗЛЕТ	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+5	Мидхат	МИДХАТ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	паши	ПАША	S	S m anim gen sg	S m anim gen sg	5	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	когда	КОГДА	CONJ	CONJ	CONJ	5	обст	_	_
+10	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	11	предик	_	_
+11	приглашен	ПРИГЛАШАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	9	подч-союзн	_	_
+12	в	В	PR	PR	PR	11	2-компл	_	_
+13	столицу	СТОЛИЦА	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	руководить	РУКОВОДИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	обст	_	_
+15	Государственным	ГОСУДАРСТВЕННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	16	опред	_	_
+16	Советом	СОВЕТ	S	S m inan ins sg	S m inan ins sg	14	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Год	ГОД	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+2	спустя	СПУСТЯ	PR	PR	PR	1	атриб	_	_
+3	реформатора	РЕФОРМАТОР	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	отправляют	ОТПРАВЛЯТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+5	в	В	PR	PR	PR	4	2-компл	_	_
+6	почетную	ПОЧЕТНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	7	опред	_	_
+7	ссылку	ССЫЛКА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	в	В	PR	PR	PR	0	ROOT	_	_
+10	далекое	ДАЛЕКИЙ	A	A - acc sg plen n -	A - acc sg plen n -	11	опред	_	_
+11	Междуречье	МЕЖДУРЕЧЬЕ	S	S n inan loc sg	S n inan loc sg	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+14	бойкое	БОЙКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	15	опред	_	_
+15	перо	ПЕРО	S	S n inan nom sg	S n inan nom sg	13	соч-союзн	_	_
+16	талантливого	ТАЛАНТЛИВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	17	опред	_	_
+17	журналиста	ЖУРНАЛИСТ	S	S m anim gen sg	S m anim gen sg	15	1-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	как	КАК	CONJ	CONJ	CONJ	15	сравнит	_	_
+20	зачарованное	ЗАЧАРОВАННЫЙ	A	A - acc sg plen n -	A - acc sg plen n -	21	1-компл	_	_
+21	перемещается	ПЕРЕМЕЩАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	19	сравн-союзн	_	_
+22	из	ИЗ	PR	PR	PR	21	обст	_	_
+23	Константинополя	КОНСТАНТИНОПОЛЬ	S	S m inan gen sg	S m inan gen sg	22	предл	_	_
+24	в	В	PR	PR	PR	21	2-компл	_	_
+25	Багдад	БАГДАД	S	S m inan acc sg	S m inan acc sg	24	предл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Три	ТРИ	NUM	NUM nom - -	NUM nom - -	2	количест	_	_
+2	года	ГОД	S	S m inan gen sg	S m inan gen sg	6	длительн	_	_
+3	(	(	_	_	PUNC	4	PUNC	_	_
+4	а именно	а именно	ADV	ADV -	-	5	огранич	_	_
+5	столько	СТОЛЬКО	NUM	NUM acc - -	NUM acc - -	6	длительн	_	_
+6	губернаторствовал	ГУБЕРНАТОРСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	Ираке	ИРАК	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+9	Мидхат	МИДХАТ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+10	-	-	-	-	PUNC	9	PUNC	_	_
+11	паша	ПАША	S	S m anim nom sg	S m anim nom sg	9	сочин	_	_
+12	)	)	_	_	PUNC	11	PUNC	_	_
+13	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	11	опред	_	_
+14	'	'	_	_	PUNC	13	PUNC	_	_
+15	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	11	аппоз	_	_
+16	пишет	ПИСАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	вводн	_	_
+17	о	О	PR	PR	PR	16	обст	_	_
+18	раскопках	РАСКОПКА	S	S f inan loc pl	S f inan loc pl	17	предл	_	_
+19	ассирийских	АССИРИЙСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	20	опред	_	_
+20	городов	ГОРОД	S	S m inan gen pl	S m inan gen pl	18	1-компл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	арабских	АРАБСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	23	опред	_	_
+23	шейхах	ШЕЙХ	S	S m inan gen pl	S m inan gen pl	20	сочин	_	_
+24	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+25	Суэцком	СУЭЦКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	26	опред	_	_
+26	канале	КАНАЛ	S	S m inan loc sg	S m inan loc sg	24	соч-союзн	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Подтасовка	ПОДТАСОВКА	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	сердито	СЕРДИТО	ADV	ADV -	ADV -	3	обст	_	_
+3	прервал	ПРЕРЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	говорившего	ГОВОРИТЬ	PARTCP	PARTCP ipf praet acc sg plen m act anim	PARTCP ipf praet acc sg plen m act anim	3	1-компл	_	_
+5	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Шарль	ШАРЛЬ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	путешествовал	ПУТЕШЕСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	по	ПО	PR	PR	PR	3	обст	_	_
+5	всему	ВЕСЬ	A	A - dat sg plen m -	A - dat sg plen m -	6	опред	_	_
+6	Востоку	ВОСТОК	S	S m inan dat sg	S m inan dat sg	4	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	писал	ПИСАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	из	ИЗ	PR	PR	PR	11	1-компл	_	_
+5	других	ДРУГОЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	мест	МЕСТО	S	S n inan gen pl	S n inan gen pl	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	опред	_	_
+9	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	11	предик	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	упоминаете	УПОМИНАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	3	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	потому что	потому что	CONJ	CONJ	ZERO	2	сент-соч	_	_
+14	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	15	предик	_	_
+15	выбиваются	ВЫБИВАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	13	соч-союзн	_	_
+16	из	ИЗ	PR	PR	PR	15	1-компл	_	_
+17	вашей	ВАШ	A	A - gen sg plen f -	A - gen sg plen f -	18	опред	_	_
+18	гипотезы	ГИПОТЕЗА	S	S f inan gen sg	S f inan gen sg	16	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	В	В	PR	PR	PR	10	обст	_	_
+2	73	73	NUM	NUM - - -	NUM - - -	4	композ	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	ем	ЕСТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	5	опред	_	_
+5	году	ГОД	S	S m inan dat sg	S m inan dat sg	1	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	например	НАПРИМЕР	ADV	ADV -	ADV -	10	вводн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	10	предик	_	_
+10	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+11	со	СО	PR	PR	PR	10	обст	_	_
+12	мной	Я	SPRO	SPRO sg 1p - ins	SPRO sg 1p - ins	11	предл	_	_
+13	в	В	PR	PR	PR	10	присвяз	_	_
+14	Хиве	ХИВА	S	S f inan loc sg	S f inan loc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Вместе	ВМЕСТЕ	ADV	ADV -	ADV -	2	обст	_	_
+2	умирали	УМИРАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	от	ОТ	PR	PR	PR	2	1-компл	_	_
+4	жажды	ЖАЖДА	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	вместе	ВМЕСТЕ	ADV	ADV -	ADV -	7	обст	_	_
+7	плавились	ПЛАВИТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	сочин	_	_
+8	от	ОТ	PR	PR	PR	7	1-компл	_	_
+9	зноя	ЗНОЙ	S	S m inan gen sg	S m inan gen sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	никакого	НИКАКОЙ	A	A - gen sg plen n -	A - gen sg plen n -	8	опред	_	_
+3	Мидхата	МИДХАТ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+4	там	ТАМ	ADV	ADV -	ADV -	6	обст	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	2	примыкат	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+9	следователь	СЛЕДОВАТЕЛЬ	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	!	!	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	откуда	ОТКУДА	ADV	ADV -	ADV -	5	обст	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+5	приехал	ПРИЕЗЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	соч-союзн	_	_
+6	в	В	PR	PR	PR	5	2-компл	_	_
+7	Среднюю	СРЕДНИЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	Азию	АЗИЯ	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	генерала	ГЕНЕРАЛ	S	S m anim acc sg	S m anim acc sg	2	1-компл	_	_
+4	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	из	ИЗ	PR	PR	PR	1	2-компл	_	_
+5	Ирана	ИРАН	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Полагаю	ПОЛАГАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	из	ИЗ	PR	PR	PR	4	подч-союзн	_	_
+7	Ирана	ИРАН	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	6	сочин	_	_
+10	из	ИЗ	PR	PR	PR	9	соч-союзн	_	_
+11	Ирака	ИРАК	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	конце	КОНЕЦ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	1873	1873	NUM	NUM - - -	NUM - - -	4	опред	_	_
+4	года	ГОД	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+5	газета	ГАЗЕТА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+6	печатает	ПЕЧАТАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+8	лиричные	ЛИРИЧНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	этюды	ЭТЮД	S	S m inan nom pl	S m inan nom pl	6	предик	_	_
+10	об	ОБ	PR	PR	PR	9	1-компл	_	_
+11	Элладе	ЭЛЛАДА	S	S f inan dat sg	S f inan dat sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Почему	ПОЧЕМУ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	вдруг	ВДРУГ	ADV	ADV -	ADV -	0	ROOT	_	_
+3	об	ОБ	PR	PR	PR	2	1-компл	_	_
+4	Элладе	ЭЛЛАДА	S	S f inan dat sg	S f inan dat sg	3	предл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	потому что	потому что	CONJ	CONJ	ZERO	1	соч-союзн	_	_
+3	патрона	ПАТРОН	S	S m inan gen sg	S m inan gen sg	5	атриб	_	_
+4	нашего	НАШ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	Анвара	АНВАР	S	S m anim acc sg	S m anim acc sg	7	1-компл	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	11	предик	_	_
+8	в	В	PR	PR	PR	11	обст	_	_
+9	это	ЭТОТ	A	A - acc sg plen n inan	A - acc sg plen n inan	10	опред	_	_
+10	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	8	предл	_	_
+11	переводят	ПЕРЕВОДИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	2	подч-союзн	_	_
+12	в	В	PR	PR	PR	11	2-компл	_	_
+13	Салоники	САЛОНИКИ	S	S - inan acc pl	S - inan acc pl	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Кстати	КСТАТИ	ADV	ADV -	ADV -	6	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+4	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	помните	ПОМНИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+7	дивную	ДИВНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	новеллу	НОВЕЛЛА	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+9	про	ПРО	PR	PR	PR	6	2-компл	_	_
+10	старые	СТАРЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	11	опред	_	_
+11	сапоги	САПОГ	S	S m inan acc pl	S m inan acc pl	9	предл	_	_
+12	?	?	SENT	SENT	SENT	11	PUNC	_	_
+

@@ -1,0 +1,3 @@
+{"analysis":[{"lex":"выстаивать","gr":"V=praet,pl,indic,pf"}],"text":"Выстояли"}
+{"text":"\\s"}
+{"analysis":[{"lex":"отбиваться","gr":"V,intr=praet,pl,indic,pf"}],"text":"Отбились"}

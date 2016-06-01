@@ -1,0 +1,19 @@
+1	Перепелкину	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	просто	ПРОСТО	PART	PART	PART	3	огранич	_	_
+3	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	а	А	CONJ	CONJ	CONJ	3	сочин	_	_
+6	напоследок	НАПОСЛЕДОК	ADV	ADV -	ADV -	7	обст	_	_
+7	обратился	ОБРАЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+8	к	К	PR	PR	PR	7	1-компл	_	_
+9	корреспонденту	КОРРЕСПОНДЕНТ	S	S m anim dat sg	S m anim dat sg	8	предл	_	_
+10	:	:	:	:	PUNC	7	2-компл	_	_
+11	–	–	–	–	PUNC	7	1-компл	_	_
+12	Салям	САЛЯМ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+13	алейкум	АЛЕЙКУМ	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	12	сочин	_	_
+16	-	-	-	-	PUNC	15	PUNC	_	_
+17	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	15	сочин	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

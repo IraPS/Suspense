@@ -1,0 +1,133 @@
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	повернулась	ПОВЕРТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	2-компл	_	_
+4	бок	БОК	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	попыталась	ПОПЫТАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	соч-союзн	_	_
+7	натянуть	НАТЯГИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+8	тяжелое	ТЯЖЕЛЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	9	опред	_	_
+9	одеяло	ОДЕЯЛО	S	S n inan nom sg	S n inan nom sg	2	разъяснит	_	_
+10	на	НА	PR	PR	PR	9	2-компл	_	_
+11	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Нет	НЕТ	PART	PART	PART	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	наше	НАШ	A	A - nom sg plen n -	A - nom sg plen n -	4	опред	_	_
+4	государство	ГОСУДАРСТВО	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+5	устроено	УСТРАИВАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	0	ROOT	_	_
+6	неправильно	НЕПРАВИЛЬНО	ADV	ADV -	ADV -	5	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Молодежь	МОЛОДЕЖЬ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	хочет	ХОТЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	погулять	ПОГУЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	найти	НАХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	3	сочин	_	_
+6	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	5	неакт-компл	_	_
+7	пару	ПАРА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	5	сочин	_	_
+10	пожилым	ПОЖИЛОЙ	A	A - dat pl plen - -	A - dat pl plen - -	15	2-компл	_	_
+11	скучно	СКУЧНО	ADV	ADV -	ADV -	12	огранич	_	_
+12	дома	ДОМА	ADV	ADV -	ADV -	15	обст	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	15	предик	_	_
+15	мечтают	МЕЧТАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	9	соч-союзн	_	_
+16	работать	РАБОТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	15	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Пенсию	ПЕНСИЯ	S	S m inan nom sg	S m inan nom sg	3	1-компл	_	_
+2	надо	НАДО	ADV	ADV -	ADV -	0	ROOT	_	_
+3	выдавать	ВЫДАВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	предик	_	_
+4	с	С	PR	PR	PR	3	обст	_	_
+5	восемнадцати	ВОСЕМНАДЦАТЬ	NUM	NUM loc - -	NUM loc - -	6	количест	_	_
+6	лет	ГОД	S	S m inan gen pl	S m inan gen pl	4	предл	_	_
+7	до	ДО	PR	PR	PR	3	обст	_	_
+8	сорока	СОРОК	NUM	NUM loc - -	NUM loc - -	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+11	уж	УЖ	PART	PART	PART	12	огранич	_	_
+12	потом	ПОТОМ	ADV	ADV -	ADV -	16	обст	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	пожалуйста	ПОЖАЛУЙСТА	PART	PART	PART	16	вводн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	служите	СЛУЖИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	10	соч-союзн	_	_
+17	до	ДО	PR	PR	PR	16	обст	_	_
+18	девяноста	ДЕВЯНОСТО	NUM	NUM loc - -	NUM loc - -	17	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	2	огранич	_	_
+2	тогда	ТОГДА	ADV	ADV -	ADV -	4	обст	_	_
+3	разом	РАЗОМ	ADV	ADV -	ADV -	4	обст	_	_
+4	решится	РЕШАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+5	большое	БОЛЬШОЙ	A	A - nom sg plen n -	A - nom sg plen n -	6	опред	_	_
+6	количество	КОЛИЧЕСТВО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+7	проблем	ПРОБЛЕМА	S	S f inan gen pl	S f inan gen pl	6	квазиагент	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	10	предик	_	_
+10	сделаем	СДЕЛАТЬ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	4	сент-соч	_	_
+11	стариков	СТАРИК	S	S m anim acc pl	S m anim acc pl	10	1-компл	_	_
+12	счастливыми	СЧАСТЛИВЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	16	опред	_	_
+13	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+14	продлим	ПРОДЛЯТЬ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	13	соч-союзн	_	_
+15	им	ОНИ	SPRO	SPRO pl - - dat	SPRO pl - - dat	14	2-компл	_	_
+16	жизнь	ЖИЗНЬ	S	S f inan nom sg	S f inan nom sg	10	сент-соч	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	7	вводн	_	_
+2	моему	МОЙ	A	A - dat sg plen n -	A - dat sg plen n -	4	опред	_	_
+3	глубокому	ГЛУБОКИЙ	A	A - dat sg plen n -	A - dat sg plen n -	4	опред	_	_
+4	убеждению	УБЕЖДЕНИЕ	S	S n inan dat sg	S n inan dat sg	1	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+7	умирает	УМИРАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	когда	КОГДА	CONJ	CONJ	CONJ	7	обст	_	_
+10	ощущает	ОЩУЩАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	9	подч-союзн	_	_
+11	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	12	опред	_	_
+12	ненужность	НЕНУЖНОСТЬ	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Проводили	ПРОВОДИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	тебя	ТЫ	SPRO	SPRO sg 2p - acc	SPRO sg 2p - acc	1	1-компл	_	_
+3	на	НА	PR	PR	PR	1	2-компл	_	_
+4	заслуженный	ЗАСЛУЖИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	5	опред	_	_
+5	отдых	ОТДЫХ	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	дети	РЕБЕНОК	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+8	работают	РАБОТАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	1	сент-соч	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	внуки	ВНУК	S	S m anim nom pl	S m anim nom pl	11	предик	_	_
+11	подросли	ПОДРАСТАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	8	сент-соч	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	прощай	ПРОЩАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	11	сент-соч	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	бабушка	БАБУШКА	S	S f anim nom sg	S f anim nom sg	13	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	жизнь	ЖИЗНЬ	S	S f inan nom sg	S f inan nom sg	20	предик	_	_
+18	больше	БОЛЬШЕ	ADV	ADV -	ADV -	20	обст	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	имеет	ИМЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	13	сент-соч	_	_
+21	смысла	СМЫСЛ	S	S m inan gen sg	S m inan gen sg	20	1-компл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	если	ЕСЛИ	CONJ	CONJ	CONJ	14	обст	_	_
+4	старушке	СТАРУШКА	S	S f anim dat sg	S f anim dat sg	5	дат-субъект	_	_
+5	надо	НАДО	ADV	ADV -	ADV -	3	подч-союзн	_	_
+6	к	К	PR	PR	PR	14	обст	_	_
+7	девяти	ДЕВЯТЬ	NUM	NUM loc - -	NUM loc - -	6	предл	_	_
+8	в	В	PR	PR	PR	6	сочин	_	_
+9	офис	ОФИС	S	S m inan acc sg	S m inan acc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	тут	ТУТ	ADV	ADV -	ADV -	14	обст	_	_
+12	у	У	PR	PR	PR	14	обст	_	_
+13	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	12	предл	_	_
+14	появятся	ПОЯВЛЯТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	1	соч-союзн	_	_
+15	совсем	СОВСЕМ	ADV	ADV -	ADV -	16	огранич	_	_
+16	другие	ДРУГОЙ	A	A - nom pl plen - -	A - nom pl plen - -	17	опред	_	_
+17	ощущения	ОЩУЩЕНИЕ	S	S n inan nom pl	S n inan nom pl	14	предик	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

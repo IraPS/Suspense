@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"ирландец","gr":"S,m,anim=nom,sg"}],"text":"Ирландец"}
+{"analysis":[{"lex":"оглянуться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"оглянулся"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"приподымать","gr":"V=praet,sg,indic,m,pf"}],"text":"приподнял"}
+{"analysis":[{"lex":"котелок","gr":"S,m,inan=acc,sg"},{"lex":"котелок","gr":"S,m,inan=nom,sg"}],"text":"котелок"}

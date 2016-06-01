@@ -1,0 +1,97 @@
+1	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	сокрушенно	СОКРУШЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	потупился	ПОТУПЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	однако	ОДНАКО	CONJ	CONJ	CONJ	3	вводн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	дождавшись	ДОЖДАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	15	обст	_	_
+9	от	ОТ	PR	PR	PR	8	1-компл	_	_
+10	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	11	квазиагент	_	_
+11	величества	ВЕЛИЧЕСТВО	S	S n inan gen sg	S n inan gen sg	9	предл	_	_
+12	очередного	ОЧЕРЕДНОЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	опред	_	_
+13	упрека	УПРЕК	S	S m inan gen sg	S m inan gen sg	11	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	двинулся	ДВИНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+16	дальше	ДАЛЕКО	ADV	ADV comp	ADV comp	15	обст	_	_
+17	:	:	:	:	PUNC	21	предик	_	_
+18	–	–	–	–	PUNC	21	1-компл	_	_
+19	Что	ЧТО	S	S n - nom sg	S n - nom sg	21	предик	_	_
+20	же	ЖЕ	PART	PART	PART	19	огранич	_	_
+21	касается	КАСАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	15	сент-соч	_	_
+22	недавнего	НЕДАВНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	23	опред	_	_
+23	прорыва	ПРОРЫВ	S	S m inan gen sg	S m inan gen sg	21	1-компл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	то	ТО	CONJ	CONJ	CONJ	19	соотнос	_	_
+26	здесь	ЗДЕСЬ	ADV	ADV -	ADV -	28	обст	_	_
+27	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	28	предик	_	_
+28	действовал	ДЕЙСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	21	1-компл	_	_
+29	по	ПО	PR	PR	PR	28	1-компл	_	_
+30	согласованию	СОГЛАСОВАНИЕ	S	S n inan dat sg	S n inan dat sg	29	предл	_	_
+31	с	С	PR	PR	PR	30	атриб	_	_
+32	турецким	ТУРЕЦКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	33	опред	_	_
+33	командованием	КОМАНДОВАНИЕ	S	S n inan ins sg	S n inan ins sg	31	предл	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	можно	МОЖНО	ADV	ADV -	ADV -	2	вводн	_	_
+5	сказать	СКАЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	козырной	КОЗЫРНОЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+8	картой	КАРТА	S	S f inan ins sg	S f inan ins sg	7	1-компл	_	_
+9	Османа	ОСМАН	S	S m anim gen sg	S m anim gen sg	8	квазиагент	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Расчет	РАСЧЕТ	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+2	у	У	PR	PR	PR	4	обст	_	_
+3	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	2	предл	_	_
+4	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	прост	ПРОСТОЙ	A	A - - sg brev m -	A - - sg brev m -	4	присвяз	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	верен	ВЕРНЫЙ	A	A - - sg brev m -	A - - sg brev m -	6	соч-союзн	_	_
+8	:	:	:	:	PUNC	7	1-компл	_	_
+9	Ганецкий	ГАНЕЦКИЙ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+10	–	–	–	–	PUNC	11	опред	_	_
+11	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	9	аппоз	_	_
+12	заслуженный	ЗАСЛУЖИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	4	сент-соч	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	но	НО	CONJ	CONJ	CONJ	12	сочин	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	прошу	ПРОСИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	14	соч-союзн	_	_
+17	извинения	ИЗВИНЕНИЕ	S	S n inan acc pl	S n inan acc pl	16	1-компл	_	_
+18	за	ЗА	PR	PR	PR	16	2-компл	_	_
+19	прямоту	ПРЯМОТА	S	S f inan acc sg	S f inan acc sg	18	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	семи	СЕМЬ	NUM	NUM loc - -	NUM loc - -	16	1-компл	_	_
+23	пядей	ПЯДЬ	S	S f inan gen pl	S f inan gen pl	22	1-компл	_	_
+24	во	ВО	PR	PR	PR	22	атриб	_	_
+25	лбу	ЛОБ	S	S m inan dat sg	S m inan dat sg	24	предл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	как	КАК	ADV	ADV -	ADV -	5	обст	_	_
+4	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	5	предик	_	_
+5	знаем	ЗНАТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	подумал	ПОДУМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+10	усомниться	УСОМНИТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+11	в	В	PR	PR	PR	10	1-компл	_	_
+12	информации	ИНФОРМАЦИЯ	S	S f inan gen sg	S f inan gen sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	переданной	ПЕРЕДАВАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	9	сочин	_	_
+15	журналистом	ЖУРНАЛИСТ	S	S m anim ins sg	S m anim ins sg	14	агент	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Надо	НАДО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	благодарить	БЛАГОДАРИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	1	предик	_	_
+3	решительность	РЕШИТЕЛЬНОСТЬ	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	генерал-лейтенанта	ГЕНЕРАЛ-ЛЕЙТЕНАНТ	S	S m anim gen sg	S m anim gen sg	3	квазиагент	_	_
+5	Соболева	СОБОЛЕВА	S	S m anim gen sg	S m anim gen sg	4	аппоз	_	_
+6	…	…	SENT	SENT	SENT	5	PUNC	_	_
+

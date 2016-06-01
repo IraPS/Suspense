@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"один","gr":"APRO=acc,sg,m,inan"},{"lex":"один","gr":"APRO=nom,sg,m"}],"text":"Один"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"флигель-адъютант","gr":"S,m,anim=acc,pl"},{"lex":"флигель-адъютант","gr":"S,m,anim=gen,pl"}],"text":"флигель-адъютантов"}
+{"analysis":[{"lex":"шепнуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"шепнул"}
+{"analysis":[{"lex":"вар","gr":"S,m,inan=abl,sg"}],"text":"Варе"}
+{"analysis":[{"lex":"вот","gr":"PART="}],"text":"Вот"}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=acc"},{"lex":"это","gr":"SPRO,sg,n,inan=nom"}],"text":"это"}
+{"analysis":[{"lex":"ловкий","gr":"A=sg,brev,n"}],"text":"ловко"}
+{"text":"\\s"}
+{"analysis":[{"lex":"молодец","gr":"S,m,anim=nom,pl"}],"text":"Молодцы"}

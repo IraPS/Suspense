@@ -1,0 +1,22 @@
+1	Ну	НУ	PART	PART	PART	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+5	рассказала	РАССКАЗЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Уж	УЖ	PART	PART	PART	2	огранич	_	_
+2	Эрасту	ЭРАСТ	S	S m anim dat sg	S m anim dat sg	4	дат-субъект	_	_
+3	Петровичу	ПЕТРОВИЧ	S	S m anim dat sg	S m anim dat sg	2	аппоз	_	_
+4	можно	МОЖНО	ADV	ADV -	ADV -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	8	предик	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	побежит	ПОБЕЖАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	4	сент-соч	_	_
+9	рассказывать	РАССКАЗЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+10	всякому	ВСЯКИЙ	A	A - dat sg plen m -	A - dat sg plen m -	13	опред	_	_
+11	встречному	ВСТРЕЧНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	13	опред	_	_
+12	-	-	-	-	PUNC	11	PUNC	_	_
+13	поперечному	ПОПЕРЕЧНЫЙ	A	A comp2 - - plen - -	A comp2 - - plen - -	9	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

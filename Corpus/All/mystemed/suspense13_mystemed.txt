@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"Но"}
+{"analysis":[{"lex":"вдруг","gr":"ADV="}],"text":"вдруг"}
+{"analysis":[{"lex":"сурово","gr":"ADV="}],"text":"сурово"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"узнавать","gr":"V,tran=inpraes,ger,ipf"}],"text":"узнавая"}
+{"analysis":[{"lex":"свой","gr":"APRO=acc,sg,m,anim"},{"lex":"свой","gr":"APRO=gen,sg,m"},{"lex":"свой","gr":"APRO=gen,sg,n"}],"text":"своего"}
+{"analysis":[{"lex":"голос","gr":"S,m,inan=acc,pl"},{"lex":"голос","gr":"S,m,inan=gen,sg"},{"lex":"голос","gr":"S,m,inan=nom,pl"}],"text":"голоса"}
+{"analysis":[{"lex":"камфара","gr":"S,f,inan=acc,pl"},{"lex":"камфара","gr":"S,f,inan=gen,sg"},{"lex":"камфара","gr":"S,f,inan=nom,pl"}],"text":"Камфары"}

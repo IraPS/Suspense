@@ -1,0 +1,34 @@
+1	Надо	НАДО	ADV	ADV -	ADV -	3	присвяз	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	случиться	СЛУЧАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	именно	ИМЕННО	PART	PART	PART	8	огранич	_	_
+8	в	В	PR	PR	PR	13	обст	_	_
+9	этот	ЭТОТ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	опред	_	_
+10	миг	МИГ	S	S m inan acc sg	S m inan acc sg	8	предл	_	_
+11	в	В	PR	PR	PR	13	обст	_	_
+12	дверь	ДВЕРЬ	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	протиснулся	ПРОТИСКИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	подч-союзн	_	_
+14	хорунжий	ХОРУНЖИЙ	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+15	Гукмасов	ГУКМАС	S	S m anim nom sg	S m anim nom sg	14	аппоз	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	неприязненно	НЕПРИЯЗНЕННЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+3	покосился	ПОКОСИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	1-компл	_	_
+4	на	НА	PR	PR	PR	3	2-компл	_	_
+5	синие	СИНИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	6	опред	_	_
+6	мундиры	МУНДИР	S	S m inan acc pl	S m inan acc pl	4	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+8	гаркнул	ГАРКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+9	:	:	:	:	PUNC	11	опред	_	_
+10	–	–	–	–	PUNC	11	опред	_	_
+11	Осмелюсь	ОСМЕЛИВАТЬСЯ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	8	1-компл	_	_
+12	доложить	ДОКЛАДЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	15	опред	_	_
+15	превосходительство	ПРЕВОСХОДИТЕЛЬСТВО	S	S n anim nom sg	S n anim nom sg	12	1-компл	_	_
+16	!	!	SENT	SENT	SENT	15	PUNC	_	_
+

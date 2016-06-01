@@ -1,0 +1,323 @@
+1	Особенное	ОСОБЕННЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	4	опред	_	_
+2	старание	СТАРАНИЕ	S	S n inan acc sg	S n inan acc sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	любовь	ЛЮБОВЬ	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	инициативу	ИНИЦИАТИВА	S	S f inan acc sg	S f inan acc sg	5	соч-союзн	_	_
+7	проявлял	ПРОЯВЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+8	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	7	присвяз	_	_
+9	к	К	PR	PR	PR	7	обст	_	_
+10	тем	ТОТ	A	A - dat pl plen - -	A - dat pl plen - -	11	опред	_	_
+11	рукоделиям	РУКОДЕЛИЕ	S	S n inan dat pl	S n inan dat pl	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	14	предик	_	_
+14	имели	ИМЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	7	сент-соч	_	_
+15	отношение	ОТНОШЕНИЕ	S	S n inan acc sg	S n inan acc sg	14	1-компл	_	_
+16	к	К	PR	PR	PR	15	1-компл	_	_
+17	религии	РЕЛИГИЯ	S	S f inan dat sg	S f inan dat sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	2	1-компл	_	_
+2	вспоминаются	ВСПОМИНАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+3	зимние	ЗИМНИЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+4	вечера	ВЕЧЕР	S	S m inan nom pl	S m inan nom pl	2	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	7	предик	_	_
+7	проводили	ПРОВОДИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	4	релят	_	_
+8	дети	РЕБЕНОК	S	S m anim nom pl	S m anim nom pl	7	длительн	_	_
+9	в	В	PR	PR	PR	7	обст	_	_
+10	моей	МОЙ	A	A - loc sg plen f -	A - loc sg plen f -	11	опред	_	_
+11	комнате	КОМНАТА	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+12	перед	ПЕРЕД	PR	PR	PR	11	атриб	_	_
+13	ужином	УЖИН	S	S m inan ins sg	S m inan ins sg	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	17	предик	_	_
+2	в	В	PR	PR	PR	17	обст	_	_
+3	это	ЭТОТ	A	A - acc sg plen n inan	A - acc sg plen n inan	5	предик	_	_
+4	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	5	длительн	_	_
+5	читал	ЧИТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	предл	_	_
+6	им	ОНИ	SPRO	SPRO pl - - dat	SPRO pl - - dat	5	2-компл	_	_
+7	рассказы	РАССКАЗ	S	S m inan acc pl	S m inan acc pl	5	1-компл	_	_
+8	из	ИЗ	PR	PR	PR	7	атриб	_	_
+9	Священного	СВЯЩЕННЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	10	опред	_	_
+10	Писания	ПИСАНИЕ	S	S n inan gen sg	S n inan gen sg	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	жития	ЖИТИЕ	S	S n inan gen sg	S n inan gen sg	10	сочин	_	_
+13	святых	СВЯТОЙ	S	S m anim gen pl	S m anim gen pl	12	1-компл	_	_
+14	или	ИЛИ	CONJ	CONJ	CONJ	12	сочин	_	_
+15	другую	ДРУГОЙ	A	A - acc sg plen f -	A - acc sg plen f -	14	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	подходящую	ПОДХОДИТЬ	PARTCP	PARTCP ipf inpraes acc sg plen f act -	PARTCP ipf inpraes acc sg plen f act -	0	ROOT	_	_
+18	для	ДЛЯ	PR	PR	PR	17	обст	_	_
+19	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	20	квазиагент	_	_
+20	возраста	ВОЗРАСТ	S	S m inan gen sg	S m inan gen sg	18	предл	_	_
+21	духовную	ДУХОВНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	22	опред	_	_
+22	литературу	ЛИТЕРАТУРА	S	S f inan acc sg	S f inan acc sg	17	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	подч-союзн	_	_
+4	принужденной	ПРИНУЖДЕННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	5	опред	_	_
+5	обстановки	ОБСТАНОВКА	S	S f inan gen sg	S f inan gen sg	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	дети	РЕБЕНОК	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+8	могли	МОЧЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	5	релят	_	_
+9	в	В	PR	PR	PR	8	обст	_	_
+10	это	ЭТОТ	A	A - acc sg plen n inan	A - acc sg plen n inan	11	опред	_	_
+11	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	9	предл	_	_
+12	заниматься	ЗАНИМАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+13	любыми	ЛЮБОЙ	A	A - ins pl plen - -	A - ins pl plen - -	14	опред	_	_
+14	рукоделиями	РУКОДЕЛИЕ	S	S n inan ins pl	S n inan ins pl	12	1-компл	_	_
+15	:	:	:	:	PUNC	16	1-компл	_	_
+16	вышивать	ВЫШИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	сочин	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	вырезать	ВЫРЕЗАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	16	сочин	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	клеить	КЛЕИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	19	соч-союзн	_	_
+21	ёлочные	ЕЛОЧНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	22	опред	_	_
+22	игрушки	ИГРУШКА	S	S f inan acc pl	S f inan acc pl	20	1-компл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	рисовать	РИСОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	20	сочин	_	_
+25	и	И	CONJ	CONJ	CONJ	24	сочин	_	_
+26	т.п	Т.П	S	S - - nonflex nonflex	S - - nonflex nonflex	25	соч-союзн	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+2	в	В	PR	PR	PR	7	огранич	_	_
+3	это	ЭТОТ	A	A - acc sg plen n inan	A - acc sg plen n inan	5	обст	_	_
+4	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+5	любил	ЛЮБИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	предл	_	_
+6	рисовать	РИСОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	1-компл	_	_
+7	закладки	ЗАКЛАДКА	S	S f inan nom pl	S f inan nom pl	0	ROOT	_	_
+8	для	ДЛЯ	PR	PR	PR	7	атриб	_	_
+9	духовных	ДУХОВНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	опред	_	_
+10	книг	КНИГА	S	S f inan gen pl	S f inan gen pl	8	предл	_	_
+11	с	С	PR	PR	PR	10	атриб	_	_
+12	текстами	ТЕКСТ	S	S m inan ins pl	S m inan ins pl	11	предл	_	_
+13	из	ИЗ	PR	PR	PR	12	атриб	_	_
+14	Священного	СВЯЩЕННЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	15	опред	_	_
+15	Писания	ПИСАНИЕ	S	S n inan gen sg	S n inan gen sg	13	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	делал	ДЕЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сент-соч	_	_
+18	изящные	ИЗЯЩНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	19	опред	_	_
+19	поплавочки	ПОПЛАВОЧКА	S	S f inan acc pl	S f inan acc pl	17	1-компл	_	_
+20	к	К	PR	PR	PR	17	2-компл	_	_
+21	лампадкам	ЛАМПАДКА	S	S f inan acc sg	S f inan acc sg	20	предл	_	_
+22	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+23	подставочки	ПОДСТАВОЧКА	S	S f inan acc pl	S f inan acc pl	22	соч-союзн	_	_
+24	около	ОКОЛО	PR	PR	PR	23	1-компл	_	_
+25	икон	ИКОНА	S	S f inan gen pl	S f inan gen pl	24	предл	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	склеил	СКЛЕИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	17	сочин	_	_
+28	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+29	разрисовал	РАЗРИСОВЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	28	соч-союзн	_	_
+30	красками	КРАСКА	S	S f inan ins pl	S f inan ins pl	29	2-компл	_	_
+31	чехольчик	ЧЕХОЛЬЧИК	S	S m inan acc sg	S m inan acc sg	29	1-компл	_	_
+32	к	К	PR	PR	PR	31	1-компл	_	_
+33	миниатюрному	МИНИАТЮРНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	34	опред	_	_
+34	Евангелию	ЕВАНГЕЛИЕ	S	S n inan dat sg	S n inan dat sg	32	предл	_	_
+35	и	И	CONJ	CONJ	CONJ	34	сочин	_	_
+36	т.п	Т.П	S	S - - nonflex nonflex	S - - nonflex nonflex	35	соч-союзн	_	_
+37	.	.	SENT	SENT	SENT	36	PUNC	_	_
+
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	4	предик	_	_
+2	это	ЭТО	S	S n - acc sg	S n - acc sg	4	1-компл	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	делал	ДЕЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	по	ПО	PR	PR	PR	4	обст	_	_
+6	своей	СВОЙ	A	A - loc sg plen f -	A - loc sg plen f -	7	опред	_	_
+7	инициативе	ИНИЦИАТИВА	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	без	БЕЗ	PR	PR	PR	4	обст	_	_
+10	всякой	ВСЯКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	11	опред	_	_
+11	просьбы	ПРОСЬБА	S	S f inan gen sg	S f inan gen sg	9	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	На	НА	PR	PR	PR	7	обст	_	_
+2	одной	ОДИН	A	A - loc sg plen f -	A - loc sg plen f -	1	предл	_	_
+3	из	ИЗ	PR	PR	PR	2	электив	_	_
+4	таких	ТАКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	5	опред	_	_
+5	закладок	ЗАКЛАДКА	S	S f inan gen pl	S f inan gen pl	3	предл	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+7	нарисовал	НАРИСОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	красками	КРАСКА	S	S f inan ins pl	S f inan ins pl	7	2-компл	_	_
+9	зеленые	ЗЕЛЕНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	10	опред	_	_
+10	веточки	ВЕТОЧКА	S	S f inan acc pl	S f inan acc pl	7	1-компл	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	певчую	ПЕВЧИЙ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+13	птичку	ПТИЧКА	S	S f anim acc sg	S f anim acc sg	11	соч-союзн	_	_
+14	на	НА	PR	PR	PR	13	атриб	_	_
+15	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Ниже	НИЖЕ	ADV	ADV -	ADV -	3	обст	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	написал	НАПИСАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	текст	ТЕКСТ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	из	ИЗ	PR	PR	PR	4	атриб	_	_
+6	Священного	СВЯЩЕННЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	7	опред	_	_
+7	Писания	ПИСАНИЕ	S	S n inan gen sg	S n inan gen sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	обст	_	_
+10	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	11	предик	_	_
+11	выбрал	ВЫБИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+12	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	11	суб-копр	_	_
+13	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+14	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	15	предик	_	_
+15	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+16	девизом	ДЕВИЗ	S	S m inan ins sg	S m inan ins sg	15	присвяз	_	_
+17	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	18	квазиагент	_	_
+18	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	16	квазиагент	_	_
+19	:	:	:	:	PUNC	16	опред	_	_
+20	«	«	_	_	PUNC	19	PUNC	_	_
+21	От	ОТ	PR	PR	PR	16	атриб	_	_
+22	Тебя	ТЫ	SPRO	SPRO sg 2p - acc	SPRO sg 2p - acc	21	предл	_	_
+23	победа	ПОБЕДА	S	S f inan nom sg	S f inan nom sg	15	обст	_	_
+24	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+25	от	ОТ	PR	PR	PR	27	1-компл	_	_
+26	Тебя	ТЫ	SPRO	SPRO sg 2p - acc	SPRO sg 2p - acc	25	предл	_	_
+27	мудрость	МУДРОСТЬ	S	S f inan nom sg	S f inan nom sg	24	соч-союзн	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+30	Твоя	ТВОЙ	A	A - nom sg plen f -	A - nom sg plen f -	31	опред	_	_
+31	слава	СЛАВА	S	S f inan nom sg	S f inan nom sg	29	соч-союзн	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	а	А	CONJ	CONJ	CONJ	15	сент-соч	_	_
+34	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	36	предик	_	_
+35	Твой	ТВОЙ	A	A - nom sg plen m -	A - nom sg plen m -	36	опред	_	_
+36	раб	РАБ	S	S m anim nom sg	S m anim nom sg	33	соч-союзн	_	_
+37	»	»	_	_	PUNC	39	PUNC	_	_
+38	(	(	_	_	PUNC	39	PUNC	_	_
+39	2	2	NUM	NUM - - -	NUM - - -	40	количест	_	_
+40	Езд	ЕЗД	S	S m inan acc sg	S m inan acc sg	36	1-компл	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+
+1	4	4	NUM	NUM - - -	NUM - - -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	59	59	NUM	NUM - - -	NUM - - -	1	кратн	_	_
+4	)	)	_	_	PUNC	3	PUNC	_	_
+5	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Мальчиком	МАЛЬЧИК	S	S m anim ins sg	S m anim ins sg	3	присвяз	_	_
+2	лет	ГОД	S	S m inan gen pl	S m inan gen pl	1	1-компл	_	_
+3	десяти	ДЕСЯТЬ	NUM	NUM loc - -	NUM loc - -	8	1-компл	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	одиннадцати	ОДИННАДЦАТЬ	NUM	NUM loc - -	NUM loc - -	3	кратн	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+7	захотел	ЗАХОТЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	сделать	СДЕЛАТЬ	V	V pf - - inf - -	V pf - - inf - -	7	1-компл	_	_
+9	подарок	ПОДАРОК	S	S m inan acc sg	S m inan acc sg	8	1-компл	_	_
+10	на	НА	PR	PR	PR	9	1-компл	_	_
+11	мамины	МАМИН	A	A - acc pl plen - inan	A - acc pl plen - inan	12	опред	_	_
+12	именины	ИМЕНИНЫ	S	S - inan acc pl	S - inan acc pl	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	знал	ЗНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	2	1-компл	_	_
+4	любовь	ЛЮБОВЬ	S	S f inan nom sg	S f inan nom sg	2	разъяснит	_	_
+5	к	К	PR	PR	PR	4	1-компл	_	_
+6	преподобному	ПРЕПОДОБНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	7	опред	_	_
+7	Серафиму	СЕРАФИМ	S	S m anim dat sg	S m anim dat sg	5	предл	_	_
+8	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+9	решил	РЕШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+10	списать	СПИСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+11	для	ДЛЯ	PR	PR	PR	10	обст	_	_
+12	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	11	предл	_	_
+13	житие	ЖИТИЕ	S	S n inan acc sg	S n inan acc sg	10	1-компл	_	_
+14	Преподобного	ПРЕПОДОБНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	3	суб-копр	_	_
+3	склеил	СКЛЕИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	книжечку	КНИЖЕЧКА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	разрисовал	РАЗРИСОВЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+7	обложку	ОБЛОЖКА	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+8	цветной	ЦВЕТНОЙ	A	A - ins sg plen f -	A - ins sg plen f -	9	опред	_	_
+9	тушью	ТУШЬ	S	S f inan ins sg	S f inan ins sg	6	2-компл	_	_
+10	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+11	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	соч-союзн	_	_
+12	списывать	СПИСЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	1-компл	_	_
+13	житие	ЖИТИЕ	S	S n inan acc sg	S n inan acc sg	12	1-компл	_	_
+14	печатными	ПЕЧАТНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	15	опред	_	_
+15	буквами	БУКВА	S	S f inan ins pl	S f inan ins pl	12	обст	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	просиживая	ПРОСИЖИВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	обст	_	_
+18	над	НАД	PR	PR	PR	17	1-компл	_	_
+19	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	18	предл	_	_
+20	часами	ЧАС	S	S m inan ins pl	S m inan ins pl	17	2-компл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Видя	ВИДЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	6	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+4	много	МНОГО	ADV	ADV -	ADV -	3	сравн-союзн	_	_
+5	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	4	1-компл	_	_
+6	тратит	ТРАТИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	мальчик	МАЛЬЧИК	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+8	на	НА	PR	PR	PR	6	1-компл	_	_
+9	приготовление	ПРИГОТОВЛЕНИЕ	S	S n inan acc sg	S n inan acc sg	8	предл	_	_
+10	книжки	КНИЖКА	S	S f inan gen sg	S f inan gen sg	9	квазиагент	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	14	предик	_	_
+13	едва	ЕДВА	ADV	ADV -	ADV -	14	обст	_	_
+14	уговорили	УГОВАРИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	сент-соч	_	_
+15	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	14	1-компл	_	_
+16	подарить	ПОДАРИТЬ	V	V pf - - inf - -	V pf - - inf - -	14	2-компл	_	_
+17	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	16	1-компл	_	_
+18	маме	МАМА	S	S f anim dat sg	S f anim dat sg	16	2-компл	_	_
+19	в	В	PR	PR	PR	16	1-компл	_	_
+20	не	НЕ	PART	PART	PART	21	огранич	_	_
+21	совсем	СОВСЕМ	ADV	ADV -	ADV -	22	огранич	_	_
+22	оконченном	ОКАНЧИВАТЬ	PARTCP	PARTCP pf praet loc sg plen m pass -	PARTCP pf praet loc sg plen m pass -	23	опред	_	_
+23	виде	ВИД	S	S m inan loc sg	S m inan loc sg	19	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	В	В	PR	PR	PR	5	обст	_	_
+2	начале	НАЧАЛО	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+3	книги	КНИГА	S	S f inan gen sg	S f inan gen sg	2	квазиагент	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+5	поставил	ПОСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	«	«	_	_	PUNC	5	PUNC	_	_
+7	Том	ТОТ	A	A - loc sg plen m -	A - loc sg plen m -	10	опред	_	_
+8	1	1	NUM	NUM - - -	NUM - - -	10	композ	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	й	Й	S	S - - nonflex nonflex	S - - nonflex nonflex	5	1-компл	_	_
+11	»	»	_	_	PUNC	10	PUNC	_	_
+12	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+13	закончил	ЗАКАНЧИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	соч-союзн	_	_
+14	словами	СЛОВО	S	S n inan ins pl	S n inan ins pl	13	1-компл	_	_
+15	«	«	_	_	PUNC	16	PUNC	_	_
+16	продолжение	ПРОДОЛЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+17	следует	СЛЕДОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	2-компл	_	_
+18	»	»	_	_	PUNC	17	PUNC	_	_
+19	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Как-то	КАК-ТО	ADV	ADV -	ADV -	4	обст	_	_
+2	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	4	обст	_	_
+3	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	узнал	УЗНАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	8	1-компл	_	_
+8	нужна	НУЖНЫЙ	A	A - - sg brev f -	A - - sg brev f -	6	подч-союзн	_	_
+9	копия	КОПИЯ	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+10	с	С	PR	PR	PR	9	1-компл	_	_
+11	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	12	количест	_	_
+12	брошюры	БРОШЮРА	S	S f inan gen sg	S f inan gen sg	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+2	тотчас	ТОТЧАС	ADV	ADV -	ADV -	4	обст	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	предложил	ПРЕДЛАГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	списать	СПИСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	1-компл	_	_
+6	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	5	1-компл	_	_
+7	для	ДЛЯ	PR	PR	PR	5	обст	_	_
+8	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

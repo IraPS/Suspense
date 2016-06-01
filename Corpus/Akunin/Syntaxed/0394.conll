@@ -1,0 +1,65 @@
+1	Холодный	ХОЛОДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	неприятный	НЕПРИЯТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	1	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	в	В	PR	PR	PR	9	обст	_	_
+7	посторонние	ПОСТОРОННИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	8	опред	_	_
+8	разговоры	РАЗГОВОР	S	S m inan acc pl	S m inan acc pl	6	предл	_	_
+9	вступает	ВСТУПАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+10	редко	РЕДКО	ADV	ADV -	ADV -	9	обст	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	а	А	CONJ	CONJ	CONJ	9	сент-соч	_	_
+13	если	ЕСЛИ	CONJ	CONJ	CONJ	18	обст	_	_
+14	вступает	ВСТУПАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	13	подч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	то	ТО	CONJ	CONJ	CONJ	13	соотнос	_	_
+17	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	18	обст	_	_
+18	скажет	СКАЗАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	12	соч-союзн	_	_
+19	что-нибудь	ЧТО-НИБУДЬ	S	S n - nom sg	S n - nom sg	18	1-компл	_	_
+20	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	19	опред	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	от	ОТ	PR	PR	PR	24	огранич	_	_
+23	чего	ЧТО	S	S n - gen sg	S n - gen sg	22	предл	_	_
+24	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	18	сочин	_	_
+25	просто	ПРОСТО	PART	PART	PART	26	огранич	_	_
+26	на	НА	PR	PR	PR	24	атриб	_	_
+27	дыбы	ДЫБЫ	S	S - inan acc pl	S - inan acc pl	26	предл	_	_
+28	кидает	КИДАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	24	сочин	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Взять	ВЗЯТЬ	V	V pf - - inf - -	V pf - - inf - -	23	предик	_	_
+2	хотя бы	хотя бы	ADV	ADV -	-	1	обст	_	_
+3	спор	СПОР	S	S m inan acc sg	S m inan acc sg	1	1-компл	_	_
+4	о	О	PR	PR	PR	3	1-компл	_	_
+5	парламенте	ПАРЛАМЕНТ	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	народовластии	НАРОДОВЛАСТИЕ	S	S n inan loc sg	S n inan loc sg	6	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	разгоревшийся	РАЗГОРАТЬСЯ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	7	опред	_	_
+10	во время	во время	PR	PR	ZERO	9	обст	_	_
+11	пикника	ПИКНИК	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+12	(	(	_	_	PUNC	13	PUNC	_	_
+13	ездили	ЕЗДИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	примыкат	_	_
+14	большой	БОЛЬШОЙ	A	A - ins sg plen f -	A - ins sg plen f -	15	опред	_	_
+15	компанией	КОМПАНИЯ	S	S f inan ins sg	S f inan ins sg	13	1-компл	_	_
+16	на	НА	PR	PR	PR	13	2-компл	_	_
+17	холмы	ХОЛМ	S	S m inan acc pl	S m inan acc pl	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+20	Фандорина	ФАНДОРИН	S	S f inan nom sg	S f inan nom sg	19	соч-союзн	_	_
+21	с	С	PR	PR	PR	20	атриб	_	_
+22	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	21	предл	_	_
+23	утянули	УТЯГИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	хоть	ХОТЬ	CONJ	CONJ	CONJ	23	сент-соч	_	_
+26	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	28	предик	_	_
+27	и	И	CONJ	CONJ	CONJ	28	соотнос	_	_
+28	рвался	РВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	25	подч-союзн	_	_
+29	залечь	ЗАЛЕГАТЬ	V	V pf - - inf - -	V pf - - inf - -	28	1-компл	_	_
+30	в	В	PR	PR	PR	29	2-компл	_	_
+31	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	32	опред	_	_
+32	берлогу	БЕРЛОГА	S	S f inan acc sg	S f inan acc sg	30	предл	_	_
+33	)	)	_	_	PUNC	32	PUNC	_	_
+34	.	.	SENT	SENT	SENT	32	PUNC	_	_
+

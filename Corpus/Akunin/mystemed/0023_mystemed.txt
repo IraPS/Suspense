@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"Что"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}
+{"analysis":[{"lex":"делать","gr":"V,ipf,tran=inf"}],"text":"делать"}
+{"analysis":[{"lex":"то","gr":"PART="}],"text":"то"}
+{"analysis":[{"lex":"господи","gr":"INTJ="}],"text":"Господи"}

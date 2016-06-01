@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"Но"}
+{"analysis":[{"lex":"видимо","gr":"ADV,parenth="}],"text":"видимо"}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=acc"},{"lex":"это","gr":"SPRO,sg,n,inan=nom"}],"text":"это"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=acc"},{"lex":"он","gr":"SPRO,sg,3p,m=gen"}],"text":"его"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"погубить","gr":"V,pf,tran=praet,sg,indic,n"}],"text":"погубило"}

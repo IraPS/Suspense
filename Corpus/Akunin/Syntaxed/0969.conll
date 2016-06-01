@@ -1,0 +1,11 @@
+1	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	предик	_	_
+2	'	'	_	_	PUNC	1	PUNC	_	_
+3	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	1	1-компл	_	_
+4	захлопнул	ЗАХЛОПЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	стальную	СТАЛЬНОЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	дверь	ДВЕРЬ	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+8	задвинул	ЗАДВИГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+9	засов	ЗАСОВ	S	S m inan nom sg	S m inan nom sg	8	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

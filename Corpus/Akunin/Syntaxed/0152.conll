@@ -1,0 +1,57 @@
+1	Теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	3	обст	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+3	рассмотрела	РАССМАТРИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	страдальца	СТРАДАЛЕЦ	S	S m anim acc sg	S m anim acc sg	3	1-компл	_	_
+5	получше	ХОРОШО	ADV	ADV comp	ADV comp	3	обст	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	невысок	НЕВЫСОКИЙ	A	A - - sg brev m -	A - - sg brev m -	2	присвяз	_	_
+4	ростом	РОСТ	S	S m inan ins sg	S m inan ins sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	жилист	ЖИЛИСТЫЙ	A	A - - sg brev m -	A - - sg brev m -	2	присвяз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	каштановые	КАШТАНОВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	опред	_	_
+9	растрепавшиеся	РАСТРЕПЫВАТЬСЯ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	10	опред	_	_
+10	волосы	ВОЛОС	S	S m inan nom pl	S m inan nom pl	2	сочин	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	узкий	УЗКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	сочин	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	почти	ПОЧТИ	ADV	ADV -	ADV -	15	огранич	_	_
+15	безгубый	БЕЗГУБЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	16	опред	_	_
+16	рот	РОТ	S	S m inan acc sg	S m inan acc sg	12	сочин	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	строгие	СТРОГИЙ	A	A - nom pl plen - -	A - nom pl plen - -	20	опред	_	_
+19	карие	КАРИЙ	A	A - nom pl plen - -	A - nom pl plen - -	20	опред	_	_
+20	глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	16	сочин	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Вернее	ВЕРНЕЕ	ADV	ADV -	ADV -	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	4	количест	_	_
+4	глаз	ГЛАЗ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	потому что	потому что	CONJ	CONJ	ZERO	4	предик	_	_
+7	второго	ВТОРОЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	предик	_	_
+8	по-прежнему	ПО-ПРЕЖНЕМУ	ADV	ADV -	ADV -	9	обст	_	_
+9	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	6	подч-союзн	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	видно	ВИДНО	ADV	ADV -	ADV -	9	присвяз	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+14	зато	ЗАТО	CONJ	CONJ	CONJ	13	соч-союзн	_	_
+15	во	ВО	PR	PR	PR	20	обст	_	_
+16	взгляде	ВЗГЛЯД	S	S m inan loc sg	S m inan loc sg	15	предл	_	_
+17	капитана	КАПИТАН	S	S m anim gen sg	S m anim gen sg	16	квазиагент	_	_
+18	уже	УЖЕ	ADV	ADV -	ADV -	20	огранич	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	14	подч-союзн	_	_
+21	ни	НИ	PART	PART	PART	22	огранич	_	_
+22	смертной	СМЕРТНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	23	опред	_	_
+23	тоски	ТОСКА	S	S f inan gen sg	S f inan gen sg	20	предик	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	ни	НИ	CONJ	CONJ	CONJ	23	сочин	_	_
+26	отчаяния	ОТЧАЯНИЕ	S	S n inan gen sg	S n inan gen sg	25	соч-союзн	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

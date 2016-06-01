@@ -1,0 +1,67 @@
+1	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	вот	ВОТ	PART	PART	PART	11	огранич	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	4	вспом	_	_
+6	:	:	:	:	PUNC	9	опред	_	_
+7	–	–	–	–	PUNC	9	1-компл	_	_
+8	Долгонько	ДОЛГОНЬКО	ADV	ADV -	ADV -	9	обст	_	_
+9	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	11	1-компл	_	_
+10	-	-	-	-	PUNC	9	PUNC	_	_
+11	добирались	ДОБИРАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	11	вводн	_	_
+14	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	13	аппоз	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Много	МНОГО	ADV	ADV -	ADV -	3	обст	_	_
+2	интересного	ИНТЕРЕСНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	3	1-компл	_	_
+3	пропустили	ПРОПУСКАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Сразу	СРАЗУ	ADV	ADV -	ADV -	3	обст	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	по	ПО	PR	PR	PR	6	вводн	_	_
+4	получении	ПОЛУЧЕНИЕ	S	S n inan loc sg	S n inan loc sg	3	предл	_	_
+5	вашей	ВАШ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+6	т	Т	S	S n - nonflex nonflex	S n - nonflex nonflex	10	1-компл	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	телеграммы	ТЕЛЕГРАММА	S	S f inan gen sg	S f inan gen sg	6	1-компл	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+10	распорядился	РАСПОРЯЖАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+11	провести	ПРОВОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	10	1-компл	_	_
+12	тщательный	ТЩАТЕЛЬНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	13	опред	_	_
+13	осмотр	ОСМОТР	S	S m inan acc sg	S m inan acc sg	11	1-компл	_	_
+14	палатки	ПАЛАТКА	S	S f inan gen sg	S f inan gen sg	13	1-компл	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	личных	ЛИЧНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	17	опред	_	_
+17	вещей	ВЕЩЬ	S	S f inan gen pl	S f inan gen pl	15	соч-союзн	_	_
+18	убитого	УБИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	10	2-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Ничего	НИЧТО	S	S n - gen sg	S n - gen sg	5	неакт-компл	_	_
+2	особенно	ОСОБЕННО	ADV	ADV -	ADV -	3	огранич	_	_
+3	любопытного	ЛЮБОПЫТНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	5	1-компл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	нашли	НАХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	позавчера	ПОЗАВЧЕРА	ADV	ADV -	ADV -	5	обст	_	_
+3	из	ИЗ	PR	PR	PR	5	1-компл	_	_
+4	Букарешта	БУКАРЕШТА	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+5	доставили	ДОСТАВЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	соч-союзн	_	_
+6	находившиеся	НАХОДИТЬСЯ	PARTCP	PARTCP ipf praet nom pl plen - act -	PARTCP ipf praet nom pl plen - act -	5	1-компл	_	_
+7	при	ПРИ	PR	PR	PR	6	обст	_	_
+8	Лукане	ЛУКАН	S	S m anim loc sg	S m anim loc sg	7	предл	_	_
+9	бумаги	БУМАГА	S	S f inan gen sg	S f inan gen sg	8	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	что	ЧТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	6	предик	_	_
+4	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	6	1-компл	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	думаете	ДУМАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	2	подч-союзн	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+

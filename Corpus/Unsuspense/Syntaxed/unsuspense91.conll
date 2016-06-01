@@ -1,0 +1,102 @@
+1	Поздно	ПОЗДНО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Бор	БОР	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+2	глухо	ГЛУХО	ADV	ADV -	ADV -	5	обст	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	сонно	СОННО	ADV	ADV -	ADV -	3	соч-союзн	_	_
+5	гудит	ГУДЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	в	В	PR	PR	PR	5	обст	_	_
+7	отдалении	ОТДАЛЕНИЕ	S	S n inan loc sg	S n inan loc sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Ночь	НОЧЬ	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	становится	СТАНОВИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	все	ВСЕ	S	S - - acc pl	S - - acc pl	4	колич-огран	_	_
+4	таинственнее	ТАИНСТВЕННЫЙ	A	A comp - - plen - -	A comp - - plen - -	2	присвяз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+8	чувствую	ЧУВСТВОВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	6	соч-союзн	_	_
+9	это	ЭТО	S	S n - acc sg	S n - acc sg	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	хотя	ХОТЯ	CONJ	CONJ	CONJ	8	обст	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	знаю	ЗНАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	11	подч-союзн	_	_
+14	ни	НИ	CONJ	CONJ	CONJ	17	соотнос	_	_
+15	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	13	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	ни	НИ	CONJ	CONJ	CONJ	15	сочин	_	_
+18	места	МЕСТО	S	S n inan gen sg	S n inan gen sg	17	соч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	2	обст	_	_
+2	погас	ПОГАСАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	последний	ПОСЛЕДНИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	огонек	ОГОНЕК	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+5	в	В	PR	PR	PR	2	обст	_	_
+6	глубоких	ГЛУБОКИЙ	A	A - loc pl plen - -	A - loc pl plen - -	7	опред	_	_
+7	долинах	ДОЛИНА	S	S f inan loc pl	S f inan loc pl	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+10	седой	СЕДОЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	туман	ТУМАН	S	S m inan nom sg	S m inan nom sg	12	предик	_	_
+12	воцаряется	ВОЦАРЯТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	9	соч-союзн	_	_
+13	над	НАД	PR	PR	PR	12	1-компл	_	_
+14	ними	ОНИ	SPRO	SPRO pl - - ins	SPRO pl - - ins	13	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	зная	ЗНАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	обст	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	что	ЧТО	CONJ	CONJ	CONJ	16	1-компл	_	_
+19	пришел	ПРИХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	18	подч-союзн	_	_
+20	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	21	квазиагент	_	_
+21	час	ЧАС	S	S m inan acc sg	S m inan acc sg	19	1-компл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	долгий	ДОЛГИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	24	опред	_	_
+24	час	ЧАС	S	S m inan acc sg	S m inan acc sg	21	сочин	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	когда	КОГДА	CONJ	CONJ	CONJ	24	атриб	_	_
+27	кажется	КАЗАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	26	подч-союзн	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	что	ЧТО	CONJ	CONJ	CONJ	27	предик	_	_
+30	все	ВСЕ	S	S - - acc pl	S - - acc pl	31	предик	_	_
+31	вымерло	ВЫМИРАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	29	подч-союзн	_	_
+32	на	НА	PR	PR	PR	31	1-компл	_	_
+33	земле	ЗЕМЛЯ	S	S f inan loc sg	S f inan loc sg	32	предл	_	_
+34	и	И	CONJ	CONJ	CONJ	31	сочин	_	_
+35	уже	УЖЕ	ADV	ADV -	ADV -	36	огранич	_	_
+36	никогда	НИКОГДА	ADV	ADV -	ADV -	38	обст	_	_
+37	не	НЕ	PART	PART	PART	38	огранич	_	_
+38	настанет	НАСТАВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	34	соч-союзн	_	_
+39	утро	УТРО	S	S n inan acc sg	S n inan acc sg	38	1-компл	_	_
+40	,	,	,	,	PUNC	39	PUNC	_	_
+41	а	А	CONJ	CONJ	CONJ	38	сент-соч	_	_
+42	будут	БЫТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	41	соч-союзн	_	_
+43	только	ТОЛЬКО	PART	PART	PART	44	огранич	_	_
+44	возрастать	ВОЗРАСТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	42	аналит	_	_
+45	туманы	ТУМАН	S	S m inan acc pl	S m inan acc pl	44	1-компл	_	_
+46	,	,	,	,	PUNC	45	PUNC	_	_
+47	окутывая	ОКУТЫВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	44	обст	_	_
+48	величавые	ВЕЛИЧАВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	64	суб-копр	_	_
+49	в	В	PR	PR	PR	48	атриб	_	_
+50	своей	СВОЙ	A	A - loc sg plen f -	A - loc sg plen f -	57	1-компл	_	_
+51	полночной	ПОЛНОЧНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	52	опред	_	_
+52	страже	СТРАЖА	S	S f inan dat sg	S f inan dat sg	50	1-компл	_	_
+53	горы	ГОРА	S	S f inan gen sg	S f inan gen sg	52	квазиагент	_	_
+54	,	,	,	,	PUNC	53	PUNC	_	_
+55	будут	БЫТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	49	предл	_	_
+56	глухо	ГЛУХО	ADV	ADV -	ADV -	57	обст	_	_
+57	гудеть	ГУДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	55	аналит	_	_
+58	леса	ЛЕС	S	S m inan acc pl	S m inan acc pl	57	1-компл	_	_
+59	по	ПО	PR	PR	PR	57	обст	_	_
+60	горам	ГОРА	S	S f inan dat pl	S f inan dat pl	59	предл	_	_
+61	и	И	CONJ	CONJ	CONJ	55	сочин	_	_
+62	все	ВСЕ	S	S - - nom pl	S - - nom pl	63	опред	_	_
+63	гуще	ГУЩА	S	S f inan loc sg	S f inan loc sg	61	соч-союзн	_	_
+64	лететь	ЛЕТЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	47	1-компл	_	_
+65	снег	СНЕГ	S	S m inan acc sg	S m inan acc sg	64	1-компл	_	_
+66	на	НА	PR	PR	PR	64	обст	_	_
+67	пустынном	ПУСТЫННЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	68	опред	_	_
+68	перевале	ПЕРЕВАЛ	S	S m inan loc sg	S m inan loc sg	66	предл	_	_
+69	.	.	SENT	SENT	SENT	68	PUNC	_	_
+

@@ -1,0 +1,37 @@
+1	Повешенный	ПОВЕШЕННЫЙ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+2	со	СО	PR	PR	PR	1	атриб	_	_
+3	смеющимся	СМЕЯТЬСЯ	PARTCP	PARTCP ipf inpraes dat pl plen - act -	PARTCP ipf inpraes dat pl plen - act -	4	опред	_	_
+4	горлом	ГОРЛО	S	S n inan ins sg	S n inan ins sg	2	предл	_	_
+5	потом	ПОТОМ	ADV	ADV -	ADV -	6	обст	_	_
+6	приснился	ПРИСНИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	6	1-компл	_	_
+8	ночью	НОЧЬ	S	S f inan ins sg	S f inan ins sg	6	обст	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Никакой	НИКАКОЙ	A	A - gen sg plen f -	A - gen sg plen f -	3	опред	_	_
+3	смерти	СМЕРТЬ	S	S f inan gen sg	S f inan gen sg	4	предик	_	_
+4	нет	НЕТ	PART	PART	PART	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	8	обст	_	_
+7	–	–	–	–	PUNC	8	1-компл	_	_
+8	сказало	СКАЗАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	4	сент-соч	_	_
+9	горло	ГОРЛО	S	S n inan nom sg	S n inan nom sg	8	предик	_	_
+10	голосом	ГОЛОС	S	S m inan ins sg	S m inan ins sg	9	агент	_	_
+11	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	9	аппоз	_	_
+12	'	'	_	_	PUNC	11	PUNC	_	_
+13	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	8	сент-соч	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	засочилось	ЗАСОЧИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	14	соч-союзн	_	_
+16	кровью	КРОВЬ	S	S f inan ins sg	S f inan ins sg	15	2-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	только	ТОЛЬКО	PART	PART	PART	4	огранич	_	_
+4	возвращение	ВОЗВРАЩЕНИЕ	S	S n inan nom sg	S n inan nom sg	2	предик	_	_
+5	на	НА	PR	PR	PR	4	2-компл	_	_
+6	старт	СТАРТ	S	S m inan acc sg	S m inan acc sg	5	предл	_	_
+7	»	»	_	_	PUNC	6	PUNC	_	_
+8	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

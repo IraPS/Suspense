@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"На"}
+{"analysis":[{"lex":"этот","gr":"APRO=acc,sg,n"},{"lex":"этот","gr":"APRO=nom,sg,n"}],"text":"это"}
+{"analysis":[{"lex":"вар","gr":"S,m,inan=abl,sg"}],"text":"Варе"}
+{"analysis":[{"lex":"возражать","gr":"V,intr=inf,pf"}],"text":"возразить"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"было"}
+{"analysis":[{"lex":"нечего","gr":"ADV,praed="}],"text":"нечего"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"благодарить","gr":"V,ipf,tran=inf"}],"text":"благодарить"}
+{"analysis":[{"lex":"жалкий","gr":"A=acc,sg,plen,m,anim"},{"lex":"жалкий","gr":"A=gen,sg,plen,m"},{"lex":"жалкий","gr":"A=gen,sg,plen,n"}],"text":"жалкого"}
+{"analysis":[{"lex":"шпион","gr":"S,m,anim=acc,sg"},{"lex":"шпион","gr":"S,m,anim=gen,sg"}],"text":"шпиона"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"хотеться","gr":"V,ipf,intr=praet,sg,indic,n"}],"text":"хотелось"}

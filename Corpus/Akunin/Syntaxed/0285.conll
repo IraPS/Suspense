@@ -1,0 +1,38 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	вышла	ВЫХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	наружу	НАРУЖУ	ADV	ADV -	ADV -	4	обст	_	_
+4	полюбоваться	ПОЛЮБОВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+5	закатом	ЗАКАТ	S	S m inan ins sg	S m inan ins sg	4	1-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	насладиться	НАСЛАЖДАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	6	соч-союзн	_	_
+8	прохладой	ПРОХЛАДА	S	S f inan ins sg	S f inan ins sg	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+11	когда	КОГДА	CONJ	CONJ	CONJ	18	обст	_	_
+12	снова	СНОВА	ADV	ADV -	ADV -	13	обст	_	_
+13	вернулась	ВЕРНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	11	подч-союзн	_	_
+14	в	В	PR	PR	PR	13	2-компл	_	_
+15	шатер	ШАТЕР	S	S m inan acc sg	S m inan acc sg	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	шахматы	ШАХМАТЫ	S	S - inan acc pl	S - inan acc pl	18	предик	_	_
+18	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	10	соч-союзн	_	_
+19	уже	УЖЕ	ADV	ADV -	ADV -	20	огранич	_	_
+20	убраны	УБИРАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	18	пасс-анал	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	и	И	CONJ	CONJ	CONJ	18	сент-соч	_	_
+23	разговор	РАЗГОВОР	S	S m inan nom sg	S m inan nom sg	24	предик	_	_
+24	шел	ИДТИ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	22	соч-союзн	_	_
+25	не	НЕ	PART	PART	PART	26	огранич	_	_
+26	более	БОЛЕЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+27	и	И	CONJ	CONJ	CONJ	26	сочин	_	_
+28	не	НЕ	PART	PART	PART	29	огранич	_	_
+29	менее	МЕНЕЕ	ADV	ADV -	ADV -	27	соч-союзн	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	как	КАК	CONJ	CONJ	CONJ	29	сравнит	_	_
+32	о	О	PR	PR	PR	31	сравн-союзн	_	_
+33	взаимоотношениях	ВЗАИМООТНОШЕНИЕ	S	S n inan loc pl	S n inan loc pl	32	предл	_	_
+34	человека	ЧЕЛОВЕК	S	S m anim gen sg	S m anim gen sg	33	квазиагент	_	_
+35	с	С	PR	PR	PR	33	1-компл	_	_
+36	Богом	БОГ	S	S m anim ins sg	S m anim ins sg	35	предл	_	_
+37	.	.	SENT	SENT	SENT	36	PUNC	_	_
+

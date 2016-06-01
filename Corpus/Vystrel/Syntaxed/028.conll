@@ -1,0 +1,81 @@
+1	В	В	PR	PR	PR	6	обст	_	_
+2	четырех	ЧЕТЫРЕ	NUM	NUM loc - -	NUM loc - -	1	предл	_	_
+3	верстах	ВЕРСТА	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+4	от	ОТ	PR	PR	PR	3	1-компл	_	_
+5	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	4	предл	_	_
+6	находилось	НАХОДИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+7	богатое	БОГАТЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	8	опред	_	_
+8	поместье	ПОМЕСТЬЕ	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	принадлежащее	ПРИНАДЛЕЖАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen n act -	PARTCP ipf inpraes acc sg plen n act -	8	опред	_	_
+11	графине	ГРАФИНЯ	S	S f anim dat sg	S f anim dat sg	15	опред	_	_
+12	Б	Б	S	S - - nonflex nonflex	S - - nonflex nonflex	15	опред	_	_
+13	*	*	*	*	PUNC	15	опред	_	_
+14	*	*	*	*	PUNC	15	опред	_	_
+15	*	*	*	*	PUNC	10	1-компл	_	_
+16	;	;	SENT	SENT	SENT	15	PUNC	_	_
+
+1	но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	в	В	PR	PR	PR	4	обст	_	_
+3	нем	ОН	SPRO	SPRO sg 3p m loc	SPRO sg 3p m loc	2	предл	_	_
+4	жил	ЖИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+5	только	ТОЛЬКО	PART	PART	PART	6	огранич	_	_
+6	управитель	УПРАВИТЕЛЬ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	6	сочин	_	_
+9	графиня	ГРАФИНЯ	S	S f anim nom sg	S f anim nom sg	8	соч-союзн	_	_
+10	посетила	ПОСЕЩАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	вводн	_	_
+11	свое	СВОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	12	опред	_	_
+12	поместье	ПОМЕСТЬЕ	S	S n inan acc sg	S n inan acc sg	10	1-компл	_	_
+13	только	ТОЛЬКО	PART	PART	PART	14	огранич	_	_
+14	однажды	ОДНАЖДЫ	ADV	ADV -	ADV -	10	обст	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	в	В	PR	PR	PR	24	обст	_	_
+17	первый	ПЕРВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	18	опред	_	_
+18	год	ГОД	S	S m inan acc sg	S m inan acc sg	16	предл	_	_
+19	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+20	замужества	ЗАМУЖЕСТВО	S	S n inan gen sg	S n inan gen sg	18	квазиагент	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+23	то	ТО	S	S n inan acc sg	S n inan acc sg	22	соч-союзн	_	_
+24	прожила	ПРОЖИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+25	там	ТАМ	ADV	ADV -	ADV -	24	обст	_	_
+26	не	НЕ	PART	PART	PART	27	огранич	_	_
+27	более	МНОГО	ADV	ADV comp	ADV comp	24	1-компл	_	_
+28	месяца	МЕСЯЦ	S	S m inan gen sg	S m inan gen sg	27	сравнит	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	ж	Ж	PART	PART	PART	3	огранич	_	_
+3	во	ВО	PR	PR	PR	8	обст	_	_
+4	вторую	ВТОРОЙ	A	A - acc sg plen f -	A - acc sg plen f -	5	опред	_	_
+5	весну	ВЕСНА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+6	моего	МОЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	затворничества	ЗАТВОРНИЧЕСТВО	S	S n inan gen sg	S n inan gen sg	5	квазиагент	_	_
+8	разнесся	РАЗНЕСТИСЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+9	слух	СЛУХ	S	S m inan nom sg	S m inan nom sg	8	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	9	1-компл	_	_
+12	графиня	ГРАФИНЯ	S	S f anim nom sg	S f anim nom sg	15	предик	_	_
+13	с	С	PR	PR	PR	15	обст	_	_
+14	мужем	МУЖ	S	S m anim ins sg	S m anim ins sg	13	предл	_	_
+15	приедет	ПРИЕЗЖАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	11	подч-союзн	_	_
+16	на	НА	PR	PR	PR	15	2-компл	_	_
+17	лето	ЛЕТО	S	S n inan acc sg	S n inan acc sg	16	предл	_	_
+18	в	В	PR	PR	PR	15	обст	_	_
+19	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	20	опред	_	_
+20	деревню	ДЕРЕВНЯ	S	S f inan acc sg	S f inan acc sg	18	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	самом	САМЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	3	опред	_	_
+3	деле	ДЕЛО	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	6	предик	_	_
+6	прибыли	ПРИБЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	в	В	PR	PR	PR	6	обст	_	_
+8	начале	НАЧАЛО	S	S n inan loc sg	S n inan loc sg	7	предл	_	_
+9	июня	ИЮНЬ	S	S m inan gen sg	S m inan gen sg	8	квазиагент	_	_
+10	месяца	МЕСЯЦ	S	S m inan gen sg	S m inan gen sg	9	атриб	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

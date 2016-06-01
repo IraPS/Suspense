@@ -1,0 +1,49 @@
+1	Дальнейшее	ДАЛЬНЕЙШИЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+2	тебе	ТЫ	SPRO	SPRO sg 2p - loc	SPRO sg 2p - loc	0	ROOT	_	_
+3	известно	ИЗВЕСТНО	ADV	ADV -	ADV -	2	обст	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	31	31	NUM	NUM - - -	NUM - - -	9	обст	_	_
+2	августа	АВГУСТ	S	S m inan gen sg	S m inan gen sg	1	атриб	_	_
+3	на	НА	PR	PR	PR	1	уточн	_	_
+4	престол	ПРЕСТОЛ	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+5	вместо	ВМЕСТО	PR	PR	PR	1	обст	_	_
+6	безумного	БЕЗУМНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	Мурада	МУРАД	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+8	V	V	NUM	NUM - - -	NUM - - -	9	2-компл	_	_
+9	взошел	ВОСХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+10	Абдул	АБДУЛ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	-	-	-	-	PUNC	10	PUNC	_	_
+12	Гамид	ГАМИД	S	S m inan gen sg	S m inan gen sg	10	1-компл	_	_
+13	II	II	NUM	NUM - - -	NUM - - -	12	нум-аппоз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	Мидхат	МИДХАТ	S	S m inan gen sg	S m inan gen sg	12	атриб	_	_
+16	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	сочин	_	_
+17	великим	ВЕЛИКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	18	опред	_	_
+18	везиром	ВЕЗИР	S	S m inan ins sg	S m inan ins sg	16	присвяз	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	а	А	CONJ	CONJ	CONJ	9	сент-соч	_	_
+21	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	22	предик	_	_
+22	остался	ОСТАВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	20	соч-союзн	_	_
+23	при	ПРИ	PR	PR	PR	22	обст	_	_
+24	новом	НОВЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	25	опред	_	_
+25	султане	СУЛТАН	S	S m inan loc sg	S m inan loc sg	23	предл	_	_
+26	закулисным	ЗАКУЛИСНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	27	опред	_	_
+27	манипулятором	МАНИПУЛЯТОР	S	S m inan ins sg	S m inan ins sg	22	присвяз	_	_
+28	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+29	негласным	НЕГЛАСНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	30	опред	_	_
+30	шефом	ШЕФ	S	S m anim ins sg	S m anim ins sg	28	соч-союзн	_	_
+31	тайной	ТАЙНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	32	опред	_	_
+32	полиции	ПОЛИЦИЯ	S	S f inan gen sg	S f inan gen sg	30	1-компл	_	_
+33	–	–	–	–	PUNC	42	предик	_	_
+34	то есть	то есть	ADV	ADV -	-	42	обст	_	_
+35	(	(	_	_	PUNC	36	PUNC	_	_
+36	ха-ха	ХА-ХА	INTJ	INTJ	INTJ	34	примыкат	_	_
+37	)	)	_	_	PUNC	36	PUNC	_	_
+38	твоим	ТВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	36	сочин	_	_
+39	,	,	,	,	PUNC	38	PUNC	_	_
+40	Лаврентий	ЛАВРЕНТИЙ	S	S m anim gen sg	S m anim gen sg	38	сочин	_	_
+41	,	,	,	,	PUNC	40	PUNC	_	_
+42	коллегой	КОЛЛЕГА	S	S - anim ins sg	S - anim ins sg	22	разъяснит	_	_
+43	.	.	SENT	SENT	SENT	42	PUNC	_	_
+

@@ -1,0 +1,21 @@
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	10	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	включая	ВКЛЮЧАЯ	PR	PR	PR	2	атриб	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	5	соч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	столь	СТОЛЬ	ADV	ADV -	ADV -	9	огранич	_	_
+9	дружно	ДРУЖНО	ADV	ADV -	ADV -	10	обст	_	_
+10	набросились	НАБРОСИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+11	на	НА	PR	PR	PR	10	1-компл	_	_
+12	нудного	НУДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	опред	_	_
+13	кельта	КЕЛЬТ	S	S m anim acc sg	S m anim acc sg	11	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	что	ЧТО	CONJ	CONJ	CONJ	10	сент-соч	_	_
+16	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	17	предик	_	_
+17	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	подч-союзн	_	_
+18	вынужден	ВЫНУЖДАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	17	пасс-анал	_	_
+19	умолкнуть	УМОЛКАТЬ	V	V pf - - inf - -	V pf - - inf - -	18	2-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

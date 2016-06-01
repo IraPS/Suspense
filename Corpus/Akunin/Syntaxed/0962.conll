@@ -1,0 +1,82 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Шарль	ШАРЛЬ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	5	предик	_	_
+5	сошли	СХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	релят	_	_
+6	с	С	PR	PR	PR	5	1-компл	_	_
+7	ума	УМ	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	крикнул	КРИКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	делая	ДЕЛАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	обст	_	_
+6	шаг	ШАГ	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+7	вперед.	ВПЕРЕД.	ADV	ADV -	ADV -	8	обст	_	_
+8	–	–	–	–	PUNC	2	сент-соч	_	_
+9	Прятаться	ПРЯТАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+10	за	ЗА	PR	PR	PR	9	1-компл	_	_
+11	даму	ДАМА	S	S f anim acc sg	S f anim acc sg	10	предл	_	_
+12	!	!	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Но	НО	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	мсье	МСЬЕ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	4	вспом	_	_
+4	Фандогин	ФАНДОГИН	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+5	доказал	ДОКАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	S	S n inan acc sg	S n inan acc sg	9	1-компл	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	9	предик	_	_
+9	тугок	ТУГОК	S	S m anim nom sg	S m anim nom sg	5	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	 	 	 	 	PUNC	14	3-компл	_	_
+12	–	–	–	–	PUNC	14	1-компл	_	_
+13	насмешливо	НАСМЕШЛИВО	ADV	ADV -	ADV -	14	обст	_	_
+14	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	сочин	_	_
+15	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	14	1-компл	_	_
+16	'	'	_	_	PUNC	15	PUNC	_	_
+17	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	14	квазиагент	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	ощущала	ОЩУЩАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	затылком	ЗАТЫЛОК	S	S m inan ins sg	S m inan ins sg	2	1-компл	_	_
+4	его	ОНО	SPRO	SPRO sg 3p n acc	SPRO sg 3p n acc	6	1-компл	_	_
+5	горячее	ГОРЯЧИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	6	опред	_	_
+6	дыхание	ДЫХАНИЕ	S	S n inan acc sg	S n inan acc sg	2	сент-соч	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	у	У	PR	PR	PR	8	1-компл	_	_
+4	тугок	ТУГОК	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+5	с	С	PR	PR	PR	8	обст	_	_
+6	дамами	ДАМА	S	S f anim ins pl	S f anim ins pl	5	предл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	цегемонятся	ЦЕГЕМОНИТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	2	соч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	У	У	PR	PR	PR	1	обст	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	у	У	PR	PR	PR	2	предл	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	у	У	PR	PR	PR	4	предл	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	завыл	ЗАВЫТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Митя	МИТЯ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	по	ПО	PR	PR	PR	12	вводн	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	телячьи	ТЕЛЯЧИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	9	опред	_	_
+9	наклонив	НАКЛОНЯТЬ	V	V pf praet - ger - -	V pf praet - ger - -	12	обст	_	_
+10	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	бросился	БРОСАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+13	вперед	ВПЕРЕД	ADV	ADV -	ADV -	12	2-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

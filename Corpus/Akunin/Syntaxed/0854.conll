@@ -1,0 +1,139 @@
+1	В	В	PR	PR	PR	6	обст	_	_
+2	другой	ДРУГОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	к	К	PR	PR	PR	6	1-компл	_	_
+5	барьеру	БАРЬЕР	S	S m inan dat sg	S m inan dat sg	4	предл	_	_
+6	вызвали	ВЫЗЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	уже	УЖЕ	ADV	ADV -	ADV -	8	огранич	_	_
+8	самого	САМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	француза	ФРАНЦУЗ	S	S m anim gen sg	S m anim gen sg	6	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+12	опять	ОПЯТЬ	ADV	ADV -	ADV -	15	обст	_	_
+13	за	ЗА	PR	PR	PR	15	обст	_	_
+14	шутку	ШУТКА	S	S f inan acc sg	S f inan acc sg	13	предл	_	_
+15	–	–	–	–	PUNC	11	соч-союзн	_	_
+16	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+17	на	НА	PR	PR	PR	26	атриб	_	_
+18	сей	СЕЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	19	опред	_	_
+19	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	17	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	на	НА	PR	PR	PR	26	огранич	_	_
+22	взгляд	ВЗГЛЯД	S	S m inan acc sg	S m inan acc sg	21	предл	_	_
+23	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	22	квазиагент	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	довольно	ДОВОЛЬНО	ADV	ADV -	ADV -	26	огранич	_	_
+26	смешную	СМЕШНОЙ	A	A - acc sg plen f -	A - acc sg plen f -	16	соч-союзн	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	уже	УЖЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	после	ПОСЛЕ	PR	PR	PR	2	обст	_	_
+5	того	ТО	S	S n - gen sg	S n - gen sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как	КАК	CONJ	CONJ	CONJ	5	эксплет	_	_
+8	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	11	1-компл	_	_
+9	повсюду	ПОВСЮДУ	ADV	ADV -	ADV -	10	обст	_	_
+10	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	подч-союзн	_	_
+11	сопровождать	СОПРОВОЖДАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	1-компл	_	_
+12	юный	ЮНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	Гриднев	ГРИДНЕВ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	1-компл	_	_
+2	'	'	_	_	PUNC	1	PUNC	_	_
+3	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	1	1-компл	_	_
+4	опрометчиво	ОПРОМЕТЧИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+5	заметил	ЗАМЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	предик	_	_
+6	вслух	ВСЛУХ	ADV	ADV -	ADV -	5	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+9	«	«	_	_	PUNC	10	PUNC	_	_
+10	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	14	предик	_	_
+11	Барбара	БАРБАРА	S	S f anim nom sg	S f anim nom sg	10	аппоз	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	14	обст	_	_
+14	похожа	ПОХОЖИЙ	A	A - - sg brev f -	A - - sg brev f -	8	подч-союзн	_	_
+15	на	НА	PR	PR	PR	14	1-компл	_	_
+16	Анну	АННА	S	S f anim acc sg	S f anim acc sg	15	предл	_	_
+17	Иоанновну	ИОАННОВНА	S	S m anim gen sg	S m anim gen sg	16	квазиагент	_	_
+18	с	С	PR	PR	PR	16	атриб	_	_
+19	арапчонком	АРАПЧОНОК	S	S m anim ins sg	S m anim ins sg	18	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	после	ПОСЛЕ	PR	PR	PR	23	обст	_	_
+22	чего	ЧТО	S	S n - gen sg	S n - gen sg	21	предл	_	_
+23	прапорщик	ПРАПОРЩИК	S	S m anim nom sg	S m anim nom sg	14	сент-соч	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	не	НЕ	PART	PART	PART	26	огранич	_	_
+26	устрашившись	УСТРАШАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	31	обст	_	_
+27	грозной	ГРОЗНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	28	опред	_	_
+28	репутации	РЕПУТАЦИЯ	S	S f inan gen sg	S f inan gen sg	26	1-компл	_	_
+29	корреспондента	КОРРЕСПОНДЕНТ	S	S m anim gen sg	S m anim gen sg	28	квазиагент	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	потребовал	ПОТРЕБОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	23	релят	_	_
+32	от	ОТ	PR	PR	PR	31	1-компл	_	_
+33	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	32	предл	_	_
+34	немедленной	НЕМЕДЛЕННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	35	опред	_	_
+35	сатисфакции	САТИСФАКЦИЯ	S	S f inan gen sg	S f inan gen sg	31	2-компл	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+
+1	Поскольку	ПОСКОЛЬКУ	CONJ	CONJ	CONJ	11	обст	_	_
+2	сцена	СЦЕНА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	произошла	ПРОИСХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	подч-союзн	_	_
+4	в	В	PR	PR	PR	3	обст	_	_
+5	Варином	ВАРИН	S	S m inan ins sg	S m inan ins sg	4	предл	_	_
+6	присутствии	ПРИСУТСТВИЕ	S	S n inan loc sg	S n inan loc sg	3	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	до	ДО	PR	PR	PR	11	1-компл	_	_
+9	пальбы	ПАЛЬБА	S	S f inan gen sg	S f inan gen sg	8	предл	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	дошло	ДОХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Гридневу	ГРИДНЕВ	S	S m anim dat sg	S m anim dat sg	3	2-компл	_	_
+2	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+3	велела	ВЕЛЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	9	опред	_	_
+4	помалкивать	ПОМАЛКИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	3	сочин	_	_
+7	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	6	соч-союзн	_	_
+8	'	'	_	_	PUNC	7	PUNC	_	_
+9	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	0	ROOT	_	_
+10	–	–	–	–	PUNC	0	ROOT	_	_
+11	взять	ВЗЯТЬ	V	V pf - - inf - -	V pf - - inf - -	10	1-компл	_	_
+12	свои	СВОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	13	опред	_	_
+13	слова	СЛОВО	S	S n inan gen sg	S n inan gen sg	11	1-компл	_	_
+14	обратно	ОБРАТНО	ADV	ADV -	ADV -	11	обст	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	тут	ТУТ	ADV	ADV -	ADV -	4	обст	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	покаялся	ПОКАЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	признав	ПРИЗНАВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	4	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	6	1-компл	_	_
+9	сравнение	СРАВНЕНИЕ	S	S n inan nom sg	S n inan nom sg	10	предик	_	_
+10	неудачно	НЕУДАЧНО	ADV	ADV -	ADV -	8	подч-союзн	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	monsieur	MONSIEUR	NONLEX	NONLEX	NONLEX	11	соч-союзн	_	_
+13	sous	SOUS	NONLEX	NONLEX	NONLEX	12	аппоз	_	_
+14	-	-	-	-	PUNC	13	PUNC	_	_
+15	lieutenant	LIEUTENANT	NONLEX	NONLEX	NONLEX	13	аппоз	_	_
+16	скорее	СКОРО	ADV	ADV comp	ADV comp	17	обст	_	_
+17	напоминает	НАПОМИНАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	сент-соч	_	_
+18	Геркулеса	ГЕРКУЛЕС	S	S m inan gen sg	S m inan gen sg	17	1-компл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	захватившего	ЗАХВАТИТЬ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	17	сент-соч	_	_
+21	керинейскую	КЕРИНЕЙСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	22	опред	_	_
+22	лань	ЛАНЬ	S	S f anim acc sg	S f anim acc sg	20	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	На	НА	PR	PR	PR	4	обст	_	_
+2	том	ТО	S	S n - loc sg	S n - loc sg	1	предл	_	_
+3	и	И	CONJ	CONJ	CONJ	4	соотнос	_	_
+4	помирились	ПОМИРИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

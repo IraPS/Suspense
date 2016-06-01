@@ -1,0 +1,59 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	подняла	ПОДЫМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+8	навстречу	НАВСТРЕЧУ	ADV	ADV -	ADV -	10	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	окутанный	ОКУТЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	22	опред	_	_
+11	облаком	ОБЛАКО	S	S n inan ins sg	S n inan ins sg	10	агент	_	_
+12	пыли	ПЫЛЬ	S	S f inan gen sg	S f inan gen sg	11	квазиагент	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	бесформенной	БЕСФОРМЕННЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	15	опред	_	_
+15	толпой	ТОЛПА	S	S f inan ins sg	S f inan ins sg	16	1-компл	_	_
+16	движется	ДВИГАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	12	релят	_	_
+17	отряд	ОТРЯД	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+18	всадников	ВСАДНИК	S	S m anim gen pl	S m anim gen pl	17	квазиагент	_	_
+19	–	–	–	–	PUNC	17	опред	_	_
+20	пожалуй	ПОЖАЛУЙ	PART	PART	PART	22	вводн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	23	предик	_	_
+23	двадцать	ДВАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	7	подч-союзн	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Видно	ВИДНО	ADV	ADV -	ADV -	2	обст	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	мохнатые	МОХНАТЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	опред	_	_
+4	шапки	ШАПКА	S	S f inan acc pl	S f inan acc pl	2	присвяз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	солнечные	СОЛНЕЧНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	7	опред	_	_
+7	звездочки	ЗВЕЗДОЧКА	S	S m anim nom pl	S m anim nom pl	9	предик	_	_
+8	ярко	ЯРКО	ADV	ADV -	ADV -	9	обст	_	_
+9	вспыхивали	ВСПЫХИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	4	релят	_	_
+10	на	НА	PR	PR	PR	9	обст	_	_
+11	газырях	ГАЗЫРИ	S	S - inan loc pl	S - inan loc pl	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	сбруе	СБРУЯ	S	S f inan loc sg	S f inan loc sg	11	сочин	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	оружии	ОРУЖИЕ	S	S n inan loc sg	S n inan loc sg	13	сочин	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	4	предик	_	_
+2	из	ИЗ	PR	PR	PR	1	электив	_	_
+3	конников	КОННИК	S	S m anim gen pl	S m anim gen pl	2	предл	_	_
+4	ехал	ЕХАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	впереди	ВПЕРЕДИ	ADV	ADV -	ADV -	4	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+8	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+9	разглядела	РАЗГЛЯДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+10	зеленый	ЗЕЛЕНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	11	опред	_	_
+11	лоскут	ЛОСКУТ	S	S m inan acc sg	S m inan acc sg	9	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	обмотанный	ОБМАТЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	11	опред	_	_
+14	вокруг	ВОКРУГ	PR	PR	PR	13	обст	_	_
+15	папахи	ПАПАХА	S	S f inan gen sg	S f inan gen sg	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

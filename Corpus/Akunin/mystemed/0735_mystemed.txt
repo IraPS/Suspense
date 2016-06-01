@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"через","gr":"PR="}],"text":"Через"}
+{"analysis":[{"lex":"минута","gr":"S,f,inan=acc,sg"}],"text":"минуту"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"его","gr":"APRO=abl,pl"},{"lex":"его","gr":"APRO=dat,pl"},{"lex":"его","gr":"APRO=gen,pl"},{"lex":"его","gr":"APRO=ins,pl"},{"lex":"его","gr":"APRO=nom,pl"},{"lex":"его","gr":"APRO=nom,sg,f"},{"lex":"его","gr":"APRO=acc,sg,m,anim"},{"lex":"его","gr":"APRO=gen,sg,m"},{"lex":"его","gr":"APRO=gen,sg,n"},{"lex":"его","gr":"APRO=acc,sg,n"},{"lex":"его","gr":"APRO=nom,sg,n"},{"lex":"его","gr":"APRO=abl,sg,f"},{"lex":"его","gr":"APRO=dat,sg,f"},{"lex":"его","gr":"APRO=gen,sg,f"},{"lex":"его","gr":"APRO=ins,sg,f"},{"lex":"его","gr":"APRO=abl,sg,m"},{"lex":"его","gr":"APRO=abl,sg,n"},{"lex":"его","gr":"APRO=dat,sg,m"},{"lex":"его","gr":"APRO=dat,sg,n"},{"lex":"его","gr":"APRO=acc,sg,f"},{"lex":"его","gr":"APRO=acc,pl,inan"},{"lex":"его","gr":"APRO=acc,sg,m,inan"},{"lex":"его","gr":"APRO=nom,sg,m"},{"lex":"его","gr":"APRO=ins,sg,m"},{"lex":"его","gr":"APRO=ins,sg,n"},{"lex":"его","gr":"APRO=acc,pl,anim"},{"lex":"его","gr":"APRO=abl,pl,n"},{"lex":"его","gr":"APRO=acc,pl,n"},{"lex":"его","gr":"APRO=dat,pl,n"},{"lex":"его","gr":"APRO=gen,pl,n"},{"lex":"его","gr":"APRO=ins,pl,n"},{"lex":"его","gr":"APRO=nom,pl,n"},{"lex":"его","gr":"APRO=abl,pl,m"},{"lex":"его","gr":"APRO=acc,pl,m"},{"lex":"его","gr":"APRO=acc,sg,m"},{"lex":"его","gr":"APRO=dat,pl,m"}],"text":"его"}
+{"analysis":[{"lex":"уже","gr":"ADV="}],"text":"уже"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"видеть","gr":"V,ipf,tran=praet,sg,indic,f"}],"text":"видела"}
+{"analysis":[{"lex":"скрываться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"скрылся"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"серый","gr":"A=dat,pl,plen"},{"lex":"серый","gr":"A=ins,sg,plen,m"},{"lex":"серый","gr":"A=ins,sg,plen,n"}],"text":"серым"}
+{"analysis":[{"lex":"полог","gr":"S,m,inan=ins,sg"}],"text":"пологом"}
+{"analysis":[{"lex":"набирать","gr":"V=praet,acc,sg,partcp,plen,m,ipf,act,anim,tran"},{"lex":"набирать","gr":"V=praet,gen,sg,partcp,plen,m,ipf,act,tran"},{"lex":"набирать","gr":"V=praet,gen,sg,partcp,plen,n,ipf,act,tran"}],"text":"набиравшего"}
+{"analysis":[{"lex":"сила","gr":"S,f,inan=acc,sg"}],"text":"силу"}
+{"analysis":[{"lex":"дождь","gr":"S,m,inan=gen,sg"}],"text":"дождя"}

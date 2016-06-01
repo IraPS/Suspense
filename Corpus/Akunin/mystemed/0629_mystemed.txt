@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"общий","gr":"A=abl,sg,plen,m"},{"lex":"общий","gr":"A=abl,sg,plen,n"}],"text":"общем"}
+{"analysis":[{"lex":"повертывать","gr":"V=praet,sg,indic,f,pf"}],"text":"повернула"}
+{"analysis":[{"lex":"обратно","gr":"ADV="}],"text":"обратно"}

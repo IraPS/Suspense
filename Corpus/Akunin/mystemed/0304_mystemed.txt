@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"капитан","gr":"S,m,anim=nom,sg"}],"text":"Капитан"}
+{"analysis":[{"lex":"пожимать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"пожал"}
+{"analysis":[{"lex":"плечо","gr":"S,n,inan=ins,pl"}],"text":"плечами"}
+{"analysis":[{"lex":"понятие","gr":"S,n,inan=acc,pl"},{"lex":"понятие","gr":"S,n,inan=gen,sg"},{"lex":"понятие","gr":"S,n,inan=nom,pl"}],"text":"Понятия"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"иметь","gr":"V,ipf,tran=inpraes,sg,indic,1p"}],"text":"имею"}

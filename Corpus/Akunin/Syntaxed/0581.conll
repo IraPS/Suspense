@@ -1,0 +1,8 @@
+1	Одним	ОДИН	A	A - ins sg plen n -	A - ins sg plen n -	2	количест	_	_
+2	словом	СЛОВО	S	S n inan ins sg	S n inan ins sg	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	безвременье	БЕЗВРЕМЕНЬЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	скука	СКУКА	S	S f inan nom sg	S f inan nom sg	5	соч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

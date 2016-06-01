@@ -1,0 +1,40 @@
+1	Джой	ДЖОЙ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	мрачно	МРАЧНО	ADV	ADV -	ADV -	4	обст	_	_
+4	протянув	ПРОТЯГИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	5	обст	_	_
+5	ободранную	ОБДИРАТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	8	опред	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	израненную	ИЗРАНИТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	6	соч-союзн	_	_
+8	руку	РУКА	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	прижимала	ПРИЖИМАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+11	к	К	PR	PR	PR	10	2-компл	_	_
+12	ране	РАНА	S	S f inan dat sg	S f inan dat sg	11	предл	_	_
+13	платок	ПЛАТОК	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Оба	ОБА	NUM	NUM acc m inan	NUM acc m inan	2	1-компл	_	_
+2	дышали	ДЫШАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	2	сравнит	_	_
+5	после	ПОСЛЕ	PR	PR	PR	4	сравн-союзн	_	_
+6	долгого	ДОЛГИЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	бега	БЕГ	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Наконец	НАКОНЕЦ	ADV	ADV -	ADV -	7	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	разорвав	РАЗРЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	7	обст	_	_
+4	платок	ПЛАТОК	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	Джой	ДЖОЙ	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+7	перевязала	ПЕРЕВЯЗЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	руку	РУКА	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	смотрел	СМОТРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	часы	ЧАСЫ	S	S - inan acc pl	S - inan acc pl	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

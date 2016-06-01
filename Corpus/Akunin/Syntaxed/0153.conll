@@ -1,0 +1,59 @@
+1	–	–	–	–	PUNC	2	предик	_	_
+2	Живы	ЖИВОЙ	A	A - - pl brev - -	A - - pl brev - -	0	ROOT	_	_
+3	–	–	–	–	PUNC	2	1-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	славно	СЛАВНО	ADV	ADV -	ADV -	10	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	 	 	 	 	PUNC	10	обст	_	_
+8	–	–	–	–	PUNC	10	1-компл	_	_
+9	благодушно	БЛАГОДУШНО	ADV	ADV -	ADV -	10	обст	_	_
+10	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+11	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	предик	_	_
+2	А	А	CONJ	CONJ	CONJ	1	соотнос	_	_
+3	без	БЕЗ	PR	PR	PR	6	обст	_	_
+4	пистолета	ПИСТОЛЕТ	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	офицеру	ОФИЦЕР	S	S m anim dat sg	S m anim dat sg	6	дат-субъект	_	_
+6	нельзя	НЕЛЬЗЯ	ADV	ADV -	ADV -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	даже	ДАЖЕ	PART	PART	PART	9	огранич	_	_
+9	штабному	ШТАБНОЙ	A	A - dat sg plen m -	A - dat sg plen m -	6	сент-соч	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	9	1-компл	_	_
+2	все равно	все равно	ADV	ADV -	-	4	обст	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	2	вспом	_	_
+4	даме	ДАМА	S	S f anim dat sg	S f anim dat sg	9	дат-субъект	_	_
+5	на	НА	PR	PR	PR	4	2-компл	_	_
+6	улицу	УЛИЦА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	без	БЕЗ	PR	PR	PR	4	обст	_	_
+8	шляпки	ШЛЯПКА	S	S f inan acc pl	S f inan acc pl	7	предл	_	_
+9	выйти	ВЫХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+10	–	–	–	–	PUNC	9	2-компл	_	_
+11	за	ЗА	PR	PR	PR	9	обст	_	_
+12	гулящую	ГУЛЯЩИЙ	A	A - acc sg plen f -	A - acc sg plen f -	13	1-компл	_	_
+13	сочтут	СЧЕСТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	11	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	хохотнул	ХОХОТНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	поймав	ПОЙМАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	12	обст	_	_
+8	сердитый	СЕРДИТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	Варин	ВАРИН	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+10	взгляд	ВЗГЛЯД	S	S m inan nom sg	S m inan nom sg	9	аппоз	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	поперхнулся	ПОПЕРХНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Пардон	ПАРДОН	INTJ	INTJ	INTJ	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

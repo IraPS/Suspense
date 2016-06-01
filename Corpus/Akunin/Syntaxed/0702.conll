@@ -1,0 +1,17 @@
+1	На	НА	PR	PR	PR	4	обст	_	_
+2	лоб	ЛОБ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+3	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	4	1-компл	_	_
+4	легло	ЛОЖИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	что-то	ЧТО-ТО	S	S n - nom sg	S n - nom sg	4	1-компл	_	_
+6	приятное	ПРИЯТНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	12	опред	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	ледяное	ЛЕДЯНОЙ	A	A - nom sg plen n -	A - nom sg plen n -	6	сочин	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	соч-союзн	_	_
+12	даже	ДАЖЕ	CONJ	CONJ	CONJ	4	обст	_	_
+13	замычала	ЗАМЫЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	разъяснит	_	_
+14	от	ОТ	PR	PR	PR	13	1-компл	_	_
+15	удовольствия	УДОВОЛЬСТВИЕ	S	S n inan gen sg	S n inan gen sg	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

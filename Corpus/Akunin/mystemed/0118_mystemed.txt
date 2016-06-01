@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"помотать","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"помотала"}
+{"analysis":[{"lex":"голова","gr":"S,f,inan=ins,sg"}],"text":"головой"}
+{"analysis":[{"lex":"чтоб","gr":"CONJ="}],"text":"чтоб"}
+{"analysis":[{"lex":"волос","gr":"S,m,inan=acc,pl"},{"lex":"волос","gr":"S,m,inan=nom,pl"}],"text":"волосы"}
+{"analysis":[{"lex":"ложиться","gr":"V,intr=praet,pl,indic,pf"}],"text":"легли"}
+{"analysis":[{"lex":"хорошо","gr":"ADV=comp"}],"text":"получше"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"приниматься","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"принялась"}
+{"analysis":[{"lex":"рукав","gr":"S,m,inan=ins,sg"}],"text":"рукавом"}
+{"analysis":[{"lex":"стирать","gr":"V,ipf,tran=inf"}],"text":"стирать"}
+{"analysis":[{"lex":"пыль","gr":"S,f,inan=acc,sg"},{"lex":"пыль","gr":"S,f,inan=nom,sg"}],"text":"пыль"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"лицо","gr":"S,n,inan=acc,pl"},{"lex":"лицо","gr":"S,n,inan=gen,sg"},{"lex":"лицо","gr":"S,n,inan=nom,pl"}],"text":"лица"}

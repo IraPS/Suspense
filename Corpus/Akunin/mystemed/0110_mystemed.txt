@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"круглый","gr":"A=acc,pl,plen,inan"},{"lex":"круглый","gr":"A=nom,pl,plen"}],"text":"Круглые"}
+{"analysis":[{"lex":"светлый","gr":"A=acc,pl,plen,inan"},{"lex":"светлый","gr":"A=nom,pl,plen"}],"text":"светлые"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=acc,pl"},{"lex":"глаз","gr":"S,m,inan=gen,sg"},{"lex":"глаз","gr":"S,m,inan=nom,pl"}],"text":"глаза"}
+{"analysis":[{"lex":"поверх","gr":"PR="}],"text":"поверх"}
+{"analysis":[{"lex":"очки","gr":"S,pl,inan=gen"}],"text":"очков"}
+{"analysis":[{"lex":"участливый","gr":"A=sg,brev,n"}],"text":"участливо"}
+{"analysis":[{"lex":"воззриться","gr":"V,pf,intr=praet,pl,indic"}],"text":"воззрились"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"спасение","gr":"S,n,inan=abl,sg"}],"text":"спасении"}

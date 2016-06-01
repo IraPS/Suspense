@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"от","gr":"PR="}],"text":"От"}
+{"analysis":[{"lex":"такой","gr":"APRO=abl,sg,f"},{"lex":"такой","gr":"APRO=dat,sg,f"},{"lex":"такой","gr":"APRO=gen,sg,f"},{"lex":"такой","gr":"APRO=ins,sg,f"},{"lex":"такой","gr":"APRO=acc,sg,m,inan"},{"lex":"такой","gr":"APRO=nom,sg,m"}],"text":"такой"}
+{"analysis":[{"lex":"снисходительность","gr":"S,f,inan=abl,sg"},{"lex":"снисходительность","gr":"S,f,inan=acc,pl"},{"lex":"снисходительность","gr":"S,f,inan=dat,sg"},{"lex":"снисходительность","gr":"S,f,inan=gen,sg"},{"lex":"снисходительность","gr":"S,f,inan=nom,pl"}],"text":"снисходительности"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"разозлиться","gr":"V,pf,intr=praet,sg,indic,f"}],"text":"разозлилась"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"много","gr":"ADV=comp"}],"text":"больше"}
+{"analysis":[{"lex":"то","gr":"SPRO,sg,n,inan=ins"}],"text":"тем"}
+{"analysis":[{"lex":"более","gr":"ADV="}],"text":"более"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"агент","gr":"S,m,anim=nom,sg"}],"text":"агент"}
+{"analysis":[{"lex":"рабий","gr":"A,plen=nom,sg,f"}],"text":"рабья"}
+{"analysis":[{"lex":"кровь","gr":"S,f,inan=acc,sg"},{"lex":"кровь","gr":"S,f,inan=nom,sg"}],"text":"кровь"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"был"}
+{"analysis":[{"lex":"совершенно","gr":"ADV="}],"text":"совершенно"}
+{"analysis":[{"lex":"правый","gr":"A=sg,brev,m"}],"text":"прав"}

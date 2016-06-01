@@ -1,0 +1,1 @@
+{"analysis":[{"lex":"молчание","gr":"S,n,inan=acc,sg"},{"lex":"молчание","gr":"S,n,inan=nom,sg"}],"text":"Молчание"}

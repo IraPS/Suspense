@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"офицер","gr":"S,m,anim=nom,sg"}],"text":"Офицер"}
+{"analysis":[{"lex":"понижать","gr":"V=praet,sg,indic,m,pf"}],"text":"понизил"}
+{"analysis":[{"lex":"голос","gr":"S,m,inan=acc,sg"},{"lex":"голос","gr":"S,m,inan=nom,sg"}],"text":"голос"}
+{"analysis":[{"lex":"кинжал","gr":"S,m,inan=acc,sg"},{"lex":"кинжал","gr":"S,m,inan=nom,sg"}],"text":"Кинжал"}
+{"analysis":[{"lex":"иван","gr":"S,persn,m,anim=acc,sg"},{"lex":"иван","gr":"S,persn,m,anim=gen,sg"}],"text":"Ивана"}
+{"analysis":[{"lex":"харитонович","gr":"S,patrn,m,anim=acc,sg"},{"lex":"харитонович","gr":"S,patrn,m,anim=gen,sg"}],"text":"Харитоновича"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"сразу","gr":"ADV="}],"text":"сразу"}
+{"analysis":[{"lex":"признавать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"признал"}
+{"text":"\\s"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"показывать","gr":"V=praet,sg,indic,m,ipf,tran"}],"text":"показывал"}
+{"analysis":[{"lex":"говорить","gr":"V,ipf,tran=praet,sg,indic,m"}],"text":"говорил"}
+{"analysis":[{"lex":"подарок","gr":"S,m,inan=acc,sg"},{"lex":"подарок","gr":"S,m,inan=nom,sg"}],"text":"подарок"}
+{"analysis":[{"lex":"грузинский","gr":"A=acc,sg,plen,m,anim"},{"lex":"грузинский","gr":"A=gen,sg,plen,m"},{"lex":"грузинский","gr":"A=gen,sg,plen,n"}],"text":"грузинского"}
+{"analysis":[{"lex":"князь","gr":"S,m,anim=acc,sg"},{"lex":"князь","gr":"S,m,anim=gen,sg"}],"text":"князя"}

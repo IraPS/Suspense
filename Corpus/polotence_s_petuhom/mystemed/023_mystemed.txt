@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"засим","gr":"ADV="}],"text":"Засим"}
+{"analysis":[{"lex":"мы","gr":"SPRO,pl,1p=nom"}],"text":"мы"}
+{"analysis":[{"lex":"обходить","gr":"V,tran=praet,pl,indic,pf"}],"text":"обошли"}
+{"analysis":[{"lex":"пустой","gr":"A=acc,pl,plen,inan"},{"lex":"пустой","gr":"A=nom,pl,plen"}],"text":"пустые"}
+{"analysis":[{"lex":"палата","gr":"S,f,inan=acc,pl"},{"lex":"палата","gr":"S,f,inan=gen,sg"},{"lex":"палата","gr":"S,f,inan=nom,pl"}],"text":"палаты"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"убеждаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"убедился"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"они","gr":"SPRO,pl=abl"},{"lex":"они","gr":"SPRO,pl=acc"},{"lex":"они","gr":"SPRO,pl=gen"}],"text":"них"}
+{"analysis":[{"lex":"свободно","gr":"ADV="}],"text":"свободно"}
+{"analysis":[{"lex":"можно","gr":"ADV,praed="}],"text":"можно"}
+{"analysis":[{"lex":"размещать","gr":"V=inf,pf"}],"text":"разместить"}
+{"analysis":[{"lex":"сорок","gr":"NUM=acc"},{"lex":"сорок","gr":"NUM=nom"}],"text":"сорок"}
+{"analysis":[{"lex":"человек","gr":"S,m,anim=acc,pl"},{"lex":"человек","gr":"S,m,anim=gen,pl"},{"lex":"человек","gr":"S,m,anim=nom,sg"}],"text":"человек"}

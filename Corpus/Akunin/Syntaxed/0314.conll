@@ -1,0 +1,49 @@
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	прошло	ПРОХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	года	ГОД	S	S m inan gen sg	S m inan gen sg	3	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	на	НА	PR	PR	PR	16	обст	_	_
+8	раскопках	РАСКОПКА	S	S f inan loc pl	S f inan loc pl	7	предл	_	_
+9	ассирийского	АССИРИЙСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+10	города	ГОРОД	S	S m inan gen sg	S m inan gen sg	8	квазиагент	_	_
+11	в	В	PR	PR	PR	7	уточн	_	_
+12	Междуречье	МЕЖДУРЕЧЬЕ	S	S m inan gen sg	S m inan gen sg	11	предл	_	_
+13	у	У	PR	PR	PR	16	обст	_	_
+14	левого	ЛЕВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+15	сапога	САПОГ	S	S m inan gen sg	S m inan gen sg	13	предл	_	_
+16	отлетел	ОТЛЕТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+17	каблук	КАБЛУК	S	S m inan acc sg	S m inan acc sg	16	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	2	1-компл	_	_
+2	пришлось	ПРИХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	вернуться	ВЕРНУТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	лагерь	ЛАГЕРЬ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	одному	ОДИН	A	A - dat sg plen m -	A - dat sg plen m -	3	суб-копр	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	хромал	ХРОМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	по	ПО	PR	PR	PR	2	обст	_	_
+4	раскаленному	РАСКАЛЕННЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	5	опред	_	_
+5	песку	ПЕСОК	S	S m inan dat sg	S m inan dat sg	3	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	ругал	РУГАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сочин	_	_
+8	старого	СТАРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+9	софийского	СОФИЙСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+10	мошенника	МОШЕННИК	S	S m anim gen sg	S m anim gen sg	7	1-компл	_	_
+11	последними	ПОСЛЕДНИЙ	A	A - ins pl plen - -	A - ins pl plen - -	12	опред	_	_
+12	словами	СЛОВО	S	S n inan ins pl	S n inan ins pl	10	1-компл	_	_
+13	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+14	клялся	КЛЯСТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	13	соч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	что	ЧТО	CONJ	CONJ	CONJ	14	1-компл	_	_
+17	сожгу	СЖИГАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+18	сапоги	САПОГ	S	S m inan acc pl	S m inan acc pl	17	1-компл	_	_
+19	на	НА	PR	PR	PR	18	атриб	_	_
+20	костре	КОСТЕР	S	S m inan loc sg	S m inan loc sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

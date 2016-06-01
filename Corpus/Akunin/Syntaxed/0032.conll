@@ -1,0 +1,96 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	придумала	ПРИДУМЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	сразу	СРАЗУ	ADV	ADV -	ADV -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	но	НО	CONJ	CONJ	CONJ	2	сочин	_	_
+5	придумала	ПРИДУМЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Устроиться	УСТРАИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	13	предик	_	_
+2	сестрой	СЕСТРА	S	S f anim ins sg	S f anim ins sg	1	1-компл	_	_
+3	во	ВО	PR	PR	PR	2	атриб	_	_
+4	временно	ВРЕМЕННО	ADV	ADV -	ADV -	7	вводн	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	военный	ВОЕННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	7	опред	_	_
+7	госпиталь	ГОСПИТАЛЬ	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+8	или	ИЛИ	CONJ	CONJ	CONJ	3	сочин	_	_
+9	в	В	PR	PR	PR	8	соч-союзн	_	_
+10	походный	ПОХОДНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	11	опред	_	_
+11	лазарет	ЛАЗАРЕТ	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	удалось	УДАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+14	–	–	–	–	PUNC	20	1-компл	_	_
+15	незаконченные	НЕЗАКОНЧЕННЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	17	опред	_	_
+16	акушерские	АКУШЕРСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	17	опред	_	_
+17	курсы	КУРСЫ	S	S - inan acc pl	S - inan acc pl	20	обст	_	_
+18	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	20	1-компл	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	засчитали	ЗАСЧИТЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	13	сент-соч	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Женщин	ЖЕНЩИНА	S	S f anim acc pl	S f anim acc pl	3	опред	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	телеграфисток	ТЕЛЕГРАФИСТКА	S	S f anim gen pl	S f anim gen pl	8	1-компл	_	_
+4	в	В	PR	PR	PR	8	обст	_	_
+5	действующую	ДЕЙСТВУЮЩИЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	армию	АРМИЯ	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	брали	БРАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+2	совсем	СОВСЕМ	ADV	ADV -	ADV -	3	огранич	_	_
+3	было	БЫЛО	PART	PART	PART	4	огранич	_	_
+4	впала	ВПАДАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	в	В	PR	PR	PR	4	1-компл	_	_
+6	отчаяние	ОТЧАЯНИЕ	S	S n inan acc sg	S n inan acc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	но	НО	CONJ	CONJ	CONJ	4	сент-соч	_	_
+9	тут	ТУТ	ADV	ADV -	ADV -	12	обст	_	_
+10	из	ИЗ	PR	PR	PR	12	2-компл	_	_
+11	Румынии	РУМЫНИЯ	S	S f inan loc sg	S f inan loc sg	10	предл	_	_
+12	пришло	ПРИХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	8	соч-союзн	_	_
+13	письмо	ПИСЬМО	S	S n inan nom sg	S n inan nom sg	12	предик	_	_
+14	:	:	:	:	PUNC	15	опред	_	_
+15	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+16	жаловался	ЖАЛОВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	изъясн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	что	ЧТО	CONJ	CONJ	CONJ	16	1-компл	_	_
+19	в	В	PR	PR	PR	23	обст	_	_
+20	пехоту	ПЕХОТА	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	23	квазиагент	_	_
+22	не	НЕ	PART	PART	PART	23	огранич	_	_
+23	пустили	ПУСКАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	18	подч-союзн	_	_
+24	по	ПО	PR	PR	PR	23	обст	_	_
+25	причине	ПРИЧИНА	S	S f inan dat sg	S f inan dat sg	24	предл	_	_
+26	плоскостопия	ПЛОСКОСТОПИЕ	S	S n inan acc pl	S n inan acc pl	23	1-компл	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	а	А	CONJ	CONJ	CONJ	23	сочин	_	_
+29	оставили	ОСТАВЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	28	соч-союзн	_	_
+30	при	ПРИ	PR	PR	PR	29	обст	_	_
+31	штабе	ШТАБ	S	S m inan loc sg	S m inan loc sg	30	предл	_	_
+32	главнокомандующего	ГЛАВНОКОМАНДУЮЩИЙ	S	S m anim gen sg	S m anim gen sg	31	квазиагент	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	великого	ВЕЛИКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	35	опред	_	_
+35	князя	КНЯЗЬ	S	S m anim gen sg	S m anim gen sg	29	1-компл	_	_
+36	Николая	НИКОЛАЙ	S	S m anim gen sg	S m anim gen sg	35	аппоз	_	_
+37	Николаевича	НИКОЛАЕВИЧ	S	S m anim gen sg	S m anim gen sg	36	аппоз	_	_
+38	,	,	,	,	PUNC	37	PUNC	_	_
+39	ибо	ИБО	CONJ	CONJ	CONJ	29	обст	_	_
+40	вольноопределяющийся	ВОЛЬНООПРЕДЕЛЯЮЩИЙСЯ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+41	Яблоков	ЯБЛОКОВ	S	S m anim nom sg	S m anim nom sg	40	аппоз	_	_
+42	–	–	–	–	PUNC	43	опред	_	_
+43	математик	МАТЕМАТИК	S	S m anim nom sg	S m anim nom sg	41	аппоз	_	_
+44	,	,	,	,	PUNC	43	PUNC	_	_
+45	а	А	CONJ	CONJ	CONJ	40	сочин	_	_
+46	в	В	PR	PR	PR	50	обст	_	_
+47	армии	АРМИЯ	S	S f inan loc sg	S f inan loc sg	46	предл	_	_
+48	отчаянно	ОТЧАЯННО	ADV	ADV -	ADV -	50	обст	_	_
+49	не	НЕ	PART	PART	PART	50	огранич	_	_
+50	хватает	ХВАТАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	45	соч-союзн	_	_
+51	шифровальщиков	ШИФРОВАЛЬЩИК	S	S m anim acc pl	S m anim acc pl	50	1-компл	_	_
+52	.	.	SENT	SENT	SENT	51	PUNC	_	_
+

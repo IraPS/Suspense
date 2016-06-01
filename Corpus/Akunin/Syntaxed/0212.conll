@@ -1,0 +1,46 @@
+1	Еще	ЕЩЕ	ADV	ADV -	ADV -	2	огранич	_	_
+2	утром	УТРО	S	S n inan ins sg	S n inan ins sg	13	обст	_	_
+3	31	31	NUM	NUM - - -	NUM - - -	2	атриб	_	_
+4	мая	МАЙ	S	S m inan gen sg	S m inan gen sg	3	атриб	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	сразу	СРАЗУ	ADV	ADV -	ADV -	7	огранич	_	_
+7	после	ПОСЛЕ	PR	PR	PR	2	сочин	_	_
+8	переворота	ПЕРЕВОРОТ	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	Мидхат	МИДХАТ	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+11	-	-	-	-	PUNC	10	PUNC	_	_
+12	паша	ПАША	S	S m anim nom sg	S m anim nom sg	10	аппоз	_	_
+13	нанес	НАНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+14	визит	ВИЗИТ	S	S m inan nom sg	S m inan nom sg	13	предик	_	_
+15	племяннику	ПЛЕМЯННИК	S	S m anim dat sg	S m anim dat sg	14	1-компл	_	_
+16	свергнутого	СВЕРГАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	14	опред	_	_
+17	султана	СУЛТАН	S	S m anim gen sg	S m anim gen sg	16	1-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	принцу	ПРИНЦ	S	S m anim dat sg	S m anim dat sg	16	2-компл	_	_
+20	Мураду	МУРАД	S	S m anim dat sg	S m anim dat sg	19	аппоз	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	чем	ЧЕМ	CONJ	CONJ	CONJ	16	сравнит	_	_
+23	несказанно	НЕСКАЗАННЫЙ	A	A - - sg brev n -	A - - sg brev n -	22	сравн-союзн	_	_
+24	сего	СЕЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	26	опред	_	_
+25	последнего	ПОСЛЕДНИЙ	A	A - gen sg plen n -	A - gen sg plen n -	26	1-компл	_	_
+26	напугал	НАПУГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	сочин	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+2	необходимо	НЕОБХОДИМО	ADV	ADV -	ADV -	3	обст	_	_
+3	сделать	СДЕЛАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+4	небольшое	НЕБОЛЬШОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	3	2-компл	_	_
+5	отступление	ОТСТУПЛЕНИЕ	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	3	обст	_	_
+8	объяснить	ОБЪЯСНЯТЬ	V	V pf - - inf - -	V pf - - inf - -	7	инф-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	насколько	НАСКОЛЬКО	ADV	ADV -	ADV -	11	огранич	_	_
+11	жалка	ЖАЛКИЙ	A	A - - sg brev f -	A - - sg brev f -	8	1-компл	_	_
+12	в	В	PR	PR	PR	11	1-компл	_	_
+13	Османской	ОСМАНСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+14	империи	ИМПЕРИЯ	S	S f inan gen sg	S f inan gen sg	12	предл	_	_
+15	фигура	ФИГУРА	S	S f inan nom sg	S f inan nom sg	11	предик	_	_
+16	наследника	НАСЛЕДНИК	S	S m anim gen sg	S m anim gen sg	15	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

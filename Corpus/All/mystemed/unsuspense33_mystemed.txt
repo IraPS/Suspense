@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"читатель","gr":"S,m,anim=nom,sg"}],"text":"Читатель"}
+{"analysis":[{"lex":"теперь","gr":"ADV="}],"text":"теперь"}
+{"analysis":[{"lex":"вероятно","gr":"ADV,parenth="}],"text":"вероятно"}
+{"analysis":[{"lex":"понимать","gr":"V=inpraes,sg,indic,3p,ipf,tran"}],"text":"понимает"}
+{"analysis":[{"lex":"почему","gr":"ADVPRO="}],"text":"почему"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"участие","gr":"S,n,inan=ins,sg"}],"text":"участием"}
+{"analysis":[{"lex":"посмотреть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"посмотрел"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"арина","gr":"S,persn,f,anim=acc,sg"}],"text":"Арину"}

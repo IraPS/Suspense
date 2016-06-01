@@ -1,0 +1,128 @@
+1	Горячился	ГОРЯЧИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	доказывал	ДОКАЗЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	сочин	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	такой	ТАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	опред	_	_
+8	уж	УЖ	PART	PART	PART	9	огранич	_	_
+9	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	10	предик	_	_
+10	великий	ВЕЛИКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	хоть	ХОТЬ	PART	PART	PART	14	огранич	_	_
+13	и	И	CONJ	CONJ	CONJ	12	вспом	_	_
+14	с	С	PR	PR	PR	10	сочин	_	_
+15	былыми	БЫЛОЙ	A	A - ins pl plen - -	A - ins pl plen - -	16	опред	_	_
+16	заслугами	ЗАСЛУГА	S	S f inan ins pl	S f inan ins pl	14	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	что	ЧТО	CONJ	CONJ	CONJ	16	эксплет	_	_
+19	многие	МНОГИЙ	A	A - nom pl plen - -	A - nom pl plen - -	21	опред	_	_
+20	передовые	ПЕРЕДОВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	21	опред	_	_
+21	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	22	предик	_	_
+22	считают	СЧИТАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	18	подч-союзн	_	_
+23	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	22	1-компл	_	_
+24	реакционером	РЕАКЦИОНЕР	S	S m anim ins sg	S m anim ins sg	22	2-компл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Закончилось	ЗАКАНЧИВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+4	уже	УЖЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	3	сравн-союзн	_	_
+6	сказано	СКАЗАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	5	пасс-анал	_	_
+7	выше	ВЫШЕ	ADV	ADV -	ADV -	6	обст	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	некрасиво	НЕКРАСИВО	ADV	ADV -	ADV -	6	обст	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Однажды	ОДНАЖДЫ	ADV	ADV -	ADV -	13	обст	_	_
+2	Великий	ВЕЛИКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	Писатель	ПИСАТЕЛЬ	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	оборвав	ОБОРВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	13	обст	_	_
+6	диктовку	ДИКТОВКА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+7	невероятной	НЕВЕРОЯТНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	5	2-компл	_	_
+8	по	ПО	PR	PR	PR	7	атриб	_	_
+9	силе	СИЛА	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	фразы	ФРАЗА	S	S f inan gen sg	S f inan gen sg	9	1-компл	_	_
+11	(	(	_	_	PUNC	12	PUNC	_	_
+12	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	13	предик	_	_
+13	записывала	ЗАПИСЫВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+14	со	СО	PR	PR	PR	13	1-компл	_	_
+15	слезами	СЛЕЗА	S	S f inan ins pl	S f inan ins pl	14	предл	_	_
+16	на	НА	PR	PR	PR	15	атриб	_	_
+17	глазах	ГЛАЗ	S	S m inan loc pl	S m inan loc pl	16	предл	_	_
+18	)	)	_	_	PUNC	17	PUNC	_	_
+19	,	,	,	,	PUNC	17	PUNC	_	_
+20	шумно	ШУМНО	ADV	ADV -	ADV -	21	обст	_	_
+21	задышал	ЗАДЫШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	сент-соч	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	зашмыгал	ЗАШМЫГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	сочин	_	_
+24	носом	НОС	S	S m inan ins sg	S m inan ins sg	23	1-компл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	неловко	НЕЛОВКО	ADV	ADV -	ADV -	27	обст	_	_
+27	обхватил	ОБХВАТИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	23	сочин	_	_
+28	русоволосую	РУСОВОЛОСЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	29	опред	_	_
+29	стенографистку	СТЕНОГРАФИСТКА	S	S f anim acc sg	S f anim acc sg	27	1-компл	_	_
+30	за	ЗА	PR	PR	PR	29	атриб	_	_
+31	плечи	ПЛЕЧО	S	S n inan acc pl	S n inan acc pl	30	предл	_	_
+32	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+33	потащил	ПОТАЩИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	32	соч-союзн	_	_
+34	к	К	PR	PR	PR	33	2-компл	_	_
+35	дивану	ДИВАН	S	S m inan dat sg	S m inan dat sg	34	предл	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+
+1	Какое-то	КАКОЙ-ТО	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+2	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	4	длительн	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	4	предик	_	_
+4	терпела	ТЕРПЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	7	квазиагент	_	_
+6	невразумительные	НЕВРАЗУМИТЕЛЬНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+7	нашептывания	НАШЕПТЫВАНИЕ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	прикосновения	ПРИКОСНОВЕНИЕ	S	S n inan gen sg	S n inan gen sg	8	соч-союзн	_	_
+10	трясущихся	ТРЯСТИСЬ	PARTCP	PARTCP ipf inpraes loc pl plen - act -	PARTCP ipf inpraes loc pl plen - act -	11	опред	_	_
+11	пальцев	ПАЛЕЦ	S	S m inan gen pl	S m inan gen pl	9	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	предик	_	_
+14	совсем	СОВСЕМ	ADV	ADV -	ADV -	15	огранич	_	_
+15	запутались	ЗАПУТЫВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	сент-соч	_	_
+16	в	В	PR	PR	PR	15	обст	_	_
+17	крючках	КРЮЧОК	S	S m inan loc pl	S m inan loc pl	16	предл	_	_
+18	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+19	пуговках	ПУГОВКА	S	S f inan loc pl	S f inan loc pl	18	соч-союзн	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	потом	ПОТОМ	ADV	ADV -	ADV -	24	обст	_	_
+22	вдруг	ВДРУГ	ADV	ADV -	ADV -	24	обст	_	_
+23	отчетливо	ОТЧЕТЛИВО	ADV	ADV -	ADV -	24	обст	_	_
+24	поняла	ПОНИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	сент-соч	_	_
+25	–	–	–	–	PUNC	28	1-компл	_	_
+26	даже	ДАЖЕ	PART	PART	PART	28	огранич	_	_
+27	не	НЕ	PART	PART	PART	28	огранич	_	_
+28	поняла	ПОНИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	24	1-компл	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	а	А	CONJ	CONJ	CONJ	28	сочин	_	_
+31	почувствовала	ПОЧУВСТВОВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	30	соч-союзн	_	_
+32	:	:	:	:	PUNC	31	1-компл	_	_
+33	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	34	опред	_	_
+34	это	ЭТО	S	S n - nom sg	S n - nom sg	35	предик	_	_
+35	неправильно	НЕПРАВИЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	31	изъясн	_	_
+36	и	И	CONJ	CONJ	CONJ	35	сочин	_	_
+37	случиться	СЛУЧАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	40	1-компл	_	_
+38	никак	НИКАК	ADV	ADV -	ADV -	40	обст	_	_
+39	не	НЕ	PART	PART	PART	40	огранич	_	_
+40	может	МОЧЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	36	соч-союзн	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+
+1	Оттолкнула	ОТТАЛКИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+2	Великого	ВЕЛИКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	3	опред	_	_
+3	Писателя	ПИСАТЕЛЬ	S	S m anim acc sg	S m anim acc sg	1	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	выбежала	ВЫБЕГАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	сочин	_	_
+6	вон	ВОН	PART	PART	PART	5	огранич	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	больше	БОЛЬШЕ	ADV	ADV -	ADV -	10	обст	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	возвращалась	ВОЗВРАЩАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	7	соч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

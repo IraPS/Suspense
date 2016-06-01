@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"analysis":[{"lex":"тоже","gr":"PART="}],"text":"тоже"}
+{"analysis":[{"lex":"хороший","gr":"A=sg,brev,m"}],"text":"хорош"}
+{"analysis":[{"lex":"плотоядный","gr":"A=sg,brev,n"}],"text":"плотоядно"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,m,pf"}],"text":"спросил"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"Но"}
+{"analysis":[{"lex":"ведь","gr":"PART="}],"text":"ведь"}
+{"analysis":[{"lex":"кроме","gr":"PR="}],"text":"кроме"}
+{"analysis":[{"lex":"жена","gr":"S,f,anim=acc,pl"},{"lex":"жена","gr":"S,f,anim=gen,pl"}],"text":"жен"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"наложница","gr":"S,f,anim=acc,pl"},{"lex":"наложница","gr":"S,f,anim=gen,pl"}],"text":"наложниц"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inpraes,sg,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=inpraes,pl,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,1p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,1p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,2p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,2p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,3p,ipf"}],"text":"есть"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"рабыня","gr":"S,f,anim=gen,sg"},{"lex":"рабыня","gr":"S,f,anim=nom,pl"}],"text":"рабыни"}

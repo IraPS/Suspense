@@ -1,0 +1,156 @@
+1	В	В	PR	PR	PR	6	обст	_	_
+2	то	ТО	S	S n - acc sg	S n - acc sg	3	опред	_	_
+3	успенье	УСПЕНИЕ	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+4	Иван	ИВАН	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+5	Африканович	АФРИКАНОВИЧ	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	пришел	ПРИХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	Сосновку	СОСНОВКА	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+9	с	С	PR	PR	PR	6	обст	_	_
+10	твердым	ТВЕРДЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	11	опред	_	_
+11	решением	РЕШЕНИЕ	S	S n inan ins sg	S n inan ins sg	9	предл	_	_
+12	увести	УВОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+13	Катерину	КАТЕРИНА	S	S f anim acc sg	S f anim acc sg	12	1-компл	_	_
+14	замуж	ЗАМУЖ	ADV	ADV -	ADV -	15	огранич	_	_
+15	самоходкой	САМОХОДКА	S	S f inan ins sg	S f inan ins sg	12	2-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Нюшка	НЮШКА	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	пособляла	ПОСОБЛЯТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	2	2-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как	КАК	ADV	ADV -	ADV -	6	обст	_	_
+6	могла	МОЧЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	сочин	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Катерина	КАТЕРИНА	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+2	через	ЧЕРЕЗ	PR	PR	PR	4	обст	_	_
+3	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	2	предл	_	_
+4	передала	ПЕРЕДАВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	жениху	ЖЕНИХ	S	S m anim dat sg	S m anim dat sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	4	обст	_	_
+8	пойдет	ПОЙТИ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	7	подч-союзн	_	_
+9	в	В	PR	PR	PR	8	2-компл	_	_
+10	любую	ЛЮБОЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+11	ночь	НОЧЬ	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	на	НА	PR	PR	PR	16	обст	_	_
+14	матку	МАТКА	S	S f inan acc sg	S f inan acc sg	13	предл	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	поглядит	ПОГЛЯДЕТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	4	1-компл	_	_
+17	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+18	разговоров	РАЗГОВОР	S	S m inan gen pl	S m inan gen pl	20	1-компл	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	побоится	ПОБОЯТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	17	соч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Дом	ДОМ	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+2	у	У	PR	PR	PR	1	атриб	_	_
+3	Евстольи	ЕВСТОЛЬЯ	S	S m inan gen sg	S m inan gen sg	2	предл	_	_
+4	с	С	PR	PR	PR	3	атриб	_	_
+5	Катериной	КАТЕРИНА	S	S f anim ins sg	S f anim ins sg	4	предл	_	_
+6	стоял	СТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	пролепт	_	_
+7	как раз	как раз	ADV	ADV -	-	8	огранич	_	_
+8	напротив	НАПРОТИВ	PR	PR	PR	6	1-компл	_	_
+9	Нюшкина	НЮШКИН	S	S m anim acc sg	S m anim acc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	это	ЭТО	S	S n - nom sg	S n - nom sg	15	1-компл	_	_
+12	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	15	обст	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	то	ТО	PART	PART	PART	12	огранич	_	_
+15	поредела	ПОРЕДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+16	Сосновка	СОСНОВКА	S	S f inan nom sg	S f inan nom sg	15	предик	_	_
+17	и	И	CONJ	CONJ	CONJ	15	сент-соч	_	_
+18	дома	ДОМА	ADV	ADV -	ADV -	21	обст	_	_
+19	этого	ЭТО	S	S n - gen sg	S n - gen sg	21	предик	_	_
+20	давно	ДАВНО	ADV	ADV -	ADV -	21	огранич	_	_
+21	нет	НЕТ	ADV	ADV -	ADV -	17	соч-союзн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	а	А	CONJ	CONJ	CONJ	15	сент-соч	_	_
+24	тогда	ТОГДА	ADV	ADV -	ADV -	25	обст	_	_
+25	стоял	СТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	23	соч-союзн	_	_
+26	большой	БОЛЬШОЙ	A	A - nom sg plen m -	A - nom sg plen m -	27	опред	_	_
+27	дом	ДОМ	S	S m inan nom sg	S m inan nom sg	25	предик	_	_
+28	—	—	—	—	PUNC	27	аппоз	_	_
+29	любо-дорого	ЛЮБО-ДОРОГО	ADV	ADV -	ADV -	27	атриб	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Иван	ИВАН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Африканович	АФРИКАНОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	1-компл	_	_
+5	гостях	ГОСТЬ	S	S m anim loc pl	S m anim loc pl	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	пил	ПИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	сочин	_	_
+8	терпкое	ТЕРПКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	9	опред	_	_
+9	сусло	СУСЛО	S	S n inan nom sg	S n inan nom sg	7	1-компл	_	_
+10	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+11	поглядывал	ПОГЛЯДЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	соч-союзн	_	_
+12	на	НА	PR	PR	PR	11	1-компл	_	_
+13	Евстольин	ЕВСТОЛЬИН	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+14	дом	ДОМ	S	S m inan acc sg	S m inan acc sg	13	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+17	на	НА	PR	PR	PR	19	присвяз	_	_
+18	душе	ДУША	S	S f inan loc sg	S f inan loc sg	17	предл	_	_
+19	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	16	соч-союзн	_	_
+20	молодо	МОЛОДО	ADV	ADV -	ADV -	19	обст	_	_
+21	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+22	тревожно	ТРЕВОЖНО	ADV	ADV -	ADV -	21	соч-союзн	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Золотым	ЗОЛОТОЙ	A	A - ins sg plen m -	A - ins sg plen m -	2	опред	_	_
+2	колечком	КОЛЕЧКО	S	S n inan ins sg	S n inan ins sg	3	обст	_	_
+3	укатилась	УКАТИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	молодость	МОЛОДОСТЬ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	—	—	—	—	PUNC	8	предик	_	_
+6	куда	КУДА	ADV	ADV -	ADV -	8	2-компл	_	_
+7	все	ВСЕ	S	S - - acc pl	S - - acc pl	8	предик	_	_
+8	девалось	ДЕВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	сент-соч	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Играло	ИГРАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+2	сразу	СРАЗУ	ADV	ADV -	ADV -	1	обст	_	_
+3	три	ТРИ	NUM	NUM nom - -	NUM nom - -	4	количест	_	_
+4	гармоньи	ГАРМОНЬЯ	S	S f anim gen sg	S f anim gen sg	1	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	пели	ПЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	сент-соч	_	_
+7	в	В	PR	PR	PR	6	обст	_	_
+8	темноте	ТЕМНОТА	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+9	веселые	ВЕСЕЛЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	опред	_	_
+10	девки	ДЕВКА	S	S f anim nom pl	S f anim nom pl	6	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Ребята	РЕБЯТА	S	S - anim nom pl	S - anim nom pl	2	предик	_	_
+2	заводили	ЗАВОДИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	улице	УЛИЦА	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	драки	ДРАКА	S	S f inan gen sg	S f inan gen sg	4	атриб	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+8	девки	ДЕВКА	S	S f anim nom pl	S f anim nom pl	11	предик	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	бабы	БАБА	S	S f anim nom pl	S f anim nom pl	9	соч-союзн	_	_
+11	растаскивали	РАСТАСКИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	7	соч-союзн	_	_
+12	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	11	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+15	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	16	предик	_	_
+16	вырывались	ВЫРЫВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	14	соч-союзн	_	_
+17	из	ИЗ	PR	PR	PR	16	1-компл	_	_
+18	женских	ЖЕНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	19	опред	_	_
+19	рук	РУКА	S	S f inan gen pl	S f inan gen pl	17	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	но	НО	CONJ	CONJ	CONJ	16	сочин	_	_
+22	вырывались	ВЫРЫВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	21	соч-союзн	_	_
+23	ровно	РОВНО	ADV	ADV -	ADV -	24	огранич	_	_
+24	настолько	НАСТОЛЬКО	ADV	ADV -	ADV -	22	обст	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	22	обст	_	_
+27	не	НЕ	PART	PART	PART	28	огранич	_	_
+28	вырваться	ВЫРЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	26	инф-союзн	_	_
+29	и	И	CONJ	CONJ	CONJ	28	сочин	_	_
+30	взаправду	ВЗАПРАВДУ	ADV	ADV -	ADV -	29	соч-союзн	_	_
+31	...	...	SENT	SENT	SENT	30	PUNC	_	_
+

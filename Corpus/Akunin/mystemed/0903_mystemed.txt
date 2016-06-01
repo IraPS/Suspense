@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"analysis":[{"lex":"доставать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"достал"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"карман","gr":"S,m,inan=gen,sg"}],"text":"кармана"}
+{"analysis":[{"lex":"золотой","gr":"A=acc,pl,plen,inan"},{"lex":"золотой","gr":"A=nom,pl,plen"}],"text":"золотые"}
+{"analysis":[{"lex":"часы","gr":"S,pl,inan=acc"},{"lex":"часы","gr":"S,pl,inan=nom"}],"text":"часы"}
+{"analysis":[{"lex":"со","gr":"PR="}],"text":"со"}
+{"analysis":[{"lex":"звон","gr":"S,m,inan=ins,sg"}],"text":"звоном"}
+{"analysis":[{"lex":"откинуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"откинул"}
+{"analysis":[{"lex":"крышечка","gr":"S,f,inan=acc,sg"}],"text":"крышечку"}

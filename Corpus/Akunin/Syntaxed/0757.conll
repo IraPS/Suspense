@@ -1,0 +1,122 @@
+1	Никогда	НИКОГДА	ADV	ADV -	ADV -	5	обст	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	5	огранич	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	оказывалась	ОКАЗЫВАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+6	в	В	PR	PR	PR	5	2-компл	_	_
+7	столь	СТОЛЬ	ADV	ADV -	ADV -	8	огранич	_	_
+8	изысканном	ИЗЫСКАННЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	9	опред	_	_
+9	обществе	ОБЩЕСТВО	S	S n inan loc sg	S n inan loc sg	6	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	От	ОТ	PR	PR	PR	9	1-компл	_	_
+2	сияния	СИЯНИЕ	S	S n inan gen sg	S n inan gen sg	1	предл	_	_
+3	эполетов	ЭПОЛЕТ	S	S m inan gen pl	S m inan gen pl	2	1-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	орденов	ОРДЕН	S	S m inan gen pl	S m inan gen pl	4	соч-союзн	_	_
+6	можно	МОЖНО	ADV	ADV -	ADV -	7	присвяз	_	_
+7	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+8	просто	ПРОСТО	PART	PART	PART	9	огранич	_	_
+9	ослепнуть	ОСЛЕПНУТЬ	V	V pf - - inf - -	V pf - - inf - -	7	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Честно	ЧЕСТНО	ADV	ADV -	ADV -	2	обст	_	_
+2	говоря	ГОВОРИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+5	и	И	CONJ	CONJ	CONJ	7	соотнос	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	подозревала	ПОДОЗРЕВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	в	В	PR	PR	PR	14	обст	_	_
+11	русской	РУССКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	12	опред	_	_
+12	армии	АРМИЯ	S	S f inan gen sg	S f inan gen sg	10	предл	_	_
+13	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	14	опред	_	_
+14	количество	КОЛИЧЕСТВО	S	S n inan nom sg	S n inan nom sg	9	подч-союзн	_	_
+15	генералов	ГЕНЕРАЛ	S	S m anim gen pl	S m anim gen pl	14	квазиагент	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	В	В	PR	PR	PR	5	обст	_	_
+2	первом	ПЕРВЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	3	опред	_	_
+3	ряду	РЯД	S	S m inan dat sg	S m inan dat sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	ожидая	ОЖИДАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	обст	_	_
+6	выхода	ВЫХОД	S	S m inan gen sg	S m inan gen sg	5	1-компл	_	_
+7	высочайших	ВЫСОКИЙ	A	A supr loc pl plen - -	A supr loc pl plen - -	8	опред	_	_
+8	лиц	ЛИЦО	S	S n anim gen pl	S n anim gen pl	6	квазиагент	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	стояли	СТОЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+11	старшие	СТАРШИЙ	A	A - nom pl plen - -	A - nom pl plen - -	12	опред	_	_
+12	военачальники	ВОЕНАЧАЛЬНИК	S	S m anim nom pl	S m anim nom pl	10	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	10	сент-соч	_	_
+15	среди	СРЕДИ	PR	PR	PR	19	обст	_	_
+16	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	15	предл	_	_
+17	неприлично	НЕПРИЛИЧНО	ADV	ADV -	ADV -	18	огранич	_	_
+18	молодой	МОЛОДОЙ	A	A - nom sg plen m -	A - nom sg plen m -	19	опред	_	_
+19	Мишель	МИШЕЛЬ	S	S m anim nom sg	S m anim nom sg	14	соч-союзн	_	_
+20	в	В	PR	PR	PR	19	атриб	_	_
+21	неизменном	НЕИЗМЕННЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	23	опред	_	_
+22	белом	БЕЛЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	23	опред	_	_
+23	мундире	МУНДИР	S	S m inan loc sg	S m inan loc sg	20	предл	_	_
+24	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+25	без	БЕЗ	PR	PR	PR	24	соч-союзн	_	_
+26	шинели	ШИНЕЛЬ	S	S f inan loc sg	S f inan loc sg	25	предл	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	невзирая на	невзирая на	PR	PR	ZERO	10	1-компл	_	_
+29	то	ТО	S	S n inan acc sg	S n inan acc sg	28	предл	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	что	ЧТО	CONJ	CONJ	CONJ	29	эксплет	_	_
+32	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	33	обст	_	_
+33	выдался	ВЫДАВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	31	подч-союзн	_	_
+34	хоть	ХОТЬ	PART	PART	PART	36	огранич	_	_
+35	и	И	CONJ	CONJ	CONJ	34	вспом	_	_
+36	солнечным	СОЛНЕЧНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	33	2-компл	_	_
+37	,	,	,	,	PUNC	36	PUNC	_	_
+38	но	НО	CONJ	CONJ	CONJ	36	сочин	_	_
+39	морозным	МОРОЗНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	38	соч-союзн	_	_
+40	.	.	SENT	SENT	SENT	39	PUNC	_	_
+
+1	Все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	взгляды	ВЗГЛЯД	S	S m inan nom pl	S m inan nom pl	3	предик	_	_
+3	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	устремлены	УСТРЕМЛЯТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	3	пасс-анал	_	_
+5	на	НА	PR	PR	PR	4	3-компл	_	_
+6	спасителя	СПАСИТЕЛЬ	S	S m anim acc sg	S m anim acc sg	5	предл	_	_
+7	отечества	ОТЕЧЕСТВО	S	S n inan gen sg	S n inan gen sg	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	как	КАК	ADV	ADV -	ADV -	12	обст	_	_
+12	показалось	ПОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	3	сент-соч	_	_
+13	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	12	2-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+16	гораздо	ГОРАЗДО	ADV	ADV -	ADV -	17	колич-огран	_	_
+17	выше	ВЫСОКО	ADV	ADV comp	ADV comp	15	обст	_	_
+18	ростом	РОСТ	S	S m inan ins sg	S m inan ins sg	15	присвяз	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	шире	ШИРОКО	ADV	ADV comp	ADV comp	25	обст	_	_
+21	в	В	PR	PR	PR	25	огранич	_	_
+22	плечах	ПЛЕЧО	S	S n inan loc pl	S n inan loc pl	21	предл	_	_
+23	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+24	значительнее	ЗНАЧИТЕЛЬНЫЙ	A	A comp - - plen - -	A comp - - plen - -	23	соч-союзн	_	_
+25	лицом	ЛИЦО	S	S n inan ins sg	S n inan ins sg	18	сочин	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	чем	ЧЕМ	CONJ	CONJ	CONJ	25	сравнит	_	_
+28	ранее	РАНЕЕ	ADV	ADV -	ADV -	27	сравн-союзн	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Видно	ВИДНО	ADV	ADV -	ADV -	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	правду	ПРАВДА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+4	говорят	ГОВОРИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+5	французы	ФРАНЦУЗ	S	S m anim nom pl	S m anim nom pl	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	лучшие	ХОРОШИЙ	A	A supr nom pl plen - -	A supr nom pl plen - -	8	опред	_	_
+8	дрожжи	ДРОЖЖИ	S	S - inan nom pl	S - inan nom pl	4	сент-соч	_	_
+9	–	–	–	–	PUNC	10	опред	_	_
+10	слава	СЛАВА	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=acc,sg"}],"text":"Варю"}
+{"analysis":[{"lex":"удивлять","gr":"V,tran=praet,sg,indic,n,pf"}],"text":"удивило"}
+{"analysis":[{"lex":"поведение","gr":"S,n,inan=acc,sg"},{"lex":"поведение","gr":"S,n,inan=nom,sg"}],"text":"поведение"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=acc,sg"},{"lex":"эраст","gr":"S,persn,m,anim=gen,sg"}],"text":"Эраста"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=acc,sg"},{"lex":"петрович","gr":"S,patrn,m,anim=gen,sg"}],"text":"Петровича"}

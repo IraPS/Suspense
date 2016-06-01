@@ -1,0 +1,83 @@
+1	В	В	PR	PR	PR	3	обст	_	_
+2	клубе	КЛУБ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	неряшливо	НЕРЯШЛИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	3	присвяз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+7	по-своему	ПО-СВОЕМУ	ADV	ADV -	ADV -	11	обст	_	_
+8	уютно	УЮТНО	ADV	ADV -	ADV -	11	обст	_	_
+9	:	:	:	:	PUNC	11	опред	_	_
+10	деревянные	ДЕРЕВЯННЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	опред	_	_
+11	столы	СТОЛ	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	холщовые	ХОЛЩОВЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	14	опред	_	_
+14	стулья	СТУЛ	S	S m inan acc pl	S m inan acc pl	11	сочин	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	стойка	СТОЙКА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+17	с	С	PR	PR	PR	16	атриб	_	_
+18	шеренгами	ШЕРЕНГА	S	S f inan ins pl	S f inan ins pl	17	предл	_	_
+19	бутылок	БУТЫЛКА	S	S f inan gen pl	S f inan gen pl	18	квазиагент	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Пахло	ПАХНУТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+2	табачным	ТАБАЧНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	3	опред	_	_
+3	дымом	ДЫМ	S	S m inan ins sg	S m inan ins sg	1	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	свечным	СВЕЧНОЙ	A	A - ins sg plen n -	A - ins sg plen n -	6	опред	_	_
+6	воском	ВОСК	S	S m inan ins sg	S m inan ins sg	3	сочин	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	мужским	МУЖСКОЙ	A	A - ins sg plen m -	A - ins sg plen m -	9	опред	_	_
+9	одеколоном	ОДЕКОЛОН	S	S m inan ins sg	S m inan ins sg	7	соч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	На	НА	PR	PR	PR	5	1-компл	_	_
+2	отдельном	ОТДЕЛЬНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	4	опред	_	_
+3	длинном	ДЛИННЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	4	опред	_	_
+4	столе	СТОЛ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+5	лежали	ЛЕЖАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	стопки	СТОПКА	S	S f inan nom pl	S f inan nom pl	5	предик	_	_
+7	русских	РУССКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	опред	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	иностранных	ИНОСТРАННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	8	соч-союзн	_	_
+10	газет	ГАЗЕТА	S	S f inan gen pl	S f inan gen pl	6	квазиагент	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Газеты	ГАЗЕТА	S	S f inan nom pl	S f inan nom pl	2	предик	_	_
+2	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	необычные	НЕОБЫЧНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	сплошь	СПЛОШЬ	ADV	ADV -	ADV -	6	обст	_	_
+6	склеенные	СКЛЕИВАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	2	сент-соч	_	_
+7	из	ИЗ	PR	PR	PR	6	2-компл	_	_
+8	телеграфных	ТЕЛЕГРАФНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	ленточек	ЛЕНТОЧКА	S	S f inan gen pl	S f inan gen pl	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	присмотрелась	ПРИСМАТРИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	1-компл	_	_
+4	лондонской	ЛОНДОНСКИЙ	A	A - loc sg plen f -	A - loc sg plen f -	6	опред	_	_
+5	«	«	_	_	PUNC	6	PUNC	_	_
+6	Дейли	ДЕЙЛИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	3	предл	_	_
+7	пост	ПОСТ	S	S m inan acc sg	S m inan acc sg	2	длительн	_	_
+8	»	»	_	_	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+10	удивилась	УДИВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	соч-союзн	_	_
+11	–	–	–	–	PUNC	14	опред	_	_
+12	сегодняшний	СЕГОДНЯШНИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	14	опред	_	_
+13	утренний	УТРЕННИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	14	опред	_	_
+14	выпуск	ВЫПУСК	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Видимо	ВИДИМО	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	присылают	ПРИСЫЛАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	из	ИЗ	PR	PR	PR	3	обст	_	_
+5	редакции	РЕДАКЦИЯ	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	по	ПО	PR	PR	PR	5	1-компл	_	_
+7	телеграфу	ТЕЛЕГРАФ	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Здорово	ЗДОРОВО	INTJ	INTJ	INTJ	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+

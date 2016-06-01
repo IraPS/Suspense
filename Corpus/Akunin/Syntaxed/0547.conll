@@ -1,0 +1,23 @@
+1	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	замолчал	ЗАМОЛЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	прислушиваясь	ПРИСЛУШИВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	На	НА	PR	PR	PR	5	обст	_	_
+2	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	4	квазиагент	_	_
+3	добродушном	ДОБРОДУШНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	4	опред	_	_
+4	лице	ЛИЦО	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+5	застыла	ЗАСТЫТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	тревога	ТРЕВОГА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Выходить	ВЫХОДИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	предик	_	_
+2	во	ВО	PR	PR	PR	1	3-компл	_	_
+3	двор	ДВОР	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+4	корреспонденту	КОРРЕСПОНДЕНТ	S	S m anim dat sg	S m anim dat sg	7	1-компл	_	_
+5	явно	ЯВНО	ADV	ADV -	ADV -	7	обст	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	хотелось	ХОТЕТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

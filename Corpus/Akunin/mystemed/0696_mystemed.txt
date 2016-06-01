@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"сюда","gr":"ADVPRO="}],"text":"Сюда"}
+{"analysis":[{"lex":"письмо","gr":"S,n,inan=acc,sg"},{"lex":"письмо","gr":"S,n,inan=nom,sg"}],"text":"письмо"}
+{"analysis":[{"lex":"рыкнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"рыкнул"}
+{"analysis":[{"lex":"генерал","gr":"S,m,anim=nom,sg"}],"text":"генерал"}
+{"text":"\\s"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"комендант","gr":"S,m,anim=acc,sg"},{"lex":"комендант","gr":"S,m,anim=gen,sg"}],"text":"коменданта"}
+{"analysis":[{"lex":"сюда","gr":"ADVPRO="}],"text":"сюда"}

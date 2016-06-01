@@ -1,0 +1,3 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"дверь","gr":"S,f,inan=acc,sg"},{"lex":"дверь","gr":"S,f,inan=nom,sg"}],"text":"дверь"}
+{"analysis":[{"lex":"постучать","gr":"V,pf,tran=praet,pl,indic"}],"text":"постучали"}

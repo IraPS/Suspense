@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"analysis":[{"lex":"хлопнуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"хлопнул"}
+{"analysis":[{"lex":"ладонь","gr":"S,f,inan=ins,sg"}],"text":"ладонью"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"колено","gr":"S,n,inan=dat,sg"}],"text":"колену"}
+{"analysis":[{"lex":"его","gr":"APRO=abl,pl"},{"lex":"его","gr":"APRO=dat,pl"},{"lex":"его","gr":"APRO=gen,pl"},{"lex":"его","gr":"APRO=ins,pl"},{"lex":"его","gr":"APRO=nom,pl"},{"lex":"его","gr":"APRO=nom,sg,f"},{"lex":"его","gr":"APRO=acc,sg,m,anim"},{"lex":"его","gr":"APRO=gen,sg,m"},{"lex":"его","gr":"APRO=gen,sg,n"},{"lex":"его","gr":"APRO=acc,sg,n"},{"lex":"его","gr":"APRO=nom,sg,n"},{"lex":"его","gr":"APRO=abl,sg,f"},{"lex":"его","gr":"APRO=dat,sg,f"},{"lex":"его","gr":"APRO=gen,sg,f"},{"lex":"его","gr":"APRO=ins,sg,f"},{"lex":"его","gr":"APRO=abl,sg,m"},{"lex":"его","gr":"APRO=abl,sg,n"},{"lex":"его","gr":"APRO=dat,sg,m"},{"lex":"его","gr":"APRO=dat,sg,n"},{"lex":"его","gr":"APRO=acc,sg,f"},{"lex":"его","gr":"APRO=acc,pl,inan"},{"lex":"его","gr":"APRO=acc,sg,m,inan"},{"lex":"его","gr":"APRO=nom,sg,m"},{"lex":"его","gr":"APRO=ins,sg,m"},{"lex":"его","gr":"APRO=ins,sg,n"},{"lex":"его","gr":"APRO=acc,pl,anim"},{"lex":"его","gr":"APRO=abl,pl,n"},{"lex":"его","gr":"APRO=acc,pl,n"},{"lex":"его","gr":"APRO=dat,pl,n"},{"lex":"его","gr":"APRO=gen,pl,n"},{"lex":"его","gr":"APRO=ins,pl,n"},{"lex":"его","gr":"APRO=nom,pl,n"},{"lex":"его","gr":"APRO=abl,pl,m"},{"lex":"его","gr":"APRO=acc,pl,m"},{"lex":"его","gr":"APRO=acc,sg,m"},{"lex":"его","gr":"APRO=dat,pl,m"}],"text":"его"}
+{"analysis":[{"lex":"конь","gr":"S,m,anim=nom,sg"}],"text":"конь"}
+{"analysis":[{"lex":"нервно","gr":"ADV="}],"text":"нервно"}
+{"analysis":[{"lex":"переступать","gr":"V=praet,sg,indic,m,pf,intr"}],"text":"переступил"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"нога","gr":"S,f,inan=acc,pl"},{"lex":"нога","gr":"S,f,inan=gen,sg"},{"lex":"нога","gr":"S,f,inan=nom,pl"}],"text":"ноги"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"нога","gr":"S,f,inan=acc,sg"}],"text":"ногу"}

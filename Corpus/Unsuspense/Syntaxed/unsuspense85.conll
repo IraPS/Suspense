@@ -1,0 +1,87 @@
+1	Ночью	НОЧЬ	S	S f inan ins sg	S f inan ins sg	5	обст	_	_
+2	под	ПОД	PR	PR	PR	5	обст	_	_
+3	утро	УТРО	S	S n inan acc sg	S n inan acc sg	2	предл	_	_
+4	всё	ВСЕ	S	S n - nom sg	S n - nom sg	5	предик	_	_
+5	успокоилось	УСПОКАИВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	15	обст	_	_
+2	встали	ВСТАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	поглядели	ПОГЛЯДЕТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	3	соч-союзн	_	_
+5	в	В	PR	PR	PR	4	обст	_	_
+6	окна	ОКНО	S	S n inan gen sg	S n inan gen sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	голые	ГОЛЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	ивы	ИВА	S	S f inan nom pl	S f inan nom pl	4	предик	_	_
+10	со	СО	PR	PR	PR	9	атриб	_	_
+11	своими	СВОЙ	A	A - ins pl plen - -	A - ins pl plen - -	14	опред	_	_
+12	слабо	СЛАБО	ADV	ADV -	ADV -	13	обст	_	_
+13	опущенными	ОПУСКАТЬ	PARTCP	PARTCP pf praet ins pl plen - pass -	PARTCP pf praet ins pl plen - pass -	14	опред	_	_
+14	ветвями	ВЕТВЬ	S	S f inan ins pl	S f inan ins pl	10	предл	_	_
+15	стояли	СТОЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+16	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	17	огранич	_	_
+17	неподвижно	НЕПОДВИЖНО	ADV	ADV -	ADV -	15	обст	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	15	сент-соч	_	_
+20	пасмурно	ПАСМУРНО	ADV	ADV -	ADV -	19	обст	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	тихо	ТИХО	ADV	ADV -	ADV -	20	сочин	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	точно	ТОЧНО	CONJ	CONJ	CONJ	22	сравнит	_	_
+25	природе	ПРИРОДА	S	S f inan dat sg	S f inan dat sg	28	дат-субъект	_	_
+26	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	27	обст	_	_
+27	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	24	сравн-союзн	_	_
+28	стыдно	СТЫДНО	ADV	ADV -	ADV -	27	присвяз	_	_
+29	за	ЗА	PR	PR	PR	27	обст	_	_
+30	свой	СВОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	31	опред	_	_
+31	разгул	РАЗГУЛ	S	S m inan acc sg	S m inan acc sg	29	предл	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	за	ЗА	PR	PR	PR	27	присвяз	_	_
+34	безумные	БЕЗУМНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	35	опред	_	_
+35	ночи	НОЧЬ	S	S f inan acc pl	S f inan acc pl	33	предл	_	_
+36	и	И	CONJ	CONJ	CONJ	35	сочин	_	_
+37	волю	ВОЛЯ	S	S f inan acc sg	S f inan acc sg	36	соч-союзн	_	_
+38	,	,	,	,	PUNC	37	PUNC	_	_
+39	какую	КАКОЙ	A	A - acc sg plen f -	A - acc sg plen f -	41	1-компл	_	_
+40	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	41	предик	_	_
+41	дала	ДАВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	37	релят	_	_
+42	своим	СВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	43	опред	_	_
+43	страстям	СТРАСТЬ	S	S f inan dat pl	S f inan dat pl	41	2-компл	_	_
+44	.	.	SENT	SENT	SENT	43	PUNC	_	_
+
+1	Лошади	ЛОШАДЬ	S	S f anim nom pl	S f anim nom pl	6	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	запряженные	ЗАПРЯГАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	1	опред	_	_
+4	гусем	ГУСЬ	S	S m anim ins sg	S m anim ins sg	3	агент	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	ожидали	ОЖИДАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	у	У	PR	PR	PR	6	обст	_	_
+8	крыльца	КРЫЛЬЦО	S	S n inan gen sg	S n inan gen sg	7	предл	_	_
+9	с	С	PR	PR	PR	6	1-компл	_	_
+10	пяти	ПЯТЬ	NUM	NUM loc - -	NUM loc - -	11	количест	_	_
+11	часов	ЧАС	S	S m inan gen pl	S m inan gen pl	9	предл	_	_
+12	утра	УТРО	S	S n inan gen sg	S n inan gen sg	11	квазиагент	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	8	обст	_	_
+2	совсем	СОВСЕМ	ADV	ADV -	ADV -	3	огранич	_	_
+3	рассвело	РАССВЕТАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	подч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	доктор	ДОКТОР	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	следователь	СЛЕДОВАТЕЛЬ	S	S m anim nom sg	S m anim nom sg	6	соч-союзн	_	_
+8	надели	НАДЕВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+9	свои	СВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	опред	_	_
+10	шубы	ШУБА	S	S f inan nom pl	S f inan nom pl	8	предик	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	валенки	ВАЛЕНОК	S	S m inan acc pl	S m inan acc pl	11	соч-союзн	_	_
+13	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	простившись	ПРОЩАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	19	обст	_	_
+16	с	С	PR	PR	PR	15	1-компл	_	_
+17	хозяином	ХОЗЯИН	S	S m anim ins sg	S m anim ins sg	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	вышли	ВЫХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	13	соч-союзн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

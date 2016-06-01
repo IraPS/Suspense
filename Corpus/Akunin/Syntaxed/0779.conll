@@ -1,0 +1,43 @@
+1	Ганецкий	ГАНЕЦКИЙ	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+2	с	С	PR	PR	PR	1	атриб	_	_
+3	неудовольствием	НЕУДОВОЛЬСТВИЕ	S	S n inan ins sg	S n inan ins sg	2	предл	_	_
+4	взглянул	ВЗГЛЯДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	1-компл	_	_
+6	штатского	ШТАТСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	молокососа	МОЛОКОСОС	S	S m anim acc sg	S m anim acc sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	однако	ОДНАКО	CONJ	CONJ	CONJ	4	вводн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	должно	ДОЛЖНО	ADV	ADV -	ADV -	14	обст	_	_
+12	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	рассудил	РАССУДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сочин	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	что	ЧТО	CONJ	CONJ	CONJ	14	1-компл	_	_
+17	к	К	PR	PR	PR	19	атриб	_	_
+18	государю	ГОСУДАРЬ	S	S m anim dat sg	S m anim dat sg	17	предл	_	_
+19	черт	ЧЕРТ	S	S f inan gen pl	S f inan gen pl	24	1-компл	_	_
+20	-	-	-	-	PUNC	19	PUNC	_	_
+21	те	ТОТ	A	A - nom pl plen - -	A - nom pl plen - -	22	опред	_	_
+22	кого	КТО	S	S m - acc sg	S m - acc sg	24	предик	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	вызовут	ВЫЗЫВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	16	подч-союзн	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	и	И	CONJ	CONJ	CONJ	24	сент-соч	_	_
+27	учтиво	УЧТИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	26	соч-союзн	_	_
+28	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	сочин	_	_
+29	:	:	:	:	PUNC	30	опред	_	_
+30	–	–	–	–	PUNC	28	1-компл	_	_
+31	Как	КАК	ADV	ADV -	ADV -	34	обст	_	_
+32	же	ЖЕ	PART	PART	PART	31	огранич	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	28	сочин	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+
+1	Из-за	ИЗ-ЗА	PR	PR	PR	0	ROOT	_	_
+2	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	1	предл	_	_
+3	все	ВСЕ	S	S - - acc pl	S - - acc pl	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	произошло	ПРОИСХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	4	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

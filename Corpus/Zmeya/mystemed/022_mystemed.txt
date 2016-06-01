@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"Она"}
+{"analysis":[{"lex":"мертвый","gr":"A=sg,brev,f"}],"text":"мертва"}
+{"analysis":[{"lex":"мертвый","gr":"A=sg,brev,f"}],"text":"Мертва"}
+{"analysis":[{"lex":"отвечать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"ответил"}
+{"analysis":[{"lex":"кольбер","gr":"S,famn,m,anim=nom,sg"}],"text":"Кольбер"}
+{"analysis":[{"lex":"сбрасывать","gr":"V,tran=inpraes,ger,ipf"}],"text":"сбрасывая"}
+{"analysis":[{"lex":"змея","gr":"S,f,anim=acc,sg"}],"text":"змею"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"снова","gr":"ADV="}],"text":"снова"}
+{"analysis":[{"lex":"подымать","gr":"V=inpraes,ger,ipf,tran"}],"text":"поднимая"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=acc"},{"lex":"она","gr":"SPRO,sg,3p,f=gen"}],"text":"ее"}

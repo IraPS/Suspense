@@ -1,0 +1,15 @@
+1	Один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	4	предик	_	_
+2	из	ИЗ	PR	PR	PR	1	электив	_	_
+3	флигель-адъютантов	ФЛИГЕЛЬ-АДЪЮТАНТ	S	S m anim gen pl	S m anim gen pl	2	предл	_	_
+4	шепнул	ШЕПНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	4	2-компл	_	_
+6	:	:	:	:	PUNC	10	предик	_	_
+7	–	–	–	–	PUNC	10	1-компл	_	_
+8	Вот	ВОТ	PART	PART	PART	9	огранич	_	_
+9	это	ЭТО	S	S n - nom sg	S n - nom sg	10	предик	_	_
+10	ловко	ЛОВКИЙ	A	A - - sg brev n -	A - - sg brev n -	4	изъясн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Молодцы	МОЛОДЕЦ	S	S m anim nom pl	S m anim nom pl	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+

@@ -1,0 +1,11 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+3	:	:	:	:	PUNC	4	опред	_	_
+4	–	–	–	–	PUNC	7	1-компл	_	_
+5	В	В	PR	PR	PR	7	обст	_	_
+6	охранке	ОХРАНКА	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	служить	СЛУЖИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	9	1-компл	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	буду	БЫТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	соч-союзн	_	_
+10	!	!	SENT	SENT	SENT	9	PUNC	_	_
+

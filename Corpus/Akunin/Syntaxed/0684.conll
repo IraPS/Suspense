@@ -1,0 +1,8 @@
+1	Начальник	НАЧАЛЬНИК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+2	Тифлисского	ТИФЛИССКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	4	опред	_	_
+3	жандармского	ЖАНДАРМСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	управления	УПРАВЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	1	1-компл	_	_
+5	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+6	Панчулидзев	ПАНЧУЛИДЗЕВ	S	S m anim nom sg	S m anim nom sg	5	аппоз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

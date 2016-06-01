@@ -1,0 +1,3 @@
+{"analysis":[{"lex":"ах","gr":"INTJ="}],"text":"Ах"}
+{"analysis":[{"lex":"да","gr":"PART="}],"text":"да"}
+{"analysis":[{"lex":"хранилище","gr":"S,n,inan=abl,sg"},{"lex":"хранилище","gr":"S,n,inan=acc,sg"},{"lex":"хранилище","gr":"S,n,inan=nom,sg"}],"text":"хранилище"}

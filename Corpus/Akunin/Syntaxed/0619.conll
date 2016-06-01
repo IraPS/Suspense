@@ -1,0 +1,43 @@
+1	–	–	–	–	PUNC	5	4-компл	_	_
+2	Первая	ПЕРВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	проба	ПРОБА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+4	сил	СИЛА	S	S f inan gen pl	S f inan gen pl	3	квазиагент	_	_
+5	закончена	ЗАКАНЧИВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	9	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	 	 	 	 	PUNC	9	обст	_	_
+8	–	–	–	–	PUNC	9	1-компл	_	_
+9	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+10	знакомый	ЗНАКОМЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	майор	МАЙОР	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	приставленный	ПРИСТАВЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	9	обст	_	_
+14	к	К	PR	PR	PR	13	2-компл	_	_
+15	журналистам	ЖУРНАЛИСТ	S	S m anim dat pl	S m anim dat pl	14	предл	_	_
+16	от	ОТ	PR	PR	PR	9	2-компл	_	_
+17	главного	ГЛАВНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	18	опред	_	_
+18	штаба	ШТАБ	S	S m inan gen sg	S m inan gen sg	16	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Крепко	КРЕПКО	ADV	ADV -	ADV -	3	обст	_	_
+3	засел	ЗАСАЖИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	придется	ПРИХОДИТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	3	разъяснит	_	_
+7	повозиться	ПОВОЗИТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	6	предик	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Сейчас	СЕЙЧАС	ADV	ADV -	ADV -	0	ROOT	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	артподготовочка	АРТПОДГОТОВОЧКА	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	а	А	CONJ	CONJ	CONJ	3	сочин	_	_
+6	потом	ПОТОМ	ADV	ADV -	ADV -	7	огранич	_	_
+7	снова	СНОВА	ADV	ADV -	ADV -	5	соч-союзн	_	_
+8	«	«	_	_	PUNC	7	PUNC	_	_
+9	ура	УРА	INTJ	INTJ	INTJ	7	разъяснит	_	_
+10	-	-	-	-	PUNC	9	PUNC	_	_
+11	ура	УРА	INTJ	INTJ	INTJ	9	кратн	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Фандорин"}
+{"analysis":[{"lex":"молча","gr":"ADV="}],"text":"молча"}
+{"analysis":[{"lex":"кивнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"кивнул"}
+{"analysis":[{"lex":"отвязывать","gr":"V=inpraes,ger,ipf,tran"}],"text":"отвязывая"}
+{"analysis":[{"lex":"тощий","gr":"A=acc,sg,plen,f"}],"text":"тощую"}
+{"analysis":[{"lex":"сивый","gr":"A=acc,sg,plen,f"}],"text":"сивую"}
+{"analysis":[{"lex":"кобыла","gr":"S,f,anim=acc,sg"}],"text":"кобылу"}

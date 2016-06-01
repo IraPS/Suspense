@@ -1,0 +1,22 @@
+1	Вид	ВИД	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+2	у	У	PR	PR	PR	4	обст	_	_
+3	волонтера	ВОЛОНТЕР	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	изможденный	ИЗМОЖДЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	под	ПОД	PR	PR	PR	9	обст	_	_
+8	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	7	предл	_	_
+9	залегли	ЗАЛЕГАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	сент-соч	_	_
+10	темные	ТЕМНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	опред	_	_
+11	круги	КРУГ	S	S m inan nom pl	S m inan nom pl	9	предик	_	_
+12	–	–	–	–	PUNC	15	обст	_	_
+13	видимо	ВИДИМО	ADV	ADV -	ADV -	12	огранич	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	спать	СПАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	9	1-компл	_	_
+16	минувшей	МИНУВШИЙ	A	A - ins sg plen f -	A - ins sg plen f -	17	опред	_	_
+17	ночью	НОЧЬ	S	S f inan ins sg	S f inan ins sg	15	обст	_	_
+18	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	20	1-компл	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	довелось	ДОВОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	9	сент-соч	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

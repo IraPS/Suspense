@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"договаривать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"договорил"}
+{"analysis":[{"lex":"издали","gr":"ADV="}],"text":"издали"}
+{"analysis":[{"lex":"раздаваться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"раздался"}
+{"analysis":[{"lex":"треск","gr":"S,m,inan=acc,sg"},{"lex":"треск","gr":"S,m,inan=nom,sg"}],"text":"треск"}
+{"analysis":[{"lex":"стрельба","gr":"S,f,inan=acc,pl"},{"lex":"стрельба","gr":"S,f,inan=gen,sg"},{"lex":"стрельба","gr":"S,f,inan=nom,pl"}],"text":"стрельбы"}

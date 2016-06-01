@@ -1,0 +1,21 @@
+1	Затем	ЗАТЕМ	ADV	ADV -	ADV -	6	обст	_	_
+2	шелест...	ШЕЛЕСТ...	S	S m inan acc sg	S m inan acc sg	6	1-компл	_	_
+3	на	НА	PR	PR	PR	2	атриб	_	_
+4	двух	ДВА	NUM	NUM loc - -	NUM loc - -	5	количест	_	_
+5	костылях	КОСТЫЛЬ	S	S m inan loc pl	S m inan loc pl	3	предл	_	_
+6	впрыгнула	ВПРЫГИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+7	очаровательной	ОЧАРОВАТЕЛЬНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	опред	_	_
+8	красоты	КРАСОТА	S	S f inan gen sg	S f inan gen sg	6	1-компл	_	_
+9	одноногая	ОДНОНОГИЙ	A	A - nom sg plen f -	A - nom sg plen f -	10	опред	_	_
+10	девушка	ДЕВУШКА	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+11	в	В	PR	PR	PR	10	атриб	_	_
+12	широчайшей	ШИРОКИЙ	A	A supr loc sg plen f -	A supr loc sg plen f -	13	опред	_	_
+13	юбке	ЮБКА	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	обшитой	ОБШИВАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	13	опред	_	_
+16	по	ПО	PR	PR	PR	15	обст	_	_
+17	подолу	ПОДОЛ	S	S m inan dat sg	S m inan dat sg	16	предл	_	_
+18	красной	КРАСНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	19	опред	_	_
+19	каймой	КАЙМА	S	S f inan ins sg	S f inan ins sg	15	агент	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

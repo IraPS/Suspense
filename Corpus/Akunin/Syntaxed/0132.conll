@@ -1,0 +1,35 @@
+1	Глядя	ГЛЯДЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	обст	_	_
+2	в	В	PR	PR	PR	1	1-компл	_	_
+3	ясные	ЯСНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	опред	_	_
+4	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	2	предл	_	_
+5	красавца	КРАСАВЕЦ	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	5	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+10	поняла	ПОНИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+11	:	:	:	:	PUNC	12	предл	_	_
+12	про	ПРО	PR	PR	PR	10	обст	_	_
+13	семь	СЕМЬ	NUM	NUM acc - -	NUM acc - -	11	аппрокс-колич	_	_
+14	ран	РАН	S	S f inan gen pl	S f inan gen pl	12	предл	_	_
+15	и	И	CONJ	CONJ	CONJ	10	сент-соч	_	_
+16	Абдурахман	АБДУРАХМАН	S	S m anim nom sg	S m anim nom sg	18	композ	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	бека	БЕК	S	S m anim acc sg	S m anim acc sg	19	1-компл	_	_
+19	–	–	–	–	PUNC	30	опред	_	_
+20	чистая	ЧИСТЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	30	опред	_	_
+21	правда	ПРАВДА	ADV	ADV -	ADV -	20	огранич	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	а	А	CONJ	CONJ	CONJ	20	сочин	_	_
+24	про	ПРО	PR	PR	PR	23	соч-союзн	_	_
+25	заложников	ЗАЛОЖНИК	S	S m anim gen pl	S m anim gen pl	24	предл	_	_
+26	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+27	ханскую	ХАНСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	28	опред	_	_
+28	казну	КАЗНА	S	S f inan acc sg	S f inan acc sg	26	соч-союзн	_	_
+29	–	–	–	–	PUNC	30	опред	_	_
+30	ерунда	ЕРУНДА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+31	и	И	CONJ	CONJ	CONJ	30	сочин	_	_
+32	наветы	НАВЕТ	S	S m inan nom pl	S m inan nom pl	31	соч-союзн	_	_
+33	завистников	ЗАВИСТНИК	S	S m anim gen pl	S m anim gen pl	32	квазиагент	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+

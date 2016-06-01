@@ -1,0 +1,15 @@
+1	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	предик	_	_
+2	'	'	_	_	PUNC	1	PUNC	_	_
+3	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	1	1-компл	_	_
+4	отпустил	ОТПУСКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+8	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	11	предик	_	_
+9	в	В	PR	PR	PR	11	обст	_	_
+10	ужасе	УЖАС	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+11	шарахнулась	ШАРАХНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+12	в	В	PR	PR	PR	11	2-компл	_	_
+13	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

@@ -1,0 +1,185 @@
+1	Участие	УЧАСТИЕ	S	S n inan nom sg	S n inan nom sg	8	предик	_	_
+2	на	НА	PR	PR	PR	1	1-компл	_	_
+3	ученических	УЧЕНИЧЕСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	4	опред	_	_
+4	вечерах	ВЕЧЕР	S	S m inan loc pl	S m inan loc pl	2	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	естественно	ЕСТЕСТВЕННО	ADV	ADV -	ADV -	8	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	вызывало	ВЫЗЫВАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+9	у	У	PR	PR	PR	8	2-компл	_	_
+10	Колюши	КОЛЮША	S	S m anim gen sg	S m anim gen sg	9	предл	_	_
+11	желание	ЖЕЛАНИЕ	S	S n inan nom sg	S n inan nom sg	8	сент-соч	_	_
+12	принять	ПРИНИМАТЬ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+13	участие	УЧАСТИЕ	S	S n inan acc sg	S n inan acc sg	12	1-компл	_	_
+14	в	В	PR	PR	PR	13	1-компл	_	_
+15	танцах	ТАНЕЦ	S	S m inan loc pl	S m inan loc pl	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	для	ДЛЯ	PR	PR	PR	7	обст	_	_
+3	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	2	предл	_	_
+4	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	вопрос	ВОПРОС	S	S m inan nom sg	S m inan nom sg	7	предик	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	решался	РЕШАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+8	так	ТАК	ADV	ADV -	ADV -	7	обст	_	_
+9	просто	ПРОСТО	PART	PART	PART	8	вспом	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	как	КАК	CONJ	CONJ	CONJ	7	сравнит	_	_
+12	для	ДЛЯ	PR	PR	PR	11	сравн-союзн	_	_
+13	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	14	атриб	_	_
+14	товарищей	ТОВАРИЩ	S	S m anim gen pl	S m anim gen pl	12	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	7	сент-соч	_	_
+17	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	19	предик	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	считал	СЧИТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	соч-союзн	_	_
+20	нужным	НУЖНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	22	1-компл	_	_
+21	серьезно	СЕРЬЕЗНО	ADV	ADV -	ADV -	22	обст	_	_
+22	учиться	УЧИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	19	1-компл	_	_
+23	танцам	ТАНЕЦ	S	S m inan dat pl	S m inan dat pl	22	2-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	4	огранич	_	_
+2	какая	КАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	запись	ЗАПИСЬ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+4	имеется	ИМЕТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	в	В	PR	PR	PR	4	1-компл	_	_
+6	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	7	квазиагент	_	_
+7	дневнике	ДНЕВНИК	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+8	:	:	:	:	PUNC	4	2-компл	_	_
+9	«	«	_	_	PUNC	8	PUNC	_	_
+10	На	НА	PR	PR	PR	8	атриб	_	_
+11	всех	ВЕСЬ	A	A - loc pl plen - -	A - loc pl plen - -	12	опред	_	_
+12	вечерах	ВЕЧЕР	S	S m inan loc pl	S m inan loc pl	10	предл	_	_
+13	моя	МОЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	опред	_	_
+14	карьера	КАРЬЕРА	S	S f inan nom sg	S f inan nom sg	17	предик	_	_
+15	на	НА	PR	PR	PR	17	обст	_	_
+16	паркете	ПАРКЕТ	S	S m inan loc sg	S m inan loc sg	15	предл	_	_
+17	оканчивалась	ОКАНЧИВАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	сент-соч	_	_
+18	самым	САМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	19	опред	_	_
+19	печальным	ПЕЧАЛЬНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	20	опред	_	_
+20	образом	ОБРАЗ	S	S m inan ins sg	S m inan ins sg	17	обст	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	танцевал	ТАНЦЕВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	очень	ОЧЕНЬ	ADV	ADV -	ADV -	4	огранич	_	_
+4	плохо	ПЛОХО	ADV	ADV -	ADV -	2	обст	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	кроме	КРОМЕ	PR	PR	PR	11	обст	_	_
+8	того	ТО	S	S n - gen sg	S n - gen sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	умел	УМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	соч-союзн	_	_
+12	(	(	_	_	PUNC	13	PUNC	_	_
+13	да	ДА	CONJ	CONJ	CONJ	11	примыкат	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	хотел	ХОТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	14	соч-союзн	_	_
+17	)	)	_	_	PUNC	16	PUNC	_	_
+18	во время	во время	PR	PR	ZERO	16	1-компл	_	_
+19	танцев	ТАНЕЦ	S	S m inan gen pl	S m inan gen pl	18	предл	_	_
+20	поддерживать	ПОДДЕРЖИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	16	2-компл	_	_
+21	разговор	РАЗГОВОР	S	S m inan acc sg	S m inan acc sg	20	1-компл	_	_
+22	с	С	PR	PR	PR	21	атриб	_	_
+23	барышней	БАРЫШНЯ	S	S f anim ins sg	S f anim ins sg	22	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	даже	ДАЖЕ	PART	PART	PART	3	огранич	_	_
+3	обрывал	ОБРЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	когда	КОГДА	CONJ	CONJ	CONJ	3	обст	_	_
+7	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	8	предик	_	_
+8	начинала	НАЧИНАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	6	подч-союзн	_	_
+9	говорить	ГОВОРИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Очевидно	ОЧЕВИДНО	ADV	ADV -	ADV -	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	это	ЭТО	S	S n - nom sg	S n - nom sg	4	предик	_	_
+4	обусловливалось	ОБУСЛОВЛИВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	необходимостью	НЕОБХОДИМОСТЬ	S	S f inan ins sg	S f inan ins sg	4	присвяз	_	_
+6	следить	СЛЕДИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	1-компл	_	_
+7	за	ЗА	PR	PR	PR	6	1-компл	_	_
+8	своими	СВОЙ	A	A - ins pl plen - -	A - ins pl plen - -	9	опред	_	_
+9	движениями	ДВИЖЕНИЕ	S	S n inan ins pl	S n inan ins pl	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	после	ПОСЛЕ	PR	PR	PR	7	обст	_	_
+4	пары	ПАРА	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	кругов	КРУГ	S	S m inan gen pl	S m inan gen pl	4	1-компл	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	предик	_	_
+7	получал	ПОЛУЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+8	пару	ПАРА	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+9	отказов	ОТКАЗ	S	S m inan gen pl	S m inan gen pl	8	квазиагент	_	_
+10	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	уходя	УХОДИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	15	обст	_	_
+13	домой	ДОМОЙ	ADV	ADV -	ADV -	12	2-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	обещал	ОБЕЩАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	соч-союзн	_	_
+16	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	19	1-компл	_	_
+17	больше	БОЛЬШЕ	ADV	ADV -	ADV -	19	обст	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	танцевать	ТАНЦЕВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	15	1-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+2	ничуть	НИЧУТЬ	ADV	ADV -	ADV -	4	обст	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	обижался	ОБИЖАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	даже	ДАЖЕ	PART	PART	PART	7	огранич	_	_
+7	гордился	ГОРДИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сочин	_	_
+8	перед	ПЕРЕД	PR	PR	PR	7	1-компл	_	_
+9	самим	САМ	A	A - ins sg plen m -	A - ins sg plen m -	10	опред	_	_
+10	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	7	2-компл	_	_
+13	порывал	ПОРЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	подч-союзн	_	_
+14	с	С	PR	PR	PR	13	2-компл	_	_
+15	таким	ТАКОЙ	A	A - ins sg plen m -	A - ins sg plen m -	14	предл	_	_
+16	«	«	_	_	PUNC	15	PUNC	_	_
+17	ярким	ЯРКИЙ	A	A - ins sg plen n -	A - ins sg plen n -	15	сочин	_	_
+18	выражением	ВЫРАЖЕНИЕ	S	S n inan ins sg	S n inan ins sg	13	1-компл	_	_
+19	пошлости	ПОШЛОСТЬ	S	S f inan gen sg	S f inan gen sg	18	1-компл	_	_
+20	современного	СОВРЕМЕННЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	21	опред	_	_
+21	общества	ОБЩЕСТВО	S	S n inan gen sg	S n inan gen sg	19	квазиагент	_	_
+22	»	»	_	_	PUNC	21	PUNC	_	_
+23	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Так	ТАК	ADV	ADV -	ADV -	4	обст	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+3	«	«	_	_	PUNC	4	PUNC	_	_
+4	бросал	БРОСАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	»	»	_	_	PUNC	4	PUNC	_	_
+6	танцевать	ТАНЦЕВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+7	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	8	количест	_	_
+8	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	6	обст	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Последний	ПОСЛЕДНИЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	раз	РАЗ	S	S m inan nom sg	S m inan nom sg	4	обст	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	бросил	БРОСАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	танцевать	ТАНЦЕВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+6	в	В	PR	PR	PR	5	2-компл	_	_
+7	апреле	АПРЕЛЬ	S	S m inan loc sg	S m inan loc sg	6	предл	_	_
+8	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+9	упорно	УПОРНО	ADV	ADV -	ADV -	11	обст	_	_
+10	«	«	_	_	PUNC	11	PUNC	_	_
+11	продержался	ПРОДЕРЖАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	до	ДО	PR	PR	PR	11	1-компл	_	_
+14	самого	САМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+15	выпускного	ВЫПУСКНОЙ	A	A - gen sg plen m -	A - gen sg plen m -	16	опред	_	_
+16	вечера	ВЕЧЕР	S	S m inan gen sg	S m inan gen sg	13	предл	_	_
+17	»	»	_	_	PUNC	16	PUNC	_	_
+18	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

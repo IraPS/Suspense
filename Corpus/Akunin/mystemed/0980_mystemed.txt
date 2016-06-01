@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"опасливый","gr":"A=sg,brev,n"}],"text":"опасливо"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,f,pf"}],"text":"спросила"}
+{"analysis":[{"lex":"выигрывать","gr":"V,tran=inf,pf"}],"text":"Выиграть"}
+{"analysis":[{"lex":"время","gr":"S,n,inan=acc,sg"},{"lex":"время","gr":"S,n,inan=nom,sg"}],"text":"время"}
+{"text":"\\s"}
+{"analysis":[{"lex":"зачем","gr":"ADVPRO="}],"text":"Зачем"}

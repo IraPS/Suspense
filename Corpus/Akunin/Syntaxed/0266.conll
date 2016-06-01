@@ -1,0 +1,68 @@
+1	Брякнула	БРЯКНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+2	–	–	–	–	PUNC	1	1-компл	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+4	испугалась	ИСПУГАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	соч-союзн	_	_
+5	собственной	СОБСТВЕННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+6	грубости	ГРУБОСТЬ	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	однако	ОДНАКО	CONJ	CONJ	CONJ	1	сент-соч	_	_
+9	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+10	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	9	аппоз	_	_
+11	ничуть	НИЧУТЬ	ADV	ADV -	ADV -	13	обст	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	рассердился	РАССЕРДИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	а	А	CONJ	CONJ	CONJ	13	сочин	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	вздохнув	ВЗДЫХАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	19	обст	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+20	:	:	:	:	PUNC	24	опред	_	_
+21	–	–	–	–	PUNC	24	1-компл	_	_
+22	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	24	предик	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	знаете	ЗНАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	19	1-компл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	как	КАК	CONJ	CONJ	CONJ	20	сравнит	_	_
+27	со	СО	PR	PR	PR	26	сравн-союзн	_	_
+28	мной	Я	SPRO	SPRO sg 1p - ins	SPRO sg 1p - ins	27	предл	_	_
+29	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	19	2-компл	_	_
+30	-	-	-	-	PUNC	29	PUNC	_	_
+31	держаться	ДЕРЖАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	19	1-компл	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	раз	РАЗ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Благодарной	БЛАГОДАРНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	4	1-компл	_	_
+2	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	1	1-компл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	хотите	ХОТЕТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	оттого	ОТТОГО	ADV	ADV -	ADV -	7	обст	_	_
+7	сердитесь	СЕРДИТЬСЯ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	5	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	опред	_	_
+2	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Забудьте	ЗАБЫВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+2	к	К	PR	PR	PR	1	2-компл	_	_
+3	черту	ЧЕРТА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	про	ПРО	PR	PR	PR	1	3-компл	_	_
+5	благодарность	БЛАГОДАРНОСТЬ	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	1	сент-соч	_	_
+8	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	10	предик	_	_
+9	отлично	ОТЛИЧНО	ADV	ADV -	ADV -	10	обст	_	_
+10	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	7	соч-союзн	_	_
+11	-	-	-	-	PUNC	10	PUNC	_	_
+12	поладим	ПОЛАДИТЬ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	1	вводн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	опред	_	_
+2	три	ТРИ	NUM	NUM nom - -	NUM nom - -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

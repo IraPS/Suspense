@@ -1,0 +1,54 @@
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	выбираю	ВЫБИРАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+4	мсье	МСЬЕ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	5	вспом	_	_
+5	журналиста	ЖУРНАЛИСТ	S	S m anim acc sg	S m anim acc sg	3	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	 	 	 	 	PUNC	9	обст	_	_
+8	–	–	–	–	PUNC	9	1-компл	_	_
+9	хрустнул	ХРУСТНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+10	пальцами	ПАЛЕЦ	S	S m inan ins pl	S m inan ins pl	9	1-компл	_	_
+11	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+12	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+13	положил	ПОЛАГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	соч-союзн	_	_
+14	руку	РУКА	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+15	на	НА	PR	PR	PR	13	2-компл	_	_
+16	рукоять	РУКОЯТЬ	S	S f inan acc sg	S f inan acc sg	15	предл	_	_
+17	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	18	опред	_	_
+18	шашки	ШАШКА	S	S f inan gen sg	S f inan gen sg	16	квазиагент	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	трезвел	ТРЕЗВЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	веселел	ВЕСЕЛЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	соч-союзн	_	_
+5	прямо	ПРЯМО	PART	PART	PART	6	огранич	_	_
+6	на	НА	PR	PR	PR	4	обст	_	_
+7	глазах	ГЛАЗ	S	S m inan loc pl	S m inan loc pl	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Возьмите	ВЗЯТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+3	любой	ЛЮБОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	2	1-компл	_	_
+4	из	ИЗ	PR	PR	PR	3	электив	_	_
+5	этих	ЭТОТ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	клинков	КЛИНОК	S	S m inan gen pl	S m inan gen pl	4	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+8	пожалуйте	ПОЖАЛОВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	7	соч-союзн	_	_
+9	во	ВО	PR	PR	PR	8	2-компл	_	_
+10	двор	ДВОР	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Сначала	СНАЧАЛА	ADV	ADV -	ADV -	3	обст	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	проткну	ПРОТКНУТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+4	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+7	потом	ПОТОМ	ADV	ADV -	ADV -	8	обст	_	_
+8	отрежу	ОТРЕЗАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	6	соч-союзн	_	_
+9	уши	УХО	S	S n inan nom pl	S n inan nom pl	8	предик	_	_
+10	господину	ГОСПОДИН	S	S m anim dat sg	S m anim dat sg	9	1-компл	_	_
+11	бретеру	БРЕТЕР	S	S m anim dat sg	S m anim dat sg	10	аппоз	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

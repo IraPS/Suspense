@@ -1,0 +1,111 @@
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Таймс	ТАЙМС	S	S f inan nom sg	S f inan nom sg	18	предик	_	_
+3	»	»	_	_	PUNC	5	PUNC	_	_
+4	(	(	_	_	PUNC	5	PUNC	_	_
+5	Лондон	ЛОНДОН	S	S m inan acc sg	S m inan acc sg	2	примыкат	_	_
+6	)	)	_	_	PUNC	5	PUNC	_	_
+7	,	,	,	,	PUNC	5	PUNC	_	_
+8	16	16	NUM	NUM - - -	NUM - - -	5	нум-аппоз	_	_
+9	(	(	_	_	PUNC	10	PUNC	_	_
+10	4	4	NUM	NUM - - -	NUM - - -	8	примыкат	_	_
+11	)	)	_	_	PUNC	10	PUNC	_	_
+12	декабря	ДЕКАБРЬ	S	S m inan gen sg	S m inan gen sg	5	квазиагент	_	_
+13	1877	1877	NUM	NUM - - -	NUM - - -	14	опред	_	_
+14	г.	Г.	S	S - - nonflex nonflex	S - - nonflex nonflex	15	опред	_	_
+15	Дерби	ДЕРБИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	12	квазиагент	_	_
+16	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+17	Карнарвон	КАРНАРВОН	S	S f inan nom sg	S f inan nom sg	16	соч-союзн	_	_
+18	грозят	ГРОЗИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+19	отставкой	ОТСТАВКА	S	S f inan ins sg	S f inan ins sg	18	1-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Вчера	ВЧЕРА	ADV	ADV -	ADV -	8	обст	_	_
+2	на	НА	PR	PR	PR	8	обст	_	_
+3	заседании	ЗАСЕДАНИЕ	S	S n inan loc sg	S n inan loc sg	2	предл	_	_
+4	кабинета	КАБИНЕТ	S	S m inan gen sg	S m inan gen sg	3	квазиагент	_	_
+5	министров	МИНИСТР	S	S m anim gen pl	S m anim gen pl	4	квазиагент	_	_
+6	граф	ГРАФ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+7	Биконсфильд	БИКОНСФИЛЬД	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	предложил	ПРЕДЛАГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	потребовать	ПОТРЕБОВАТЬ	V	V pf - - inf - -	V pf - - inf - -	8	1-компл	_	_
+10	от	ОТ	PR	PR	PR	9	1-компл	_	_
+11	Парламента	ПАРЛАМЕНТ	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+12	чрезвычайного	ЧРЕЗВЫЧАЙНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	опред	_	_
+13	кредита	КРЕДИТ	S	S m inan gen sg	S m inan gen sg	11	1-компл	_	_
+14	в	В	PR	PR	PR	9	2-компл	_	_
+15	6	6	NUM	NUM - - -	NUM - - -	16	количест	_	_
+16	миллионов	МИЛЛИОН	S	S m inan gen pl	S m inan gen pl	14	предл	_	_
+17	фунтов	ФУНТ	S	S m inan gen pl	S m inan gen pl	16	квазиагент	_	_
+18	стерлингов	СТЕРЛИНГ	S	S m inan gen pl	S m inan gen pl	17	квазиагент	_	_
+19	на	НА	PR	PR	PR	9	3-компл	_	_
+20	снаряжение	СНАРЯЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	19	предл	_	_
+21	экспедиционного	ЭКСПЕДИЦИОННЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	22	опред	_	_
+22	корпуса	КОРПУС	S	S m inan gen sg	S m inan gen sg	20	1-компл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	28	предик	_	_
+25	в	В	PR	PR	PR	28	обст	_	_
+26	скором	СКОРЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	27	опред	_	_
+27	времени	ВРЕМЯ	S	S n inan loc sg	S n inan loc sg	25	предл	_	_
+28	может	МОЧЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	22	релят	_	_
+29	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	28	1-компл	_	_
+30	отправлен	ОТПРАВЛЯТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	29	пасс-анал	_	_
+31	на	НА	PR	PR	PR	30	2-компл	_	_
+32	Балканы	БАЛКАНЫ	S	S m inan acc pl	S m inan acc pl	31	предл	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	дабы	ДАБЫ	CONJ	CONJ	CONJ	28	обст	_	_
+35	защитить	ЗАЩИЩАТЬ	V	V pf - - inf - -	V pf - - inf - -	34	инф-союзн	_	_
+36	интересы	ИНТЕРЕС	S	S m inan acc pl	S m inan acc pl	35	1-компл	_	_
+37	империи	ИМПЕРИЯ	S	S f inan gen sg	S f inan gen sg	36	квазиагент	_	_
+38	от	ОТ	PR	PR	PR	35	2-компл	_	_
+39	непомерных	НЕПОМЕРНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	40	опред	_	_
+40	притязаний	ПРИТЯЗАНИЕ	S	S n inan gen pl	S n inan gen pl	38	предл	_	_
+41	царя	ЦАРЬ	S	S m anim gen sg	S m anim gen sg	40	квазиагент	_	_
+42	Александра	АЛЕКСАНДР	S	S m anim gen sg	S m anim gen sg	41	аппоз	_	_
+43	.	.	SENT	SENT	SENT	42	PUNC	_	_
+
+1	Решение	РЕШЕНИЕ	S	S n inan nom sg	S n inan nom sg	2	предик	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	принято	ПРИНИМАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	2	пасс-анал	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	несмотря на	несмотря на	PR	PR	ZERO	2	обст	_	_
+6	противодействие	ПРОТИВОДЕЙСТВИЕ	S	S n inan nom sg	S n inan nom sg	18	предик	_	_
+7	министра	МИНИСТР	S	S m anim gen sg	S m anim gen sg	6	квазиагент	_	_
+8	иностранных	ИНОСТРАННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	дел	ДЕЛО	S	S n inan gen pl	S n inan gen pl	7	1-компл	_	_
+10	лорда	ЛОРД	S	S m anim gen sg	S m anim gen sg	7	аппоз	_	_
+11	Дерби	ДЕРБИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	10	1-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+13	министра	МИНИСТР	S	S m anim gen sg	S m anim gen sg	12	соч-союзн	_	_
+14	колоний	КОЛОНИЯ	S	S f inan gen pl	S f inan gen pl	13	1-компл	_	_
+15	лорда	ЛОРД	S	S m anim gen sg	S m anim gen sg	13	аппоз	_	_
+16	Карнарвона	КАРНАРВОН	S	S m anim acc sg	S m anim acc sg	6	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	выступающих	ВЫСТУПАТЬ	PARTCP	PARTCP ipf inpraes loc pl plen - act -	PARTCP ipf inpraes loc pl plen - act -	5	предл	_	_
+19	против	ПРОТИВ	PR	PR	PR	18	1-компл	_	_
+20	прямой	ПРЯМОЙ	A	A - dat sg plen f -	A - dat sg plen f -	21	опред	_	_
+21	конфронтации	КОНФРОНТАЦИЯ	S	S f inan dat sg	S f inan dat sg	19	предл	_	_
+22	с	С	PR	PR	PR	21	1-компл	_	_
+23	Россией	РОССИЯ	S	S f inan ins sg	S f inan ins sg	22	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Оба	ОБА	NUM	NUM acc m inan	NUM acc m inan	2	количест	_	_
+2	министра	МИНИСТР	S	S m anim gen sg	S m anim gen sg	8	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	оказавшиеся	ОКАЗЫВАТЬСЯ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	2	опред	_	_
+5	в	В	PR	PR	PR	4	1-компл	_	_
+6	меньшинстве	МЕНЬШИНСТВО	S	S n inan loc sg	S n inan loc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	подали	ПОДАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+9	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	10	квазиагент	_	_
+10	величеству	ВЕЛИЧЕСТВО	S	S n inan dat sg	S n inan dat sg	8	2-компл	_	_
+11	прошения	ПРОШЕНИЕ	S	S n inan acc pl	S n inan acc pl	8	1-компл	_	_
+12	об	ОБ	PR	PR	PR	11	1-компл	_	_
+13	отставке	ОТСТАВКА	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Реакция	РЕАКЦИЯ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+2	королевы	КОРОЛЕВА	S	S f anim gen sg	S f anim gen sg	1	квазиагент	_	_
+3	пока	ПОКА	ADV	ADV -	ADV -	4	огранич	_	_
+4	неизвестна	НЕИЗВЕСТНЫЙ	A	A - - sg brev f -	A - - sg brev f -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

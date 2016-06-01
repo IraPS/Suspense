@@ -1,0 +1,105 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	тем	ТОТ	A	A - dat pl plen - -	A - dat pl plen - -	3	опред	_	_
+3	временем	ВРЕМЯ	S	S n inan ins sg	S n inan ins sg	9	обст	_	_
+4	мой	МОЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+5	добрый	ДОБРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	друг	ДРУГ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+7	Абдул	АБДУЛ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	Азис	АЗИС	S	S m inan nom sg	S m inan nom sg	1	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	как	КАК	CONJ	CONJ	CONJ	9	сравнит	_	_
+12	обычно	ОБЫЧНО	ADV	ADV -	ADV -	11	сравн-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	вводн	_	_
+15	у	У	PR	PR	PR	14	обст	_	_
+16	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	15	предл	_	_
+17	в	В	PR	PR	PR	14	обст	_	_
+18	гареме	ГАРЕМ	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	наслаждаясь	НАСЛАЖДАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	14	обст	_	_
+21	обществом	ОБЩЕСТВО	S	S n inan ins sg	S n inan ins sg	20	1-компл	_	_
+22	любимой	ЛЮБИМЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	23	опред	_	_
+23	жены	ЖЕНА	S	S f anim gen sg	S f anim gen sg	21	квазиагент	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	прелестной	ПРЕЛЕСТНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	26	опред	_	_
+26	Михри	МИХОРЬ	S	S f inan gen sg	S f inan gen sg	23	разъяснит	_	_
+27	-	-	-	-	PUNC	26	PUNC	_	_
+28	ханум	ХАНУМ	S	S m anim nom sg	S m anim nom sg	26	об-аппоз	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	31	предик	_	_
+31	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	26	релят	_	_
+32	на	НА	PR	PR	PR	31	присвяз	_	_
+33	сносях	СНОСИ	S	S - inan loc pl	S - inan loc pl	32	предл	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	много	МНОГО	ADV	ADV -	ADV -	36	обст	_	_
+36	капризничала	КАПРИЗНИЧАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	26	релят	_	_
+37	и	И	CONJ	CONJ	CONJ	36	сочин	_	_
+38	требовала	ТРЕБОВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	37	соч-союзн	_	_
+39	,	,	,	,	PUNC	38	PUNC	_	_
+40	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	38	1-компл	_	_
+41	повелитель	ПОВЕЛИТЕЛЬ	S	S m anim nom sg	S m anim nom sg	44	предик	_	_
+42	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	43	опред	_	_
+43	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	44	1-компл	_	_
+44	находился	НАХОДИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	40	подч-союзн	_	_
+45	рядом	РЯДОМ	ADV	ADV -	ADV -	44	1-компл	_	_
+46	.	.	SENT	SENT	SENT	45	PUNC	_	_
+
+1	Эта	ЭТОТ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	золотоволосая	ЗОЛОТОВОЛОСЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	синеглазая	СИНЕГЛАЗЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	сочин	_	_
+5	черкешенка	ЧЕРКЕШЕНКА	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+6	помимо	ПОМИМО	PR	PR	PR	9	обст	_	_
+7	неземной	НЕЗЕМНОЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	опред	_	_
+8	красоты	КРАСОТА	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+9	прославилась	ПРОСЛАВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+10	еще	ЕЩЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	тем	ТО	S	S n - ins sg	S n - ins sg	11	соч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	что	ЧТО	CONJ	CONJ	CONJ	12	эксплет	_	_
+15	опустошила	ОПУСТОШАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	подч-союзн	_	_
+16	султанскую	СУЛТАНСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	17	опред	_	_
+17	казну	КАЗНА	S	S f inan acc sg	S f inan acc sg	15	1-компл	_	_
+18	до	ДО	PR	PR	PR	15	обст	_	_
+19	самого	САМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+20	донышка	ДОНЫШКО	S	S n inan gen sg	S n inan gen sg	18	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	За	ЗА	PR	PR	PR	6	обст	_	_
+2	один	ОДИН	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+3	последний	ПОСЛЕДНИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	год	ГОД	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+5	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	6	предик	_	_
+6	оставила	ОСТАВЛЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	12	колич-огран	_	_
+7	во	ВО	PR	PR	PR	6	обст	_	_
+8	французских	ФРАНЦУЗСКИЙ	A	A - loc pl plen - -	A - loc pl plen - -	9	опред	_	_
+9	магазинах	МАГАЗИН	S	S m inan loc pl	S m inan loc pl	7	предл	_	_
+10	на	НА	PR	PR	PR	9	атриб	_	_
+11	Пере	ПЕРО	S	S f inan acc sg	S f inan acc sg	10	предл	_	_
+12	более	МНОГО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+13	десяти	ДЕСЯТЬ	NUM	NUM loc - -	NUM loc - -	12	сравнит	_	_
+14	миллионов	МИЛЛИОН	S	S m inan gen pl	S m inan gen pl	12	сравнит	_	_
+15	рублей	РУБЛЬ	S	S m inan gen pl	S m inan gen pl	14	квазиагент	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+18	вполне	ВПОЛНЕ	ADV	ADV -	ADV -	19	огранич	_	_
+19	понятно	ПОНЯТНО	ADV	ADV -	ADV -	17	соч-союзн	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	что	ЧТО	CONJ	CONJ	CONJ	19	предик	_	_
+22	константинопольцы	КОНСТАНТИНОПОЛЕЦ	S	S m anim nom pl	S m anim nom pl	34	предик	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	как	КАК	CONJ	CONJ	CONJ	22	сравнит	_	_
+25	сказали	СКАЗАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	24	сравн-союзн	_	_
+26	бы	БЫ	PART	PART	PART	25	аналит	_	_
+27	склонные	СКЛОННЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	25	опред	_	_
+28	к	К	PR	PR	PR	27	1-компл	_	_
+29	understatement	UNDERSTATEMENT	NONLEX	NONLEX	NONLEX	28	предл	_	_
+30	англичане	АНГЛИЧАНИН	S	S m anim nom pl	S m anim nom pl	25	предик	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	34	1-компл	_	_
+33	сильно	СИЛЬНО	ADV	ADV -	ADV -	34	обст	_	_
+34	недолюбливали	НЕДОЛЮБЛИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	21	подч-союзн	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+

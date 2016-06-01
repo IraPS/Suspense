@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"вдовец","gr":"S,m,anim=nom,sg"}],"text":"Вдовец"}
+{"analysis":[{"lex":"тихо","gr":"ADV="}],"text":"тихо"}
+{"analysis":[{"lex":"ответ","gr":"S,m,inan=gen,sg"}],"text":"ответа"}
+{"analysis":[{"lex":"пелагея","gr":"S,persn,f,anim=nom,sg"}],"text":"Пелагея"}
+{"analysis":[{"lex":"ивановна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Ивановна"}

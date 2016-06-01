@@ -1,0 +1,35 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Осла	ОСЕЛ	S	S m anim gen sg	S m anim gen sg	1	квазиагент	_	_
+3	к	К	PR	PR	PR	1	2-компл	_	_
+4	черту	ЧЕРТА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Дайте	ДАВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+2	руку	РУКА	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	В	В	PR	PR	PR	0	ROOT	_	_
+2	седло	СЕДЛО	S	S n inan acc sg	S n inan acc sg	1	предл	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Гоните	ГНАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+2	во	ВО	PR	PR	PR	1	1-компл	_	_
+3	весь	ВЕСЬ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	дух	ДУХ	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	оборачивайтесь	ОБОРАЧИВАТЬСЯ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	2	сочин	_	_
+5	–	–	–	–	PUNC	7	опред	_	_
+6	рубленой	РУБЛЕНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	7	опред	_	_
+7	скороговоркой	СКОРОГОВОРКА	S	S f inan ins sg	S f inan ins sg	8	обст	_	_
+8	отчеканил	ОТЧЕКАНИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+9	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	опять	ОПЯТЬ	ADV	ADV -	ADV -	12	обст	_	_
+12	перестав	ПЕРЕСТАВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	0	ROOT	_	_
+13	заикаться	ЗАИКАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	12	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

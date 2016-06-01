@@ -1,0 +1,111 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	достал	ДОСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	из	ИЗ	PR	PR	PR	2	2-компл	_	_
+4	кармана	КАРМАН	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	кокетливую	КОКЕТЛИВЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	книжечку	КНИЖЕЧКА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+7	в	В	PR	PR	PR	2	2-компл	_	_
+8	парчовом	ПАРЧОВЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	переплете	ПЕРЕПЛЕТ	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+11	открыл	ОТКРЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	соч-союзн	_	_
+12	заложенную	ЗАКЛАДЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	13	опред	_	_
+13	страничку	СТРАНИЧКА	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	пробежала	ПРОБЕЖАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	2	2-компл	_	_
+4	колонку	КОЛОНКА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+5	цифр	ЦИФРА	S	S f inan gen pl	S f inan gen pl	4	квазиагент	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	букв	БУКВА	S	S f inan gen pl	S f inan gen pl	6	соч-союзн	_	_
+8	:	:	:	:	PUNC	12	опред	_	_
+9	19	19	NUM	NUM - - -	NUM - - -	10	количест	_	_
+10	=	=	=	=	PUNC	12	опред	_	_
+11	Z	Z	NONLEX	NONLEX	NONLEX	10	аппоз	_	_
+12	–	–	–	–	PUNC	20	опред	_	_
+13	1500	1500	NUM	NUM - - -	NUM - - -	15	количест	_	_
+14	20	20	NUM	NUM - - -	NUM - - -	15	количест	_	_
+15	=	=	=	=	PUNC	17	опред	_	_
+16	Z	Z	NONLEX	NONLEX	NONLEX	15	аппоз	_	_
+17	–	–	–	–	PUNC	20	опред	_	_
+18	3400	3400	NUM	NUM - - -	NUM - - -	19	количест	_	_
+19	–	–	–	–	PUNC	20	опред	_	_
+20	i	I	NONLEX	NONLEX	NONLEX	2	2-компл	_	_
+21	21	21	NUM	NUM - - -	NUM - - -	20	аппоз	_	_
+22	=	=	=	=	PUNC	23	опред	_	_
+23	J	J	NONLEX	NONLEX	NONLEX	24	композ	_	_
+24	+	+	+	+	PUNC	26	опред	_	_
+25	5000	5000	NUM	NUM - - -	NUM - - -	26	количест	_	_
+26	Z	Z	NONLEX	NONLEX	NONLEX	20	примыкат	_	_
+27	–	–	–	–	PUNC	81	обст	_	_
+28	800	800	NUM	NUM - - -	NUM - - -	30	количест	_	_
+29	22	22	NUM	NUM - - -	NUM - - -	30	количест	_	_
+30	=	=	=	=	PUNC	32	опред	_	_
+31	Z	Z	NONLEX	NONLEX	NONLEX	30	аппоз	_	_
+32	–	–	–	–	PUNC	81	предик	_	_
+33	2900	2900	NUM	NUM - - -	NUM - - -	35	количест	_	_
+34	23	23	NUM	NUM - - -	NUM - - -	35	количест	_	_
+35	=	=	=	=	PUNC	81	обст	_	_
+36	J	J	NONLEX	NONLEX	NONLEX	35	аппоз	_	_
+37	+	+	+	+	PUNC	35	опред	_	_
+38	5000	5000	NUM	NUM - - -	NUM - - -	39	количест	_	_
+39	Z	Z	NONLEX	NONLEX	NONLEX	81	предик	_	_
+40	–	–	–	–	PUNC	81	обст	_	_
+41	700	700	NUM	NUM - - -	NUM - - -	43	количест	_	_
+42	24	24	NUM	NUM - - -	NUM - - -	43	количест	_	_
+43	=	=	=	=	PUNC	45	опред	_	_
+44	Z	Z	NONLEX	NONLEX	NONLEX	43	аппоз	_	_
+45	–	–	–	–	PUNC	81	обст	_	_
+46	1100	1100	NUM	NUM - - -	NUM - - -	48	количест	_	_
+47	25	25	NUM	NUM - - -	NUM - - -	48	количест	_	_
+48	=	=	=	=	PUNC	53	обст	_	_
+49	J	J	NONLEX	NONLEX	NONLEX	48	аппоз	_	_
+50	+	+	+	+	PUNC	48	опред	_	_
+51	5000	5000	NUM	NUM - - -	NUM - - -	52	количест	_	_
+52	Z	Z	NONLEX	NONLEX	NONLEX	53	предик	_	_
+53	–	–	–	–	PUNC	58	опред	_	_
+54	1000	1000	NUM	NUM - - -	NUM - - -	56	количест	_	_
+55	26	26	NUM	NUM - - -	NUM - - -	56	количест	_	_
+56	=	=	=	=	PUNC	58	опред	_	_
+57	Z	Z	NONLEX	NONLEX	NONLEX	56	аппоз	_	_
+58	–	–	–	–	PUNC	81	предик	_	_
+59	300	300	NUM	NUM - - -	NUM - - -	61	количест	_	_
+60	27	27	NUM	NUM - - -	NUM - - -	61	количест	_	_
+61	=	=	=	=	PUNC	81	обст	_	_
+62	J	J	NONLEX	NONLEX	NONLEX	61	аппоз	_	_
+63	+	+	+	+	PUNC	61	опред	_	_
+64	5000	5000	NUM	NUM - - -	NUM - - -	65	количест	_	_
+65	Z	Z	NONLEX	NONLEX	NONLEX	81	предик	_	_
+66	–	–	–	–	PUNC	81	обст	_	_
+67	2200	2200	NUM	NUM - - -	NUM - - -	69	количест	_	_
+68	28	28	NUM	NUM - - -	NUM - - -	67	вспом	_	_
+69	=	=	=	=	PUNC	81	предик	_	_
+70	Z	Z	NONLEX	NONLEX	NONLEX	69	аппоз	_	_
+71	–	–	–	–	PUNC	81	обст	_	_
+72	1900	1900	NUM	NUM - - -	NUM - - -	74	количест	_	_
+73	29	29	NUM	NUM - - -	NUM - - -	74	количест	_	_
+74	=	=	=	=	PUNC	81	предик	_	_
+75	J	J	NONLEX	NONLEX	NONLEX	74	аппоз	_	_
+76	+	+	+	+	PUNC	74	опред	_	_
+77	15000	15000	NUM	NUM - - -	NUM - - -	78	количест	_	_
+78	Z	Z	NONLEX	NONLEX	NONLEX	81	обст	_	_
+79	+	+	+	+	PUNC	80	опред	_	_
+80	i	I	NONLEX	NONLEX	NONLEX	81	предик	_	_
+81	Прочла	ПРОЧИТЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сочин	_	_
+82	еще	ЕЩЕ	ADV	ADV -	ADV -	83	огранич	_	_
+83	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	84	обст	_	_
+84	медленней	МЕДЛЕННО	ADV	ADV comp	ADV comp	81	2-компл	_	_
+85	,	,	,	,	PUNC	84	PUNC	_	_
+86	потом	ПОТОМ	ADV	ADV -	ADV -	87	огранич	_	_
+87	снова	СНОВА	ADV	ADV -	ADV -	84	разъяснит	_	_
+88	.	.	SENT	SENT	SENT	87	PUNC	_	_
+
+1	Ужасно	УЖАСНО	ADV	ADV -	ADV -	2	обст	_	_
+2	хотелось	ХОТЕТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	проявить	ПРОЯВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	2	2-компл	_	_
+4	остроту	ОСТРОТА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	ума	УМ	S	S m inan gen sg	S m inan gen sg	4	квазиагент	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

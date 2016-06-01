@@ -1,0 +1,76 @@
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	свистит	СВИСТЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	возмутился	ВОЗМУЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	предик	_	_
+2	Каков	КАКОВ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	а	А	CONJ	CONJ	CONJ	2	сочин	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Ну	НУ	PART	PART	PART	7	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	7	предик	_	_
+4	у	У	PR	PR	PR	7	обст	_	_
+5	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	4	предл	_	_
+6	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	7	обст	_	_
+7	досвистишься	ДОСВИСТЕТЬСЯ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Новгородцев	НОВГОРОДЕЦ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Пошлите	ПОСЫЛАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+2	в	В	PR	PR	PR	1	2-компл	_	_
+3	саперный	САПЕРНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	взвод	ВЗВОД	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+5	за	ЗА	PR	PR	PR	1	1-компл	_	_
+6	динамитом	ДИНАМИТ	S	S m inan ins sg	S m inan ins sg	5	предл	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	опред	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	динамит	ДИНАМИТ	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	понадобится	ПОНАДОБИТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	11	3-компл	_	_
+9	–	–	–	–	PUNC	11	1-компл	_	_
+10	тихо	ТИХО	ADV	ADV -	ADV -	11	обст	_	_
+11	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	вводн	_	_
+12	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	прислушиваясь	ПРИСЛУШИВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	11	обст	_	_
+16	к	К	PR	PR	PR	15	1-компл	_	_
+17	свисту	СВИСТ	S	S m inan dat sg	S m inan dat sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+3	снова	СНОВА	ADV	ADV -	ADV -	4	обст	_	_
+4	заикаетесь	ЗАИКАТЬСЯ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	8	обст	_	_
+7	–	–	–	–	PUNC	8	1-компл	_	_
+8	сообщила	СООБЩАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	вводн	_	_
+9	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	8	2-компл	_	_
+10	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Это	ЭТО	S	S n - nom sg	S n - nom sg	3	предик	_	_
+3	значит	ЗНАЧИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	6	предик	_	_
+6	позади	ПОЗАДИ	ADV	ADV -	ADV -	0	ROOT	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+

@@ -1,0 +1,72 @@
+1	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	пожал	ПОЖИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	плечами	ПЛЕЧО	S	S n inan ins pl	S n inan ins pl	3	1-компл	_	_
+5	:	:	:	:	PUNC	6	1-компл	_	_
+6	–	–	–	–	PUNC	8	опред	_	_
+7	Милая	МИЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	8	опред	_	_
+8	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	3	2-компл	_	_
+9	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	8	аппоз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	12	предик	_	_
+12	устал	УСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+13	слушать	СЛУШАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	1-компл	_	_
+14	нытье	НЫТЬЕ	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+15	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	14	аппоз	_	_
+16	-	-	-	-	PUNC	15	PUNC	_	_
+17	про	ПРО	PR	PR	PR	14	атриб	_	_
+18	«	«	_	_	PUNC	19	PUNC	_	_
+19	наше	НАШ	A	A - nom sg plen n -	A - nom sg plen n -	21	опред	_	_
+20	тяжелое	ТЯЖЕЛЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	21	опред	_	_
+21	время	ВРЕМЯ	S	S n inan nom sg	S n inan nom sg	17	предл	_	_
+22	»	»	_	_	PUNC	21	PUNC	_	_
+23	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Во	ВО	PR	PR	PR	21	обст	_	_
+2	времена	ВРЕМЯ	S	S n inan acc pl	S n inan acc pl	1	предл	_	_
+3	царя	ЦАРЬ	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+4	Николая	НИКОЛАЙ	S	S m anim gen sg	S m anim gen sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	когда	КОГДА	CONJ	CONJ	CONJ	2	1-компл	_	_
+7	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	8	длительн	_	_
+8	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	6	подч-союзн	_	_
+9	потяжелей	ПОТЯЖЕЛЕТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	8	присвяз	_	_
+10	нынешнего	НЫНЕШНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	ваши	ВАШ	A	A - nom pl plen - -	A - nom pl plen - -	15	опред	_	_
+13	«	«	_	_	PUNC	14	PUNC	_	_
+14	честные	ЧЕСТНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	опред	_	_
+15	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+16	»	»	_	_	PUNC	15	PUNC	_	_
+17	по	ПО	PR	PR	PR	15	атриб	_	_
+18	с	С	PR	PR	PR	17	предл	_	_
+19	-	-	-	-	PUNC	18	PUNC	_	_
+20	струнке	СТРУНКА	S	S f inan dat sg	S f inan dat sg	18	предл	_	_
+21	ходили	ХОДИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+22	да	ДА	CONJ	CONJ	CONJ	21	сочин	_	_
+23	неустанно	НЕУСТАННО	ADV	ADV -	ADV -	27	обст	_	_
+24	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	26	опред	_	_
+25	счастливую	СЧАСТЛИВЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	26	опред	_	_
+26	жизнь	ЖИЗНЬ	S	S f inan acc sg	S f inan acc sg	27	1-компл	_	_
+27	нахваливали	НАХВАЛИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	22	соч-союзн	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	3	обст	_	_
+2	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	подч-союзн	_	_
+3	можно	МОЖНО	ADV	ADV -	ADV -	0	ROOT	_	_
+4	сетовать	СЕТОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	предик	_	_
+5	на	НА	PR	PR	PR	4	2-компл	_	_
+6	тупость	ТУПОСТЬ	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	произвол	ПРОИЗВОЛ	S	S m inan acc sg	S m inan acc sg	7	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	значит	ЗНАЧИТ	ADV	ADV -	ADV -	17	вводн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	17	1-компл	_	_
+13	на	НА	PR	PR	PR	17	обст	_	_
+14	п	П	S	S m inan nonflex nonflex	S m inan nonflex nonflex	13	предл	_	_
+15	-	-	-	-	PUNC	14	PUNC	_	_
+16	поправку	ПОПРАВКА	S	S f inan acc sg	S f inan acc sg	17	1-компл	_	_
+17	пошло	ПОЙТИ	V	V pf praet sg indic n -	V pf praet sg indic n -	3	сент-соч	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

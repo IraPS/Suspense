@@ -1,0 +1,20 @@
+1	В	В	PR	PR	PR	4	обст	_	_
+2	знакомой	ЗНАКОМЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	3	опред	_	_
+3	комнате	КОМНАТА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+4	собрались	СОБИРАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	офицеры	ОФИЦЕР	S	S m anim nom pl	S m anim nom pl	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	сотрудники	СОТРУДНИК	S	S m anim nom pl	S m anim nom pl	5	сочин	_	_
+8	особой	ОСОБЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	9	опред	_	_
+9	части	ЧАСТЬ	S	S f inan gen sg	S f inan gen sg	7	1-компл	_	_
+10	Западного	ЗАПАДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	11	опред	_	_
+11	отряда	ОТРЯД	S	S m inan gen sg	S m inan gen sg	9	квазиагент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	однако	ОДНАКО	CONJ	CONJ	CONJ	4	сент-соч	_	_
+14	начальника	НАЧАЛЬНИК	S	S m anim gen sg	S m anim gen sg	18	предик	_	_
+15	среди	СРЕДИ	PR	PR	PR	18	обст	_	_
+16	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	15	предл	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	13	соч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

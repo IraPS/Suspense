@@ -1,0 +1,2 @@
+{"analysis":[{"lex":"рак","gr":"S,m,inan=acc,sg"},{"lex":"рак","gr":"S,m,inan=nom,sg"}],"text":"Рак"}
+{"analysis":[{"lex":"сдыхать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"сдох"}

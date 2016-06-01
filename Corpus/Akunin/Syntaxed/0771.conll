@@ -1,0 +1,79 @@
+1	Для	ДЛЯ	PR	PR	PR	7	обст	_	_
+2	парада	ПАРАД	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	в	В	PR	PR	PR	7	обст	_	_
+4	высочайшем	ВЫСОКИЙ	A	A supr loc sg plen m -	A supr loc sg plen m -	5	опред	_	_
+5	присутствии	ПРИСУТСТВИЕ	S	S n inan loc sg	S n inan loc sg	3	предл	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+7	надела	НАДЕВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	10	опред	_	_
+9	самое	САМЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	10	опред	_	_
+10	лучшее	ХОРОШИЙ	A	A supr nom sg plen n -	A supr nom sg plen n -	7	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	поэтому	ПОЭТОМУ	ADV	ADV -	ADV -	13	обст	_	_
+13	краснеть	КРАСНЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	2-компл	_	_
+14	перед	ПЕРЕД	PR	PR	PR	13	1-компл	_	_
+15	государем	ГОСУДАРЬ	S	S m anim ins sg	S m anim ins sg	14	предл	_	_
+16	за	ЗА	PR	PR	PR	13	2-компл	_	_
+17	свой	СВОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	18	опред	_	_
+18	наряд	НАРЯД	S	S m inan acc sg	S m inan acc sg	16	предл	_	_
+19	(	(	_	_	PUNC	20	PUNC	_	_
+20	да	ДА	PART	PART	PART	21	огранич	_	_
+21	еще	ЕЩЕ	ADV	ADV -	ADV -	22	огранич	_	_
+22	со	СО	PR	PR	PR	13	обст	_	_
+23	скидкой	СКИДКА	S	S f inan ins sg	S f inan ins sg	22	предл	_	_
+24	на	НА	PR	PR	PR	23	1-компл	_	_
+25	походные	ПОХОДНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	26	опред	_	_
+26	условия	УСЛОВИЕ	S	S n inan acc pl	S n inan acc pl	24	предл	_	_
+27	)	)	_	_	PUNC	26	PUNC	_	_
+28	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	30	1-компл	_	_
+29	не	НЕ	PART	PART	PART	30	огранич	_	_
+30	придется	ПРИХОДИТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	13	1-компл	_	_
+31	–	–	–	–	PUNC	33	опред	_	_
+32	вот	ВОТ	PART	PART	PART	33	огранич	_	_
+33	первое	ПЕРВЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	30	предик	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	что	ЧТО	CONJ	CONJ	CONJ	33	1-компл	_	_
+36	пришло	ПРИХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	35	подч-союзн	_	_
+37	в	В	PR	PR	PR	36	2-компл	_	_
+38	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	37	предл	_	_
+39	.	.	SENT	SENT	SENT	38	PUNC	_	_
+
+1	Бледно-лиловая	БЛЕДНО-ЛИЛОВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	шляпа	ШЛЯПА	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+3	с	С	PR	PR	PR	2	атриб	_	_
+4	муаровой	МУАРОВЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	5	опред	_	_
+5	лентой	ЛЕНТА	S	S f inan ins sg	S f inan ins sg	3	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	вуалью	ВУАЛЬ	S	S f inan ins sg	S f inan ins sg	6	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	фиолетовое	ФИОЛЕТОВЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	0	ROOT	_	_
+10	дорожное	ДОРОЖНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	11	опред	_	_
+11	платье	ПЛАТЬЕ	S	S n inan acc sg	S n inan acc sg	9	1-компл	_	_
+12	с	С	PR	PR	PR	11	атриб	_	_
+13	вышивкой	ВЫШИВКА	S	S f inan ins sg	S f inan ins sg	12	предл	_	_
+14	по	ПО	PR	PR	PR	9	обст	_	_
+15	корсету	КОРСЕТ	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+16	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+17	умеренным	УМЕРЕННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	18	опред	_	_
+18	шлейфом	ШЛЕЙФ	S	S m inan ins sg	S m inan ins sg	16	соч-союзн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	черные	ЧЕРНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	21	опред	_	_
+21	ботики	БОТИК	S	S m inan acc pl	S m inan acc pl	9	1-компл	_	_
+22	на	НА	PR	PR	PR	9	обст	_	_
+23	перламутровых	ПЕРЛАМУТРОВЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	24	опред	_	_
+24	пуговках	ПУГОВКА	S	S f inan loc pl	S f inan loc pl	22	предл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Скромно	СКРОМНО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	без	БЕЗ	PR	PR	PR	1	сочин	_	_
+4	аффектации	АФФЕКТАЦИЯ	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	1	сент-соч	_	_
+7	прилично	ПРИЛИЧНО	ADV	ADV -	ADV -	11	огранич	_	_
+8	–	–	–	–	PUNC	11	опред	_	_
+9	спасибо	СПАСИБО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	8	1-компл	_	_
+10	букарештским	БУКАРЕШТСКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	11	опред	_	_
+11	магазинам	МАГАЗИН	S	S m inan dat pl	S m inan dat pl	6	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

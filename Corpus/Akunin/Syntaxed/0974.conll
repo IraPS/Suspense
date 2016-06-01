@@ -1,0 +1,9 @@
+1	Из-за	ИЗ-ЗА	PR	PR	PR	4	обст	_	_
+2	мощной	МОЩНЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	3	опред	_	_
+3	двери	ДВЕРЬ	S	S f inan dat sg	S f inan dat sg	1	предл	_	_
+4	донесся	ДОНОСИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	приглушенный	ПРИГЛУШАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	6	опред	_	_
+6	шум	ШУМ	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+7	голосов	ГОЛОС	S	S m inan gen pl	S m inan gen pl	6	квазиагент	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

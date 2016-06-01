@@ -1,0 +1,46 @@
+1	Мои	МОЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	коллеги	КОЛЛЕГА	S	S - anim nom pl	S - anim nom pl	5	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	британские	БРИТАНСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	археологи	АРХЕОЛОГ	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	добрались	ДОБИРАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+9	до	ДО	PR	PR	PR	8	2-компл	_	_
+10	раскопок	РАСКОПКА	S	S f inan gen pl	S f inan gen pl	9	предл	_	_
+11	–	–	–	–	PUNC	14	1-компл	_	_
+12	на	НА	PR	PR	PR	14	обст	_	_
+13	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	12	предл	_	_
+14	напали	НАПАДЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	8	сент-соч	_	_
+15	всадники	ВСАДНИК	S	S m anim nom pl	S m anim nom pl	14	предик	_	_
+16	Рифат	РИФАТ	S	S m anim nom sg	S m anim nom sg	15	аппоз	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	бека	БЕК	S	S m anim acc sg	S m anim acc sg	15	об-аппоз	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	21	предик	_	_
+21	считает	СЧИТАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	14	сент-соч	_	_
+22	гяуров	ГЯУРОВ	S	S m anim gen pl	S m anim gen pl	21	1-компл	_	_
+23	детьми	РЕБЕНОК	S	S m anim ins pl	S m anim ins pl	0	ROOT	_	_
+24	Шайтана	ШАЙТАН	S	S m anim acc sg	S m anim acc sg	23	1-компл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+27	вырезали	ВЫРЕЗАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	26	соч-союзн	_	_
+28	всех	ВСЕ	S	S - - acc pl	S - - acc pl	27	1-компл	_	_
+29	до	ДО	PR	PR	PR	27	обст	_	_
+30	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	29	предл	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	сжег	СЖИГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	сапоги	САПОГ	S	S m inan nom pl	S m inan nom pl	3	2-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	предик	_	_
+7	сменил	СМЕНИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+8	каблук	КАБЛУК	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	заказал	ЗАКАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+11	серебряные	СЕРЕБРЯНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	12	опред	_	_
+12	подковки	ПОДКОВКА	S	S f inan acc pl	S f inan acc pl	10	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

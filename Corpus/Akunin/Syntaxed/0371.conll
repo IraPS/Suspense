@@ -1,0 +1,23 @@
+1	Лишь	ЛИШЬ	PART	PART	PART	2	огранич	_	_
+2	к	К	PR	PR	PR	4	2-компл	_	_
+3	ночи	НОЧЬ	S	S f inan gen sg	S f inan gen sg	2	предл	_	_
+4	удалось	УДАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	выбраться	ВЫБИРАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	4	предик	_	_
+6	в	В	PR	PR	PR	5	обст	_	_
+7	корреспондентский	КОРРЕСПОНДЕНТСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	8	опред	_	_
+8	шатер	ШАТЕР	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	где	ГДЕ	ADV	ADV -	ADV -	14	обст	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	как	КАК	ADV	ADV -	ADV -	14	обст	_	_
+13	уже	УЖЕ	ADV	ADV -	ADV -	14	огранич	_	_
+14	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	8	релят	_	_
+15	сказано	СКАЗАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	14	пасс-анал	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	атмосфера	АТМОСФЕРА	S	S f inan nom sg	S f inan nom sg	18	предик	_	_
+18	разительно	РАЗИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	4	изъясн	_	_
+19	отличалась	ОТЛИЧАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	предик	_	_
+20	от	ОТ	PR	PR	PR	19	1-компл	_	_
+21	вчерашней	ВЧЕРАШНИЙ	A	A - loc sg plen f -	A - loc sg plen f -	20	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"кажется","gr":"ADV,parenth="}],"text":"Кажется"}
+{"analysis":[{"lex":"проходить","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"прошло"}
+{"analysis":[{"lex":"пять","gr":"NUM=acc"},{"lex":"пять","gr":"NUM=nom"}],"text":"пять"}
+{"analysis":[{"lex":"минута","gr":"S,f,inan=gen,pl"}],"text":"минут"}
+{"text":"\\s"}
+{"analysis":[{"lex":"теперь","gr":"ADV="}],"text":"Теперь"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"спокойный","gr":"A=sg,brev,m"}],"text":"спокоен"}

@@ -1,0 +1,58 @@
+1	Найти	НАХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+2	Лукана	ЛУКАН	S	S m anim acc sg	S m anim acc sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сравн-союзн	_	_
+6	предсказывал	ПРЕДСКАЗЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+8	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	7	аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	оказалось	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	6	сент-соч	_	_
+11	нетрудно	НЕТРУДНО	ADV	ADV -	ADV -	10	присвяз	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Следуя	СЛЕДОВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	5	обст	_	_
+2	инструкциям	ИНСТРУКЦИЯ	S	S f inan dat pl	S f inan dat pl	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	предик	_	_
+5	остановилась	ОСТАНАВЛИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	в	В	PR	PR	PR	5	обст	_	_
+7	самой	САМЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	8	опред	_	_
+8	дорогой	ДОРОГОЙ	A	A - loc sg plen f -	A - loc sg plen f -	9	опред	_	_
+9	гостинице	ГОСТИНИЦА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+10	«	«	_	_	PUNC	11	PUNC	_	_
+11	Руайяль	РУАЙЯЛЬ	S	S f inan nom sg	S f inan nom sg	9	аппоз	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	,	,	,	,	PUNC	11	PUNC	_	_
+14	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	сочин	_	_
+15	про	ПРО	PR	PR	PR	14	обст	_	_
+16	полковника	ПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	15	предл	_	_
+17	у	У	PR	PR	PR	14	1-компл	_	_
+18	портье	ПОРТЬЕ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	17	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+21	выяснилось	ВЫЯСНЯТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	20	соч-союзн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	что	ЧТО	CONJ	CONJ	CONJ	21	предик	_	_
+24	son	SON	NONLEX	NONLEX	NONLEX	28	предик	_	_
+25	excellence	EXCELLENCE	NONLEX	NONLEX	NONLEX	24	аппоз	_	_
+26	здесь	ЗДЕСЬ	ADV	ADV -	ADV -	28	обст	_	_
+27	хорошо	ХОРОШО	ADV	ADV -	ADV -	28	огранич	_	_
+28	известен	ИЗВЕСТНЫЙ	A	A - - sg brev m -	A - - sg brev m -	23	подч-союзн	_	_
+29	–	–	–	–	PUNC	28	1-компл	_	_
+30	и	И	CONJ	CONJ	CONJ	29	сочин	_	_
+31	вчера	ВЧЕРА	ADV	ADV -	ADV -	30	соч-союзн	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	и	И	CONJ	CONJ	CONJ	31	сочин	_	_
+34	позавчера	ПОЗАВЧЕРА	ADV	ADV -	ADV -	33	соч-союзн	_	_
+35	кутил	КУТИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	вводн	_	_
+36	в	В	PR	PR	PR	35	обст	_	_
+37	ресторане	РЕСТОРАН	S	S m inan loc sg	S m inan loc sg	36	предл	_	_
+38	.	.	SENT	SENT	SENT	37	PUNC	_	_
+
+1	Наверняка	НАВЕРНЯКА	ADV	ADV -	ADV -	2	обст	_	_
+2	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	сегодня	СЕГОДНЯ	ADV	ADV -	ADV -	3	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

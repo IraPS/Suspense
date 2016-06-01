@@ -1,0 +1,69 @@
+1	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	тяжко	ТЯЖКО	ADV	ADV -	ADV -	3	обст	_	_
+3	вздохнул	ВЗДЫХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	1-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	–	–	–	–	PUNC	6	опред	_	_
+6	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	4	соч-союзн	_	_
+7	в	В	PR	PR	PR	3	2-компл	_	_
+8	омут	ОМУТ	S	S m inan acc sg	S m inan acc sg	7	предл	_	_
+9	:	:	:	:	PUNC	15	2-компл	_	_
+10	–	–	–	–	PUNC	15	1-компл	_	_
+11	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	15	предик	_	_
+12	давно	ДАВНО	ADV	ADV -	ADV -	15	обст	_	_
+13	на	НА	PR	PR	PR	15	обст	_	_
+14	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	13	предл	_	_
+15	заглядываюсь	ЗАГЛЯДЫВАТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	2	предик	_	_
+2	умная	УМНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	искренняя	ИСКРЕННИЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	смелая	СМЕЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	с	С	PR	PR	PR	6	сочин	_	_
+9	характером	ХАРАКТЕР	S	S m inan ins sg	S m inan ins sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Именно	ИМЕННО	PART	PART	PART	2	огранич	_	_
+2	такая	ТАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	спутница	СПУТНИЦА	S	S f anim nom sg	S f anim nom sg	5	предик	_	_
+4	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	5	2-компл	_	_
+5	нужна	НУЖНЫЙ	A	A - - sg brev f -	A - - sg brev f -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	С	С	PR	PR	PR	4	обст	_	_
+2	вами	ВЫ	SPRO	SPRO pl 2p - ins	SPRO pl 2p - ins	1	предл	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	бы	БЫ	PART	PART	PART	4	аналит	_	_
+6	еще	ЕЩЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	сильнее	СИЛЬНО	ADV	ADV comp	ADV comp	4	присвяз	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	8	обст	_	_
+3	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	5	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	пожалели	ПОЖАЛЕТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	подч-союзн	_	_
+6	бы	БЫ	PART	PART	PART	5	аналит	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	клянусь	КЛЯСТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	соч-союзн	_	_
+9	…	…	SENT	SENT	SENT	8	PUNC	_	_
+
+1	В	В	PR	PR	PR	0	ROOT	_	_
+2	общем	ОБЩИЙ	A	A - loc sg plen m -	A - loc sg plen m -	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	1	предик	_	_
+5	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	считайте	СЧИТАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	1	сент-соч	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+11	делаю	ДЕЛАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	9	подч-союзн	_	_
+12	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	13	неакт-компл	_	_
+13	официальное	ОФИЦИАЛЬНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	11	1-компл	_	_
+14	…	…	SENT	SENT	SENT	13	PUNC	_	_
+

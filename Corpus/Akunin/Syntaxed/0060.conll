@@ -1,0 +1,23 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	проследила	ПРОСЛЕЖИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	за	ЗА	PR	PR	PR	2	обст	_	_
+4	направлением	НАПРАВЛЕНИЕ	S	S n inan ins sg	S n inan ins sg	3	предл	_	_
+5	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	квазиагент	_	_
+6	взгляда	ВЗГЛЯД	S	S m inan gen sg	S m inan gen sg	4	квазиагент	_	_
+7	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+8	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+9	у	У	PR	PR	PR	8	обст	_	_
+10	коновязи	КОНОВЯЗЬ	S	S f inan gen sg	S f inan gen sg	9	предл	_	_
+11	целую	ЦЕЛЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	12	опред	_	_
+12	шеренгу	ШЕРЕНГА	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+13	лошадей	ЛОШАДЬ	S	S f anim acc pl	S f anim acc pl	8	сочин	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	ослов	ОСЕЛ	S	S m anim acc pl	S m anim acc pl	13	сочин	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	мулов	МУЛ	S	S m anim acc pl	S m anim acc pl	16	соч-союзн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	мирно	МИРНО	ADV	ADV -	ADV -	20	обст	_	_
+20	хрупавших	ХРУПАТЬ	PARTCP	PARTCP ipf praet loc pl plen - act -	PARTCP ipf praet loc pl plen - act -	17	опред	_	_
+21	сено	СЕНО	S	S n inan acc sg	S n inan acc sg	20	1-компл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

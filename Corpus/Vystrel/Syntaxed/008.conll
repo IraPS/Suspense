@@ -1,0 +1,192 @@
+1	Рассеянные	РАССЕЯННЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	2	опред	_	_
+2	жители	ЖИТЕЛЬ	S	S m anim nom pl	S m anim nom pl	5	предик	_	_
+3	столицы	СТОЛИЦА	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	имеют	ИМЕТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+6	понятия	ПОНЯТИЕ	S	S n inan gen sg	S n inan gen sg	5	1-компл	_	_
+7	о	О	PR	PR	PR	6	1-компл	_	_
+8	многих	МНОГИЙ	A	A - loc pl plen - -	A - loc pl plen - -	9	опред	_	_
+9	впечатлениях	ВПЕЧАТЛЕНИЕ	S	S n inan loc pl	S n inan loc pl	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	столь	СТОЛЬ	ADV	ADV -	ADV -	12	огранич	_	_
+12	известных	ИЗВЕСТНЫЙ	A	A - acc pl plen - anim	A - acc pl plen - anim	13	опред	_	_
+13	жителям	ЖИТЕЛЬ	S	S m anim dat pl	S m anim dat pl	5	2-компл	_	_
+14	деревень	ДЕРЕВНЯ	S	S f inan gen pl	S f inan gen pl	13	1-компл	_	_
+15	или	ИЛИ	CONJ	CONJ	CONJ	14	сочин	_	_
+16	городков	ГОРОДОК	S	S m inan gen pl	S m inan gen pl	15	соч-союзн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	например	НАПРИМЕР	ADV	ADV -	ADV -	19	огранич	_	_
+19	об	ОБ	PR	PR	PR	5	1-компл	_	_
+20	ожидании	ОЖИДАНИЕ	S	S n inan loc sg	S n inan loc sg	19	предл	_	_
+21	почтового	ПОЧТОВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	22	опред	_	_
+22	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	20	1-компл	_	_
+23	:	:	:	:	PUNC	5	2-компл	_	_
+24	во	ВО	PR	PR	PR	5	обст	_	_
+25	вторник	ВТОРНИК	S	S m inan acc sg	S m inan acc sg	24	предл	_	_
+26	и	И	CONJ	CONJ	CONJ	25	сочин	_	_
+27	пятницу	ПЯТНИЦА	S	S f inan acc sg	S f inan acc sg	26	соч-союзн	_	_
+28	полковая	ПОЛКОВОЙ	A	A - nom sg plen f -	A - nom sg plen f -	30	опред	_	_
+29	наша	НАШ	A	A - nom sg plen f -	A - nom sg plen f -	30	опред	_	_
+30	канцелярия	КАНЦЕЛЯРИЯ	S	S f inan nom sg	S f inan nom sg	31	предик	_	_
+31	бывала	БЫВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	5	сент-соч	_	_
+32	полна	ПОЛНЫЙ	A	A - - sg brev f -	A - - sg brev f -	31	1-компл	_	_
+33	офицерами	ОФИЦЕР	S	S m anim ins pl	S m anim ins pl	36	агент	_	_
+34	:	:	:	:	PUNC	36	обст	_	_
+35	кто	КТО	S	S m - nom sg	S m - nom sg	36	1-компл	_	_
+36	ждал	ЖДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	31	сент-соч	_	_
+37	денег	ДЕНЬГИ	S	S - inan gen pl	S - inan gen pl	36	1-компл	_	_
+38	,	,	,	,	PUNC	37	PUNC	_	_
+39	кто	КТО	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+40	письма	ПИСЬМО	S	S n inan gen sg	S n inan gen sg	39	1-компл	_	_
+41	,	,	,	,	PUNC	40	PUNC	_	_
+42	кто	КТО	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+43	газет	ГАЗЕТА	S	S f inan gen pl	S f inan gen pl	42	1-компл	_	_
+44	.	.	SENT	SENT	SENT	43	PUNC	_	_
+
+1	Пакеты	ПАКЕТ	S	S m inan acc pl	S m inan acc pl	5	1-компл	_	_
+2	обыкновенно	ОБЫКНОВЕННО	ADV	ADV -	ADV -	3	огранич	_	_
+3	тут	ТУТ	ADV	ADV -	ADV -	5	обст	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	распечатывались	РАСПЕЧАТЫВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	новости	НОВОСТЬ	S	S f inan nom pl	S f inan nom pl	8	предик	_	_
+8	сообщались	СООБЩАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	5	сент-соч	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+11	канцелярия	КАНЦЕЛЯРИЯ	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+12	представляла	ПРЕДСТАВЛЯТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	10	соч-союзн	_	_
+13	картину	КАРТИНА	S	S f inan acc sg	S f inan acc sg	12	1-компл	_	_
+14	самую	САМЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	15	опред	_	_
+15	оживленную	ОЖИВЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	13	опред	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	2	предик	_	_
+2	получал	ПОЛУЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	письма	ПИСЬМО	S	S n inan acc pl	S n inan acc pl	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	адресованные	АДРЕСОВАТЬ	PARTCP	PARTCP ipf praet acc pl plen - pass inan	PARTCP ipf praet acc pl plen - pass inan	3	опред	_	_
+6	в	В	PR	PR	PR	5	2-компл	_	_
+7	наш	НАШ	A	A - acc sg plen m inan	A - acc sg plen m inan	8	опред	_	_
+8	полк	ПОЛК	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+11	обыкновенно	ОБЫКНОВЕННО	ADV	ADV -	ADV -	14	обст	_	_
+12	тут	ТУТ	ADV	ADV -	ADV -	14	обст	_	_
+13	же	ЖЕ	PART	PART	PART	12	огранич	_	_
+14	находился	НАХОДИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	соч-союзн	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Однажды	ОДНАЖДЫ	ADV	ADV -	ADV -	2	обст	_	_
+2	подали	ПОДАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	2	2-компл	_	_
+4	пакет	ПАКЕТ	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	с	С	PR	PR	PR	9	обст	_	_
+7	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	предл	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	9	предик	_	_
+9	сорвал	СОРВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сент-соч	_	_
+10	печать	ПЕЧАТЬ	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+11	с	С	PR	PR	PR	9	обст	_	_
+12	видом	ВИД	S	S m inan ins sg	S m inan ins sg	11	предл	_	_
+13	величайшего	ВЕЛИКИЙ	A	A supr gen sg plen n -	A supr gen sg plen n -	14	опред	_	_
+14	нетерпения	НЕТЕРПЕНИЕ	S	S n inan gen sg	S n inan gen sg	12	квазиагент	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Пробегая	ПРОБЕГАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	6	обст	_	_
+2	письмо	ПИСЬМО	S	S n inan nom sg	S n inan nom sg	1	присвяз	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	глаза	ГЛАЗ	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+5	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	квазиагент	_	_
+6	сверкали	СВЕРКАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Офицеры	ОФИЦЕР	S	S m anim nom pl	S m anim nom pl	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	каждый	КАЖДЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	предик	_	_
+4	занятый	ЗАНИМАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	10	обст	_	_
+5	своими	СВОЙ	A	A - ins pl plen - -	A - ins pl plen - -	6	опред	_	_
+6	письмами	ПИСЬМО	S	S n inan ins pl	S n inan ins pl	4	агент	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	10	1-компл	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	заметили	ЗАМЕЧАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	релят	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Господа	ГОСПОДИН	S	S m anim nom pl	S m anim nom pl	5	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	—	—	—	—	PUNC	5	1-компл	_	_
+5	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	им	ОНИ	SPRO	SPRO pl - - dat	SPRO pl - - dat	5	2-компл	_	_
+7	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	5	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	—	—	—	—	PUNC	10	опред	_	_
+10	обстоятельства	ОБСТОЯТЕЛЬСТВО	S	S n inan nom pl	S n inan nom pl	11	предик	_	_
+11	требуют	ТРЕБОВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	5	сент-соч	_	_
+12	немедленного	НЕМЕДЛЕННЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	14	опред	_	_
+13	моего	МОЙ	A	A - gen sg plen n -	A - gen sg plen n -	14	опред	_	_
+14	отсутствия	ОТСУТСТВИЕ	S	S n inan gen sg	S n inan gen sg	11	1-компл	_	_
+15	;	;	SENT	SENT	SENT	14	PUNC	_	_
+
+1	еду	ЕДА	S	S f inan acc sg	S f inan acc sg	0	ROOT	_	_
+2	сегодня	СЕГОДНЯ	ADV	ADV -	ADV -	1	обст	_	_
+3	в	В	PR	PR	PR	1	3-компл	_	_
+4	ночь	НОЧЬ	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	;	;	SENT	SENT	SENT	4	PUNC	_	_
+
+1	надеюсь	НАДЕЯТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	6	предик	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	откажетесь	ОТКАЗЫВАТЬСЯ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	3	подч-союзн	_	_
+7	отобедать	ОТОБЕДАТЬ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+8	у	У	PR	PR	PR	7	2-компл	_	_
+9	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	8	предл	_	_
+10	в	В	PR	PR	PR	7	3-компл	_	_
+11	последний	ПОСЛЕДНИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	12	опред	_	_
+12	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	жду	ЖДАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	3	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	—	—	—	—	PUNC	7	1-компл	_	_
+7	продолжал	ПРОДОЛЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	1-компл	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	обратившись	ОБРАЩАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	7	обст	_	_
+11	ко	КО	PR	PR	PR	10	1-компл	_	_
+12	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	—	—	—	—	PUNC	10	2-компл	_	_
+15	жду	ЖДАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	2	сочин	_	_
+16	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	15	обст	_	_
+17	»	»	_	_	PUNC	16	PUNC	_	_
+18	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	С	С	PR	PR	PR	0	ROOT	_	_
+2	сим	СЕЙ	A	A - dat pl plen - -	A - dat pl plen - -	6	2-компл	_	_
+3	словом	СЛОВО	S	S n inan ins sg	S n inan ins sg	6	обст	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	6	предик	_	_
+5	поспешно	ПОСПЕШНО	ADV	ADV -	ADV -	6	обст	_	_
+6	вышел	ВЫХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	предл	_	_
+7	;	;	SENT	SENT	SENT	6	PUNC	_	_
+
+1	а	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	9	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	согласясь	СОГЛАСИТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	оп-опред	_	_
+5	соединиться	СОЕДИНЯТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	4	1-компл	_	_
+6	у	У	PR	PR	PR	5	1-компл	_	_
+7	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	разошлись	РАСХОДИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	соч-союзн	_	_
+10	каждый	КАЖДЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	0	ROOT	_	_
+11	в	В	PR	PR	PR	10	1-компл	_	_
+12	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+13	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

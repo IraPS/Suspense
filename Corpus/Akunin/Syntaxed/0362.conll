@@ -1,0 +1,48 @@
+1	–	–	–	–	PUNC	10	предик	_	_
+2	Так	ТАК	ADV	ADV -	ADV -	4	обст	_	_
+3	уж	УЖ	PART	PART	PART	4	огранич	_	_
+4	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	10	обст	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	повелось	ПОВЕСТИСЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	4	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	10	обст	_	_
+9	–	–	–	–	PUNC	10	1-компл	_	_
+10	уклонился	УКЛОНЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+11	от	ОТ	PR	PR	PR	10	1-компл	_	_
+12	ответа	ОТВЕТ	S	S m inan gen sg	S m inan gen sg	11	предл	_	_
+13	скрытный	СКРЫТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	10	2-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Эхе	ЭХО	S	S n inan loc sg	S n inan loc sg	0	ROOT	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	хе	ХЕ	NONLEX	NONLEX	NONLEX	2	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	2	опред	_	_
+7	–	–	–	–	PUNC	9	1-компл	_	_
+8	шумно	ШУМНО	ADV	ADV -	ADV -	9	обст	_	_
+9	вздохнул	ВЗДЫХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	релят	_	_
+10	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Криденер	КРИДЕНЕР	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	поди	ПОДИ	INTJ	INTJ	INTJ	1	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	к	К	PR	PR	PR	8	1-компл	_	_
+7	Плевне	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	подходит	ПОДХОДИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	сент-соч	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	а	А	CONJ	CONJ	CONJ	8	сент-соч	_	_
+11	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	13	предик	_	_
+12	все	ВСЕ	S	S - - acc pl	S - - acc pl	13	1-компл	_	_
+13	сижу	СИДЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	10	соч-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	как	КАК	CONJ	CONJ	CONJ	13	1-компл	_	_
+16	фоска	ФОСКА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+17	в	В	PR	PR	PR	16	атриб	_	_
+18	сносе	СНОС	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

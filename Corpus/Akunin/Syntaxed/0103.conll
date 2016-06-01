@@ -1,0 +1,73 @@
+1	По	ПО	PR	PR	PR	4	вводн	_	_
+2	лугу	ЛУГ	S	S m inan loc2 sg	S m inan loc2 sg	1	предл	_	_
+3	галопом	ГАЛОП	S	S m inan ins sg	S m inan ins sg	4	обст	_	_
+4	неслись	НЕСТИСЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	всаднику	ВСАДНИК	S	S m anim dat sg	S m anim dat sg	4	2-компл	_	_
+6	;	;	SENT	SENT	SENT	5	PUNC	_	_
+
+1	впереди	ВПЕРЕДИ	ADV	ADV -	ADV -	9	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	на	НА	PR	PR	PR	1	сочин	_	_
+4	мощном	МОЩНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	5	опред	_	_
+5	вороном	ВОРОН	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+6	жеребце	ЖЕРЕБЕЦ	S	S m anim loc sg	S m anim loc sg	5	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	по-жокейски	ПО-ЖОКЕЙСКИ	ADV	ADV -	ADV -	9	обст	_	_
+9	оттопырив	ОТТОПЫРИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	12	обст	_	_
+10	локти	ЛОКОТЬ	S	S m inan acc pl	S m inan acc pl	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	скакал	СКАКАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	а	А	CONJ	CONJ	CONJ	12	сочин	_	_
+15	точнее	ТОЧНО	ADV	ADV comp	ADV comp	17	вводн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	летел	ЛЕТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	14	соч-союзн	_	_
+18	по	ПО	PR	PR	PR	17	обст	_	_
+19	воздуху	ВОЗДУХ	S	S m inan dat sg	S m inan dat sg	18	предл	_	_
+20	некто	НЕКТО	S	S m - nom sg	S m - nom sg	17	1-компл	_	_
+21	в	В	PR	PR	PR	20	атриб	_	_
+22	широкополой	ШИРОКОПОЛЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	24	опред	_	_
+23	американской	АМЕРИКАНСКИЙ	A	A - loc sg plen f -	A - loc sg plen f -	24	опред	_	_
+24	шляпе	ШЛЯПА	S	S f inan loc sg	S f inan loc sg	21	предл	_	_
+25	;	;	SENT	SENT	SENT	24	PUNC	_	_
+
+1	следом	СЛЕДОМ	ADV	ADV -	ADV -	2	обст	_	_
+2	догонял	ДОГОНЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	иноходью	ИНОХОДЬ	S	S f inan ins sg	S f inan ins sg	2	1-компл	_	_
+4	белый	БЕЛЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	5	опред	_	_
+5	мундир	МУНДИР	S	S m inan acc sg	S m inan acc sg	2	обст	_	_
+6	с	С	PR	PR	PR	2	1-компл	_	_
+7	золотыми	ЗОЛОТОЙ	A	A - ins pl plen - -	A - ins pl plen - -	8	опред	_	_
+8	плечами	ПЛЕЧО	S	S n inan ins pl	S n inan ins pl	6	предл	_	_
+9	;	;	SENT	SENT	SENT	8	PUNC	_	_
+
+1	потом	ПОТОМ	ADV	ADV -	ADV -	4	обст	_	_
+2	дружной	ДРУЖНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	3	опред	_	_
+3	стаей	СТАЯ	S	S f inan ins sg	S f inan ins sg	4	обст	_	_
+4	поспешал	ПОСПЕШАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	обст	_	_
+6	рысях	РЫСЬ	S	S f anim loc pl	S f anim loc pl	5	предл	_	_
+7	десяток	ДЕСЯТОК	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+8	кубанских	КУБАНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	казаков	КАЗАК	S	S m anim gen pl	S m anim gen pl	7	квазиагент	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+12	позади	ПОЗАДИ	PR	PR	PR	16	обст	_	_
+13	всех	ВСЕ	S	S - - gen pl	S - - gen pl	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	порядочно	ПОРЯДОЧНО	ADV	ADV -	ADV -	16	обст	_	_
+16	отстав	ОТСТАВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	18	обст	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	подпрыгивал	ПОДПРЫГИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	соч-союзн	_	_
+19	в	В	PR	PR	PR	18	1-компл	_	_
+20	седле	СЕДЛО	S	S n inan loc sg	S n inan loc sg	19	предл	_	_
+21	какой-то	КАКОЙ-ТО	A	A - nom sg plen m -	A - nom sg plen m -	23	опред	_	_
+22	несусветный	НЕСУСВЕТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	23	опред	_	_
+23	господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	18	предик	_	_
+24	в	В	PR	PR	PR	23	атриб	_	_
+25	котелке	КОТЕЛОК	S	S m inan loc sg	S m inan loc sg	24	предл	_	_
+26	и	И	CONJ	CONJ	CONJ	25	сочин	_	_
+27	длинном	ДЛИННЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	28	опред	_	_
+28	рединготе	РЕДИНГОТ	S	S m inan loc sg	S m inan loc sg	26	соч-союзн	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"Что"}
+{"analysis":[{"lex":"ж","gr":"PART="}],"text":"ж"}
+{"analysis":[{"lex":"скажем","gr":"ADV,parenth="}],"text":"скажем"}
+{"analysis":[{"lex":"мы","gr":"SPRO,pl,1p=nom"}],"text":"мы"}
+{"analysis":[{"lex":"туда","gr":"ADVPRO="}],"text":"туда"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=dat"},{"lex":"она","gr":"SPRO,sg,3p,f=ins"}],"text":"ей"}
+{"analysis":[{"lex":"турция","gr":"S,geo,f,inan=abl,sg"},{"lex":"турция","gr":"S,geo,f,inan=acc,pl"},{"lex":"турция","gr":"S,geo,f,inan=dat,sg"},{"lex":"турция","gr":"S,geo,f,inan=gen,sg"},{"lex":"турция","gr":"S,geo,f,inan=nom,pl"}],"text":"Турции"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"дорога","gr":"S,f,inan=nom,sg"}],"text":"дорога"}

@@ -1,0 +1,84 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	тут	ТУТ	ADV	ADV -	ADV -	5	обст	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	хотя	ХОТЯ	CONJ	CONJ	CONJ	19	обст	_	_
+6	никто	НИКТО	S	S m - nom sg	S m - nom sg	8	1-компл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	требовал	ТРЕБОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	подч-союзн	_	_
+9	от	ОТ	PR	PR	PR	8	2-компл	_	_
+10	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	9	предл	_	_
+11	в	В	PR	PR	PR	8	обст	_	_
+12	одиночестве	ОДИНОЧЕСТВО	S	S n inan loc sg	S n inan loc sg	11	предл	_	_
+13	у	У	PR	PR	PR	12	1-компл	_	_
+14	лампы	ЛАМПА	S	S f inan gen sg	S f inan gen sg	13	предл	_	_
+15	ипекакуанки	ИПЕКАКУАНКА	S	S f inan gen sg	S f inan gen sg	14	квазиагент	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	19	предик	_	_
+18	малодушно	МАЛОДУШНО	ADV	ADV -	ADV -	19	обст	_	_
+19	перелистал	ПЕРЕЛИСТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+20	рецептурный	РЕЦЕПТУРНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	21	опред	_	_
+21	справочник	СПРАВОЧНИК	S	S m inan acc sg	S m inan acc sg	19	1-компл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	проверил	ПРОВЕРЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	19	сочин	_	_
+24	ипекакуанку	ИПЕКАКУАНКА	S	S f inan acc sg	S f inan acc sg	23	1-компл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	а	А	CONJ	CONJ	CONJ	23	сочин	_	_
+27	попутно	ПОПУТНО	ADV	ADV -	ADV -	28	обст	_	_
+28	прочитал	ПРОЧИТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	26	соч-союзн	_	_
+29	машинально	МАШИНАЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	28	присвяз	_	_
+30	ио	ИО	CONJ	CONJ	CONJ	28	обст	_	_
+31	том	ТО	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	что	ЧТО	CONJ	CONJ	CONJ	31	эксплет	_	_
+34	существует	СУЩЕСТВОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	33	подч-союзн	_	_
+35	на	НА	PR	PR	PR	34	обст	_	_
+36	свете	СВЕТ	S	S m inan loc sg	S m inan loc sg	35	предл	_	_
+37	какой-то	КАКОЙ-ТО	A	A - nom sg plen m -	A - nom sg plen m -	39	опред	_	_
+38	"	"	_	_	PUNC	39	PUNC	_	_
+39	инсипин	ИНСИПИН	S	S m inan nom sg	S m inan nom sg	36	аппоз	_	_
+40	"	"	_	_	PUNC	39	PUNC	_	_
+41	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	44	предик	_	_
+42	не	НЕ	PART	PART	PART	43	огранич	_	_
+43	кто	КТО	S	S m - nom sg	S m - nom sg	44	опред	_	_
+44	иной	ИНОЙ	A	A - nom sg plen m -	A - nom sg plen m -	31	опред	_	_
+45	,	,	,	,	PUNC	44	PUNC	_	_
+46	как	КАК	CONJ	CONJ	CONJ	44	сравнит	_	_
+47	"	"	_	_	PUNC	48	PUNC	_	_
+48	сульфат	СУЛЬФАТ	S	S m inan nom sg	S m inan nom sg	46	сравн-союзн	_	_
+49	эфира	ЭФИР	S	S m inan gen sg	S m inan gen sg	48	квазиагент	_	_
+50	хининдигликолевой	ХИНИНДИГЛИКОЛЕВЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	51	опред	_	_
+51	кислоты	КИСЛОТА	S	S f inan gen sg	S f inan gen sg	49	1-компл	_	_
+52	"	"	_	_	PUNC	51	PUNC	_	_
+53	...	...	SENT	SENT	SENT	51	PUNC	_	_
+
+1	Оказывается	ОКАЗЫВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	вкуса	ВКУС	S	S m inan gen sg	S m inan gen sg	6	предик	_	_
+4	хинина	ХИНИН	S	S m inan gen sg	S m inan gen sg	3	квазиагент	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	имеет	ИМЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	зачем	ЗАЧЕМ	ADV	ADV -	ADV -	3	обст	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	1	соч-союзн	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	как	КАК	ADV	ADV -	ADV -	4	обст	_	_
+3	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	4	1-компл	_	_
+4	выписать	ВЫПИСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	соч-союзн	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	что	ЧТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	порошок	ПОРОШОК	S	S m inan acc sg	S m inan acc sg	2	вводн	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Черт	ЧЕРТ	S	S m inan gen sg	S m inan gen sg	3	предик	_	_
+2	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	3	1-компл	_	_
+3	возьми	ВЗЯТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	0	ROOT	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+

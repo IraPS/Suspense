@@ -1,0 +1,19 @@
+1	Прощай	ПРОЩАЙ	INTJ	INTJ	INTJ	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	прощай	ПРОЩАЙ	INTJ	INTJ	INTJ	4	вводн	_	_
+4	надолго	НАДОЛГО	ADV	ADV -	ADV -	6	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	золото	ЗОЛОТО	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	красный	КРАСНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	опред	_	_
+9	Большой	БОЛЬШОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	опред	_	_
+10	театр	ТЕАТР	S	S m inan acc sg	S m inan acc sg	6	разъяснит	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	Москва	МОСКВА	S	S f inan nom sg	S f inan nom sg	10	аппоз	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	витрины...	ВИТРИНА...	S	S m inan gen sg	S m inan gen sg	15	1-компл	_	_
+15	ах	АХ	INTJ	INTJ	INTJ	10	релят	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	прощай	ПРОЩАЙ	INTJ	INTJ	INTJ	6	вводн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

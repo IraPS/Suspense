@@ -1,0 +1,89 @@
+1	—	—	—	—	PUNC	3	предик	_	_
+2	Вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	3	дат-субъект	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	странно	СТРАННО	ADV	ADV -	ADV -	7	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	—	—	—	—	PUNC	7	1-компл	_	_
+7	продолжал	ПРОДОЛЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	присвяз	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	—	—	—	—	PUNC	7	1-компл	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	10	1-компл	_	_
+12	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	14	предик	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	требовал	ТРЕБОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	подч-союзн	_	_
+15	удовлетворения	УДОВЛЕТВОРЕНИЕ	S	S n inan gen sg	S n inan gen sg	14	1-компл	_	_
+16	от	ОТ	PR	PR	PR	15	1-компл	_	_
+17	этого	ЭТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	19	опред	_	_
+18	пьяного	ПЬЯНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	19	опред	_	_
+19	сумасброда	СУМАСБРОД	S	S m inan gen sg	S m inan gen sg	16	предл	_	_
+20	Р	Р	S	S - - nonflex nonflex	S - - nonflex nonflex	23	опред	_	_
+21	*	*	*	*	PUNC	23	опред	_	_
+22	*	*	*	*	PUNC	23	опред	_	_
+23	*	*	*	*	PUNC	14	2-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	2	предик	_	_
+2	согласитесь	СОГЛАШАТЬСЯ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	имея	ИМЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	13	обст	_	_
+7	право	ПРАВО	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+8	выбрать	ВЫБИРАТЬ	V	V pf - - inf - -	V pf - - inf - -	7	1-компл	_	_
+9	оружие	ОРУЖИЕ	S	S n inan acc sg	S n inan acc sg	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	жизнь	ЖИЗНЬ	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+12	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	11	квазиагент	_	_
+13	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	подч-союзн	_	_
+14	в	В	PR	PR	PR	13	присвяз	_	_
+15	моих	МОЙ	A	A - loc pl plen - -	A - loc pl plen - -	16	опред	_	_
+16	руках	РУКА	S	S f inan loc pl	S f inan loc pl	14	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	а	А	CONJ	CONJ	CONJ	13	сент-соч	_	_
+19	моя	МОЙ	A	A - nom sg plen f -	A - nom sg plen f -	21	предик	_	_
+20	почти	ПОЧТИ	ADV	ADV -	ADV -	21	огранич	_	_
+21	безопасна	БЕЗОПАСНЫЙ	A	A - - sg brev f -	A - - sg brev f -	18	соч-союзн	_	_
+22	:	:	:	:	PUNC	24	обст	_	_
+23	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	24	предик	_	_
+24	мог	МОЧЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	21	1-компл	_	_
+25	бы	БЫ	PART	PART	PART	24	аналит	_	_
+26	приписать	ПРИПИСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	24	1-компл	_	_
+27	умеренность	УМЕРЕННОСТЬ	S	S f inan acc sg	S f inan acc sg	26	1-компл	_	_
+28	мою	МОЙ	A	A - acc sg plen f -	A - acc sg plen f -	27	опред	_	_
+29	одному	ОДИН	A	A - dat sg plen m -	A - dat sg plen m -	30	количест	_	_
+30	великодушию	ВЕЛИКОДУШИЕ	S	S n inan dat sg	S n inan dat sg	28	1-компл	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	но	НО	CONJ	CONJ	CONJ	2	сочин	_	_
+33	не	НЕ	PART	PART	PART	34	огранич	_	_
+34	хочу	ХОТЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	32	соч-союзн	_	_
+35	лгать	ЛГАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	34	1-компл	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	24	обст	_	_
+2	б	Б	PART	PART	PART	4	огранич	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	мог	МОЧЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	подч-союзн	_	_
+5	наказать	НАКАЗЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	1-компл	_	_
+6	Р	Р	S	S - - nonflex nonflex	S - - nonflex nonflex	9	опред	_	_
+7	*	*	*	*	PUNC	9	опред	_	_
+8	*	*	*	*	PUNC	9	опред	_	_
+9	*	*	*	*	PUNC	5	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	подвергая	ПОДВЕРГАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	5	обст	_	_
+13	вовсе	ВОВСЕ	ADV	ADV -	ADV -	14	огранич	_	_
+14	моей	МОЙ	A	A - gen sg plen f -	A - gen sg plen f -	15	опред	_	_
+15	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	12	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	то	ТО	CONJ	CONJ	CONJ	1	соотнос	_	_
+18	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	24	предик	_	_
+19	б	Б	PART	PART	PART	24	аналит	_	_
+20	ни	НИ	PART	PART	PART	21	огранич	_	_
+21	за	ЗА	PR	PR	PR	24	обст	_	_
+22	что	ЧТО	S	S n - acc sg	S n - acc sg	21	предл	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	простил	ПРОЩАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+25	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	24	1-компл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

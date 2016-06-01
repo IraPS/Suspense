@@ -1,0 +1,75 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	схватилась	СХВАТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	за	ЗА	PR	PR	PR	2	обст	_	_
+4	сердце	СЕРДЦЕ	S	S n inan loc sg	S n inan loc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+7	в	В	PR	PR	PR	6	соч-союзн	_	_
+8	следующую	СЛЕДУЮЩИЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	секунду	СЕКУНДА	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+10	секретарь	СЕКРЕТАРЬ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+11	произнес	ПРОИЗНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сент-соч	_	_
+12	те	ТОТ	A	A - nom pl plen - -	A - nom pl plen - -	14	опред	_	_
+13	самые	САМЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	14	опред	_	_
+14	слова	СЛОВО	S	S n inan nom pl	S n inan nom pl	11	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	которые	КОТОРЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	20	1-компл	_	_
+17	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	19	предик	_	_
+18	так	ТАК	ADV	ADV -	ADV -	19	обст	_	_
+19	боялась	БОЯТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	14	релят	_	_
+20	услышать	УСЛЫШАТЬ	V	V pf - - inf - -	V pf - - inf - -	19	1-компл	_	_
+21	:	:	:	:	PUNC	0	ROOT	_	_
+22	–	–	–	–	PUNC	28	1-компл	_	_
+23	Так	ТАК	ADV	ADV -	ADV -	28	обст	_	_
+24	ведь	ВЕДЬ	PART	PART	PART	28	огранич	_	_
+25	это	ЭТО	S	S n - nom sg	S n - nom sg	28	1-компл	_	_
+26	шифровальщик	ШИФРОВАЛЬЩИК	S	S m anim nom sg	S m anim nom sg	28	предик	_	_
+27	Яблоков	ЯБЛОКОВ	S	S m anim nom sg	S m anim nom sg	26	аппоз	_	_
+28	повесился	ПОВЕСИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	примыкат	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+31	самый	САМЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	30	опред	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	Оставил	ОСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	записку	ЗАПИСКА	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	имеющую	ИМЕТЬ	PARTCP	PARTCP ipf inpraes acc sg plen f act -	PARTCP ipf inpraes acc sg plen f act -	1	2-компл	_	_
+5	прямое	ПРЯМОЙ	A	A - nom sg plen n -	A - nom sg plen n -	6	опред	_	_
+6	касательство	КАСАТЕЛЬСТВО	S	S n inan nom sg	S n inan nom sg	1	предик	_	_
+7	…	…	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	0	ROOT	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	1	предик	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сент-соч	_	_
+4	осмелился	ОСМЕЛИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	соч-союзн	_	_
+5	…	…	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	ко	КО	PR	PR	PR	7	обст	_	_
+5	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	прошу	ПРОСИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	2	подч-союзн	_	_
+8	извинить	ИЗВИНЯТЬ	V	V pf - - inf - -	V pf - - inf - -	7	1-компл	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	удаляюсь	УДАЛЯТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	9	соч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Чиновник	ЧИНОВНИК	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	обиженно	ОБИЖЕННО	ADV	ADV -	ADV -	4	обст	_	_
+4	шмыгнул	ШМЫГНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	носом	НОС	S	S m inan ins sg	S m inan ins sg	4	2-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	сделал	СДЕЛАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+8	вид	ВИД	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+11	хочет	ХОТЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	подч-союзн	_	_
+12	исчезнуть	ИСЧЕЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+13	за	ЗА	PR	PR	PR	12	1-компл	_	_
+14	дверью	ДВЕРЬ	S	S f inan ins sg	S f inan ins sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

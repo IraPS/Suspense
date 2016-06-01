@@ -1,0 +1,138 @@
+1	Ивана	ИВАН	S	S m anim acc sg	S m anim acc sg	3	1-компл	_	_
+2	Африкановича	АФРИКАНОВИЧ	S	S m inan gen sg	S m inan gen sg	1	1-компл	_	_
+3	видели	ВИДЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	рано	РАНО	ADV	ADV -	ADV -	5	огранич	_	_
+5	утром	УТРО	S	S n inan ins sg	S n inan ins sg	3	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как	КАК	CONJ	CONJ	CONJ	5	эксплет	_	_
+8	бежал	БЕЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сравн-союзн	_	_
+9	откуда-то	ОТКУДА-ТО	ADV	ADV -	ADV -	8	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	как	КАК	CONJ	CONJ	CONJ	3	сравнит	_	_
+12	зашел	ЗАЙТИ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	сравн-союзн	_	_
+13	в	В	PR	PR	PR	12	2-компл	_	_
+14	дом	ДОМ	S	S m inan acc sg	S m inan acc sg	13	предл	_	_
+15	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+16	будто	БУДТО	PART	PART	PART	18	огранич	_	_
+17	бы	БЫ	PART	PART	PART	16	вспом	_	_
+18	закидался	ЗАКИДАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+19	по	ПО	PR	PR	PR	18	обст	_	_
+20	избе	ИЗБА	S	S f inan loc sg	S f inan loc sg	19	предл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	потому что	потому что	CONJ	CONJ	ZERO	18	сент-соч	_	_
+23	еще	ЕЩЕ	ADV	ADV -	ADV -	24	огранич	_	_
+24	вчера	ВЧЕРА	ADV	ADV -	ADV -	36	обст	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	пока	ПОКА	CONJ	CONJ	CONJ	24	эксплет	_	_
+27	ездил	ЕЗДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	26	подч-союзн	_	_
+28	в	В	PR	PR	PR	27	обст	_	_
+29	сельпо	СЕЛЬПО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	28	предл	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	жену	ЖЕНА	S	S f anim acc sg	S f anim acc sg	27	1-компл	_	_
+32	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	36	квазиагент	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	Катерину	КАТЕРИНА	S	S f anim acc sg	S f anim acc sg	32	об-аппоз	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	увезли	УВЕЗТИ	V	V pf praet pl indic - -	V pf praet pl indic - -	22	соч-союзн	_	_
+37	в	В	PR	PR	PR	36	2-компл	_	_
+38	больницу	БОЛЬНИЦА	S	S f inan acc sg	S f inan acc sg	37	предл	_	_
+39	родить	РОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	36	1-компл	_	_
+40	,	,	,	,	PUNC	39	PUNC	_	_
+41	жены	ЖЕНА	S	S f anim gen sg	S f anim gen sg	43	предик	_	_
+42	не	НЕ	PART	PART	PART	43	огранич	_	_
+43	оказалось	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	36	изъясн	_	_
+44	,	,	,	,	PUNC	43	PUNC	_	_
+45	и	И	CONJ	CONJ	CONJ	43	сочин	_	_
+46	будто	БУДТО	PART	PART	PART	49	огранич	_	_
+47	бы	БЫ	PART	PART	PART	49	аналит	_	_
+48	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	49	предик	_	_
+49	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	45	соч-союзн	_	_
+50	теще	ТЕЩА	S	S f anim loc sg	S f anim loc sg	49	1-компл	_	_
+51	,	,	,	,	PUNC	50	PUNC	_	_
+52	старухе	СТАРУХА	S	S f anim dat sg	S f anim dat sg	49	2-компл	_	_
+53	Евстолье	ЕВСТОЛЬЯ	S	S f anim loc sg	S f anim loc sg	49	1-компл	_	_
+54	,	,	,	,	PUNC	53	PUNC	_	_
+55	что	ЧТО	CONJ	CONJ	CONJ	49	1-компл	_	_
+56	,	,	,	,	PUNC	55	PUNC	_	_
+57	мол	МОЛ	PART	PART	PART	65	вводн	_	_
+58	,	,	,	,	PUNC	57	PUNC	_	_
+59	все равно	все равно	ADV	ADV -	-	65	обст	_	_
+60	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	65	предик	_	_
+61	,	,	,	,	PUNC	60	PUNC	_	_
+62	Иван	ИВАН	S	S m anim nom sg	S m anim nom sg	60	об-аппоз	_	_
+63	Африканович	АФРИКАНОВИЧ	S	S m anim nom sg	S m anim nom sg	62	аппоз	_	_
+64	,	,	,	,	PUNC	63	PUNC	_	_
+65	задавится	ЗАДАВИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	55	подч-союзн	_	_
+66	,	,	,	,	PUNC	65	PUNC	_	_
+67	что	ЧТО	CONJ	CONJ	CONJ	65	предик	_	_
+68	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	71	предик	_	_
+69	без	БЕЗ	PR	PR	PR	71	колич-огран	_	_
+70	Катерины	КАТЕРИНА	S	S f anim gen sg	S f anim gen sg	69	предл	_	_
+71	хуже	ПЛОХОЙ	A	A comp - - plen - -	A comp - - plen - -	67	подч-союзн	_	_
+72	всякой	ВСЯКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	73	опред	_	_
+73	сироты	СИРОТА	S	S - anim gen sg	S - anim gen sg	71	сравнит	_	_
+74	.	.	SENT	SENT	SENT	73	PUNC	_	_
+
+1	Теща	ТЕЩА	S	S m inan nom sg	S m inan nom sg	57	предик	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	Евстолья	ЕВСТОЛЬЯ	S	S f anim nom sg	S f anim nom sg	1	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	по	ПО	PR	PR	PR	9	обст	_	_
+6	словам	СЛОВО	S	S n inan dat pl	S n inan dat pl	5	предл	_	_
+7	баб	БАБА	S	S f anim gen pl	S f anim gen pl	6	квазиагент	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	разъяснит	_	_
+10	Ивану	ИВАН	S	S m anim dat sg	S m anim dat sg	9	2-компл	_	_
+11	Африкановичу	АФРИКАНОВИЧ	S	S m anim dat sg	S m anim dat sg	10	аппоз	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	что	ЧТО	CONJ	CONJ	CONJ	9	1-компл	_	_
+14	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	16	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	хватит	ХВАТИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	13	подч-союзн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	намаялась	НАМАЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	сочин	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	что	ЧТО	CONJ	CONJ	CONJ	18	1-компл	_	_
+21	уедет	УЕЗЖАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	20	подч-союзн	_	_
+22	к	К	PR	PR	PR	21	1-компл	_	_
+23	сыну	СЫН	S	S m anim dat sg	S m anim dat sg	22	предл	_	_
+24	Митьке	МИТЬКА	S	S m anim dat sg	S m anim dat sg	23	аппоз	_	_
+25	в	В	PR	PR	PR	21	2-компл	_	_
+26	Северодвинск	СЕВЕРОДВИНСК	S	S m inan acc sg	S m inan acc sg	25	предл	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	мол	МОЛ	PART	PART	PART	30	вводн	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	нажилась	НАЖИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	18	сочин	_	_
+31	вдоволь	ВДОВОЛЬ	ADV	ADV -	ADV -	30	обст	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	покачала	ПОКАЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	30	сочин	_	_
+34	люльку	ЛЮЛЬКА	S	S f inan acc sg	S f inan acc sg	33	1-компл	_	_
+35	по	ПО	PR	PR	PR	33	обст	_	_
+36	ночам	НОЧЬ	S	S f inan dat pl	S f inan dat pl	35	предл	_	_
+37	,	,	,	,	PUNC	36	PUNC	_	_
+38	что	ЧТО	CONJ	CONJ	CONJ	33	1-компл	_	_
+39	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	47	2-компл	_	_
+40	бы	БЫ	PART	PART	PART	47	аналит	_	_
+41	,	,	,	,	PUNC	40	PUNC	_	_
+42	мол	МОЛ	PART	PART	PART	47	вводн	_	_
+43	,	,	,	,	PUNC	42	PUNC	_	_
+44	с	С	PR	PR	PR	47	2-компл	_	_
+45	Катериной	КАТЕРИНА	S	S f anim ins sg	S f anim ins sg	44	предл	_	_
+46	только	ТОЛЬКО	PART	PART	PART	47	огранич	_	_
+47	обниматься	ОБНИМАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	38	подч-союзн	_	_
+48	и	И	CONJ	CONJ	CONJ	38	сент-соч	_	_
+49	что	ЧТО	CONJ	CONJ	CONJ	48	соч-союзн	_	_
+50	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	52	предик	_	_
+51	,	,	,	,	PUNC	50	PUNC	_	_
+52	Евстолья	ЕВСТОЛЬЯ	S	S f anim nom sg	S f anim nom sg	49	подч-союзн	_	_
+53	,	,	,	,	PUNC	52	PUNC	_	_
+54	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	57	1-компл	_	_
+55	больше	МНОГО	ADV	ADV comp	ADV comp	57	обст	_	_
+56	не	НЕ	PART	PART	PART	57	огранич	_	_
+57	останется	ОСТАВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+58	и	И	CONJ	CONJ	CONJ	57	сочин	_	_
+59	уедет	УЕЗЖАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	58	соч-союзн	_	_
+60	к	К	PR	PR	PR	59	2-компл	_	_
+61	Митьке	МИТЬКА	S	S m anim dat sg	S m anim dat sg	60	предл	_	_
+62	.	.	SENT	SENT	SENT	61	PUNC	_	_
+

@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"останавливаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"остановился"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"стал"}
+{"analysis":[{"lex":"набивать","gr":"V,tran=inf,ipf"}],"text":"набивать"}
+{"analysis":[{"lex":"выгорать","gr":"V,intr=praet,acc,sg,partcp,plen,f,pf,act"}],"text":"выгоревшую"}
+{"analysis":[{"lex":"свой","gr":"APRO=acc,sg,f"}],"text":"свою"}
+{"analysis":[{"lex":"трубка","gr":"S,f,inan=acc,sg"}],"text":"трубку"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"молчать","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"молчал"}
+{"analysis":[{"lex":"потупя","qual":"bastard","gr":"ADV="}],"text":"потупя"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=acc,pl"},{"lex":"глаз","gr":"S,m,inan=gen,sg"},{"lex":"глаз","gr":"S,m,inan=nom,pl"}],"text":"глаза"}

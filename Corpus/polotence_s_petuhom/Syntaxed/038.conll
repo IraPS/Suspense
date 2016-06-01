@@ -1,0 +1,13 @@
+1	Голос	ГОЛОС	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	неглуп	НЕГЛУПЫЙ	A	A - - sg brev m -	A - - sg brev m -	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	правда	ПРАВДА	ADV	ADV -	ADV -	2	сент-соч	_	_
+7	ли	ЛИ	PART	PART	PART	6	огранич	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	вздрогнул	ВЗДРАГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

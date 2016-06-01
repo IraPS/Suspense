@@ -1,0 +1,35 @@
+1	—	—	—	—	PUNC	6	опред	_	_
+2	Ну	НУ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	ну	НУ	PART	PART	PART	6	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	девки	ДЕВКА	S	S f anim gen sg	S f anim gen sg	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	девки	ДЕВКА	S	S f anim nom pl	S f anim nom pl	6	вводн	_	_
+9	!	!	SENT	SENT	SENT	8	PUNC	_	_
+
+1	—	—	—	—	PUNC	3	1-компл	_	_
+2	строго	СТРОГО	ADV	ADV -	ADV -	3	обст	_	_
+3	кричит	КРИЧАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	степенный	СТЕПЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	подавальщик	ПОДАВАЛЬЩИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	облачаясь	ОБЛАЧАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	3	обст	_	_
+8	в	В	PR	PR	PR	7	1-компл	_	_
+9	широкую	ШИРОКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+10	холщовую	ХОЛЩОВЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+11	рубаху	РУБАХА	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Девки	ДЕВКА	S	S f anim nom pl	S f anim nom pl	3	предик	_	_
+2	торопливо	ТОРОПЛИВО	ADV	ADV -	ADV -	3	обст	_	_
+3	разметают	РАЗМЕТАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	ток	ТОК	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	бегают	БЕГАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	3	примыкат	_	_
+7	с	С	PR	PR	PR	6	1-компл	_	_
+8	носилками	НОСИЛКИ	S	S - inan ins pl	S - inan ins pl	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	метлами	МЕТЛА	S	S m inan gen sg	S m inan gen sg	6	2-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

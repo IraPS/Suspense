@@ -1,0 +1,17 @@
+1	"	"	_	_	PUNC	2	PUNC	_	_
+2	Соду	СОДА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+3	можно	МОЖНО	ADV	ADV -	ADV -	0	ROOT	_	_
+4	выписать	ВЫПИСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	предик	_	_
+5	!	!	!	!	PUNC	4	2-компл	_	_
+6	"	"	SENT	SENT	SENT	5	PUNC	_	_
+
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	явно	ЯВНО	ADV	ADV -	ADV -	3	обст	_	_
+3	издеваясь	ИЗДЕВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	5	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	отозвался	ОТЗЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	мой	МОЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+7	внутренний	ВНУТРЕННИЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	собеседник	СОБЕСЕДНИК	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

@@ -1,0 +1,67 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	4	предик	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	слушала	СЛУШАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	пораженная	ПОРАЖАТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	4	сочин	_	_
+7	сообщением	СООБЩЕНИЕ	S	S n inan ins sg	S n inan ins sg	6	агент	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Фандорину	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	только	ТОЛЬКО	PART	PART	PART	3	огранич	_	_
+3	двадцать	ДВАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	4	длительн	_	_
+4	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Двадцать	ДВАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	2	количест	_	_
+2	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+3	!?	!?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Невероятно	НЕВЕРОЯТНО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	То-то	ТО-ТО	PART	PART	PART	2	огранич	_	_
+2	Казанзаки	КАЗАНЗАК	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+3	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	2	1-компл	_	_
+4	«	«	_	_	PUNC	3	PUNC	_	_
+5	вундеркиндом	ВУНДЕРКИНД	S	S m anim ins sg	S m anim ins sg	2	аппоз	_	_
+6	»	»	_	_	PUNC	5	PUNC	_	_
+7	обозвал	ОБЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	То есть	То есть	ADV	ADV -	-	10	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	10	предик	_	_
+4	у	У	PR	PR	PR	3	атриб	_	_
+5	титулярного	ТИТУЛЯРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	конечно	КОНЕЧНО	ADV	ADV -	ADV -	10	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	мальчишеское	МАЛЬЧИШЕСКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	но	НО	CONJ	CONJ	CONJ	10	сент-соч	_	_
+13	манера	МАНЕРА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+14	держаться	ДЕРЖАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	13	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	но	НО	CONJ	CONJ	CONJ	13	сочин	_	_
+17	взгляд	ВЗГЛЯД	S	S m inan nom sg	S m inan nom sg	16	соч-союзн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	но	НО	CONJ	CONJ	CONJ	13	сочин	_	_
+20	седые	СЕДОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	21	опред	_	_
+21	виски	ВИСОК	S	S m inan acc pl	S m inan acc pl	19	соч-союзн	_	_
+22	!	!	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Отчего	ОТЧЕГО	ADV	ADV -	ADV -	9	обст	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+5	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	9	1-компл	_	_
+8	этак	ЭТАК	ADV	ADV -	ADV -	9	обст	_	_
+9	приморозило	ПРИМОРАЖИВАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+10	-	-	-	-	PUNC	9	PUNC	_	_
+11	то	ТО	NONLEX	NONLEX	NONLEX	9	предик	_	_
+12	?	?	SENT	SENT	SENT	11	PUNC	_	_
+

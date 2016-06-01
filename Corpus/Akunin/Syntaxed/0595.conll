@@ -1,0 +1,121 @@
+1	Вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	долина	ДОЛИНА	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+3	перед	ПЕРЕД	PR	PR	PR	2	атриб	_	_
+4	грядой	ГРЯДА	S	S f inan ins sg	S f inan ins sg	3	предл	_	_
+5	невысоких	НЕВЫСОКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	холмов	ХОЛМ	S	S m inan gen pl	S m inan gen pl	4	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	за	ЗА	PR	PR	PR	10	обст	_	_
+9	которыми	КОТОРЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	8	предл	_	_
+10	начинались	НАЧИНАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+11	подступы	ПОДСТУП	S	S m inan nom pl	S m inan nom pl	10	присвяз	_	_
+12	к	К	PR	PR	PR	11	атриб	_	_
+13	Плевне	ПЛЕВНА	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	10	сент-соч	_	_
+16	испещрена	ИСПЕЩРЯТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	15	пасс-анал	_	_
+17	странными	СТРАННЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	18	опред	_	_
+18	островками	ОСТРОВОК	S	S m inan ins pl	S m inan ins pl	16	агент	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	6	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	разбившись	РАЗБИВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	6	обст	_	_
+4	поротно	ПОРОТНО	ADV	ADV -	ADV -	3	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	лежала	ЛЕЖАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+7	на	НА	PR	PR	PR	6	1-компл	_	_
+8	траве	ТРАВА	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+9	пехота	ПЕХОТА	S	S f inan nom sg	S f inan nom sg	8	аппоз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	дожидаясь	ДОЖИДАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	0	ROOT	_	_
+12	приказа	ПРИКАЗ	S	S m inan gen sg	S m inan gen sg	11	1-компл	_	_
+13	об	ОБ	PR	PR	PR	11	2-компл	_	_
+14	атаке	АТАКА	S	S f inan loc sg	S f inan loc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Солдаты	СОЛДАТ	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+2	вполголоса	ВПОЛГОЛОСА	ADV	ADV -	ADV -	3	обст	_	_
+3	переговаривались	ПЕРЕГОВАРИВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	8	1-компл	_	_
+6	от	ОТ	PR	PR	PR	5	атриб	_	_
+7	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	6	предл	_	_
+8	то	ТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+9	отсюда	ОТСЮДА	ADV	ADV -	ADV -	0	ROOT	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	то	ТО	CONJ	CONJ	CONJ	9	огранич	_	_
+12	оттуда	ОТТУДА	ADV	ADV -	ADV -	13	обст	_	_
+13	доносился	ДОНОСИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	соч-союзн	_	_
+14	неестественно	НЕЕСТЕСТВЕННО	ADV	ADV -	ADV -	15	огранич	_	_
+15	громкий	ГРОМКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	16	опред	_	_
+16	хохот	ХОХОТ	S	S m inan nom sg	S m inan nom sg	13	предик	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Офицеры	ОФИЦЕР	S	S m anim nom pl	S m anim nom pl	9	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	собравшись	СОБИРАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	9	обст	_	_
+4	группками	ГРУППКА	S	S f inan ins pl	S f inan ins pl	3	1-компл	_	_
+5	по	ПО	PR	PR	PR	4	атриб	_	_
+6	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	7	количест	_	_
+7	человек	ЧЕЛОВЕК	S	S m anim gen pl	S m anim gen pl	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	дымили	ДЫМИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+10	папиросами	ПАПИРОСА	S	S f inan ins pl	S f inan ins pl	9	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	На	НА	PR	PR	PR	7	обст	_	_
+2	Варю	ВАРИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	ехавшую	ЕХАТЬ	PARTCP	PARTCP ipf praet acc sg plen f act -	PARTCP ipf praet acc sg plen f act -	5	опред	_	_
+5	амазонкой	АМАЗОНКА	S	S f anim ins sg	S f anim ins sg	2	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	смотрели	СМОТРЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+8	удивленно	УДИВЛЕННО	ADV	ADV -	ADV -	7	обст	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	недоверчиво	НЕДОВЕРЧИВО	ADV	ADV -	ADV -	9	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	словно	СЛОВНО	CONJ	CONJ	CONJ	7	сравнит	_	_
+13	на	НА	PR	PR	PR	15	обст	_	_
+14	существо	СУЩЕСТВО	S	S n inan acc sg	S n inan acc sg	13	предл	_	_
+15	из	ИЗ	PR	PR	PR	12	сравн-союзн	_	_
+16	иного	ИНОЙ	A	A - gen sg plen m -	A - gen sg plen m -	19	опред	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	ненастоящего	НЕНАСТОЯЩИЙ	A	A - gen sg plen m -	A - gen sg plen m -	16	сочин	_	_
+19	мира	МИР	S	S m inan gen sg	S m inan gen sg	15	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	От	ОТ	PR	PR	PR	10	дат-субъект	_	_
+2	вида	ВИД	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	этой	ЭТОТ	A	A - gen sg plen f -	A - gen sg plen f -	4	опред	_	_
+4	шевелящейся	ШЕВЕЛИТЬСЯ	PARTCP	PARTCP ipf inpraes loc sg plen f act -	PARTCP ipf inpraes loc sg plen f act -	1	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	жужжащей	ЖУЖЖАТЬ	PARTCP	PARTCP ipf inpraes loc sg plen f act -	PARTCP ipf inpraes loc sg plen f act -	7	опред	_	_
+7	долины	ДОЛИНА	S	S f inan gen sg	S f inan gen sg	4	разъяснит	_	_
+8	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	по	ПО	PR	PR	PR	8	присвяз	_	_
+11	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	отчетливо	ОТЧЕТЛИВО	ADV	ADV -	ADV -	3	обст	_	_
+3	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как	КАК	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	над	НАД	PR	PR	PR	9	обст	_	_
+7	пыльной	ПЫЛЬНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	8	опред	_	_
+8	травой	ТРАВА	S	S f inan ins sg	S f inan ins sg	6	предл	_	_
+9	кружит	КРУЖИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	подч-союзн	_	_
+10	ангел	АНГЕЛ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	смерти	СМЕРТЬ	S	S f inan gen sg	S f inan gen sg	10	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	вглядываясь	ВГЛЯДЫВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	обст	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	помечая	ПОМЕЧАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	14	соч-союзн	_	_
+16	лица	ЛИЦО	S	S n inan gen sg	S n inan gen sg	15	1-компл	_	_
+17	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	19	опред	_	_
+18	незримой	НЕЗРИМЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	19	опред	_	_
+19	печатью	ПЕЧАТЬ	S	S f inan ins sg	S f inan ins sg	15	2-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

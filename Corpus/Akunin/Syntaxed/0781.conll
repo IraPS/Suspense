@@ -1,0 +1,18 @@
+1	Дверь	ДВЕРЬ	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	распахнулась	РАСПАХИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	на	НА	PR	PR	PR	7	обст	_	_
+6	крыльцо	КРЫЛЬЦО	S	S n inan acc sg	S n inan acc sg	5	предл	_	_
+7	вышел	ВЫХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+8	раскрасневшийся	РАСКРАСНЕТЬСЯ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	9	опред	_	_
+9	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	глаза	ГЛАЗ	S	S m inan gen sg	S m inan gen sg	13	1-компл	_	_
+12	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	13	квазиагент	_	_
+13	горели	ГОРЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	7	изъясн	_	_
+14	каким-то	КАКОЙ-ТО	A	A - ins sg plen m -	A - ins sg plen m -	16	опред	_	_
+15	особенным	ОСОБЕННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	16	опред	_	_
+16	блеском	БЛЕСК	S	S m inan ins sg	S m inan ins sg	13	2-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

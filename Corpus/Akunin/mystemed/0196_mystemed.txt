@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"шеф","gr":"S,m,anim=nom,sg"}],"text":"Шеф"}
+{"analysis":[{"lex":"жандарм","gr":"S,m,anim=acc,pl"},{"lex":"жандарм","gr":"S,m,anim=gen,pl"}],"text":"жандармов"}
+{"analysis":[{"lex":"извлекать","gr":"V=praet,sg,indic,m,pf"}],"text":"извлек"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"бювар","gr":"S,m,inan=gen,sg"}],"text":"бювара"}
+{"analysis":[{"lex":"лист","gr":"S,m,inan=acc,pl"},{"lex":"лист","gr":"S,m,inan=nom,pl"}],"text":"листы"}
+{"analysis":[{"lex":"мелко","gr":"ADV="}],"text":"мелко"}
+{"analysis":[{"lex":"исписывать","gr":"V,tran=praet,acc,pl,partcp,plen,pf,pass,inan"},{"lex":"исписывать","gr":"V,tran=praet,nom,pl,partcp,plen,pf,pass"}],"text":"исписанные"}
+{"analysis":[{"lex":"ровный","gr":"A=dat,pl,plen"},{"lex":"ровный","gr":"A=ins,sg,plen,m"},{"lex":"ровный","gr":"A=ins,sg,plen,n"}],"text":"ровным"}
+{"analysis":[{"lex":"писарский","gr":"A=dat,pl,plen"},{"lex":"писарский","gr":"A=ins,sg,plen,m"},{"lex":"писарский","gr":"A=ins,sg,plen,n"}],"text":"писарским"}
+{"analysis":[{"lex":"почерк","gr":"S,m,inan=ins,sg"}],"text":"почерком"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"приступать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"приступил"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"чтение","gr":"S,n,inan=dat,sg"}],"text":"чтению"}

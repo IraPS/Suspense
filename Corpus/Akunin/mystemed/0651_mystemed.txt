@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"скоро","gr":"ADV=comp"}],"text":"Скорее"}
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"д"}
+{"analysis":[{"lex":"диверсия","gr":"S,f,inan=nom,sg"}],"text":"диверсия"}
+{"text":"\\s"}
+{"analysis":[{"lex":"впрочем","gr":"CONJ,parenth="}],"text":"Впрочем"}
+{"analysis":[{"lex":"утро","gr":"S,n,inan=ins,sg"}],"text":"утром"}
+{"analysis":[{"lex":"узнавать","gr":"V,tran=pl,imper,1p,pf"},{"lex":"узнавать","gr":"V,tran=inpraes,pl,indic,1p,ipf"},{"lex":"узнавать","gr":"V,tran=inpraes,pl,indic,1p,pf"}],"text":"узнаем"}

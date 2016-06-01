@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"полковник","gr":"S,m,anim=nom,sg"}],"text":"Полковник"}
+{"analysis":[{"lex":"отламывать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"отломил"}
+{"analysis":[{"lex":"изрядный","gr":"A=acc,sg,plen,m,inan"},{"lex":"изрядный","gr":"A=nom,sg,plen,m"}],"text":"изрядный"}
+{"analysis":[{"lex":"кусок","gr":"S,m,inan=acc,sg"},{"lex":"кусок","gr":"S,m,inan=nom,sg"}],"text":"кусок"}
+{"analysis":[{"lex":"рокфор","gr":"S,m,inan=gen,sg"}],"text":"рокфора"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"а"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=gen,sg"},{"lex":"варя","gr":"S,persn,f,anim=nom,pl"}],"text":"Вари"}
+{"analysis":[{"lex":"вконец","gr":"ADV="}],"text":"вконец"}
+{"analysis":[{"lex":"испортиться","gr":"V,pf,intr=praet,sg,indic,n"}],"text":"испортилось"}
+{"analysis":[{"lex":"настроение","gr":"S,n,inan=acc,sg"},{"lex":"настроение","gr":"S,n,inan=nom,sg"}],"text":"настроение"}
+{"text":"\\s"}
+{"analysis":[{"lex":"черный","gr":"A=acc,pl,plen,inan"},{"lex":"черный","gr":"A=nom,pl,plen"}],"text":"Черные"}
+{"analysis":[{"lex":"предсказание","gr":"S,n,inan=acc,pl"},{"lex":"предсказание","gr":"S,n,inan=gen,sg"},{"lex":"предсказание","gr":"S,n,inan=nom,pl"}],"text":"предсказания"}
+{"analysis":[{"lex":"лукан","gr":"S,persn,m,anim=acc,sg"},{"lex":"лукан","gr":"S,persn,m,anim=gen,sg"}],"text":"Лукана"}
+{"analysis":[{"lex":"оказываться","gr":"V,intr=praet,pl,indic,pf"}],"text":"оказались"}
+{"analysis":[{"lex":"верный","gr":"A=pl,brev"}],"text":"верны"}

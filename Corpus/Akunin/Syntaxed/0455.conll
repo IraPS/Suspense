@@ -1,0 +1,51 @@
+1	Полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+2	вообще	ВООБЩЕ	ADV	ADV -	ADV -	6	обст	_	_
+3	в	В	PR	PR	PR	6	обст	_	_
+4	последнее	ПОСЛЕДНИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	5	опред	_	_
+5	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	3	предл	_	_
+6	вел	ВЕСТИ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	6	1-компл	_	_
+8	загадочно	ЗАГАДОЧНО	ADV	ADV -	ADV -	6	обст	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+2	по-прежнему	ПО-ПРЕЖНЕМУ	ADV	ADV -	ADV -	3	огранич	_	_
+3	ночи	НОЧЬ	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+4	напролет	НАПРОЛЕТ	ADV	ADV -	ADV -	5	обст	_	_
+5	просиживал	ПРОСИЖИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	за	ЗА	PR	PR	PR	5	обст	_	_
+7	картами	КАРТА	S	S f inan ins pl	S f inan ins pl	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	но	НО	CONJ	CONJ	CONJ	5	сент-соч	_	_
+10	если	ЕСЛИ	CONJ	CONJ	CONJ	27	обст	_	_
+11	в	В	PR	PR	PR	18	огранич	_	_
+12	первые	ПЕРВЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	13	опред	_	_
+13	дни	ДЕНЬ	S	S m inan acc pl	S m inan acc pl	11	предл	_	_
+14	злополучного	ЗЛОПОЛУЧНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	15	опред	_	_
+15	знакомства	ЗНАКОМСТВО	S	S n inan gen sg	S n inan gen sg	13	квазиагент	_	_
+16	с	С	PR	PR	PR	15	2-компл	_	_
+17	Зуровым	ЗУРОВ	S	S m anim gen sg	S m anim gen sg	16	предл	_	_
+18	вид	ВИД	S	S m inan acc sg	S m inan acc sg	19	1-компл	_	_
+19	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	подч-союзн	_	_
+20	затравленный	ЗАТРАВЛИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	19	1-компл	_	_
+21	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+22	несчастный	НЕСЧАСТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	21	соч-союзн	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	то	ТО	CONJ	CONJ	CONJ	10	соотнос	_	_
+25	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	27	обст	_	_
+26	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	27	огранич	_	_
+27	оправился	ОПРАВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+28	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	хотя	ХОТЯ	CONJ	CONJ	CONJ	0	ROOT	_	_
+31	продолжал	ПРОДОЛЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	30	подч-союзн	_	_
+32	спускать	СПУСКАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	31	1-компл	_	_
+33	немалые	НЕМАЛЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	34	опред	_	_
+34	суммы	СУММА	S	S f inan acc pl	S f inan acc pl	32	1-компл	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	ничуть	НИЧУТЬ	ADV	ADV -	ADV -	38	обст	_	_
+37	не	НЕ	PART	PART	PART	38	огранич	_	_
+38	падал	ПАДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	34	релят	_	_
+39	духом	ДУХ	S	S m inan ins sg	S m inan ins sg	38	1-компл	_	_
+40	.	.	SENT	SENT	SENT	39	PUNC	_	_
+

@@ -1,0 +1,42 @@
+1	Канцлер	КАНЦЛЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	прищурился	ПРИЩУРИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	:	:	:	:	PUNC	4	опред	_	_
+4	–	–	–	–	PUNC	2	1-компл	_	_
+5	А то	А то	CONJ	CONJ	ZERO	2	сент-соч	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	11	вводн	_	_
+8	интересная	ИНТЕРЕСНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	предик	_	_
+9	может	МОЧЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	подч-союзн	_	_
+10	получиться	ПОЛУЧАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+11	комбинация	КОМБИНАЦИЯ	S	S f inan nom sg	S f inan nom sg	5	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	14	опред	_	_
+14	величество	ВЕЛИЧЕСТВО	S	S n inan nom sg	S n inan nom sg	11	сочин	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	0	ROOT	_	_
+3	это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+4	правда	ПРАВДА	ADV	ADV -	ADV -	3	огранич	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	то	ТО	CONJ	CONJ	CONJ	2	сравнит	_	_
+7	на	НА	PR	PR	PR	11	обст	_	_
+8	сей	СЕЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	9	опред	_	_
+9	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	7	предл	_	_
+10	англичане	АНГЛИЧАНИН	S	S m anim nom pl	S m anim nom pl	11	предик	_	_
+11	зарвались	ЗАРВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	переусердствовали	ПЕРЕУСЕРДСТВОВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	11	сочин	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Хорошо	ХОРОШО	ADV	ADV -	ADV -	2	обст	_	_
+2	отработать	ОТРАБАТЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+3	–	–	–	–	PUNC	9	1-компл	_	_
+4	так	ТАК	ADV	ADV -	ADV -	5	огранич	_	_
+5	еще	ЕЩЕ	ADV	ADV -	ADV -	9	огранич	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	в	В	PR	PR	PR	6	соч-союзн	_	_
+8	выигрыше	ВЫИГРЫШ	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+9	окажемся	ОКАЗЫВАТЬСЯ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	2	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

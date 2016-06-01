@@ -1,0 +1,66 @@
+1	Явилась	ЯВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+2	депутация	ДЕПУТАЦИЯ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	от	ОТ	PR	PR	PR	2	атриб	_	_
+4	местного	МЕСТНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	купечества	КУПЕЧЕСТВО	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	духовенства	ДУХОВЕНСТВО	S	S n inan gen sg	S n inan gen sg	6	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	умоляла	УМОЛЯТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	сент-соч	_	_
+10	дома	ДОМА	ADV	ADV -	ADV -	12	обст	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	грабить	ГРАБИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	9	1-компл	_	_
+13	и	И	CONJ	CONJ	CONJ	9	сент-соч	_	_
+14	мечети	МЕЧЕТЬ	S	S f inan nom pl	S f inan nom pl	16	предик	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	разорять	РАЗОРЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	соч-союзн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	а	А	CONJ	CONJ	CONJ	16	сочин	_	_
+19	лучше	ХОРОШО	ADV	ADV comp	ADV comp	20	обст	_	_
+20	назначить	НАЗНАЧАТЬ	V	V pf - - inf - -	V pf - - inf - -	18	соч-союзн	_	_
+21	контрибуцию	КОНТРИБУЦИЯ	S	S f inan acc sg	S f inan acc sg	20	1-компл	_	_
+22	–	–	–	–	PUNC	23	опред	_	_
+23	тысяч	ТЫСЯЧА	S	S f inan gen pl	S f inan gen pl	21	квазиагент	_	_
+24	этак	ЭТАК	ADV	ADV -	ADV -	25	огранич	_	_
+25	в	В	PR	PR	PR	20	2-компл	_	_
+26	пятьдесят	ПЯТЬДЕСЯТ	NUM	NUM acc - -	NUM acc - -	25	предл	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	больше	МНОГО	ADV	ADV comp	ADV comp	20	1-компл	_	_
+29	бедным	БЕДНЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	30	опред	_	_
+30	горожанам	ГОРОЖАНИН	S	S m anim dat pl	S m anim dat pl	32	1-компл	_	_
+31	не	НЕ	PART	PART	PART	32	огранич	_	_
+32	собрать	СОБИРАТЬ	V	V pf - - inf - -	V pf - - inf - -	28	1-компл	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	глава	ГЛАВА	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+3	депутации	ДЕПУТАЦИЯ	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	толстый	ТОЛСТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+6	горбоносый	ГОРБОНОСЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	турок	ТУРОК	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+8	в	В	PR	PR	PR	7	атриб	_	_
+9	сюртуке	СЮРТУК	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	феске	ФЕСКА	S	S f inan loc sg	S f inan loc sg	10	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	понял	ПОНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	что	ЧТО	CONJ	CONJ	CONJ	13	1-компл	_	_
+16	перед	ПЕРЕД	PR	PR	PR	21	атриб	_	_
+17	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	16	предл	_	_
+18	–	–	–	–	PUNC	21	опред	_	_
+19	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	21	опред	_	_
+20	легендарный	ЛЕГЕНДАРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	21	опред	_	_
+21	Ак	АК	S	S m inan nonflex nonflex	S m inan nonflex nonflex	23	вспом	_	_
+22	-	-	-	-	PUNC	21	PUNC	_	_
+23	паша	ПАША	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	сумма	СУММА	S	S f inan nom sg	S f inan nom sg	29	предик	_	_
+26	предлагаемой	ПРЕДЛАГАТЬ	PARTCP	PARTCP ipf inpraes loc sg plen f pass -	PARTCP ipf inpraes loc sg plen f pass -	27	опред	_	_
+27	контрибуции	КОНТРИБУЦИЯ	S	S f inan gen sg	S f inan gen sg	25	квазиагент	_	_
+28	немедленно	НЕМЕДЛЕННО	ADV	ADV -	ADV -	29	обст	_	_
+29	возросла	ВОЗРАСТАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	23	релят	_	_
+30	вдвое	ВДВОЕ	ADV	ADV -	ADV -	29	обст	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+

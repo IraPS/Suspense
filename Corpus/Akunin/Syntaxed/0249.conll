@@ -1,0 +1,55 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Варенька	ВАРЕНЬКА	S	S f anim nom sg	S f anim nom sg	2	аппоз	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	издали	ИЗДАЛИ	ADV	ADV -	ADV -	3	обст	_	_
+3	закричал	ЗАКРИЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	солдат	СОЛДАТ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	сдернул	СДЕРГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+7	с	С	PR	PR	PR	6	1-компл	_	_
+8	головы	ГОЛОВА	S	S f inan gen sg	S f inan gen sg	7	предл	_	_
+9	кепи	КЕПИ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	6	2-компл	_	_
+10	с	С	PR	PR	PR	6	обст	_	_
+11	длинным	ДЛИННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	12	опред	_	_
+12	козырьком	КОЗЫРЕК	S	S m inan ins sg	S m inan ins sg	10	предл	_	_
+13	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+14	замахал	ЗАМАХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Все-таки	ВСЕ-ТАКИ	PART	PART	PART	3	огранич	_	_
+3	приехала	ПРИЕЗЖАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	ахнула	АХНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	сразу	СРАЗУ	ADV	ADV -	ADV -	7	обст	_	_
+7	забыв	ЗАБЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	11	обст	_	_
+8	о	О	PR	PR	PR	7	2-компл	_	_
+9	Фандорине	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	кинулась	КИНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	соч-союзн	_	_
+12	навстречу	НАВСТРЕЧУ	ADV	ADV -	ADV -	11	2-компл	_	_
+13	тому	ТОТ	A	A - dat sg plen m -	A - dat sg plen m -	12	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	ради	РАДИ	PR	PR	PR	0	ROOT	_	_
+16	кого	КТО	S	S m - gen sg	S m - gen sg	17	обст	_	_
+17	преодолела	ПРЕОДОЛЕВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	предл	_	_
+18	путь	ПУТЬ	S	S m inan acc sg	S m inan acc sg	17	1-компл	_	_
+19	в	В	PR	PR	PR	18	1-компл	_	_
+20	полторы	ПОЛТОРА	NUM	NUM acc f -	NUM acc f -	21	количест	_	_
+21	тысячи	ТЫСЯЧА	S	S f inan gen sg	S f inan gen sg	19	предл	_	_
+22	верст	ВЕРСТА	S	S f inan gen pl	S f inan gen pl	21	квазиагент	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

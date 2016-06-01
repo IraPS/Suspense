@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"агент","gr":"S,m,anim=nom,sg"}],"text":"Агент"}
+{"analysis":[{"lex":"открываться","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"открывался"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"новый","gr":"A=abl,sg,plen,f"},{"lex":"новый","gr":"A=dat,sg,plen,f"},{"lex":"новый","gr":"A=gen,sg,plen,f"},{"lex":"новый","gr":"A=ins,sg,plen,f"}],"text":"новой"}
+{"analysis":[{"lex":"неожиданный","gr":"A=abl,sg,plen,f"},{"lex":"неожиданный","gr":"A=dat,sg,plen,f"},{"lex":"неожиданный","gr":"A=gen,sg,plen,f"},{"lex":"неожиданный","gr":"A=ins,sg,plen,f"}],"text":"неожиданной"}
+{"analysis":[{"lex":"сторона","gr":"S,f,inan=acc,pl"},{"lex":"сторона","gr":"S,f,inan=gen,sg"},{"lex":"сторона","gr":"S,f,inan=nom,pl"}],"text":"стороны"}
+{"analysis":[{"lex":"который","gr":"APRO=nom,sg,f"}],"text":"которая"}
+{"analysis":[{"lex":"вар","gr":"S,m,inan=abl,sg"}],"text":"Варе"}
+{"analysis":[{"lex":"отчего-то","gr":"ADVPRO="}],"text":"отчего-то"}
+{"analysis":[{"lex":"совсем","gr":"ADV="}],"text":"совсем"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"понравиться","gr":"V,pf,intr=praet,sg,indic,f"}],"text":"понравилась"}

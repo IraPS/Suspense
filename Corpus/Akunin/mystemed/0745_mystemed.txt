@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"ну","gr":"PART="}],"text":"Ну"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"рассказывать","gr":"V=praet,sg,indic,f,pf"}],"text":"рассказала"}
+{"text":"\\s"}
+{"analysis":[{"lex":"уж","gr":"PART="}],"text":"Уж"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=dat,sg"}],"text":"Эрасту"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=dat,sg"}],"text":"Петровичу"}
+{"analysis":[{"lex":"можно","gr":"ADV,praed="}],"text":"можно"}
+{"analysis":[{"lex":"этот","gr":"APRO=acc,sg,m,inan"},{"lex":"этот","gr":"APRO=nom,sg,m"}],"text":"этот"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"побежать","gr":"V,pf,intr=inpraes,sg,indic,3p"}],"text":"побежит"}
+{"analysis":[{"lex":"рассказывать","gr":"V=inf,ipf,tran"}],"text":"рассказывать"}
+{"analysis":[{"lex":"всякий","gr":"APRO=dat,sg,plen,m"},{"lex":"всякий","gr":"APRO=dat,sg,plen,n"}],"text":"всякому"}
+{"analysis":[{"lex":"встречный","gr":"A=dat,sg,plen,m"},{"lex":"встречный","gr":"A=dat,sg,plen,n"}],"text":"встречному"}
+{"analysis":[{"lex":"поперечный","gr":"A=dat,sg,plen,m"},{"lex":"поперечный","gr":"A=dat,sg,plen,n"}],"text":"поперечному"}

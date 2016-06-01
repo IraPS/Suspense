@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"рота","gr":"S,f,inan=nom,sg"}],"text":"Рота"}
+{"analysis":[{"lex":"развертываться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"развернулась"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"линия","gr":"S,f,inan=acc,sg"}],"text":"линию"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"медленно","gr":"ADV="}],"text":"медленно"}
+{"analysis":[{"lex":"побежать","gr":"V,pf,intr=praet,sg,indic,f"}],"text":"побежала"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"далекий","gr":"A=dat,sg,plen,m"},{"lex":"далекий","gr":"A=dat,sg,plen,n"}],"text":"далекому"}
+{"analysis":[{"lex":"редут","gr":"S,m,inan=dat,sg"}],"text":"редуту"}
+{"analysis":[{"lex":"над","gr":"PR="}],"text":"над"}
+{"analysis":[{"lex":"который","gr":"APRO=dat,pl"},{"lex":"который","gr":"APRO=ins,sg,m"},{"lex":"который","gr":"APRO=ins,sg,n"}],"text":"которым"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"пуще","gr":"ADV="}],"text":"пуще"}
+{"analysis":[{"lex":"завздыбиться","qual":"bastard","gr":"V,pf,intr=praet,pl,indic"}],"text":"завздыбились"}
+{"analysis":[{"lex":"земляной","gr":"A=acc,pl,plen,inan"},{"lex":"земляной","gr":"A=nom,pl,plen"}],"text":"земляные"}
+{"analysis":[{"lex":"фонтан","gr":"S,m,inan=acc,pl"},{"lex":"фонтан","gr":"S,m,inan=nom,pl"}],"text":"фонтаны"}

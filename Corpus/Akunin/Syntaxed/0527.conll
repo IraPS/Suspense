@@ -1,0 +1,44 @@
+1	Людей	ЧЕЛОВЕК	S	S m anim acc pl	S m anim acc pl	6	1-компл	_	_
+2	в	В	PR	PR	PR	4	обст	_	_
+3	фойе	ФОЙЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	2	предл	_	_
+4	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	довольно	ДОВОЛЬНО	ADV	ADV -	ADV -	6	огранич	_	_
+6	много	МНОГО	ADV	ADV -	ADV -	4	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	все	ВСЕ	S	S - - nom pl	S - - nom pl	0	ROOT	_	_
+9	больше	МНОГО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+10	господа	ГОСПОДИН	S	S m anim nom pl	S m anim nom pl	9	сравнит	_	_
+11	в	В	PR	PR	PR	0	ROOT	_	_
+12	летних	ЛЕТНИЙ	A	A - loc pl plen - -	A - loc pl plen - -	13	опред	_	_
+13	пиджаках	ПИДЖАК	S	S m inan loc pl	S m inan loc pl	11	предл	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+15	румынские	РУМЫНСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	16	опред	_	_
+16	офицеры	ОФИЦЕР	S	S m anim nom pl	S m anim nom pl	14	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	4	предик	_	_
+2	с	С	PR	PR	PR	4	обст	_	_
+3	любопытством	ЛЮБОПЫТСТВО	S	S n inan ins sg	S n inan ins sg	2	предл	_	_
+4	наблюдали	НАБЛЮДАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	за	ЗА	PR	PR	PR	4	1-компл	_	_
+6	пикантной	ПИКАНТНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	7	опред	_	_
+7	сценой	СЦЕНА	S	S f inan ins sg	S f inan ins sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	но	НО	CONJ	CONJ	CONJ	4	сент-соч	_	_
+10	заступаться	ЗАСТУПАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	24	1-компл	_	_
+11	за	ЗА	PR	PR	PR	10	обст	_	_
+12	даму	ДАМА	S	S f anim acc sg	S f anim acc sg	11	предл	_	_
+13	(	(	_	_	PUNC	14	PUNC	_	_
+14	да	ДА	CONJ	CONJ	CONJ	12	примыкат	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	даму	ДАМА	S	S f anim acc sg	S f anim acc sg	15	соч-союзн	_	_
+17	ли	ЛИ	CONJ	CONJ	CONJ	10	огранич	_	_
+18	?	?	?	?	PUNC	17	подч-союзн	_	_
+19	)	)	_	_	PUNC	18	PUNC	_	_
+20	,	,	,	,	PUNC	18	PUNC	_	_
+21	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	24	вводн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	собирались	СОБИРАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	соч-союзн	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

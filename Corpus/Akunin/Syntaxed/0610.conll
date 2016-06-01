@@ -1,0 +1,15 @@
+1	–	–	–	–	PUNC	7	1-компл	_	_
+2	Ну	НУ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	7	обст	_	_
+5	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+6	им	ОНИ	SPRO	SPRO pl - - dat	SPRO pl - - dat	7	1-компл	_	_
+7	даст	ДАВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	11	обст	_	_
+10	–	–	–	–	PUNC	11	1-компл	_	_
+11	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	вводн	_	_
+12	кто-то	КТО-ТО	S	S m - nom sg	S m - nom sg	11	предик	_	_
+13	рядом	РЯДОМ	ADV	ADV -	ADV -	11	обст	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

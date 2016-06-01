@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"из-за","gr":"PR="}],"text":"Из-за"}
+{"analysis":[{"lex":"дверь","gr":"S,f,inan=abl,sg"},{"lex":"дверь","gr":"S,f,inan=acc,pl"},{"lex":"дверь","gr":"S,f,inan=dat,sg"},{"lex":"дверь","gr":"S,f,inan=gen,sg"},{"lex":"дверь","gr":"S,f,inan=nom,pl"},{"lex":"дверь","gr":"S,f,inan=loc,sg"}],"text":"двери"}
+{"analysis":[{"lex":"хранилище","gr":"S,n,inan=acc,pl"},{"lex":"хранилище","gr":"S,n,inan=gen,sg"},{"lex":"хранилище","gr":"S,n,inan=nom,pl"}],"text":"хранилища"}
+{"analysis":[{"lex":"доноситься","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"донеслось"}
+{"analysis":[{"lex":"беззаботный","gr":"A=acc,sg,plen,n"},{"lex":"беззаботный","gr":"A=nom,sg,plen,n"}],"text":"беззаботное"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"весьма","gr":"ADV="}],"text":"весьма"}
+{"analysis":[{"lex":"мелодичный","gr":"A=acc,sg,plen,n"},{"lex":"мелодичный","gr":"A=nom,sg,plen,n"}],"text":"мелодичное"}
+{"analysis":[{"lex":"насвистывание","gr":"S,n,inan=acc,sg"},{"lex":"насвистывание","gr":"S,n,inan=nom,sg"}],"text":"насвистывание"}

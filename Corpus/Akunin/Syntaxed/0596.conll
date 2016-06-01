@@ -1,0 +1,14 @@
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	ударила	УДАРЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	конька	КОНЕК	S	S m anim acc sg	S m anim acc sg	2	1-компл	_	_
+4	каблуком	КАБЛУК	S	S m inan ins sg	S m inan ins sg	2	3-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	чтоб	ЧТОБ	CONJ	CONJ	CONJ	2	обст	_	_
+7	поскорее	СКОРО	ADV	ADV comp	ADV comp	8	обст	_	_
+8	проехать	ПРОЕХАТЬ	V	V pf - - inf - -	V pf - - inf - -	6	инф-союзн	_	_
+9	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+10	жуткий	ЖУТКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	зал	ЗАЛ	S	S m inan nom sg	S m inan nom sg	2	разъяснит	_	_
+12	ожидания	ОЖИДАНИЕ	S	S n inan gen sg	S n inan gen sg	11	квазиагент	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

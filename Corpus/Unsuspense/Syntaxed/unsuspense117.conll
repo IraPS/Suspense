@@ -1,0 +1,46 @@
+1	Старик	СТАРИК	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	предик	_	_
+4	стоит	СТОЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	релят	_	_
+5	перед	ПЕРЕД	PR	PR	PR	4	1-компл	_	_
+6	барином	БАРИН	S	S m anim ins sg	S m anim ins sg	5	предл	_	_
+7	вытянувшись	ВЫТЯГИВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	1	сочин	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	кротко	КРОТКО	ADV	ADV -	ADV -	12	обст	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	виновато	ВИНОВАТО	ADV	ADV -	ADV -	10	соч-союзн	_	_
+12	улыбается	УЛЫБАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	6	1-компл	_	_
+2	ж	Ж	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	мол	МОЛ	PART	PART	PART	6	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	9	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	—	—	—	—	PUNC	9	предик	_	_
+9	виноват	ВИНОВАТЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	зажился	ЗАЖИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	вводн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вероятно	ВЕРОЯТНО	ADV	ADV -	ADV -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	еще	ЕЩЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	более	МНОГО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+8	зажился	ЗАЖИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	сравнит	_	_
+9	бы	БЫ	PART	PART	PART	8	аналит	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	если	ЕСЛИ	CONJ	CONJ	CONJ	8	обст	_	_
+12	бы	БЫ	PART	PART	PART	14	аналит	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	объелся	ОБЪЕДАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	подч-союзн	_	_
+15	в	В	PR	PR	PR	14	1-компл	_	_
+16	Петровки	ПЕТРОВКИ	S	S f inan gen sg	S f inan gen sg	15	предл	_	_
+17	луку	ЛУК	S	S m inan - sg	S m inan - sg	14	2-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

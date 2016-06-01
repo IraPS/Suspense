@@ -1,0 +1,58 @@
+1	Обнялись	ОБНИМАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	поцеловались	ПОЦЕЛОВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	соч-союзн	_	_
+4	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	5	огранич	_	_
+5	естественно	ЕСТЕСТВЕННО	ADV	ADV -	ADV -	3	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	без	БЕЗ	PR	PR	PR	3	обст	_	_
+8	неловкости	НЕЛОВКОСТЬ	S	S f inan gen sg	S f inan gen sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	как	КАК	CONJ	CONJ	CONJ	3	сравнит	_	_
+11	никогда	НИКОГДА	ADV	ADV -	ADV -	12	колич-огран	_	_
+12	раньше	РАНО	ADV	ADV comp	ADV comp	10	сравн-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Видеть	ВИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+2	некрасивое	НЕКРАСИВЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	но	НО	CONJ	CONJ	CONJ	1	сочин	_	_
+5	милое	МИЛЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	11	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	сияющее	СИЯТЬ	PARTCP	PARTCP ipf inpraes acc sg plen n act -	PARTCP ipf inpraes acc sg plen n act -	5	сочин	_	_
+8	счастьем	СЧАСТИЕ	S	S n inan ins sg	S n inan ins sg	11	обст	_	_
+9	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	11	предик	_	_
+10	Пети	ПЕТЯ	S	S m anim gen sg	S m anim gen sg	9	квазиагент	_	_
+11	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	4	соч-союзн	_	_
+12	радостно	РАДОСТНО	ADV	ADV -	ADV -	11	присвяз	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	похудел	ПОХУДЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	загорел	ЗАГОРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	сутулился	СУТУЛИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сочин	_	_
+7	больше	МНОГО	ADV	ADV comp	ADV comp	6	1-компл	_	_
+8	прежнего	ПРЕЖНИЙ	A	A - gen sg plen n -	A - gen sg plen n -	7	сравнит	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Черный	ЧЕРНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	5	опред	_	_
+2	с	С	PR	PR	PR	1	1-компл	_	_
+3	красными	КРАСНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	4	опред	_	_
+4	погонами	ПОГОН	S	S m inan ins pl	S m inan ins pl	2	предл	_	_
+5	мундир	МУНДИР	S	S m inan acc sg	S m inan acc sg	6	1-компл	_	_
+6	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	мешком	МЕШОК	S	S m inan ins sg	S m inan ins sg	6	обст	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+10	улыбка	УЛЫБКА	S	S f inan nom sg	S f inan nom sg	11	предик	_	_
+11	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	9	соч-союзн	_	_
+12	все	ВСЕ	S	S - - acc pl	S - - acc pl	15	опред	_	_
+13	та	ТОТ	A	A - nom sg plen f -	A - nom sg plen f -	15	опред	_	_
+14	же	ЖЕ	PART	PART	PART	13	огранич	_	_
+15	–	–	–	–	PUNC	11	присвяз	_	_
+16	широкая	ШИРОКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	обожающая	ОБОЖАТЬ	PARTCP	PARTCP ipf inpraes nom sg plen f act -	PARTCP ipf inpraes nom sg plen f act -	16	сочин	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

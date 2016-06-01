@@ -1,0 +1,20 @@
+1	От	ОТ	PR	PR	PR	5	обст	_	_
+2	такой	ТАКОЙ	A	A - gen sg plen f -	A - gen sg plen f -	3	опред	_	_
+3	снисходительности	СНИСХОДИТЕЛЬНОСТЬ	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	предик	_	_
+5	разозлилась	РАЗОЗЛИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	еще	ЕЩЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	больше	МНОГО	ADV	ADV comp	ADV comp	5	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	тем более	тем более	ADV	ADV -	-	10	вспом	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	7	сравнит	_	_
+11	агент	АГЕНТ	S	S m inan nom sg	S m inan nom sg	14	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	рабья	РАБИЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	опред	_	_
+14	кровь	КРОВЬ	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	вводн	_	_
+17	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	18	огранич	_	_
+18	прав	ПРАВЫЙ	A	A - - sg brev m -	A - - sg brev m -	16	присвяз	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

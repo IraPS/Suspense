@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"без","gr":"PR="}],"text":"без"}
+{"analysis":[{"lex":"шапка","gr":"S,f,inan=acc,pl"},{"lex":"шапка","gr":"S,f,inan=gen,sg"},{"lex":"шапка","gr":"S,f,inan=nom,pl"}],"text":"шапки"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"расстегнуть","gr":"V,pf,tran=praet,abl,sg,partcp,plen,m,pass"},{"lex":"расстегнуть","gr":"V,pf,tran=praet,abl,sg,partcp,plen,n,pass"}],"text":"расстегнутом"}
+{"analysis":[{"lex":"полушубок","gr":"S,m,inan=abl,sg"}],"text":"полушубке"}
+{"analysis":[{"lex":"со","gr":"PR="}],"text":"со"}
+{"analysis":[{"lex":"сваляться","gr":"V,pf,intr=praet,abl,sg,partcp,plen,f,act"},{"lex":"сваляться","gr":"V,pf,intr=praet,dat,sg,partcp,plen,f,act"},{"lex":"сваляться","gr":"V,pf,intr=praet,gen,sg,partcp,plen,f,act"},{"lex":"сваляться","gr":"V,pf,intr=praet,ins,sg,partcp,plen,f,act"}],"text":"свалявшейся"}
+{"analysis":[{"lex":"бородка","gr":"S,f,inan=ins,sg"}],"text":"бородкой"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"безумный","gr":"A=ins,pl,plen"}],"text":"безумными"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=ins,pl"}],"text":"глазами"}

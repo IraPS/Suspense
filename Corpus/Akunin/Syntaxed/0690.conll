@@ -1,0 +1,84 @@
+1	–	–	–	–	PUNC	8	1-компл	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	8	предик	_	_
+3	лучше	ХОРОШО	ADV	ADV comp	ADV comp	8	обст	_	_
+4	вот	ВОТ	PART	PART	PART	5	огранич	_	_
+5	чем	ЧЕМ	CONJ	CONJ	CONJ	3	сравнит	_	_
+6	займитесь	ЗАНИМАТЬСЯ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	5	сравн-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+9	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	исключаю	ИСКЛЮЧАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	кроме	КРОМЕ	PR	PR	PR	9	обст	_	_
+6	полковника	ПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	5	предл	_	_
+7	Лукана	ЛУКАН	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+8	предатель	ПРЕДАТЕЛЬ	S	S m anim nom sg	S m anim nom sg	7	аппоз	_	_
+9	успел	УСПЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	подч-союзн	_	_
+10	завербовать	ЗАВЕРБОВЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+11	кого-то	КТО-ТО	S	S m - acc sg	S m - acc sg	10	1-компл	_	_
+12	еще	ЕЩЕ	ADV	ADV -	ADV -	11	огранич	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Ваша	ВАШ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	задача	ЗАДАЧА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+3	–	–	–	–	PUNC	4	1-компл	_	_
+4	выискать	ВЫИСКИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	осталось	ОСТАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+8	ли	ЛИ	PART	PART	PART	7	огранич	_	_
+9	в	В	PR	PR	PR	7	присвяз	_	_
+10	штабе	ШТАБ	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+11	или	ИЛИ	CONJ	CONJ	CONJ	7	сент-соч	_	_
+12	вокруг	ВОКРУГ	PR	PR	PR	0	ROOT	_	_
+13	штаба	ШТАБ	S	S m inan gen sg	S m inan gen sg	12	предл	_	_
+14	драконьих	ДРАКОНИЙ	A	A - gen pl plen - -	A - gen pl plen - -	15	опред	_	_
+15	зубов	ЗУБ	S	S m inan gen pl	S m inan gen pl	13	квазиагент	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Майор	МАЙОР	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	 	 	 	 	PUNC	5	обст	_	_
+4	–	–	–	–	PUNC	5	1-компл	_	_
+5	обратился	ОБРАЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	1-компл	_	_
+7	к	К	PR	PR	PR	5	2-компл	_	_
+8	старшему	СТАРШИЙ	A	A - dat sg plen m -	A - dat sg plen m -	7	предл	_	_
+9	из	ИЗ	PR	PR	PR	8	электив	_	_
+10	офицеров	ОФИЦЕР	S	S m anim gen pl	S m anim gen pl	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	13	предик	_	_
+13	вскочил	ВСКАКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	сент-соч	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	вытянулся	ВЫТЯГИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	опред	_	_
+2	Вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	3	опред	_	_
+3	назначаю	НАЗНАЧАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+4	временно	ВРЕМЕННО	ADV	ADV -	ADV -	5	обст	_	_
+5	заведовать	ЗАВЕДОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+6	особой	ОСОБЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	7	опред	_	_
+7	частью	ЧАСТЬ	S	S f inan ins sg	S f inan ins sg	5	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Задача	ЗАДАЧА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	та	ТОТ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Титулярному	ТИТУЛЯРНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	2	опред	_	_
+2	советнику	СОВЕТНИК	S	S m anim dat sg	S m anim dat sg	3	дат-субъект	_	_
+3	оказывать	ОКАЗЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	предик	_	_
+4	всемерное	ВСЕМЕРНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	0	ROOT	_	_
+5	содействие	СОДЕЙСТВИЕ	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Слушаюсь	СЛУШАТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+

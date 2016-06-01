@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"сатрап","gr":"S,m,anim=nom,sg"}],"text":"Сатрап"}
+{"analysis":[{"lex":"понимающе","gr":"ADV="}],"text":"понимающе"}
+{"analysis":[{"lex":"усмехаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"усмехнулся"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"много","gr":"ADV=comp"}],"text":"больше"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"задерживать","gr":"V,tran=praet,acc,sg,partcp,plen,f,pf,pass"}],"text":"задержанную"}
+{"analysis":[{"lex":"внимание","gr":"S,n,inan=acc,pl"},{"lex":"внимание","gr":"S,n,inan=gen,sg"},{"lex":"внимание","gr":"S,n,inan=nom,pl"}],"text":"внимания"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"обращать","gr":"V,tran=praet,sg,indic,m,ipf"}],"text":"обращал"}

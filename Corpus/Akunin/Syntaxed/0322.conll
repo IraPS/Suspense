@@ -1,0 +1,91 @@
+1	Истинного	ИСТИННЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	2	опред	_	_
+2	виновника	ВИНОВНИК	S	S m anim acc sg	S m anim acc sg	4	1-компл	_	_
+3	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	искал	ИСКАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	как-то	КАК-ТО	ADV	ADV -	ADV -	6	огранич	_	_
+6	странно	СТРАННО	ADV	ADV -	ADV -	4	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	4	обст	_	_
+2	утрам	УТРО	S	S n inan dat pl	S n inan dat pl	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вырядившись	ВЫРЯЖАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	11	обст	_	_
+5	в	В	PR	PR	PR	4	обст	_	_
+6	дурацкое	ДУРАЦКИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	5	предл	_	_
+7	полосатое	ПОЛОСАТЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	8	опред	_	_
+8	трико	ТРИКО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	4	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	подолгу	ПОДОЛГУ	ADV	ADV -	ADV -	11	обст	_	_
+11	делал	ДЕЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+12	английскую	АНГЛИЙСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+13	гимнастику	ГИМНАСТИКА	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Целыми	ЦЕЛЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	2	опред	_	_
+2	днями	ДЕНЬ	S	S m inan ins pl	S m inan ins pl	3	1-компл	_	_
+3	лежал	ЛЕЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	обст	_	_
+5	походной	ПОХОДНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	6	опред	_	_
+6	кровати	КРОВАТЬ	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	изредка	ИЗРЕДКА	ADV	ADV -	ADV -	9	обст	_	_
+9	наведывался	НАВЕДЫВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	сочин	_	_
+10	в	В	PR	PR	PR	9	2-компл	_	_
+11	оперативный	ОПЕРАТИВНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	12	опред	_	_
+12	отдел	ОТДЕЛ	S	S m inan acc sg	S m inan acc sg	10	предл	_	_
+13	штаба	ШТАБ	S	S m inan gen sg	S m inan gen sg	12	квазиагент	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	а	А	CONJ	CONJ	CONJ	9	сочин	_	_
+16	вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	18	обст	_	_
+17	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	18	обст	_	_
+18	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	соч-союзн	_	_
+19	в	В	PR	PR	PR	18	обст	_	_
+20	клубе	КЛУБ	S	S m inan loc sg	S m inan loc sg	19	предл	_	_
+21	у	У	PR	PR	PR	18	1-компл	_	_
+22	журналистов	ЖУРНАЛИСТ	S	S m anim gen pl	S m anim gen pl	21	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Курил	КУРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	сигары	СИГАРА	S	S f inan acc pl	S f inan acc pl	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	читал	ЧИТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	сочин	_	_
+5	книгу	КНИГА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	пьянея	ПЬЯНЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	обст	_	_
+9	пил	ПИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сочин	_	_
+10	вино	ВИНО	S	S n inan acc sg	S n inan acc sg	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	в	В	PR	PR	PR	14	обст	_	_
+13	разговоры	РАЗГОВОР	S	S m inan acc pl	S m inan acc pl	12	предл	_	_
+14	вступал	ВСТУПАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	9	сочин	_	_
+15	неохотно	НЕОХОТНО	ADV	ADV -	ADV -	14	обст	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Никаких	НИКАКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	2	опред	_	_
+2	поручений	ПОРУЧЕНИЕ	S	S n inan gen pl	S n inan gen pl	4	1-компл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	давал	ДАВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Перед	ПЕРЕД	PR	PR	PR	8	обст	_	_
+2	тем	ТО	S	S n - ins sg	S n - ins sg	1	предл	_	_
+3	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+4	пожелать	ПОЖЕЛАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	сравн-союзн	_	_
+5	спокойной	СПОКОЙНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+6	ночи	НОЧЬ	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	говорил	ГОВОРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+9	только	ТОЛЬКО	PART	PART	PART	10	огранич	_	_
+10	:	:	:	:	PUNC	8	3-компл	_	_
+11	«	«	_	_	PUNC	10	PUNC	_	_
+12	3	3	NUM	NUM - - -	NUM - - -	10	кратн	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	завтра	ЗАВТРА	ADV	ADV -	ADV -	15	огранич	_	_
+15	вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	10	обст	_	_
+16	увидимся	УВИДЕТЬСЯ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	8	вводн	_	_
+17	в	В	PR	PR	PR	16	обст	_	_
+18	клубе	КЛУБ	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+19	»	»	_	_	PUNC	18	PUNC	_	_
+20	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"мужчина","gr":"S,m,anim=gen,sg"},{"lex":"мужчина","gr":"S,m,anim=nom,pl"}],"text":"Мужчины"}
+{"analysis":[{"lex":"захохотать","gr":"V,pf,intr=praet,pl,indic"}],"text":"захохотали"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"а"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"восклицать","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"воскликнула"}
+{"analysis":[{"lex":"стыдиться","gr":"V,ipf,intr=inpraes,pl,indic,2p"},{"lex":"стыдиться","gr":"V,ipf,intr=pl,imper,2p"}],"text":"Стыдитесь"}
+{"analysis":[{"lex":"господин","gr":"S,m,anim=nom,pl"}],"text":"господа"}
+{"analysis":[{"lex":"ведь","gr":"CONJ="}],"text":"ведь"}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=acc"},{"lex":"это","gr":"SPRO,sg,n,inan=nom"}],"text":"это"}
+{"analysis":[{"lex":"ужас","gr":"S,m,inan=acc,sg"},{"lex":"ужас","gr":"S,m,inan=nom,sg"}],"text":"ужас"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"такой","gr":"APRO=acc,sg,n"},{"lex":"такой","gr":"APRO=nom,sg,n"}],"text":"такое"}

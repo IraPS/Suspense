@@ -1,0 +1,21 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	П...	П...	S	S m inan nonflex nonflex	S m inan nonflex nonflex	8	предик	_	_
+3	по	ПО	PR	PR	PR	2	обст	_	_
+4	вашим	ВАШ	A	A - dat pl plen - -	A - dat pl plen - -	5	опред	_	_
+5	дорогам	ДОРОГА	S	S f inan dat pl	S f inan dat pl	3	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	-	-	-	-	PUNC	5	PUNC	_	_
+8	заговорил	ЗАГОВАРИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	13	предик	_	_
+10	деревянными	ДЕРЕВЯННЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	13	опред	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	синенькими	СИНЕНЬКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	13	опред	_	_
+13	губами	ГУБА	S	S f inan ins pl	S f inan ins pl	8	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	-	-	-	-	PUNC	13	PUNC	_	_
+16	нужно	НУЖНО	ADV	ADV -	ADV -	17	обст	_	_
+17	п...	П...	S	S - - nonflex nonflex	S - - nonflex nonflex	13	опред	_	_
+18	привыкнуть	ПРИВЫКАТЬ	V	V pf - - inf - -	V pf - - inf - -	17	1-компл	_	_
+19	ездить	ЕЗДИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	18	1-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

@@ -1,0 +1,49 @@
+1	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	выслушал	ВЫСЛУШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	решительно	РЕШИТЕЛЬНО	ADV	ADV -	ADV -	5	обст	_	_
+5	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	5	сент-соч	_	_
+8	проигравшего	ПРОИГРЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	13	обст	_	_
+9	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	13	1-компл	_	_
+10	покладистость	ПОКЛАДИСТОСТЬ	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+11	почему-то	ПОЧЕМУ-ТО	ADV	ADV -	ADV -	13	обст	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	устроила	УСТРАИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	заорал	ЗАОРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	громче	ГРОМКО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+4	прежнего	ПРЕЖНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	замахал	ЗАМАХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сочин	_	_
+7	руками	РУКА	S	S f inan ins pl	S f inan ins pl	6	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	снова	СНОВА	ADV	ADV -	ADV -	3	обст	_	_
+3	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	еще	ЕЩЕ	ADV	ADV -	ADV -	6	огранич	_	_
+6	решительней	РЕШИТЕЛЬНО	ADV	ADV comp	ADV comp	3	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+9	тут	ТУТ	ADV	ADV -	ADV -	11	обст	_	_
+10	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+11	вспомнила	ВСПОМНИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+12	про	ПРО	PR	PR	PR	11	1-компл	_	_
+13	болгарский	БОЛГАРСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	парадокс	ПАРАДОКС	S	S m inan nom sg	S m inan nom sg	20	предик	_	_
+15	:	:	:	:	PUNC	20	1-компл	_	_
+16	когда	КОГДА	CONJ	CONJ	CONJ	15	обст	_	_
+17	киваешь	КИВАТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	16	подч-союзн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	это	ЭТО	S	S n - nom sg	S n - nom sg	17	опред	_	_
+20	значит	ЗНАЧИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	12	предл	_	_
+21	«	«	_	_	PUNC	20	PUNC	_	_
+22	нет	НЕТ	ADV	ADV -	ADV -	11	обст	_	_
+23	»	»	_	_	PUNC	22	PUNC	_	_
+24	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

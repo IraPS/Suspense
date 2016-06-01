@@ -1,0 +1,32 @@
+1	"	"	_	_	PUNC	2	PUNC	_	_
+2	Молчи	МОЛЧАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	-	-	-	-	PUNC	2	PUNC	_	_
+5	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+7	голосу	ГОЛОС	S	S m inan dat sg	S m inan dat sg	5	2-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	-	-	-	-	PUNC	7	PUNC	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	обязательно	ОБЯЗАТЕЛЬНО	ADV	ADV -	ADV -	12	огранич	_	_
+12	грыжа	ГРЫЖА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+2	за	ЗА	PR	PR	PR	1	обст	_	_
+3	неврастения	НЕВРАСТЕНИЯ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Взялся	ВЗЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	за	ЗА	PR	PR	PR	1	2-компл	_	_
+3	гуж	ГУЖ	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	говори	ГОВОРИТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	1	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	6	1-компл	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	дюж	ДЮЖИЙ	A	A - - sg brev m -	A - - sg brev m -	8	подч-союзн	_	_
+11	"	"	_	_	PUNC	10	PUNC	_	_
+12	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

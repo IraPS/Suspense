@@ -1,0 +1,58 @@
+1	–	–	–	–	PUNC	3	предик	_	_
+2	Это	ЭТО	S	S n - nom sg	S n - nom sg	3	вспом	_	_
+3	кто	КТО	S	S m - nom sg	S m - nom sg	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	башибузуки	БАШИБУЗУК	S	S m anim nom pl	S m anim nom pl	3	вводн	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	звонко	ЗВОНКО	ADV	ADV -	ADV -	3	обст	_	_
+3	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+7	голос	ГОЛОС	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+8	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	7	квазиагент	_	_
+9	дрогнул	ДРОГНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	присвяз	_	_
+2	Что	ЧТО	S	S n - nom sg	S n - nom sg	5	предик	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	5	обст	_	_
+5	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	2	предик	_	_
+2	пропали	ПРОПАДАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	3	предик	_	_
+2	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	3	1-компл	_	_
+3	убьют	УБИВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	14	1-компл	_	_
+2	Если	ЕСЛИ	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	будете	БЫТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	2	подч-союзн	_	_
+4	молчать	МОЛЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	вряд ли	вряд ли	ADV	ADV -	-	14	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	14	3-компл	_	_
+9	–	–	–	–	PUNC	14	1-компл	_	_
+10	как-то	КАК-ТО	ADV	ADV -	ADV -	13	огранич	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	очень	ОЧЕНЬ	ADV	ADV -	ADV -	13	огранич	_	_
+13	уверенно	УВЕРЕННО	ADV	ADV -	ADV -	14	обст	_	_
+14	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+15	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Ваша	ВАШ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+3	неожиданная	НЕОЖИДАННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	разговорчивость	РАЗГОВОРЧИВОСТЬ	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+5	некстати	НЕКСТАТИ	ADV	ADV -	ADV -	1	обст	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

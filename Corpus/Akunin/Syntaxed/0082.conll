@@ -1,0 +1,128 @@
+1	Тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+4	ехал	ЕХАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	подч-союзн	_	_
+5	впереди	ВПЕРЕДИ	ADV	ADV -	ADV -	4	обст	_	_
+6	(	(	_	_	PUNC	7	PUNC	_	_
+7	наверное	НАВЕРНОЕ	ADV	ADV -	ADV -	5	примыкат	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	бек	БЕК	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+10	)	)	_	_	PUNC	9	PUNC	_	_
+11	,	,	,	,	PUNC	9	PUNC	_	_
+12	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сочин	_	_
+13	с	С	PR	PR	PR	12	присвяз	_	_
+14	рыжей	РЫЖИЙ	A	A - ins sg plen f -	A - ins sg plen f -	15	опред	_	_
+15	бородой	БОРОДА	S	S f inan ins sg	S f inan ins sg	13	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	в	В	PR	PR	PR	0	ROOT	_	_
+18	драном	ДРАНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	21	опред	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	грязном	ГРЯЗНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	19	соч-союзн	_	_
+21	бешмете	БЕШМЕТ	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	но	НО	CONJ	CONJ	CONJ	17	сочин	_	_
+24	с	С	PR	PR	PR	23	соч-союзн	_	_
+25	серебряным	СЕРЕБРЯНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	26	опред	_	_
+26	оружием	ОРУЖИЕ	S	S n inan ins sg	S n inan ins sg	24	предл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	проехал	ПРОЕХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	мимо	МИМО	PR	PR	PR	2	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	даже	ДАЖЕ	PART	PART	PART	7	огранич	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	взглянув	ВЗГЛЯДЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+8	на	НА	PR	PR	PR	7	1-компл	_	_
+9	жалких	ЖАЛКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	опред	_	_
+10	крестьян	КРЕСТЬЯНИН	S	S m anim gen pl	S m anim gen pl	8	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Зато	ЗАТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	квазиагент	_	_
+3	банда	БАНДА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+4	держалась	ДЕРЖАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	соч-союзн	_	_
+5	попроще	ПРОСТОЙ	A	A comp - - plen - -	A comp - - plen - -	4	присвяз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	2	количест	_	_
+2	конных	КОННЫЙ	S	S m anim loc pl	S m anim loc pl	3	предик	_	_
+3	остановились	ОСТАНАВЛИВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	возле	ВОЗЛЕ	PR	PR	PR	3	обст	_	_
+5	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	Фандорина	ФАНДОРИН	S	S m anim acc sg	S m anim acc sg	6	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	гортанно	ГОРТАННО	ADV	ADV -	ADV -	0	ROOT	_	_
+10	о	О	PR	PR	PR	9	1-компл	_	_
+11	чем-то	ЧТО-ТО	S	S n - ins sg	S n - ins sg	0	ROOT	_	_
+12	переговариваясь	ПЕРЕГОВАРИВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	11	обст	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Физиономии	ФИЗИОНОМИЯ	S	S f inan gen sg	S f inan gen sg	4	предик	_	_
+2	у	У	PR	PR	PR	4	обст	_	_
+3	башибузуков	БАШИБУЗУК	S	S m anim gen pl	S m anim gen pl	2	предл	_	_
+4	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	такие	ТАКОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+8	Варваре	ВАРВАРА	S	S f anim dat sg	S f anim dat sg	10	обст	_	_
+9	Андреевне	АНДРЕЕВНА	S	S f anim dat sg	S f anim dat sg	10	1-компл	_	_
+10	захотелось	ЗАХОТЕТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	7	подч-союзн	_	_
+11	зажмуриться	ЗАЖМУРИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	10	предик	_	_
+12	–	–	–	–	PUNC	13	опред	_	_
+13	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	16	предик	_	_
+14	и	И	CONJ	CONJ	CONJ	16	соотнос	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	подозревала	ПОДОЗРЕВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	сент-соч	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	что	ЧТО	CONJ	CONJ	CONJ	16	1-компл	_	_
+19	у	У	PR	PR	PR	21	обст	_	_
+20	людей	ЧЕЛОВЕК	S	S m anim gen pl	S m anim gen pl	19	предл	_	_
+21	могут	МОЧЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	18	подч-союзн	_	_
+22	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	21	1-компл	_	_
+23	подобные	ПОДОБНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	24	опред	_	_
+24	личины	ЛИЧИНА	S	S f inan acc pl	S f inan acc pl	22	присвяз	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Внезапно	ВНЕЗАПНО	ADV	ADV -	ADV -	7	обст	_	_
+2	среди	СРЕДИ	PR	PR	PR	7	обст	_	_
+3	этих	ЭТОТ	A	A - loc pl plen - -	A - loc pl plen - -	5	опред	_	_
+4	кошмарных	КОШМАРНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	5	опред	_	_
+5	рож	РОЖА	S	S f inan gen pl	S f inan gen pl	2	предл	_	_
+6	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+7	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	самое	САМЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	9	опред	_	_
+9	что ни на есть	что ни на есть	PART	PART	ZERO	10	огранич	_	_
+10	обыкновенное	ОБЫКНОВЕННЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	12	опред	_	_
+11	человеческое	ЧЕЛОВЕЧЕСКИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	12	опред	_	_
+12	лицо	ЛИЦО	S	S n inan acc sg	S n inan acc sg	7	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Оно	ОНО	SPRO	SPRO sg 3p n nom	SPRO sg 3p n nom	2	предик	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	бледным	БЛЕДНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	с	С	PR	PR	PR	3	атриб	_	_
+6	заплывшим	ЗАПЛЫВАТЬ	PARTCP	PARTCP pf praet dat pl plen - act -	PARTCP pf praet dat pl plen - act -	9	опред	_	_
+7	от	ОТ	PR	PR	PR	6	1-компл	_	_
+8	кровоподтека	КРОВОПОДТЕК	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+9	глазом	ГЛАЗ	S	S m inan ins sg	S m inan ins sg	5	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+12	зато	ЗАТО	CONJ	CONJ	CONJ	14	соотнос	_	_
+13	второй	ВТОРОЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	глаз	ГЛАЗ	S	S m inan gen pl	S m inan gen pl	22	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	карий	КАРИЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	оп-опред	_	_
+17	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+18	полный	ПОЛНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	17	соч-союзн	_	_
+19	смертельной	СМЕРТЕЛЬНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	20	опред	_	_
+20	тоски	ТОСКА	S	S f inan gen sg	S f inan gen sg	18	1-компл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	смотрел	СМОТРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	соч-союзн	_	_
+23	прямо	ПРЯМО	PART	PART	PART	24	огранич	_	_
+24	на	НА	PR	PR	PR	22	обст	_	_
+25	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	24	предл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

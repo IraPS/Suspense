@@ -1,0 +1,42 @@
+1	Потом	ПОТОМ	ADV	ADV -	ADV -	17	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	надев	НАДЕВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	6	обст	_	_
+4	сапоги	САПОГ	S	S m inan acc pl	S m inan acc pl	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	накинув	НАКИНУТЬ	V	V pf praet - ger - -	V pf praet - ger - -	17	обст	_	_
+7	на	НА	PR	PR	PR	6	2-компл	_	_
+8	плечи	ПЛЕЧО	S	S n inan acc pl	S n inan acc pl	7	предл	_	_
+9	поддевку	ПОДДЕВКА	S	S f inan acc sg	S f inan acc sg	8	сочин	_	_
+10	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	застегивая	ЗАСТЕГИВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	соч-союзн	_	_
+13	ворота	ВОРОТА	S	S - inan acc pl	S - inan acc pl	12	1-компл	_	_
+14	рубахи	РУБАХА	S	S f inan gen sg	S f inan gen sg	13	квазиагент	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	17	предик	_	_
+17	выходит	ВЫХОДИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+18	на	НА	PR	PR	PR	17	2-компл	_	_
+19	крыльцо	КРЫЛЬЦО	S	S n inan acc sg	S n inan acc sg	18	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	В	В	PR	PR	PR	4	обст	_	_
+2	запертых	ЗАПИРАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	3	опред	_	_
+3	сенях	СЕНИ	S	S - inan loc pl	S - inan loc pl	1	предл	_	_
+4	пахнет	ПАХНУТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	псиной	ПСИНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	4	1-компл	_	_
+6	;	;	SENT	SENT	SENT	5	PUNC	_	_
+
+1	лениво	ЛЕНИВО	ADV	ADV -	ADV -	2	обст	_	_
+2	дотягиваясь	ДОТЯГИВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	с	С	PR	PR	PR	2	1-компл	_	_
+5	визгом	ВИЗГ	S	S m inan ins sg	S m inan ins sg	4	предл	_	_
+6	зевая	ЗЕВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	сочин	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	улыбаясь	УЛЫБАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	окружают	ОКРУЖАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+11	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	12	квазиагент	_	_
+12	гончие	ГОНЧАЯ	S	S f anim nom pl	S f anim nom pl	10	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

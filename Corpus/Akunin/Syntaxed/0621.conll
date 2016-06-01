@@ -1,0 +1,100 @@
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Русские	РУССКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	ведомости	ВЕДОМОСТЬ	S	S f inan nom pl	S f inan nom pl	9	предик	_	_
+4	»	»	_	_	PUNC	6	PUNC	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	Санкт-Петербург	САНКТ-ПЕТЕРБУРГ	S	S m inan nom sg	S m inan nom sg	3	примыкат	_	_
+7	)	)	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	31	31	NUM	NUM - - -	NUM - - -	16	опред	_	_
+10	августа	АВГУСТ	S	S m inan gen sg	S m inan gen sg	9	атриб	_	_
+11	(	(	_	_	PUNC	12	PUNC	_	_
+12	12	12	NUM	NUM - - -	NUM - - -	9	примыкат	_	_
+13	сентября	СЕНТЯБРЬ	S	S m inan gen sg	S m inan gen sg	12	атриб	_	_
+14	)	)	_	_	PUNC	13	PUNC	_	_
+15	1877	1877	NUM	NUM - - -	NUM - - -	16	опред	_	_
+16	г	Г	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	…	…	SENT	SENT	SENT	0	ROOT	_	_
+
+1	Отважный	ОТВАЖНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	2	опред	_	_
+2	юноша	ЮНОША	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	помня	ПОМНИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	обст	_	_
+5	отеческое	ОТЕЧЕСКИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	6	опред	_	_
+6	напутствие	НАПУТСТВИЕ	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+7	горячо	ГОРЯЧО	ADV	ADV -	ADV -	9	огранич	_	_
+8	любимого	ЛЮБИМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	командира	КОМАНДИР	S	S m anim gen sg	S m anim gen sg	2	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	воскликнул	ВОСКЛИЦАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	:	:	:	:	PUNC	14	2-компл	_	_
+13	„	„	„	„	PUNC	14	1-компл	_	_
+14	Умру	УМИРАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	11	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	Михал	МИХАЛ	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+17	Дмитрия	ДМИТРИЙ	S	S m anim gen sg	S m anim gen sg	16	1-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	но	НО	CONJ	CONJ	CONJ	14	сент-соч	_	_
+20	донесение	ДОНЕСЕНИЕ	S	S n inan nom sg	S n inan nom sg	21	предик	_	_
+21	доставлю	ДОСТАВЛЯТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	19	соч-союзн	_	_
+22	!	!	!	!	PUNC	21	1-компл	_	_
+23	“	“	“	“	PUNC	25	опред	_	_
+24	Девятнадцатилетний	ДЕВЯТНАДЦАТИЛЕТНИЙ	A	A - nom sg plen m -	A - nom sg plen m -	25	опред	_	_
+25	герой	ГЕРОЙ	S	S m anim nom sg	S m anim nom sg	26	предик	_	_
+26	вскочил	ВСКАКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	сент-соч	_	_
+27	на	НА	PR	PR	PR	26	1-компл	_	_
+28	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	29	опред	_	_
+29	донца	ДОНЦЕ	S	S n inan acc pl	S n inan acc pl	27	предл	_	_
+30	и	И	CONJ	CONJ	CONJ	26	сочин	_	_
+31	понесся	ПОНЕСТИСЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	30	соч-союзн	_	_
+32	по	ПО	PR	PR	PR	31	обст	_	_
+33	овеваемой	ОВЕВАТЬ	PARTCP	PARTCP ipf inpraes loc sg plen f pass -	PARTCP ipf inpraes loc sg plen f pass -	35	опред	_	_
+34	свинцовыми	СВИНЦОВЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	35	опред	_	_
+35	ветрами	ВЕТЕР	S	S m inan ins pl	S m inan ins pl	32	предл	_	_
+36	долине	ДОЛИНА	S	S f inan loc sg	S f inan loc sg	31	сочин	_	_
+37	,	,	,	,	PUNC	36	PUNC	_	_
+38	туда	ТУДА	ADV	ADV -	ADV -	26	2-компл	_	_
+39	,	,	,	,	PUNC	38	PUNC	_	_
+40	где	ГДЕ	ADV	ADV -	ADV -	44	обст	_	_
+41	за	ЗА	PR	PR	PR	44	1-компл	_	_
+42	притаившимися	ПРИТАИТЬСЯ	PARTCP	PARTCP pf praet ins pl plen - act -	PARTCP pf praet ins pl plen - act -	43	опред	_	_
+43	башибузуками	БАШИБУЗУК	S	S f inan acc sg	S f inan acc sg	41	предл	_	_
+44	располагались	РАСПОЛАГАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	38	релят	_	_
+45	главные	ГЛАВНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	46	опред	_	_
+46	силы	СИЛА	S	S f inan nom pl	S f inan nom pl	44	предик	_	_
+47	армии	АРМИЯ	S	S f inan gen sg	S f inan gen sg	46	квазиагент	_	_
+48	.	.	SENT	SENT	SENT	47	PUNC	_	_
+
+1	Пули	ПУЛЯ	S	S f inan nom pl	S f inan nom pl	2	предик	_	_
+2	свистели	СВИСТЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	над	НАД	PR	PR	PR	2	1-компл	_	_
+4	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	3	предл	_	_
+5	всадника	ВСАДНИК	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	10	предик	_	_
+9	лишь	ЛИШЬ	PART	PART	PART	10	огранич	_	_
+10	пришпоривал	ПРИШПОРИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	соч-союзн	_	_
+11	горячего	ГОРЯЧИЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	коня	КОНЬ	S	S m anim gen sg	S m anim gen sg	10	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	шепча	ШЕПТАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	обст	_	_
+15	:	:	:	:	PUNC	0	ROOT	_	_
+16	„	„	„	„	PUNC	0	ROOT	_	_
+17	Быстрей	БЫСТРО	ADV	ADV comp	ADV comp	16	обст	_	_
+18	!	!	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Быстрей	БЫСТРО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	От	ОТ	PR	PR	PR	3	1-компл	_	_
+2	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	1	предл	_	_
+3	зависит	ЗАВИСЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	судьба	СУДЬБА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+5	сражения	СРАЖЕНИЕ	S	S n inan gen sg	S n inan gen sg	4	квазиагент	_	_
+6	!	!	!	!	PUNC	5	PUNC	_	_
+7	»	»	SENT	SENT	SENT	6	PUNC	_	_
+

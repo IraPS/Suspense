@@ -1,0 +1,61 @@
+1	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+2	словно	СЛОВНО	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	ненароком	НЕНАРОКОМ	ADV	ADV -	ADV -	4	обст	_	_
+4	подобрался	ПОДБИРАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сравн-союзн	_	_
+5	рукой	РУКА	S	S f inan ins sg	S f inan ins sg	4	1-компл	_	_
+6	повыше	ВЫСОКО	ADV	ADV comp	ADV comp	4	обст	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+8	беспечно	БЕСПЕЧНО	ADV	ADV -	ADV -	9	обст	_	_
+9	сообщил	СООБЩАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+10	:	:	:	:	PUNC	11	опред	_	_
+11	–	–	–	–	PUNC	9	1-компл	_	_
+12	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+13	что	ЧТО	CONJ	CONJ	CONJ	12	вспом	_	_
+14	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	12	соч-союзн	_	_
+15	?	?	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Пошел	ПОЙТИ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	сдаваться	СДАВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	1	1-компл	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	комендатуру	КОМЕНДАТУРА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Известное	ИЗВЕСТНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+2	дело	ДЕЛО	S	S n inan nom sg	S n inan nom sg	7	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	по	ПО	PR	PR	PR	7	вводн	_	_
+5	головке	ГОЛОВКА	S	S f inan dat sg	S f inan dat sg	4	предл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	погладят	ПОГЛАДИТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	юнкеришку	ЮНКЕРИШКА	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	освежевал	ОСВЕЖЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	–	–	–	–	PUNC	3	1-компл	_	_
+5	полковника	ПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Турнут	ТУРНУТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+2	обратно	ОБРАТНО	ADV	ADV -	ADV -	1	обст	_	_
+3	во	ВО	PR	PR	PR	1	2-компл	_	_
+4	Францию	ФРАНЦИЯ	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	1	сент-соч	_	_
+7	это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+8	в	В	PR	PR	PR	0	ROOT	_	_
+9	лучшем	ХОРОШИЙ	A	A supr loc sg plen m -	A supr loc sg plen m -	10	опред	_	_
+10	случае	СЛУЧАЙ	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	2	огранич	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+3	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	5	2-компл	_	_
+4	пуговку	ПУГОВКА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+5	расстегну	РАССТЕГНУТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	легче	ЛЕГКО	ADV	ADV comp	ADV comp	8	обст	_	_
+8	дышать	ДЫШАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	9	предик	_	_
+9	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	сент-соч	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

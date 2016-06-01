@@ -1,0 +1,46 @@
+1	Корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	с	С	PR	PR	PR	4	обст	_	_
+3	достоинством	ДОСТОИНСТВО	S	S n inan ins sg	S n inan ins sg	2	предл	_	_
+4	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	:	:	:	:	PUNC	10	2-компл	_	_
+6	–	–	–	–	PUNC	10	1-компл	_	_
+7	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+8	никогда	НИКОГДА	ADV	ADV -	ADV -	10	обст	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	суечусь	СУЕТИТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	4	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	10	разъяснит	_	_
+13	Суворова	СУВОРОВ	S	S m anim gen sg	S m anim gen sg	12	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Сначала	СНАЧАЛА	ADV	ADV -	ADV -	2	обст	_	_
+2	надо	НАДО	ADV	ADV -	ADV -	0	ROOT	_	_
+3	всесторонне	ВСЕСТОРОННЕ	ADV	ADV -	ADV -	4	обст	_	_
+4	выяснить	ВЫЯСНИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+5	подробности	ПОДРОБНОСТЬ	S	S f inan acc pl	S f inan acc pl	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Вместо	ВМЕСТО	PR	PR	PR	5	обст	_	_
+2	коротенького	КОРОТЕНЬКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+3	сообщения	СООБЩЕНИЕ	S	S n inan gen sg	S n inan gen sg	1	предл	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	пришлю	ПРИСЫЛАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+6	целую	ЦЕЛЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	7	опред	_	_
+7	статью	СТАТЬЯ	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	5	сент-соч	_	_
+10	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	11	предик	_	_
+11	попадет	ПОПАДАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	9	соч-союзн	_	_
+12	в	В	PR	PR	PR	11	2-компл	_	_
+13	тот	ТОТ	A	A - acc sg plen m inan	A - acc sg plen m inan	16	опред	_	_
+14	же	ЖЕ	PART	PART	PART	13	огранич	_	_
+15	утренний	УТРЕННИЙ	A	A - nom sg plen m -	A - nom sg plen m -	16	опред	_	_
+16	выпуск	ВЫПУСК	S	S m inan nom sg	S m inan nom sg	12	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	что	ЧТО	CONJ	CONJ	CONJ	11	1-компл	_	_
+19	и	И	CONJ	CONJ	CONJ	22	соотнос	_	_
+20	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	22	квазиагент	_	_
+21	куцые	КУЦЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	22	опред	_	_
+22	телеграммы	ТЕЛЕГРАММА	S	S f inan nom pl	S f inan nom pl	18	подч-союзн	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

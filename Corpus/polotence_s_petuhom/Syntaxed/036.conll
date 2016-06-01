@@ -1,0 +1,36 @@
+1	Часа	ЧАС	S	S m inan - sg	S m inan - sg	6	предик	_	_
+2	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	6	количест	_	_
+3	в	В	PR	PR	PR	6	обст	_	_
+4	одиночестве	ОДИНОЧЕСТВО	S	S n inan loc sg	S n inan loc sg	3	предл	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+6	мучил	МУЧИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	6	1-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+9	домучил	ДОМУЧИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+10	до	ДО	PR	PR	PR	9	обст	_	_
+11	тех	ТОТ	A	A - gen pl plen - -	A - gen pl plen - -	12	опред	_	_
+12	пор	ПОРА	S	S f inan gen pl	S f inan gen pl	10	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	что	ЧТО	CONJ	CONJ	CONJ	11	эксплет	_	_
+15	уж	УЖ	PART	PART	PART	16	огранич	_	_
+16	больше	БОЛЬШЕ	ADV	ADV -	ADV -	20	обст	_	_
+17	мои	МОЙ	A	A - nom pl plen - -	A - nom pl plen - -	18	опред	_	_
+18	нервы	НЕРВ	S	S m inan nom pl	S m inan nom pl	20	предик	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	выдерживали	ВЫДЕРЖИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	14	подч-союзн	_	_
+21	созданных	СОЗДАВАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	23	опред	_	_
+22	мною	Я	SPRO	SPRO sg 1p - ins	SPRO sg 1p - ins	21	агент	_	_
+23	страхов	СТРАХ	S	S m inan gen pl	S m inan gen pl	20	1-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	начал	НАЧИНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	успокаиваться	УСПОКАИВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	даже	ДАЖЕ	PART	PART	PART	7	огранич	_	_
+7	создавать	СОЗДАВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	соч-союзн	_	_
+8	некоторые	НЕКОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	планы	ПЛАН	S	S m inan nom pl	S m inan nom pl	3	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

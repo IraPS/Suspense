@@ -1,0 +1,35 @@
+1	Наблюдение	НАБЛЮДЕНИЕ	S	S n inan nom sg	S n inan nom sg	6	вводн	_	_
+2	второе	ВТОРОЙ	A	A - nom sg plen n -	A - nom sg plen n -	1	опред	_	_
+3	:	:	:	:	PUNC	1	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	такой	ТАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	добрый	ДОБРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	как	КАК	ADV	ADV -	ADV -	9	обст	_	_
+9	пишут	ПИСАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	6	релят	_	_
+10	в	В	PR	PR	PR	9	2-компл	_	_
+11	газетах	ГАЗЕТА	S	S f inan loc pl	S f inan loc pl	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Скорее	СКОРО	ADV	ADV comp	ADV comp	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	равнодушный	РАВНОДУШНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	усталый	УСТАЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	сочин	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	4	предик	_	_
+2	на	НА	PR	PR	PR	4	обст	_	_
+3	свете	СВЕТ	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	повидал	ПОВИДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	ничему	НИЧТО	S	S n - dat sg	S n - dat sg	8	предик	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	удивится	УДИВЛЯТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	4	сент-соч	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	ничему	НИЧТО	S	S n - dat sg	S n - dat sg	13	предик	_	_
+11	особенно	ОСОБЕННО	ADV	ADV -	ADV -	13	огранич	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	обрадуется	ОБРАДОВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	8	сент-соч	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

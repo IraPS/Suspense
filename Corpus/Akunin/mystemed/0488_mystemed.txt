@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"однако","gr":"CONJ="}],"text":"Однако"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Фандорин"}
+{"analysis":[{"lex":"немедленно","gr":"ADV="}],"text":"немедленно"}
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"все"}
+{"analysis":[{"lex":"испортить","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"испортил"}

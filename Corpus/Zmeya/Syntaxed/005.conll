@@ -1,0 +1,71 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	делал	ДЕЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	Джой	ДЖОЙ	S	S m anim nom sg	S m anim nom sg	2	неакт-компл	_	_
+4	предложение	ПРЕДЛОЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	2	1-компл	_	_
+5	три	ТРИ	NUM	NUM nom - -	NUM nom - -	6	количест	_	_
+6	раза	РАЗ	S	S m inan gen sg	S m inan gen sg	2	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	вызвав	ВЫЗЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+9	сначала	СНАЧАЛА	ADV	ADV -	ADV -	8	обст	_	_
+10	смех	СМЕХ	S	S m inan nom sg	S m inan nom sg	2	сент-соч	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	потом	ПОТОМ	ADV	ADV -	ADV -	0	ROOT	_	_
+13	желание	ЖЕЛАНИЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+14	"	"	_	_	PUNC	15	PUNC	_	_
+15	остаться	ОСТАВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	13	1-компл	_	_
+16	друзьями	ДРУГ	S	S m anim ins pl	S m anim ins pl	15	присвяз	_	_
+17	"	"	_	_	PUNC	16	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+19	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	21	огранич	_	_
+20	нескрываемую	НЕСКРЫВАЕМЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	21	опред	_	_
+21	досаду	ДОСАДА	S	S f inan acc sg	S f inan acc sg	18	соч-союзн	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+2	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	4	1-компл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	нравился	НРАВИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	боялась	БОЯТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	серьезных	СЕРЬЕЗНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	2	1-компл	_	_
+4	длинных	ДЛИННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	5	опред	_	_
+5	людей	ЧЕЛОВЕК	S	S m anim gen pl	S m anim gen pl	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	смотрящих	СМОТРЕТЬ	PARTCP	PARTCP ipf inpraes loc pl plen - act -	PARTCP ipf inpraes loc pl plen - act -	2	обст	_	_
+8	в	В	PR	PR	PR	2	2-компл	_	_
+9	упор	УПОР	S	S m inan acc sg	S m inan acc sg	8	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+11	делающихся	ДЕЛАТЬСЯ	PARTCP	PARTCP ipf inpraes loc pl plen - act -	PARTCP ipf inpraes loc pl plen - act -	10	соч-союзн	_	_
+12	печальными	ПЕЧАЛЬНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	0	ROOT	_	_
+13	от	ОТ	PR	PR	PR	12	атриб	_	_
+14	любви	ЛЮБОВЬ	S	S f inan loc sg	S f inan loc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	При	ПРИ	PR	PR	PR	0	ROOT	_	_
+2	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	3	количест	_	_
+3	мысли	МЫСЛЬ	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	такой	ТАКОЙ	A	A - ins sg plen f -	A - ins sg plen f -	7	опред	_	_
+7	подчеркнуто	ПОДЧЕРКИВАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	10	пасс-анал	_	_
+8	сдержанный	СДЕРЖАННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+10	сделается	СДЕЛАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	5	подч-союзн	_	_
+11	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	10	1-компл	_	_
+12	мужем	МУЖ	S	S m anim ins sg	S m anim ins sg	10	2-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	ею	ОНА	SPRO	SPRO sg 3p f ins	SPRO sg 3p f ins	15	1-компл	_	_
+15	овладевали	ОВЛАДЕВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	12	релят	_	_
+16	запальчивость	ЗАПАЛЬЧИВОСТЬ	S	S f inan acc sg	S f inan acc sg	15	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	мстительный	МСТИТЕЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	19	опред	_	_
+19	гнев	ГНЕВ	S	S m inan nom sg	S m inan nom sg	15	предик	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	обращенный	ОБРАЩАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	19	опред	_	_
+22	к	К	PR	PR	PR	21	2-компл	_	_
+23	невидимому	НЕВИДИМЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	24	опред	_	_
+24	насилию	НАСИЛИЕ	S	S n inan dat sg	S n inan dat sg	22	предл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

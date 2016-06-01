@@ -1,0 +1,10 @@
+1	Капитан	КАПИТАН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	пожал	ПОЖИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	1-компл	_	_
+3	плечами	ПЛЕЧО	S	S n inan ins pl	S n inan ins pl	2	1-компл	_	_
+4	:	:	:	:	PUNC	6	опред	_	_
+5	–	–	–	–	PUNC	6	опред	_	_
+6	Понятия	ПОНЯТИЕ	S	S n inan gen sg	S n inan gen sg	3	1-компл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	имею	ИМЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

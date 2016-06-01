@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"п","gr":"S,abbr=abl,pl"},{"lex":"п","gr":"S,abbr=abl,sg"},{"lex":"п","gr":"S,abbr=acc,pl"},{"lex":"п","gr":"S,abbr=acc,sg"},{"lex":"п","gr":"S,abbr=dat,pl"},{"lex":"п","gr":"S,abbr=dat,sg"},{"lex":"п","gr":"S,abbr=gen,pl"},{"lex":"п","gr":"S,abbr=gen,sg"},{"lex":"п","gr":"S,abbr=ins,pl"},{"lex":"п","gr":"S,abbr=ins,sg"},{"lex":"п","gr":"S,abbr=nom,pl"},{"lex":"п","gr":"S,abbr=nom,sg"}],"text":"П"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"ваш","gr":"APRO=dat,pl"},{"lex":"ваш","gr":"APRO=ins,sg,m"},{"lex":"ваш","gr":"APRO=ins,sg,n"}],"text":"вашим"}
+{"analysis":[{"lex":"дорога","gr":"S,f,inan=dat,pl"}],"text":"дорогам"}
+{"analysis":[{"lex":"заговаривать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"заговорил"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"деревянный","gr":"A=ins,pl,plen"}],"text":"деревянными"}
+{"analysis":[{"lex":"синенький","gr":"A=ins,pl,plen"}],"text":"синенькими"}
+{"analysis":[{"lex":"губа","gr":"S,f,inan=ins,pl"}],"text":"губами"}
+{"analysis":[{"lex":"нужно","gr":"ADV,praed="}],"text":"нужно"}
+{"analysis":[{"lex":"п","gr":"S,abbr=abl,pl"},{"lex":"п","gr":"S,abbr=abl,sg"},{"lex":"п","gr":"S,abbr=acc,pl"},{"lex":"п","gr":"S,abbr=acc,sg"},{"lex":"п","gr":"S,abbr=dat,pl"},{"lex":"п","gr":"S,abbr=dat,sg"},{"lex":"п","gr":"S,abbr=gen,pl"},{"lex":"п","gr":"S,abbr=gen,sg"},{"lex":"п","gr":"S,abbr=ins,pl"},{"lex":"п","gr":"S,abbr=ins,sg"},{"lex":"п","gr":"S,abbr=nom,pl"},{"lex":"п","gr":"S,abbr=nom,sg"}],"text":"п"}
+{"analysis":[{"lex":"привыкать","gr":"V,intr=inf,pf"}],"text":"привыкнуть"}
+{"analysis":[{"lex":"ездить","gr":"V,ipf,intr=inf"}],"text":"ездить"}

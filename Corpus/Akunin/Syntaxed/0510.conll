@@ -1,0 +1,7 @@
+1	Румын	РУМЫН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	удостоил	УДОСТОИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	3	1-компл	_	_
+5	ответом	ОТВЕТ	S	S m inan ins sg	S m inan ins sg	3	2-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

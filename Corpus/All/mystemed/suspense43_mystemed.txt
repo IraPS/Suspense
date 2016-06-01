@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"гипс","gr":"S,m,inan=acc,sg"},{"lex":"гипс","gr":"S,m,inan=nom,sg"}],"text":"Гипс"}
+{"analysis":[{"lex":"давать","gr":"V,tran=pl,imper,2p,ipf"}],"text":"давайте"}
+{"analysis":[{"lex":"сипло","gr":"ADV="}],"text":"сипло"}
+{"analysis":[{"lex":"отзываться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"отозвался"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"толкать","gr":"V,ipf,tran=inpraes,acc,sg,partcp,plen,m,pass,inan"},{"lex":"толкать","gr":"V,ipf,tran=inpraes,nom,sg,partcp,plen,m,pass"}],"text":"толкаемый"}
+{"analysis":[{"lex":"неизвестный","gr":"A=abl,sg,plen,f"},{"lex":"неизвестный","gr":"A=dat,sg,plen,f"},{"lex":"неизвестный","gr":"A=gen,sg,plen,f"},{"lex":"неизвестный","gr":"A=ins,sg,plen,f"}],"text":"неизвестной"}
+{"analysis":[{"lex":"сила","gr":"S,f,inan=ins,sg"}],"text":"силой"}

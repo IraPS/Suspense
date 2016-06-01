@@ -1,0 +1,72 @@
+1	Военный	ВОЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	министр	МИНИСТР	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	сделал	СДЕЛАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	свое	СВОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	5	опред	_	_
+5	дело	ДЕЛО	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+7	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	8	обст	_	_
+8	превратился	ПРЕВРАЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+9	в	В	PR	PR	PR	8	2-компл	_	_
+10	серьезную	СЕРЬЕЗНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+11	помеху	ПОМЕХА	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	ибо	ИБО	CONJ	CONJ	CONJ	8	обст	_	_
+14	к	К	PR	PR	PR	18	3-компл	_	_
+15	реформам	РЕФОРМА	S	S f inan dat pl	S f inan dat pl	14	предл	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	конституции	КОНСТИТУЦИЯ	S	S f inan gen sg	S f inan gen sg	16	соч-союзн	_	_
+18	ни	НИ	CONJ	CONJ	CONJ	24	соотнос	_	_
+19	малейшей	МАЛЫЙ	A	A supr gen sg plen f -	A supr gen sg plen f -	20	опред	_	_
+20	склонности	СКЛОННОСТЬ	S	S f inan gen sg	S f inan gen sg	22	1-компл	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	13	подч-союзн	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	а	А	CONJ	CONJ	CONJ	22	сочин	_	_
+25	более	БОЛЕЕ	ADV	ADV -	ADV -	27	огранич	_	_
+26	всего	ВСЕ	S	S n - gen sg	S n - gen sg	25	сравнит	_	_
+27	интересовался	ИНТЕРЕСОВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	24	соч-союзн	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	когда	КОГДА	ADV	ADV -	ADV -	32	обст	_	_
+30	же	ЖЕ	PART	PART	PART	29	огранич	_	_
+31	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	32	2-компл	_	_
+32	передадут	ПЕРЕДАВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	27	сент-соч	_	_
+33	обещанный	ОБЕЩАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	35	опред	_	_
+34	Анваром	АНВАР	S	S m anim ins sg	S m anim ins sg	33	агент	_	_
+35	миллион	МИЛЛИОН	S	S m inan acc sg	S m inan acc sg	32	1-компл	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	огранич	_	_
+3	вообще	ВООБЩЕ	ADV	ADV -	ADV -	6	обст	_	_
+4	военный	ВОЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	министр	МИНИСТР	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+6	вел	ВЕСТИ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	соч-союзн	_	_
+7	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	6	1-компл	_	_
+8	так	ТАК	ADV	ADV -	ADV -	6	обст	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	будто	БУДТО	CONJ	CONJ	CONJ	8	эксплет	_	_
+11	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	14	предик	_	_
+12	–	–	–	–	PUNC	14	опред	_	_
+13	главное	ГЛАВНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	14	опред	_	_
+14	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	10	сравн-союзн	_	_
+15	в	В	PR	PR	PR	14	атриб	_	_
+16	правительстве	ПРАВИТЕЛЬСТВО	S	S n inan loc sg	S n inan loc sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	уставая	УСТАВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	6	обст	_	_
+20	напоминать	НАПОМИНАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	19	1-компл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	что	ЧТО	CONJ	CONJ	CONJ	20	1-компл	_	_
+23	Абдул	АБДУЛ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+24	-	-	-	-	PUNC	23	PUNC	_	_
+25	Азиса	АЗИСА	S	S f anim nom sg	S f anim nom sg	26	предик	_	_
+26	сверг	СВЕРГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	23	релят	_	_
+27	именно	ИМЕННО	PART	PART	PART	28	огранич	_	_
+28	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	26	присвяз	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	а	А	CONJ	CONJ	CONJ	26	сочин	_	_
+31	вовсе	ВОВСЕ	ADV	ADV -	ADV -	32	огранич	_	_
+32	не	НЕ	PART	PART	PART	33	огранич	_	_
+33	Мидхат	МИДХАТ	S	S m anim nom sg	S m anim nom sg	30	соч-союзн	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+

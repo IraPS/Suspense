@@ -1,0 +1,98 @@
+1	Уже	УЖЕ	ADV	ADV -	ADV -	2	огранич	_	_
+2	секретарь	СЕКРЕТАРЬ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	хотел	ХОТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	звонить	ЗВОНИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	в	В	PR	PR	PR	4	обст	_	_
+6	Академию	АКАДЕМИЯ	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+9	директор	ДИРЕКТОР	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+10	в	В	PR	PR	PR	14	обст	_	_
+11	последний	ПОСЛЕДНИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	12	опред	_	_
+12	момент	МОМЕНТ	S	S m inan acc sg	S m inan acc sg	10	предл	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	позволил	ПОЗВОЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+15	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	14	2-компл	_	_
+16	это	ЭТО	S	S n inan acc sg	S n inan acc sg	17	1-компл	_	_
+17	сделать	СДЕЛАТЬ	V	V pf - - inf - -	V pf - - inf - -	14	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Ещё	ЕЩЕ	ADV	ADV -	ADV -	6	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	чего	ЧТО	S	S n - gen sg	S n - gen sg	6	обст	_	_
+4	доброго	ДОБРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	попадётся	ПОПАДАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+7	какой-нибудь	КАКОЙ-НИБУДЬ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+8	смешливый	СМЕШЛИВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	учёный	УЧЕНЫЙ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	предик	_	_
+12	напишет	НАПИСАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	9	релят	_	_
+13	фельетон	ФЕЛЬЕТОН	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+14	в	В	PR	PR	PR	13	2-компл	_	_
+15	газету	ГАЗЕТА	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+16	—	—	—	—	PUNC	12	1-компл	_	_
+17	дескать	ДЕСКАТЬ	ADV	ADV -	ADV -	19	вводн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	директор	ДИРЕКТОР	S	S m anim nom sg	S m anim nom sg	6	сент-соч	_	_
+20	малограмотный	МАЛОГРАМОТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	19	опред	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	дескать	ДЕСКАТЬ	ADV	ADV -	ADV -	24	вводн	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	тревожат	ТРЕВОЖИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	19	сент-соч	_	_
+25	научное	НАУЧНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	26	опред	_	_
+26	учреждение	УЧРЕЖДЕНИЕ	S	S n inan acc sg	S n inan acc sg	24	1-компл	_	_
+27	такой	ТАКОЙ	A	A - gen sg plen f -	A - gen sg plen f -	28	опред	_	_
+28	чепухой	ЧЕПУХА	S	S f inan ins sg	S f inan ins sg	24	2-компл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Нет	НЕТ	PART	PART	PART	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	уж	УЖ	PART	PART	PART	4	огранич	_	_
+4	лучше	ХОРОШО	ADV	ADV comp	ADV comp	5	обст	_	_
+5	обойтись	ОБХОДИТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+6	своими	СВОЙ	A	A - ins pl plen - -	A - ins pl plen - -	7	опред	_	_
+7	средствами	СРЕДСТВО	S	S n inan ins pl	S n inan ins pl	5	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Хорошо	ХОРОШО	PART	PART	PART	5	огранич	_	_
+2	бы	БЫ	PART	PART	PART	1	вспом	_	_
+3	ещё	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	5	обст	_	_
+5	позвать	ПОЗВАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+6	истопника	ИСТОПНИК	S	S m anim acc sg	S m anim acc sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	чтоб	ЧТОБ	CONJ	CONJ	CONJ	5	обст	_	_
+9	услышать	УСЛЫШАТЬ	V	V pf - - inf - -	V pf - - inf - -	8	инф-союзн	_	_
+10	это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	11	опред	_	_
+11	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+12	из	ИЗ	PR	PR	PR	11	атриб	_	_
+13	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	14	квазиагент	_	_
+14	уст	УСТА	S	S - inan gen pl	S - inan gen pl	12	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Всё-таки	ВСЕ-ТАКИ	PART	PART	PART	5	огранич	_	_
+2	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+3	всю	ВЕСЬ	A	A - acc sg plen f -	A - acc sg plen f -	4	опред	_	_
+4	жизнь	ЖИЗНЬ	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+5	вращается	ВРАЩАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	у	У	PR	PR	PR	5	1-компл	_	_
+7	печей	ПЕЧЬ	S	S f inan gen pl	S f inan gen pl	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Уж	УЖ	PART	PART	PART	2	огранич	_	_
+2	кому	КТО	S	S m - dat sg	S m - dat sg	13	опред	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	кому	КТО	S	S m - dat sg	S m - dat sg	2	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	8	дат-субъект	_	_
+8	известно	ИЗВЕСТНО	ADV	ADV -	ADV -	6	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	как	КАК	CONJ	CONJ	CONJ	13	вводн	_	_
+11	произнести	ПРОИЗНОСИТЬ	V	V pf - - inf - -	V pf - - inf - -	10	сравн-союзн	_	_
+12	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	13	количест	_	_
+13	коче	КОЧА	S	S f inan loc sg	S f inan loc sg	0	ROOT	_	_
+14	...	...	SENT	SENT	SENT	13	PUNC	_	_
+

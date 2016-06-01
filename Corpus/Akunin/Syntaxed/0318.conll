@@ -1,0 +1,49 @@
+1	Сейчас	СЕЙЧАС	ADV	ADV -	ADV -	0	ROOT	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	0	ROOT	_	_
+3	там	ТАМ	ADV	ADV -	ADV -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	где	ГДЕ	ADV	ADV -	ADV -	6	обст	_	_
+6	убивают	УБИВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	3	релят	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Каждый	КАЖДЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	день	ДЕНЬ	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+3	над	НАД	PR	PR	PR	5	обст	_	_
+4	нами	МЫ	SPRO	SPRO pl 1p - ins	SPRO pl 1p - ins	3	предл	_	_
+5	витает	ВИТАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	смерть	СМЕРТЬ	S	S f inan nom sg	S f inan nom sg	5	присвяз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	спокоен	СПОКОЙНЫЙ	A	A - - sg brev m -	A - - sg brev m -	1	соч-союзн	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	надеваю	НАДЕВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	свои	СВОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	опред	_	_
+4	сапоги	САПОГ	S	S m inan acc pl	S m inan acc pl	2	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	за	ЗА	PR	PR	PR	4	распред	_	_
+7	десять	ДЕСЯТЬ	NUM	NUM acc - -	NUM acc - -	8	количест	_	_
+8	лет	ГОД	S	S m inan gen pl	S m inan gen pl	6	предл	_	_
+9	ставшие	СТАНОВИТЬСЯ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	2	опред	_	_
+10	из	ИЗ	PR	PR	PR	9	1-компл	_	_
+11	черных	ЧЕРНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	12	опред	_	_
+12	рыжими	РЫЖИЙ	A	A - ins pl plen - -	A - ins pl plen - -	10	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+15	чувствую	ЧУВСТВОВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	14	соч-союзн	_	_
+16	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	15	1-компл	_	_
+17	под	ПОД	PR	PR	PR	15	обст	_	_
+18	огнем	ОГОНЬ	S	S m inan ins sg	S m inan ins sg	17	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	как	КАК	CONJ	CONJ	CONJ	17	сравнит	_	_
+21	в	В	PR	PR	PR	20	сравн-союзн	_	_
+22	бальных	БАЛЬНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	23	опред	_	_
+23	туфлях	ТУФЛЯ	S	S f inan loc pl	S f inan loc pl	21	предл	_	_
+24	на	НА	PR	PR	PR	15	обст	_	_
+25	зеркальном	ЗЕРКАЛЬНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	26	опред	_	_
+26	паркете	ПАРКЕТ	S	S m inan loc sg	S m inan loc sg	24	предл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

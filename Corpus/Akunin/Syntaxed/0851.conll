@@ -1,0 +1,72 @@
+1	В	В	PR	PR	PR	9	обст	_	_
+2	кочевавшем	КОЧЕВАТЬ	PARTCP	PARTCP ipf praet loc sg plen m act -	PARTCP ipf praet loc sg plen m act -	1	предл	_	_
+3	с	С	PR	PR	PR	2	2-компл	_	_
+4	места	МЕСТО	S	S n inan gen sg	S n inan gen sg	3	предл	_	_
+5	на	НА	PR	PR	PR	7	обст	_	_
+6	место	МЕСТО	S	S n inan acc sg	S n inan acc sg	5	предл	_	_
+7	пресс-клубе	ПРЕСС-КЛУБ	S	S m inan loc sg	S m inan loc sg	9	1-компл	_	_
+8	по-прежнему	ПО-ПРЕЖНЕМУ	ADV	ADV -	ADV -	9	обст	_	_
+9	собиралась	СОБИРАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+10	многочисленная	МНОГОЧИСЛЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	11	опред	_	_
+11	компания	КОМПАНИЯ	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	9	сент-соч	_	_
+14	уже	УЖЕ	ADV	ADV -	ADV -	17	огранич	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	такая	ТАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	17	опред	_	_
+17	шумная	ШУМНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	как	КАК	CONJ	CONJ	CONJ	17	сравнит	_	_
+20	в	В	PR	PR	PR	19	сравн-союзн	_	_
+21	незабвенные	НЕЗАБВЕННЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	23	опред	_	_
+22	зуровские	ЗУРОВСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	23	опред	_	_
+23	времена	ВРЕМЯ	S	S n inan acc pl	S n inan acc pl	20	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	В	В	PR	PR	PR	3	обст	_	_
+2	карты	КАРТА	S	S f inan acc pl	S f inan acc pl	1	предл	_	_
+3	играли	ИГРАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	умеренно	УМЕРЕННО	ADV	ADV -	ADV -	3	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	по	ПО	PR	PR	PR	3	обст	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	маленькой	МАЛЕНЬКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	3	2-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Шахматные	ШАХМАТНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	2	опред	_	_
+2	партии	ПАРТИЯ	S	S f inan gen sg	S f inan gen sg	7	предик	_	_
+3	с	С	PR	PR	PR	2	атриб	_	_
+4	исчезновением	ИСЧЕЗНОВЕНИЕ	S	S n inan ins sg	S n inan ins sg	3	предл	_	_
+5	Маклафлина	МАКЛАФЛИН	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	вовсе	ВОВСЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	прекратились	ПРЕКРАЩАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Об	ОБ	PR	PR	PR	5	3-компл	_	_
+2	ирландце	ИРЛАНДЕЦ	S	S f inan acc sg	S f inan acc sg	1	предл	_	_
+3	журналисты	ЖУРНАЛИСТ	S	S m anim nom pl	S m anim nom pl	5	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	поминали	ПОМИНАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	во	ВО	PR	PR	PR	10	огранич	_	_
+8	всяком	ВСЯКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	9	опред	_	_
+9	случае	СЛУЧАЙ	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+10	при	ПРИ	PR	PR	PR	5	обст	_	_
+11	русских	РУССКИЙ	A	A - loc pl plen - -	A - loc pl plen - -	0	ROOT	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	однако	ОДНАКО	CONJ	CONJ	CONJ	11	сочин	_	_
+14	двое	ДВОЕ	NUM	NUM nom - -	NUM nom - -	17	количест	_	_
+15	остальных	ОСТАЛЬНОЙ	A	A - gen pl plen - -	A - gen pl plen - -	17	опред	_	_
+16	британских	БРИТАНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	17	опред	_	_
+17	корреспондентов	КОРРЕСПОНДЕНТ	S	S m anim gen pl	S m anim gen pl	18	предик	_	_
+18	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	13	соч-союзн	_	_
+19	подвергнуты	ПОДВЕРГАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	18	пасс-анал	_	_
+20	демонстративному	ДЕМОНСТРАТИВНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	21	опред	_	_
+21	бойкоту	БОЙКОТ	S	S m inan dat sg	S m inan dat sg	19	2-компл	_	_
+22	и	И	CONJ	CONJ	CONJ	18	сент-соч	_	_
+23	бывать	БЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	26	1-компл	_	_
+24	в	В	PR	PR	PR	23	обст	_	_
+25	клубе	КЛУБ	S	S m inan loc sg	S m inan loc sg	24	предл	_	_
+26	перестали	ПЕРЕСТАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	22	соч-союзн	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

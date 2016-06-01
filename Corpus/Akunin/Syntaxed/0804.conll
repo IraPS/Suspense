@@ -1,0 +1,24 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	во	ВО	PR	PR	PR	6	обст	_	_
+3	второй	ВТОРОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+5	:	:	:	:	PUNC	6	опред	_	_
+6	–	–	–	–	PUNC	15	1-компл	_	_
+7	Так	ТАК	ADV	ADV -	ADV -	15	вводн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	значит	ЗНАЧИТ	ADV	ADV -	ADV -	15	вводн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	Маклафлин	МАКЛАФЛИН	S	S f inan nom sg	S f inan nom sg	15	предик	_	_
+12	с	С	PR	PR	PR	11	1-компл	_	_
+13	Ганецким	ГАНЕЦКИЙ	S	S m anim ins sg	S m anim ins sg	12	предл	_	_
+14	хорошо	ХОРОШО	ADV	ADV -	ADV -	15	обст	_	_
+15	знаком	ЗНАКОМЫЙ	A	A - - sg brev m -	A - - sg brev m -	1	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	если	ЕСЛИ	CONJ	CONJ	CONJ	15	обст	_	_
+18	назвал	НАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	17	подч-союзн	_	_
+19	по	ПО	PR	PR	PR	18	обст	_	_
+20	имени	ИМЯ	S	S n inan dat sg	S n inan dat sg	19	предл	_	_
+21	-	-	-	-	PUNC	20	PUNC	_	_
+22	отчеству	ОТЧЕСТВО	S	S n inan dat sg	S n inan dat sg	20	кратн	_	_
+23	?	?	SENT	SENT	SENT	22	PUNC	_	_
+

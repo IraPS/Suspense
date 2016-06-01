@@ -1,0 +1,31 @@
+1	Из-за	ИЗ-ЗА	PR	PR	PR	3	обст	_	_
+2	двери	ДВЕРЬ	S	S f inan dat sg	S f inan dat sg	1	предл	_	_
+3	донесся	ДОНОСИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	голос	ГОЛОС	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+5	Мизинова	МИЗИНОВ	S	S m anim acc sg	S m anim acc sg	4	аппоз	_	_
+6	:	:	:	:	PUNC	7	опред	_	_
+7	–	–	–	–	PUNC	8	опред	_	_
+8	Господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+9	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	к	К	PR	PR	PR	13	2-компл	_	_
+12	чему	ЧТО	S	S n - dat sg	S n - dat sg	11	предл	_	_
+13	тянуть	ТЯНУТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+14	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	13	1-компл	_	_
+15	?	?	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	4	предик	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	просто	ПРОСТО	PART	PART	PART	4	огранич	_	_
+4	малодушие	МАЛОДУШИЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Выходите	ВЫХОДИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	обещаю	ОБЕЩАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+5	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	4	2-компл	_	_
+6	статус	СТАТУС	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+7	военнопленного	ВОЕННОПЛЕННЫЙ	S	S m anim gen sg	S m anim gen sg	6	квазиагент	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

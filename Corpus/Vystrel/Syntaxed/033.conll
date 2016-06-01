@@ -1,0 +1,11 @@
+1	Граф	ГРАФ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	графиня	ГРАФИНЯ	S	S f anim nom sg	S f anim nom sg	2	соч-союзн	_	_
+4	рады	РАД	A	A - - pl brev - -	A - - pl brev - -	5	присвяз	_	_
+5	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	эксплет	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	9	предик	_	_
+9	разговорился	РАЗГОВОРИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	подч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

@@ -1,0 +1,42 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+4	просто	ПРОСТО	PART	PART	PART	2	огранич	_	_
+5	…	…	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+2	просто	ПРОСТО	PART	PART	PART	3	огранич	_	_
+3	–	–	–	–	PUNC	4	опред	_	_
+4	слуга	СЛУГА	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+5	престола	ПРЕСТОЛ	S	S m inan gen sg	S m inan gen sg	4	1-компл	_	_
+6	!.	!.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	процедила	ПРОЦЕЖИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	худшее	ПЛОХОЙ	A	A supr nom sg plen n -	A supr nom sg plen n -	3	аппоз	_	_
+5	из	ИЗ	PR	PR	PR	2	разъяснит	_	_
+6	оскорблений	ОСКОРБЛЕНИЕ	S	S n inan gen pl	S n inan gen pl	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+9	когда	КОГДА	CONJ	CONJ	CONJ	14	обст	_	_
+10	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	содрогнулся	СОДРОГАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	подч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	пояснила	ПОЯСНЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+15	на	НА	PR	PR	PR	14	1-компл	_	_
+16	доступном	ДОСТУПНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	18	опред	_	_
+17	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	16	1-компл	_	_
+18	языке	ЯЗЫК	S	S m inan loc sg	S m inan loc sg	15	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Верноподданный	ВЕРНОПОДДАННЫЙ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	раб	РАБ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	без	БЕЗ	PR	PR	PR	3	атриб	_	_
+5	ума	УМ	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	совести	СОВЕСТЬ	S	S f inan gen sg	S f inan gen sg	6	соч-союзн	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+

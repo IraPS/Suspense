@@ -1,0 +1,26 @@
+1	Поздней	ПОЗДНИЙ	A	A - ins sg plen f -	A - ins sg plen f -	2	опред	_	_
+2	ночью	НОЧЬ	S	S f inan ins sg	S f inan ins sg	22	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	когда	КОГДА	CONJ	CONJ	CONJ	2	уточн	_	_
+5	на	НА	PR	PR	PR	7	обст	_	_
+6	деревне	ДЕРЕВНЯ	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	погаснут	ПОГАСАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	4	подч-союзн	_	_
+8	огни	ОГОНЬ	S	S m inan nom pl	S m inan nom pl	7	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	когда	КОГДА	CONJ	CONJ	CONJ	7	обст	_	_
+11	в	В	PR	PR	PR	15	обст	_	_
+12	небе	НЕБО	S	S n inan loc sg	S n inan loc sg	11	предл	_	_
+13	уже	УЖЕ	ADV	ADV -	ADV -	14	огранич	_	_
+14	высоко	ВЫСОКО	ADV	ADV -	ADV -	15	2-компл	_	_
+15	блещет	БЛИСТАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	подч-союзн	_	_
+16	бриллиантовое	БРИЛЛИАНТОВЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	17	опред	_	_
+17	созвездие	СОЗВЕЗДИЕ	S	S n inan nom sg	S n inan nom sg	15	предик	_	_
+18	Стожар	СТОЖАР	S	S m inan acc sg	S m inan acc sg	17	1-компл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	еще	ЕЩЕ	ADV	ADV -	ADV -	21	огранич	_	_
+21	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	22	обст	_	_
+22	пробежишь	ПРОБЕЖАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+23	в	В	PR	PR	PR	22	2-компл	_	_
+24	сад	САД	S	S m inan acc sg	S m inan acc sg	23	предл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

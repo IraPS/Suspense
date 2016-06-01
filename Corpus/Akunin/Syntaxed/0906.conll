@@ -1,0 +1,65 @@
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Не	НЕ	PART	PART	PART	3	огранич	_	_
+3	сложите	СЛАГАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	16	оп-опред	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	 	 	 	 	PUNC	7	3-компл	_	_
+6	–	–	–	–	PUNC	7	1-компл	_	_
+7	ответила	ОТВЕЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	вводн	_	_
+8	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	глядя	ГЛЯДЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	обст	_	_
+11	на	НА	PR	PR	PR	10	1-компл	_	_
+12	генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	11	предл	_	_
+13	с	С	PR	PR	PR	12	атриб	_	_
+14	искренним	ИСКРЕННИЙ	A	A - ins sg plen n -	A - ins sg plen n -	15	опред	_	_
+15	восхищением	ВОСХИЩЕНИЕ	S	S n inan ins sg	S n inan ins sg	13	предл	_	_
+16	–	–	–	–	PUNC	23	1-компл	_	_
+17	уж	УЖ	PART	PART	PART	18	огранич	_	_
+18	до	ДО	PR	PR	PR	22	обст	_	_
+19	того	ТО	S	S n - gen sg	S n - gen sg	18	предл	_	_
+20	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	22	предик	_	_
+21	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	22	обст	_	_
+22	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+23	хорош	ХОРОШИЙ	A	A - - sg brev m -	A - - sg brev m -	22	присвяз	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	истинный	ИСТИННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	26	опред	_	_
+26	Ахиллес	АХИЛЛЕС	S	S m anim nom sg	S m anim nom sg	22	предик	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	–	–	–	–	PUNC	11	1-компл	_	_
+2	Тьфу	ТЬФУ	INTJ	INTJ	INTJ	4	вводн	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	тьфу	ТЬФУ	INTJ	INTJ	INTJ	1	примыкат	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	тьфу	ТЬФУ	INTJ	INTJ	INTJ	4	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	11	2-компл	_	_
+9	–	–	–	–	PUNC	11	1-компл	_	_
+10	суеверно	СУЕВЕРНО	ADV	ADV -	ADV -	11	обст	_	_
+11	поплевал	ПОПЛЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	поздно	ПОЗДНО	ADV	ADV -	ADV -	5	обст	_	_
+5	одуматься	ОДУМЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	встрепенулся	ВСТРЕПЕНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Позвольте	ПОЗВОЛЯТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	8	2-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Михаил	МИХАИЛ	S	S m anim nom sg	S m anim nom sg	2	вводн	_	_
+5	Дмитриевич	ДМИТРИЕВИЧ	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+8	верну	ВЕРНУТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+9	Гукмасова	ГУКМАСОВА	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+10	!	!	SENT	SENT	SENT	9	PUNC	_	_
+

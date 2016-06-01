@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"Д"}
+{"analysis":[{"lex":"до","gr":"PR="}],"text":"до"}
+{"analysis":[{"lex":"свидание","gr":"S,n,inan=acc,pl"},{"lex":"свидание","gr":"S,n,inan=gen,sg"},{"lex":"свидание","gr":"S,n,inan=nom,pl"}],"text":"свидания"}
+{"analysis":[{"lex":"варвара","gr":"S,persn,f,anim=nom,sg"}],"text":"Варвара"}
+{"analysis":[{"lex":"андреевна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Андреевна"}
+{"text":"\\s"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"Был"}
+{"analysis":[{"lex":"очень","gr":"ADV="}],"text":"очень"}
+{"analysis":[{"lex":"рад","gr":"A,brev=sg,m"}],"text":"рад"}
+{"text":"\\s"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"договаривать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"договорил"}

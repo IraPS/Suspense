@@ -1,0 +1,7 @@
+1	Ирландец	ИРЛАНДЕЦ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	оглянулся	ОГЛЯНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	приподнял	ПРИПОДЫМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	соч-союзн	_	_
+5	котелок	КОТЕЛОК	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

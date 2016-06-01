@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"мы","gr":"SPRO,pl,1p=nom"}],"text":"мы"}
+{"analysis":[{"lex":"ее","gr":"APRO=abl,pl"},{"lex":"ее","gr":"APRO=dat,pl"},{"lex":"ее","gr":"APRO=gen,pl"},{"lex":"ее","gr":"APRO=ins,pl"},{"lex":"ее","gr":"APRO=nom,pl"},{"lex":"ее","gr":"APRO=nom,sg,f"},{"lex":"ее","gr":"APRO=acc,sg,m,anim"},{"lex":"ее","gr":"APRO=gen,sg,m"},{"lex":"ее","gr":"APRO=gen,sg,n"},{"lex":"ее","gr":"APRO=acc,sg,n"},{"lex":"ее","gr":"APRO=nom,sg,n"},{"lex":"ее","gr":"APRO=abl,sg,f"},{"lex":"ее","gr":"APRO=dat,sg,f"},{"lex":"ее","gr":"APRO=gen,sg,f"},{"lex":"ее","gr":"APRO=ins,sg,f"},{"lex":"ее","gr":"APRO=abl,sg,m"},{"lex":"ее","gr":"APRO=abl,sg,n"},{"lex":"ее","gr":"APRO=dat,sg,m"},{"lex":"ее","gr":"APRO=dat,sg,n"},{"lex":"ее","gr":"APRO=acc,sg,f"},{"lex":"ее","gr":"APRO=acc,pl,inan"},{"lex":"ее","gr":"APRO=acc,sg,m,inan"},{"lex":"ее","gr":"APRO=nom,sg,m"},{"lex":"ее","gr":"APRO=ins,sg,m"},{"lex":"ее","gr":"APRO=ins,sg,n"},{"lex":"ее","gr":"APRO=acc,pl,anim"},{"lex":"ее","gr":"APRO=abl,pl,n"},{"lex":"ее","gr":"APRO=acc,pl,n"},{"lex":"ее","gr":"APRO=dat,pl,n"},{"lex":"ее","gr":"APRO=gen,pl,n"},{"lex":"ее","gr":"APRO=ins,pl,n"},{"lex":"ее","gr":"APRO=nom,pl,n"},{"lex":"ее","gr":"APRO=abl,pl,m"},{"lex":"ее","gr":"APRO=acc,pl,m"},{"lex":"ее","gr":"APRO=acc,sg,m"},{"lex":"ее","gr":"APRO=dat,pl,m"}],"text":"ее"}
+{"analysis":[{"lex":"султанчик","gr":"S,m,inan=ins,sg"}],"text":"султанчиком"}
+{"analysis":[{"lex":"господин","gr":"S,m,anim=nom,pl"}],"text":"господа"}
+{"analysis":[],"text":"L"}
+{"analysis":[],"text":"as"}
+{"analysis":[],"text":"de"}
+{"analysis":[],"text":"carreau"}
+{"analysis":[{"lex":"ха-ха","gr":"INTJ="}],"text":"Ха-ха"}
+{"analysis":[{"lex":"бить","gr":"V,ipf,tran=praet,sg,partcp,brev,n,pass"}],"text":"бито"}

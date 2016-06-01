@@ -1,0 +1,121 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	к	К	PR	PR	PR	8	обст	_	_
+5	облегчению	ОБЛЕГЧЕНИЕ	S	S n inan dat sg	S n inan dat sg	4	предл	_	_
+6	родителей	РОДИТЕЛЬ	S	S m anim gen pl	S m anim gen pl	5	квазиагент	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	уехала	УЕЗЖАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+9	в	В	PR	PR	PR	8	2-компл	_	_
+10	тамбовское	ТАМБОВСКИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	11	опред	_	_
+11	имение	ИМЕНИЕ	S	S n inan acc sg	S n inan acc sg	9	предл	_	_
+12	–	–	–	–	PUNC	8	1-компл	_	_
+13	но	НО	CONJ	CONJ	CONJ	8	сочин	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	бездельничать	БЕЗДЕЛЬНИЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	а	А	CONJ	CONJ	CONJ	15	сочин	_	_
+18	учить	УЧИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	17	соч-союзн	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	воспитывать	ВОСПИТЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	19	соч-союзн	_	_
+21	крестьянских	КРЕСТЬЯНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	22	опред	_	_
+22	детей	РЕБЕНОК	S	S m anim gen pl	S m anim gen pl	20	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Там	ТАМ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	в	В	PR	PR	PR	1	сочин	_	_
+4	новенькой	НОВЕНЬКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	9	опред	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	пахнущей	ПАХНУТЬ	PARTCP	PARTCP ipf inpraes loc sg plen f act -	PARTCP ipf inpraes loc sg plen f act -	4	сочин	_	_
+7	сосновыми	СОСНОВЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	9	опред	_	_
+8	опилками	ОПИЛКА	S	S - - ins pl	S - - ins pl	9	опред	_	_
+9	школе	ШКОЛА	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	1	сент-соч	_	_
+11	познакомилась	ПОЗНАКОМИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	соч-союзн	_	_
+12	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	11	предик	_	_
+13	с	С	PR	PR	PR	11	2-компл	_	_
+14	петербургским	ПЕТЕРБУРГСКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	15	опред	_	_
+15	студентам	СТУДЕНТ	S	S m anim dat pl	S m anim dat pl	13	предл	_	_
+16	Петей	ПЕТЯ	S	S m anim ins sg	S m anim ins sg	11	1-компл	_	_
+17	Яблоковым	ЯБЛОКОВ	S	S m anim ins sg	S m anim ins sg	16	аппоз	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	преподавал	ПРЕПОДАВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	арифметику	АРИФМЕТИКА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	географию	ГЕОГРАФИЯ	S	S f inan acc sg	S f inan acc sg	3	сочин	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	основы	ОСНОВА	S	S f inan nom pl	S f inan nom pl	15	обст	_	_
+8	естественных	ЕСТЕСТВЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	наук	НАУКА	S	S f inan gen pl	S f inan gen pl	7	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	15	предик	_	_
+12	–	–	–	–	PUNC	15	опред	_	_
+13	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	15	опред	_	_
+14	прочие	ПРОЧИЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	опред	_	_
+15	дисциплины	ДИСЦИПЛИНА	S	S f inan nom pl	S f inan nom pl	6	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Довольно	ДОВОЛЬНО	ADV	ADV -	ADV -	2	огранич	_	_
+2	скоро	СКОРО	ADV	ADV -	ADV -	5	обст	_	_
+3	до	ДО	PR	PR	PR	5	обст	_	_
+4	крестьян	КРЕСТЬЯНИН	S	S m anim gen pl	S m anim gen pl	3	предл	_	_
+5	дошло	ДОХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	предик	_	_
+8	ни	НИ	CONJ	CONJ	CONJ	11	соотнос	_	_
+9	платы	ПЛАТА	S	S f inan gen sg	S f inan gen sg	20	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	ни	НИ	CONJ	CONJ	CONJ	9	сочин	_	_
+12	прочих	ПРОЧИЙ	A	A - gen pl plen - -	A - gen pl plen - -	14	опред	_	_
+13	каких	КАКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	14	опред	_	_
+14	удовольствий	УДОВОЛЬСТВИЕ	S	S n inan gen pl	S n inan gen pl	11	соч-союзн	_	_
+15	от	ОТ	PR	PR	PR	14	1-компл	_	_
+16	хождения	ХОЖДЕНИЕ	S	S n inan gen sg	S n inan gen sg	15	предл	_	_
+17	в	В	PR	PR	PR	20	обст	_	_
+18	школу	ШКОЛА	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	подч-союзн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+23	детей	РЕБЕНОК	S	S m anim acc pl	S m anim acc pl	24	1-компл	_	_
+24	разобрали	РАЗБИРАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	22	соч-союзн	_	_
+25	по	ПО	PR	PR	PR	24	обст	_	_
+26	домам	ДОМ	S	S m inan dat pl	S m inan dat pl	25	предл	_	_
+27	(	(	_	_	PUNC	28	PUNC	_	_
+28	нечего	НЕЧЕГО	ADV	ADV -	ADV -	29	обст	_	_
+29	лоботрясничать	ЛОБОТРЯСНИЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	24	разъяснит	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	работать	РАБОТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	29	сочин	_	_
+32	надо	НАДО	ADV	ADV -	ADV -	5	примыкат	_	_
+33	)	)	_	_	PUNC	32	PUNC	_	_
+34	,	,	,	,	PUNC	32	PUNC	_	_
+35	но	НО	CONJ	CONJ	CONJ	5	сент-соч	_	_
+36	к	К	PR	PR	PR	39	вводн	_	_
+37	тому	ТОТ	A	A - dat sg plen m -	A - dat sg plen m -	38	опред	_	_
+38	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	36	предл	_	_
+39	у	У	PR	PR	PR	35	соч-союзн	_	_
+40	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	39	предл	_	_
+41	и	И	CONJ	CONJ	CONJ	5	сент-соч	_	_
+42	Пети	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	44	предик	_	_
+43	уже	УЖЕ	ADV	ADV -	ADV -	44	огранич	_	_
+44	возник	ВОЗНИКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	41	соч-союзн	_	_
+45	проект	ПРОЕКТ	S	S m inan nom sg	S m inan nom sg	48	предик	_	_
+46	дальнейшей	ДАЛЬНЕЙШИЙ	A	A - gen sg plen f -	A - gen sg plen f -	47	опред	_	_
+47	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	45	1-компл	_	_
+48	–	–	–	–	PUNC	44	1-компл	_	_
+49	свободной	СВОБОДНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	53	опред	_	_
+50	,	,	,	,	PUNC	49	PUNC	_	_
+51	современной	СОВРЕМЕННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	49	сочин	_	_
+52	,	,	,	,	PUNC	51	PUNC	_	_
+53	построенной	ПОСТРОИТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	0	ROOT	_	_
+54	на	НА	PR	PR	PR	53	атриб	_	_
+55	взаимоуважении	ВЗАИМОУВАЖЕНИЕ	S	S m inan loc sg	S m inan loc sg	54	предл	_	_
+56	и	И	CONJ	CONJ	CONJ	55	сочин	_	_
+57	разумном	РАЗУМНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	58	опред	_	_
+58	распределении	РАСПРЕДЕЛЕНИЕ	S	S n inan loc sg	S n inan loc sg	56	соч-союзн	_	_
+59	обязанностей	ОБЯЗАННОСТЬ	S	S f inan gen pl	S f inan gen pl	58	1-компл	_	_
+60	.	.	SENT	SENT	SENT	59	PUNC	_	_
+

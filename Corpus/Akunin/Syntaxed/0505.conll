@@ -1,0 +1,42 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	решил	РЕШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+4	проблему	ПРОБЛЕМА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	с	С	PR	PR	PR	4	1-компл	_	_
+6	истинно	ИСТИННО	ADV	ADV -	ADV -	7	огранич	_	_
+7	военной	ВОЕННЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	8	опред	_	_
+8	решительностью	РЕШИТЕЛЬНОСТЬ	S	S f inan ins sg	S f inan ins sg	5	предл	_	_
+9	–	–	–	–	PUNC	11	предик	_	_
+10	легонько	ЛЕГОНЬКО	ADV	ADV -	ADV -	11	обст	_	_
+11	шлепнул	ШЛЕПНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+12	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+13	спутницу	СПУТНИЦА	S	S f anim acc sg	S f anim acc sg	11	1-компл	_	_
+14	ладонью	ЛАДОНЬ	S	S f inan ins sg	S f inan ins sg	11	2-компл	_	_
+15	пониже	НИЗКО	ADV	ADV comp	ADV comp	22	обст	_	_
+16	пышного	ПЫШНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	17	опред	_	_
+17	шлейфа	ШЛЕЙФ	S	S m inan gen sg	S m inan gen sg	15	сравнит	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+20	шатенка	ШАТЕНКА	S	S f anim nom sg	S f anim nom sg	19	соч-союзн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	прошипев	ПРОШИПЕТЬ	V	V pf praet - ger - -	V pf praet - ger - -	11	обст	_	_
+23	что-то	ЧТО-ТО	S	S n - nom sg	S n - nom sg	27	обст	_	_
+24	ядовитое	ЯДОВИТЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	27	предик	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	возмущенно	ВОЗМУЩЕННО	ADV	ADV -	ADV -	27	обст	_	_
+27	удалилась	УДАЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	11	сент-соч	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Видимо	ВИДИМО	ADV	ADV -	ADV -	6	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	жена	ЖЕНА	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	подумала	ПОДУМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+7	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+9	смутилась	СМУЩАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+10	еще	ЕЩЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	больше	МНОГО	ADV	ADV comp	ADV comp	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

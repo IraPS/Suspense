@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"вот","gr":"PART="}],"text":"Вот"}
+{"analysis":[{"lex":"как","gr":"ADVPRO="}],"text":"как"}
+{"analysis":[{"lex":"потухать","gr":"V,intr=inpraes,sg,indic,3p,ipf"}],"text":"потухает"}
+{"analysis":[{"lex":"изорвать","gr":"V,pf,tran=praet,acc,sg,partcp,plen,m,pass,inan"},{"lex":"изорвать","gr":"V,pf,tran=praet,nom,sg,partcp,plen,m,pass"}],"text":"изорванный"}
+{"analysis":[{"lex":"человек","gr":"S,m,anim=acc,pl"},{"lex":"человек","gr":"S,m,anim=gen,pl"},{"lex":"человек","gr":"S,m,anim=nom,sg"}],"text":"человек"}
+{"analysis":[{"lex":"подумать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"подумал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"тут","gr":"ADVPRO="}],"text":"тут"}
+{"analysis":[{"lex":"уж","gr":"PART="}],"text":"уж"}
+{"analysis":[{"lex":"ничто","gr":"SPRO,sg,n=gen"}],"text":"ничего"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"сделать","gr":"V,pf,tran=inpraes,sg,indic,2p"}],"text":"сделаешь"}

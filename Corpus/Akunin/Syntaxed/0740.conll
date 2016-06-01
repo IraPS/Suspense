@@ -1,0 +1,23 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	объяснила	ОБЪЯСНЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	:	:	:	:	PUNC	5	опред	_	_
+4	–	–	–	–	PUNC	5	опред	_	_
+5	Вещи	ВЕЩЬ	S	S f inan nom pl	S f inan nom pl	6	предик	_	_
+6	оставила	ОСТАВЛЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	примыкат	_	_
+7	у	У	PR	PR	PR	6	1-компл	_	_
+8	милосердных	МИЛОСЕРДНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	сестер	СЕСТРА	S	S m inan gen pl	S m inan gen pl	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	занят	ЗАНИМАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	2-компл	_	_
+4	службе	СЛУЖБА	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	так	ТАК	ADV	ADV -	ADV -	9	обст	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	9	предик	_	_
+8	сразу	СРАЗУ	ADV	ADV -	ADV -	9	огранич	_	_
+9	к	К	PR	PR	PR	2	сент-соч	_	_
+10	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

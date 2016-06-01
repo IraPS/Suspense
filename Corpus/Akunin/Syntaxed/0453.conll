@@ -1,0 +1,37 @@
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Прошу	ПРОСИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	6	1-компл	_	_
+5	–	–	–	–	PUNC	6	1-компл	_	_
+6	поклонился	ПОКЛОНИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	релят	_	_
+7	Лукан	ЛУКАН	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	9	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	поневоле	ПОНЕВОЛЕ	ADV	ADV -	ADV -	13	обст	_	_
+13	заинтригованная	ЗАИНТРИГОВЫВАТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	6	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	села	САДИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	вводн	_	_
+16	на	НА	PR	PR	PR	15	обст	_	_
+17	пружинящее	ПРУЖИНИТЬ	PARTCP	PARTCP ipf inpraes acc sg plen n act -	PARTCP ipf inpraes acc sg plen n act -	18	опред	_	_
+18	сиденье	СИДЕНИЕ	S	S n inan loc sg	S n inan loc sg	16	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Куда	КУДА	ADV	ADV -	ADV -	4	огранич	_	_
+3	это	ЭТО	PART	PART	PART	4	огранич	_	_
+4	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	1	предик	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	В	В	PR	PR	PR	1	обст	_	_
+3	офицерскую	ОФИЦЕРСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	4	опред	_	_
+4	кантину	КАНТИНА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+

@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"оно","gr":"SPRO,sg,3p,n=nom"}],"text":"Оно"}
+{"analysis":[{"lex":"скрываться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"скрылось"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"пелена","gr":"S,f,inan=ins,sg"}],"text":"пеленой"}
+{"analysis":[{"lex":"дым","gr":"S,m,inan=gen,sg"}],"text":"дыма"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"который","gr":"APRO=abl,sg,m"},{"lex":"который","gr":"APRO=abl,sg,n"}],"text":"котором"}
+{"analysis":[{"lex":"мелькать","gr":"V,ipf,intr=praet,sg,indic,n"}],"text":"мелькало"}
+{"analysis":[{"lex":"белый","gr":"A=acc,sg,plen,n"},{"lex":"белый","gr":"A=nom,sg,plen,n"}],"text":"белое"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"летать","gr":"V,ipf,intr=praet,pl,indic"}],"text":"летали"}
+{"analysis":[{"lex":"черный","gr":"A=acc,pl,plen,inan"},{"lex":"черный","gr":"A=nom,pl,plen"}],"text":"черные"}
+{"analysis":[{"lex":"ком","gr":"S,m,inan=acc,pl"},{"lex":"ком","gr":"S,m,inan=nom,pl"}],"text":"комья"}
+{"analysis":[{"lex":"земля","gr":"S,f,inan=acc,pl"},{"lex":"земля","gr":"S,f,inan=gen,sg"},{"lex":"земля","gr":"S,f,inan=nom,pl"}],"text":"земли"}

@@ -1,0 +1,24 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	мельком	МЕЛЬКОМ	ADV	ADV -	ADV -	3	обст	_	_
+3	посмотрела	ПОСМОТРЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	вниз	ВНИЗ	ADV	ADV -	ADV -	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	сочин	_	_
+7	пляшущую	ПЛЯСАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen f act -	PARTCP ipf inpraes acc sg plen f act -	6	1-компл	_	_
+8	пятнистую	ПЯТНИСТЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	6	сочин	_	_
+10	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	сдавленно	СДАВЛЕННО	ADV	ADV -	ADV -	13	обст	_	_
+13	вскрикнув	ВСКРИКИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	15	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	выпустила	ВЫПУСКАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	соч-союзн	_	_
+16	поводья	ПОВОД	S	S m inan acc pl	S m inan acc pl	15	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	чего	ЧТО	S	S n - gen sg	S n - gen sg	19	1-компл	_	_
+19	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	22	предик	_	_
+20	ни в коем случае	ни в коем случае	ADV	ADV -	-	22	обст	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	следовало	СЛЕДОВАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	15	сент-соч	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

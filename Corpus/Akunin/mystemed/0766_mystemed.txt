@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"договаривать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"договорил"}
+{"analysis":[{"lex":"только","gr":"PART="}],"text":"только"}
+{"analysis":[{"lex":"махнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"махнул"}
+{"analysis":[{"lex":"рука","gr":"S,f,inan=ins,sg"}],"text":"рукой"}

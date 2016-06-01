@@ -1,0 +1,184 @@
+1	Многие	МНОГИЕ	S	S - - nom pl	S - - nom pl	5	предик	_	_
+2	из	ИЗ	PR	PR	PR	1	электив	_	_
+3	товарищей	ТОВАРИЩ	S	S m anim gen pl	S m anim gen pl	2	предл	_	_
+4	Колюши	КОЛЮША	S	S m anim gen sg	S m anim gen sg	3	1-компл	_	_
+5	просили	ПРОСИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	5	1-компл	_	_
+7	проверить	ПРОВЕРЯТЬ	V	V pf - - inf - -	V pf - - inf - -	5	2-компл	_	_
+8	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+9	сочинения	СОЧИНЕНИЕ	S	S n inan gen sg	S n inan gen sg	7	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	дать	ДАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	7	сочин	_	_
+12	списать	СПИСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+13	решенную	РЕШАТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	14	опред	_	_
+14	задачу	ЗАДАЧА	S	S f inan acc sg	S f inan acc sg	12	1-компл	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	т.п	Т.П	S	S - - nonflex nonflex	S - - nonflex nonflex	15	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	при	ПРИ	PR	PR	PR	11	обст	_	_
+4	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	5	опред	_	_
+5	чуткости	ЧУТКОСТЬ	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+6	совести	СОВЕСТЬ	S	S f inan gen sg	S f inan gen sg	5	квазиагент	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	так	ТАК	ADV	ADV -	ADV -	11	обст	_	_
+10	просто	ПРОСТО	PART	PART	PART	11	огранич	_	_
+11	относился	ОТНОСИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+12	к	К	PR	PR	PR	11	1-компл	_	_
+13	возможности	ВОЗМОЖНОСТЬ	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+14	оказывать	ОКАЗЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	1-компл	_	_
+15	такую	ТАКОЙ	A	A - acc sg plen f -	A - acc sg plen f -	16	опред	_	_
+16	помощь	ПОМОЩЬ	S	S f inan acc sg	S f inan acc sg	14	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	в конце концов	в конце концов	ADV	ADV -	-	4	обст	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	нашел	НАХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+5	выход	ВЫХОД	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+6	из	ИЗ	PR	PR	PR	5	1-компл	_	_
+7	внутреннего	ВНУТРЕННИЙ	A	A - gen sg plen n -	A - gen sg plen n -	8	опред	_	_
+8	противоречия	ПРОТИВОРЕЧИЕ	S	S n inan gen sg	S n inan gen sg	6	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	На	НА	PR	PR	PR	18	1-компл	_	_
+2	страницах	СТРАНИЦА	S	S f inan loc pl	S f inan loc pl	1	предл	_	_
+3	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+4	ученического	УЧЕНИЧЕСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	дневника	ДНЕВНИК	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+6	за	ЗА	PR	PR	PR	1	уточн	_	_
+7	10	10	NUM	NUM - - -	NUM - - -	9	композ	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	й	Й	S	S - - nonflex nonflex	S - - nonflex nonflex	6	предл	_	_
+10	класс	КЛАСС	S	S m inan nom sg	S m inan nom sg	1	предик	_	_
+11	(	(	_	_	PUNC	12	PUNC	_	_
+12	к	К	PR	PR	PR	16	1-компл	_	_
+13	сожалению	СОЖАЛЕНИЕ	S	S n inan dat sg	S n inan dat sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	очень	ОЧЕНЬ	ADV	ADV -	ADV -	16	огранич	_	_
+16	немногих	НЕМНОГИЕ	S	S - - loc pl	S - - loc pl	10	примыкат	_	_
+17	)	)	_	_	PUNC	16	PUNC	_	_
+18	имеется	ИМЕТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+19	следующая	СЛЕДУЮЩИЙ	A	A - nom sg plen f -	A - nom sg plen f -	20	опред	_	_
+20	запись	ЗАПИСЬ	S	S f inan nom sg	S f inan nom sg	18	предик	_	_
+21	:	:	:	:	PUNC	24	1-компл	_	_
+22	«	«	_	_	PUNC	21	PUNC	_	_
+23	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	24	предик	_	_
+24	чувствовал	ЧУВСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	18	сент-соч	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	что	ЧТО	CONJ	CONJ	CONJ	24	предик	_	_
+27	поступаю	ПОСТУПАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	26	подч-союзн	_	_
+28	нечестно	НЕЧЕСТНО	ADV	ADV -	ADV -	27	обст	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	проверяя	ПРОВЕРЯТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	27	обст	_	_
+31	сочинение	СОЧИНЕНИЕ	S	S n inan acc sg	S n inan acc sg	30	1-компл	_	_
+32	Петру	ПЕТР	S	S m anim dat sg	S m anim dat sg	30	2-компл	_	_
+33	Р.	Р.	S	S - - nonflex nonflex	S - - nonflex nonflex	30	1-компл	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	но	НО	CONJ	CONJ	CONJ	24	сент-соч	_	_
+36	все же	все же	PART	PART	ZERO	35	огранич	_	_
+37	проверял	ПРОВЕРЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	35	соч-союзн	_	_
+38	добросовестно	ДОБРОСОВЕСТНО	ADV	ADV -	ADV -	37	обст	_	_
+39	.	.	SENT	SENT	SENT	38	PUNC	_	_
+
+1	Раньше	РАНО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	когда	КОГДА	CONJ	CONJ	CONJ	1	сравнит	_	_
+4	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	5	1-компл	_	_
+5	просили	ПРОСИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	подч-союзн	_	_
+6	дать	ДАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	5	2-компл	_	_
+7	списать	СПИСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+8	домашнее	ДОМАШНИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	9	опред	_	_
+9	задание	ЗАДАНИЕ	S	S n inan acc sg	S n inan acc sg	7	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	12	предик	_	_
+12	отказывал	ОТКАЗЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	9	релят	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	оправдывая	ОПРАВДЫВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	обст	_	_
+15	это	ЭТО	S	S n - nom sg	S n - nom sg	14	1-компл	_	_
+16	про	ПРО	PR	PR	PR	14	3-компл	_	_
+17	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	16	предл	_	_
+18	нечестностью	НЕЧЕСТНОСТЬ	S	S f inan ins sg	S f inan ins sg	14	2-компл	_	_
+19	поступка	ПОСТУПОК	S	S m inan gen sg	S m inan gen sg	18	квазиагент	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	однажды	ОДНАЖДЫ	ADV	ADV -	ADV -	4	обст	_	_
+3	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	4	1-компл	_	_
+4	пришла	ПРИХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+5	в	В	PR	PR	PR	4	2-компл	_	_
+6	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	мысль	МЫСЛЬ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+11	обманываю	ОБМАНЫВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	9	подч-союзн	_	_
+12	самого	САМ	A	A - acc sg plen m anim	A - acc sg plen m anim	13	опред	_	_
+13	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	11	1-компл	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+15	что	ЧТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+16	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	17	предик	_	_
+17	делаю	ДЕЛАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	15	подч-союзн	_	_
+18	это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+19	вовсе	ВОВСЕ	ADV	ADV -	ADV -	20	огранич	_	_
+20	не	НЕ	PART	PART	PART	21	огранич	_	_
+21	ради	РАДИ	PR	PR	PR	18	обст	_	_
+22	чистоты	ЧИСТОТА	S	S f inan gen sg	S f inan gen sg	21	предл	_	_
+23	совести	СОВЕСТЬ	S	S f inan gen sg	S f inan gen sg	22	квазиагент	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	а	А	CONJ	CONJ	CONJ	21	сочин	_	_
+26	ради	РАДИ	PR	PR	PR	25	соч-союзн	_	_
+27	тщеславия	ТЩЕСЛАВИЕ	S	S n inan gen sg	S n inan gen sg	26	предл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	когда	КОГДА	CONJ	CONJ	CONJ	11	обст	_	_
+3	Андрей	АНДРЕЙ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+4	Алексеевич	АЛЕКСЕЕВИЧ	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	учитель	УЧИТЕЛЬ	S	S m anim nom sg	S m anim nom sg	4	примыкат	_	_
+7	)	)	_	_	PUNC	6	PUNC	_	_
+8	спросит	СПРАШИВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	2	подч-союзн	_	_
+9	:	:	:	:	PUNC	8	1-компл	_	_
+10	«	«	_	_	PUNC	9	PUNC	_	_
+11	Кто	КТО	S	S m - nom sg	S m - nom sg	12	предик	_	_
+12	решил	РЕШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+13	задачу	ЗАДАЧА	S	S f inan acc sg	S f inan acc sg	12	1-компл	_	_
+14	?	?	?	?	PUNC	12	неакт-компл	_	_
+15	»	»	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	то	ТО	CONJ	CONJ	CONJ	1	вспом	_	_
+3	оказывается	ОКАЗЫВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	вводн	_	_
+4	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	5	количест	_	_
+5	П	П	S	S - - nonflex nonflex	S - - nonflex nonflex	3	предик	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	в	В	S	S - - nonflex nonflex	S - - nonflex nonflex	5	разъяснит	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	12	обст	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	развивать	РАЗВИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	инф-союзн	_	_
+5	в	В	PR	PR	PR	4	обст	_	_
+6	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	5	предл	_	_
+7	тщеславия	ТЩЕСЛАВИЕ	S	S n inan gen sg	S n inan gen sg	6	1-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	гордости	ГОРДОСТЬ	S	S f inan gen sg	S f inan gen sg	8	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	12	предик	_	_
+12	решил	РЕШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+13	давать	ДАВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	1-компл	_	_
+14	списывать	СПИСЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	сочин	_	_
+15	задачи	ЗАДАЧА	S	S f inan acc pl	S f inan acc pl	14	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	по	ПО	PR	PR	PR	19	вводн	_	_
+18	возможности	ВОЗМОЖНОСТЬ	S	S f inan loc sg	S f inan loc sg	17	предл	_	_
+19	сопровождая	СОПРОВОЖДАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	14	обст	_	_
+20	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	21	квазиагент	_	_
+21	объяснениями	ОБЪЯСНЕНИЕ	S	S n inan ins pl	S n inan ins pl	19	1-компл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

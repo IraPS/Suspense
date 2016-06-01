@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"так"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"переспрашивать","gr":"V=praet,sg,indic,m,pf"}],"text":"переспросил"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}
+{"text":"\\s"}
+{"analysis":[{"lex":"ах","gr":"INTJ="}],"text":"Ах"}
+{"analysis":[{"lex":"вот","gr":"PART="}],"text":"вот"}
+{"analysis":[{"lex":"оно","gr":"SPRO,sg,3p,n=nom"}],"text":"оно"}
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"что"}
+{"text":"\\s"}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=acc"},{"lex":"это","gr":"SPRO,sg,n,inan=nom"}],"text":"Это"}
+{"analysis":[{"lex":"менять","gr":"V,ipf,tran=inpraes,sg,indic,3p"}],"text":"меняет"}

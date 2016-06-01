@@ -1,0 +1,21 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	1	аппоз	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	до	ДО	PR	PR	PR	1	атриб	_	_
+5	свидания	СВИДАНИЕ	S	S n inan gen sg	S n inan gen sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	1	вводн	_	_
+8	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	7	аппоз	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	очень	ОЧЕНЬ	ADV	ADV -	ADV -	3	огранич	_	_
+3	рад	РАД	A	A - - sg brev m -	A - - sg brev m -	1	присвяз	_	_
+4	…	…	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	И	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	договорил	ДОГОВАРИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

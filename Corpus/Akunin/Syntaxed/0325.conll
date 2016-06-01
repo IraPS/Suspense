@@ -1,0 +1,57 @@
+1	Утром	УТРО	S	S n inan ins sg	S n inan ins sg	15	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	вооружившись	ВООРУЖАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	15	обст	_	_
+4	выигранным	ВЫИГРЫВАТЬ	PARTCP	PARTCP pf praet dat pl plen - pass -	PARTCP pf praet dat pl plen - pass -	9	опред	_	_
+5	у	У	PR	PR	PR	4	2-компл	_	_
+6	посрамленного	ПОСРАМЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	7	опред	_	_
+7	Маклафлина	МАКЛАФЛИН	S	S m anim acc sg	S m anim acc sg	5	предл	_	_
+8	цейсовским	ЦЕЙСОВСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	9	опред	_	_
+9	биноклем	БИНОКЛЬ	S	S m inan ins sg	S m inan ins sg	3	1-компл	_	_
+10	(	(	_	_	PUNC	11	PUNC	_	_
+11	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	9	примыкат	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	между прочим	между прочим	ADV	ADV -	-	15	вводн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	за	ЗА	PR	PR	PR	19	обст	_	_
+16	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	18	опред	_	_
+17	несчастную	НЕСЧАСТНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	18	опред	_	_
+18	сотню	СОТНЯ	S	S f inan acc sg	S f inan acc sg	15	предл	_	_
+19	получил	ПОЛУЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+20	целую	ЦЕЛЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	21	опред	_	_
+21	тысячу	ТЫСЯЧА	S	S f inan acc sg	S f inan acc sg	19	1-компл	_	_
+22	–	–	–	–	PUNC	21	квазиагент	_	_
+23	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+24	все	ВСЕ	S	S - - nom pl	S - - nom pl	23	соч-союзн	_	_
+25	благодаря	БЛАГОДАРЯ	PR	PR	PR	24	обст	_	_
+26	Варе	ВАР	S	S m inan loc sg	S m inan loc sg	25	предл	_	_
+27	)	)	_	_	PUNC	26	PUNC	_	_
+28	,	,	,	,	PUNC	26	PUNC	_	_
+29	француз	ФРАНЦУЗ	S	S m anim nom sg	S m anim nom sg	30	предик	_	_
+30	совершил	СОВЕРШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	19	сент-соч	_	_
+31	дерзкую	ДЕРЗКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	32	опред	_	_
+32	экспедицию	ЭКСПЕДИЦИЯ	S	S f inan acc sg	S f inan acc sg	30	1-компл	_	_
+33	:	:	:	:	PUNC	35	предик	_	_
+34	в одиночку	в одиночку	ADV	ADV -	-	35	обст	_	_
+35	съездил	СЪЕЗДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	30	сент-соч	_	_
+36	в	В	PR	PR	PR	35	2-компл	_	_
+37	Плевну	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	36	предл	_	_
+38	,	,	,	,	PUNC	37	PUNC	_	_
+39	под	ПОД	PR	PR	PR	35	обст	_	_
+40	прикрытием	ПРИКРЫТИЕ	S	S n inan ins sg	S n inan ins sg	39	предл	_	_
+41	корреспондентской	КОРРЕСПОНДЕНТСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	42	опред	_	_
+42	повязки	ПОВЯЗКА	S	S f inan gen sg	S f inan gen sg	40	квазиагент	_	_
+43	проник	ПРОНИКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	35	сочин	_	_
+44	на	НА	PR	PR	PR	43	обст	_	_
+45	передовой	ПЕРЕДОВАЯ	S	S f inan loc sg	S f inan loc sg	44	предл	_	_
+46	рубеж	РУБЕЖ	S	S m inan acc sg	S m inan acc sg	43	1-компл	_	_
+47	противника	ПРОТИВНИК	S	S m anim gen sg	S m anim gen sg	46	квазиагент	_	_
+48	и	И	CONJ	CONJ	CONJ	43	сочин	_	_
+49	даже	ДАЖЕ	PART	PART	PART	50	огранич	_	_
+50	умудрился	УМУДРЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	48	соч-союзн	_	_
+51	взять	ВЗЯТЬ	V	V pf - - inf - -	V pf - - inf - -	50	1-компл	_	_
+52	интервью	ИНТЕРВЬЮ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	51	1-компл	_	_
+53	у	У	PR	PR	PR	51	обст	_	_
+54	турецкого	ТУРЕЦКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	55	опред	_	_
+55	полковника	ПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	53	предл	_	_
+56	.	.	SENT	SENT	SENT	55	PUNC	_	_
+

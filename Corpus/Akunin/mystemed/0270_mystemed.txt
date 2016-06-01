@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"видимо","gr":"ADV,parenth="}],"text":"Видимо"}
+{"analysis":[{"lex":"вчера","gr":"ADV="}],"text":"вчера"}
+{"analysis":[{"lex":"отмечать","gr":"V,tran=praet,pl,indic,ipf"}],"text":"отмечали"}
+{"analysis":[{"lex":"успех","gr":"S,m,inan=acc,sg"},{"lex":"успех","gr":"S,m,inan=nom,sg"}],"text":"успех"}
+{"analysis":[{"lex":"дело","gr":"S,n,inan=acc,pl"},{"lex":"дело","gr":"S,n,inan=gen,sg"},{"lex":"дело","gr":"S,n,inan=nom,pl"}],"text":"дела"}
+{"analysis":[{"lex":"под","gr":"PR="}],"text":"под"}
+{"analysis":[{"lex":"ловко","gr":"ADV=comp"}],"text":"Ловчей"}
+{"analysis":[{"lex":"предполагать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"предположил"}
+{"analysis":[{"lex":"петя","gr":"S,persn,m,anim=nom,sg"}],"text":"Петя"}
+{"text":"\\s"}
+{"analysis":[{"lex":"кто-то","gr":"SPRO,sg,m,anim=nom"}],"text":"Кто-то"}
+{"analysis":[{"lex":"наотмечаться","qual":"bastard","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"наотмечался"}
+{"analysis":[{"lex":"до","gr":"PR="}],"text":"до"}
+{"analysis":[{"lex":"потеря","gr":"S,f,inan=acc,pl"},{"lex":"потеря","gr":"S,f,inan=gen,sg"},{"lex":"потеря","gr":"S,f,inan=nom,pl"}],"text":"потери"}
+{"analysis":[{"lex":"подтяжка","gr":"S,f,inan=gen,pl"}],"text":"подтяжек"}

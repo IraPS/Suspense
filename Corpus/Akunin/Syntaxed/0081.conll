@@ -1,0 +1,21 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	4	предик	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	удержалась	УДЕРЖИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+5	–	–	–	–	PUNC	6	обст	_	_
+6	кинула	КИНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	сочин	_	_
+7	исподлобья	ИСПОДЛОБЬЯ	ADV	ADV -	ADV -	8	огранич	_	_
+8	взгляд	ВЗГЛЯД	S	S m inan acc sg	S m inan acc sg	6	1-компл	_	_
+9	на	НА	PR	PR	PR	8	1-компл	_	_
+10	знаменитых	ЗНАМЕНИТЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	11	опред	_	_
+11	головорезов	ГОЛОВОРЕЗ	S	S m anim gen pl	S m anim gen pl	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	про	ПРО	PR	PR	PR	17	обст	_	_
+14	которых	КОТОРЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	13	предл	_	_
+15	второй	ВТОРОЙ	A	A - nom sg plen m -	A - nom sg plen m -	16	опред	_	_
+16	год	ГОД	S	S m inan acc sg	S m inan acc sg	17	1-компл	_	_
+17	писали	ПИСАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	6	сент-соч	_	_
+18	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	19	опред	_	_
+19	газеты	ГАЗЕТА	S	S f inan nom pl	S f inan nom pl	17	предик	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"объяснять","gr":"V,tran=praet,sg,indic,f,pf"}],"text":"объяснила"}
+{"analysis":[{"lex":"вещь","gr":"S,f,inan=abl,sg"},{"lex":"вещь","gr":"S,f,inan=acc,pl"},{"lex":"вещь","gr":"S,f,inan=dat,sg"},{"lex":"вещь","gr":"S,f,inan=gen,sg"},{"lex":"вещь","gr":"S,f,inan=nom,pl"}],"text":"Вещи"}
+{"analysis":[{"lex":"оставлять","gr":"V,tran=praet,sg,indic,f,pf"}],"text":"оставила"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"милосердный","gr":"A=abl,pl,plen"},{"lex":"милосердный","gr":"A=acc,pl,plen,anim"},{"lex":"милосердный","gr":"A=gen,pl,plen"}],"text":"милосердных"}
+{"analysis":[{"lex":"сестра","gr":"S,f,anim=acc,pl"},{"lex":"сестра","gr":"S,f,anim=gen,pl"}],"text":"сестер"}
+{"text":"\\s"}
+{"analysis":[{"lex":"петя","gr":"S,persn,m,anim=nom,sg"}],"text":"Петя"}
+{"analysis":[{"lex":"занимать","gr":"V=praet,sg,partcp,brev,m,pf,pass"}],"text":"занят"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"служба","gr":"S,f,inan=abl,sg"},{"lex":"служба","gr":"S,f,inan=dat,sg"}],"text":"службе"}
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"так"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"сразу","gr":"ADV="}],"text":"сразу"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=dat"}],"text":"вам"}

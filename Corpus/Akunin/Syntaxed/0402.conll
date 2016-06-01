@@ -1,0 +1,16 @@
+1	От	ОТ	PR	PR	PR	6	обст	_	_
+2	такого	ТАКОЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+3	неслыханного	НЕСЛЫХАННЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	4	опред	_	_
+4	заявления	ЗАЯВЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	1	предл	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+6	растерялась	РАСТЕРИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+9	на	НА	PR	PR	PR	11	обст	_	_
+10	выручку	ВЫРУЧКА	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+11	пришел	ПРИХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+12	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	11	1-компл	_	_
+13	'	'	_	_	PUNC	12	PUNC	_	_
+14	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	12	квазиагент	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

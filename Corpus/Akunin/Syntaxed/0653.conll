@@ -1,0 +1,52 @@
+1	Первый	ПЕРВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	луч	ЛУЧ	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+3	солнца	СОЛНЦЕ	S	S n inan gen sg	S n inan gen sg	2	квазиагент	_	_
+4	застал	ЗАСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	4	1-компл	_	_
+6	на	НА	PR	PR	PR	4	обст	_	_
+7	скамейке	СКАМЕЙКА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	возле	ВОЗЛЕ	PR	PR	PR	4	обст	_	_
+9	особой	ОСОБЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	10	опред	_	_
+10	части	ЧАСТЬ	S	S f inan dat sg	S f inan dat sg	8	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	усадил	УСАДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	чуть не	чуть не	PART	PART	ZERO	4	огранич	_	_
+4	насильно	НАСИЛЬНО	ADV	ADV -	ADV -	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	велел	ВЕЛЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сочин	_	_
+7	отдыхать	ОТДЫХАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+10	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+11	привалилась	ПРИВАЛИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	соч-союзн	_	_
+12	к	К	PR	PR	PR	11	1-компл	_	_
+13	стене	СТЕНА	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+14	тяжелым	ТЯЖЕЛЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	атриб	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	онемевшим	ОНЕМЕВАТЬ	PARTCP	PARTCP pf praet dat pl plen - act -	PARTCP pf praet dat pl plen - act -	17	опред	_	_
+17	телом	ТЕЛО	S	S n inan ins sg	S n inan ins sg	11	2-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	погрузилась	ПОГРУЖАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	11	сочин	_	_
+20	в	В	PR	PR	PR	19	1-компл	_	_
+21	мутную	МУТНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	20	предл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	тягостную	ТЯГОСТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	24	опред	_	_
+24	полудрему	ПОЛУДРЕМА	S	S f inan nom sg	S f inan nom sg	19	предик	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Ломило	ЛОМИТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+2	кости	КОСТЬ	S	S f inan acc pl	S f inan acc pl	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	подташнивало	ПОДТАШНИВАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	сочин	_	_
+5	–	–	–	–	PUNC	6	опред	_	_
+6	нервы	НЕРВ	S	S m inan nom pl	S m inan nom pl	4	предик	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	бессонная	БЕССОННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+9	ночь	НОЧЬ	S	S f inan nom sg	S f inan nom sg	7	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	9	разъяснит	_	_
+12	удивительного	УДИВИТЕЛЬНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	11	атриб	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

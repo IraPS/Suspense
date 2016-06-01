@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"прямо","gr":"PART="}],"text":"Прямо"}
+{"analysis":[{"lex":"гениальный","gr":"A=acc,sg,plen,m,inan"},{"lex":"гениальный","gr":"A=nom,sg,plen,m"}],"text":"гениальный"}
+{"analysis":[{"lex":"человек","gr":"S,m,anim=acc,pl"},{"lex":"человек","gr":"S,m,anim=gen,pl"},{"lex":"человек","gr":"S,m,anim=nom,sg"}],"text":"человек"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"был"}
+{"analysis":[{"lex":"этот","gr":"APRO=acc,sg,m,inan"},{"lex":"этот","gr":"APRO=nom,sg,m"}],"text":"этот"}
+{"analysis":[{"lex":"леопольд","gr":"S,persn,m,anim=nom,sg"}],"text":"Леопольд"}
+{"analysis":[{"lex":"подумать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"подумал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"проникаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"проникся"}
+{"analysis":[{"lex":"уважение","gr":"S,n,inan=ins,sg"}],"text":"уважением"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"таинственный","gr":"A=dat,sg,plen,m"},{"lex":"таинственный","gr":"A=dat,sg,plen,n"}],"text":"таинственному"}
+{"analysis":[{"lex":"покидать","gr":"V,tran=praet,dat,sg,partcp,plen,m,pf,act"},{"lex":"покидать","gr":"V,tran=praet,dat,sg,partcp,plen,n,pf,act"}],"text":"покинувшему"}
+{"analysis":[{"lex":"тихий","gr":"A=acc,sg,plen,n"},{"lex":"тихий","gr":"A=nom,sg,plen,n"}],"text":"тихое"}
+{"analysis":[{"lex":"мурья","gr":"S,f,inan=abl,sg"},{"lex":"мурья","gr":"S,f,inan=dat,sg"}],"text":"Мурье"}
+{"analysis":[{"lex":"леопольд","gr":"S,persn,m,anim=dat,sg"}],"text":"Леопольду"}

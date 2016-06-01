@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"обнаруживать","gr":"V,tran=praet,sg,partcp,brev,n,pf,pass"}],"text":"Обнаружено"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"карман","gr":"S,m,inan=abl,sg"}],"text":"кармане"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"самоубийца","gr":"S,mf,anim=gen,sg"},{"lex":"самоубийца","gr":"S,mf,anim=nom,pl"}],"text":"самоубийцы"}
+{"analysis":[{"lex":"пояснять","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"пояснил"}
+{"analysis":[{"lex":"мизин","qual":"bastard","gr":"S,m,inan=gen,pl"}],"text":"Мизинов"}
+{"text":"\\s"}
+{"analysis":[{"lex":"читать","gr":"V,ipf,tran=pl,imper,2p"}],"text":"Читайте"}
+{"analysis":[{"lex":"вслух","gr":"ADV="}],"text":"вслух"}
+{"analysis":[{"lex":"новгородец","gr":"S,m,anim=acc,pl"},{"lex":"новгородец","gr":"S,m,anim=gen,pl"}],"text":"Новгородцев"}

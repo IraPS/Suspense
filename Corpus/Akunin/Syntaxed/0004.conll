@@ -1,0 +1,61 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	отец	ОТЕЦ	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	большой	БОЛЬШОЙ	A	A - gen sg plen f -	A - gen sg plen f -	5	опред	_	_
+5	мудрости	МУДРОСТЬ	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	ангельского	АНГЕЛЬСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+8	терпения	ТЕРПЕНИЕ	S	S n inan gen sg	S n inan gen sg	7	1-компл	_	_
+9	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	6	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	во время	во время	PR	PR	ZERO	15	обст	_	_
+12	очередного	ОЧЕРЕДНОЙ	A	A - gen sg plen n -	A - gen sg plen n -	14	опред	_	_
+13	бурного	БУРНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	14	опред	_	_
+14	объяснения	ОБЪЯСНЕНИЕ	S	S n inan gen sg	S n inan gen sg	11	предл	_	_
+15	поделил	ПОДЕЛИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+16	жизненный	ЖИЗНЕННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	17	опред	_	_
+17	путь	ПУТЬ	S	S m inan acc sg	S m inan acc sg	15	1-компл	_	_
+18	дочери	ДОЧЬ	S	S f anim gen sg	S f anim gen sg	17	квазиагент	_	_
+19	на	НА	PR	PR	PR	17	атриб	_	_
+20	три	ТРИ	NUM	NUM nom - -	NUM nom - -	21	количест	_	_
+21	периода	ПЕРИОД	S	S m inan gen sg	S m inan gen sg	19	предл	_	_
+22	:	:	:	:	PUNC	23	опред	_	_
+23	чертенок	ЧЕРТЕНОК	S	S m inan gen sg	S m inan gen sg	21	квазиагент	_	_
+24	в	В	PR	PR	PR	17	атриб	_	_
+25	юбке	ЮБКА	S	S f inan loc sg	S f inan loc sg	24	предл	_	_
+26	;	;	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Божье	БОЖИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	2	опред	_	_
+2	наказание	НАКАЗАНИЕ	S	S n inan acc sg	S n inan acc sg	0	ROOT	_	_
+3	;	;	SENT	SENT	SENT	2	PUNC	_	_
+
+1	полоумная	ПОЛОУМНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	нигилистка	НИГИЛИСТКА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	До	ДО	PR	PR	PR	7	обст	_	_
+2	сегодняшнего	СЕГОДНЯШНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+3	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	7	колич-вспом	_	_
+5	такой	ТАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	дефиницией	ДЕФИНИЦИЯ	S	S m inan nom sg	S m inan nom sg	7	предик	_	_
+7	гордилась	ГОРДИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	говорила	ГОВОРИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	8	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	9	1-компл	_	_
+12	останавливаться	ОСТАНАВЛИВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+13	на	НА	PR	PR	PR	12	1-компл	_	_
+14	достигнутом	ДОСТИГАТЬ	PARTCP	PARTCP pf praet loc sg plen m pass -	PARTCP pf praet loc sg plen m pass -	16	1-компл	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	собирается	СОБИРАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	13	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	но	НО	CONJ	CONJ	CONJ	12	сочин	_	_
+19	самонадеянность	САМОНАДЕЯННОСТЬ	S	S f inan nom sg	S f inan nom sg	20	предик	_	_
+20	сыграла	СЫГРАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	18	соч-союзн	_	_
+21	с	С	PR	PR	PR	20	обст	_	_
+22	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	21	предл	_	_
+23	злую	ЗЛОЙ	A	A - acc sg plen f -	A - acc sg plen f -	24	опред	_	_
+24	шутку	ШУТКА	S	S f inan acc sg	S f inan acc sg	20	1-компл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

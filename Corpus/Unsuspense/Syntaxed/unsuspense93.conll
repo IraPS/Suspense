@@ -1,0 +1,132 @@
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	С	С	PR	PR	PR	1	1-компл	_	_
+3	богом	БОГ	S	S m anim ins sg	S m anim ins sg	2	предл	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	—	—	—	—	PUNC	2	1-компл	_	_
+2	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	подавальщик	ПОДАВАЛЬЩИК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	первый	ПЕРВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	пук	ПУК	S	S m inan acc sg	S m inan acc sg	5	соч-союзн	_	_
+8	старновки	СТАРНОВКА	S	S f inan acc pl	S f inan acc pl	2	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	пущенный	ПУСКАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	8	опред	_	_
+11	на	НА	PR	PR	PR	10	2-компл	_	_
+12	пробу	ПРОБА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	с	С	PR	PR	PR	12	1-компл	_	_
+15	жужжаньем	ЖУЖЖАНИЕ	S	S m anim ins pl	S m anim ins pl	14	предл	_	_
+16	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+17	визгом	ВИЗГ	S	S m inan ins sg	S m inan ins sg	16	соч-союзн	_	_
+18	пролетает	ПРОЛЕТАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	сочин	_	_
+19	в	В	PR	PR	PR	18	2-компл	_	_
+20	барабан	БАРАБАН	S	S m inan acc sg	S m inan acc sg	19	предл	_	_
+21	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+22	растрепанным	РАСТРЕПАННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	23	опред	_	_
+23	веером	ВЕЕР	S	S m inan ins sg	S m inan ins sg	24	обст	_	_
+24	возносится	ВОЗНОСИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	21	соч-союзн	_	_
+25	из-под	ИЗ-ПОД	PR	PR	PR	24	2-компл	_	_
+26	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	25	предл	_	_
+27	кверху	КВЕРХУ	ADV	ADV -	ADV -	24	обст	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	барабан	БАРАБАН	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+3	гудит	ГУДЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+4	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	5	опред	_	_
+5	настойчивее	НАСТОЙЧИВО	ADV	ADV comp	ADV comp	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	работа	РАБОТА	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+8	закипает	ЗАКИПАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	изъясн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+11	скоро	СКОРО	ADV	ADV -	ADV -	14	обст	_	_
+12	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	13	опред	_	_
+13	звуки	ЗВУК	S	S m inan nom pl	S m inan nom pl	14	предик	_	_
+14	сливаются	СЛИВАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	10	соч-союзн	_	_
+15	в	В	PR	PR	PR	14	2-компл	_	_
+16	общий	ОБЩИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	18	опред	_	_
+17	приятный	ПРИЯТНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	18	опред	_	_
+18	шум	ШУМ	S	S m inan acc sg	S m inan acc sg	15	предл	_	_
+19	молотьбы	МОЛОТЬБА	S	S f inan gen sg	S f inan gen sg	18	квазиагент	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Барин	БАРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	стоит	СТОЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	у	У	PR	PR	PR	2	1-компл	_	_
+4	ворот	ВОРОТА	S	S - inan gen pl	S - inan gen pl	3	предл	_	_
+5	риги	РИГА	S	S f inan gen sg	S f inan gen sg	4	квазиагент	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+7	смотрит	СМОТРЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	как	КАК	CONJ	CONJ	CONJ	7	сравнит	_	_
+10	в	В	PR	PR	PR	9	сравн-союзн	_	_
+11	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	12	квазиагент	_	_
+12	темноте	ТЕМНОТА	S	S f inan loc sg	S f inan loc sg	10	предл	_	_
+13	мелькают	МЕЛЬКАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	2	сент-соч	_	_
+14	красные	КРАСНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	17	опред	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	желтые	ЖЕЛТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	соч-союзн	_	_
+17	платки	ПЛАТОК	S	S m inan nom pl	S m inan nom pl	13	предик	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	руки	РУКА	S	S f inan acc pl	S f inan acc pl	17	сочин	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	грабли	ГРАБЛИ	S	S - inan nom pl	S - inan nom pl	19	сочин	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	солома	СОЛОМА	S	S f inan nom sg	S f inan nom sg	21	сочин	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+26	все	ВСЕ	S	S - - acc pl	S - - acc pl	29	1-компл	_	_
+27	это	ЭТО	S	S n - nom sg	S n - nom sg	29	предик	_	_
+28	мерно	МЕРНО	ADV	ADV -	ADV -	29	обст	_	_
+29	двигается	ДВИГАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	25	соч-союзн	_	_
+30	и	И	CONJ	CONJ	CONJ	29	сочин	_	_
+31	суетится	СУЕТИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	30	соч-союзн	_	_
+32	под	ПОД	PR	PR	PR	31	обст	_	_
+33	гул	ГУЛ	S	S m inan acc sg	S m inan acc sg	32	предл	_	_
+34	барабана	БАРАБАН	S	S m inan gen sg	S m inan gen sg	33	квазиагент	_	_
+35	и	И	CONJ	CONJ	CONJ	31	сент-соч	_	_
+36	однообразный	ОДНООБРАЗНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	37	опред	_	_
+37	крик	КРИК	S	S m inan nom sg	S m inan nom sg	40	предик	_	_
+38	и	И	CONJ	CONJ	CONJ	37	сочин	_	_
+39	свист	СВИСТ	S	S m inan nom sg	S m inan nom sg	38	соч-союзн	_	_
+40	погонщика	ПОГОНЩИК	S	S m anim acc sg	S m anim acc sg	35	соч-союзн	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+
+1	Хоботье	ХОБОТЬЕ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	3	предик	_	_
+2	облаками	ОБЛАКО	S	S n inan ins pl	S n inan ins pl	3	кратно-длительн	_	_
+3	летит	ЛЕТЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	к	К	PR	PR	PR	3	2-компл	_	_
+5	воротам	ВОРОТА	S	S - inan dat pl	S - inan dat pl	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Барин	БАРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	стоит	СТОЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	5	суб-копр	_	_
+5	посеревший	ПОСЕРЕТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	2	1-компл	_	_
+6	от	ОТ	PR	PR	PR	5	1-компл	_	_
+7	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Часто	ЧАСТО	ADV	ADV -	ADV -	3	обст	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	поглядывает	ПОГЛЯДЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	обст	_	_
+5	поле	ПОЛЕ	S	S n inan loc sg	S n inan loc sg	4	предл	_	_
+6	...	...	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Скоро	СКОРО	ADV	ADV -	ADV -	4	вводн	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	скоро	СКОРО	ADV	ADV -	ADV -	4	обст	_	_
+4	забелеют	ЗАБЕЛЕТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+5	поля	ПОЛЕ	S	S n inan nom pl	S n inan nom pl	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	скоро	СКОРО	ADV	ADV -	ADV -	8	обст	_	_
+8	покроет	ПОКРЫВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	5	релят	_	_
+9	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	8	1-компл	_	_
+10	зазимок	ЗАЗИМОК	S	S m inan nom sg	S m inan nom sg	8	предик	_	_
+11	...	...	SENT	SENT	SENT	10	PUNC	_	_
+

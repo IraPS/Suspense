@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"официант","gr":"S,m,anim=nom,pl"}],"text":"Официанты"}
+{"analysis":[{"lex":"уже","gr":"ADV="}],"text":"уже"}
+{"analysis":[{"lex":"уносить","gr":"V=praet,pl,indic,ipf,tran"}],"text":"уносили"}
+{"analysis":[{"lex":"кофейник","gr":"S,m,inan=acc,sg"},{"lex":"кофейник","gr":"S,m,inan=nom,sg"}],"text":"кофейник"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"кекс","gr":"S,m,inan=acc,sg"},{"lex":"кекс","gr":"S,m,inan=nom,sg"}],"text":"кекс"}
+{"analysis":[{"lex":"заказывать","gr":"V=praet,acc,sg,partcp,plen,m,pf,pass,inan"},{"lex":"заказывать","gr":"V=praet,nom,sg,partcp,plen,m,pf,pass"}],"text":"заказанный"}
+{"analysis":[{"lex":"экономный","gr":"A=dat,pl,plen"},{"lex":"экономный","gr":"A=ins,sg,plen,m"},{"lex":"экономный","gr":"A=ins,sg,plen,n"}],"text":"экономным"}
+{"analysis":[{"lex":"корреспондент","gr":"S,m,anim=ins,sg"}],"text":"корреспондентом"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"тащить","gr":"V,ipf,tran=praet,pl,indic"}],"text":"тащили"}
+{"analysis":[{"lex":"вино","gr":"S,n,inan=acc,pl"},{"lex":"вино","gr":"S,n,inan=gen,sg"},{"lex":"вино","gr":"S,n,inan=nom,pl"}],"text":"вина"}
+{"analysis":[{"lex":"сладость","gr":"S,f,inan=abl,sg"},{"lex":"сладость","gr":"S,f,inan=acc,pl"},{"lex":"сладость","gr":"S,f,inan=dat,sg"},{"lex":"сладость","gr":"S,f,inan=gen,sg"},{"lex":"сладость","gr":"S,f,inan=nom,pl"}],"text":"сладости"}
+{"analysis":[{"lex":"фрукт","gr":"S,m,inan=acc,pl"},{"lex":"фрукт","gr":"S,m,inan=nom,pl"}],"text":"фрукты"}
+{"analysis":[{"lex":"сыр","gr":"S,m,inan=acc,pl"},{"lex":"сыр","gr":"S,m,inan=nom,pl"}],"text":"сыры"}

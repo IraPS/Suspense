@@ -1,0 +1,138 @@
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	6	вводн	_	_
+2	ж	Ж	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	служба	СЛУЖБА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+5	так	ТАК	ADV	ADV -	ADV -	6	обст	_	_
+6	служба	СЛУЖБА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+3	занялась	ЗАНИМАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+4	обустройством	ОБУСТРОЙСТВО	S	S n inan ins sg	S n inan ins sg	3	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Жить	ЖИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+2	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	1	1-компл	_	_
+3	взяли	ВЗЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	к	К	PR	PR	PR	3	2-компл	_	_
+5	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	4	предл	_	_
+6	сестры	СЕСТРА	S	S f anim gen sg	S f anim gen sg	3	предик	_	_
+7	милосердия	МИЛОСЕРДИЕ	S	S n inan gen sg	S n inan gen sg	6	1-компл	_	_
+8	–	–	–	–	PUNC	6	опред	_	_
+9	женщины	ЖЕНЩИНА	S	S f anim gen sg	S f anim gen sg	8	1-компл	_	_
+10	славные	СЛАВНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	отзывчивые	ОТЗЫВЧИВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	соч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	но	НО	CONJ	CONJ	CONJ	12	сочин	_	_
+15	пожилые	ПОЖИЛОЙ	A	A - nom pl plen - -	A - nom pl plen - -	14	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	лет	ГОД	S	S m inan gen pl	S m inan gen pl	18	предл	_	_
+18	по	ПО	PR	PR	PR	20	вводн	_	_
+19	тридцать	ТРИДЦАТЬ	NUM	NUM acc - -	NUM acc - -	17	аппрокс-колич	_	_
+20	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	15	разъяснит	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+23	скучноватые	СКУЧНОВАТЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	22	соч-союзн	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	3	предик	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	собрали	СОБИРАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	все	ВСЕ	S	S - - nom pl	S - - nom pl	5	опред	_	_
+5	необходимое	НЕОБХОДИМЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	3	1-компл	_	_
+6	взамен	ВЗАМЕН	PR	PR	PR	3	обст	_	_
+7	багажа	БАГАЖ	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	доставшегося	ДОСТАВАТЬСЯ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	3	1-компл	_	_
+10	предприимчивому	ПРЕДПРИИМЧИВЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	11	опред	_	_
+11	Митко	МИТКО	S	S f anim nonflex nonflex	S f anim nonflex nonflex	9	аппоз	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	 	 	 	 	PUNC	3	2-компл	_	_
+14	–	–	–	–	PUNC	15	опред	_	_
+15	одежду	ОДЕЖДА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	обувь	ОБУВЬ	S	S f inan nom sg	S f inan nom sg	3	вводн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	флакон	ФЛАКОН	S	S m inan nom sg	S m inan nom sg	3	разъяснит	_	_
+20	кельнской	КЕЛЬНСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	21	опред	_	_
+21	воды	ВОДА	S	S f inan gen sg	S f inan gen sg	19	квазиагент	_	_
+22	(	(	_	_	PUNC	23	PUNC	_	_
+23	а	А	CONJ	CONJ	CONJ	19	примыкат	_	_
+24	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	23	соч-союзн	_	_
+25	-	-	-	-	PUNC	24	PUNC	_	_
+26	то	ТО	CONJ	CONJ	CONJ	3	соотнос	_	_
+27	чудесные	ЧУДЕСНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	29	опред	_	_
+28	парижские	ПАРИЖСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	29	опред	_	_
+29	духи	ДУХИ	S	S m anim nom pl	S m anim nom pl	3	примыкат	_	_
+30	)	)	_	_	PUNC	29	PUNC	_	_
+31	,	,	,	,	PUNC	29	PUNC	_	_
+32	чулки	ЧУЛОК	S	S m inan nom pl	S m inan nom pl	3	сочин	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	белье	БЕЛЬЕ	S	S n inan loc sg	S n inan loc sg	32	сочин	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	гребешок	ГРЕБЕШОК	S	S m inan nom sg	S m inan nom sg	34	сочин	_	_
+37	,	,	,	,	PUNC	36	PUNC	_	_
+38	заколки	ЗАКОЛКА	S	S f inan acc pl	S f inan acc pl	36	сочин	_	_
+39	,	,	,	,	PUNC	38	PUNC	_	_
+40	душистое	ДУШИСТЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	41	опред	_	_
+41	мыло	МЫЛО	S	S n inan nom sg	S n inan nom sg	38	сочин	_	_
+42	,	,	,	,	PUNC	41	PUNC	_	_
+43	пудру	ПУДРА	S	S f inan acc sg	S f inan acc sg	41	сочин	_	_
+44	,	,	,	,	PUNC	43	PUNC	_	_
+45	мазь	МАЗЬ	S	S f inan nom sg	S f inan nom sg	3	сент-соч	_	_
+46	от	ОТ	PR	PR	PR	45	атриб	_	_
+47	солнца	СОЛНЦЕ	S	S n inan gen sg	S n inan gen sg	46	предл	_	_
+48	,	,	,	,	PUNC	47	PUNC	_	_
+49	кольдкрем	КОЛЬДКРЕМ	S	S m inan acc sg	S m inan acc sg	45	1-компл	_	_
+50	,	,	,	,	PUNC	49	PUNC	_	_
+51	смягчающее	СМЯГЧАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen n act -	PARTCP ipf inpraes acc sg plen n act -	45	атриб	_	_
+52	молочко	МОЛОЧКО	S	S n inan nom sg	S n inan nom sg	45	предик	_	_
+53	от	ОТ	PR	PR	PR	52	1-компл	_	_
+54	ветра	ВЕТЕР	S	S m inan gen sg	S m inan gen sg	53	предл	_	_
+55	,	,	,	,	PUNC	54	PUNC	_	_
+56	ромашковую	РОМАШКОВЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	57	опред	_	_
+57	эссенцию	ЭССЕНЦИЯ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+58	для	ДЛЯ	PR	PR	PR	3	обст	_	_
+59	мытья	МЫТЬЕ	S	S n inan gen sg	S n inan gen sg	58	предл	_	_
+60	волос	ВОЛОС	S	S m inan gen pl	S m inan gen pl	59	1-компл	_	_
+61	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+62	прочие	ПРОЧИЙ	A	A - nom pl plen - -	A - nom pl plen - -	64	опред	_	_
+63	нужные	НУЖНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	64	опред	_	_
+64	вещи	ВЕЩЬ	S	S f inan nom pl	S f inan nom pl	61	соч-союзн	_	_
+65	.	.	SENT	SENT	SENT	64	PUNC	_	_
+
+1	Платья	ПЛАТЬЕ	S	S n inan nom pl	S n inan nom pl	5	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	конечно	КОНЕЧНО	ADV	ADV -	ADV -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	ужасные	УЖАСНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	присвяз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	за исключением	за исключением	PR	PR	ZERO	5	обст	_	_
+9	разве	РАЗВЕ	PART	PART	PART	12	огранич	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	9	вспом	_	_
+11	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	12	количест	_	_
+12	–	–	–	–	PUNC	0	ROOT	_	_
+13	голубого	ГОЛУБОЙ	A	A - gen sg plen m -	A - gen sg plen m -	0	ROOT	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	с	С	PR	PR	PR	13	атриб	_	_
+16	белым	БЕЛЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	18	опред	_	_
+17	кружевным	КРУЖЕВНОЙ	A	A - ins sg plen m -	A - ins sg plen m -	18	опред	_	_
+18	воротничком	ВОРОТНИЧОК	S	S m inan ins sg	S m inan ins sg	15	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	убрала	УБИРАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	вышедшие	ВЫХОДИТЬ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	2	1-компл	_	_
+4	из	ИЗ	PR	PR	PR	3	2-компл	_	_
+5	моды	МОДА	S	S f inan gen sg	S f inan gen sg	4	предл	_	_
+6	манжеты	МАНЖЕТА	S	S f inan acc pl	S f inan acc pl	2	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+9	получилось	ПОЛУЧАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	8	соч-союзн	_	_
+10	довольно	ДОВОЛЬНО	ADV	ADV -	ADV -	11	огранич	_	_
+11	мило	МИЛЫЙ	A	A - - sg brev n -	A - - sg brev n -	9	присвяз	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

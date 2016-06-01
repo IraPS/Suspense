@@ -1,0 +1,28 @@
+1	Поколебленный	ПОКОЛЕБАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	11	предик	_	_
+2	легкостью	ЛЕГКОСТЬ	S	S f inan ins sg	S f inan ins sg	1	агент	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	с	С	PR	PR	PR	7	2-компл	_	_
+5	которой	КОТОРЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	4	предл	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	2	релят	_	_
+7	дано	ДАВАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	6	пасс-анал	_	_
+8	обещание	ОБЕЩАНИЕ	S	S n inan acc sg	S n inan acc sg	6	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	Маклафлин	МАКЛАФЛИН	S	S m inan gen sg	S m inan gen sg	8	1-компл	_	_
+11	запыхтел	ЗАПЫХТЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	11	сент-соч	_	_
+14	отступать	ОТСТУПАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	15	предик	_	_
+15	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	13	соч-союзн	_	_
+16	поздно	ПОЗДНО	ADV	ADV -	ADV -	15	присвяз	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	да	ДА	CONJ	CONJ	CONJ	15	сент-соч	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	похоже	ПОХОЖЕ	ADV	ADV -	ADV -	25	вводн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	очень	ОЧЕНЬ	ADV	ADV -	ADV -	25	огранич	_	_
+24	уж	УЖ	PART	PART	PART	23	огранич	_	_
+25	хотелось	ХОТЕТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	19	соч-союзн	_	_
+26	поделиться	ПОДЕЛИТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	25	2-компл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

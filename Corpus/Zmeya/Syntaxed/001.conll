@@ -1,0 +1,37 @@
+1	Наследники	НАСЛЕДНИК	S	S m anim nom pl	S m anim nom pl	12	предик	_	_
+2	Неда	НЕД	S	S m anim acc sg	S m anim acc sg	12	суб-копр	_	_
+3	Гарлана	ГАРЛАН	S	S m anim acc sg	S m anim acc sg	2	аппоз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как	КАК	CONJ	CONJ	CONJ	2	сравнит	_	_
+6	прозвали	ПРОЗЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	5	сравн-союзн	_	_
+7	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	6	1-компл	_	_
+8	в	В	PR	PR	PR	6	обст	_	_
+9	шутку	ШУТКА	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	знакомые	ЗНАКОМЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	12	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+13	семеро	СЕМЕРО	NUM	NUM nom - -	NUM nom - -	15	количест	_	_
+14	молодых	МОЛОДОЙ	A	A - gen pl plen - -	A - gen pl plen - -	15	опред	_	_
+15	людей	ЧЕЛОВЕК	S	S m anim gen pl	S m anim gen pl	12	присвяз	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	студентов	СТУДЕНТ	S	S m anim gen pl	S m anim gen pl	15	сочин	_	_
+18	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+19	студенток	СТУДЕНТКА	S	S f anim gen pl	S f anim gen pl	18	соч-союзн	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	владевшие	ВЛАДЕТЬ	PARTCP	PARTCP ipf praet nom pl plen - act -	PARTCP ipf praet nom pl plen - act -	12	опред	_	_
+22	сообща	СООБЩА	ADV	ADV -	ADV -	23	огранич	_	_
+23	моторной	МОТОРНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	24	опред	_	_
+24	лодкой	ЛОДКА	S	S f inan ins sg	S f inan ins sg	21	1-компл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	которой	КОТОРЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	27	1-компл	_	_
+27	наградил	НАГРАЖДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	24	релят	_	_
+28	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	29	атриб	_	_
+29	Гарлан	ГАРЛАН	S	S m anim nom sg	S m anim nom sg	27	предик	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	скончавшийся	СКОНЧАТЬСЯ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	21	2-компл	_	_
+32	от	ОТ	PR	PR	PR	31	1-компл	_	_
+33	чахотки	ЧАХОТКА	S	S f inan gen sg	S f inan gen sg	32	предл	_	_
+34	в	В	PR	PR	PR	21	обст	_	_
+35	Швейцарии	ШВЕЙЦАРИЯ	S	S f inan loc sg	S f inan loc sg	34	предл	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+

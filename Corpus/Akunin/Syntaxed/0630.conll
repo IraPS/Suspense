@@ -1,0 +1,58 @@
+1	Ехала	ЕХАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+2	шагом	ШАГ	S	S m inan ins sg	S m inan ins sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	сердце	СЕРДЦЕ	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+5	тоскливо	ТОСКЛИВО	ADV	ADV -	ADV -	6	обст	_	_
+6	замирало	ЗАМИРАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	разъяснит	_	_
+7	от	ОТ	PR	PR	PR	6	1-компл	_	_
+8	приближающихся	ПРИБЛИЖАТЬСЯ	PARTCP	PARTCP ipf inpraes loc pl plen - act -	PARTCP ipf inpraes loc pl plen - act -	7	предл	_	_
+9	звуков	ЗВУК	S	S m inan gen pl	S m inan gen pl	8	1-компл	_	_
+10	боя	БОЙ	S	S m inan gen sg	S m inan gen sg	9	квазиагент	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	центре	ЦЕНТР	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	ружейная	РУЖЕЙНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	пальба	ПАЛЬБА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+5	почти	ПОЧТИ	ADV	ADV -	ADV -	6	огранич	_	_
+6	стихла	СТИХАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	грохотали	ГРОХОТАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	7	соч-союзн	_	_
+9	только	ТОЛЬКО	PART	PART	PART	10	огранич	_	_
+10	пушки	ПУШКА	S	S f inan nom pl	S f inan nom pl	8	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	зато	ЗАТО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+13	с	С	PR	PR	PR	18	обст	_	_
+14	Ловчинского	ЛОВЧИНСКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	15	опред	_	_
+15	шоссе	ШОССЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	13	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	где	ГДЕ	ADV	ADV -	ADV -	18	обст	_	_
+18	сражался	СРАЖАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	соч-союзн	_	_
+19	отрезанный	ОТРЕЗАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	20	опред	_	_
+20	отряд	ОТРЯД	S	S m inan nom sg	S m inan nom sg	18	предик	_	_
+21	Соболева	СОБОЛЕВ	S	S m anim gen sg	S m anim gen sg	20	квазиагент	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	беспрерывно	БЕСПРЕРЫВНО	ADV	ADV -	ADV -	24	обст	_	_
+24	доносились	ДОНОСИТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	18	сент-соч	_	_
+25	залпы	ЗАЛП	S	S m inan nom pl	S m inan nom pl	24	предик	_	_
+26	и	И	CONJ	CONJ	CONJ	25	сочин	_	_
+27	неумолчный	НЕУМОЛЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	28	опред	_	_
+28	рев	РЕВ	S	S m inan nom sg	S m inan nom sg	26	соч-союзн	_	_
+29	множества	МНОЖЕСТВО	S	S n inan gen sg	S n inan gen sg	28	1-компл	_	_
+30	голосов	ГОЛОС	S	S m inan gen pl	S m inan gen pl	29	квазиагент	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	едва	ЕДВА	ADV	ADV -	ADV -	0	ROOT	_	_
+33	слышный	СЛЫШНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+34	на	НА	PR	PR	PR	33	атриб	_	_
+35	таком	ТАКОЙ	A	A - loc sg plen n -	A - loc sg plen n -	36	опред	_	_
+36	расстоянии	РАССТОЯНИЕ	S	S n inan loc sg	S n inan loc sg	34	предл	_	_
+37	.	.	SENT	SENT	SENT	36	PUNC	_	_
+
+1	Кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	5	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	генералу	ГЕНЕРАЛ	S	S m anim dat sg	S m anim dat sg	5	1-компл	_	_
+4	Мишелю	МИШЕЛЬ	S	S m anim dat sg	S m anim dat sg	3	аппоз	_	_
+5	приходилось	ПРИХОДИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	несладко	НЕСЛАДКО	ADV	ADV -	ADV -	5	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

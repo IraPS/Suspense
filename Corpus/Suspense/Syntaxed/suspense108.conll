@@ -1,0 +1,178 @@
+1	Первое	ПЕРВЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	6	предик	_	_
+2	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	6	обст	_	_
+3	Ольга	ОЛЬГА	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+4	вовсе	ВОВСЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	выходила	ВЫХОДИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+7	из	ИЗ	PR	PR	PR	6	1-компл	_	_
+8	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+9	оригинального	ОРИГИНАЛЬНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	10	опред	_	_
+10	убежища	УБЕЖИЩЕ	S	S n inan gen sg	S n inan gen sg	7	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	опасаясь	ОПАСАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	6	обст	_	_
+13	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	1-компл	_	_
+14	обнаруженной	ОБНАРУЖИВАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	13	присвяз	_	_
+15	как-нибудь	КАК-НИБУДЬ	ADV	ADV -	ADV -	16	огранич	_	_
+16	невзначай	НЕВЗНАЧАЙ	ADV	ADV -	ADV -	13	обст	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+19	даже	ДАЖЕ	PART	PART	PART	20	огранич	_	_
+20	справляла	СПРАВЛЯТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	18	соч-союзн	_	_
+21	нужду	НУЖДА	S	S f inan acc sg	S f inan acc sg	20	1-компл	_	_
+22	в	В	PR	PR	PR	20	2-компл	_	_
+23	горшок	ГОРШОК	S	S m inan acc sg	S m inan acc sg	22	предл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	28	опред	_	_
+26	племянница	ПЛЕМЯННИЦА	S	S f anim nom sg	S f anim nom sg	28	предик	_	_
+27	Вера	ВЕРА	S	S f anim nom sg	S f anim nom sg	26	аппоз	_	_
+28	подавала	ПОДАВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	20	1-компл	_	_
+29	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	28	2-компл	_	_
+30	дважды	ДВАЖДЫ	ADV	ADV -	ADV -	28	обст	_	_
+31	в	В	PR	PR	PR	28	распред	_	_
+32	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	31	предл	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	Изнутри	ИЗНУТРИ	ADV	ADV -	ADV -	3	обст	_	_
+2	шкаф	ШКАФ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+3	оказался	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	присвяз	_	_
+5	удивление	УДИВЛЕНИЕ	S	S n inan acc sg	S n inan acc sg	4	предл	_	_
+6	поместительным	ПОМЕСТИТЕЛЬНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	7	опред	_	_
+7	:	:	:	:	PUNC	3	предик	_	_
+8	в	В	PR	PR	PR	11	обст	_	_
+9	нем	ОН	SPRO	SPRO sg 3p m loc	SPRO sg 3p m loc	8	предл	_	_
+10	разве что	разве что	ADV	ADV -	-	11	обст	_	_
+11	гулять	ГУЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	предик	_	_
+12	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	сент-соч	_	_
+13	нельзя	НЕЛЬЗЯ	ADV	ADV -	ADV -	12	присвяз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	но	НО	CONJ	CONJ	CONJ	12	сент-соч	_	_
+16	свободно	СВОБОДНО	ADV	ADV -	ADV -	18	обст	_	_
+17	можно	МОЖНО	ADV	ADV -	ADV -	18	присвяз	_	_
+18	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	15	соч-союзн	_	_
+19	стоять	СТОЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	18	предик	_	_
+20	не	НЕ	PART	PART	PART	21	огранич	_	_
+21	пригибаясь	ПРИГИБАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	19	обст	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	вольготно	ВОЛЬГОТНО	ADV	ADV -	ADV -	24	обст	_	_
+24	сидеть	СИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	21	1-компл	_	_
+25	на	НА	PR	PR	PR	24	1-компл	_	_
+26	маленьком	МАЛЕНЬКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	27	опред	_	_
+27	пуфике	ПУФИК	S	S m inan loc sg	S m inan loc sg	25	предл	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	спать	СПАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	24	сочин	_	_
+30	лежа	ЛЕЖАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	29	обст	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	немного	НЕМНОГО	ADV	ADV -	ADV -	33	огранич	_	_
+33	согнув	СГИБАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	30	сочин	_	_
+34	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	33	1-компл	_	_
+35	в	В	PR	PR	PR	33	сочин	_	_
+36	коленях	КОЛЕНО	S	S n inan loc pl	S n inan loc pl	35	предл	_	_
+37	,	,	,	,	PUNC	36	PUNC	_	_
+38	и	И	CONJ	CONJ	CONJ	35	сочин	_	_
+39	даже	ДАЖЕ	PART	PART	PART	40	огранич	_	_
+40	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	38	соч-союзн	_	_
+41	гимнастику	ГИМНАСТИКА	S	S f inan acc sg	S f inan acc sg	40	1-компл	_	_
+42	,	,	,	,	PUNC	41	PUNC	_	_
+43	если	ЕСЛИ	CONJ	CONJ	CONJ	40	обст	_	_
+44	исключить	ИСКЛЮЧАТЬ	V	V pf - - inf - -	V pf - - inf - -	43	инф-союзн	_	_
+45	из	ИЗ	PR	PR	PR	44	1-компл	_	_
+46	программы	ПРОГРАММА	S	S f inan gen sg	S f inan gen sg	45	предл	_	_
+47	некоторые	НЕКОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	50	опред	_	_
+48	особо	ОСОБО	ADV	ADV -	ADV -	49	огранич	_	_
+49	резкие	РЕЗКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	50	опред	_	_
+50	упражнения	УПРАЖНЕНИЕ	S	S n inan nom pl	S n inan nom pl	18	присвяз	_	_
+51	вроде	ВРОДЕ	PR	PR	PR	50	атриб	_	_
+52	прыжков	ПРЫЖОК	S	S m inan gen pl	S m inan gen pl	51	предл	_	_
+53	на	НА	PR	PR	PR	52	атриб	_	_
+54	месте	МЕСТО	S	S n inan loc sg	S n inan loc sg	53	предл	_	_
+55	.	.	SENT	SENT	SENT	54	PUNC	_	_
+
+1	Для	ДЛЯ	PR	PR	PR	4	обст	_	_
+2	вентиляции	ВЕНТИЛЯЦИЯ	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	Вера	ВЕРА	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+4	проделала	ПРОДЕЛЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	шилом	ШИЛО	S	S n inan ins sg	S n inan ins sg	4	2-компл	_	_
+6	дырочки	ДЫРОЧКА	S	S f inan acc pl	S f inan acc pl	4	1-компл	_	_
+7	в	В	PR	PR	PR	4	2-компл	_	_
+8	боковой	БОКОВОЙ	A	A - dat sg plen f -	A - dat sg plen f -	9	опред	_	_
+9	стенке	СТЕНКА	S	S f inan dat sg	S f inan dat sg	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	для	ДЛЯ	PR	PR	PR	15	обст	_	_
+12	освещения	ОСВЕЩЕНИЕ	S	S n inan gen sg	S n inan gen sg	11	предл	_	_
+13	в	В	PR	PR	PR	12	1-компл	_	_
+14	шкафу	ШКАФ	S	S m inan loc2 sg	S m inan loc2 sg	13	предл	_	_
+15	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	9	релят	_	_
+16	поставлена	ПОСТАВЛЯТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	15	пасс-анал	_	_
+17	свеча	СВЕЧА	S	S f inan nom sg	S f inan nom sg	15	предик	_	_
+18	-	-	-	-	PUNC	17	PUNC	_	_
+19	ночничок	НОЧНИЧОК	S	S m inan nom sg	S m inan nom sg	17	аппоз	_	_
+20	в	В	PR	PR	PR	19	атриб	_	_
+21	миниатюрном	МИНИАТЮРНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	22	опред	_	_
+22	подсвечнике	ПОДСВЕЧНИК	S	S m inan loc sg	S m inan loc sg	20	предл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	наполнявшая	НАПОЛНЯТЬ	PARTCP	PARTCP ipf praet nom sg plen f act -	PARTCP ipf praet nom sg plen f act -	17	опред	_	_
+25	помещеньице	ПОМЕЩЕНЬИЦЕ	S	S n inan acc sg	S n inan acc sg	24	1-компл	_	_
+26	запахом	ЗАПАХ	S	S m inan ins sg	S m inan ins sg	24	2-компл	_	_
+27	гари	ГАРЬ	S	S f inan gen sg	S f inan gen sg	26	1-компл	_	_
+28	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+29	старины	СТАРИНА	S	S f inan gen sg	S f inan gen sg	28	соч-союзн	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	—	—	—	—	PUNC	24	1-компл	_	_
+32	одним	ОДИН	A	A - ins sg plen m -	A - ins sg plen m -	33	количест	_	_
+33	словом	СЛОВОМ	ADV	ADV -	ADV -	36	обст	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	многое	МНОГОЕ	S	S n - nom sg	S n - nom sg	36	предик	_	_
+36	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	4	сент-соч	_	_
+37	сделано	СДЕЛАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	36	пасс-анал	_	_
+38	для	ДЛЯ	PR	PR	PR	37	обст	_	_
+39	того	ТО	S	S n - gen sg	S n - gen sg	38	предл	_	_
+40	,	,	,	,	PUNC	39	PUNC	_	_
+41	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	39	эксплет	_	_
+42	бытование	БЫТОВАНИЕ	S	S n inan nom sg	S n inan nom sg	46	предик	_	_
+43	в	В	PR	PR	PR	42	атриб	_	_
+44	древней	ДРЕВНИЙ	A	A - loc sg plen f -	A - loc sg plen f -	45	опред	_	_
+45	мебелине	МЕБЕЛИН	S	S m inan loc sg	S m inan loc sg	43	предл	_	_
+46	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	41	подч-союзн	_	_
+47	удобней	УДОБНО	ADV	ADV comp	ADV comp	46	присвяз	_	_
+48	и	И	CONJ	CONJ	CONJ	47	сочин	_	_
+49	веселей	ВЕСЕЛО	ADV	ADV comp	ADV comp	48	соч-союзн	_	_
+50	;	;	SENT	SENT	SENT	49	PUNC	_	_
+
+1	впоследствии	ВПОСЛЕДСТВИИ	ADV	ADV -	ADV -	7	обст	_	_
+2	Вера	ВЕРА	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+3	туда	ТУДА	ADV	ADV -	ADV -	4	огранич	_	_
+4	еще	ЕЩЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	электричество	ЭЛЕКТРИЧЕСТВО	S	S n inan nom sg	S n inan nom sg	5	соч-союзн	_	_
+7	провела	ПРОВОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	так что	так что	CONJ	CONJ	ZERO	7	обст	_	_
+10	получилась	ПОЛУЧАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	подч-союзн	_	_
+11	как бы	как бы	ADV	ADV -	-	14	обст	_	_
+12	отдельная	ОТДЕЛЬНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	опред	_	_
+13	жилая	ЖИЛОЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	опред	_	_
+14	площадь	ПЛОЩАДЬ	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	целый	ЦЕЛЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	17	опред	_	_
+17	чуланчик	ЧУЛАНЧИК	S	S m inan acc sg	S m inan acc sg	14	сочин	_	_
+18	с	С	PR	PR	PR	17	атриб	_	_
+19	удобствами	УДОБСТВО	S	S n inan ins pl	S n inan ins pl	18	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	27	предик	_	_
+22	в	В	PR	PR	PR	27	обст	_	_
+23	условиях	УСЛОВИЕ	S	S n inan loc pl	S n inan loc pl	22	предл	_	_
+24	перманентного	ПЕРМАНЕНТНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	26	опред	_	_
+25	жилищного	ЖИЛИЩНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	26	опред	_	_
+26	кризиса	КРИЗИС	S	S m inan gen sg	S m inan gen sg	23	квазиагент	_	_
+27	мог	МОЧЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сент-соч	_	_
+28	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	27	1-компл	_	_
+29	даже	ДАЖЕ	PART	PART	PART	30	огранич	_	_
+30	предметом	ПРЕДМЕТ	S	S m inan ins sg	S m inan ins sg	28	присвяз	_	_
+31	зависти	ЗАВИСТЬ	S	S f inan gen sg	S f inan gen sg	30	1-компл	_	_
+32	для	ДЛЯ	PR	PR	PR	28	обст	_	_
+33	многих	МНОГИЙ	A	A - gen pl plen - -	A - gen pl plen - -	35	опред	_	_
+34	обездоленных	ОБЕЗДОЛЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	35	опред	_	_
+35	простаков	ПРОСТАК	S	S m anim gen pl	S m anim gen pl	32	предл	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+

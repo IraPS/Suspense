@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"уж","gr":"PART="}],"text":"уж"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"шаг","gr":"S,m,inan=acc,sg"},{"lex":"шаг","gr":"S,m,inan=nom,sg"}],"text":"шаг"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"выход","gr":"S,m,inan=dat,sg"}],"text":"выходу"}
+{"analysis":[{"lex":"сделать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сделал"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"этот","gr":"APRO=acc,sg,m,inan"},{"lex":"этот","gr":"APRO=nom,sg,m"}],"text":"этот"}
+{"analysis":[{"lex":"миг","gr":"S,m,inan=acc,sg"},{"lex":"миг","gr":"S,m,inan=nom,sg"}],"text":"миг"}

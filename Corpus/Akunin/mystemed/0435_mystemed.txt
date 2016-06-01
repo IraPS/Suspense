@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"кто","gr":"SPRO,sg,m,anim=nom"}],"text":"кто"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}
+{"analysis":[{"lex":"выходить","gr":"V,intr=inpraes,sg,indic,3p,pf"}],"text":"выйдет"}

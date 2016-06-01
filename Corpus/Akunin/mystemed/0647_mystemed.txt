@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"волноваться","gr":"V,ipf,intr=inpraes,ger"}],"text":"Волнуясь"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"пересказывать","gr":"V=praet,sg,indic,f,pf"}],"text":"пересказала"}
+{"analysis":[{"lex":"то","gr":"SPRO,sg,n,inan=acc"},{"lex":"то","gr":"SPRO,sg,n,inan=nom"}],"text":"то"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"услышать","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"услышала"}
+{"analysis":[{"lex":"от","gr":"PR="}],"text":"от"}
+{"analysis":[{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=acc,sg"},{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=gen,sg"}],"text":"Маклафлина"}

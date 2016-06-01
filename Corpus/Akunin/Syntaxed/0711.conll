@@ -1,0 +1,47 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	очень	ОЧЕНЬ	ADV	ADV -	ADV -	4	огранич	_	_
+3	даже	ДАЖЕ	PART	PART	PART	4	огранич	_	_
+4	удачно	УДАЧНО	ADV	ADV -	ADV -	1	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	предик	_	_
+7	первым	ПЕРВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	9	суб-копр	_	_
+8	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	9	1-компл	_	_
+9	увидит	УВИДЕТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	6	подч-союзн	_	_
+10	именно	ИМЕННО	PART	PART	PART	11	огранич	_	_
+11	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	прямой	ПРЯМОЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	бесхитростный	БЕСХИТРОСТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	по	ПО	PR	PR	PR	11	вводн	_	_
+8	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+9	реакции	РЕАКЦИЯ	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+10	сразу	СРАЗУ	ADV	ADV -	ADV -	11	обст	_	_
+11	поймешь	ПОНИМАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	2	сент-соч	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	можно	МОЖНО	ADV	ADV -	ADV -	11	сент-соч	_	_
+14	ли	ЛИ	PART	PART	PART	13	огранич	_	_
+15	показываться	ПОКАЗЫВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	13	предик	_	_
+16	в	В	PR	PR	PR	15	обст	_	_
+17	обществе	ОБЩЕСТВО	S	S n inan loc sg	S n inan loc sg	16	предл	_	_
+18	с	С	PR	PR	PR	17	1-компл	_	_
+19	такими	ТАКОЙ	A	A - ins pl plen - -	A - ins pl plen - -	20	опред	_	_
+20	волосами	ВОЛОС	S	S m inan ins pl	S m inan ins pl	18	предл	_	_
+21	или	ИЛИ	CONJ	CONJ	CONJ	15	сочин	_	_
+22	лучше	ХОРОШО	ADV	ADV comp	ADV comp	21	соч-союзн	_	_
+23	повернуть	ПОВЕРТЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	15	1-компл	_	_
+24	обратно	ОБРАТНО	ADV	ADV -	ADV -	23	обст	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	6	соотнос	_	_
+3	новости	НОВОСТЬ	S	S f inan nom pl	S f inan nom pl	6	1-компл	_	_
+4	опять	ОПЯТЬ	ADV	ADV -	ADV -	6	обст	_	_
+5	же	ЖЕ	PART	PART	PART	4	огранич	_	_
+6	узнать	УЗНАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	соч-союзн	_	_
+7	…	…	SENT	SENT	SENT	6	PUNC	_	_
+

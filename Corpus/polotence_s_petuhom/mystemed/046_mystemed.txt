@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"ванна","gr":"S,f,inan=acc,sg"}],"text":"ванну"}
+{"analysis":[{"lex":"посадить","gr":"V,pf,tran=inpraes,sg,indic,1p"}],"text":"посажу"}
+{"analysis":[{"lex":"остервенеть","gr":"V,pf,intr=praet,sg,indic,n"}],"text":"остервенело"}
+{"analysis":[{"lex":"защищаться","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"защищался"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"ванна","gr":"S,f,inan=acc,sg"}],"text":"ванну"}
+{"text":"\\s"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"попробовать","gr":"V,pf,tran=inpraes,sg,indic,1p"}],"text":"попробую"}
+{"analysis":[{"lex":"вправлять","gr":"V,tran=inf,pf"}],"text":"вправить"}

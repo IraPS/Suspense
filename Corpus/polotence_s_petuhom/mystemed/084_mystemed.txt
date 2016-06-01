@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"камфара","gr":"S,f,inan=acc,pl"},{"lex":"камфара","gr":"S,f,inan=gen,sg"},{"lex":"камфара","gr":"S,f,inan=nom,pl"}],"text":"Камфары"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"хрипло","gr":"ADV="}],"text":"хрипло"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}

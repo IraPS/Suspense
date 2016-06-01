@@ -1,0 +1,18 @@
+1	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	многозначительно	МНОГОЗНАЧИТЕЛЬНО	ADV	ADV -	ADV -	3	обст	_	_
+3	умолк	УМОЛКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	5	соч-союзн	_	_
+7	видно	ВИДНО	ADV	ADV -	ADV -	6	присвяз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	12	1-компл	_	_
+11	всего	ВСЕ	S	S n - gen sg	S n - gen sg	12	предик	_	_
+12	распирает	РАСПИРАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	9	подч-союзн	_	_
+13	от	ОТ	PR	PR	PR	12	2-компл	_	_
+14	важности	ВАЖНОСТЬ	S	S f inan gen sg	S f inan gen sg	13	предл	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	секретности	СЕКРЕТНОСТЬ	S	S f inan gen sg	S f inan gen sg	15	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

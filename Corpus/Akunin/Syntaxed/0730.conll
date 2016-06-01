@@ -1,0 +1,27 @@
+1	–	–	–	–	PUNC	7	об-копр	_	_
+2	Ну	НУ	PART	PART	PART	3	огранич	_	_
+3	говорите	ГОВОРИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	7	1-компл	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	томите	ТОМИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Помните	ПОМНИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	до	ДО	PR	PR	PR	2	пролепт	_	_
+5	десяти	ДЕСЯТЬ	NUM	NUM loc - -	NUM loc - -	6	количест	_	_
+6	часов	ЧАС	S	S m inan gen pl	S m inan gen pl	4	предл	_	_
+7	вечера	ВЕЧЕР	S	S m inan gen sg	S m inan gen sg	6	квазиагент	_	_
+8	никому	НИКТО	S	S m - dat sg	S m - dat sg	10	опред	_	_
+9	ни	НИ	PART	PART	PART	10	огранич	_	_
+10	слова	СЛОВО	S	S n inan nom pl	S n inan nom pl	2	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	2	предик	_	_
+2	дали	ДАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	честное	ЧЕСТНОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	2	1-компл	_	_
+4	слово	СЛОВО	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

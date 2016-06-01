@@ -1,0 +1,115 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Появление	ПОЯВЛЕНИЕ	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	Плевне	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	Али	АЛИ	CONJ	CONJ	CONJ	1	сент-соч	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	бея	БЕЙ	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+8	понадобилось	ПОНАДОБИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	5	соч-союзн	_	_
+9	для	ДЛЯ	PR	PR	PR	8	обст	_	_
+10	того	ТО	S	S n - gen sg	S n - gen sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	10	эксплет	_	_
+13	снять	СНИМАТЬ	V	V pf - - inf - -	V pf - - inf - -	12	инф-союзн	_	_
+14	с	С	PR	PR	PR	13	2-компл	_	_
+15	журналиста	ЖУРНАЛИСТ	S	S m anim gen sg	S m anim gen sg	14	предл	_	_
+16	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	13	1-компл	_	_
+17	'	'	_	_	PUNC	16	PUNC	_	_
+18	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	16	разъяснит	_	_
+19	подозрение	ПОДОЗРЕНИЕ	S	S n inan nom sg	S n inan nom sg	23	предик	_	_
+20	за	ЗА	PR	PR	PR	19	атриб	_	_
+21	то	ТО	S	S n inan acc sg	S n inan acc sg	20	предл	_	_
+22	злополучное	ЗЛОПОЛУЧНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	23	опред	_	_
+23	интервью	ИНТЕРВЬЮ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	18	1-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Впрочем	ВПРОЧЕМ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	сомневаюсь	СОМНЕВАТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	вводн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+8	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+9	провел	ПРОВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	подч-союзн	_	_
+10	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	месяц	МЕСЯЦ	S	S m inan nom sg	S m inan nom sg	30	предик	_	_
+12	с	С	PR	PR	PR	11	атриб	_	_
+13	большой	БОЛЬШОЙ	A	A - loc sg plen f -	A - loc sg plen f -	16	опред	_	_
+14	для	ДЛЯ	PR	PR	PR	13	1-компл	_	_
+15	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	14	предл	_	_
+16	пользой	ПОЛЬЗА	S	S f inan ins sg	S f inan ins sg	12	предл	_	_
+17	:	:	:	:	PUNC	19	1-компл	_	_
+18	наверняка	НАВЕРНЯКА	ADV	ADV -	ADV -	19	обст	_	_
+19	договорился	ДОГОВАРИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	релят	_	_
+20	с	С	PR	PR	PR	19	2-компл	_	_
+21	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	20	предл	_	_
+22	-	-	-	-	PUNC	21	PUNC	_	_
+23	пашой	ПАША	S	S m inan gen sg	S m inan gen sg	19	1-компл	_	_
+24	о	О	PR	PR	PR	19	3-компл	_	_
+25	совместных	СОВМЕСТНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	26	опред	_	_
+26	действиях	ДЕЙСТВИЕ	S	S n inan loc pl	S n inan loc pl	24	предл	_	_
+27	на	НА	PR	PR	PR	26	1-компл	_	_
+28	будущее	БУДУЩЕЕ	S	S n inan acc sg	S n inan acc sg	27	предл	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	обзавелся	ОБЗАВОДИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	подч-союзн	_	_
+31	надежной	НАДЕЖНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	32	опред	_	_
+32	связью	СВЯЗЬ	S	S f inan ins sg	S f inan ins sg	30	1-компл	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	Ведь	ВЕДЬ	PART	PART	PART	5	огранич	_	_
+2	наша	НАШ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	контрразведка	КОНТРРАЗВЕДКА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	препятствовала	ПРЕПЯТСТВОВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+6	корреспондентам	КОРРЕСПОНДЕНТ	S	S m anim dat pl	S m anim dat pl	5	1-компл	_	_
+7	иметь	ИМЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	2-компл	_	_
+8	в	В	PR	PR	PR	7	обст	_	_
+9	осажденном	ОСАЖДАТЬ	PARTCP	PARTCP pf praet loc sg plen m pass -	PARTCP pf praet loc sg plen m pass -	10	опред	_	_
+10	городе	ГОРОД	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+11	собственных	СОБСТВЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	12	опред	_	_
+12	осведомителей	ОСВЕДОМИТЕЛЬ	S	S m anim gen pl	S m anim gen pl	10	квазиагент	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	При	ПРИ	PR	PR	PR	6	обст	_	_
+2	желании	ЖЕЛАНИЕ	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+3	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	3	опред	_	_
+6	мог	МОЧЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	даже	ДАЖЕ	PART	PART	PART	8	огранич	_	_
+8	на	НА	PR	PR	PR	6	1-компл	_	_
+9	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	10	количест	_	_
+10	дней	ДЕНЬ	S	S m inan gen pl	S m inan gen pl	8	предл	_	_
+11	наведаться	НАВЕДЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	6	2-компл	_	_
+12	в	В	PR	PR	PR	11	2-компл	_	_
+13	Константинополь	КОНСТАНТИНОПОЛЬ	S	S m inan acc sg	S m inan acc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	ибо	ИБО	CONJ	CONJ	CONJ	11	обст	_	_
+16	Плевна	ПЛЕВНА	S	S m anim nom sg	S m anim nom sg	19	предик	_	_
+17	еще	ЕЩЕ	ADV	ADV -	ADV -	19	огранич	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	15	подч-союзн	_	_
+20	отрезана	ОТРЕЗАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	19	пасс-анал	_	_
+21	от	ОТ	PR	PR	PR	20	2-компл	_	_
+22	коммуникаций	КОММУНИКАЦИЯ	S	S f inan gen pl	S f inan gen pl	21	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Очень	ОЧЕНЬ	ADV	ADV -	ADV -	2	огранич	_	_
+2	просто	ПРОСТО	ADV	ADV -	ADV -	4	обст	_	_
+3	–	–	–	–	PUNC	4	1-компл	_	_
+4	добрался	ДОБИРАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	до	ДО	PR	PR	PR	4	обст	_	_
+6	Софии	СОФИЯ	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+9	там	ТАМ	ADV	ADV -	ADV -	10	обст	_	_
+10	сел	САДИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+11	на	НА	PR	PR	PR	10	1-компл	_	_
+12	поезд	ПОЕЗД	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+13	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+14	назавтра	НАЗАВТРА	ADV	ADV -	ADV -	15	огранич	_	_
+15	в	В	PR	PR	PR	13	соч-союзн	_	_
+16	Стамбуле	СТАМБУЛ	S	S m inan loc sg	S m inan loc sg	15	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

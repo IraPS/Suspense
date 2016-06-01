@@ -1,0 +1,60 @@
+1	–	–	–	–	PUNC	12	1-компл	_	_
+2	3	3	NUM	NUM - - -	NUM - - -	4	количест	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	здравствуйте	ЗДРАВСТВОВАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	1	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	Лаврентий	ЛАВРЕНТИЙ	S	S m anim nom sg	S m anim nom sg	1	вводн	_	_
+7	Аркадьевич	АРКАДЬЕВИЧ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	12	обст	_	_
+10	–	–	–	–	PUNC	12	1-компл	_	_
+11	вяло	ВЯЛО	ADV	ADV -	ADV -	12	обст	_	_
+12	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+13	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	а	А	CONJ	CONJ	CONJ	12	сент-соч	_	_
+16	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	18	1-компл	_	_
+17	слегка	СЛЕГКА	ADV	ADV -	ADV -	18	огранич	_	_
+18	поклонился	ПОКЛОНИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Боже	БОЖЕ	S	S m anim voc sg	S m anim voc sg	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	0	ROOT	_	_
+7	ли	ЛИ	PART	PART	PART	6	огранич	_	_
+8	это	ЭТО	S	S n - acc sg	S n - acc sg	6	опред	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	ахнул	АХНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	сатрап	САТРАП	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	6	1-компл	_	_
+4	просто	ПРОСТО	PART	PART	PART	6	огранич	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	узнать	УЗНАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	соч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Постарели	ПОСТАРЕТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+2	лет	ГОД	S	S m inan gen pl	S m inan gen pl	1	1-компл	_	_
+3	на	НА	PR	PR	PR	1	4-компл	_	_
+4	десять	ДЕСЯТЬ	NUM	NUM acc - -	NUM acc - -	3	предл	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Садитесь	САДИТЬСЯ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	7	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	голубчик	ГОЛУБЧИК	S	S m anim nom sg	S m anim nom sg	1	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	предик	_	_
+6	очень	ОЧЕНЬ	ADV	ADV -	ADV -	7	огранич	_	_
+7	рад	РАД	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+8	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	9	1-компл	_	_
+9	видеть	ВИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

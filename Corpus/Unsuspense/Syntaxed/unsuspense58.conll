@@ -1,0 +1,51 @@
+1	В	В	PR	PR	PR	6	обст	_	_
+2	доме	ДОМ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	6	предик	_	_
+4	никогда	НИКОГДА	ADV	ADV -	ADV -	6	обст	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	имели	ИМЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	игральных	ИГРАЛЬНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	8	опред	_	_
+8	карт	КАРТА	S	S f inan gen pl	S f inan gen pl	6	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Детям	РЕБЕНОК	S	S m anim dat pl	S m anim dat pl	2	2-компл	_	_
+2	внушалось	ВНУШАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	1-компл	_	_
+4	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	3	предл	_	_
+5	брезгливое	БРЕЗГЛИВЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	2	предик	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	боязливое	БОЯЗЛИВЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	8	опред	_	_
+8	отношение	ОТНОШЕНИЕ	S	S n inan nom sg	S n inan nom sg	6	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	как	КАК	CONJ	CONJ	CONJ	8	сравнит	_	_
+11	к	К	PR	PR	PR	10	сравн-союзн	_	_
+12	предмету	ПРЕДМЕТ	S	S m inan dat sg	S m inan dat sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	от	ОТ	PR	PR	PR	18	1-компл	_	_
+15	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	14	предл	_	_
+16	в	В	PR	PR	PR	18	обст	_	_
+17	мире	МИР	S	S m inan loc sg	S m inan loc sg	16	предл	_	_
+18	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	2	сочин	_	_
+19	много	МНОГО	ADV	ADV -	ADV -	18	присвяз	_	_
+20	зла	ЗЛО	S	S n inan gen sg	S n inan gen sg	19	1-компл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Дети	РЕБЕНОК	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+2	хорошо	ХОРОШО	ADV	ADV -	ADV -	3	обст	_	_
+3	помнили	ПОМНИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	мои	МОЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	рассказы	РАССКАЗ	S	S m inan nom pl	S m inan nom pl	3	длительн	_	_
+6	о	О	PR	PR	PR	5	1-компл	_	_
+7	том	ТО	S	S n - loc sg	S n - loc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	как	КАК	CONJ	CONJ	CONJ	7	эксплет	_	_
+10	знакомые	ЗНАКОМЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	12	опред	_	_
+11	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	12	опред	_	_
+12	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	13	предик	_	_
+13	кончали	КОНЧАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	сравн-союзн	_	_
+14	самоубийством	САМОУБИЙСТВО	S	S n inan ins sg	S n inan ins sg	13	1-компл	_	_
+15	из-за	ИЗ-ЗА	PR	PR	PR	14	атриб	_	_
+16	карточных	КАРТОЧНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	17	опред	_	_
+17	долгов	ДОЛГ	S	S m inan gen pl	S m inan gen pl	15	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

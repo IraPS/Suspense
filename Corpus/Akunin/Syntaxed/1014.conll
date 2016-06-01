@@ -1,0 +1,30 @@
+1	Подошел	ПОДХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	Мизинов	МИЗИН	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	пожаловался	ПОЖАЛОВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	сочин	_	_
+5	:	:	:	:	PUNC	9	опред	_	_
+6	–	–	–	–	PUNC	9	опред	_	_
+7	Еще	ЕЩЕ	ADV	ADV -	ADV -	8	огранич	_	_
+8	одна	ОДИН	A	A - nom sg plen f -	A - nom sg plen f -	9	количест	_	_
+9	дырка	ДЫРКА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+10	в	В	PR	PR	PR	9	атриб	_	_
+11	шинели	ШИНЕЛЬ	S	S f inan loc sg	S f inan loc sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Ну	НУ	PART	PART	PART	2	вводн	_	_
+2	и	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	денек	ДЕНЕК	S	S m inan acc sg	S m inan acc sg	2	соч-союзн	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Выпустил	ВЫПУСКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	?	?	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Отлично	ОТЛИЧНО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	2	обст	_	_
+2	можно	МОЖНО	ADV	ADV -	ADV -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	динамитом	ДИНАМИТ	S	S m inan ins sg	S m inan ins sg	3	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

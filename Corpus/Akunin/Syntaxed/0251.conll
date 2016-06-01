@@ -1,0 +1,40 @@
+1	–	–	–	–	PUNC	4	предик	_	_
+2	Значит	ЗНАЧИТ	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	согласна	СОГЛАСНЫЙ	A	A - - sg brev f -	A - - sg brev f -	0	ROOT	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	CONJ	CONJ	CONJ	1	сочин	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	7	обст	_	_
+5	–	–	–	–	PUNC	7	1-компл	_	_
+6	просто	ПРОСТО	PART	PART	PART	7	огранич	_	_
+7	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	соч-союзн	_	_
+8	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	хотя	ХОТЯ	CONJ	CONJ	CONJ	7	обст	_	_
+11	собиралась	СОБИРАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	10	подч-союзн	_	_
+12	согласиться	СОГЛАШАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	сразу	СРАЗУ	ADV	ADV -	ADV -	12	обст	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	а	А	CONJ	CONJ	CONJ	7	сент-соч	_	_
+17	лишь	ЛИШЬ	PART	PART	PART	18	огранич	_	_
+18	после	ПОСЛЕ	PR	PR	PR	27	обст	_	_
+19	долгого	ДОЛГИЙ	A	A - gen sg plen n -	A - gen sg plen n -	24	опред	_	_
+20	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+21	серьезного	СЕРЬЕЗНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	20	соч-союзн	_	_
+22	разговора	РАЗГОВОР	S	S m inan gen sg	S m inan gen sg	21	1-компл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	выдвинув	ВЫДВИГАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	18	предл	_	_
+25	некоторые	НЕКОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	27	опред	_	_
+26	принципиальные	ПРИНЦИПИАЛЬНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	27	опред	_	_
+27	условия	УСЛОВИЕ	S	S n inan nom pl	S n inan nom pl	16	соч-союзн	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+

@@ -1,0 +1,17 @@
+1	Самодержец	САМОДЕРЖЕЦ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	испытующе	ИСПЫТУЮЩИЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+3	посмотрел	ПОСМОТРЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	1-компл	_	_
+4	на	НА	PR	PR	PR	3	1-компл	_	_
+5	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	уловив	УЛАВЛИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	3	обст	_	_
+8	недосказанность	НЕДОСКАЗАННОСТЬ	S	S f inan nom sg	S f inan nom sg	7	3-несобст-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+11	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+12	больше	БОЛЬШЕ	ADV	ADV -	ADV -	15	обст	_	_
+13	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	15	1-компл	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	присовокупил	ПРИСОВОКУПЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

@@ -1,0 +1,88 @@
+1	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	лежал	ЛЕЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	навзничь	НАВЗНИЧЬ	ADV	ADV -	ADV -	2	обст	_	_
+4	с	С	PR	PR	PR	3	1-компл	_	_
+5	черным	ЧЕРНЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	8	опред	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	распухшим	РАСПУХАТЬ	PARTCP	PARTCP pf praet dat pl plen - act -	PARTCP pf praet dat pl plen - act -	6	соч-союзн	_	_
+8	лицом	ЛИЦО	S	S n inan ins sg	S n inan ins sg	4	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	совсем	СОВСЕМ	ADV	ADV -	ADV -	2	присвяз	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	другой	ДРУГОЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	3	предик	_	_
+2	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	квазиагент	_	_
+3	заплыли	ЗАПЛЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	усы	УС	S	S m inan nom pl	S m inan nom pl	3	сочин	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	рот	РОТ	S	S m inan acc sg	S m inan acc sg	6	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	вымазанные	ВЫМАЗЫВАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	5	опред	_	_
+10	спасительной	СПАСИТЕЛЬНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	9	2-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	кровью	КРОВЬ	S	S f inan ins sg	S f inan ins sg	3	1-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	открыли	ОТКРЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	ужас	УЖАС	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	от	ОТ	PR	PR	PR	10	обст	_	_
+8	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	предл	_	_
+9	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	10	предик	_	_
+10	избавил	ИЗБАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+11	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	12	опред	_	_
+12	возлюбленную	ВОЗЛЮБЛЕННАЯ	S	S f anim acc sg	S f anim acc sg	10	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	отвратительное	ОТВРАТИТЕЛЬНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	отравленное	ОТРАВЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen n pass -	PARTCP pf praet acc sg plen n pass -	4	опред	_	_
+4	лицо	ЛИЦО	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+5	заставило	ЗАСТАВЛЯТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	релят	_	_
+6	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	5	обст	_	_
+7	Джой	ДЖОЙ	S	S m anim gen sg	S m anim gen sg	5	предик	_	_
+8	испугаться	ИСПУГАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	так как	так как	CONJ	CONJ	ZERO	1	сравнит	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	свой	СВОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	5	опред	_	_
+4	предотвращенный	ПРЕДОТВРАЩАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	5	опред	_	_
+5	конец	КОНЕЦ	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+6	во	ВО	PR	PR	PR	2	2-компл	_	_
+7	всем	ВЕСЬ	A	A - dat pl plen - -	A - dat pl plen - -	10	опред	_	_
+8	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	10	1-компл	_	_
+9	незабываемом	НЕЗАБЫВАЕМЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	10	опред	_	_
+10	ужасе	УЖАС	S	S m inan loc sg	S m inan loc sg	6	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+13	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	12	соч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	бросилась	БРОСАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+2	бежать	БЕЖАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	крича	КРИЧАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+5	:	:	:	:	PUNC	7	опред	_	_
+6	"	"	_	_	PUNC	7	PUNC	_	_
+7	Спасите	СПАСАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	4	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+10	умираю	УМИРАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	сент-соч	_	_
+11	!	!	!	!	PUNC	10	1-компл	_	_
+12	"	"	SENT	SENT	SENT	11	PUNC	_	_
+

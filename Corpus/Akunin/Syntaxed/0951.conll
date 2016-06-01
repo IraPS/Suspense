@@ -1,0 +1,37 @@
+1	–	–	–	–	PUNC	20	обст	_	_
+2	Но	НО	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	у	У	PR	PR	PR	6	обст	_	_
+4	вашего	ВАШ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	превосходительства	ПРЕВОСХОДИТЕЛЬСТВО	S	S n anim gen sg	S n anim gen sg	3	предл	_	_
+6	хватило	ХВАТИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	2	соч-союзн	_	_
+7	мудрости	МУДРОСТЬ	S	S f inan gen sg	S f inan gen sg	6	1-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	выдержки	ВЫДЕРЖКА	S	S f inan gen sg	S f inan gen sg	8	соч-союзн	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	идти	ИДТИ	V	V ipf - - inf - -	V ipf - - inf - -	6	предик	_	_
+12	далее	ДАЛЕЕ	ADV	ADV -	ADV -	11	2-компл	_	_
+13	Сан	САН	S	S m anim nom sg	S m anim nom sg	6	сент-соч	_	_
+14	-	-	-	-	PUNC	13	PUNC	_	_
+15	Стефано	СТЕФАНО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	13	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	 	 	 	 	PUNC	13	опред	_	_
+18	–	–	–	–	PUNC	20	1-компл	_	_
+19	почтительно	ПОЧТИТЕЛЬНО	ADV	ADV -	ADV -	20	обст	_	_
+20	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+21	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	20	предик	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Значит	ЗНАЧИТ	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	8	предик	_	_
+5	с	С	PR	PR	PR	8	обст	_	_
+6	Лаврентием	ЛАВРЕНТИЙ	S	S m anim ins sg	S m anim ins sg	5	предл	_	_
+7	Аркадьевичем	АРКАДЬЕВИЧ	S	S m anim gen sg	S m anim gen sg	6	1-компл	_	_
+8	могли	МОЧЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	релят	_	_
+9	так	ТАК	ADV	ADV -	ADV -	12	обст	_	_
+10	уж	УЖ	PART	PART	PART	9	вспом	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	торопиться	ТОРОПИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

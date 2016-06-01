@@ -1,0 +1,22 @@
+1	Снег	СНЕГ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	затвердел	ЗАТВЕРДЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	1-компл	_	_
+4	ночи	НОЧЬ	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	В	В	PR	PR	PR	3	обст	_	_
+2	тишине	ТИШИНА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	ядрено	ЯДРЕНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	широко	ШИРОКО	ADV	ADV -	ADV -	6	обст	_	_
+6	тянуло	ТЯНУТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	4	соч-союзн	_	_
+7	запахом	ЗАПАХ	S	S m inan ins sg	S m inan ins sg	6	1-компл	_	_
+8	натаявшей	НАТАИВАТЬ	PARTCP	PARTCP pf praet loc sg plen f act -	PARTCP pf praet loc sg plen f act -	6	2-компл	_	_
+9	за	ЗА	PR	PR	PR	6	обст	_	_
+10	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+11	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+12	ночью	НОЧЬ	S	S f inan ins sg	S f inan ins sg	11	соч-союзн	_	_
+13	вымерзающей	ВЫМЕРЗАТЬ	PARTCP	PARTCP ipf inpraes loc sg plen f act -	PARTCP ipf inpraes loc sg plen f act -	6	предик	_	_
+14	влаги	ВЛАГА	S	S f inan gen sg	S f inan gen sg	13	квазиагент	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

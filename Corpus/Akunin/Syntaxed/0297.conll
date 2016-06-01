@@ -1,0 +1,36 @@
+1	Капитан	КАПИТАН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	проводил	ПРОВОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	генерала	ГЕНЕРАЛ	S	S m anim acc sg	S m anim acc sg	2	1-компл	_	_
+4	несколько	НЕСКОЛЬКО	ADV	ADV -	ADV -	6	огранич	_	_
+5	растерянным	РАСТЕРЯННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	6	опред	_	_
+6	взглядом	ВЗГЛЯД	S	S m inan ins sg	S m inan ins sg	2	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	но	НО	CONJ	CONJ	CONJ	2	сочин	_	_
+9	вестника	ВЕСТНИК	S	S m inan gen sg	S m inan gen sg	8	соч-союзн	_	_
+10	уже	УЖЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	со	СО	PR	PR	PR	2	обст	_	_
+12	всех	ВЕСЬ	A	A - gen pl plen - -	A - gen pl plen - -	13	опред	_	_
+13	сторон	СТОРОНА	S	S f inan gen pl	S f inan gen pl	11	предл	_	_
+14	обступили	ОБСТУПАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	вводн	_	_
+15	журналисты	ЖУРНАЛИСТ	S	S m anim nom pl	S m anim nom pl	14	предик	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+2	с	С	PR	PR	PR	1	атриб	_	_
+3	видимым	ВИДИМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	4	опред	_	_
+4	удовольствием	УДОВОЛЬСТВИЕ	S	S n inan ins sg	S n inan ins sg	2	предл	_	_
+5	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	отвечать	ОТВЕЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	1-компл	_	_
+7	на	НА	PR	PR	PR	6	3-компл	_	_
+8	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+9	вопросы	ВОПРОС	S	S m inan acc pl	S m inan acc pl	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	щеголяя	ЩЕГОЛЯТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	6	обст	_	_
+12	знанием	ЗНАНИЕ	S	S n inan ins sg	S n inan ins sg	11	1-компл	_	_
+13	французского	ФРАНЦУЗСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	0	ROOT	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	английского	АНГЛИЙСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	сочин	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	немецкого	НЕМЕЦКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	16	соч-союзн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

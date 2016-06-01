@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"Но"}
+{"analysis":[{"lex":"какой","gr":"APRO=ins,pl"}],"text":"какими"}
+{"analysis":[{"lex":"судьба","gr":"S,f,inan=ins,pl"}],"text":"судьбами"}
+{"analysis":[{"lex":"сударыня","gr":"S,f,anim=nom,sg"}],"text":"сударыня"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=nom"}],"text":"вы"}
+{"analysis":[{"lex":"здесь","gr":"ADVPRO="}],"text":"здесь"}
+{"analysis":[{"lex":"где","gr":"ADVPRO="}],"text":"где"}
+{"analysis":[{"lex":"литься","gr":"V,ipf,intr=inpraes,sg,indic,3p"}],"text":"льется"}
+{"analysis":[{"lex":"кровь","gr":"S,f,inan=acc,sg"},{"lex":"кровь","gr":"S,f,inan=nom,sg"}],"text":"кровь"}
+{"text":"\\s"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"этот","gr":"APRO=abl,sg,m"},{"lex":"этот","gr":"APRO=abl,sg,n"}],"text":"этом"}
+{"analysis":[{"lex":"костюм","gr":"S,m,inan=abl,sg"}],"text":"костюме"}
+{"text":"\\s"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"заинтриговывать","gr":"V=praet,sg,partcp,brev,m,pf,pass"}],"text":"заинтригован"}

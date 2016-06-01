@@ -1,0 +1,22 @@
+1	Затем	ЗАТЕМ	ADV	ADV -	ADV -	3	обст	_	_
+2	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	3	1-компл	_	_
+3	стали	СТАНОВИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	подымать	ПОДЫМАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+7	под	ПОД	PR	PR	PR	10	обст	_	_
+8	простыней	ПРОСТЫНЯ	S	S f inan gen pl	S f inan gen pl	7	предл	_	_
+9	бы	БЫ	PART	PART	PART	10	аналит	_	_
+10	виден	ВИДНЫЙ	A	A - - sg brev m -	A - - sg brev m -	6	соч-союзн	_	_
+11	гигантский	ГИГАНТСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	12	опред	_	_
+12	провал	ПРОВАЛ	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	треть	ТРЕТЬ	S	S f inan nom sg	S f inan nom sg	12	разъяснит	_	_
+15	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	16	квазиагент	_	_
+16	тела	ТЕЛО	S	S n inan gen sg	S n inan gen sg	14	квазиагент	_	_
+17	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	18	предик	_	_
+18	оставили	ОСТАВЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	14	релят	_	_
+19	в	В	PR	PR	PR	18	обст	_	_
+20	операционной	ОПЕРАЦИОННЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

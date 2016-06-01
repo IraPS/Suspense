@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=dat"},{"lex":"она","gr":"SPRO,sg,3p,f=ins"}],"text":"Ей"}
+{"analysis":[{"lex":"показываться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"показалось"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"губа","gr":"S,f,inan=acc,pl"},{"lex":"губа","gr":"S,f,inan=gen,sg"},{"lex":"губа","gr":"S,f,inan=nom,pl"}],"text":"губы"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=acc,sg"},{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=gen,sg"}],"text":"Фандорина"}
+{"analysis":[{"lex":"чуть","gr":"ADV="}],"text":"чуть"}
+{"analysis":[{"lex":"дрогнуть","gr":"V,pf,intr=praet,pl,indic"}],"text":"дрогнули"}
+{"text":"\\s"}
+{"analysis":[{"lex":"да","gr":"CONJ="}],"text":"Да"}
+{"analysis":[{"lex":"нет","gr":"PART="}],"text":"нет"}
+{"analysis":[{"lex":"померещиться","gr":"V,pf,intr=praet,sg,indic,n"}],"text":"померещилось"}
+{"analysis":[{"lex":"этот","gr":"APRO=acc,sg,m,inan"},{"lex":"этот","gr":"APRO=nom,sg,m"}],"text":"этот"}
+{"analysis":[{"lex":"субъект","gr":"S,m,inan=acc,sg"},{"lex":"субъект","gr":"S,m,inan=nom,sg"}],"text":"субъект"}
+{"analysis":[{"lex":"улыбаться","gr":"V,intr=inf,ipf"}],"text":"улыбаться"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"уметь","gr":"V,ipf,intr=inpraes,sg,indic,3p"}],"text":"умеет"}

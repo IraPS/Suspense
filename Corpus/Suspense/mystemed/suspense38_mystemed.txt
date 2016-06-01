@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"Так"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"анна","gr":"S,persn,f,anim=nom,sg"}],"text":"Анна"}
+{"analysis":[{"lex":"николаевна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Николаевна"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"вспыхивать","gr":"V,intr=praet,dat,pl,partcp,plen,pf,act"},{"lex":"вспыхивать","gr":"V,intr=praet,ins,sg,partcp,plen,m,pf,act"},{"lex":"вспыхивать","gr":"V,intr=praet,ins,sg,partcp,plen,n,pf,act"}],"text":"вспыхнувшим"}
+{"analysis":[{"lex":"обиженный","gr":"A=dat,pl,plen"},{"lex":"обиженный","gr":"A=ins,sg,plen,m"},{"lex":"обиженный","gr":"A=ins,sg,plen,n"}],"text":"обиженным"}
+{"analysis":[{"lex":"лицо","gr":"S,n,inan=ins,sg"}],"text":"лицом"}
+{"analysis":[{"lex":"сейчас","gr":"ADV="}],"text":"сейчас"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}
+{"analysis":[{"lex":"бросаться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"бросилась"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"столик","gr":"S,m,inan=dat,sg"}],"text":"столику"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"сломать","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"сломала"}
+{"analysis":[{"lex":"ампула","gr":"S,f,inan=acc,sg"}],"text":"ампулу"}

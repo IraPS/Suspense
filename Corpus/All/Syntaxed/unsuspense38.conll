@@ -1,0 +1,53 @@
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	могу	МОЧЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+4	сказать	СКАЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	мальчиком	МАЛЬЧИК	S	S m anim ins sg	S m anim ins sg	9	1-компл	_	_
+8	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+9	проявлял	ПРОЯВЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	подч-союзн	_	_
+10	какое-то	КАКОЙ-ТО	A	A - acc sg plen n inan	A - acc sg plen n inan	0	ROOT	_	_
+11	особое	ОСОБЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	12	опред	_	_
+12	усердие	УСЕРДИЕ	S	S n inan acc sg	S n inan acc sg	10	1-компл	_	_
+13	к	К	PR	PR	PR	10	2-компл	_	_
+14	религии	РЕЛИГИЯ	S	S f inan dat sg	S f inan dat sg	13	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	но	НО	CONJ	CONJ	CONJ	10	сент-соч	_	_
+17	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	20	предик	_	_
+18	всегда	ВСЕГДА	ADV	ADV -	ADV -	20	обст	_	_
+19	охотно	ОХОТНО	ADV	ADV -	ADV -	20	обст	_	_
+20	слушал	СЛУШАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	соч-союзн	_	_
+21	духовное	ДУХОВНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	22	опред	_	_
+22	чтение	ЧТЕНИЕ	S	S n inan acc sg	S n inan acc sg	20	1-компл	_	_
+23	по	ПО	PR	PR	PR	22	атриб	_	_
+24	вечерам	ВЕЧЕР	S	S m inan dat pl	S m inan dat pl	23	предл	_	_
+25	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+26	не	НЕ	PART	PART	PART	27	огранич	_	_
+27	скучал	СКУЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	25	соч-союзн	_	_
+28	от	ОТ	PR	PR	PR	27	1-компл	_	_
+29	длинных	ДЛИННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	31	опред	_	_
+30	молитвенных	МОЛИТВЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	31	опред	_	_
+31	правил	ПРАВИЛО	S	S n inan gen pl	S n inan gen pl	28	предл	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	Эти	ЭТОТ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	правила	ПРАВИЛО	S	S n inan nom pl	S n inan nom pl	10	предик	_	_
+3	(	(	_	_	PUNC	4	PUNC	_	_
+4	вечерние	ВЕЧЕРНИЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	примыкат	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	утренние	УТРЕННИЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	соч-союзн	_	_
+7	)	)	_	_	PUNC	6	PUNC	_	_
+8	в	В	PR	PR	PR	2	атриб	_	_
+9	семье	СЕМЬЯ	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	читались	ЧИТАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+11	вместе	ВМЕСТЕ	ADV	ADV -	ADV -	10	обст	_	_
+12	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+13	выполнялись	ВЫПОЛНЯТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	12	соч-союзн	_	_
+14	по	ПО	PR	PR	PR	13	обст	_	_
+15	очереди	ОЧЕРЕДЬ	S	S f inan loc sg	S f inan loc sg	14	предл	_	_
+16	кем-либо	КТО-ЛИБО	S	S m - ins sg	S m - ins sg	13	1-компл	_	_
+17	из	ИЗ	PR	PR	PR	16	атриб	_	_
+18	детей	РЕБЕНОК	S	S m anim gen pl	S m anim gen pl	17	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

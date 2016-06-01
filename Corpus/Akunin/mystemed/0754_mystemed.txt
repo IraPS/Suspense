@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"Все"}
+{"analysis":[{"lex":"кончаться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"кончилось"}
+{"analysis":[{"lex":"плевненский","gr":"A=acc,sg,plen,n"},{"lex":"плевненский","gr":"A=nom,sg,plen,n"}],"text":"плевненское"}
+{"analysis":[{"lex":"сидение","gr":"S,n,inan=acc,sg"},{"lex":"сидение","gr":"S,n,inan=nom,sg"}],"text":"сидение"}

@@ -1,0 +1,128 @@
+1	В	В	PR	PR	PR	14	обст	_	_
+2	другом	ДРУГОЙ	A	A - loc sg plen m -	A - loc sg plen m -	3	опред	_	_
+3	случае	СЛУЧАЙ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	по	ПО	PR	PR	PR	14	вводн	_	_
+6	окончании	ОКОНЧАНИЕ	S	S n inan loc sg	S n inan loc sg	5	предл	_	_
+7	7	7	NUM	NUM - - -	NUM - - -	9	композ	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	го	ГО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	6	1-компл	_	_
+10	класса	КЛАСС	S	S m inan gen sg	S m inan gen sg	9	атриб	_	_
+11	школы	ШКОЛА	S	S f inan gen sg	S f inan gen sg	10	аппоз	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	14	2-компл	_	_
+14	подарили	ПОДАРИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+15	фотоаппарат	ФОТОАППАРАТ	S	S m inan acc sg	S m inan acc sg	14	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	На	НА	PR	PR	PR	9	обст	_	_
+2	другой	ДРУГОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	после	ПОСЛЕ	PR	PR	PR	9	обст	_	_
+5	получения	ПОЛУЧЕНИЕ	S	S n inan gen sg	S n inan gen sg	4	предл	_	_
+6	подарка	ПОДАРОК	S	S m inan gen sg	S m inan gen sg	5	1-компл	_	_
+7	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	9	предик	_	_
+8	так	ТАК	ADV	ADV -	ADV -	9	обст	_	_
+9	рассказал	РАССКАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+10	о	О	PR	PR	PR	9	3-компл	_	_
+11	своем	СВОЙ	A	A - loc sg plen n -	A - loc sg plen n -	12	опред	_	_
+12	пробуждении	ПРОБУЖДЕНИЕ	S	S n inan loc sg	S n inan loc sg	10	предл	_	_
+13	в	В	PR	PR	PR	9	2-компл	_	_
+14	это	ЭТОТ	A	A - acc sg plen n inan	A - acc sg plen n inan	15	опред	_	_
+15	утро	УТРО	S	S n inan acc sg	S n inan acc sg	13	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Просыпаюсь	ПРОСЫПАТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	задаю	ЗАДАВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	4	соч-союзн	_	_
+6	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	5	1-компл	_	_
+7	вопрос	ВОПРОС	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+8	–	–	–	–	PUNC	0	ROOT	_	_
+9	кто	КТО	S	S m - nom sg	S m - nom sg	0	ROOT	_	_
+10	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	9	предик	_	_
+11	?	?	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Соображаю	СООБРАЖАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	вспоминаю...	ВСПОМИНАТЬ...	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	2	соч-союзн	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+5	владелец	ВЛАДЕЛЕЦ	S	S m anim nom sg	S m anim nom sg	3	1-компл	_	_
+6	фотографического	ФОТОГРАФИЧЕСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	аппарата	АППАРАТ	S	S m inan gen sg	S m inan gen sg	5	1-компл	_	_
+8	!..	!..	!..	!..	PUNC	3	2-компл	_	_
+9	»	»	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Так	ТАК	ADV	ADV -	ADV -	3	обст	_	_
+2	ярко	ЯРКО	ADV	ADV -	ADV -	3	обст	_	_
+3	переживало	ПЕРЕЖИВАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	горячее	ГОРЯЧИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	3	предик	_	_
+5	сердце	СЕРДЦЕ	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+6	Колюши	КОЛЮША	S	S m anim gen sg	S m anim gen sg	5	квазиагент	_	_
+7	события	СОБЫТИЕ	S	S n inan gen sg	S n inan gen sg	6	1-компл	_	_
+8	в	В	PR	PR	PR	7	атриб	_	_
+9	своей	СВОЙ	A	A - loc sg plen f -	A - loc sg plen f -	10	опред	_	_
+10	детской	ДЕТСКАЯ	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	юношеской	ЮНОШЕСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+13	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	11	соч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	7	обст	_	_
+2	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+4	юношей	ЮНОША	S	S m anim ins sg	S m anim ins sg	3	присвяз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	7	предик	_	_
+7	прозвали	ПРОЗЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+8	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	7	1-компл	_	_
+9	«	«	_	_	PUNC	8	PUNC	_	_
+10	нашим	НАШ	A	A - dat pl plen - -	A - dat pl plen - -	11	опред	_	_
+11	соловушкой	СОЛОВУШКА	S	S m anim ins sg	S m anim ins sg	8	об-аппоз	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	за	ЗА	PR	PR	PR	7	обст	_	_
+14	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	15	квазиагент	_	_
+15	веселость	ВЕСЕЛОСТЬ	S	S f inan ins sg	S f inan ins sg	13	предл	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	жизнерадостность	ЖИЗНЕРАДОСТНОСТЬ	S	S f inan acc sg	S f inan acc sg	16	соч-союзн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	как бы	как бы	ADV	ADV -	-	3	обст	_	_
+3	летал	ЛЕТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	над	НАД	PR	PR	PR	3	1-компл	_	_
+5	землей	ЗЕМЛЯ	S	S f inan ins sg	S f inan ins sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	замечал	ЗАМЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	сочин	_	_
+9	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	10	квазиагент	_	_
+10	тягостей	ТЯГОСТЬ	S	S f inan gen pl	S f inan gen pl	8	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	зная	ЗНАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	обст	_	_
+14	ни	НИ	CONJ	CONJ	CONJ	17	соотнос	_	_
+15	горя	ГОРЕ	S	S n inan gen sg	S n inan gen sg	13	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	ни	НИ	CONJ	CONJ	CONJ	15	сочин	_	_
+18	больших	БОЛЬШОЙ	A	A - gen pl plen - -	A - gen pl plen - -	19	опред	_	_
+19	забот	ЗАБОТА	S	S f inan gen pl	S f inan gen pl	17	соч-союзн	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	ни	НИ	CONJ	CONJ	CONJ	19	сочин	_	_
+22	тяжелых	ТЯЖЕЛЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	23	опред	_	_
+23	болезней	БОЛЕЗНЬ	S	S f inan gen pl	S f inan gen pl	21	соч-союзн	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Господь	ГОСПОДЬ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	хранил	ХРАНИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	2	1-компл	_	_
+4	от	ОТ	PR	PR	PR	2	2-компл	_	_
+5	всего	ВЕСЬ	A	A - acc sg plen m anim	A - acc sg plen m anim	6	опред	_	_
+6	этого	ЭТО	S	S n inan gen sg	S n inan gen sg	4	предл	_	_
+7	до	ДО	PR	PR	PR	2	обст	_	_
+8	последнего	ПОСЛЕДНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	года	ГОД	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+10	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	11	квазиагент	_	_
+11	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	9	квазиагент	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

@@ -1,0 +1,8 @@
+1	Адъютант	АДЪЮТАНТ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	с	С	PR	PR	PR	4	обст	_	_
+3	сомнением	СОМНЕНИЕ	S	S n inan ins sg	S n inan ins sg	2	предл	_	_
+4	покосился	ПОКОСИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	1-компл	_	_
+6	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

@@ -1,0 +1,81 @@
+1	–	–	–	–	PUNC	10	обст	_	_
+2	Наш	НАШ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+3	общий	ОБЩИЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	знакомый	ЗНАКОМЫЙ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+5	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как	КАК	CONJ	CONJ	CONJ	10	вводн	_	_
+8	всегда	ВСЕГДА	ADV	ADV -	ADV -	7	сравн-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	выкинул	ВЫКИДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+11	фортель	ФОРТЕЛЬ	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	6	вводн	_	_
+2	диспозиции	ДИСПОЗИЦИЯ	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	роль	РОЛЬ	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+6	–	–	–	–	PUNC	0	ROOT	_	_
+7	демонстрировать	ДЕМОНСТРИРОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	1-компл	_	_
+8	против	ПРОТИВ	PR	PR	PR	7	1-компл	_	_
+9	Кришинского	КРИШИНСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	10	опред	_	_
+10	редута	РЕДУТ	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	в то время как	в то время как	CONJ	CONJ	ZERO	6	обст	_	_
+13	главные	ГЛАВНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	14	опред	_	_
+14	силы	СИЛА	S	S f inan nom pl	S f inan nom pl	15	предик	_	_
+15	наносят	НАНОСИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	12	подч-союзн	_	_
+16	удар	УДАР	S	S m inan acc sg	S m inan acc sg	15	1-компл	_	_
+17	в	В	PR	PR	PR	15	обст	_	_
+18	центре	ЦЕНТР	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	наш	НАШ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	честолюбец	ЧЕСТОЛЮБЕЦ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	утерпел	УТЕРПЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Вопреки	ВОПРЕКИ	PR	PR	PR	6	обст	_	_
+2	плану	ПЛАН	S	S m inan dat sg	S m inan dat sg	1	предл	_	_
+3	прямо	ПРЯМО	ADV	ADV -	ADV -	4	огранич	_	_
+4	с	С	PR	PR	PR	2	1-компл	_	_
+5	утра	УТРО	S	S n inan gen sg	S n inan gen sg	4	предл	_	_
+6	полез	ПОЛЕЗТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	лобовую	ЛОБОВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	атаку	АТАКА	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Мало	МАЛО	ADV	ADV -	ADV -	2	вспом	_	_
+2	того	ТО	S	S n - gen sg	S n - gen sg	16	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	эксплет	_	_
+5	оторвался	ОТРЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	подч-союзн	_	_
+6	от	ОТ	PR	PR	PR	5	1-компл	_	_
+7	главных	ГЛАВНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	8	опред	_	_
+8	сил	СИЛА	S	S f inan gen pl	S f inan gen pl	6	предл	_	_
+9	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+10	отрезан	ОТРЕЗАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	9	соч-союзн	_	_
+11	турецкой	ТУРЕЦКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	12	опред	_	_
+12	конницей	КОННИЦА	S	S f inan ins sg	S f inan ins sg	10	2-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	так	ТАК	ADV	ADV -	ADV -	15	огранич	_	_
+15	еще	ЕЩЕ	ADV	ADV -	ADV -	16	огранич	_	_
+16	поставил	ПОСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+17	под	ПОД	PR	PR	PR	16	2-компл	_	_
+18	угрозу	УГРОЗА	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+19	всю	ВЕСЬ	A	A - acc sg plen f -	A - acc sg plen f -	20	опред	_	_
+20	операцию	ОПЕРАЦИЯ	S	S f inan acc sg	S f inan acc sg	16	1-компл	_	_
+21	!	!	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Ну	НУ	PART	PART	PART	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	3	неакт-компл	_	_
+5	на	НА	PR	PR	PR	3	присвяз	_	_
+6	орехи	ОРЕХ	S	S m inan acc pl	S m inan acc pl	5	предл	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+

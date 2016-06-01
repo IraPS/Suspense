@@ -1,0 +1,29 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Эй	ЭЙ	INTJ	INTJ	INTJ	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	кто	КТО	S	S m - nom sg	S m - nom sg	0	ROOT	_	_
+5	тут	ТУТ	ADV	ADV -	ADV -	4	обст	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Эй	ЭЙ	INTJ	INTJ	INTJ	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	закричал	ЗАКРИЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	возница	ВОЗНИЦА	S	S - anim nom sg	S - anim nom sg	2	обст	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	захлопал	ЗАХЛОПАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+6	руками	РУКА	S	S f inan ins pl	S f inan ins pl	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	как	КАК	CONJ	CONJ	CONJ	5	сравнит	_	_
+9	петух	ПЕТУХ	S	S m anim nom sg	S m anim nom sg	8	сравн-союзн	_	_
+10	крыльями	КРЫЛО	S	S n inan ins pl	S n inan ins pl	5	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Эй	ЭЙ	INTJ	INTJ	INTJ	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	доктора	ДОКТОР	S	S m anim gen sg	S m anim gen sg	5	1-компл	_	_
+5	привез	ПРИВОЗИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+

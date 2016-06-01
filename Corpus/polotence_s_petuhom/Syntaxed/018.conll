@@ -1,0 +1,120 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Нет	НЕТ	PART	PART	PART	5	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	кончил	КОНЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	-	-	-	-	PUNC	5	PUNC	_	_
+8	хмуро	ХМУРО	ADV	ADV -	ADV -	9	обст	_	_
+9	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	сент-соч	_	_
+10	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	9	предик	_	_
+11	и	И	CONJ	CONJ	CONJ	9	сент-соч	_	_
+12	думал	ДУМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	соч-союзн	_	_
+13	"	"	_	_	PUNC	14	PUNC	_	_
+14	очки	ОЧКИ	S	S - inan acc pl	S - inan acc pl	0	ROOT	_	_
+15	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	17	1-компл	_	_
+16	нужно	НУЖНО	ADV	ADV -	ADV -	17	обст	_	_
+17	завести	ЗАВОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	14	1-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	вот	ВОТ	PART	PART	PART	20	огранич	_	_
+20	что	ЧТО	S	S n inan acc sg	S n inan acc sg	17	1-компл	_	_
+21	"	"	_	_	PUNC	20	PUNC	_	_
+22	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	очки	ОЧКИ	S	S - inan nom pl	S - inan nom pl	3	предик	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	соч-союзн	_	_
+4	заводить	ЗАВОДИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	к	К	PR	PR	PR	4	1-компл	_	_
+7	чему	ЧТО	S	S n - dat sg	S n - dat sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	глаза	ГЛАЗ	S	S m inan gen sg	S m inan gen sg	12	предик	_	_
+10	у	У	PR	PR	PR	12	1-компл	_	_
+11	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	10	предл	_	_
+12	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	сент-соч	_	_
+13	здоровые	ЗДОРОВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	12	присвяз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+16	ясность	ЯСНОСТЬ	S	S f inan nom sg	S f inan nom sg	20	предик	_	_
+17	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	20	1-компл	_	_
+18	еще	ЕЩЕ	ADV	ADV -	ADV -	20	огранич	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	15	соч-союзн	_	_
+21	омрачена	ОМРАЧАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	20	пасс-анал	_	_
+22	житейским	ЖИТЕЙСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	23	опред	_	_
+23	опытом	ОПЫТ	S	S m inan ins sg	S m inan ins sg	21	агент	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	имея	ИМЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	15	обст	_	_
+3	возможности	ВОЗМОЖНОСТЬ	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+4	защищаться	ЗАЩИЩАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	от	ОТ	PR	PR	PR	4	1-компл	_	_
+6	всегдашних	ВСЕГДАШНИЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	опред	_	_
+7	снисходительных	СНИСХОДИТЕЛЬНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	опред	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	ласковых	ЛАСКОВЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	8	соч-союзн	_	_
+10	улыбок	УЛЫБКА	S	S f inan gen pl	S f inan gen pl	5	предл	_	_
+11	при помощи	при помощи	PR	PR	ZERO	4	обст	_	_
+12	очков	ОЧКИ	S	S n inan gen pl	S n inan gen pl	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	15	предик	_	_
+15	старался	СТАРАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+16	выработать	ВЫРАБАТЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	15	1-компл	_	_
+17	особую	ОСОБЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	0	ROOT	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	внушающую	ВНУШАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen f act -	PARTCP ipf inpraes acc sg plen f act -	17	сочин	_	_
+20	уважение	УВАЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	19	сочин	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	повадку	ПОВАДКА	S	S f inan acc sg	S f inan acc sg	20	сочин	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Говорить	ГОВОРИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	1-компл	_	_
+2	пытался	ПЫТАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	размеренно	РАЗМЕРЕННЫЙ	A	A - - sg brev n -	A - - sg brev n -	2	обст	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	веско	ВЕСКО	ADV	ADV -	ADV -	8	вводн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	порывистые	ПОРЫВИСТЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	8	опред	_	_
+8	движения	ДВИЖЕНИЕ	S	S n inan acc pl	S n inan acc pl	4	соч-союзн	_	_
+9	по	ПО	PR	PR	PR	8	атриб	_	_
+10	возможности	ВОЗМОЖНОСТЬ	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	сдержать	СДЕРЖИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	10	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	бегать	БЕГАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	как	КАК	CONJ	CONJ	CONJ	14	сравнит	_	_
+17	бегают	БЕГАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	16	сравн-союзн	_	_
+18	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	17	предик	_	_
+19	в	В	PR	PR	PR	18	атриб	_	_
+20	двадцать	ДВАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	21	колич-вспом	_	_
+21	три	ТРИ	NUM	NUM nom - -	NUM nom - -	22	количест	_	_
+22	года	ГОД	S	S m inan gen sg	S m inan gen sg	19	предл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	окончившие	ОКАНЧИВАТЬ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	18	опред	_	_
+25	университет	УНИВЕРСИТЕТ	S	S m inan acc sg	S m inan acc sg	24	1-компл	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	а	А	CONJ	CONJ	CONJ	24	сочин	_	_
+28	ходить	ХОДИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	27	соч-союзн	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Выходило	ВЫХОДИТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+2	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	3	опред	_	_
+3	это	ЭТО	S	S n - nom sg	S n - nom sg	1	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+6	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	5	сравн-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	по	ПО	PR	PR	PR	1	обст	_	_
+9	прошествии	ПРОШЕСТВИЕ	S	S n inan loc sg	S n inan loc sg	8	предл	_	_
+10	многих	МНОГИЙ	A	A - gen pl plen - -	A - gen pl plen - -	11	опред	_	_
+11	лет	ГОД	S	S m inan gen pl	S m inan gen pl	9	квазиагент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	понимаю	ПОНИМАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	вводн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	очень	ОЧЕНЬ	ADV	ADV -	ADV -	16	огранич	_	_
+16	плохо	ПЛОХОЙ	A	A - - sg brev n -	A - - sg brev n -	1	присвяз	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

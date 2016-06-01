@@ -1,0 +1,17 @@
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Пусть	ПУСТЬ	PART	PART	PART	3	огранич	_	_
+3	ждет	ЖДАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Скоро	СКОРО	ADV	ADV -	ADV -	2	обст	_	_
+2	выйду	ВЫХОДИТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	0	ROOT	_	_
+5	–	–	–	–	PUNC	6	1-компл	_	_
+6	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	примыкат	_	_
+7	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	6	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	отбрасывая	ОТБРАСЫВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	6	обст	_	_
+10	одеяло	ОДЕЯЛО	S	S n inan acc sg	S n inan acc sg	9	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

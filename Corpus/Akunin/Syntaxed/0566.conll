@@ -1,0 +1,69 @@
+1	В	В	PR	PR	PR	9	обст	_	_
+2	пресс-клубе	ПРЕСС-КЛУБ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+4	появиться	ПОЯВЛЯТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	в	В	PR	PR	PR	4	обст	_	_
+6	тот	ТОТ	A	A - acc sg plen m inan	A - acc sg plen m inan	7	опред	_	_
+7	вечер	ВЕЧЕР	S	S m inan acc sg	S m inan acc sg	5	предл	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	осмелилась	ОСМЕЛИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Наверняка	НАВЕРНЯКА	ADV	ADV -	ADV -	3	обст	_	_
+2	все	ВСЕ	S	S - - nom pl	S - - nom pl	3	предик	_	_
+3	винят	ВИНИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+6	в	В	PR	PR	PR	8	обст	_	_
+7	смерти	СМЕРТЬ	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+8	Лукана	ЛУКАН	S	S m anim acc sg	S m anim acc sg	5	соч-союзн	_	_
+9	(	(	_	_	PUNC	10	PUNC	_	_
+10	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	13	предик	_	_
+11	же	ЖЕ	PART	PART	PART	10	огранич	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	знают	ЗНАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	3	примыкат	_	_
+14	об	ОБ	PR	PR	PR	13	1-компл	_	_
+15	измене	ИЗМЕНА	S	S f inan loc sg	S f inan loc sg	14	предл	_	_
+16	)	)	_	_	PUNC	15	PUNC	_	_
+17	,	,	,	,	PUNC	15	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+19	в	В	PR	PR	PR	18	соч-союзн	_	_
+20	изгнании	ИЗГНАНИЕ	S	S n inan loc sg	S n inan loc sg	19	предл	_	_
+21	всеобщего	ВСЕОБЩИЙ	A	A - gen sg plen m -	A - gen sg plen m -	22	опред	_	_
+22	любимца	ЛЮБИМЕЦ	S	S m anim gen sg	S m anim gen sg	20	квазиагент	_	_
+23	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	22	аппоз	_	_
+24	'	'	_	_	PUNC	23	PUNC	_	_
+25	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	19	предик	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Француз	ФРАНЦУЗ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+2	из	ИЗ	PR	PR	PR	1	атриб	_	_
+3	Букарешта	БУКАРЕШТА	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	в	В	PR	PR	PR	1	2-компл	_	_
+5	лагерь	ЛАГЕРЬ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	так и	так и	CONJ	CONJ	ZERO	1	обст	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	вернулся	ВЕРНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	подч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	7	вводн	_	_
+2	словам	СЛОВО	S	S n inan dat pl	S n inan dat pl	1	предл	_	_
+3	Эраста	ЭРАСТ	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+4	Петровича	ПЕТРОВИЧ	S	S m anim gen sg	S m anim gen sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	дуэлянта	ДУЭЛЯНТ	S	S m anim gen sg	S m anim gen sg	4	аппоз	_	_
+7	подержали	ПОДЕРЖАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+8	под	ПОД	PR	PR	PR	7	обст	_	_
+9	арестом	АРЕСТ	S	S m inan ins sg	S m inan ins sg	8	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+11	велели	ВЕЛЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	10	соч-союзн	_	_
+12	в	В	PR	PR	PR	11	обст	_	_
+13	двадцать	ДВАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	15	количест	_	_
+14	четыре	ЧЕТЫРЕ	NUM	NUM nom - -	NUM nom - -	15	количест	_	_
+15	часа	ЧАС	S	S m inan - sg	S m inan - sg	12	предл	_	_
+16	покинуть	ПОКИДАТЬ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+17	территорию	ТЕРРИТОРИЯ	S	S f inan acc sg	S f inan acc sg	16	1-компл	_	_
+18	Румынского	РУМЫНСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	19	опред	_	_
+19	княжества	КНЯЖЕСТВО	S	S n inan gen sg	S n inan gen sg	17	квазиагент	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

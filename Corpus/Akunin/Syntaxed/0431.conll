@@ -1,0 +1,53 @@
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	принадлежу	ПРИНАДЛЕЖАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	всегда	ВСЕГДА	ADV	ADV -	ADV -	6	обст	_	_
+6	буду	БЫТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	4	соч-союзн	_	_
+7	принадлежать	ПРИНАДЛЕЖАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	аналит	_	_
+8	только	ТОЛЬКО	PART	PART	PART	9	огранич	_	_
+9	самой	САМ	A	A - gen sg plen f -	A - gen sg plen f -	10	опред	_	_
+10	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	7	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+13	у	У	PR	PR	PR	15	1-компл	_	_
+14	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	13	предл	_	_
+15	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	12	соч-союзн	_	_
+16	жених	ЖЕНИХ	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	 	 	 	 	PUNC	21	обст	_	_
+19	–	–	–	–	PUNC	21	1-компл	_	_
+20	строго	СТРОГО	ADV	ADV -	ADV -	21	обст	_	_
+21	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	вводн	_	_
+22	нахалу	НАХАЛ	S	S m anim dat sg	S m anim dat sg	21	2-компл	_	_
+23	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	21	предик	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Наслышан	НАСЛЫШАН	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	мсье	МСЬЕ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	3	вспом	_	_
+3	арестант	АРЕСТАНТ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+4	к	К	PR	PR	PR	9	1-компл	_	_
+5	числу	ЧИСЛО	S	S n inan dat sg	S n inan dat sg	4	предл	_	_
+6	моих	МОЙ	A	A - gen pl plen - -	A - gen pl plen - -	7	опред	_	_
+7	друзей	ДРУГ	S	S m anim gen pl	S m anim gen pl	5	квазиагент	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	принадлежит	ПРИНАДЛЕЖАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	 	 	 	 	PUNC	15	обст	_	_
+12	–	–	–	–	PUNC	15	1-компл	_	_
+13	повеселев	ПОВЕСЕЛЕТЬ	V	V pf praet - ger - -	V pf praet - ger - -	12	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	1-компл	_	_
+16	ротмистр	РОТМИСТР	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	15	сент-соч	_	_
+19	с	С	PR	PR	PR	22	2-компл	_	_
+20	рекогносцировкой	РЕКОГНОСЦИРОВКА	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	18	соч-союзн	_	_
+22	покончено	ПОКОНЧИТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	21	пасс-анал	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

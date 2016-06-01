@@ -1,0 +1,14 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Варе	ВАРЯ	S	S f anim dat sg	S f anim dat sg	5	дат-субъект	_	_
+3	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+4	еще	ЕЩЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	хуже	ПЛОХО	ADV	ADV comp	ADV comp	3	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	8	предик	_	_
+8	зажмурилась	ЗАЖМУРИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	сент-соч	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	8	обст	_	_
+11	отогнать	ОТОГНАТЬ	V	V pf - - inf - -	V pf - - inf - -	10	инф-союзн	_	_
+12	дурноту	ДУРНОТА	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

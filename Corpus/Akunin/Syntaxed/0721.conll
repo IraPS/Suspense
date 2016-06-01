@@ -1,0 +1,10 @@
+1	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	достал	ДОСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	из	ИЗ	PR	PR	PR	2	2-компл	_	_
+4	кармана	КАРМАН	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	часы	ЧАСЫ	S	S - inan acc pl	S - inan acc pl	2	1-компл	_	_
+6	на	НА	PR	PR	PR	2	обст	_	_
+7	серебряной	СЕРЕБРЯНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	8	опред	_	_
+8	цепочке	ЦЕПОЧКА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

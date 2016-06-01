@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"жить","gr":"V,ipf,intr=inpraes,sg,indic,3p"}],"text":"Живет"}
+{"analysis":[{"lex":"удивленно","gr":"ADV="}],"text":"удивленно"}
+{"analysis":[{"lex":"хрипнуть","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"хрипнул"}
+{"analysis":[{"lex":"фельдшер","gr":"S,m,anim=nom,sg"}],"text":"фельдшер"}

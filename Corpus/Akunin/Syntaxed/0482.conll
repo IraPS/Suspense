@@ -1,0 +1,24 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Дурацкая	ДУРАЦКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	манера	МАНЕРА	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Сказать	СКАЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+2	«	«	_	_	PUNC	1	PUNC	_	_
+3	а	А	CONJ	CONJ	CONJ	1	сочин	_	_
+4	»	»	_	_	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	говорить	ГОВОРИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	соч-союзн	_	_
+8	«	«	_	_	PUNC	7	PUNC	_	_
+9	б	Б	PART	PART	PART	7	огранич	_	_
+10	»	»	_	_	PUNC	9	PUNC	_	_
+11	!	!	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	5	1-компл	_	_
+2	это	ЭТО	S	S n - nom sg	S n - nom sg	5	предик	_	_
+3	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	в конце концов	в конце концов	ADV	ADV -	-	0	ROOT	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+

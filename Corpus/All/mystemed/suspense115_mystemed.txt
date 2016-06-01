@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"лен","gr":"S,m,inan=acc,sg"},{"lex":"лен","gr":"S,m,inan=nom,sg"}],"text":"Лен"}
+{"analysis":[{"lex":"лен","gr":"S,m,inan=acc,sg"},{"lex":"лен","gr":"S,m,inan=nom,sg"}],"text":"лен"}
+{"analysis":[{"lex":"мять","gr":"V,ipf,tran=praet,pl,indic"}],"text":"мяли"}
+{"analysis":[{"lex":"господин","gr":"S,m,anim=nom,sg"}],"text":"господин"}
+{"analysis":[{"lex":"доктор","gr":"S,m,anim=nom,sg"}],"text":"доктор"}
+{"analysis":[{"lex":"шепотом","gr":"ADV="}],"text":"шепотом"}
+{"analysis":[{"lex":"объяснять","gr":"V,tran=praet,sg,indic,f,pf"}],"text":"объяснила"}
+{"analysis":[{"lex":"аксинья","gr":"S,persn,f,anim=nom,sg"}],"text":"Аксинья"}
+{"analysis":[{"lex":"мялка","gr":"S,f,inan=nom,sg"}],"text":"мялка"}
+{"analysis":[{"lex":"то","gr":"CONJ="}],"text":"то"}
+{"analysis":[{"lex":"лен","gr":"S,m,inan=acc,sg"},{"lex":"лен","gr":"S,m,inan=nom,sg"}],"text":"лен"}
+{"analysis":[{"lex":"мять","gr":"V,ipf,tran=inpraes,pl,indic,3p"}],"text":"мнут"}

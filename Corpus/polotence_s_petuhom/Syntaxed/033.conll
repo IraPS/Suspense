@@ -1,0 +1,83 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	гнойный	ГНОЙНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	аппендицит	АППЕНДИЦИТ	S	S m inan nom sg	S m inan nom sg	1	соч-союзн	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Га	ГА	S	S m inan nonflex nonflex	S m inan nonflex nonflex	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	дифтерийный	ДИФТЕРИЙНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	круп	КРУП	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+4	у	У	PR	PR	PR	0	ROOT	_	_
+5	деревенских	ДЕРЕВЕНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	ребят	РЕБЯТА	S	S - anim gen pl	S - anim gen pl	4	предл	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	трахеотомия	ТРАХЕОТОМИЯ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	показала	ПОКАЗЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	подч-союзн	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	5	соотнос	_	_
+3	без	БЕЗ	PR	PR	PR	5	обст	_	_
+4	трахеотомии	ТРАХЕОТОМИЯ	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+6	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	0	ROOT	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	очень	ОЧЕНЬ	ADV	ADV -	ADV -	9	огранич	_	_
+9	хорошо	ХОРОШО	ADV	ADV -	ADV -	6	обст	_	_
+10	...	...	SENT	SENT	SENT	9	PUNC	_	_
+
+1	А...	А...	S	S m inan nonflex nonflex	S m inan nonflex nonflex	0	ROOT	_	_
+2	а...	А...	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	роды	РОДЫ	S	S - inan nom pl	S - inan nom pl	2	сравн-союзн	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Роды	РОДЫ	S	S - inan nom pl	S - inan nom pl	0	ROOT	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	то	ТО	CONJ	CONJ	CONJ	1	сочин	_	_
+4	забыл	ЗАБЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	соч-союзн	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Неправильные	НЕПРАВИЛЬНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	положения	ПОЛОЖЕНИЕ	S	S n inan nom pl	S n inan nom pl	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	5	1-компл	_	_
+2	ж	Ж	PART	PART	PART	1	огранич	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	буду	БЫТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+5	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	аналит	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	А	А	PART	PART	PART	0	ROOT	_	_
+2	?	?	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Какой	КАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+3	легкомысленный	ЛЕГКОМЫСЛЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Нужно	НУЖНО	ADV	ADV -	ADV -	2	присвяз	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	отказаться	ОТКАЗЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+4	от	ОТ	PR	PR	PR	3	1-компл	_	_
+5	этого	ЭТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	6	опред	_	_
+6	участка	УЧАСТОК	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Нужно	НУЖНО	ADV	ADV -	ADV -	2	обст	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Достали	ДОСТАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+2	бы	БЫ	PART	PART	PART	1	аналит	_	_
+3	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	1	1-компл	_	_
+4	какого-нибудь	КАКОЙ-НИБУДЬ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	Леопольда	ЛЕОПОЛЬД	S	S m anim gen sg	S m anim gen sg	3	квазиагент	_	_
+6	"	"	_	_	PUNC	5	PUNC	_	_
+7	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

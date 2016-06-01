@@ -1,0 +1,92 @@
+1	Государь	ГОСУДАРЬ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	в отличие от	в отличие от	PR	PR	ZERO	6	обст	_	_
+4	Корчакова	КОРЧАКОВ	S	S m anim acc sg	S m anim acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	проявил	ПРОЯВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	к	К	PR	PR	PR	6	1-компл	_	_
+8	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+9	особе	ОСОБА	S	S f anim loc sg	S f anim loc sg	7	предл	_	_
+10	больше	МНОГО	ADV	ADV comp	ADV comp	6	обст	_	_
+11	интереса	ИНТЕРЕС	S	S m inan gen sg	S m inan gen sg	10	сравнит	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	чем	ЧЕМ	CONJ	CONJ	CONJ	10	сравнит	_	_
+14	к	К	PR	PR	PR	13	сравн-союзн	_	_
+15	Фандорину	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Знаменитые	ЗНАМЕНИТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+2	романовские	РОМАНОВСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+4	–	–	–	–	PUNC	0	ROOT	_	_
+5	пристальные	ПРИСТАЛЬНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	месмеризующие	МЕСМЕРИЗУЮЩИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	5	сочин	_	_
+8	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+9	заметно	ЗАМЕТНО	ADV	ADV -	ADV -	10	огранич	_	_
+10	навыкате	НАВЫКАТЕ	ADV	ADV -	ADV -	12	обст	_	_
+11	–	–	–	–	PUNC	12	1-компл	_	_
+12	смотрели	СМОТРЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	8	соч-союзн	_	_
+13	строго	СТРОГО	ADV	ADV -	ADV -	12	обст	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+15	требовательно	ТРЕБОВАТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	14	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Проникают	ПРОНИКАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	8	вводн	_	_
+2	в	В	PR	PR	PR	1	2-компл	_	_
+3	самую	САМЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	4	опред	_	_
+4	душу	ДУША	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+5	–	–	–	–	PUNC	8	2-компл	_	_
+6	это	ЭТО	S	S n - nom sg	S n - nom sg	8	1-компл	_	_
+7	так	ТАК	ADV	ADV -	ADV -	8	обст	_	_
+8	называется	НАЗЫВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	подумала	ПОДУМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	вводн	_	_
+11	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+12	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+13	немножко	НЕМНОЖКО	ADV	ADV -	ADV -	14	обст	_	_
+14	рассердилась	РАССЕРДИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	12	соч-союзн	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Рабская	РАБСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	психология	ПСИХОЛОГИЯ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	предрассудки	ПРЕДРАССУДОК	S	S m inan nom pl	S m inan nom pl	3	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Просто	ПРОСТО	PART	PART	PART	2	огранич	_	_
+2	имитирует	ИМИТИРОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	«	«	_	_	PUNC	2	PUNC	_	_
+4	взгляд	ВЗГЛЯД	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+5	василиска	ВАСИЛИСКА	S	S m anim acc sg	S m anim acc sg	2	предик	_	_
+6	»	»	_	_	PUNC	5	PUNC	_	_
+7	,	,	,	,	PUNC	5	PUNC	_	_
+8	которым	КОТОРЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	10	1-компл	_	_
+9	так	ТАК	ADV	ADV -	ADV -	10	обст	_	_
+10	гордился	ГОРДИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	релят	_	_
+11	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	12	атриб	_	_
+12	папенька	ПАПЕНЬКА	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	чтоб	ЧТОБ	CONJ	CONJ	CONJ	2	обст	_	_
+15	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	18	1-компл	_	_
+16	в	В	PR	PR	PR	18	обст	_	_
+17	гробу	ГРОБ	S	S m inan loc2 sg	S m inan loc2 sg	16	предл	_	_
+18	перевернуться	ПЕРЕВЕРТЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	14	инф-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	4	предик	_	_
+3	тоже	ТОЖЕ	PART	PART	PART	4	огранич	_	_
+4	принялась	ПРИНИМАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+5	демонстративно	ДЕМОНСТРАТИВНО	ADV	ADV -	ADV -	6	обст	_	_
+6	рассматривать	РАССМАТРИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+7	того	ТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	чьей	ЧЕЙ	A	A - gen sg plen f -	A - gen sg plen f -	10	опред	_	_
+10	волей	ВОЛЯ	S	S f inan ins sg	S f inan ins sg	11	1-компл	_	_
+11	жила	ЖИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	7	релят	_	_
+12	вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	14	опред	_	_
+13	восьмидесятимиллионная	ВОСЬМИДЕСЯТИМИЛЛИОННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	опред	_	_
+14	держава	ДЕРЖАВА	S	S f inan nom sg	S f inan nom sg	11	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

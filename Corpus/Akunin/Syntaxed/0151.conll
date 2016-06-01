@@ -1,0 +1,119 @@
+1	Те	ТОТ	A	A - nom pl plen - -	A - nom pl plen - -	2	предик	_	_
+2	помогли	ПОМОГАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	офицеру	ОФИЦЕР	S	S m anim dat sg	S m anim dat sg	2	2-компл	_	_
+4	подняться	ПОДНИМАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	покачнулся	ПОКАЧНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	но	НО	CONJ	CONJ	CONJ	2	сочин	_	_
+5	устоял	УСТАИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+6	на	НА	PR	PR	PR	5	обст	_	_
+7	ногах	НОГА	S	S f inan loc pl	S f inan loc pl	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	5	сент-соч	_	_
+10	казаков	КАЗАК	S	S m anim acc pl	S m anim acc pl	18	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	хотевших	ХОТЕТЬ	PARTCP	PARTCP ipf praet loc pl plen - act -	PARTCP ipf praet loc pl plen - act -	10	опред	_	_
+13	поддержать	ПОДДЕРЖИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	12	1-компл	_	_
+14	за	ЗА	PR	PR	PR	13	3-компл	_	_
+15	локти	ЛОКОТЬ	S	S m inan acc pl	S m inan acc pl	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	упрямо	УПРЯМО	ADV	ADV -	ADV -	18	обст	_	_
+18	оттолкнул	ОТТАЛКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Сделал	СДЕЛАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	4	количест	_	_
+3	дерганых	ДЕРГАНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	4	опред	_	_
+4	шагов	ШАГ	S	S m inan gen pl	S m inan gen pl	1	1-компл	_	_
+5	на	НА	PR	PR	PR	1	обст	_	_
+6	неверных	НЕВЕРНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	8	опред	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	того	ТО	S	S n - gen sg	S n - gen sg	5	предл	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	гляди	ГЛЯДЕТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	9	соч-союзн	_	_
+11	подломятся	ПОДЛАМЫВАТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	1	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	ногах	НОГА	S	S f inan loc pl	S f inan loc pl	11	сочин	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	вытянув	ВЫТЯГИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	21	обст	_	_
+17	руки	РУКА	S	S f inan acc pl	S f inan acc pl	16	1-компл	_	_
+18	по	ПО	PR	PR	PR	17	атриб	_	_
+19	швам	ШОВ	S	S m inan dat pl	S m inan dat pl	18	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	прохрипел	ПРОХРИПЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	соч-союзн	_	_
+22	:	:	:	:	PUNC	23	опред	_	_
+23	–	–	–	–	PUNC	21	1-компл	_	_
+24	Ге	ГЕ	NONLEX	NONLEX	NONLEX	23	аппоз	_	_
+25	…	…	…	…	PUNC	21	2-компл	_	_
+26	генерального	ГЕНЕРАЛЬНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	27	опред	_	_
+27	штаба	ШТАБ	S	S m inan gen sg	S m inan gen sg	25	1-компл	_	_
+28	капитан	КАПИТАН	S	S m anim nom sg	S m anim nom sg	21	предик	_	_
+29	Еремей	ЕРЕМЕЙ	S	S m anim nom sg	S m anim nom sg	28	аппоз	_	_
+30	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	29	аппоз	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	33	опред	_	_
+33	превосходительство	ПРЕВОСХОДИТЕЛЬСТВО	S	S n anim nom sg	S n anim nom sg	21	1-компл	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	Следовал	СЛЕДОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	из	ИЗ	PR	PR	PR	1	1-компл	_	_
+3	Зимницы	ЗИМНИЦА	S	S f inan ins sg	S f inan ins sg	2	предл	_	_
+4	к	К	PR	PR	PR	3	1-компл	_	_
+5	месту	МЕСТО	S	S n inan dat sg	S n inan dat sg	4	предл	_	_
+6	службы	СЛУЖБА	S	S f inan gen sg	S f inan gen sg	5	квазиагент	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	в	В	PR	PR	PR	5	2-компл	_	_
+9	штаб	ШТАБ	S	S m inan acc sg	S m inan acc sg	8	предл	_	_
+10	Западного	ЗАПАДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	11	опред	_	_
+11	отряда	ОТРЯД	S	S m inan gen sg	S m inan gen sg	9	квазиагент	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Назначен	НАЗНАЧАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+2	в	В	PR	PR	PR	1	2-компл	_	_
+3	оперативный	ОПЕРАТИВНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	отдел	ОТДЕЛ	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+5	к	К	PR	PR	PR	1	обст	_	_
+6	генерал-лейтенанту	ГЕНЕРАЛ-ЛЕЙТЕНАНТ	S	S m anim dat sg	S m anim dat sg	5	предл	_	_
+7	Криденеру	КРИДЕНЕРА	S	S m anim gen sg	S m anim gen sg	6	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	3	вводн	_	_
+2	дороге	ДОРОГА	S	S f inan dat sg	S f inan dat sg	1	предл	_	_
+3	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	атакован	АТАКОВАТЬ	PARTCP	PARTCP ipf praet - sg brev m pass -	PARTCP ipf praet - sg brev m pass -	3	пасс-анал	_	_
+5	отрядом	ОТРЯД	S	S m inan ins sg	S m inan ins sg	3	обст	_	_
+6	вражеской	ВРАЖЕСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	опред	_	_
+7	иррегулярной	ИРРЕГУЛЯРНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	опред	_	_
+8	кавалерии	КАВАЛЕРИЯ	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+9	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+10	захвачен	ЗАХВАТИТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	9	соч-союзн	_	_
+11	в	В	PR	PR	PR	10	обст	_	_
+12	плен	ПЛЕН	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Виноват	ВИНОВАТЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+2	…	…	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Никак	НИКАК	ADV	ADV -	ADV -	3	обст	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	ожидал	ОЖИДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	обст	_	_
+5	нашем	НАШ	A	A - loc sg plen m -	A - loc sg plen m -	6	опред	_	_
+6	тылу	ТЫЛ	S	S m inan loc2 sg	S m inan loc2 sg	4	предл	_	_
+7	…	…	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Даже	ДАЖЕ	PART	PART	PART	2	огранич	_	_
+2	пистолета	ПИСТОЛЕТ	S	S m inan gen sg	S m inan gen sg	6	предик	_	_
+3	при	ПРИ	PR	PR	PR	6	обст	_	_
+4	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	3	предл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	одна	ОДИН	A	A - nom sg plen f -	A - nom sg plen f -	9	количест	_	_
+9	шашка	ШАШКА	S	S f inan nom sg	S f inan nom sg	6	сент-соч	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"Что"}
+{"analysis":[{"lex":"ж","gr":"PART="}],"text":"ж"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"рассказывать","gr":"V=praet,sg,indic,f,pf"}],"text":"рассказала"}

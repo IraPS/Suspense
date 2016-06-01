@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"рука","gr":"S,f,inan=acc,sg"}],"text":"Руку"}
+{"analysis":[{"lex":"поцелуй","gr":"S,m,inan=acc,sg"},{"lex":"поцелуй","gr":"S,m,inan=nom,sg"}],"text":"поцелуй"}
+{"analysis":[{"lex":"вдруг","gr":"ADV="}],"text":"вдруг"}
+{"analysis":[{"lex":"неожиданно","gr":"ADV="}],"text":"неожиданно"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"отец","gr":"S,m,anim=nom,sg"}],"text":"отец"}

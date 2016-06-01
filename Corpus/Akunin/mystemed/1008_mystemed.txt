@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"выстрел","gr":"S,m,inan=acc,pl"},{"lex":"выстрел","gr":"S,m,inan=nom,pl"}],"text":"Выстрелы"}
+{"analysis":[{"lex":"откатываться","gr":"V,ipf,intr=praet,pl,indic"}],"text":"откатывались"}
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"все"}
+{"analysis":[{"lex":"далеко","gr":"ADV=comp"}],"text":"дальше"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"далеко","gr":"ADV=comp"}],"text":"дальше"}
+{"analysis":[{"lex":"отчетливо","gr":"ADV="}],"text":"отчетливо"}
+{"analysis":[{"lex":"доноситься","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"донеслось"}
+{"analysis":[{"lex":"протяжный","gr":"A=acc,sg,plen,n"},{"lex":"протяжный","gr":"A=nom,sg,plen,n"}],"text":"протяжное"}
+{"analysis":[{"lex":"ура","gr":"INTJ="}],"text":"ура"}

@@ -1,0 +1,12 @@
+1	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+2	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	6	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	истолковал	ИСТОЛКОВЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+8	недовольную	НЕДОВОЛЬНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	мину	МИНА	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+10	по-своему	ПО-СВОЕМУ	ADV	ADV -	ADV -	6	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

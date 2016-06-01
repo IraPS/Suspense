@@ -1,0 +1,25 @@
+1	"	"	_	_	PUNC	2	PUNC	_	_
+2	Прямо	ПРЯМО	PART	PART	PART	5	огранич	_	_
+3	гениальный	ГЕНИАЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	5	присвяз	_	_
+5	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	Леопольд	ЛЕОПОЛЬД	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+8	"	"	_	_	PUNC	7	PUNC	_	_
+9	,	,	,	,	PUNC	7	PUNC	_	_
+10	-	-	-	-	PUNC	7	PUNC	_	_
+11	подумал	ПОДУМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	вводн	_	_
+12	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+13	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+14	проникся	ПРОНИКАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+15	уважением	УВАЖЕНИЕ	S	S n inan ins sg	S n inan ins sg	14	1-компл	_	_
+16	к	К	PR	PR	PR	15	1-компл	_	_
+17	таинственному	ТАИНСТВЕННЫЙ	A	A - dat sg plen n -	A - dat sg plen n -	0	ROOT	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	покинувшему	ПОКИДАТЬ	PARTCP	PARTCP pf praet dat sg plen m act -	PARTCP pf praet dat sg plen m act -	17	опред	_	_
+20	тихое	ТИХИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	21	опред	_	_
+21	Мурье	МУРЬЯ	S	S n inan acc sg	S n inan acc sg	19	1-компл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	Леопольду	ЛЕОПОЛЬД	S	S m anim dat sg	S m anim dat sg	19	2-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+

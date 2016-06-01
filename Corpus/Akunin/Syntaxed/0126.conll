@@ -1,0 +1,26 @@
+1	Генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	приосанился	ПРИОСАНИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	взглянул	ВЗГЛЯДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+5	на	НА	PR	PR	PR	4	1-компл	_	_
+6	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	но	НО	CONJ	CONJ	CONJ	4	сочин	_	_
+9	тут	ТУТ	ADV	ADV -	ADV -	11	обст	_	_
+10	же	ЖЕ	PART	PART	PART	9	огранич	_	_
+11	поскучнел	ПОСКУЧНЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	что	ЧТО	CONJ	CONJ	CONJ	11	1-компл	_	_
+14	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	13	подч-союзн	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	понятно	ПОНЯТНЫЙ	A	A comp2 - - plen - -	A comp2 - - plen - -	15	соч-союзн	_	_
+17	:	:	:	:	PUNC	19	опред	_	_
+18	немытые	НЕМЫТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	19	опред	_	_
+19	волосы	ВОЛОС	S	S m inan nom pl	S m inan nom pl	14	предик	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	царапина	ЦАРАПИНА	S	S f inan nom sg	S f inan nom sg	19	сочин	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	нелепый	НЕЛЕПЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	24	опред	_	_
+24	наряд	НАРЯД	S	S m inan nom sg	S m inan nom sg	21	сочин	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

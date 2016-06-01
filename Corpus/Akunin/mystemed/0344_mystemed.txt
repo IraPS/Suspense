@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"зуров","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Зуров"}
+{"analysis":[{"lex":"присвистывать","gr":"V=praet,sg,indic,m,pf,intr"}],"text":"присвистнул"}
+{"analysis":[{"lex":"ого","gr":"INTJ="}],"text":"Ого"}
+{"text":"\\s"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"ты","gr":"SPRO,sg,2p=nom"}],"text":"ты"}
+{"analysis":[{"lex":"то","gr":"PART="}],"text":"то"}
+{"analysis":[{"lex":"откуда","gr":"ADVPRO="}],"text":"откуда"}
+{"analysis":[{"lex":"знать","gr":"V,ipf,tran=inpraes,sg,indic,2p"}],"text":"знаешь"}

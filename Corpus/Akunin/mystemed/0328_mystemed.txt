@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"однако","gr":"CONJ="}],"text":"Однако"}
+{"analysis":[{"lex":"весь","gr":"APRO=nom,pl"},{"lex":"весь","gr":"APRO=acc,sg,n"},{"lex":"весь","gr":"APRO=nom,sg,n"},{"lex":"весь","gr":"APRO=acc,pl,inan"}],"text":"все"}
+{"analysis":[{"lex":"включая","gr":"PR="}],"text":"включая"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=acc,sg"}],"text":"Варю"}
+{"analysis":[{"lex":"столь","gr":"ADVPRO="}],"text":"столь"}
+{"analysis":[{"lex":"дружно","gr":"ADV="}],"text":"дружно"}
+{"analysis":[{"lex":"наброситься","gr":"V,pf,intr=praet,pl,indic"}],"text":"набросились"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"нудный","gr":"A=acc,sg,plen,m,anim"},{"lex":"нудный","gr":"A=gen,sg,plen,m"},{"lex":"нудный","gr":"A=gen,sg,plen,n"}],"text":"нудного"}
+{"analysis":[{"lex":"кельт","gr":"S,m,anim=acc,sg"},{"lex":"кельт","gr":"S,m,anim=gen,sg"}],"text":"кельта"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"был"}
+{"analysis":[{"lex":"вынуждать","gr":"V=praet,sg,partcp,brev,m,pf,pass,tran"}],"text":"вынужден"}
+{"analysis":[{"lex":"умолкать","gr":"V,intr=inf,pf"}],"text":"умолкнуть"}

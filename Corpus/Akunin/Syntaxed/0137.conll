@@ -1,0 +1,63 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+2	с	С	PR	PR	PR	4	обст	_	_
+3	Любопытством	ЛЮБОПЫТСТВО	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	смотрела	СМОТРЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	1-компл	_	_
+6	француза	ФРАНЦУЗ	S	S m anim gen sg	S m anim gen sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	предик	_	_
+9	подъехал	ПОДЪЕЗЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сент-соч	_	_
+10	последним	ПОСЛЕДНИЙ	A	A - ins sg plen m -	A - ins sg plen m -	9	2-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Француз	ФРАНЦУЗ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+2	(	(	_	_	PUNC	3	PUNC	_	_
+3	на	НА	PR	PR	PR	12	обст	_	_
+4	рукаве	РУКАВ	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+5	повязка	ПОВЯЗКА	S	S f inan nom sg	S f inan nom sg	4	аппоз	_	_
+6	«	«	_	_	PUNC	5	PUNC	_	_
+7	Корреспондентъ	КОРРЕСПОНДЕНТ	S	S f inan nom sg	S f inan nom sg	5	аппоз	_	_
+8	No	NO	NONLEX	NONLEX	NONLEX	7	аппоз	_	_
+9	32	32	NUM	NUM - - -	NUM - - -	8	аппоз	_	_
+10	»	»	_	_	PUNC	9	PUNC	_	_
+11	)	)	_	_	PUNC	9	PUNC	_	_
+12	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+13	чудо	ЧУДО	S	S n inan acc sg	S n inan acc sg	12	присвяз	_	_
+14	как	КАК	CONJ	CONJ	CONJ	13	сравнит	_	_
+15	хорош	ХОРОШИЙ	A	A - - sg brev m -	A - - sg brev m -	14	сравн-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	в	В	PR	PR	PR	21	обст	_	_
+18	своем	СВОЙ	A	A - loc sg plen m -	A - loc sg plen m -	19	опред	_	_
+19	роде	РОД	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+20	не	НЕ	PART	PART	PART	21	огранич	_	_
+21	хуже	ПЛОХО	ADV	ADV comp	ADV comp	24	вводн	_	_
+22	Соболева	СОБОЛЕВА	S	S m anim gen sg	S m anim gen sg	21	сравнит	_	_
+23	:	:	:	:	PUNC	24	опред	_	_
+24	тонкий	ТОНКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	сент-соч	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	с	С	PR	PR	PR	24	сочин	_	_
+27	горбинкой	ГОРБИНКА	S	S f inan ins sg	S f inan ins sg	26	предл	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	нос	НОС	S	S m inan acc sg	S m inan acc sg	24	сент-соч	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	подкрученные	ПОДКРУЧИВАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	29	сент-соч	_	_
+32	светлые	СВЕТЛЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	33	опред	_	_
+33	усы	УС	S	S m inan nom pl	S m inan nom pl	31	предик	_	_
+34	с	С	PR	PR	PR	33	атриб	_	_
+35	маленькой	МАЛЕНЬКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	37	опред	_	_
+36	рыжеватой	РЫЖЕВАТЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	37	опред	_	_
+37	эспаньолкой	ЭСПАНЬОЛКА	S	S f inan ins sg	S f inan ins sg	34	предл	_	_
+38	,	,	,	,	PUNC	37	PUNC	_	_
+39	умные	УМНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	41	опред	_	_
+40	серые	СЕРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	41	опред	_	_
+41	глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	12	вводн	_	_
+42	.	.	SENT	SENT	SENT	41	PUNC	_	_
+
+1	Глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	впрочем	ВПРОЧЕМ	CONJ	CONJ	CONJ	1	сочин	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	смотрели	СМОТРЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	соч-союзн	_	_
+6	сердито	СЕРДИТО	ADV	ADV -	ADV -	5	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

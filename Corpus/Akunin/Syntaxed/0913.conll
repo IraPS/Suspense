@@ -1,0 +1,31 @@
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Здравствуйте	ЗДРАВСТВОВАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	7	пролепт	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	2	вводн	_	_
+5	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	 	 	 	 	PUNC	10	обст	_	_
+8	–	–	–	–	PUNC	10	1-компл	_	_
+9	приветливо	ПРИВЕТЛИВО	ADV	ADV -	ADV -	10	обст	_	_
+10	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+11	титулярный	ТИТУЛЯРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	опред	_	_
+12	советник	СОВЕТНИК	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	предик	_	_
+2	К	К	S	S - - nonflex nonflex	S - - nonflex nonflex	1	аппоз	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	как	КАК	ADV	ADV -	ADV -	7	обст	_	_
+5	у	У	PR	PR	PR	7	1-компл	_	_
+6	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	5	предл	_	_
+7	волосы	ВОЛОС	S	S m inan acc pl	S m inan acc pl	0	ROOT	_	_
+8	отрасли	ОТРАСЛЬ	S	S f inan gen sg	S f inan gen sg	7	квазиагент	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Пожалуй	ПОЖАЛУЙ	PART	PART	PART	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	так	ТАК	ADV	ADV -	ADV -	5	вводн	_	_
+4	все-таки	ВСЕ-ТАКИ	PART	PART	PART	3	вспом	_	_
+5	лучше	ХОРОШО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

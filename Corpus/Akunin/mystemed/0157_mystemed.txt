@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"analysis":[{"lex":"спрыгивать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"спрыгнул"}
+{"analysis":[{"lex":"наземь","gr":"ADV="}],"text":"наземь"}
+{"analysis":[{"lex":"приближаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"приблизился"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"конь","gr":"S,m,anim=dat,sg"}],"text":"коню"}
+{"analysis":[{"lex":"скептически","gr":"ADV="}],"text":"скептически"}
+{"analysis":[{"lex":"прищуриваться","gr":"V,intr=praet,ger,pf"}],"text":"прищурившись"}
+{"analysis":[{"lex":"повертеть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"повертел"}
+{"analysis":[{"lex":"кошмарный","gr":"A=acc,sg,plen,m,inan"},{"lex":"кошмарный","gr":"A=nom,sg,plen,m"}],"text":"кошмарный"}
+{"analysis":[{"lex":"шар","gr":"S,m,inan=acc,sg"},{"lex":"шар","gr":"S,m,inan=nom,sg"}],"text":"шар"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"так"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"этак","gr":"ADVPRO,parenth="}],"text":"этак"}

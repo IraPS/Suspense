@@ -1,0 +1,78 @@
+1	В	В	PR	PR	PR	8	огранич	_	_
+2	1873	1873	NUM	NUM - - -	NUM - - -	3	опред	_	_
+3	году	ГОД	S	S m inan loc2 sg	S m inan loc2 sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	в	В	PR	PR	PR	8	огранич	_	_
+6	мае	МАЙ	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	когда	КОГДА	CONJ	CONJ	CONJ	16	обст	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+10	направлялся	НАПРАВЛЯТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	подч-союзн	_	_
+11	в	В	PR	PR	PR	10	2-компл	_	_
+12	Хиву	ХИВА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	проводник	ПРОВОДНИК	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+15	Асаф	АСАФ	S	S m anim nom sg	S m anim nom sg	14	аппоз	_	_
+16	решил	РЕШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+17	завладеть	ЗАВЛАДЕВАТЬ	V	V pf - - inf - -	V pf - - inf - -	16	1-компл	_	_
+18	моими	МОЙ	A	A - ins pl plen - -	A - ins pl plen - -	19	опред	_	_
+19	часами	ЧАС	S	S m inan ins pl	S m inan ins pl	17	1-компл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	моим	МОЙ	A	A - ins sg plen m -	A - ins sg plen m -	22	опред	_	_
+22	ружьем	РУЖЬЕ	S	S n inan ins sg	S n inan ins sg	19	разъяснит	_	_
+23	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+24	моим	МОЙ	A	A - ins sg plen m -	A - ins sg plen m -	26	опред	_	_
+25	вороным	ВОРОНОЙ	A	A - dat pl plen - -	A - dat pl plen - -	26	опред	_	_
+26	ахалтекинцем	АХАЛТЕКИНЕЦ	S	S m anim ins sg	S m anim ins sg	23	соч-союзн	_	_
+27	Ятаганом	ЯТАГАН	S	S m inan acc sg	S m inan acc sg	17	2-компл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Ночью	НОЧЬ	S	S f inan ins sg	S f inan ins sg	10	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	когда	КОГДА	CONJ	CONJ	CONJ	1	уточн	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	спал	СПАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	подч-союзн	_	_
+6	в	В	PR	PR	PR	5	обст	_	_
+7	палатке	ПАЛАТКА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	проводник	ПРОВОДНИК	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+10	бросил	БРОСАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+11	в	В	PR	PR	PR	10	3-компл	_	_
+12	мой	МОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	14	опред	_	_
+13	левый	ЛЕВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	14	опред	_	_
+14	сапог	САПОГ	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+15	эфу	ЭФА	S	S f anim acc sg	S f anim acc sg	10	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	чей	ЧЕЙ	A	A - nom sg plen m -	A - nom sg plen m -	18	опред	_	_
+18	укус	УКУС	S	S m inan nom sg	S m inan nom sg	19	предик	_	_
+19	смертелен	СМЕРТЕЛЬНЫЙ	A	A - - sg brev m -	A - - sg brev m -	10	сент-соч	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	сапог	САПОГ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+3	просил	ПРОСИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+4	каши	КАША	S	S f inan acc pl	S f inan acc pl	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+7	эфа	ЭФА	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+8	уползла	УПОЛЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	соч-союзн	_	_
+9	в	В	PR	PR	PR	8	2-компл	_	_
+10	пустыню	ПУСТЫНЯ	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Утром	УТРО	S	S n inan ins sg	S n inan ins sg	4	обст	_	_
+2	Асаф	АСАФ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	4	суб-копр	_	_
+4	рассказал	РАССКАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	4	2-компл	_	_
+6	об	ОБ	PR	PR	PR	4	3-компл	_	_
+7	этом	ЭТО	S	S n - loc sg	S n - loc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	потому что	потому что	CONJ	CONJ	ZERO	4	обст	_	_
+10	усмотрел	УСМАТРИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	подч-союзн	_	_
+11	в	В	PR	PR	PR	10	2-компл	_	_
+12	случившемся	СЛУЧАТЬСЯ	PARTCP	PARTCP pf praet loc sg plen m act -	PARTCP pf praet loc sg plen m act -	11	предл	_	_
+13	руку	РУКА	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+14	Аллаха	АЛЛАХ	S	S m anim gen sg	S m anim gen sg	13	квазиагент	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

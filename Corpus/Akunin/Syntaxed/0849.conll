@@ -1,0 +1,139 @@
+1	С	С	PR	PR	PR	8	обст	_	_
+2	Петей	ПЕТЯ	S	S m anim ins sg	S m anim ins sg	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	по	ПО	PR	PR	PR	6	обст	_	_
+5	правде	ПРАВДА	S	S f inan dat sg	S f inan dat sg	4	предл	_	_
+6	говоря	ГОВОРИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	складывалось	СКЛАДЫВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	очень	ОЧЕНЬ	ADV	ADV -	ADV -	8	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Нет	НЕТ	PART	PART	PART	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	ревновал	РЕВНОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	сцен	СЦЕНА	S	S f inan gen pl	S f inan gen pl	9	1-компл	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	устраивал	УСТРАИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	сочин	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	после	ПОСЛЕ	PR	PR	PR	8	обст	_	_
+3	несостоявшегося	НЕСОСТОЯВШИЙСЯ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	самоубийства	САМОУБИЙСТВО	S	S n inan gen sg	S n inan gen sg	2	предл	_	_
+5	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	8	дат-субъект	_	_
+6	с	С	PR	PR	PR	8	обст	_	_
+7	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	6	предл	_	_
+8	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+9	трудно	ТРУДНО	ADV	ADV -	ADV -	8	присвяз	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Во-первых	ВО-ПЕРВЫХ	ADV	ADV -	ADV -	7	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+4	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	7	1-компл	_	_
+5	почти	ПОЧТИ	ADV	ADV -	ADV -	7	огранич	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	видела	ВИДЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+8	–	–	–	–	PUNC	7	1-компл	_	_
+9	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	«	«	_	_	PUNC	9	PUNC	_	_
+11	смывал	СМЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	2-компл	_	_
+12	вину	ВИНА	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+13	»	»	_	_	PUNC	12	PUNC	_	_
+14	трудом	ТРУД	S	S m inan ins sg	S m inan ins sg	11	2-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	поскольку	ПОСКОЛЬКУ	CONJ	CONJ	CONJ	11	обст	_	_
+17	смыть	СМЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	23	предик	_	_
+18	вину	ВИНА	S	S f inan acc sg	S f inan acc sg	17	1-компл	_	_
+19	кровью	КРОВЬ	S	S f inan ins sg	S f inan ins sg	18	1-компл	_	_
+20	в	В	PR	PR	PR	19	атриб	_	_
+21	шифровальном	ШИФРОВАЛЬНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	22	опред	_	_
+22	отделе	ОТДЕЛ	S	S m inan loc sg	S m inan loc sg	20	предл	_	_
+23	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	16	подч-союзн	_	_
+24	невозможно	НЕВОЗМОЖНЫЙ	A	A - - sg brev n -	A - - sg brev n -	23	присвяз	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Дежурил	ДЕЖУРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	по	ПО	PR	PR	PR	1	обст	_	_
+3	две	ДВА	NUM	NUM nom f -	NUM nom f -	4	количест	_	_
+4	смены	СМЕНА	S	S f inan gen sg	S f inan gen sg	2	предл	_	_
+5	подряд	ПОДРЯД	ADV	ADV -	ADV -	4	атриб	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	спал	СПАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	сочин	_	_
+8	там	ТАМ	ADV	ADV -	ADV -	7	обст	_	_
+9	же	ЖЕ	PART	PART	PART	8	огранич	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	на	НА	PR	PR	PR	7	обст	_	_
+12	складной	СКЛАДНОЙ	A	A - loc sg plen f -	A - loc sg plen f -	13	опред	_	_
+13	койке	КОЙКА	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	в	В	PR	PR	PR	7	обст	_	_
+16	клуб	КЛУБ	S	S m inan acc sg	S m inan acc sg	15	предл	_	_
+17	к	К	PR	PR	PR	7	1-компл	_	_
+18	журналистам	ЖУРНАЛИСТ	S	S m anim dat pl	S m anim dat pl	17	предл	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	ходил	ХОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сочин	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	участия	УЧАСТИЕ	S	S n inan gen sg	S n inan gen sg	26	1-компл	_	_
+23	в	В	PR	PR	PR	22	1-компл	_	_
+24	пирушках	ПИРУШКА	S	S f inan loc pl	S f inan loc pl	23	предл	_	_
+25	не	НЕ	PART	PART	PART	26	огранич	_	_
+26	принимал	ПРИНИМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	20	сочин	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Рождество	РОЖДЕСТВО	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	сочельник	СОЧЕЛЬНИК	S	S m inan acc sg	S m inan acc sg	4	соч-союзн	_	_
+6	пришлось	ПРИХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+7	отмечать	ОТМЕЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	1-компл	_	_
+8	без	БЕЗ	PR	PR	PR	7	обст	_	_
+9	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	При	ПРИ	PR	PR	PR	6	обст	_	_
+2	виде	ВИД	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	2	квазиагент	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+6	загоралось	ЗАГОРАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+7	тихой	ТИХИЙ	A	A - gen sg plen f -	A - gen sg plen f -	10	опред	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	ласковой	ЛАСКОВЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	10	опред	_	_
+10	радостью	РАДОСТЬ	S	S f inan ins sg	S f inan ins sg	6	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	говорил	ГОВОРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+3	с	С	PR	PR	PR	2	1-компл	_	_
+4	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	словно	СЛОВНО	CONJ	CONJ	CONJ	2	сравнит	_	_
+7	с	С	PR	PR	PR	6	сравн-союзн	_	_
+8	иконой	ИКОНА	S	S f inan ins sg	S f inan ins sg	7	предл	_	_
+9	Владимирской	ВЛАДИМИРСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	10	опред	_	_
+10	Богоматери	БОГОМАТЕРЬ	S	S f anim gen sg	S f anim gen sg	8	квазиагент	_	_
+11	:	:	:	:	PUNC	2	3-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+13	светлая	СВЕТЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	опред	_	_
+14	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	20	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+17	единственная	ЕДИНСТВЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	18	опред	_	_
+18	надежда	НАДЕЖДА	S	S f inan nom sg	S f inan nom sg	16	соч-союзн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	и	И	CONJ	CONJ	CONJ	12	соч-союзн	_	_
+21	без	БЕЗ	PR	PR	PR	25	обст	_	_
+22	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	21	предл	_	_
+23	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	25	предик	_	_
+24	совсем	СОВСЕМ	ADV	ADV -	ADV -	25	огранич	_	_
+25	пропал	ПРОПАДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	вводн	_	_
+26	бы	БЫ	PART	PART	PART	25	аналит	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

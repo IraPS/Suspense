@@ -1,0 +1,36 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Дочка	ДОЧКА	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+3	моя	МОЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	-	-	-	-	PUNC	3	PUNC	_	_
+6	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+7	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	6	предик	_	_
+8	шепотом	ШЕПОТОМ	ADV	ADV -	ADV -	6	обст	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	а	А	CONJ	CONJ	CONJ	8	сочин	_	_
+11	потом	ПОТОМ	ADV	ADV -	ADV -	12	обст	_	_
+12	крикнул	КРИКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	соч-союзн	_	_
+13	:	:	:	:	PUNC	12	1-компл	_	_
+14	-	-	-	-	PUNC	13	PUNC	_	_
+15	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Помогите	ПОМОГАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	и	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	вновь	ВНОВЬ	ADV	ADV -	ADV -	4	обст	_	_
+4	повалился	ПОВАЛИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+7	стриженые	СТРИЖЕНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	опред	_	_
+8	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	7	1-компл	_	_
+9	в	В	PR	PR	PR	7	атриб	_	_
+10	скобку	СКОБКА	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+11	волосы	ВОЛОС	S	S m inan acc pl	S m inan acc pl	12	1-компл	_	_
+12	метнулись	МЕТНУТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	соч-союзн	_	_
+13	на	НА	PR	PR	PR	12	2-компл	_	_
+14	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	15	квазиагент	_	_
+15	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	13	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

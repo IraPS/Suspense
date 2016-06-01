@@ -1,0 +1,24 @@
+1	Рядом	РЯДОМ	ADV	ADV -	ADV -	3	обст	_	_
+2	вполголоса	ВПОЛГОЛОСА	ADV	ADV -	ADV -	3	обст	_	_
+3	переговаривались	ПЕРЕГОВАРИВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	6	количест	_	_
+5	румяных	РУМЯНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	флигель-адъютанта	ФЛИГЕЛЬ-АДЪЮТАНТ	S	S m anim gen sg	S m anim gen sg	3	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	3	предик	_	_
+2	все	ВСЕ	S	S - - acc pl	S - - acc pl	3	1-компл	_	_
+3	косился	КОСИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	черным	ЧЕРНЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	7	опред	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	маслянистым	МАСЛЯНИСТЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	7	опред	_	_
+7	глазом	ГЛАЗ	S	S m inan ins sg	S m inan ins sg	3	присвяз	_	_
+8	на	НА	PR	PR	PR	7	атриб	_	_
+9	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+12	это	ЭТО	S	S n - nom sg	S n - nom sg	13	предик	_	_
+13	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	11	соч-союзн	_	_
+14	приятно	ПРИЯТНЫЙ	A	A - - sg brev n -	A - - sg brev n -	13	присвяз	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

@@ -1,0 +1,44 @@
+1	Мрачно	МРАЧНО	ADV	ADV -	ADV -	3	вводн	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	сосредоточенный	СОСРЕДОТОЧИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	4	опред	_	_
+4	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+5	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	быстрым	БЫСТРЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	7	опред	_	_
+7	движением	ДВИЖЕНИЕ	S	S n inan ins sg	S n inan ins sg	10	обст	_	_
+8	левой	ЛЕВЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	9	опред	_	_
+9	руки	РУКА	S	S f inan gen sg	S f inan gen sg	7	квазиагент	_	_
+10	сдернул	СДЕРГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+11	с	С	PR	PR	PR	10	1-компл	_	_
+12	головы	ГОЛОВА	S	S f inan gen sg	S f inan gen sg	11	предл	_	_
+13	разбойника	РАЗБОЙНИК	S	S m anim gen sg	S m anim gen sg	12	квазиагент	_	_
+14	косматую	КОСМАТЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	15	опред	_	_
+15	папаху	ПАПАХА	S	S f inan acc sg	S f inan acc sg	10	сочин	_	_
+16	и	И	CONJ	CONJ	CONJ	10	сент-соч	_	_
+17	с	С	PR	PR	PR	19	обст	_	_
+18	размаху	РАЗМАХ	S	S m inan dat sg	S m inan dat sg	17	предл	_	_
+19	ударил	УДАРЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	16	соч-союзн	_	_
+20	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	19	1-компл	_	_
+21	тяжелой	ТЯЖЕЛЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	22	опред	_	_
+22	флягой	ФЛЯГА	S	S f inan gen pl	S f inan gen pl	19	2-компл	_	_
+23	по	ПО	PR	PR	PR	22	атриб	_	_
+24	бритому	БРИТЬ	PARTCP	PARTCP ipf praet dat sg plen m pass -	PARTCP ipf praet dat sg plen m pass -	25	опред	_	_
+25	затылку	ЗАТЫЛОК	S	S m inan dat sg	S m inan dat sg	23	предл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Раздался	РАЗДАВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	тошнотворно	ТОШНОТВОРНЫЙ	A	A - - sg brev n -	A - - sg brev n -	1	1-компл	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	сочный	СОЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	звук	ЗВУК	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	во	ВО	PR	PR	PR	9	обст	_	_
+8	фляге	ФЛЯГА	S	S f inan gen sg	S f inan gen sg	7	предл	_	_
+9	булькнуло	БУЛЬКНУТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	разъяснит	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	и	И	CONJ	CONJ	CONJ	9	сент-соч	_	_
+12	башибузук	БАШИБУЗУК	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+13	свалился	СВАЛИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	соч-союзн	_	_
+14	в	В	PR	PR	PR	13	2-компл	_	_
+15	пыль	ПЫЛЬ	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

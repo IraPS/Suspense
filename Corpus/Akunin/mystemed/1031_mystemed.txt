@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"зазвенеть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"Зазвенел"}
+{"analysis":[{"lex":"колокол","gr":"S,m,inan=acc,sg"},{"lex":"колокол","gr":"S,m,inan=nom,sg"}],"text":"колокол"}
+{"analysis":[{"lex":"паровоз","gr":"S,m,inan=acc,sg"},{"lex":"паровоз","gr":"S,m,inan=nom,sg"}],"text":"паровоз"}
+{"analysis":[{"lex":"давать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"дал"}
+{"analysis":[{"lex":"гудок","gr":"S,m,inan=acc,sg"},{"lex":"гудок","gr":"S,m,inan=nom,sg"}],"text":"гудок"}
+{"text":"\\s"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"Из"}
+{"analysis":[{"lex":"окно","gr":"S,n,inan=acc,pl"},{"lex":"окно","gr":"S,n,inan=gen,sg"},{"lex":"окно","gr":"S,n,inan=nom,pl"}],"text":"окна"}
+{"analysis":[{"lex":"вагон","gr":"S,m,inan=gen,sg"}],"text":"вагона"}
+{"analysis":[{"lex":"высовываться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"высунулся"}
+{"analysis":[{"lex":"петя","gr":"S,persn,m,anim=nom,sg"}],"text":"Петя"}
+{"analysis":[{"lex":"варенька","gr":"S,persn,sg,f,anim=nom"}],"text":"Варенька"}
+{"analysis":[{"lex":"пора","gr":"S,f,inan=nom,sg"}],"text":"пора"}
+{"text":"\\s"}
+{"analysis":[{"lex":"сейчас","gr":"ADV="}],"text":"Сейчас"}
+{"analysis":[{"lex":"отбывать","gr":"V=inpraes,pl,indic,1p,ipf,tran"},{"lex":"отбывать","gr":"V=inpraes,sg,partcp,brev,m,ipf,pass,tran"}],"text":"отбываем"}

@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"когда","gr":"CONJ="}],"text":"Когда"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"проходить","gr":"V=praet,sg,indic,f,pf,tran"},{"lex":"проходить","gr":"V=praet,sg,indic,f,ipf,tran"}],"text":"проходила"}
+{"analysis":[{"lex":"мимо","gr":"PR="}],"text":"мимо"}
+{"analysis":[{"lex":"соболева","gr":"S,famn,f,anim=nom,sg"}],"text":"Соболева"}
+{"analysis":[{"lex":"тот","gr":"APRO=acc,sg,m,inan"},{"lex":"тот","gr":"APRO=nom,sg,m"}],"text":"тот"}
+{"analysis":[{"lex":"тихонько","gr":"ADV="}],"text":"тихонько"}
+{"analysis":[{"lex":"шепнуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"шепнул"}
+{"analysis":[{"lex":"варвара","gr":"S,persn,f,anim=nom,sg"}],"text":"Варвара"}
+{"analysis":[{"lex":"андреевна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Андреевна"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"непременно","gr":"ADV="}],"text":"непременно"}
+{"analysis":[{"lex":"дождаться","gr":"V,pf,intr=inpraes,sg,indic,1p"}],"text":"дождусь"}

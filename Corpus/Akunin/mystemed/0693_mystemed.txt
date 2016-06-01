@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"знать","gr":"V,ipf,tran=praet,sg,indic,f"}],"text":"знала"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"это","gr":"PART="}],"text":"это"}
+{"analysis":[{"lex":"секретарь","gr":"S,m,anim=nom,sg"}],"text":"секретарь"}
+{"analysis":[{"lex":"мизинов","qual":"bastard","gr":"S,famn,m,anim=acc,sg"},{"lex":"мизинов","qual":"bastard","gr":"S,famn,m,anim=gen,sg"}],"text":"Мизинова"}
+{"analysis":[{"lex":"тихий","gr":"A=acc,sg,plen,m,inan"},{"lex":"тихий","gr":"A=nom,sg,plen,m"}],"text":"тихий"}
+{"analysis":[{"lex":"чиновничек","gr":"S,m,anim=nom,sg"}],"text":"чиновничек"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"труднозапоминаться","qual":"bastard","gr":"V,intr=inpraes,abl,sg,partcp,plen,f,ipf,act"},{"lex":"труднозапоминаться","qual":"bastard","gr":"V,intr=inpraes,dat,sg,partcp,plen,f,ipf,act"},{"lex":"труднозапоминаться","qual":"bastard","gr":"V,intr=inpraes,gen,sg,partcp,plen,f,ipf,act"},{"lex":"труднозапоминаться","qual":"bastard","gr":"V,intr=inpraes,ins,sg,partcp,plen,f,ipf,act"}],"text":"труднозапоминающейся"}
+{"analysis":[{"lex":"фамилия","gr":"S,f,inan=ins,sg"}],"text":"фамилией"}
+{"analysis":[{"lex":"который","gr":"APRO=acc,sg,m,anim"},{"lex":"который","gr":"APRO=gen,sg,m"},{"lex":"который","gr":"APRO=gen,sg,n"}],"text":"которого"}
+{"analysis":[{"lex":"почему-то","gr":"ADVPRO="}],"text":"почему-то"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"любить","gr":"V,ipf,tran=inpraes,pl,indic,3p"}],"text":"любят"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"опасаться","gr":"V,ipf,intr=inpraes,pl,indic,3p"}],"text":"опасаются"}

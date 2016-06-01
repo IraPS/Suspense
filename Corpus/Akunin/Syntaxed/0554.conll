@@ -1,0 +1,68 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+2	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	4	1-компл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	видела	ВИДЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	слышала	СЛЫШАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	5	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Опозорена	ОПОЗОРИТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	думала	ДУМАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	вводн	_	_
+4	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Навеки	НАВЕКИ	ADV	ADV -	ADV -	2	обст	_	_
+2	утратила	УТРАЧИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	звание	ЗВАНИЕ	S	S n inan acc sg	S n inan acc sg	2	1-компл	_	_
+4	порядочной	ПОРЯДОЧНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	5	опред	_	_
+5	женщины	ЖЕНЩИНА	S	S f anim gen sg	S f anim gen sg	3	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Доигралась	ДОИГРЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+2	с	С	PR	PR	PR	1	обст	_	_
+3	огнем	ОГОНЬ	S	S m inan ins sg	S m inan ins sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	дошпионилась	ДОШПИОНИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	сочин	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Легкомысленная	ЛЕГКОМЫСЛЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	дура	ДУРА	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	мужчины	МУЖЧИНА	S	S m anim nom pl	S m anim nom pl	7	предик	_	_
+6	–	–	–	–	PUNC	7	опред	_	_
+7	звери	ЗВЕРЬ	S	S m anim nom pl	S m anim nom pl	4	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Из-за	ИЗ-ЗА	PR	PR	PR	3	обст	_	_
+2	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	1	предл	_	_
+3	убит	УБИВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+4	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	опред	_	_
+3	'	'	_	_	PUNC	2	PUNC	_	_
+4	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	8	1-компл	_	_
+5	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	8	предик	_	_
+6	больше	БОЛЬШЕ	ADV	ADV -	ADV -	8	обст	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	увидит	УВИДЕТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	1	соч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	самое	САМЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	3	опред	_	_
+3	ужасное	УЖАСНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	5	предик	_	_
+4	–	–	–	–	PUNC	5	обст	_	_
+5	оборвана	ОБОРВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	1	соч-союзн	_	_
+6	нить	НИТЬ	S	S f inan nom sg	S f inan nom sg	5	сравн-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	6	1-компл	_	_
+9	вела	ВЕСТИ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	8	подч-союзн	_	_
+10	к	К	PR	PR	PR	9	1-компл	_	_
+11	вражеской	ВРАЖЕСКИЙ	A	A - loc sg plen f -	A - loc sg plen f -	12	опред	_	_
+12	паутине	ПАУТИНА	S	S f inan loc sg	S f inan loc sg	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

@@ -1,0 +1,27 @@
+1	До	ДО	PR	PR	PR	5	обст	_	_
+2	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	1	предл	_	_
+3	смысл	СМЫСЛ	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+4	сказанного	СКАЗАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	5	1-компл	_	_
+5	дошел	ДОХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	сразу	СРАЗУ	ADV	ADV -	ADV -	5	обст	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	5	вводн	_	_
+2	инерции	ИНЕРЦИЯ	S	S f inan dat sg	S f inan dat sg	1	предл	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	5	предик	_	_
+4	сначала	СНАЧАЛА	ADV	ADV -	ADV -	5	обст	_	_
+5	кивнула	КИВНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	потом	ПОТОМ	ADV	ADV -	ADV -	8	обст	_	_
+8	покачала	ПОКАЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	сочин	_	_
+9	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	8	1-компл	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	лишь	ЛИШЬ	PART	PART	PART	12	огранич	_	_
+12	после	ПОСЛЕ	PR	PR	PR	14	обст	_	_
+13	этого	ЭТО	S	S n - gen sg	S n - gen sg	12	предл	_	_
+14	остолбенело	ОСТОЛБЕНЕТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	10	соч-союзн	_	_
+15	разинула	РАЗЕВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	сочин	_	_
+16	рот	РОТ	S	S m inan acc sg	S m inan acc sg	15	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

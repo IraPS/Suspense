@@ -1,0 +1,14 @@
+1	Тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	облился	ОБЛИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	прохладным	ПРОХЛАДНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	5	опред	_	_
+5	потом	ПОТ	S	S m inan ins sg	S m inan ins sg	3	1-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+7	тоскливо	ТОСКЛИВО	ADV	ADV -	ADV -	8	обст	_	_
+8	поглядел	ПОГЛЯДЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+9	на	НА	PR	PR	PR	8	2-компл	_	_
+10	зеркальные	ЗЕРКАЛЬНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	11	опред	_	_
+11	сияющие	СИЯТЬ	PARTCP	PARTCP ipf inpraes nom pl plen - act -	PARTCP ipf inpraes nom pl plen - act -	9	предл	_	_
+12	шкафики	ШКАФИК	S	S m inan acc pl	S m inan acc pl	8	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

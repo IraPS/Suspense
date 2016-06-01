@@ -1,0 +1,64 @@
+1	Смотреть	СМОТРЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	предик	_	_
+2	на	НА	PR	PR	PR	1	2-компл	_	_
+3	жандарма	ЖАНДАРМ	S	S m anim gen sg	S m anim gen sg	2	предл	_	_
+4	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	еще	ЕЩЕ	ADV	ADV -	ADV -	6	огранич	_	_
+6	неприятней	НЕПРИЯТНО	ADV	ADV comp	ADV comp	4	присвяз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	чем	ЧЕМ	CONJ	CONJ	CONJ	6	сравнит	_	_
+9	всегда	ВСЕГДА	ADV	ADV -	ADV -	8	сравн-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	возбужденно	ВОЗБУЖДЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	похрустывал	ПОХРУСТЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	пальцами	ПАЛЕЦ	S	S m inan ins pl	S m inan ins pl	3	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	ноздри	НОЗДРЯ	S	S f inan acc pl	S f inan acc pl	3	1-компл	_	_
+7	нервно	НЕРВНО	ADV	ADV -	ADV -	8	обст	_	_
+8	раздувались	РАЗДУВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	сент-соч	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Учуял	УЧУИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	запах	ЗАПАХ	S	S m inan nom sg	S m inan nom sg	1	предик	_	_
+3	человеческой	ЧЕЛОВЕЧЕСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	4	опред	_	_
+4	кровушки	КРОВУШКА	S	S f inan gen sg	S f inan gen sg	2	квазиагент	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	упырь	УПЫРЬ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	демонстративно	ДЕМОНСТРАТИВНО	ADV	ADV -	ADV -	3	обст	_	_
+3	переставила	ПЕРЕСТАВЛЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	стул	СТУЛ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	подальше	ДАЛЕКО	ADV	ADV comp	ADV comp	3	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+8	подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+9	словно	СЛОВНО	CONJ	CONJ	CONJ	8	сравнит	_	_
+10	и	И	CONJ	CONJ	CONJ	12	соотнос	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	заметил	ЗАМЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	сравн-союзн	_	_
+13	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	14	квазиагент	_	_
+14	маневра	МАНЕВР	S	S m inan gen sg	S m inan gen sg	12	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Подошел	ПОДХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	обст	_	_
+2	снова	СНОВА	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	ткнул	ТКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	сочин	_	_
+5	пальцем	ПАЛЕЦ	S	S m inan ins sg	S m inan ins sg	4	обст	_	_
+6	в	В	PR	PR	PR	4	2-компл	_	_
+7	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	туда	ТУДА	ADV	ADV -	ADV -	15	вводн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	где	ГДЕ	ADV	ADV -	ADV -	15	обст	_	_
+12	за	ЗА	PR	PR	PR	15	обст	_	_
+13	невысокой	НЕВЫСОКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	14	опред	_	_
+14	грядой	ГРЯДА	S	S f inan ins sg	S f inan ins sg	12	предл	_	_
+15	грохотало	ГРОХОТАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+16	особенно	ОСОБЕННО	ADV	ADV -	ADV -	17	огранич	_	_
+17	сильно	СИЛЬНО	ADV	ADV -	ADV -	15	обст	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

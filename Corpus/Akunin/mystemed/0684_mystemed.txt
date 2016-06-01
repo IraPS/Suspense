@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"начальник","gr":"S,m,anim=nom,sg"}],"text":"Начальник"}
+{"analysis":[{"lex":"тифлисский","gr":"A=acc,sg,plen,m,anim"},{"lex":"тифлисский","gr":"A=gen,sg,plen,m"},{"lex":"тифлисский","gr":"A=gen,sg,plen,n"}],"text":"Тифлисского"}
+{"analysis":[{"lex":"жандармский","gr":"A=acc,sg,plen,m,anim"},{"lex":"жандармский","gr":"A=gen,sg,plen,m"},{"lex":"жандармский","gr":"A=gen,sg,plen,n"}],"text":"жандармского"}
+{"analysis":[{"lex":"управление","gr":"S,n,inan=acc,pl"},{"lex":"управление","gr":"S,n,inan=gen,sg"},{"lex":"управление","gr":"S,n,inan=nom,pl"}],"text":"управления"}
+{"analysis":[{"lex":"полковник","gr":"S,m,anim=nom,sg"}],"text":"полковник"}
+{"analysis":[{"lex":"панчулидзев","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Панчулидзев"}

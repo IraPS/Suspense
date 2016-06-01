@@ -1,0 +1,33 @@
+1	На	НА	PR	PR	PR	3	обст	_	_
+2	холме	ХОЛМ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	притихли	ПРИТИХАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Из	ИЗ	PR	PR	PR	5	1-компл	_	_
+2	сизого	СИЗЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+3	тумана	ТУМАН	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+4	молча	МОЛЧА	ADV	ADV -	ADV -	5	обст	_	_
+5	бежала	БЕЖАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+6	толпа	ТОЛПА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	обтекая	ОБТЕКАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	0	ROOT	_	_
+9	наблюдательный	НАБЛЮДАТЕЛЬНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	опред	_	_
+10	пункт	ПУНКТ	S	S m inan acc sg	S m inan acc sg	8	1-компл	_	_
+11	с	С	PR	PR	PR	10	атриб	_	_
+12	обеих	ОБА	NUM	NUM loc f -	NUM loc f -	13	количест	_	_
+13	сторон	СТОРОНА	S	S f inan gen pl	S f inan gen pl	11	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	красные	КРАСНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	опред	_	_
+4	пятна	ПЯТНО	S	S n inan acc pl	S n inan acc pl	2	1-компл	_	_
+5	на	НА	PR	PR	PR	2	2-компл	_	_
+6	гимнастерках	ГИМНАСТЕРКА	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+8	вжала	ВЖИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+9	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+10	в	В	PR	PR	PR	8	2-компл	_	_
+11	плечи	ПЛЕЧО	S	S n inan acc pl	S n inan acc pl	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

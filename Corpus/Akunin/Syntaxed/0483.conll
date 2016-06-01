@@ -1,0 +1,28 @@
+1	Ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	3	дат-субъект	_	_
+2	ужасно	УЖАСНО	ADV	ADV -	ADV -	3	обст	_	_
+3	хотелось	ХОТЕТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	схватить	СХВАТЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	2-компл	_	_
+5	титулярного	ТИТУЛЯРНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	6	опред	_	_
+6	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	4	1-компл	_	_
+7	за	ЗА	PR	PR	PR	4	обст	_	_
+8	плечи	ПЛЕЧО	S	S n inan acc pl	S n inan acc pl	7	предл	_	_
+9	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+10	как	КАК	ADV	ADV -	ADV -	11	обст	_	_
+11	следует	СЛЕДОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	9	соч-союзн	_	_
+12	потрясти	ПОТРЯСАТЬ	V	V pf - - inf - -	V pf - - inf - -	11	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Надутый	НАДУТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	невоспитанный	НЕВОСПИТАННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	1	сочин	_	_
+4	молокосос	МОЛОКОСОС	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Изображает	ИЗОБРАЖАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+2	из	ИЗ	PR	PR	PR	1	2-компл	_	_
+3	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	2	предл	_	_
+4	индейского	ИНДЕЙСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	вождя	ВОЖДЬ	S	S m anim gen sg	S m anim gen sg	1	предик	_	_
+6	Чингачгука	ЧИНГАЧГУК	S	S m anim gen sg	S m anim gen sg	5	аппоз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"отвечать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"ответил"}

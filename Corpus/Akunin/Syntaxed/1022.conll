@@ -1,0 +1,36 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Ну	НУ	PART	PART	PART	3	огранич	_	_
+3	вот	ВОТ	PART	PART	PART	9	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	мир	МИР	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	подписан	ПОДПИСЫВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	6	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	причем	ПРИЧЕМ	CONJ	CONJ	CONJ	1	примыкат	_	_
+10	очень	ОЧЕНЬ	ADV	ADV -	ADV -	11	огранич	_	_
+11	хороший	ХОРОШИЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	3	предик	_	_
+3	каркали	КАРКАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	соч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	3	вводн	_	_
+6	пессимист	ПЕССИМИСТ	S	S m anim nom sg	S m anim nom sg	5	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	10	обст	_	_
+9	–	–	–	–	PUNC	10	1-компл	_	_
+10	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	сент-соч	_	_
+11	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+14	опять	ОПЯТЬ	ADV	ADV -	ADV -	16	обст	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	о	О	PR	PR	PR	13	соч-союзн	_	_
+17	том	ТО	S	S n - loc sg	S n - loc sg	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	о	О	PR	PR	PR	17	эксплет	_	_
+20	чем	ЧЕМ	CONJ	CONJ	CONJ	19	предл	_	_
+21	хотела	ХОТЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	20	сравн-союзн	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

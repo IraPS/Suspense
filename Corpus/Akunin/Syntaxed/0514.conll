@@ -1,0 +1,34 @@
+1	В	В	PR	PR	PR	6	обст	_	_
+2	этот	ЭТОТ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	миг	МИГ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	в	В	PR	PR	PR	6	1-компл	_	_
+5	ресторан	РЕСТОРАН	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	вошли	ВХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	8	соч-союзн	_	_
+10	'	'	_	_	PUNC	9	PUNC	_	_
+11	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	6	1-компл	_	_
+12	–	–	–	–	PUNC	6	2-компл	_	_
+13	с	С	PR	PR	PR	6	обст	_	_
+14	точки	ТОЧКА	S	S f inan gen sg	S f inan gen sg	13	предл	_	_
+15	зрения	ЗРЕНИЕ	S	S n inan gen sg	S n inan gen sg	14	вспом	_	_
+16	дела	ДЕЛО	S	S n inan gen sg	S n inan gen sg	15	квазиагент	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	очень	ОЧЕНЬ	ADV	ADV -	ADV -	19	огранич	_	_
+19	некстати	НЕКСТАТИ	ADV	ADV -	ADV -	6	обст	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+22	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	24	предик	_	_
+23	все равно	все равно	ADV	ADV -	-	24	обст	_	_
+24	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	21	соч-союзн	_	_
+25	рада	РАД	A	A - - sg brev f -	A - - sg brev f -	24	присвяз	_	_
+26	:	:	:	:	PUNC	32	1-компл	_	_
+27	при	ПРИ	PR	PR	PR	26	обст	_	_
+28	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	27	предл	_	_
+29	у	У	PR	PR	PR	32	обст	_	_
+30	Лукана	ЛУКАН	S	S m anim acc sg	S m anim acc sg	29	предл	_	_
+31	прыти	ПРЫТЬ	S	S f inan gen sg	S f inan gen sg	30	1-компл	_	_
+32	поубавится	ПОУБАВИТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	24	сент-соч	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+

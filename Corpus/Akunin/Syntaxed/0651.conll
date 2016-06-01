@@ -1,0 +1,14 @@
+1	–	–	–	–	PUNC	6	опред	_	_
+2	Скорее	СКОРО	ADV	ADV comp	ADV comp	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	1	аппоз	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	диверсия	ДИВЕРСИЯ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Впрочем	ВПРОЧЕМ	CONJ	CONJ	CONJ	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	утром	УТРО	S	S n inan ins sg	S n inan ins sg	4	обст	_	_
+4	узнаем	УЗНАВАТЬ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

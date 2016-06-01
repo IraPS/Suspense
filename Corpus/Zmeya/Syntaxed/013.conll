@@ -1,0 +1,95 @@
+1	Идти	ИДТИ	V	V ipf - - inf - -	V ipf - - inf - -	4	предик	_	_
+2	дальше	ДАЛЕКО	ADV	ADV comp	ADV comp	1	обст	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	значило	ЗНАЧИТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	самой	САМ	A	A - ins sg plen f -	A - ins sg plen f -	6	опред	_	_
+6	попасть	ПОПАДАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	1-компл	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	глупое	ГЛУПЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	7	предл	_	_
+9	положение	ПОЛОЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Некоторое	НЕКОТОРЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	2	опред	_	_
+2	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	надеялась	НАДЕЯТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	выдержит	ВЫДЕРЖИВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	5	подч-союзн	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	заговорит	ЗАГОВАРИВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	9	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	но	НО	CONJ	CONJ	CONJ	8	сент-соч	_	_
+13	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+14	лишь	ЛИШЬ	PART	PART	PART	13	огранич	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	задумчиво	ЗАДУМЧИВО	ADV	ADV -	ADV -	2	обст	_	_
+2	катал	КАТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	меж	МЕЖ	PR	PR	PR	2	обст	_	_
+4	ладоней	ЛАДОНЬ	S	S f inan gen pl	S f inan gen pl	3	предл	_	_
+5	стебель	СТЕБЕЛЬ	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+6	травы	ТРАВА	S	S f inan gen sg	S f inan gen sg	5	квазиагент	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Джой	ДЖОЙ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	вдруг	ВДРУГ	ADV	ADV -	ADV -	3	обст	_	_
+3	почувствовала	ПОЧУВСТВОВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+3	всем	ВСЕ	S	S - - dat pl	S - - dat pl	2	опред	_	_
+4	своим	СВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	5	опред	_	_
+5	видом	ВИД	S	S m inan ins sg	S m inan ins sg	3	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	преданностью	ПРЕДАННОСТЬ	S	S f inan ins sg	S f inan ins sg	5	сочин	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	твердостью	ТВЕРДОСТЬ	S	S f inan ins sg	S f inan ins sg	8	соч-союзн	_	_
+10	дает	ДАВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+11	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	10	2-компл	_	_
+12	урок	УРОК	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+15	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	14	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	охватила	ОХВАТЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+2	такая	ТАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+3	сильная	СИЛЬНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	неприязнь	НЕПРИЯЗНЬ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+5	к	К	PR	PR	PR	4	1-компл	_	_
+6	нему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+9	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	11	предик	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	удержалась	УДЕРЖИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	подч-союзн	_	_
+12	от	ОТ	PR	PR	PR	11	1-компл	_	_
+13	колкости	КОЛКОСТЬ	S	S f inan nom pl	S f inan nom pl	12	предл	_	_
+14	:	:	SENT	SENT	SENT	13	PUNC	_	_
+
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	3	предик	_	_
+3	дали	ДАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	слово	СЛОВО	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+5	из	ИЗ	PR	PR	PR	4	атриб	_	_
+6	трусости	ТРУСОСТЬ	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Безопаснее	БЕЗОПАСНЫЙ	A	A comp - - plen - -	A comp - - plen - -	0	ROOT	_	_
+2	сидеть	СИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	1	предик	_	_
+3	молча	МОЛЧА	ADV	ADV -	ADV -	2	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	так	ТАК	ADV	ADV -	ADV -	3	сочин	_	_
+7	ли	ЛИ	PART	PART	PART	6	огранич	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+

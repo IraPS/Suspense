@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"мы","gr":"SPRO,pl,1p=abl"},{"lex":"мы","gr":"SPRO,pl,1p=acc"},{"lex":"мы","gr":"SPRO,pl,1p=gen"}],"text":"Нас"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inpraes,pl,indic,3p"}],"text":"будут"}
+{"analysis":[{"lex":"награждать","gr":"V=inf,ipf,tran"}],"text":"награждать"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,f,pf"}],"text":"спросила"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"дорога","gr":"S,f,inan=abl,sg"},{"lex":"дорога","gr":"S,f,inan=dat,sg"}],"text":"дороге"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=acc,sg"},{"lex":"эраст","gr":"S,persn,m,anim=gen,sg"}],"text":"Эраста"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=acc,sg"},{"lex":"петрович","gr":"S,patrn,m,anim=gen,sg"}],"text":"Петровича"}

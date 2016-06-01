@@ -1,0 +1,79 @@
+1	–	–	–	–	PUNC	2	предик	_	_
+2	Есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+4	третья	ТРЕТИЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+5	возможность	ВОЗМОЖНОСТЬ	S	S f inan acc sg	S f inan acc sg	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	 	 	 	 	PUNC	9	3-компл	_	_
+8	–	–	–	–	PUNC	9	1-компл	_	_
+9	парировала	ПАРИРОВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	5	релят	_	_
+10	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	уязвленная	УЯЗВЛЯТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	9	обст	_	_
+13	«	«	_	_	PUNC	12	PUNC	_	_
+14	лакейскими	ЛАКЕЙСКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	15	опред	_	_
+15	пересудами	ПЕРЕСУДЫ	S	S - inan ins pl	S - inan ins pl	9	обст	_	_
+16	»	»	_	_	PUNC	15	PUNC	_	_
+17	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	обст	_	_
+2	Несправедливое	НЕСПРАВЕДЛИВЫЙ	A	A - acc sg plen n -	A - acc sg plen n -	3	опред	_	_
+3	государство	ГОСУДАРСТВО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+4	можно	МОЖНО	ADV	ADV -	ADV -	0	ROOT	_	_
+5	разрушить	РАЗРУШАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	предик	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	построить	ПОСТРОИТЬ	V	V pf - - inf - -	V pf - - inf - -	6	соч-союзн	_	_
+8	взамен	ВЗАМЕН	PR	PR	PR	7	обст	_	_
+9	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	8	предл	_	_
+10	другое	ДРУГОЙ	A	A - nom sg plen n -	A - nom sg plen n -	4	количест	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	опред	_	_
+2	К	К	PR	PR	PR	5	атриб	_	_
+3	сожалению	СОЖАЛЕНИЕ	S	S n inan dat sg	S n inan dat sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+6	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	5	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	государство	ГОСУДАРСТВО	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+9	–	–	–	–	PUNC	0	ROOT	_	_
+10	это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	дом	ДОМ	S	S m inan nom sg	S m inan nom sg	12	сочин	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	а	А	CONJ	CONJ	CONJ	14	сочин	_	_
+17	скорее	СКОРО	ADV	ADV comp	ADV comp	18	огранич	_	_
+18	дерево	ДЕРЕВО	S	S n inan nom sg	S n inan nom sg	16	соч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	3	1-компл	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	строят	СТРОИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	оно	ОНО	SPRO	SPRO sg 3p n nom	SPRO sg 3p n nom	6	предик	_	_
+6	растет	РАСТИ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	сент-соч	_	_
+7	само	САМ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	подчиняясь	ПОДЧИНЯТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	сочин	_	_
+10	закону	ЗАКОН	S	S m inan dat sg	S m inan dat sg	9	1-компл	_	_
+11	природы	ПРИРОДА	S	S f inan gen sg	S f inan gen sg	10	квазиагент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+14	дело	ДЕЛО	S	S n inan nom sg	S n inan nom sg	13	соч-союзн	_	_
+15	это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	16	опред	_	_
+16	долгое	ДОЛГИЙ	A	A - nom sg plen n -	A - nom sg plen n -	14	опред	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	каменщик	КАМЕНЩИК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	т	Т	S	S - - nonflex nonflex	S - - nonflex nonflex	3	сент-соч	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	тут	ТУТ	ADV	ADV -	ADV -	9	обст	_	_
+8	садовник	САДОВНИК	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+9	нужен	НУЖНЫЙ	A	A - - sg brev m -	A - - sg brev m -	5	соч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

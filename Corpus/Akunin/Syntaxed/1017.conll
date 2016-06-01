@@ -1,0 +1,11 @@
+1	Из-за	ИЗ-ЗА	PR	PR	PR	4	обст	_	_
+2	двери	ДВЕРЬ	S	S f inan dat sg	S f inan dat sg	1	предл	_	_
+3	хранилища	ХРАНИЛИЩЕ	S	S n inan gen sg	S n inan gen sg	2	квазиагент	_	_
+4	донеслось	ДОНОСИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	беззаботное	БЕЗЗАБОТНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	9	опред	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	весьма	ВЕСЬМА	ADV	ADV -	ADV -	8	огранич	_	_
+8	мелодичное	МЕЛОДИЧНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	6	соч-союзн	_	_
+9	насвистывание	НАСВИСТЫВАНИЕ	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

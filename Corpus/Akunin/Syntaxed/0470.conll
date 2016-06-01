@@ -1,0 +1,77 @@
+1	Колонна	КОЛОННА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	застряла	ЗАСТРЕВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	–	–	–	–	PUNC	2	1-компл	_	_
+4	у	У	PR	PR	PR	2	обст	_	_
+5	одной	ОДИН	A	A - loc sg plen f -	A - loc sg plen f -	4	предл	_	_
+6	из	ИЗ	PR	PR	PR	5	электив	_	_
+7	повозок	ПОВОЗКА	S	S f inan gen pl	S f inan gen pl	6	предл	_	_
+8	отлетело	ОТЛЕТАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	2	сент-соч	_	_
+9	колесо	КОЛЕСО	S	S n inan nom sg	S n inan nom sg	8	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	28	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	старавшаяся	СТАРАТЬСЯ	PARTCP	PARTCP ipf praet nom sg plen f act -	PARTCP ipf praet nom sg plen f act -	1	опред	_	_
+4	поменьше	МАЛО	ADV	ADV comp	ADV comp	5	обст	_	_
+5	смотреть	СМОТРЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+6	на	НА	PR	PR	PR	5	1-компл	_	_
+7	покалеченных	ПОКАЛЕЧИТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	28	обст	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	взглянула	ВЗГЛЯДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	сочин	_	_
+10	на	НА	PR	PR	PR	9	обст	_	_
+11	охромевшую	ОХРОМЕТЬ	PARTCP	PARTCP pf praet acc sg plen f act -	PARTCP pf praet acc sg plen f act -	12	опред	_	_
+12	телегу	ТЕЛЕГА	S	S f inan acc sg	S f inan acc sg	10	предл	_	_
+13	попристальней	ПРИСТАЛЬНЫЙ	A	A comp - - plen - -	A comp - - plen - -	9	1-компл	_	_
+14	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+15	ойкнула	ОЙКНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	соч-союзн	_	_
+16	–	–	–	–	PUNC	17	опред	_	_
+17	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	15	предик	_	_
+18	раненого	РАНЕНЫЙ	S	S m anim acc sg	S m anim acc sg	17	аппоз	_	_
+19	офицера	ОФИЦЕР	S	S m anim gen sg	S m anim gen sg	18	аппоз	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	смутно	СМУТНО	ADV	ADV -	ADV -	22	обст	_	_
+22	белевшее	БЕЛЕТЬ	PARTCP	PARTCP ipf praet acc sg plen n act -	PARTCP ipf praet acc sg plen n act -	17	опред	_	_
+23	в	В	PR	PR	PR	22	1-компл	_	_
+24	светлых	СВЕТЛЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	26	опред	_	_
+25	летних	ЛЕТНИЙ	A	A - loc pl plen - -	A - loc pl plen - -	26	опред	_	_
+26	сумерках	СУМЕРКИ	S	S - inan loc pl	S - inan loc pl	23	предл	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	показалось	ПОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+29	знакомым	ЗНАКОМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	28	1-компл	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	подошла	ПОДХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	поближе	БЛИЗКО	ADV	ADV comp	ADV comp	2	обст	_	_
+4	–	–	–	–	PUNC	3	сравнит	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	точно	ТОЧНО	ADV	ADV -	ADV -	7	обст	_	_
+7	:	:	:	:	PUNC	5	соч-союзн	_	_
+8	это	ЭТО	S	S n inan acc sg	S n inan acc sg	9	1-компл	_	_
+9	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сент-соч	_	_
+10	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	Саблин	САБЛИН	S	S m anim nom sg	S m anim nom sg	10	аппоз	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	10	опред	_	_
+14	из	ИЗ	PR	PR	PR	13	электив	_	_
+15	клубных	КЛУБНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	16	опред	_	_
+16	завсегдатаев	ЗАВСЕГДАТАЙ	S	S m anim acc pl	S m anim acc pl	14	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	лежал	ЛЕЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	без	БЕЗ	PR	PR	PR	2	обст	_	_
+4	сознания	СОЗНАНИЕ	S	S n inan gen sg	S n inan gen sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	закрытый	ЗАКРЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	2	1-компл	_	_
+7	окровавленной	ОКРОВАВЛЕННЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	8	опред	_	_
+8	шинелью	ШИНЕЛЬ	S	S f inan ins sg	S f inan ins sg	6	2-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	2	квазиагент	_	_
+2	тело	ТЕЛО	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+3	выглядело	ВЫГЛЯДЕТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	странно	СТРАННО	ADV	ADV -	ADV -	5	огранич	_	_
+5	коротким	КОРОТКИЙ	A	A - ins sg plen n -	A - ins sg plen n -	3	присвяз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

@@ -1,0 +1,30 @@
+1	Проследив	ПРОСЛЕЖИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	9	обст	_	_
+2	за	ЗА	PR	PR	PR	1	обст	_	_
+3	направлением	НАПРАВЛЕНИЕ	S	S n inan ins sg	S n inan ins sg	2	предл	_	_
+4	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	взгляда	ВЗГЛЯД	S	S m inan gen sg	S m inan gen sg	3	квазиагент	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+8	недовольно	НЕДОВОЛЬНО	ADV	ADV -	ADV -	9	обст	_	_
+9	пробормотал	ПРОБОРМОТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+10	:	:	:	:	PUNC	11	опред	_	_
+11	–	–	–	–	PUNC	9	1-компл	_	_
+12	Однако	ОДНАКО	CONJ	CONJ	CONJ	9	сент-соч	_	_
+13	«	«	_	_	PUNC	14	PUNC	_	_
+14	Руайяль	РУАЙЯЛЬ	S	S f inan nom sg	S f inan nom sg	17	предик	_	_
+15	»	»	_	_	PUNC	14	PUNC	_	_
+16	положительно	ПОЛОЖИТЕЛЬНО	ADV	ADV -	ADV -	17	обст	_	_
+17	превращается	ПРЕВРАЩАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	12	соч-союзн	_	_
+18	в	В	PR	PR	PR	17	2-компл	_	_
+19	проходной	ПРОХОДНОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	20	опред	_	_
+20	двор	ДВОР	S	S m inan acc sg	S m inan acc sg	18	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Надо	НАДО	ADV	ADV -	ADV -	2	присвяз	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	перейти	ПЕРЕХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	отдельный	ОТДЕЛЬНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	6	опред	_	_
+6	кабинет	КАБИНЕТ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

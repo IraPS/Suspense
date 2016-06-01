@@ -1,0 +1,71 @@
+1	Вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	6	обст	_	_
+2	7	7	NUM	NUM - - -	NUM - - -	6	обст	_	_
+3	июля	ИЮЛЬ	S	S m inan gen sg	S m inan gen sg	2	атриб	_	_
+4	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+5	Лукан	ЛУКАН	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	устроил	УСТРАИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	в	В	PR	PR	PR	6	обст	_	_
+8	пресс-клубе	ПРЕСС-КЛУБ	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+9	(	(	_	_	PUNC	10	PUNC	_	_
+10	так	ТАК	ADV	ADV -	ADV -	11	огранич	_	_
+11	на	НА	PR	PR	PR	14	обст	_	_
+12	английский	АНГЛИЙСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	13	опред	_	_
+13	манер	МАНЕР	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+14	стали	СТАНОВИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	изъясн	_	_
+15	называть	НАЗЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	14	1-компл	_	_
+16	журналистский	ЖУРНАЛИСТСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	17	опред	_	_
+17	шатер	ШАТЕР	S	S m inan acc sg	S m inan acc sg	15	1-компл	_	_
+18	)	)	_	_	PUNC	17	PUNC	_	_
+19	вечеринку	ВЕЧЕРИНКА	S	S f inan acc sg	S f inan acc sg	15	2-компл	_	_
+20	по поводу	по поводу	PR	PR	ZERO	15	обст	_	_
+21	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	20	предл	_	_
+22	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	23	опред	_	_
+23	рождения	РОЖДЕНИЕ	S	S n inan gen sg	S n inan gen sg	21	квазиагент	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	6	вводн	_	_
+2	этому	ЭТОТ	A	A - dat sg plen m -	A - dat sg plen m -	3	опред	_	_
+3	случаю	СЛУЧАЙ	S	S m inan dat sg	S m inan dat sg	1	предл	_	_
+4	из	ИЗ	PR	PR	PR	3	атриб	_	_
+5	Букарешта	БУКАРЕШТА	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	доставили	ДОСТАВЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	три	ТРИ	NUM	NUM nom - -	NUM nom - -	8	количест	_	_
+8	ящика	ЯЩИК	S	S m inan gen sg	S m inan gen sg	6	1-компл	_	_
+9	шампанского	ШАМПАНСКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	13	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	причем	ПРИЧЕМ	CONJ	CONJ	CONJ	9	сочин	_	_
+12	именинник	ИМЕНИННИК	S	S m anim nom sg	S m anim nom sg	11	соч-союзн	_	_
+13	утверждал	УТВЕРЖДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	релят	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	что	ЧТО	CONJ	CONJ	CONJ	13	предик	_	_
+16	заплатил	ЗАПЛАТИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	подч-союзн	_	_
+17	по	ПО	PR	PR	PR	16	обст	_	_
+18	тридцать	ТРИДЦАТЬ	NUM	NUM acc - -	NUM acc - -	19	количест	_	_
+19	франков	ФРАНК	S	S m inan gen pl	S m inan gen pl	17	предл	_	_
+20	за	ЗА	PR	PR	PR	19	распред	_	_
+21	бутылку	БУТЫЛКА	S	S f inan acc sg	S f inan acc sg	20	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Деньги	ДЕНЬГИ	S	S - inan nom pl	S - inan nom pl	2	предик	_	_
+2	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	потрачены	ПОТРАТИТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	2	пасс-анал	_	_
+4	впустую	ВПУСТУЮ	ADV	ADV -	ADV -	5	огранич	_	_
+5	–	–	–	–	PUNC	2	обст	_	_
+6	про	ПРО	PR	PR	PR	5	атриб	_	_
+7	виновника	ВИНОВНИК	S	S m anim acc sg	S m anim acc sg	6	предл	_	_
+8	торжества	ТОРЖЕСТВО	S	S n inan gen sg	S n inan gen sg	7	атриб	_	_
+9	очень	ОЧЕНЬ	ADV	ADV -	ADV -	10	огранич	_	_
+10	быстро	БЫСТРО	ADV	ADV -	ADV -	11	обст	_	_
+11	забыли	ЗАБЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	потому что	потому что	CONJ	CONJ	ZERO	11	сочин	_	_
+14	истинным	ИСТИННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	15	опред	_	_
+15	героем	ГЕРОЙ	S	S m anim ins sg	S m anim ins sg	18	присвяз	_	_
+16	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	15	1-компл	_	_
+17	нынче	НЫНЧЕ	ADV	ADV -	ADV -	18	обст	_	_
+18	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	13	соч-союзн	_	_
+19	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	18	1-компл	_	_
+20	'	'	_	_	PUNC	19	PUNC	_	_
+21	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	19	1-компл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

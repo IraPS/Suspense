@@ -1,0 +1,152 @@
+1	Когда	КОГДА	CONJ	CONJ	CONJ	8	обст	_	_
+2	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	5	дат-субъект	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	подч-союзн	_	_
+4	47	47	NUM	NUM - - -	NUM - - -	5	количест	_	_
+5	лет	ГОД	S	S m inan gen pl	S m inan gen pl	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+8	захворал	ЗАХВОРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	скарлатиной	СКАРЛАТИНА	S	S f inan ins sg	S f inan ins sg	8	1-компл	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	соч-союзн	_	_
+12	отвезен	ОТВОЗИТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	11	пасс-анал	_	_
+13	в	В	PR	PR	PR	12	2-компл	_	_
+14	больницу	БОЛЬНИЦА	S	S f inan acc sg	S f inan acc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	8	вводн	_	_
+2	своей	СВОЙ	A	A - loc sg plen f -	A - loc sg plen f -	3	опред	_	_
+3	инициативе	ИНИЦИАТИВА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+4	дети	РЕБЕНОК	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+5	с	С	PR	PR	PR	8	обст	_	_
+6	этого	ЭТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	7	опред	_	_
+7	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+8	стали	СТАНОВИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+9	читать	ЧИТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+10	акафисты	АКАФИСТ	S	S m inan acc pl	S m inan acc pl	9	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	2	предик	_	_
+2	читали	ЧИТАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	по	ПО	PR	PR	PR	2	обст	_	_
+4	очереди	ОЧЕРЕДЬ	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	каждый	КАЖДЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	день	ДЕНЬ	S	S m inan nom sg	S m inan nom sg	2	обст	_	_
+7	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	6	нум-аппоз	_	_
+8	из	ИЗ	PR	PR	PR	7	электив	_	_
+9	акафистов	АКАФИСТ	S	S m inan gen pl	S m inan gen pl	8	предл	_	_
+10	–	–	–	–	PUNC	15	опред	_	_
+11	Святителю	СВЯТИТЕЛЬ	S	S m inan gen sg	S m inan gen sg	10	1-компл	_	_
+12	Николаю	НИКОЛАЙ	S	S m anim dat sg	S m anim dat sg	10	2-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	Целителю	ЦЕЛИТЕЛЬ	S	S m anim dat sg	S m anim dat sg	12	аппоз	_	_
+15	Пантелеимону	ПАНТЕЛЕИМОН	S	S f inan nom sg	S f inan nom sg	6	сочин	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	Преп	ПРЕП	S	S m anim nom sg	S m anim nom sg	15	сочин	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Сергию	СЕРГИЙ	S	S m anim dat sg	S m anim dat sg	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	Преп	ПРЕП	S	S m anim nom sg	S m anim nom sg	2	соч-союзн	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Серафиму	СЕРАФИМ	S	S m anim dat sg	S m anim dat sg	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	в	В	PR	PR	PR	1	уточн	_	_
+4	дополнение	ДОПОЛНЕНИЕ	S	S n inan acc sg	S n inan acc sg	3	предл	_	_
+5	к	К	PR	PR	PR	4	1-компл	_	_
+6	вечернему	ВЕЧЕРНИЙ	A	A - dat sg plen m -	A - dat sg plen m -	7	опред	_	_
+7	правилу	ПРАВИЛО	S	S n inan dat sg	S n inan dat sg	5	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Последнее	ПОСЛЕДНИЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	предик	_	_
+2	занимало	ЗАНИМАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	12	12	NUM	NUM - - -	NUM - - -	6	количест	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	15	15	NUM	NUM - - -	NUM - - -	3	кратн	_	_
+6	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	2	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	затем	ЗАТЕМ	ADV	ADV -	ADV -	9	обст	_	_
+9	требовалось	ТРЕБОВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	2	сент-соч	_	_
+10	около	ОКОЛО	PR	PR	PR	9	предик	_	_
+11	20	20	NUM	NUM - - -	NUM - - -	12	количест	_	_
+12	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	10	предл	_	_
+13	для	ДЛЯ	PR	PR	PR	12	атриб	_	_
+14	акафиста	АКАФИСТ	S	S m inan gen sg	S m inan gen sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Таким образом	Таким образом	ADV	ADV -	-	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	вечерняя	ВЕЧЕРНИЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	молитва	МОЛИТВА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+5	стала	СТАНОВИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	занимать	ЗАНИМАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	1-компл	_	_
+7	ежедневно	ЕЖЕДНЕВНО	ADV	ADV -	ADV -	6	обст	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	менее	МАЛО	NUM	NUM - - -	NUM - - -	10	количест	_	_
+10	получаса	ПОЛУЧАС	S	S m inan gen sg	S m inan gen sg	6	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+4	поправляться	ПОПРАВЛЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+7	с	С	PR	PR	PR	9	обст	_	_
+8	молитвой	МОЛИТВА	S	S f inan ins sg	S f inan ins sg	7	предл	_	_
+9	запаздывали	ЗАПАЗДЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	6	соч-союзн	_	_
+10	или	ИЛИ	CONJ	CONJ	CONJ	12	соотнос	_	_
+11	все	ВСЕ	S	S - - nom pl	S - - nom pl	12	предик	_	_
+12	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	1-компл	_	_
+13	очень	ОЧЕНЬ	ADV	ADV -	ADV -	14	огранич	_	_
+14	усталыми	УСТАЛЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	12	присвяз	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	то	ТО	CONJ	CONJ	CONJ	12	сочин	_	_
+17	возбуждался	ВОЗБУЖДАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	соч-союзн	_	_
+18	вопрос	ВОПРОС	S	S m inan nom sg	S m inan nom sg	17	предик	_	_
+19	о	О	PR	PR	PR	18	1-компл	_	_
+20	сокращении	СОКРАЩЕНИЕ	S	S n inan loc sg	S n inan loc sg	19	предл	_	_
+21	правила	ПРАВИЛО	S	S n inan gen sg	S n inan gen sg	20	1-компл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	этих	ЭТОТ	A	A - loc pl plen - -	A - loc pl plen - -	3	опред	_	_
+3	случаях	СЛУЧАЙ	S	S m inan loc pl	S m inan loc pl	1	предл	_	_
+4	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+5	всегда	ВСЕГДА	ADV	ADV -	ADV -	6	обст	_	_
+6	протестовал	ПРОТЕСТОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	требовал	ТРЕБОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	соч-союзн	_	_
+9	точного	ТОЧНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	10	опред	_	_
+10	выполнения	ВЫПОЛНЕНИЕ	S	S n inan gen sg	S n inan gen sg	8	1-компл	_	_
+11	взятого	ВЗЯТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	8	2-компл	_	_
+12	на	НА	PR	PR	PR	8	обст	_	_
+13	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	12	предл	_	_
+14	обязательства	ОБЯЗАТЕЛЬСТВО	S	S n inan gen sg	S n inan gen sg	8	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	чтение	ЧТЕНИЕ	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+3	акафистов	АКАФИСТ	S	S m inan gen sg	S m inan gen sg	2	1-компл	_	_
+4	прекратилось	ПРЕКРАЩАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+5	лишь	ЛИШЬ	PART	PART	PART	6	огранич	_	_
+6	с	С	PR	PR	PR	4	1-компл	_	_
+7	того	ТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	8	опред	_	_
+8	вечера	ВЕЧЕР	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	когда	КОГДА	CONJ	CONJ	CONJ	4	обст	_	_
+11	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	12	предик	_	_
+12	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	подч-союзн	_	_
+13	снова	СНОВА	ADV	ADV -	ADV -	14	обст	_	_
+14	дома	ДОМА	ADV	ADV -	ADV -	12	присвяз	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Так	ТАК	ADV	ADV -	ADV -	2	обст	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	прочтено	ПРОЧИТЫВАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	2	пасс-анал	_	_
+4	около	ОКОЛО	PR	PR	PR	3	обст	_	_
+5	40	40	NUM	NUM - - -	NUM - - -	4	предл	_	_
+6	акафистов	АКАФИСТ	S	S m inan gen sg	S m inan gen sg	5	атриб	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

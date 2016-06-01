@@ -1,0 +1,31 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	усадил	УСАДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Эраста	ЭРАСТ	S	S m anim acc sg	S m anim acc sg	2	1-компл	_	_
+4	Петровича	ПЕТРОВИЧ	S	S m anim gen sg	S m anim gen sg	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	сел	САДИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+7	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	6	суб-копр	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	причем	ПРИЧЕМ	CONJ	CONJ	CONJ	6	сент-соч	_	_
+10	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+11	оказалась	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	соч-союзн	_	_
+12	у	У	PR	PR	PR	11	присвяз	_	_
+13	генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	12	предл	_	_
+14	за	ЗА	PR	PR	PR	11	обст	_	_
+15	спиной	СПИНА	S	S f inan ins sg	S f inan ins sg	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	а	А	CONJ	CONJ	CONJ	11	сент-соч	_	_
+18	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	19	вспом	_	_
+19	так и	так и	CONJ	CONJ	ZERO	0	ROOT	_	_
+20	замер	ЗАМИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	19	подч-союзн	_	_
+21	у	У	PR	PR	PR	20	1-компл	_	_
+22	порога	ПОРОГ	S	S m inan gen sg	S m inan gen sg	21	предл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	вытянувшись	ВЫТЯГИВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	20	обст	_	_
+25	по	ПО	PR	PR	PR	24	обст	_	_
+26	стойке	СТОЙКА	S	S f inan dat sg	S f inan dat sg	25	предл	_	_
+27	«	«	_	_	PUNC	28	PUNC	_	_
+28	смирно	СМИРНО	ADV	ADV -	ADV -	26	компл-аппоз	_	_
+29	»	»	_	_	PUNC	28	PUNC	_	_
+30	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

@@ -1,0 +1,144 @@
+1	Только	ТОЛЬКО	PART	PART	PART	2	огранич	_	_
+2	натренированная	НАТРЕНИРОВАТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	подобных	ПОДОБНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	5	опред	_	_
+5	делах	ДЕЛО	S	S n inan loc pl	S n inan loc pl	3	предл	_	_
+6	Елизавета	ЕЛИЗАВЕТА	S	S f anim nom sg	S f anim nom sg	2	вводн	_	_
+7	Матвеевна	МАТВЕЕВНА	S	S f anim nom sg	S f anim nom sg	6	аппоз	_	_
+8	(	(	_	_	PUNC	9	PUNC	_	_
+9	учительница	УЧИТЕЛЬНИЦА	S	S f anim nom sg	S f anim nom sg	7	аппоз	_	_
+10	)	)	_	_	PUNC	9	PUNC	_	_
+11	могла	МОЧЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	сочин	_	_
+12	бороться	БОРОТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	11	1-компл	_	_
+13	с	С	PR	PR	PR	12	1-компл	_	_
+14	такой	ТАКОЙ	A	A - ins sg plen f -	A - ins sg plen f -	15	опред	_	_
+15	виртуозностью	ВИРТУОЗНОСТЬ	S	S f inan ins sg	S f inan ins sg	13	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	4	соотнос	_	_
+2	вот	ВОТ	PART	PART	PART	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	когда	КОГДА	CONJ	CONJ	CONJ	2	сочин	_	_
+5	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	6	предик	_	_
+6	вернула	ВЕРНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	подч-союзн	_	_
+7	Петру	ПЕТР	S	S m anim dat sg	S m anim dat sg	6	2-компл	_	_
+8	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+9	сочинение	СОЧИНЕНИЕ	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	под	ПОД	PR	PR	PR	16	обст	_	_
+12	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	11	предл	_	_
+13	жирными	ЖИРНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	15	опред	_	_
+14	красными	КРАСНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	15	опред	_	_
+15	буквами	БУКВА	S	S f inan ins pl	S f inan ins pl	16	присвяз	_	_
+16	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	9	релят	_	_
+17	написано	НАПИСАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	16	пасс-анал	_	_
+18	:	:	:	:	PUNC	16	предик	_	_
+19	«	«	_	_	PUNC	18	PUNC	_	_
+20	5	5	NUM	NUM - - -	NUM - - -	21	количест	_	_
+21	ошибок	ОШИБКА	S	S f inan gen pl	S f inan gen pl	16	примыкат	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	плохо	ПЛОХО	ADV	ADV -	ADV -	16	обст	_	_
+24	»	»	_	_	PUNC	23	PUNC	_	_
+25	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Петр	ПЕТР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	знал	ЗНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+6	исправил	ИСПРАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	подч-союзн	_	_
+7	ошибок	ОШИБКА	S	S f inan gen pl	S f inan gen pl	6	1-компл	_	_
+8	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+9	в	В	PR	PR	PR	8	распред	_	_
+10	десять	ДЕСЯТЬ	NUM	NUM acc - -	NUM acc - -	11	количест	_	_
+11	больше	БОЛЬШОЙ	A	A comp - - plen - -	A comp - - plen - -	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	чем	ЧЕМ	CONJ	CONJ	CONJ	11	сравнит	_	_
+14	оставил	ОСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	сравн-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	14	сент-соч	_	_
+17	все-таки	ВСЕ-ТАКИ	PART	PART	PART	18	огранич	_	_
+18	в	В	PR	PR	PR	21	обст	_	_
+19	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	20	квазиагент	_	_
+20	тоне	ТОН	S	S m inan loc sg	S m inan loc sg	18	предл	_	_
+21	звучала	ЗВУЧАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	16	соч-союзн	_	_
+22	обида	ОБИДА	S	S f inan nom sg	S f inan nom sg	21	предик	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	когда	КОГДА	CONJ	CONJ	CONJ	21	обст	_	_
+25	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	26	предик	_	_
+26	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	24	подч-союзн	_	_
+27	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	28	опред	_	_
+28	:	:	:	:	PUNC	26	1-компл	_	_
+29	«	«	_	_	PUNC	28	PUNC	_	_
+30	Что	ЧТО	S	S n - nom sg	S n - nom sg	26	2-компл	_	_
+31	ж	Ж	PART	PART	PART	30	огранич	_	_
+32	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	30	предик	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	Николай	НИКОЛАЙ	S	S m anim nom sg	S m anim nom sg	21	предик	_	_
+35	?	?	?	?	PUNC	34	аппоз	_	_
+36	»	»	SENT	SENT	SENT	35	PUNC	_	_
+
+1	Следует	СЛЕДОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+2	упомянуть	УПОМИНАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	однажды	ОДНАЖДЫ	ADV	ADV -	ADV -	7	обст	_	_
+6	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+7	выполнил	ВЫПОЛНЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	подч-союзн	_	_
+8	для	ДЛЯ	PR	PR	PR	7	1-компл	_	_
+9	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	10	опред	_	_
+10	одноклассницы	ОДНОКЛАССНИЦА	S	S f anim gen sg	S f anim gen sg	8	предл	_	_
+11	графическое	ГРАФИЧЕСКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	12	опред	_	_
+12	задание	ЗАДАНИЕ	S	S n inan nom sg	S n inan nom sg	7	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	просидев	ПРОСИЖИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	7	обст	_	_
+15	над	НАД	PR	PR	PR	14	обст	_	_
+16	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	15	предл	_	_
+17	до	ДО	PR	PR	PR	14	1-компл	_	_
+18	трех	ТРИ	NUM	NUM loc - -	NUM loc - -	19	количест	_	_
+19	часов	ЧАС	S	S m inan gen pl	S m inan gen pl	17	предл	_	_
+20	ночи	НОЧЬ	S	S f inan gen sg	S f inan gen sg	19	квазиагент	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Зная	ЗНАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+4	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	5	предик	_	_
+5	будем	БЫТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	3	подч-союзн	_	_
+6	недовольны	НЕДОВОЛЬНЫЙ	A	A - - pl brev - -	A - - pl brev - -	5	присвяз	_	_
+7	такой	ТАКОЙ	A	A - gen sg plen f -	A - gen sg plen f -	9	опред	_	_
+8	поздней	ПОЗДНИЙ	A	A - ins sg plen f -	A - ins sg plen f -	9	опред	_	_
+9	работой	РАБОТА	S	S f inan ins sg	S f inan ins sg	6	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	предик	_	_
+12	лег	ЛОЖИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+13	в	В	PR	PR	PR	12	обст	_	_
+14	постель	ПОСТЕЛЬ	S	S f inan acc sg	S f inan acc sg	13	предл	_	_
+15	одетым	ОДЕТЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	0	ROOT	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	притворился	ПРИТВОРЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	16	соч-союзн	_	_
+18	спящим	СПАТЬ	PARTCP	PARTCP ipf inpraes dat pl plen - act -	PARTCP ipf inpraes dat pl plen - act -	17	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	11	обст	_	_
+2	все	ВСЕ	S	S - - nom pl	S - - nom pl	3	1-компл	_	_
+3	заснули	ЗАСНУТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	после	ПОСЛЕ	PR	PR	PR	3	обст	_	_
+6	12	12	NUM	NUM - - -	NUM - - -	7	количест	_	_
+7	часов	ЧАС	S	S m inan gen pl	S m inan gen pl	5	предл	_	_
+8	ночи	НОЧЬ	S	S f inan gen sg	S f inan gen sg	7	квазиагент	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	11	предик	_	_
+11	встал	ВСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+13	лег	ЛОЖИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	соч-союзн	_	_
+14	лишь	ЛИШЬ	PART	PART	PART	15	огранич	_	_
+15	тогда	ТОГДА	ADV	ADV -	ADV -	13	обст	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	когда	КОГДА	CONJ	CONJ	CONJ	13	обст	_	_
+18	работа	РАБОТА	S	S f inan nom sg	S f inan nom sg	19	предик	_	_
+19	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	17	подч-союзн	_	_
+20	выполнена	ВЫПОЛНЯТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	19	пасс-анал	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

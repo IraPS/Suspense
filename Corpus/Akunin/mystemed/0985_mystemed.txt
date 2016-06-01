@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"нахмуриваться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"нахмурилась"}
+{"analysis":[{"lex":"покоробить","gr":"V,pf,tran=praet,nom,sg,partcp,plen,f,pass"}],"text":"покоробленная"}
+{"analysis":[{"lex":"словом","gr":"ADV,parenth="}],"text":"словом"}
+{"analysis":[{"lex":"немножко","gr":"ADV="}],"text":"немножко"}
+{"analysis":[{"lex":"премного","gr":"ADV="}],"text":"Премного"}
+{"analysis":[{"lex":"благодарный","gr":"A=sg,brev,f"}],"text":"благодарна"}

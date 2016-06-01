@@ -1,0 +1,68 @@
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	вижу	ВИДЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	19	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	19	предик	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	в	В	PR	PR	PR	10	огранич	_	_
+8	самом	САМЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	9	опред	_	_
+9	деле	ДЕЛО	S	S n inan loc sg	S n inan loc sg	7	предл	_	_
+10	ловки	ЛОВКИЙ	A	A - - pl brev - -	A - - pl brev - -	6	соч-союзн	_	_
+11	в	В	PR	PR	PR	10	1-компл	_	_
+12	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+13	малопочтенной	МАЛОПОЧТЕННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+14	профессии	ПРОФЕССИЯ	S	S f inan gen sg	S f inan gen sg	11	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	 	 	 	 	PUNC	18	предик	_	_
+17	–	–	–	–	PUNC	18	1-компл	_	_
+18	язвительно	ЯЗВИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	10	изъясн	_	_
+19	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+20	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	19	предик	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Главного	ГЛАВНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+3	людоеда	ЛЮДОЕД	S	S m anim gen sg	S m anim gen sg	1	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+6	того	ТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	7	1-компл	_	_
+7	перехитрили	ПЕРЕХИТРИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	5	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Людоед	ЛЮДОЕД	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	–	–	–	–	PUNC	5	опред	_	_
+4	это	ЭТО	S	S n - nom sg	S n - nom sg	5	опред	_	_
+5	Лаврентий	ЛАВРЕНТИЙ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+6	Аркадьевич	АРКАДЬЕВИЧ	S	S m anim nom sg	S m anim nom sg	5	аппоз	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	удивился	УДИВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	По-моему	ПО-МОЕМУ	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	похож	ПОХОЖИЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	1	соч-союзн	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	потом	ПОТОМ	ADV	ADV -	ADV -	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+7	же	ЖЕ	PART	PART	PART	6	огранич	_	_
+8	непочтенного	НЕПОЧТЕННЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	0	ROOT	_	_
+9	в	В	PR	PR	PR	0	ROOT	_	_
+10	том	ТО	S	S n - loc sg	S n - loc sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	10	эксплет	_	_
+13	охранять	ОХРАНЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	инф-союзн	_	_
+14	государственные	ГОСУДАРСТВЕННЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	15	опред	_	_
+15	интересы	ИНТЕРЕС	S	S m inan acc pl	S m inan acc pl	13	1-компл	_	_
+16	?	?	SENT	SENT	SENT	15	PUNC	_	_
+

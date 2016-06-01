@@ -1,0 +1,48 @@
+1	После	ПОСЛЕ	PR	PR	PR	20	обст	_	_
+2	парада	ПАРАД	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	когда	КОГДА	CONJ	CONJ	CONJ	1	обст	_	_
+5	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+6	весело	ВЕСЕЛО	ADV	ADV -	ADV -	7	обст	_	_
+7	отбивалась	ОТБИВАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	подч-союзн	_	_
+8	от	ОТ	PR	PR	PR	7	1-компл	_	_
+9	черноглазого	ЧЕРНОГЛАЗЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+10	флигель-адъютанта	ФЛИГЕЛЬ-АДЪЮТАНТ	S	S m anim gen sg	S m anim gen sg	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	все	ВСЕ	S	S - - acc pl	S - - acc pl	19	опред	_	_
+13	пытавшегося	ПЫТАТЬСЯ	PARTCP	PARTCP ipf praet acc sg plen m act anim	PARTCP ipf praet acc sg plen m act anim	12	опред	_	_
+14	найти	НАХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	13	1-компл	_	_
+15	общих	ОБЩИЙ	A	A - gen pl plen - -	A - gen pl plen - -	17	опред	_	_
+16	петербургских	ПЕТЕРБУРГСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	17	опред	_	_
+17	знакомых	ЗНАКОМЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	14	1-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	Фандорин	ФАНДОРИН	S	S f inan nom sg	S f inan nom sg	20	предик	_	_
+20	подошел	ПОДХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+21	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	слегка	СЛЕГКА	ADV	ADV -	ADV -	24	огранич	_	_
+24	поклонившись	ПОКЛОНИТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	26	обст	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	соч-союзн	_	_
+27	:	:	:	:	PUNC	29	2-компл	_	_
+28	–	–	–	–	PUNC	29	1-компл	_	_
+29	Прошу	ПРОСИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	20	сент-соч	_	_
+30	извинить	ИЗВИНЯТЬ	V	V pf - - inf - -	V pf - - inf - -	29	1-компл	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	29	предик	_	_
+33	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	32	аппоз	_	_
+34	-	-	-	-	PUNC	33	PUNC	_	_
+35	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	32	сочин	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+
+1	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+2	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	1	аппоз	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	1	опред	_	_
+5	с	С	PR	PR	PR	4	атриб	_	_
+6	вами	ВЫ	SPRO	SPRO pl 2p - ins	SPRO pl 2p - ins	5	предл	_	_
+7	хочет	ХОТЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+8	видеть	ВИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+9	император	ИМПЕРАТОР	S	S m anim nom sg	S m anim nom sg	7	вводн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

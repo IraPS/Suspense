@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=acc"},{"lex":"это","gr":"SPRO,sg,n,inan=nom"}],"text":"Это"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"балаган","gr":"S,m,inan=acc,sg"},{"lex":"балаган","gr":"S,m,inan=nom,sg"}],"text":"балаган"}
+{"analysis":[{"lex":"гаркнуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"гаркнул"}
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"text":"\\s"}
+{"analysis":[{"lex":"какой","gr":"APRO=abl,sg,f"},{"lex":"какой","gr":"APRO=dat,sg,f"},{"lex":"какой","gr":"APRO=gen,sg,f"},{"lex":"какой","gr":"APRO=ins,sg,f"},{"lex":"какой","gr":"APRO=acc,sg,m,inan"},{"lex":"какой","gr":"APRO=nom,sg,m"}],"text":"Какой"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"салям","qual":"bastard","gr":"S,persn,m,anim=nom,sg"}],"text":"салям"}
+{"analysis":[{"lex":"алейкум","qual":"bastard","gr":"S,m,anim=nom,sg"}],"text":"алейкум"}
+{"text":"\\s"}
+{"analysis":[{"lex":"какой","gr":"APRO=abl,sg,f"},{"lex":"какой","gr":"APRO=dat,sg,f"},{"lex":"какой","gr":"APRO=gen,sg,f"},{"lex":"какой","gr":"APRO=ins,sg,f"},{"lex":"какой","gr":"APRO=acc,sg,m,inan"},{"lex":"какой","gr":"APRO=nom,sg,m"}],"text":"Какой"}
+{"analysis":[{"lex":"еще","gr":"PART="}],"text":"еще"}
+{"analysis":[{"lex":"эфенди","gr":"S,m,anim=abl,pl"},{"lex":"эфенди","gr":"S,m,anim=abl,sg"},{"lex":"эфенди","gr":"S,m,anim=acc,pl"},{"lex":"эфенди","gr":"S,m,anim=acc,sg"},{"lex":"эфенди","gr":"S,m,anim=dat,pl"},{"lex":"эфенди","gr":"S,m,anim=dat,sg"},{"lex":"эфенди","gr":"S,m,anim=gen,pl"},{"lex":"эфенди","gr":"S,m,anim=gen,sg"},{"lex":"эфенди","gr":"S,m,anim=ins,pl"},{"lex":"эфенди","gr":"S,m,anim=ins,sg"},{"lex":"эфенди","gr":"S,m,anim=nom,pl"},{"lex":"эфенди","gr":"S,m,anim=nom,sg"}],"text":"эфенди"}

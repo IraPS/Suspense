@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"ну","gr":"PART="}],"text":"Ну"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"такой","gr":"APRO=dat,pl"},{"lex":"такой","gr":"APRO=ins,sg,m"},{"lex":"такой","gr":"APRO=ins,sg,n"}],"text":"таким"}
+{"analysis":[{"lex":"разговаривать","gr":"V=inf,ipf,intr"}],"text":"разговаривать"}

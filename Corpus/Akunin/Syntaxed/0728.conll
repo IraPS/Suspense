@@ -1,0 +1,129 @@
+1	–	–	–	–	PUNC	17	опред	_	_
+2	Сегодня	СЕГОДНЯ	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	10	10	NUM	NUM - - -	NUM - - -	17	опред	_	_
+5	декабря	ДЕКАБРЬ	S	S m inan gen sg	S m inan gen sg	4	атриб	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	4	сочин	_	_
+8	по	ПО	PR	PR	PR	7	соч-союзн	_	_
+9	вашему	ВАШ	A	A - dat sg plen n -	A - dat sg plen n -	10	опред	_	_
+10	стилю	СТИЛЬ	S	S m inan dat sg	S m inan dat sg	8	предл	_	_
+11	28	28	NUM	NUM - - -	NUM - - -	4	кратн	_	_
+12	ноября	НОЯБРЬ	S	S m inan gen sg	S m inan gen sg	4	атриб	_	_
+13	1877	1877	NUM	NUM - - -	NUM - - -	14	опред	_	_
+14	года	ГОД	S	S m inan gen sg	S m inan gen sg	12	атриб	_	_
+15	–	–	–	–	PUNC	17	опред	_	_
+16	исторический	ИСТОРИЧЕСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	17	опред	_	_
+17	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	 	 	 	 	PUNC	17	опред	_	_
+20	–	–	–	–	PUNC	22	1-компл	_	_
+21	торжественно	ТОРЖЕСТВЕННО	ADV	ADV -	ADV -	22	обст	_	_
+22	начал	НАЧИНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	17	релят	_	_
+23	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	22	предик	_	_
+24	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+25	перешел	ПЕРЕХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	24	соч-союзн	_	_
+26	на	НА	PR	PR	PR	25	1-компл	_	_
+27	шепот	ШЕПОТ	S	S f inan ins sg	S f inan ins sg	26	предл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Но	НО	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	об	ОБ	PR	PR	PR	0	ROOT	_	_
+4	этом	ЭТО	S	S n - loc sg	S n - loc sg	3	предл	_	_
+5	во	ВО	PR	PR	PR	0	ROOT	_	_
+6	всем	ВСЕ	S	S n - loc sg	S n - loc sg	8	опред	_	_
+7	русском	РУССКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	8	опред	_	_
+8	лагере	ЛАГЕРЬ	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+9	пока	ПОКА	CONJ	CONJ	CONJ	5	обст	_	_
+10	знает	ЗНАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	9	подч-союзн	_	_
+11	только	ТОЛЬКО	PART	PART	PART	12	огранич	_	_
+12	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	13	количест	_	_
+13	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+14	–	–	–	–	PUNC	17	опред	_	_
+15	ваш	ВАШ	A	A - nom sg plen m -	A - nom sg plen m -	17	опред	_	_
+16	покорный	ПОКОРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	17	опред	_	_
+17	слуга	СЛУГА	S	S m anim nom sg	S m anim nom sg	13	аппоз	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	О	О	PR	PR	PR	5	3-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	дает	ДАВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	nа	ПА	S	S n inan nonflex nonflex	S n inan nonflex nonflex	5	предик	_	_
+7	chai	CHAI	NONLEX	NONLEX	NONLEX	6	аппоз	_	_
+8	за	ЗА	PR	PR	PR	5	обст	_	_
+9	то	ТО	S	S n inan acc sg	S n inan acc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	9	эксплет	_	_
+12	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+13	выполняет	ВЫПОЛНЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	подч-союзн	_	_
+14	свои	СВОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	17	опред	_	_
+15	прямые	ПРЯМОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	17	опред	_	_
+16	служебные	СЛУЖЕБНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	17	опред	_	_
+17	обязанности	ОБЯЗАННОСТЬ	S	S f inan acc pl	S f inan acc pl	13	1-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	но	НО	CONJ	CONJ	CONJ	13	сент-соч	_	_
+20	за	ЗА	PR	PR	PR	24	обст	_	_
+21	хорошую	ХОРОШИЙ	A	A - acc sg plen f -	A - acc sg plen f -	22	опред	_	_
+22	работу	РАБОТА	S	S f inan acc sg	S f inan acc sg	20	предл	_	_
+23	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	24	предик	_	_
+24	платит	ПЛАТИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	19	соч-союзн	_	_
+25	хорошо	ХОРОШО	ADV	ADV -	ADV -	24	обст	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	можете	МОЧЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	24	вводн	_	_
+28	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	29	1-компл	_	_
+29	поверить	ПОВЕРЯТЬ	V	V pf - - inf - -	V pf - - inf - -	27	1-компл	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	0	ROOT	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	все	ВСЕ	S	S - - nom pl	S - - nom pl	1	опред	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	об	ОБ	PR	PR	PR	7	вводн	_	_
+6	этом	ЭТО	S	S n - loc sg	S n - loc sg	5	предл	_	_
+7	больше	БОЛЬШЕ	ADV	ADV -	ADV -	1	сент-соч	_	_
+8	ни	НИ	CONJ	CONJ	CONJ	9	соотнос	_	_
+9	слова	СЛОВО	S	S n inan nom pl	S n inan nom pl	7	предик	_	_
+10	!	!	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	вскинул	ВСКИДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+4	ладонь	ЛАДОНЬ	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	предупреждая	ПРЕДУПРЕЖДАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+7	вопрос	ВОПРОС	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	уже	УЖЕ	ADV	ADV -	ADV -	10	огранич	_	_
+10	готовый	ГОТОВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+11	сорваться	СРЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	10	1-компл	_	_
+12	с	С	PR	PR	PR	11	2-компл	_	_
+13	Вариных	ВАРИН	S	S m anim loc pl	S m anim loc pl	12	предл	_	_
+14	губ	ГУБА	S	S f inan gen pl	S f inan gen pl	13	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Источник	ИСТОЧНИК	S	S m inan nom sg	S m inan nom sg	1	предик	_	_
+3	информации	ИНФОРМАЦИЯ	S	S f inan gen sg	S f inan gen sg	2	квазиагент	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	предик	_	_
+5	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	7	2-компл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	назову	НАЗЫВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	1	сент-соч	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Скажу	СКАЗАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+2	только	ТОЛЬКО	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+5	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+6	неоднократно	НЕОДНОКРАТНО	ADV	ADV -	ADV -	7	обст	_	_
+7	проверен	ПРОВЕРЕННЫЙ	A	A - - sg brev m -	A - - sg brev m -	4	подч-союзн	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	ни разу	ни разу	ADV	ADV -	-	12	обст	_	_
+10	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	12	1-компл	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	подводил	ПОДВОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

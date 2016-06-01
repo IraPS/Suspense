@@ -1,0 +1,190 @@
+1	Когда	КОГДА	CONJ	CONJ	CONJ	18	обст	_	_
+2	журналисты	ЖУРНАЛИСТ	S	S m anim nom pl	S m anim nom pl	12	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	узнав	УЗНАВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	12	обст	_	_
+5	об	ОБ	PR	PR	PR	4	1-компл	_	_
+6	успешном	УСПЕШНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	7	опред	_	_
+7	наступлении	НАСТУПЛЕНИЕ	S	S n inan loc sg	S n inan loc sg	5	предл	_	_
+8	южного	ЮЖНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	фланга	ФЛАНГ	S	S m inan gen sg	S m inan gen sg	7	квазиагент	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	наперегонки	НАПЕРЕГОНКИ	ADV	ADV -	ADV -	12	обст	_	_
+12	бросились	БРОСАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+13	к	К	PR	PR	PR	12	2-компл	_	_
+14	телеграфным	ТЕЛЕГРАФНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	15	опред	_	_
+15	аппаратам	АППАРАТ	S	S m inan dat pl	S m inan dat pl	13	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	18	предик	_	_
+18	пустился	ПУСКАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+19	в	В	PR	PR	PR	18	2-компл	_	_
+20	погоню	ПОГОНЯ	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	за	ЗА	PR	PR	PR	18	обст	_	_
+22	Зуровым	ЗУРОВ	S	S m anim gen sg	S m anim gen sg	21	предл	_	_
+23	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+24	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	23	соч-союзн	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	На	НА	PR	PR	PR	8	обст	_	_
+2	своем	СВОЙ	A	A - loc sg plen m -	A - loc sg plen m -	4	опред	_	_
+3	знаменитом	ЗНАМЕНИТЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	4	опред	_	_
+4	Ятагане	ЯТАГАН	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+5	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	8	предик	_	_
+6	без	БЕЗ	PR	PR	PR	8	обст	_	_
+7	труда	ТРУД	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+8	догнал	ДОГНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	8	1-компл	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	оказавшись	ОКАЗЫВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	17	обст	_	_
+13	в	В	PR	PR	PR	12	обст	_	_
+14	безлюдном	БЕЗЛЮДНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	15	опред	_	_
+15	месте	МЕСТО	S	S n inan loc sg	S n inan loc sg	13	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	застрелил	ЗАСТРЕЛИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	соч-союзн	_	_
+18	обоих	ОБА	NUM	NUM gen m -	NUM gen m -	17	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Очевидно	ОЧЕВИДНО	ADV	ADV -	ADV -	7	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	в	В	PR	PR	PR	7	обст	_	_
+4	момент	МОМЕНТ	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+5	нападения	НАПАДЕНИЕ	S	S n inan gen sg	S n inan gen sg	4	квазиагент	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+7	скакал	СКАКАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+8	между	МЕЖДУ	PR	PR	PR	7	обст	_	_
+9	Зуровым	ЗУРОВ	S	S m anim gen sg	S m anim gen sg	8	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	Казанзаки	КАЗАНЗАК	S	S m anim nom pl	S m anim nom pl	10	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	причем	ПРИЧЕМ	CONJ	CONJ	CONJ	7	сент-соч	_	_
+14	ротмистр	РОТМИСТР	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+15	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	13	соч-союзн	_	_
+16	у	У	PR	PR	PR	15	присвяз	_	_
+17	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	16	предл	_	_
+18	справа	СПРАВА	ADV	ADV -	ADV -	15	обст	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	а	А	CONJ	CONJ	CONJ	15	сент-соч	_	_
+21	жандарм	ЖАНДАРМ	S	S m anim nom sg	S m anim nom sg	22	предик	_	_
+22	слева	СЛЕВА	ADV	ADV -	ADV -	20	соч-союзн	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	стреляет	СТРЕЛЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	гусару	ГУСАР	S	S f inan nom sg	S f inan nom sg	2	присвяз	_	_
+4	в	В	PR	PR	PR	3	атриб	_	_
+5	левый	ЛЕВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	6	опред	_	_
+6	висок	ВИСОК	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+7	–	–	–	–	PUNC	3	опред	_	_
+8	в	В	PR	PR	PR	7	2-компл	_	_
+9	упор	УПОР	S	S m inan acc sg	S m inan acc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+12	в	В	PR	PR	PR	15	обст	_	_
+13	следующий	СЛЕДУЮЩИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	14	опред	_	_
+14	миг	МИГ	S	S m inan acc sg	S m inan acc sg	12	предл	_	_
+15	посылает	ПОСЫЛАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	соч-союзн	_	_
+16	пулю	ПУЛЯ	S	S f inan acc sg	S f inan acc sg	15	1-компл	_	_
+17	в	В	PR	PR	PR	15	обст	_	_
+18	лоб	ЛОБ	S	S m inan acc sg	S m inan acc sg	17	предл	_	_
+19	обернувшемуся	ОБЕРТЫВАТЬСЯ	PARTCP	PARTCP pf praet dat sg plen m act -	PARTCP pf praet dat sg plen m act -	15	1-компл	_	_
+20	на	НА	PR	PR	PR	19	атриб	_	_
+21	выстрел	ВЫСТРЕЛ	S	S m inan acc sg	S m inan acc sg	20	предл	_	_
+22	подполковнику	ПОДПОЛКОВНИК	S	S m anim dat sg	S m anim dat sg	15	2-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Все	ВСЕ	S	S - - acc pl	S - - acc pl	3	1-компл	_	_
+2	это	ЭТО	S	S n - nom sg	S n - nom sg	3	предик	_	_
+3	заняло	ЗАНИМАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	более	МНОГО	ADV	ADV comp	ADV comp	3	предик	_	_
+6	секунды	СЕКУНДА	S	S f inan gen sg	S f inan gen sg	5	сравнит	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Вокруг	ВОКРУГ	ADV	ADV -	ADV -	2	обст	_	_
+2	движутся	ДВИГАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+3	войска	ВОЙСКО	S	S n inan nom pl	S n inan nom pl	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	всадники	ВСАДНИК	S	S m anim nom pl	S m anim nom pl	7	предик	_	_
+7	едут	ЕХАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	5	соч-союзн	_	_
+8	по	ПО	PR	PR	PR	7	обст	_	_
+9	ложбине	ЛОЖБИНА	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	13	1-компл	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	видно	ВИДНО	ADV	ADV -	ADV -	7	изъясн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	а	А	CONJ	CONJ	CONJ	7	сент-соч	_	_
+16	выстрелы	ВЫСТРЕЛ	S	S m inan nom pl	S m inan nom pl	21	предик	_	_
+17	в	В	PR	PR	PR	16	1-компл	_	_
+18	разгар	РАЗГАР	S	S m inan acc sg	S m inan acc sg	17	предл	_	_
+19	канонады	КАНОНАДА	S	S f inan gen sg	S f inan gen sg	18	квазиагент	_	_
+20	вряд ли	вряд ли	ADV	ADV -	-	21	обст	_	_
+21	могли	МОЧЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	15	соч-союзн	_	_
+22	обратить	ОБРАЩАТЬ	V	V pf - - inf - -	V pf - - inf - -	21	1-компл	_	_
+23	на	НА	PR	PR	PR	22	2-компл	_	_
+24	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	23	предл	_	_
+25	внимание	ВНИМАНИЕ	S	S n inan acc sg	S n inan acc sg	22	1-компл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Труп	ТРУП	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+2	Зурова	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	убийца	УБИЙЦА	S	S - anim nom sg	S - anim nom sg	4	1-компл	_	_
+4	оставил	ОСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	релят	_	_
+5	на	НА	PR	PR	PR	4	обст	_	_
+6	месте	МЕСТО	S	S n inan loc sg	S n inan loc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	но	НО	CONJ	CONJ	CONJ	4	сочин	_	_
+9	вонзил	ВОНЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+10	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	9	2-компл	_	_
+11	в	В	PR	PR	PR	9	обст	_	_
+12	лопатку	ЛОПАТКА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	кинжал	КИНЖАЛ	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+14	жандарма	ЖАНДАРМ	S	S m anim gen sg	S m anim gen sg	13	квазиагент	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	То есть	То есть	ADV	ADV -	-	3	обст	_	_
+2	сначала	СНАЧАЛА	ADV	ADV -	ADV -	3	обст	_	_
+3	застрелил	ЗАСТРЕЛИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	потом	ПОТОМ	ADV	ADV -	ADV -	6	обст	_	_
+6	пронзил	ПРОНЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+7	клинком	КЛИНОК	S	S m inan ins sg	S m inan ins sg	6	2-компл	_	_
+8	уже	УЖЕ	ADV	ADV -	ADV -	9	огранич	_	_
+9	мертвого	МЕРТВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	суб-копр	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	9	сочин	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	наоборот	НАОБОРОТ	ADV	ADV -	ADV -	11	соч-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	как	КАК	CONJ	CONJ	CONJ	6	сравнит	_	_
+16	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	17	предик	_	_
+17	решили	РЕШАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	15	сравн-союзн	_	_
+18	вначале	ВНАЧАЛЕ	ADV	ADV -	ADV -	17	обст	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Цель	ЦЕЛЬ	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	ясна	ЯСНЫЙ	A	A - - sg brev f -	A - - sg brev f -	0	ROOT	_	_
+3	–	–	–	–	PUNC	0	ROOT	_	_
+4	бросить	БРОСАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	подозрение	ПОДОЗРЕНИЕ	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+6	на	НА	PR	PR	PR	5	атриб	_	_
+7	Казанзаки	КАЗАНЗАК	S	S m inan loc sg	S m inan loc sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Из	ИЗ	PR	PR	PR	6	обст	_	_
+2	тех	ТОТ	A	A - gen pl plen - -	A - gen pl plen - -	4	опред	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	соображений	СООБРАЖЕНИЕ	S	S n inan gen pl	S n inan gen pl	1	предл	_	_
+5	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+6	перевез	ПЕРЕВОЗИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	тело	ТЕЛО	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+8	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	7	квазиагент	_	_
+9	в	В	PR	PR	PR	6	2-компл	_	_
+10	близлежащий	БЛИЗЛЕЖАЩИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	11	опред	_	_
+11	кустарник	КУСТАРНИК	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+12	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+13	инсценировал	ИНСЦЕНИРОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	соч-союзн	_	_
+14	самоубийство	САМОУБИЙСТВО	S	S n inan nom sg	S n inan nom sg	13	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

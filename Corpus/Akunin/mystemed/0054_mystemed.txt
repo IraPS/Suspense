@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"Д"}
+{"analysis":[{"lex":"дванадесета","qual":"bastard","gr":"S,f,inan=gen,pl"}],"text":"дванадесет"}
+{"analysis":[{"lex":"спокойно","gr":"ADV="}],"text":"спокойно"}
+{"analysis":[{"lex":"объявлять","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"объявил"}
+{"analysis":[{"lex":"фандорина","qual":"bastard","gr":"S,f,inan=gen,pl"}],"text":"Фандорин"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"вставать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"встал"}
+{"text":"\\s"}
+{"analysis":[{"lex":"где","gr":"ADVPRO="}],"text":"Где"}
+{"analysis":[{"lex":"магареть","qual":"bastard","gr":"V,pf,tran=praet,sg,partcp,brev,n,pass"}],"text":"магарето"}

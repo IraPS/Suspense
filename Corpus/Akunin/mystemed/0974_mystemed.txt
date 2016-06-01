@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"из-за","gr":"PR="}],"text":"Из-за"}
+{"analysis":[{"lex":"мощный","gr":"A=abl,sg,plen,f"},{"lex":"мощный","gr":"A=dat,sg,plen,f"},{"lex":"мощный","gr":"A=gen,sg,plen,f"},{"lex":"мощный","gr":"A=ins,sg,plen,f"}],"text":"мощной"}
+{"analysis":[{"lex":"дверь","gr":"S,f,inan=abl,sg"},{"lex":"дверь","gr":"S,f,inan=acc,pl"},{"lex":"дверь","gr":"S,f,inan=dat,sg"},{"lex":"дверь","gr":"S,f,inan=gen,sg"},{"lex":"дверь","gr":"S,f,inan=nom,pl"},{"lex":"дверь","gr":"S,f,inan=loc,sg"}],"text":"двери"}
+{"analysis":[{"lex":"доноситься","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"донесся"}
+{"analysis":[{"lex":"приглушать","gr":"V,tran=praet,acc,sg,partcp,plen,m,pf,pass,inan"},{"lex":"приглушать","gr":"V,tran=praet,nom,sg,partcp,plen,m,pf,pass"}],"text":"приглушенный"}
+{"analysis":[{"lex":"шум","gr":"S,m,inan=acc,sg"},{"lex":"шум","gr":"S,m,inan=nom,sg"}],"text":"шум"}
+{"analysis":[{"lex":"голос","gr":"S,m,inan=gen,pl"}],"text":"голосов"}

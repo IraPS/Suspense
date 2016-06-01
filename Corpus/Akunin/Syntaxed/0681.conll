@@ -1,0 +1,14 @@
+1	Новый	НОВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	документ	ДОКУМЕНТ	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+3	Новгородцев	НОВГОРОДЕЦ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	читал	ЧИТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	с	С	PR	PR	PR	4	1-компл	_	_
+6	явно	ЯВНО	ADV	ADV -	ADV -	7	огранич	_	_
+7	большим	БОЛЬШИЙ	A	A - ins sg plen m -	A - ins sg plen m -	8	опред	_	_
+8	удовольствием	УДОВОЛЬСТВИЕ	S	S n inan ins sg	S n inan ins sg	5	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	чем	ЧЕМ	CONJ	CONJ	CONJ	7	сравнит	_	_
+11	любовное	ЛЮБОВНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	12	опред	_	_
+12	послание	ПОСЛАНИЕ	S	S n inan nom sg	S n inan nom sg	10	сравн-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

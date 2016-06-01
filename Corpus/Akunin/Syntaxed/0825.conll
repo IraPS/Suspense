@@ -1,0 +1,92 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Ну-ка	НУ-КА	INTJ	INTJ	INTJ	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	ну-ка	НУ-КА	INTJ	INTJ	INTJ	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	9	предик	_	_
+8	там	ТАМ	ADV	ADV -	ADV -	9	обст	_	_
+9	замыслили	ЗАМЫШЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	подч-союзн	_	_
+10	?	?	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	с	С	PR	PR	PR	4	обст	_	_
+3	любопытством	ЛЮБОПЫТСТВО	S	S n inan ins sg	S n inan ins sg	2	предл	_	_
+4	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	Александр	АЛЕКСАНДР	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Государь	ГОСУДАРЬ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	с	С	PR	PR	PR	8	обст	_	_
+5	взятием	ВЗЯТИЕ	S	S n inan ins sg	S n inan ins sg	4	предл	_	_
+6	Плевны	ПЛЕВНА	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+7	война	ВОЙНА	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+8	вступила	ВСТУПАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	вводн	_	_
+9	в	В	PR	PR	PR	8	2-компл	_	_
+10	завершающий	ЗАВЕРШАЮЩИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	11	опред	_	_
+11	фазис	ФАЗИС	S	S m inan gen sg	S m inan gen sg	9	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Окончательная	ОКОНЧАТЕЛЬНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	победа	ПОБЕДА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+3	над	НАД	PR	PR	PR	2	1-компл	_	_
+4	турками	ТУРОК	S	S m anim ins pl	S m anim ins pl	3	предл	_	_
+5	–	–	–	–	PUNC	8	опред	_	_
+6	дело	ДЕЛО	S	S n inan nom sg	S n inan nom sg	8	предик	_	_
+7	нескольких	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	8	количест	_	_
+8	недель	НЕДЕЛЯ	S	S f inan gen pl	S f inan gen pl	4	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Подчеркиваю	ПОДЧЕРКИВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	:	:	:	:	PUNC	1	1-компл	_	_
+3	над	НАД	PR	PR	PR	2	1-компл	_	_
+4	турками	ТУРОК	S	S m anim ins pl	S m anim ins pl	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	получилось	ПОЛУЧАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+4	бы	БЫ	PART	PART	PART	3	аналит	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	как	КАК	CONJ	CONJ	CONJ	3	сравнит	_	_
+7	в	В	PR	PR	PR	6	сравн-союзн	_	_
+8	пятьдесят	ПЯТЬДЕСЯТ	NUM	NUM acc - -	NUM acc - -	9	колич-вспом	_	_
+9	третьем	ТРЕТИЙ	A	A - loc sg plen m -	A - loc sg plen m -	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	когда	КОГДА	CONJ	CONJ	CONJ	3	обст	_	_
+12	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	13	предик	_	_
+13	начинали	НАЧИНАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	11	подч-союзн	_	_
+14	войной	ВОЙНА	S	S f inan ins sg	S f inan ins sg	13	1-компл	_	_
+15	против	ПРОТИВ	PR	PR	PR	14	1-компл	_	_
+16	турок	ТУРОК	S	S m anim gen pl	S m anim gen pl	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	а	А	CONJ	CONJ	CONJ	13	сочин	_	_
+19	ввязались	ВВЯЗЫВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	18	соч-союзн	_	_
+20	в	В	PR	PR	PR	19	2-компл	_	_
+21	схватку	СХВАТКА	S	S f inan acc sg	S f inan acc sg	20	предл	_	_
+22	со	СО	PR	PR	PR	19	обст	_	_
+23	всей	ВЕСЬ	A	A - dat sg plen f -	A - dat sg plen f -	24	опред	_	_
+24	Европой	ЕВРОПА	S	S f inan ins sg	S f inan ins sg	22	предл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Наши	НАШ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	финансы	ФИНАНСЫ	S	S - inan nom pl	S - inan nom pl	6	предик	_	_
+3	подобного	ПОДОБНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	4	опред	_	_
+4	противостояния	ПРОТИВОСТОЯНИЕ	S	S n inan gen sg	S n inan gen sg	2	квазиагент	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	выдержат	ВЫДЕРЖИВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Сами	САМ	A	A - nom pl plen - -	A - nom pl plen - -	2	предик	_	_
+2	знаете	ЗНАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	во	ВО	PR	PR	PR	7	обст	_	_
+5	что	ЧТО	S	S n - acc sg	S n - acc sg	4	предл	_	_
+6	нам	МЫ	SPRO	SPRO pl 1p - dat	SPRO pl 1p - dat	7	2-компл	_	_
+7	стала	СТАНОВИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	1-компл	_	_
+8	эта	ЭТОТ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+9	кампания	КАМПАНИЯ	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

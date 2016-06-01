@@ -1,0 +1,15 @@
+1	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	присвистнул	ПРИСВИСТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	:	:	:	:	PUNC	5	опред	_	_
+4	–	–	–	–	PUNC	5	опред	_	_
+5	Ого	ОГО	INTJ	INTJ	INTJ	2	1-компл	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	6	предик	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	то	ТО	PART	PART	PART	2	огранич	_	_
+5	откуда	ОТКУДА	ADV	ADV -	ADV -	6	1-компл	_	_
+6	знаешь	ЗНАТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	1	соч-союзн	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+

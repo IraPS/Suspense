@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"У"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=gen,sg"},{"lex":"варя","gr":"S,persn,f,anim=nom,pl"}],"text":"Вари"}
+{"analysis":[{"lex":"против","gr":"PR="}],"text":"против"}
+{"analysis":[{"lex":"воля","gr":"S,f,inan=acc,pl"},{"lex":"воля","gr":"S,f,inan=gen,sg"},{"lex":"воля","gr":"S,f,inan=nom,pl"}],"text":"воли"}
+{"analysis":[{"lex":"губа","gr":"S,f,inan=acc,pl"},{"lex":"губа","gr":"S,f,inan=gen,sg"},{"lex":"губа","gr":"S,f,inan=nom,pl"}],"text":"губы"}
+{"analysis":[{"lex":"расползаться","gr":"V,intr=praet,pl,indic,pf"}],"text":"расползлись"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"улыбка","gr":"S,f,inan=acc,sg"}],"text":"улыбку"}

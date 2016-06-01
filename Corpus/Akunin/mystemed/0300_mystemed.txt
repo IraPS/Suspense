@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"Было"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"его","gr":"APRO=abl,pl"},{"lex":"его","gr":"APRO=dat,pl"},{"lex":"его","gr":"APRO=gen,pl"},{"lex":"его","gr":"APRO=ins,pl"},{"lex":"его","gr":"APRO=nom,pl"},{"lex":"его","gr":"APRO=nom,sg,f"},{"lex":"его","gr":"APRO=acc,sg,m,anim"},{"lex":"его","gr":"APRO=gen,sg,m"},{"lex":"его","gr":"APRO=gen,sg,n"},{"lex":"его","gr":"APRO=acc,sg,n"},{"lex":"его","gr":"APRO=nom,sg,n"},{"lex":"его","gr":"APRO=abl,sg,f"},{"lex":"его","gr":"APRO=dat,sg,f"},{"lex":"его","gr":"APRO=gen,sg,f"},{"lex":"его","gr":"APRO=ins,sg,f"},{"lex":"его","gr":"APRO=abl,sg,m"},{"lex":"его","gr":"APRO=abl,sg,n"},{"lex":"его","gr":"APRO=dat,sg,m"},{"lex":"его","gr":"APRO=dat,sg,n"},{"lex":"его","gr":"APRO=acc,sg,f"},{"lex":"его","gr":"APRO=acc,pl,inan"},{"lex":"его","gr":"APRO=acc,sg,m,inan"},{"lex":"его","gr":"APRO=nom,sg,m"},{"lex":"его","gr":"APRO=ins,sg,m"},{"lex":"его","gr":"APRO=ins,sg,n"},{"lex":"его","gr":"APRO=acc,pl,anim"},{"lex":"его","gr":"APRO=abl,pl,n"},{"lex":"его","gr":"APRO=acc,pl,n"},{"lex":"его","gr":"APRO=dat,pl,n"},{"lex":"его","gr":"APRO=gen,pl,n"},{"lex":"его","gr":"APRO=ins,pl,n"},{"lex":"его","gr":"APRO=nom,pl,n"},{"lex":"его","gr":"APRO=abl,pl,m"},{"lex":"его","gr":"APRO=acc,pl,m"},{"lex":"его","gr":"APRO=acc,sg,m"},{"lex":"его","gr":"APRO=dat,pl,m"}],"text":"его"}
+{"analysis":[{"lex":"голос","gr":"S,m,inan=abl,sg"}],"text":"голосе"}
+{"analysis":[{"lex":"что-то","gr":"SPRO,sg,n,inan=acc"},{"lex":"что-то","gr":"SPRO,sg,n,inan=nom"}],"text":"что-то"}
+{"analysis":[{"lex":"такой","gr":"APRO=acc,sg,n"},{"lex":"такой","gr":"APRO=nom,sg,n"}],"text":"такое"}
+{"analysis":[{"lex":"отчего","gr":"ADVPRO="}],"text":"отчего"}
+{"analysis":[{"lex":"капитан","gr":"S,m,anim=nom,sg"}],"text":"капитан"}
+{"analysis":[{"lex":"настораживаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"насторожился"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"журналист","gr":"S,m,anim=acc,pl"},{"lex":"журналист","gr":"S,m,anim=gen,pl"}],"text":"журналистов"}
+{"analysis":[{"lex":"обращать","gr":"V,tran=inf,ipf"}],"text":"обращать"}
+{"analysis":[{"lex":"внимание","gr":"S,n,inan=acc,sg"},{"lex":"внимание","gr":"S,n,inan=nom,sg"}],"text":"внимание"}
+{"analysis":[{"lex":"переставать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"перестал"}

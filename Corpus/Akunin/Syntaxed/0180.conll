@@ -1,0 +1,13 @@
+1	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	почтительно	ПОЧТИТЕЛЬНО	ADV	ADV -	ADV -	3	обст	_	_
+3	взял	ВЗЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	листок	ЛИСТОК	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	звеня	ЗВЕНЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	обст	_	_
+8	шпорами	ШПОРА	S	S f inan ins pl	S f inan ins pl	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	побежал	ПОБЕЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+11	исполнять	ИСПОЛНЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

@@ -1,0 +1,112 @@
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	2	1-компл	_	_
+2	встали	ВСТАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	предик	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	заорали	ЗАОРАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	3	соч-союзн	_	_
+5	столь	СТОЛЬ	ADV	ADV -	ADV -	6	огранич	_	_
+6	оглушительно	ОГЛУШИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+9	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+10	испугалась	ИСПУГАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	подч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Никогда	НИКОГДА	ADV	ADV -	ADV -	5	обст	_	_
+2	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	5	1-компл	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	5	огранич	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	приветствовали	ПРИВЕТСТВОВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	таким	ТАКОЙ	A	A - ins sg plen m -	A - ins sg plen m -	8	опред	_	_
+7	активным	АКТИВНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	8	опред	_	_
+8	образом	ОБРАЗ	S	S m inan ins sg	S m inan ins sg	5	обст	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	зря	ЗРЯ	ADV	ADV -	ADV -	5	обст	_	_
+3	ли	ЛИ	PART	PART	PART	2	огранич	_	_
+4	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	5	предик	_	_
+5	приняла	ПРИНИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	приглашение	ПРИГЛАШЕНИЕ	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Баронесса	БАРОНЕССА	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+2	Врейская	ВРЕЙСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	1	опред	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	начальница	НАЧАЛЬНИЦА	S	S f anim nom sg	S f anim nom sg	1	об-аппоз	_	_
+5	походного	ПОХОДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	лазарета	ЛАЗАРЕТ	S	S m inan gen sg	S m inan gen sg	4	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	с	С	PR	PR	PR	11	обст	_	_
+9	персоналом	ПЕРСОНАЛ	S	S m inan ins sg	S m inan ins sg	8	предл	_	_
+10	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	квазиагент	_	_
+11	квартировала	КВАРТИРОВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+12	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	11	2-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	предупреждала	ПРЕДУПРЕЖДАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	11	сочин	_	_
+15	своих	СВОЙ	A	A - acc pl plen - anim	A - acc pl plen - anim	16	опред	_	_
+16	подопечных	ПОДОПЕЧНЫЙ	S	S m anim gen pl	S m anim gen pl	14	1-компл	_	_
+17	:	:	:	:	PUNC	19	опред	_	_
+18	–	–	–	–	PUNC	19	опред	_	_
+19	Mesdames	MESDAMES	NONLEX	NONLEX	NONLEX	16	1-компл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	держитесь	ДЕРЖАТЬСЯ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	14	сочин	_	_
+22	подальше	ДАЛЕКО	ADV	ADV comp	ADV comp	21	1-компл	_	_
+23	от	ОТ	PR	PR	PR	22	1-компл	_	_
+24	мужчин	МУЖЧИНА	S	S m anim gen pl	S m anim gen pl	23	предл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	когда	КОГДА	CONJ	CONJ	CONJ	22	обст	_	_
+27	те	ТОТ	A	A - nom pl plen - -	A - nom pl plen - -	28	предик	_	_
+28	разгорячены	РАЗГОРЯЧАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	26	подч-союзн	_	_
+29	боем	БОЙ	S	S m inan ins sg	S m inan ins sg	28	2-компл	_	_
+30	или	ИЛИ	CONJ	CONJ	CONJ	29	сочин	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	того	ТО	S	S n - gen sg	S n - gen sg	30	соч-союзн	_	_
+33	пуще	ПУЩЕ	ADV	ADV -	ADV -	32	обст	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	победой	ПОБЕДА	S	S f inan ins sg	S f inan ins sg	28	3-компл	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+
+1	В	В	PR	PR	PR	3	обст	_	_
+2	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	1	предл	_	_
+3	просыпается	ПРОСЫПАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	атавистическая	АТАВИСТИЧЕСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+5	дикость	ДИКОСТЬ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	любой	ЛЮБОЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	мужчина	МУЖЧИНА	S	S m anim nom sg	S m anim nom sg	7	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	хоть	ХОТЬ	PART	PART	PART	12	огранич	_	_
+12	бы	БЫ	PART	PART	PART	14	аналит	_	_
+13	даже	ДАЖЕ	PART	PART	PART	14	огранич	_	_
+14	выпускник	ВЫПУСКНИК	S	S m anim nom sg	S m anim nom sg	9	об-аппоз	_	_
+15	Пажеского	ПАЖЕСКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	16	опред	_	_
+16	корпуса	КОРПУС	S	S m inan gen sg	S m inan gen sg	14	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	на	НА	PR	PR	PR	20	обст	_	_
+19	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	18	предл	_	_
+20	превращается	ПРЕВРАЩАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	сент-соч	_	_
+21	в	В	PR	PR	PR	20	2-компл	_	_
+22	варвара	ВАРВАРА	S	S f inan acc sg	S f inan acc sg	21	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Дайте	ДАВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+2	им	ОНИ	SPRO	SPRO pl - - dat	SPRO pl - - dat	1	2-компл	_	_
+3	побыть	ПОБЫТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	мужской	МУЖСКОЙ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+6	компании	КОМПАНИЯ	S	S f inan gen sg	S f inan gen sg	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	поостыть	ПООСТЫНУТЬ	V	V pf - - inf - -	V pf - - inf - -	3	сочин	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	тогда	ТОГДА	ADV	ADV -	ADV -	14	обст	_	_
+12	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	14	предик	_	_
+13	снова	СНОВА	ADV	ADV -	ADV -	14	обст	_	_
+14	примут	ПРИНИМАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	10	соч-союзн	_	_
+15	цивилизованный	ЦИВИЛИЗОВАННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	16	опред	_	_
+16	облик	ОБЛИК	S	S m inan acc sg	S m inan acc sg	14	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	станут	СТАНОВИТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	14	сочин	_	_
+19	контролируемы	КОНТРОЛИРОВАТЬ	PARTCP	PARTCP ipf inpraes - pl brev - pass -	PARTCP ipf inpraes - pl brev - pass -	18	1-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

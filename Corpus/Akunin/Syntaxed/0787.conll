@@ -1,0 +1,28 @@
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	На	НА	PR	PR	PR	1	3-компл	_	_
+3	вопросы	ВОПРОС	S	S m inan acc pl	S m inan acc pl	2	предл	_	_
+4	отвечать	ОТВЕЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+5	громко	ГРОМКО	ADV	ADV -	ADV -	4	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	отчетливо	ОТЧЕТЛИВО	ADV	ADV -	ADV -	13	обст	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	обстоятельно	ОБСТОЯТЕЛЬНО	ADV	ADV -	ADV -	13	вводн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	 	 	 	 	PUNC	13	обст	_	_
+12	–	–	–	–	PUNC	13	1-компл	_	_
+13	инструктировал	ИНСТРУКТИРОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сент-соч	_	_
+14	на	НА	PR	PR	PR	13	обст	_	_
+15	ходу	ХОД	S	S m inan loc2 sg	S m inan loc2 sg	14	предл	_	_
+16	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Подробно	ПОДРОБНО	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	но	НО	CONJ	CONJ	CONJ	1	сочин	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	уклоняясь	УКЛОНЯТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	соч-союзн	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

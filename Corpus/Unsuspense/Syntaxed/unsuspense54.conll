@@ -1,0 +1,53 @@
+1	Метель	МЕТЕЛЬ	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	становилась	СТАНОВИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	сильнее	СИЛЬНО	ADV	ADV comp	ADV comp	2	обст	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Местами	МЕСТО	S	S n inan ins pl	S n inan ins pl	3	обст	_	_
+2	колею	КОЛЕЯ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+3	перемело	ПЕРЕМЕСТИ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+4	так	ТАК	ADV	ADV -	ADV -	3	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	шагов	ШАГ	S	S m inan gen pl	S m inan gen pl	9	предик	_	_
+8	десять	ДЕСЯТЬ	NUM	NUM acc - -	NUM acc - -	7	аппрокс-колич	_	_
+9	приходилось	ПРИХОДИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	6	подч-союзн	_	_
+10	идти	ИДТИ	V	V ipf - - inf - -	V ipf - - inf - -	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	увязая	УВЯЗАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	обст	_	_
+13	почти	ПОЧТИ	ADV	ADV -	ADV -	14	огранич	_	_
+14	до	ДО	PR	PR	PR	12	1-компл	_	_
+15	колен	КОЛЕНО	S	S n inan gen pl	S n inan gen pl	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Радостно	РАДОСТНО	ADV	ADV -	ADV -	2	присвяз	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	после	ПОСЛЕ	PR	PR	PR	2	обст	_	_
+4	этого	ЭТО	S	S n - gen sg	S n - gen sg	3	предл	_	_
+5	опять	ОПЯТЬ	ADV	ADV -	ADV -	6	обст	_	_
+6	почувствовать	ПОЧУВСТВОВАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+7	под	ПОД	PR	PR	PR	6	обст	_	_
+8	ногами	НОГА	S	S f inan ins pl	S f inan ins pl	7	предл	_	_
+9	твердую	ТВЕРДЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	10	опред	_	_
+10	опору	ОПОРА	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Хорошо	ХОРОШО	ADV	ADV -	ADV -	17	обст	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	17	обст	_	_
+5	в	В	PR	PR	PR	7	обст	_	_
+6	руках	РУКА	S	S f inan loc pl	S f inan loc pl	5	предл	_	_
+7	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	подч-союзн	_	_
+8	палка	ПАЛКА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	которой	КОТОРЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	12	2-компл	_	_
+11	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	12	предик	_	_
+12	нащупывал	НАЩУПЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	релят	_	_
+13	дорогу	ДОРОГА	S	S f inan acc sg	S f inan acc sg	12	1-компл	_	_
+14	там	ТАМ	ADV	ADV -	ADV -	12	обст	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	где	ГДЕ	ADV	ADV -	ADV -	17	обст	_	_
+17	перемело	ПЕРЕМЕСТИ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

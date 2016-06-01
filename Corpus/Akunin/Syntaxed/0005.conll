@@ -1,0 +1,57 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	зачем	ЗАЧЕМ	ADV	ADV -	ADV -	5	обст	_	_
+3	только	ТОЛЬКО	PART	PART	PART	5	огранич	_	_
+4	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	5	предик	_	_
+5	согласилась	СОГЛАШАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+6	сделать	СДЕЛАТЬ	V	V pf - - inf - -	V pf - - inf - -	5	1-компл	_	_
+7	остановку	ОСТАНОВКА	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+8	в	В	PR	PR	PR	6	обст	_	_
+9	корчме	КОРЧМА	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	или	ИЛИ	CONJ	CONJ	CONJ	6	сочин	_	_
+12	как	КАК	ADV	ADV -	ADV -	16	обст	_	_
+13	у	У	PR	PR	PR	16	1-компл	_	_
+14	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	13	предл	_	_
+15	тут	ТУТ	ADV	ADV -	ADV -	16	обст	_	_
+16	называется	НАЗЫВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	соч-союзн	_	_
+17	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	19	опред	_	_
+18	гнусный	ГНУСНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	19	опред	_	_
+19	притон	ПРИТОН	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+20	?	?	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Возница	ВОЗНИЦА	S	S - anim nom sg	S - anim nom sg	7	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	подлый	ПОДЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	вор	ВОР	S	S m anim nom sg	S m anim nom sg	1	об-аппоз	_	_
+5	Митко	МИТКО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	начал	НАЧИНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	ныть	НЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+9	:	:	:	:	PUNC	8	1-компл	_	_
+10	«	«	_	_	PUNC	9	PUNC	_	_
+11	Да	ДА	CONJ	CONJ	CONJ	7	обст	_	_
+12	запоим	ЗАПОИТЬ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	11	подч-союзн	_	_
+13	конете	КОНЕТ	S	S m inan loc sg	S m inan loc sg	12	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	да	ДА	CONJ	CONJ	CONJ	12	сочин	_	_
+16	запоим	ЗАПОИТЬ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	15	соч-союзн	_	_
+17	конете	КОНЕТ	S	S m inan loc sg	S m inan loc sg	16	1-компл	_	_
+18	»	»	_	_	PUNC	17	PUNC	_	_
+19	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	напоили	НАПОИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	соч-союзн	_	_
+4	коней	КОНЬ	S	S m anim acc pl	S m anim acc pl	3	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Господи	ГОСПОДИ	INTJ	INTJ	INTJ	6	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+4	ж	Ж	PART	PART	PART	3	огранич	_	_
+5	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	6	обст	_	_
+6	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	то	ТО	CONJ	CONJ	CONJ	6	сочин	_	_
+9	…	…	SENT	SENT	SENT	8	PUNC	_	_
+

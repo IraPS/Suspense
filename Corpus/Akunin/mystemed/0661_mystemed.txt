@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"На"}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=acc"},{"lex":"это","gr":"SPRO,sg,n,inan=nom"}],"text":"это"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"славно","gr":"ADV="}],"text":"Славно"}

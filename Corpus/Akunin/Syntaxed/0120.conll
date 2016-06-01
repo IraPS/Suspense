@@ -1,0 +1,42 @@
+1	Корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	снисходительно	СНИСХОДИТЕЛЬНО	ADV	ADV -	ADV -	3	обст	_	_
+3	улыбнулся	УЛЫБАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	промолчал	ПРОМОЛЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	за	ЗА	PR	PR	PR	9	3-компл	_	_
+8	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	7	предл	_	_
+9	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	релят	_	_
+10	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	до	ДО	PR	PR	PR	25	обст	_	_
+13	сей	СЕЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+14	поры	ПОРА	S	S f inan gen sg	S f inan gen sg	12	предл	_	_
+15	участия	УЧАСТИЕ	S	S n inan gen sg	S n inan gen sg	14	квазиагент	_	_
+16	в	В	PR	PR	PR	25	обст	_	_
+17	разговоре	РАЗГОВОР	S	S m inan loc sg	S m inan loc sg	16	предл	_	_
+18	почти	ПОЧТИ	ADV	ADV -	ADV -	20	огранич	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	принимавший	ПРИНИМАТЬ	PARTCP	PARTCP ipf praet acc sg plen m act inan	PARTCP ipf praet acc sg plen m act inan	25	1-компл	_	_
+21	:	:	:	:	PUNC	25	обст	_	_
+22	–	–	–	–	PUNC	25	1-компл	_	_
+23	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	25	предик	_	_
+24	же	ЖЕ	PART	PART	PART	23	огранич	_	_
+25	видели	ВИДЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	сент-соч	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	25	предик	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	что	ЧТО	CONJ	CONJ	CONJ	25	1-компл	_	_
+30	у	У	PR	PR	PR	33	1-компл	_	_
+31	б	Б	PART	PART	PART	30	предл	_	_
+32	-	-	-	-	PUNC	31	PUNC	_	_
+33	башибузуков	БАШИБУЗУК	S	S m anim gen pl	S m anim gen pl	29	подч-союзн	_	_
+34	кони	КОНЬ	S	S m anim nom pl	S m anim nom pl	35	предик	_	_
+35	свежие	СВЕЖИЙ	A	A - nom pl plen - -	A - nom pl plen - -	25	сент-соч	_	_
+36	,	,	,	,	PUNC	35	PUNC	_	_
+37	а	А	CONJ	CONJ	CONJ	35	сент-соч	_	_
+38	у	У	PR	PR	PR	40	1-компл	_	_
+39	преследователей	ПРЕСЛЕДОВАТЕЛЬ	S	S m anim gen pl	S m anim gen pl	38	предл	_	_
+40	заморенные	ЗАМОРЕННЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	37	соч-союзн	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+

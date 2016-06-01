@@ -1,0 +1,53 @@
+1	Второй	ВТОРОЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	этап	ЭТАП	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+3	путешествия	ПУТЕШЕСТВИЕ	S	S n inan gen sg	S n inan gen sg	2	квазиагент	_	_
+4	тоже	ТОЖЕ	PART	PART	PART	5	огранич	_	_
+5	прошел	ПРОХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	без	БЕЗ	PR	PR	PR	5	обст	_	_
+7	сучка	СУЧОК	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+8	без	БЕЗ	PR	PR	PR	5	обст	_	_
+9	задоринки	ЗАДОРИНКА	S	S f inan gen sg	S f inan gen sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	От	ОТ	PR	PR	PR	7	1-компл	_	_
+2	Букарешта	БУКАРЕШТА	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	до	ДО	PR	PR	PR	7	обст	_	_
+4	Турну	ТУРНУТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	3	предл	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	Мегуреле	МЕГУРЕЛЯ	S	S m inan gen sg	S m inan gen sg	4	1-компл	_	_
+7	ходил	ХОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+8	дилижанс	ДИЛИЖАНС	S	S m inan nom sg	S m inan nom sg	7	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Пришлось	ПРИХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+2	потрястись	ПОТРЯСАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	поглотать	ПОГЛОТАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	соч-союзн	_	_
+5	пыли	ПЫЛЬ	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	1	сент-соч	_	_
+8	зато	ЗАТО	CONJ	CONJ	CONJ	23	обст	_	_
+9	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	12	обст	_	_
+10	до	ДО	PR	PR	PR	12	обст	_	_
+11	цели	ЦЕЛЬ	S	S f inan gen sg	S f inan gen sg	10	предл	_	_
+12	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	8	подч-союзн	_	_
+13	рукой	РУКА	S	S f inan ins sg	S f inan ins sg	12	присвяз	_	_
+14	подать	ПОДАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	12	предик	_	_
+15	–	–	–	–	PUNC	14	1-компл	_	_
+16	по	ПО	PR	PR	PR	15	обст	_	_
+17	слухам	СЛУХ	S	S m inan dat pl	S m inan dat pl	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	главная	ГЛАВНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	20	опред	_	_
+20	квартира	КВАРТИРА	S	S f inan nom sg	S f inan nom sg	23	предик	_	_
+21	Дунайской	ДУНАЙСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	22	опред	_	_
+22	армии	АРМИЯ	S	S f inan gen sg	S f inan gen sg	20	квазиагент	_	_
+23	располагалась	РАСПОЛАГАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	7	соч-союзн	_	_
+24	на	НА	PR	PR	PR	23	обст	_	_
+25	том	ТОТ	A	A - loc sg plen m -	A - loc sg plen m -	26	опред	_	_
+26	берегу	БЕРЕГ	S	S m inan loc2 sg	S m inan loc2 sg	24	предл	_	_
+27	реки	РЕКА	S	S f inan gen sg	S f inan gen sg	26	квазиагент	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	в	В	PR	PR	PR	23	обст	_	_
+30	Царевицах	ЦАРЕВИЦА	S	S m inan loc sg	S m inan loc sg	29	предл	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+

@@ -1,0 +1,28 @@
+1	Вошел	ВХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	1	предик	_	_
+3	;	;	SENT	SENT	SENT	2	PUNC	_	_
+
+1	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	3	1-компл	_	_
+3	разглядел	РАЗГЛЯДЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	только	ТОЛЬКО	PART	PART	PART	5	огранич	_	_
+5	тогда	ТОГДА	ADV	ADV -	ADV -	3	обст	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	действительно	ДЕЙСТВИТЕЛЬНО	ADV	ADV -	ADV -	4	огранич	_	_
+4	черты	ЧЕРТА	S	S f inan nom pl	S f inan nom pl	6	предик	_	_
+5	лица	ЛИЦО	S	S n inan gen sg	S n inan gen sg	4	квазиагент	_	_
+6	правильные	ПРАВИЛЬНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	1	соч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Лет	ГОД	S	S m inan gen pl	S m inan gen pl	2	предл	_	_
+2	сорока	СОРОК	NUM	NUM loc - -	NUM loc - -	3	количест	_	_
+3	пяти	ПЯТЬ	NUM	NUM loc - -	NUM loc - -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	2	предик	_	_
+2	искрятся	ИСКРИТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

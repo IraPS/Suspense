@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"царь","gr":"S,m,anim=nom,sg"}],"text":"Царь"}
+{"analysis":[{"lex":"поморщиться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"поморщился"}
+{"analysis":[{"lex":"как","gr":"CONJ="}],"text":"как"}
+{"analysis":[{"lex":"от","gr":"PR="}],"text":"от"}
+{"analysis":[{"lex":"зубной","gr":"A=acc,sg,plen,m,inan"},{"lex":"зубной","gr":"A=nom,sg,plen,m"},{"lex":"зубной","gr":"A=abl,sg,plen,f"},{"lex":"зубной","gr":"A=dat,sg,plen,f"},{"lex":"зубной","gr":"A=gen,sg,plen,f"},{"lex":"зубной","gr":"A=ins,sg,plen,f"}],"text":"зубной"}
+{"analysis":[{"lex":"боль","gr":"S,f,inan=abl,sg"},{"lex":"боль","gr":"S,f,inan=acc,pl"},{"lex":"боль","gr":"S,f,inan=dat,sg"},{"lex":"боль","gr":"S,f,inan=gen,sg"},{"lex":"боль","gr":"S,f,inan=nom,pl"}],"text":"боли"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"а"}
+{"analysis":[{"lex":"мизин","qual":"bastard","gr":"S,m,inan=gen,pl"}],"text":"Мизинов"}
+{"analysis":[{"lex":"сокрушенно","gr":"ADV="}],"text":"сокрушенно"}
+{"analysis":[{"lex":"покачать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"покачал"}
+{"analysis":[{"lex":"голова","gr":"S,f,inan=ins,sg"}],"text":"головой"}

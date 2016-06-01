@@ -1,0 +1,95 @@
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	жил	ЖИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	14	1-компл	_	_
+5	в	В	PR	PR	PR	4	обст	_	_
+6	гостях	ГОСТЬ	S	S m anim loc pl	S m anim loc pl	5	предл	_	_
+7	у	У	PR	PR	PR	6	атриб	_	_
+8	турецкого	ТУРЕЦКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	паши	ПАША	S	S m anim gen sg	S m anim gen sg	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	 	 	 	 	PUNC	13	предик	_	_
+12	–	–	–	–	PUNC	13	1-компл	_	_
+13	вкрадчиво	ВКРАДЧИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	4	изъясн	_	_
+14	сообщила	СООБЩАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+15	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	14	предик	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	И	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	тебя	ТЫ	SPRO	SPRO sg 2p - acc	SPRO sg 2p - acc	5	1-компл	_	_
+4	там	ТАМ	ADV	ADV -	ADV -	5	обст	_	_
+5	опекал	ОПЕКАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	соч-союзн	_	_
+6	весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	гарем	ГАРЕМ	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	оживился	ОЖИВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	граф	ГРАФ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Ну	НУ	PART	PART	PART	3	огранич	_	_
+3	расскажи	РАССКАЗЫВАТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	будь	БЫТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	3	сочин	_	_
+7	скотиной	СКОТИНА	S	S - anim ins sg	S - anim ins sg	6	сочин	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	опред	_	_
+2	Не	НЕ	PART	PART	PART	3	огранич	_	_
+3	весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	г	Г	S	S m inan nonflex nonflex	S m inan nonflex nonflex	6	предик	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	гарем	ГАРЕМ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	6	сочин	_	_
+9	только	ТОЛЬКО	PART	PART	PART	10	огранич	_	_
+10	кучук	КУЧУК	S	S m anim nom sg	S m anim nom sg	8	соч-союзн	_	_
+11	-	-	-	-	PUNC	10	PUNC	_	_
+12	ханум	ХАНУМ	S	S m anim nom sg	S m anim nom sg	10	аппоз	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	 	 	 	 	PUNC	16	обст	_	_
+15	–	–	–	–	PUNC	16	1-компл	_	_
+16	пробурчал	ПРОБУРЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	сент-соч	_	_
+17	титулярный	ТИТУЛЯРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	18	опред	_	_
+18	советник	СОВЕТНИК	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	явно	ЯВНО	ADV	ADV -	ADV -	22	обст	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	желая	ЖЕЛАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	16	обст	_	_
+23	углубляться	УГЛУБЛЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	22	1-компл	_	_
+24	в	В	PR	PR	PR	23	2-компл	_	_
+25	подробности	ПОДРОБНОСТЬ	S	S f inan acc pl	S f inan acc pl	24	предл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	опред	_	_
+2	Очень	ОЧЕНЬ	ADV	ADV -	ADV -	3	огранич	_	_
+3	славная	СЛАВНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	отзывчивая	ОТЗЫВЧИВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	сочин	_	_
+6	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	девушка	ДЕВУШКА	S	S f anim nom sg	S f anim nom sg	6	вводн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вполне	ВПОЛНЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	современная	СОВРЕМЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	1	соч-союзн	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Знает	ЗНАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+2	французский	ФРАНЦУЗСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	предик	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	английский	АНГЛИЙСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	любит	ЛЮБИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	предик	_	_
+7	Байрона	БАЙРОН	S	S m anim acc sg	S m anim acc sg	6	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Медициной	МЕДИЦИНА	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	интересуется	ИНТЕРЕСОВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

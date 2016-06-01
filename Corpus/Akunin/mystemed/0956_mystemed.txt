@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"гукмас","qual":"bastard","gr":"S,persn,m,anim=acc,pl"},{"lex":"гукмас","qual":"bastard","gr":"S,persn,m,anim=gen,pl"}],"text":"Гукмасов"}
+{"analysis":[{"lex":"растерянно","gr":"ADV="}],"text":"растерянно"}
+{"analysis":[{"lex":"попятиться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"попятился"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"дверь","gr":"S,f,inan=acc,sg"},{"lex":"дверь","gr":"S,f,inan=nom,sg"}],"text":"дверь"}
+{"text":"\\s"}
+{"analysis":[{"lex":"едва","gr":"ADV="}],"text":"Едва"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=ins"}],"text":"ним"}
+{"analysis":[{"lex":"закрываться","gr":"V,intr=praet,pl,indic,pf"}],"text":"закрылись"}
+{"analysis":[{"lex":"створка","gr":"S,f,inan=acc,pl"},{"lex":"створка","gr":"S,f,inan=gen,sg"},{"lex":"створка","gr":"S,f,inan=nom,pl"}],"text":"створки"}
+{"analysis":[{"lex":"происходить","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"произошло"}
+{"analysis":[{"lex":"неожиданный","gr":"A=acc,sg,plen,n"},{"lex":"неожиданный","gr":"A=nom,sg,plen,n"}],"text":"неожиданное"}

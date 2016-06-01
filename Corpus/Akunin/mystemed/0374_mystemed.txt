@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"уже","gr":"ADV="}],"text":"Уже"}
+{"analysis":[{"lex":"жалеть","gr":"V,ipf,tran=inpraes,ger"}],"text":"жалея"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"приходить","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"пришла"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"сказала"}
+{"analysis":[{"lex":"граф","gr":"S,m,anim=nom,sg"}],"text":"Граф"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=dat"}],"text":"вам"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"стыдно","gr":"ADV,praed="}],"text":"стыдно"}
+{"text":"\\s"}
+{"analysis":[{"lex":"столько","gr":"NUM=acc"},{"lex":"столько","gr":"NUM=nom"}],"text":"Столько"}
+{"analysis":[{"lex":"человек","gr":"S,m,anim=acc,pl"},{"lex":"человек","gr":"S,m,anim=gen,pl"}],"text":"людей"}
+{"analysis":[{"lex":"погибать","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"погибло"}

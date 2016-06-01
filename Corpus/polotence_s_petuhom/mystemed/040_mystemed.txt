@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"назваться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"Назвался"}
+{"analysis":[{"lex":"груздь","gr":"S,m,inan=ins,sg"}],"text":"груздем"}
+{"analysis":[{"lex":"полезть","gr":"V,pf,intr=sg,imper,2p"}],"text":"полезай"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"кузов","gr":"S,m,inan=acc,sg"},{"lex":"кузов","gr":"S,m,inan=nom,sg"}],"text":"кузов"}
+{"analysis":[{"lex":"ехидно","gr":"ADV="}],"text":"ехидно"}
+{"analysis":[{"lex":"отзываться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"отозвался"}
+{"analysis":[{"lex":"голос","gr":"S,m,inan=acc,sg"},{"lex":"голос","gr":"S,m,inan=nom,sg"}],"text":"голос"}

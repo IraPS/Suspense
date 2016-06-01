@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"фу","gr":"INTJ="}],"text":"Фу"}
+{"analysis":[{"lex":"ты","gr":"SPRO,sg,2p=nom"}],"text":"ты"}
+{"analysis":[{"lex":"черт","gr":"S,m,anim=nom,sg"}],"text":"черт"}
+{"analysis":[{"lex":"подумать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"подумал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"как","gr":"ADVPRO="}],"text":"как"}
+{"analysis":[{"lex":"сговариваться","gr":"V,intr=praet,pl,indic,pf"}],"text":"сговорились"}
+{"analysis":[{"lex":"честный","gr":"A=acc,sg,plen,n"},{"lex":"честный","gr":"A=nom,sg,plen,n"}],"text":"честное"}
+{"analysis":[{"lex":"слово","gr":"S,n,inan=acc,sg"},{"lex":"слово","gr":"S,n,inan=nom,sg"}],"text":"слово"}

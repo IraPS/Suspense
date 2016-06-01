@@ -1,0 +1,82 @@
+1	Соболева	СОБОЛЕВА	S	S m anim gen sg	S m anim gen sg	8	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	в отличие от	в отличие от	PR	PR	ZERO	6	обст	_	_
+4	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	3	предл	_	_
+5	'	'	_	_	PUNC	4	PUNC	_	_
+6	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	1	разъяснит	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	жалко	ЖАЛКО	ADV	ADV -	ADV -	8	присвяз	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Во-первых	ВО-ПЕРВЫХ	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	насчет	НАСЧЕТ	PR	PR	PR	6	обст	_	_
+4	старта	СТАРТ	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	Мишель	МИШЕЛЬ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+6	прибеднялся	ПРИБЕДНЯТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	кокетничал	КОКЕТНИЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	сочин	_	_
+9	–	–	–	–	PUNC	11	предл	_	_
+10	все-таки	ВСЕ-ТАКИ	PART	PART	PART	11	огранич	_	_
+11	в	В	PR	PR	PR	8	обст	_	_
+12	тридцать	ТРИДЦАТЬ	NUM	NUM acc - -	NUM acc - -	9	аппрокс-колич	_	_
+13	три	ТРИ	NUM	NUM nom - -	NUM nom - -	14	количест	_	_
+14	года	ГОД	S	S m inan gen sg	S m inan gen sg	11	предл	_	_
+15	свитский	СВИТСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	16	опред	_	_
+16	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	16	опред	_	_
+19	«	«	_	_	PUNC	20	PUNC	_	_
+20	Георгия	ГЕОРГИЙ	S	S m anim gen sg	S m anim gen sg	18	1-компл	_	_
+21	»	»	_	_	PUNC	20	PUNC	_	_
+22	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+23	золотая	ЗОЛОТОЙ	A	A - nom sg plen f -	A - nom sg plen f -	22	соч-союзн	_	_
+24	шпага	ШПАГА	S	S f inan nom sg	S f inan nom sg	16	сочин	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	во-вторых	ВО-ВТОРЫХ	ADV	ADV -	ADV -	7	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	слишком	СЛИШКОМ	ADV	ADV -	ADV -	7	обст	_	_
+5	уж	УЖ	PART	PART	PART	4	огранич	_	_
+6	явно	ЯВНО	ADV	ADV -	ADV -	7	обст	_	_
+7	давил	ДАВИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+8	на	НА	PR	PR	PR	7	2-компл	_	_
+9	жалость	ЖАЛОСТЬ	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Видно	ВИДНО	ADV	ADV -	ADV -	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	в	В	PR	PR	PR	6	огранич	_	_
+5	бытность	БЫТНОСТЬ	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	юнкером	ЮНКЕР	S	S m anim ins sg	S m anim ins sg	7	присвяз	_	_
+7	объяснили	ОБЪЯСНЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+8	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	7	2-компл	_	_
+9	старшие	СТАРШИЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	опред	_	_
+10	товарищи	ТОВАРИЩ	S	S m anim nom pl	S m anim nom pl	7	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+13	любовная	ЛЮБОВНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	опред	_	_
+14	виктория	ВИКТОРИЯ	S	S f inan nom sg	S f inan nom sg	15	предик	_	_
+15	достигается	ДОСТИГАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	12	подч-союзн	_	_
+16	двумя	ДВА	NUM	NUM ins - -	NUM ins - -	17	количест	_	_
+17	путями	ПУТЬ	S	S m inan ins pl	S m inan ins pl	15	обст	_	_
+18	:	:	:	:	PUNC	15	1-компл	_	_
+19	либо	ЛИБО	CONJ	CONJ	CONJ	15	сочин	_	_
+20	кавалерийской	КАВАЛЕРИЙСКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	21	опред	_	_
+21	атакой	АТАКА	S	S f inan ins sg	S f inan ins sg	19	соч-союзн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	либо	ЛИБО	CONJ	CONJ	CONJ	21	сочин	_	_
+24	рытьем	РЫТЬЕ	S	S n inan ins sg	S n inan ins sg	23	соч-союзн	_	_
+25	апрошей	АПРОШ	S	S f inan nom sg	S f inan nom sg	24	компл-аппоз	_	_
+26	к	К	PR	PR	PR	25	1-компл	_	_
+27	падкому	ПАДКИЙ	A	A - dat sg plen m -	A - dat sg plen m -	26	предл	_	_
+28	на	НА	PR	PR	PR	25	2-компл	_	_
+29	сострадание	СОСТРАДАНИЕ	S	S n inan acc sg	S n inan acc sg	28	предл	_	_
+30	женскому	ЖЕНСКИЙ	A	A - dat sg plen m -	A - dat sg plen m -	31	опред	_	_
+31	сердцу	СЕРДЦЕ	S	S n inan dat sg	S n inan dat sg	25	1-компл	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"Но"}
+{"analysis":[{"lex":"то","gr":"SPRO,sg,n,inan=acc"},{"lex":"то","gr":"SPRO,sg,n,inan=nom"}],"text":"то"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"был"}
+{"analysis":[{"lex":"только","gr":"PART="}],"text":"только"}
+{"analysis":[{"lex":"дебют","gr":"S,m,inan=acc,sg"},{"lex":"дебют","gr":"S,m,inan=nom,sg"}],"text":"дебют"}
+{"analysis":[{"lex":"далее","gr":"ADV="}],"text":"далее"}
+{"analysis":[{"lex":"последовать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"последовал"}
+{"analysis":[{"lex":"миттельшпиль","gr":"S,m,inan=acc,sg"},{"lex":"миттельшпиль","gr":"S,m,inan=nom,sg"}],"text":"миттельшпиль"}

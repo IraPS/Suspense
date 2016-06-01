@@ -1,0 +1,121 @@
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Петербургские	ПЕТЕРБУРГСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	ведомости	ВЕДОМОСТЬ	S	S f inan nom pl	S f inan nom pl	14	предик	_	_
+4	»	»	_	_	PUNC	3	PUNC	_	_
+5	,	,	,	,	PUNC	3	PUNC	_	_
+6	8	8	NUM	NUM - - -	NUM - - -	3	аппоз	_	_
+7	(	(	_	_	PUNC	8	PUNC	_	_
+8	20	20	NUM	NUM - - -	NUM - - -	6	примыкат	_	_
+9	)	)	_	_	PUNC	8	PUNC	_	_
+10	января	ЯНВАРЬ	S	S m inan gen sg	S m inan gen sg	8	атриб	_	_
+11	1878	1878	NUM	NUM - - -	NUM - - -	12	опред	_	_
+12	г.	Г.	S	S - - nonflex nonflex	S - - nonflex nonflex	14	2-компл	_	_
+13	ТУРКИ	ТУРОК	S	S m anim nom pl	S m anim nom pl	14	предик	_	_
+14	ПРОСЯТ	ПРОСИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+15	МИРА	МИР	S	S m inan gen sg	S m inan gen sg	14	1-компл	_	_
+16	!	!	SENT	SENT	SENT	15	PUNC	_	_
+
+1	После	ПОСЛЕ	PR	PR	PR	26	обст	_	_
+2	Капитуляции	КАПИТУЛЯЦИЯ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	Вессель	ВЕССЕЛЬ	S	S m anim nom sg	S m anim nom sg	5	композ	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	паши	ПАША	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	после	ПОСЛЕ	PR	PR	PR	26	обст	_	_
+8	взятия	ВЗЯТИЕ	S	S n inan gen sg	S n inan gen sg	7	предл	_	_
+9	Филиппополя	ФИЛИППОПОЛЬ	S	S m anim gen sg	S m anim gen sg	8	квазиагент	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	сдачи	СДАЧА	S	S f inan gen sg	S f inan gen sg	10	соч-союзн	_	_
+12	древнего	ДРЕВНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	опред	_	_
+13	Адрианополя	АДРИАНОПОЛЬ	S	S m anim gen sg	S m anim gen sg	11	квазиагент	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	распахнувшего	РАСПАХНУТЬ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	13	опред	_	_
+16	вчера	ВЧЕРА	ADV	ADV -	ADV -	17	обст	_	_
+17	ворота	ВОРОТА	S	S - inan acc pl	S - inan acc pl	15	1-компл	_	_
+18	перед	ПЕРЕД	PR	PR	PR	15	2-компл	_	_
+19	казаками	КАЗАК	S	S m anim ins pl	S m anim ins pl	18	предл	_	_
+20	Белого	БЕЛЫЙ	S	S m anim acc sg	S m anim acc sg	15	1-компл	_	_
+21	Генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	20	1-компл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	участь	УЧАСТЬ	S	S f inan nom sg	S f inan nom sg	26	предик	_	_
+24	войны	ВОЙНА	S	S f inan gen sg	S f inan gen sg	23	квазиагент	_	_
+25	окончательно	ОКОНЧАТЕЛЬНО	ADV	ADV -	ADV -	26	обст	_	_
+26	решилась	РЕШАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	и	И	CONJ	CONJ	CONJ	26	сочин	_	_
+29	сегодня	СЕГОДНЯ	ADV	ADV -	ADV -	36	обст	_	_
+30	утром	УТРО	S	S n inan ins sg	S n inan ins sg	36	обст	_	_
+31	в	В	PR	PR	PR	30	2-компл	_	_
+32	расположение	РАСПОЛОЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	31	предл	_	_
+33	наших	НАШ	A	A - gen pl plen - -	A - gen pl plen - -	35	опред	_	_
+34	доблестных	ДОБЛЕСТНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	35	опред	_	_
+35	войск	ВОЙСКО	S	S n inan gen pl	S n inan gen pl	32	квазиагент	_	_
+36	прибыл	ПРИБЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	28	соч-союзн	_	_
+37	поезд	ПОЕЗД	S	S m inan nom sg	S m inan nom sg	36	предик	_	_
+38	с	С	PR	PR	PR	37	атриб	_	_
+39	турецкими	ТУРЕЦКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	40	опред	_	_
+40	парламентерами	ПАРЛАМЕНТЕР	S	S m inan ins pl	S m inan ins pl	38	предл	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+
+1	Состав	СОСТАВ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	задержан	ЗАДЕРЖИВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	обст	_	_
+4	Адрианополе	АДРИАНОПОЛЬ	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	паши	ПАША	S	S m anim gen sg	S m anim gen sg	8	предик	_	_
+8	переправлены	ПЕРЕПРАВЛЯТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	6	соч-союзн	_	_
+9	в	В	PR	PR	PR	8	2-компл	_	_
+10	штаб	ШТАБ	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+11	главнокомандующего	ГЛАВНОКОМАНДУЮЩИЙ	S	S m anim gen sg	S m anim gen sg	10	квазиагент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	квартирующего	КВАРТИРОВАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act anim	PARTCP ipf inpraes acc sg plen m act anim	8	обст	_	_
+14	в	В	PR	PR	PR	8	2-компл	_	_
+15	местечке	МЕСТЕЧКО	S	S n inan loc sg	S n inan loc sg	14	предл	_	_
+16	Германлы	ГЕРМАНЛЫ	ADV	ADV -	ADV -	8	обст	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	20	обст	_	_
+2	глава	ГЛАВА	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+3	турецкой	ТУРЕЦКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	4	опред	_	_
+4	делегации	ДЕЛЕГАЦИЯ	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+5	76	76	NUM	NUM - - -	NUM - - -	7	композ	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	летний	ЛЕТНИЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	Намык	НАМЫК	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	паша	ПАША	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+11	ознакомился	ОЗНАКОМЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+12	с	С	PR	PR	PR	11	1-компл	_	_
+13	предварительными	ПРЕДВАРИТЕЛЬНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	14	опред	_	_
+14	условиями	УСЛОВИЕ	S	S n inan ins pl	S n inan ins pl	12	предл	_	_
+15	мира	МИР	S	S m inan gen sg	S m inan gen sg	14	квазиагент	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	то	ТО	CONJ	CONJ	CONJ	1	соотнос	_	_
+18	в	В	PR	PR	PR	20	обст	_	_
+19	отчаянии	ОТЧАЯНИЕ	S	S n inan loc sg	S n inan loc sg	18	предл	_	_
+20	воскликнул	ВОСКЛИЦАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+21	:	:	:	:	PUNC	20	1-компл	_	_
+22	«	«	_	_	PUNC	21	PUNC	_	_
+23	Votre	VOTRE	NONLEX	NONLEX	NONLEX	21	аппоз	_	_
+24	arm	ARM	NONLEX	NONLEX	NONLEX	23	аппоз	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Je	JE	NONLEX	NONLEX	NONLEX	16	предик	_	_
+2	est	EST	NONLEX	NONLEX	NONLEX	1	аппоз	_	_
+3	victorieuse	VICTORIEUSE	NONLEX	NONLEX	NONLEX	2	аппоз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	votre	VOTRE	NONLEX	NONLEX	NONLEX	3	аппоз	_	_
+6	ambition	AMBITION	NONLEX	NONLEX	NONLEX	5	аппоз	_	_
+7	est	EST	NONLEX	NONLEX	NONLEX	6	аппоз	_	_
+8	satisfaite	SATISFAITE	NONLEX	NONLEX	NONLEX	7	аппоз	_	_
+9	et	ET	NONLEX	NONLEX	NONLEX	8	аппоз	_	_
+10	la	LA	NONLEX	NONLEX	NONLEX	9	аппоз	_	_
+11	Turkic	TURKIC	NONLEX	NONLEX	NONLEX	10	аппоз	_	_
+12	est	EST	NONLEX	NONLEX	NONLEX	11	аппоз	_	_
+13	d	D	NONLEX	NONLEX	NONLEX	12	аппоз	_	_
+14	'	'	_	_	PUNC	13	PUNC	_	_
+15	Jtruite	JTRUITE	NONLEX	NONLEX	NONLEX	13	аппоз	_	_
+16	!	!	!	!	PUNC	0	ROOT	_	_
+17	»	»	SENT	SENT	SENT	16	PUNC	_	_
+

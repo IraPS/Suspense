@@ -1,0 +1,199 @@
+1	Вскоре	ВСКОРЕ	ADV	ADV -	ADV -	2	обст	_	_
+2	прибегает	ПРИБЕГАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	4	атриб	_	_
+4	помощник	ПОМОЩНИК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	соч-союзн	_	_
+7	:	:	:	:	PUNC	8	опред	_	_
+8	—	—	—	—	PUNC	6	3-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Кроме	КРОМЕ	PR	PR	PR	5	вводн	_	_
+2	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	пчёлы	ПЧЕЛА	S	S f anim nom pl	S f anim nom pl	5	предик	_	_
+5	укусили	УКУСИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+6	в	В	PR	PR	PR	5	1-компл	_	_
+7	щеку	ЩЕКА	S	S f inan ins sg	S f inan ins sg	6	предл	_	_
+8	дежурного	ДЕЖУРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	телеграфиста	ТЕЛЕГРАФИСТ	S	S m anim gen sg	S m anim gen sg	7	квазиагент	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+3	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	4	обст	_	_
+4	отказывается	ОТКАЗЫВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+5	работать	РАБОТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Начальник	НАЧАЛЬНИК	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	станции	СТАНЦИЯ	S	S f inan gen sg	S f inan gen sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	лежа	ЛЕЖАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	обст	_	_
+5	на	НА	PR	PR	PR	4	1-компл	_	_
+6	диване	ДИВАН	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+9	:	:	:	:	PUNC	10	опред	_	_
+10	—	—	—	—	PUNC	8	3-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Ай	АЙ	INTJ	INTJ	INTJ	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Тут	ТУТ	ADV	ADV -	ADV -	2	обст	_	_
+2	прибегает	ПРИБЕГАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	ещё	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	5	количест	_	_
+5	служащий	СЛУЖАЩИЙ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	соч-союзн	_	_
+8	начальнику	НАЧАЛЬНИК	S	S m anim dat sg	S m anim dat sg	7	2-компл	_	_
+9	:	:	:	:	PUNC	10	опред	_	_
+10	—	—	—	—	PUNC	7	3-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Билетная	БИЛЕТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	кассирша	КАССИРША	S	S f anim nom sg	S f anim nom sg	12	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	то есть	то есть	ADV	ADV -	-	5	огранич	_	_
+5	ваша	ВАШ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	жена	ЖЕНА	S	S f anim nom sg	S f anim nom sg	2	об-аппоз	_	_
+7	Клавдия	КЛАВДИЯ	S	S f anim nom sg	S f anim nom sg	6	аппоз	_	_
+8	Ивановна	ИВАНОВНА	S	S f anim nom sg	S f anim nom sg	7	аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	сию	СЕЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+11	минуту	МИНУТА	S	S f inan acc sg	S f inan acc sg	12	агент	_	_
+12	укушена	УКУСИТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	0	ROOT	_	_
+13	в	В	PR	PR	PR	12	2-компл	_	_
+14	нос	НОС	S	S m inan acc sg	S m inan acc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Наружность	НАРУЖНОСТЬ	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+2	её	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	1	квазиагент	_	_
+3	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	5	обст	_	_
+4	окончательно	ОКОНЧАТЕЛЬНО	ADV	ADV -	ADV -	5	обст	_	_
+5	испортилась	ИСПОРТИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Начальник	НАЧАЛЬНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	станции	СТАНЦИЯ	S	S f inan gen sg	S f inan gen sg	1	1-компл	_	_
+3	застонал	ЗАСТОНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	сильнее	СИЛЬНО	ADV	ADV comp	ADV comp	3	обст	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+7	:	:	:	:	PUNC	8	опред	_	_
+8	—	—	—	—	PUNC	6	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Надо	НАДО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	скорей	СКОРО	ADV	ADV comp	ADV comp	3	обст	_	_
+3	вернуть	ВЕРНУТЬ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+4	платформу	ПЛАТФОРМА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	с	С	PR	PR	PR	4	1-компл	_	_
+6	этим	ЭТОТ	A	A - dat pl plen - -	A - dat pl plen - -	8	опред	_	_
+7	сумасшедшим	СУМАСШЕДШИЙ	A	A - ins sg plen m -	A - ins sg plen m -	8	опред	_	_
+8	пчеловодом	ПЧЕЛОВОД	S	S m anim ins sg	S m anim ins sg	5	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Начальник	НАЧАЛЬНИК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	соскочил	СОСКАКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	с	С	PR	PR	PR	2	1-компл	_	_
+4	дивана	ДИВАН	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+7	звонить	ЗВОНИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	1-компл	_	_
+8	по	ПО	PR	PR	PR	7	обст	_	_
+9	телефону	ТЕЛЕФОН	S	S m inan dat sg	S m inan dat sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	со	СО	PR	PR	PR	6	обст	_	_
+3	следующей	СЛЕДУЮЩИЙ	A	A - loc sg plen f -	A - loc sg plen f -	4	опред	_	_
+4	станции	СТАНЦИЯ	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+5	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	6	2-компл	_	_
+6	ответили	ОТВЕЧАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	соч-союзн	_	_
+7	:	:	:	:	PUNC	8	опред	_	_
+8	—	—	—	—	PUNC	6	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Ладно	ЛАДНО	PART	PART	PART	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Платформу	ПЛАТФОРМА	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+2	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	3	обст	_	_
+3	отцепим	ОТЦЕПЛЯТЬ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	только	ТОЛЬКО	PART	PART	PART	3	огранич	_	_
+3	у	У	PR	PR	PR	6	обст	_	_
+4	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	3	предл	_	_
+5	нет	НЕТ	PART	PART	PART	6	огранич	_	_
+6	паровоза	ПАРОВОЗ	S	S m inan gen sg	S m inan gen sg	7	1-компл	_	_
+7	доставить	ДОСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	8	1-компл	_	_
+8	её	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	0	ROOT	_	_
+9	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	8	2-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Начальник	НАЧАЛЬНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	станции	СТАНЦИЯ	S	S f inan gen sg	S f inan gen sg	1	1-компл	_	_
+3	кричит	КРИЧАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	:	:	:	:	PUNC	5	опред	_	_
+5	—	—	—	—	PUNC	3	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Паровоз	ПАРОВОЗ	S	S m inan nom sg	S m inan nom sg	3	огранич	_	_
+2	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	3	предик	_	_
+3	пришлём	ПРИСЫЛАТЬ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Отцепляйте	ОТЦЕПЛЯТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	0	ROOT	_	_
+2	платформу	ПЛАТФОРМА	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+3	поскорей	СКОРО	ADV	ADV comp	ADV comp	1	обст	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Уже	УЖЕ	ADV	ADV -	ADV -	2	огранич	_	_
+2	мою	МОЙ	A	A - acc sg plen f -	A - acc sg plen f -	3	опред	_	_
+3	супругу	СУПРУГА	S	S f anim acc sg	S f anim acc sg	5	1-компл	_	_
+4	пчёлы	ПЧЕЛА	S	S f anim nom pl	S f anim nom pl	5	предик	_	_
+5	укусили	УКУСИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Моя	МОЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	станция	СТАНЦИЯ	S	S f inan nom sg	S f inan nom sg	4	1-компл	_	_
+3	Поля	ПОЛЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+4	опустела	ОПУСТЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	пассажиры	ПАССАЖИР	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+3	спрятались	СПРЯТАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	сарай	САРАЙ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Только	ТОЛЬКО	PART	PART	PART	2	огранич	_	_
+2	одни	ОДИН	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	пчёлы	ПЧЕЛА	S	S f anim nom pl	S f anim nom pl	4	предик	_	_
+4	носятся	НОСИТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+5	по	ПО	PR	PR	PR	4	обст	_	_
+6	воздуху	ВОЗДУХ	S	S m inan dat sg	S m inan dat sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	отказываюсь	ОТКАЗЫВАТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	соч-союзн	_	_
+4	выходить	ВЫХОДИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	на	НА	PR	PR	PR	4	2-компл	_	_
+6	улицу	УЛИЦА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	пускай	ПУСКАЙ	CONJ	CONJ	CONJ	3	обст	_	_
+9	происходят	ПРОИСХОДИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	8	подч-союзн	_	_
+10	крушения	КРУШЕНИЕ	S	S n inan gen sg	S n inan gen sg	9	1-компл	_	_
+11	!	!	SENT	SENT	SENT	10	PUNC	_	_
+

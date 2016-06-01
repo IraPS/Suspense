@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"новгородец","gr":"S,m,anim=acc,pl"},{"lex":"новгородец","gr":"S,m,anim=gen,pl"}],"text":"Новгородцев"}
+{"analysis":[{"lex":"откашливаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"откашлялся"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"заливаться","gr":"V,intr=praet,ger,pf"}],"text":"залившись"}
+{"analysis":[{"lex":"краска","gr":"S,f,inan=ins,sg"}],"text":"краской"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"стал"}
+{"analysis":[{"lex":"читать","gr":"V,ipf,tran=inf"}],"text":"читать"}

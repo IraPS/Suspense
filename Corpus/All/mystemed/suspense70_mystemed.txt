@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"мялка","gr":"S,f,inan=acc,sg"}],"text":"мялку"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"мялка","gr":"S,f,inan=acc,sg"}],"text":"мялку"}
+{"analysis":[{"lex":"переспрашивать","gr":"V=praet,sg,indic,m,pf"}],"text":"переспросил"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=acc"},{"lex":"это","gr":"SPRO,sg,n,inan=nom"}],"text":"это"}
+{"analysis":[{"lex":"такой","gr":"APRO=acc,sg,n"},{"lex":"такой","gr":"APRO=nom,sg,n"}],"text":"такое"}

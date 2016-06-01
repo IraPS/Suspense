@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"хорошо","gr":"PART="}],"text":"Хорошо"}
+{"analysis":[{"lex":"поручик","gr":"S,m,anim=nom,sg"}],"text":"поручик"}
+{"text":"\\s"}
+{"analysis":[{"lex":"п","gr":"S,abbr=abl,pl"},{"lex":"п","gr":"S,abbr=abl,sg"},{"lex":"п","gr":"S,abbr=acc,pl"},{"lex":"п","gr":"S,abbr=acc,sg"},{"lex":"п","gr":"S,abbr=dat,pl"},{"lex":"п","gr":"S,abbr=dat,sg"},{"lex":"п","gr":"S,abbr=gen,pl"},{"lex":"п","gr":"S,abbr=gen,sg"},{"lex":"п","gr":"S,abbr=ins,pl"},{"lex":"п","gr":"S,abbr=ins,sg"},{"lex":"п","gr":"S,abbr=nom,pl"},{"lex":"п","gr":"S,abbr=nom,sg"}],"text":"П"}
+{"analysis":[{"lex":"перевозить","gr":"V=pl,imper,2p,pf"}],"text":"перевезите"}
+{"analysis":[{"lex":"убивать","gr":"V,tran=praet,acc,sg,partcp,plen,m,pf,pass,anim"},{"lex":"убивать","gr":"V,tran=praet,gen,sg,partcp,plen,m,pf,pass"},{"lex":"убивать","gr":"V,tran=praet,gen,sg,partcp,plen,n,pf,pass"}],"text":"убитого"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"лагерь","gr":"S,m,inan=acc,sg"},{"lex":"лагерь","gr":"S,m,inan=nom,sg"}],"text":"лагерь"}
+{"text":"\\s"}
+{"analysis":[{"lex":"ехать","gr":"V,ipf,intr=sg,imper,1p"}],"text":"Едемте"}
+{"analysis":[{"lex":"варвара","gr":"S,persn,f,anim=nom,sg"}],"text":"Варвара"}
+{"analysis":[{"lex":"андреевна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Андреевна"}

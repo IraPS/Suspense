@@ -1,0 +1,18 @@
+1	С	С	PR	PR	PR	5	обст	_	_
+2	этими	ЭТОТ	A	A - ins pl plen - -	A - ins pl plen - -	3	опред	_	_
+3	словами	СЛОВО	S	S n inan ins pl	S n inan ins pl	1	предл	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+5	развязал	РАЗВЯЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	галстук	ГАЛСТУК	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	сделал	СДЕЛАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	сочин	_	_
+9	из	ИЗ	PR	PR	PR	8	1-компл	_	_
+10	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	9	предл	_	_
+11	плотный	ПЛОТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	опред	_	_
+12	ком	КОМ	S	S m inan nom sg	S m inan nom sg	8	предик	_	_
+13	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+14	положил	ПОЛАГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+15	в	В	PR	PR	PR	14	2-компл	_	_
+16	карман	КАРМАН	S	S m inan acc sg	S m inan acc sg	15	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

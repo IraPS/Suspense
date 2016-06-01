@@ -1,0 +1,67 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	3	количест	_	_
+3	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	1	1-компл	_	_
+4	седьмого	СЕДЬМОЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	квазиагент	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	2	1-компл	_	_
+2	понадобился	ПОНАДОБИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	«	«	_	_	PUNC	2	PUNC	_	_
+4	весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+5	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	балаган	БАЛАГАН	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+7	»	»	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	2	обст	_	_
+10	выиграть	ВЫИГРЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	инф-союзн	_	_
+11	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	10	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Кстати	КСТАТИ	ADV	ADV -	ADV -	7	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	за	ЗА	PR	PR	PR	7	обст	_	_
+4	мсье	МСЬЕ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	3	предл	_	_
+5	младшего	МЛАДШИЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	лейтенанта	ЛЕЙТЕНАНТ	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+7	можете	МОЧЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+8	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+9	спокойны	СПОКОЙНЫЙ	A	A - - pl brev - -	A - - pl brev - -	8	присвяз	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Зная	ЗНАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	7	предик	_	_
+5	к	К	PR	PR	PR	7	2-компл	_	_
+6	нему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	5	предл	_	_
+7	привязаны	ПРИВЯЗЫВАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	3	подч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	12	предик	_	_
+10	всего	ВСЕГО	PART	PART	PART	12	огранич	_	_
+11	лишь	ЛИШЬ	PART	PART	PART	12	огранич	_	_
+12	продырявил	ПРОДЫРЯВЛИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+13	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	12	неакт-компл	_	_
+14	ляжку	ЛЯЖКА	S	S f inan acc sg	S f inan acc sg	12	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	12	сочин	_	_
+17	страшного	СТРАШНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	16	сочин	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+2	потом	ПОТОМ	ADV	ADV -	ADV -	3	обст	_	_
+3	хвастаться	ХВАСТАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	1	предик	_	_
+4	боевым	БОЕВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	5	опред	_	_
+5	ранением	РАНЕНИЕ	S	S n inan ins sg	S n inan ins sg	3	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	жандармы	ЖАНДАРМ	S	S m anim nom pl	S m anim nom pl	0	ROOT	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+4	ж	Ж	PART	PART	PART	3	огранич	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	такая	ТАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+7	у	У	PR	PR	PR	6	атриб	_	_
+8	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	7	предл	_	_
+9	служба	СЛУЖБА	S	S f inan nom sg	S f inan nom sg	3	подч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

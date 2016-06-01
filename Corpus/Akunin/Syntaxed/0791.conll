@@ -1,0 +1,42 @@
+1	Наблюдение	НАБЛЮДЕНИЕ	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+2	первое	ПЕРВЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	1	опред	_	_
+3	:	:	:	:	PUNC	0	ROOT	_	_
+4	да	ДА	CONJ	CONJ	CONJ	3	сент-соч	_	_
+5	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+6	совсем	СОВСЕМ	ADV	ADV -	ADV -	7	огранич	_	_
+7	старик	СТАРИК	S	S m anim nom sg	S m anim nom sg	4	соч-союзн	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Набрякшие	НАБРЯКНУТЬ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	4	опред	_	_
+2	веки	ВЕКО	S	S n inan acc pl	S n inan acc pl	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	бакенбарды	БАКЕНБАРДА	S	S f inan nom pl	S f inan nom pl	12	предик	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	подкрученные	ПОДКРУЧИВАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	7	опред	_	_
+7	усы	УС	S	S m inan nom pl	S m inan nom pl	5	соч-союзн	_	_
+8	с	С	PR	PR	PR	7	атриб	_	_
+9	сильной	СИЛЬНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	10	опред	_	_
+10	проседью	ПРОСЕДЬ	S	S f inan ins sg	S f inan ins sg	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	пальцы	ПАЛЕЦ	S	S m inan acc pl	S m inan acc pl	15	1-компл	_	_
+13	узловатые	УЗЛОВАТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	подагрические	ПОДАГРИЧЕСКИЙ	A	A comp2 - - plen - -	A comp2 - - plen - -	0	ROOT	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	ведь	ВЕДЬ	PART	PART	PART	1	огранич	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+4	то	ТО	S	S n - nom sg	S n - nom sg	9	опред	_	_
+5	–	–	–	–	PUNC	9	опред	_	_
+6	в	В	PR	PR	PR	5	обст	_	_
+7	следующем	СЛЕДУЮЩИЙ	A	A - loc sg plen m -	A - loc sg plen m -	8	опред	_	_
+8	году	ГОД	S	S m inan loc2 sg	S m inan loc2 sg	6	предл	_	_
+9	шестьдесят	ШЕСТЬДЕСЯТ	NUM	NUM acc - -	NUM acc - -	3	соч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Почти	ПОЧТИ	ADV	ADV -	ADV -	2	огранич	_	_
+2	бабушкин	БАБУШКИН	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	ровесник	РОВЕСНИК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

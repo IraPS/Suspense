@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"Она"}
+{"analysis":[{"lex":"ударять","gr":"V,tran=praet,sg,indic,f,pf"}],"text":"ударила"}
+{"analysis":[{"lex":"конек","gr":"S,m=acc,sg,anim"},{"lex":"конек","gr":"S,m=gen,sg,anim"},{"lex":"конек","gr":"S,m=gen,sg,inan"}],"text":"конька"}
+{"analysis":[{"lex":"каблук","gr":"S,m,inan=ins,sg"}],"text":"каблуком"}
+{"analysis":[{"lex":"чтоб","gr":"CONJ="}],"text":"чтоб"}
+{"analysis":[{"lex":"скоро","gr":"ADV=comp"}],"text":"поскорее"}
+{"analysis":[{"lex":"проехать","gr":"V,pf,intr=inf"}],"text":"проехать"}
+{"analysis":[{"lex":"этот","gr":"APRO=acc,sg,m,inan"},{"lex":"этот","gr":"APRO=nom,sg,m"}],"text":"этот"}
+{"analysis":[{"lex":"жуткий","gr":"A=acc,sg,plen,m,inan"},{"lex":"жуткий","gr":"A=nom,sg,plen,m"}],"text":"жуткий"}
+{"analysis":[{"lex":"зал","gr":"S,m,inan=acc,sg"},{"lex":"зал","gr":"S,m,inan=nom,sg"}],"text":"зал"}
+{"analysis":[{"lex":"ожидание","gr":"S,n,inan=acc,pl"},{"lex":"ожидание","gr":"S,n,inan=gen,sg"},{"lex":"ожидание","gr":"S,n,inan=nom,pl"}],"text":"ожидания"}

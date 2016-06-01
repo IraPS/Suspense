@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"свита","gr":"S,f,inan=acc,pl"},{"lex":"свита","gr":"S,f,inan=gen,sg"},{"lex":"свита","gr":"S,f,inan=nom,pl"}],"text":"Свиты"}
+{"analysis":[{"lex":"его","gr":"APRO=abl,pl"},{"lex":"его","gr":"APRO=dat,pl"},{"lex":"его","gr":"APRO=gen,pl"},{"lex":"его","gr":"APRO=ins,pl"},{"lex":"его","gr":"APRO=nom,pl"},{"lex":"его","gr":"APRO=nom,sg,f"},{"lex":"его","gr":"APRO=acc,sg,m,anim"},{"lex":"его","gr":"APRO=gen,sg,m"},{"lex":"его","gr":"APRO=gen,sg,n"},{"lex":"его","gr":"APRO=acc,sg,n"},{"lex":"его","gr":"APRO=nom,sg,n"},{"lex":"его","gr":"APRO=abl,sg,f"},{"lex":"его","gr":"APRO=dat,sg,f"},{"lex":"его","gr":"APRO=gen,sg,f"},{"lex":"его","gr":"APRO=ins,sg,f"},{"lex":"его","gr":"APRO=abl,sg,m"},{"lex":"его","gr":"APRO=abl,sg,n"},{"lex":"его","gr":"APRO=dat,sg,m"},{"lex":"его","gr":"APRO=dat,sg,n"},{"lex":"его","gr":"APRO=acc,sg,f"},{"lex":"его","gr":"APRO=acc,pl,inan"},{"lex":"его","gr":"APRO=acc,sg,m,inan"},{"lex":"его","gr":"APRO=nom,sg,m"},{"lex":"его","gr":"APRO=ins,sg,m"},{"lex":"его","gr":"APRO=ins,sg,n"},{"lex":"его","gr":"APRO=acc,pl,anim"},{"lex":"его","gr":"APRO=abl,pl,n"},{"lex":"его","gr":"APRO=acc,pl,n"},{"lex":"его","gr":"APRO=dat,pl,n"},{"lex":"его","gr":"APRO=gen,pl,n"},{"lex":"его","gr":"APRO=ins,pl,n"},{"lex":"его","gr":"APRO=nom,pl,n"},{"lex":"его","gr":"APRO=abl,pl,m"},{"lex":"его","gr":"APRO=acc,pl,m"},{"lex":"его","gr":"APRO=acc,sg,m"},{"lex":"его","gr":"APRO=dat,pl,m"}],"text":"его"}
+{"analysis":[{"lex":"императорский","gr":"A=acc,sg,plen,m,anim"},{"lex":"императорский","gr":"A=gen,sg,plen,m"},{"lex":"императорский","gr":"A=gen,sg,plen,n"}],"text":"императорского"}
+{"analysis":[{"lex":"величество","gr":"S,n,inan=acc,pl"},{"lex":"величество","gr":"S,n,inan=gen,sg"},{"lex":"величество","gr":"S,n,inan=nom,pl"}],"text":"величества"}
+{"analysis":[{"lex":"генерал-майор","gr":"S,m,anim=nom,sg"}],"text":"генерал-майор"}
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"analysis":[{"lex":"второй","gr":"ANUM=abl,sg,f"},{"lex":"второй","gr":"ANUM=dat,sg,f"},{"lex":"второй","gr":"ANUM=gen,sg,f"},{"lex":"второй","gr":"ANUM=ins,sg,f"},{"lex":"второй","gr":"ANUM=acc,sg,m,inan"},{"lex":"второй","gr":"ANUM=nom,sg,m"}],"text":"второй"}
+{"analysis":[{"lex":"представляться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"представился"}
+{"analysis":[{"lex":"мишель","gr":"S,persn,m,anim=nom,sg"}],"text":"Мишель"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"вопросительно","gr":"ADV="}],"text":"вопросительно"}
+{"analysis":[{"lex":"взглядывать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"взглянул"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=acc,sg"},{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=gen,sg"}],"text":"Фандорина"}

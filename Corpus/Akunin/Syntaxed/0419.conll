@@ -1,0 +1,69 @@
+1	–	–	–	–	PUNC	3	опред	_	_
+2	Экое	ЭКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	3	опред	_	_
+3	бельвю	БЕЛЬВЮ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	3	вводн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Природа	ПРИРОДА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+4	как-то	КАК-ТО	ADV	ADV -	ADV -	2	обст	_	_
+5	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	2	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	выйдя	ВЫХОДИТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+8	из	ИЗ	PR	PR	PR	7	1-компл	_	_
+9	прокуренного	ПРОКУРИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	10	опред	_	_
+10	пресс-клуба	ПРЕСС-КЛУБ	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+11	вслед	ВСЛЕД	ADV	ADV -	ADV -	7	обст	_	_
+12	за	ЗА	PR	PR	PR	11	1-компл	_	_
+13	Варей	ВАРЯ	S	S f anim ins sg	S f anim ins sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	которой	КОТОРЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	16	предик	_	_
+16	вздумалось	ВЗДУМАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	2	изъясн	_	_
+17	полюбоваться	ПОЛЮБОВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	16	1-компл	_	_
+18	закатом	ЗАКАТ	S	S m inan ins sg	S m inan ins sg	17	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	теряя	ТЕРЯТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	обст	_	_
+5	темпа	ТЕМП	S	S m inan gen sg	S m inan gen sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	сменил	СМЕНИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+8	тему	ТЕМА	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Славный	СЛАВНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+4	Эразм	ЭРАЗМ	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	правда	ПРАВДА	ADV	ADV -	ADV -	1	сент-соч	_	_
+8	ли	ЛИ	PART	PART	PART	7	огранич	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Душой	ДУША	S	S f inan ins sg	S f inan ins sg	0	ROOT	_	_
+2	чист	ЧИСТЫЙ	A	A - - sg brev m -	A - - sg brev m -	1	присвяз	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+5	простыня	ПРОСТЫНЯ	S	S f inan nom sg	S f inan nom sg	4	сравн-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	отличный	ОТЛИЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	товарищ	ТОВАРИЩ	S	S m anim nom sg	S m anim nom sg	1	соч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	хоть	ХОТЬ	CONJ	CONJ	CONJ	1	соотнос	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	конечно	КОНЕЧНО	ADV	ADV -	ADV -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	бука	БУК	S	S m inan gen sg	S m inan gen sg	9	соч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

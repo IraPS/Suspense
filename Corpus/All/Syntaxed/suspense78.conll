@@ -1,0 +1,30 @@
+1	Самое	САМЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+2	смешное	СМЕШНОЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+3	из	ИЗ	PR	PR	PR	2	атриб	_	_
+4	всей	ВЕСЬ	A	A - loc sg plen f -	A - loc sg plen f -	0	ROOT	_	_
+5	этой	ЭТОТ	A	A - loc sg plen f -	A - loc sg plen f -	0	ROOT	_	_
+6	истории	ИСТОРИЯ	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+7	это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+8	то	ТО	S	S n - nom sg	S n - nom sg	7	огранич	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	8	эксплет	_	_
+11	вскоре	ВСКОРЕ	ADV	ADV -	ADV -	13	обст	_	_
+12	бумажка	БУМАЖКА	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+13	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	10	подч-союзн	_	_
+14	возвращена	ВОЗВРАЩАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	13	пасс-анал	_	_
+15	назад	НАЗАД	ADV	ADV -	ADV -	14	обст	_	_
+16	с	С	PR	PR	PR	15	1-компл	_	_
+17	резолюцией	РЕЗОЛЮЦИЯ	S	S f inan ins sg	S f inan ins sg	16	предл	_	_
+18	заведующего	ЗАВЕДУЮЩИЙ	S	S m anim gen sg	S m anim gen sg	17	квазиагент	_	_
+19	складом	СКЛАД	S	S m inan ins sg	S m inan ins sg	17	сочин	_	_
+20	:	:	:	:	PUNC	13	сочин	_	_
+21	«	«	_	_	PUNC	20	PUNC	_	_
+22	Отказать	ОТКАЗЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	13	1-компл	_	_
+23	за	ЗА	PR	PR	PR	22	обст	_	_
+24	неимением	НЕИМЕНИЕ	S	S n inan ins sg	S n inan ins sg	23	предл	_	_
+25	на	НА	PR	PR	PR	24	1-компл	_	_
+26	складе	СКЛАД	S	S m inan loc sg	S m inan loc sg	25	предл	_	_
+27	кочерёжек	КОЧЕРЕЖКА	S	S f inan gen pl	S f inan gen pl	26	квазиагент	_	_
+28	»	»	_	_	PUNC	27	PUNC	_	_
+29	.	.	SENT	SENT	SENT	27	PUNC	_	_
+

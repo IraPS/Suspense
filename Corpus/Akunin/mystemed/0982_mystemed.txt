@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"С"}
+{"analysis":[{"lex":"этот","gr":"APRO=ins,pl"}],"text":"этими"}
+{"analysis":[{"lex":"слово","gr":"S,n,inan=ins,pl"}],"text":"словами"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"развязывать","gr":"V=praet,sg,indic,m,pf"}],"text":"развязал"}
+{"analysis":[{"lex":"галстук","gr":"S,m,inan=acc,sg"},{"lex":"галстук","gr":"S,m,inan=nom,sg"}],"text":"галстук"}
+{"analysis":[{"lex":"сделать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сделал"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=acc"},{"lex":"он","gr":"SPRO,sg,3p,m=gen"}],"text":"него"}
+{"analysis":[{"lex":"плотный","gr":"A=acc,sg,plen,m,inan"},{"lex":"плотный","gr":"A=nom,sg,plen,m"}],"text":"плотный"}
+{"analysis":[{"lex":"ком","gr":"S,m,inan=acc,sg"},{"lex":"ком","gr":"S,m,inan=nom,sg"}],"text":"ком"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"полагать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"положил"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"карман","gr":"S,m,inan=acc,sg"},{"lex":"карман","gr":"S,m,inan=nom,sg"}],"text":"карман"}

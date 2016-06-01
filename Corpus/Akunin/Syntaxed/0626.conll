@@ -1,0 +1,54 @@
+1	В	В	PR	PR	PR	7	обст	_	_
+2	восьмом	ВОСЬМОЙ	A	A - loc sg plen m -	A - loc sg plen m -	3	опред	_	_
+3	часу	ЧАС	S	S m inan loc2 sg	S m inan loc2 sg	1	предл	_	_
+4	вечера	ВЕЧЕР	S	S m inan gen sg	S m inan gen sg	3	квазиагент	_	_
+5	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+6	вновь	ВНОВЬ	ADV	ADV -	ADV -	7	обст	_	_
+7	оказалась	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	на	НА	PR	PR	PR	7	присвяз	_	_
+9	знакомой	ЗНАКОМЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	10	опред	_	_
+10	развилке	РАЗВИЛКА	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	но	НО	CONJ	CONJ	CONJ	7	сент-соч	_	_
+13	вместо	ВМЕСТО	PR	PR	PR	17	обст	_	_
+14	хриплого	ХРИПЛЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+15	капитана	КАПИТАН	S	S m anim gen sg	S m anim gen sg	13	предл	_	_
+16	там	ТАМ	ADV	ADV -	ADV -	17	обст	_	_
+17	распоряжался	РАСПОРЯЖАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	соч-союзн	_	_
+18	такой	ТАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	21	опред	_	_
+19	же	ЖЕ	PART	PART	PART	18	огранич	_	_
+20	осипший	ОСИПШИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	21	опред	_	_
+21	поручик	ПОРУЧИК	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	которому	КОТОРЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	24	1-компл	_	_
+24	приходилось	ПРИХОДИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	17	сент-соч	_	_
+25	еще	ЕЩЕ	ADV	ADV -	ADV -	26	огранич	_	_
+26	горше	ГОРЬКИЙ	A	A comp - - plen - -	A comp - - plen - -	24	предик	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	чем	ЧЕМ	CONJ	CONJ	CONJ	26	сравнит	_	_
+29	предшественнику	ПРЕДШЕСТВЕННИК	S	S m anim dat sg	S m anim dat sg	28	сравн-союзн	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	потому что	потому что	CONJ	CONJ	ZERO	24	сент-соч	_	_
+32	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	33	обст	_	_
+33	приходилось	ПРИХОДИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	31	соч-союзн	_	_
+34	управлять	УПРАВЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	33	предик	_	_
+35	двумя	ДВА	NUM	NUM ins - -	NUM ins - -	37	количест	_	_
+36	встречными	ВСТРЕЧНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	37	опред	_	_
+37	потоками	ПОТОК	S	S m inan ins pl	S m inan ins pl	34	1-компл	_	_
+38	:	:	:	:	PUNC	42	1-компл	_	_
+39	на	НА	PR	PR	PR	38	2-компл	_	_
+40	передовую	ПЕРЕДОВАЯ	S	S f inan acc sg	S f inan acc sg	39	предл	_	_
+41	по-прежнему	ПО-ПРЕЖНЕМУ	ADV	ADV -	ADV -	42	обст	_	_
+42	тянулись	ТЯНУТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	33	сент-соч	_	_
+43	повозки	ПОВОЗКА	S	S f inan nom pl	S f inan nom pl	42	предик	_	_
+44	с	С	PR	PR	PR	43	1-компл	_	_
+45	боеприпасами	БОЕПРИПАСЫ	S	S - inan ins pl	S - inan ins pl	44	предл	_	_
+46	,	,	,	,	PUNC	45	PUNC	_	_
+47	а	А	CONJ	CONJ	CONJ	42	сент-соч	_	_
+48	с	С	PR	PR	PR	51	обст	_	_
+49	поля	ПОЛЕ	S	S n inan gen sg	S n inan gen sg	48	предл	_	_
+50	боя	БОЙ	S	S m inan gen sg	S m inan gen sg	49	квазиагент	_	_
+51	вывозили	ВЫВОЗИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	47	соч-союзн	_	_
+52	раненых	РАНЕНЫЙ	S	S m anim acc pl	S m anim acc pl	51	1-компл	_	_
+53	.	.	SENT	SENT	SENT	52	PUNC	_	_
+

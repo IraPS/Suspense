@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"совещание","gr":"S,n,inan=acc,sg"},{"lex":"совещание","gr":"S,n,inan=nom,sg"}],"text":"Совещание"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"итог","gr":"S,m,inan=dat,pl"}],"text":"итогам"}
+{"analysis":[{"lex":"расследование","gr":"S,n,inan=acc,pl"},{"lex":"расследование","gr":"S,n,inan=gen,sg"},{"lex":"расследование","gr":"S,n,inan=nom,pl"}],"text":"расследования"}
+{"analysis":[{"lex":"провожать","gr":"V=praet,sg,indic,m,pf"}],"text":"проводил"}
+{"analysis":[{"lex":"сам","gr":"APRO=acc,sg,m,inan"},{"lex":"сам","gr":"APRO=nom,sg,m"}],"text":"сам"}
+{"analysis":[{"lex":"мизин","qual":"bastard","gr":"S,m,inan=gen,pl"}],"text":"Мизинов"}

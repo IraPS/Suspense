@@ -1,0 +1,86 @@
+1	В	В	PR	PR	PR	6	обст	_	_
+2	«	«	_	_	PUNC	3	PUNC	_	_
+3	походном	ПОХОДНЫЙ	A	A comp2 - - plen - -	A comp2 - - plen - -	4	опред	_	_
+4	дворце	ДВОРЕЦ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+5	»	»	_	_	PUNC	4	PUNC	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+7	всего	ВСЕГО	PART	PART	PART	8	огранич	_	_
+8	шесть	ШЕСТЬ	NUM	NUM acc - -	NUM acc - -	9	количест	_	_
+9	комнат	КОМНАТА	S	S f inan gen pl	S f inan gen pl	6	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	поэтому	ПОЭТОМУ	ADV	ADV -	ADV -	13	обст	_	_
+12	функцию	ФУНКЦИЯ	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+13	приемной	ПРИЕМНАЯ	S	S f inan loc sg	S f inan loc sg	9	разъяснит	_	_
+14	выполняло	ВЫПОЛНЯТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	6	сочин	_	_
+15	крыльцо	КРЫЛЬЦО	S	S n inan acc sg	S n inan acc sg	14	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	где	ГДЕ	ADV	ADV -	ADV -	19	обст	_	_
+18	уже	УЖЕ	ADV	ADV -	ADV -	19	огранич	_	_
+19	топтались	ТОПТАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	15	релят	_	_
+20	с	С	PR	PR	PR	19	2-компл	_	_
+21	десяток	ДЕСЯТОК	S	S m inan acc sg	S m inan acc sg	20	предл	_	_
+22	генералов	ГЕНЕРАЛ	S	S m anim gen pl	S m anim gen pl	21	квазиагент	_	_
+23	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+24	старших	СТАРШИЙ	A	A - gen pl plen - -	A - gen pl plen - -	25	опред	_	_
+25	офицеров	ОФИЦЕР	S	S m anim gen pl	S m anim gen pl	23	соч-союзн	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	дожидавшихся	ДОЖИДАТЬСЯ	PARTCP	PARTCP ipf praet loc pl plen - act -	PARTCP ipf praet loc pl plen - act -	19	1-компл	_	_
+28	приглашения	ПРИГЛАШЕНИЕ	S	S n inan gen sg	S n inan gen sg	27	квазиагент	_	_
+29	предстать	ПРЕДСТАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	19	2-компл	_	_
+30	пред	ПРЕД	PR	PR	PR	29	обст	_	_
+31	высочайшие	ВЫСОКИЙ	A	A supr acc pl plen - inan	A supr acc pl plen - inan	32	опред	_	_
+32	очи	ОКО	S	S n inan acc pl	S n inan acc pl	30	предл	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	Вид	ВИД	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+2	у	У	PR	PR	PR	1	атриб	_	_
+3	всех	ВСЕ	S	S - - gen pl	S - - gen pl	2	предл	_	_
+4	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	глуповато	ГЛУПОВАТО	ADV	ADV -	ADV -	4	присвяз	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	радостный	РАДОСТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	предик	_	_
+8	–	–	–	–	PUNC	9	1-компл	_	_
+9	пахло	ПАХНУТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	4	сент-соч	_	_
+10	орденами	ОРДЕН	S	S m inan ins pl	S m inan ins pl	9	1-компл	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	повышениями	ПОВЫШЕНИЕ	S	S n inan ins pl	S n inan ins pl	11	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	На	НА	PR	PR	PR	4	обст	_	_
+2	Варю	ВАРИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	предл	_	_
+3	ожидавшие	ОЖИДАТЬ	PARTCP	PARTCP ipf praet nom pl plen - act -	PARTCP ipf praet nom pl plen - act -	4	предик	_	_
+4	уставились	УСТАВЛЯТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	с	С	PR	PR	PR	4	2-компл	_	_
+6	понятным	ПОНЯТНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	7	опред	_	_
+7	любопытством	ЛЮБОПЫТСТВО	S	S n inan ins sg	S n inan ins sg	5	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+2	надменно	НАДМЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	взглянула	ВЗГЛЯДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	поверх	ПОВЕРХ	PR	PR	PR	3	обст	_	_
+5	голов	ГОЛОВА	S	S f inan gen pl	S f inan gen pl	4	предл	_	_
+6	на	НА	PR	PR	PR	3	2-компл	_	_
+7	низкое	НИЗКИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	6	предл	_	_
+8	зимнее	ЗИМНИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	9	опред	_	_
+9	солнце	СОЛНЦЕ	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Пусть	ПУСТЬ	PART	PART	PART	2	огранич	_	_
+2	поломают	ПОЛОМАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+3	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	кто	КТО	S	S m - nom sg	S m - nom sg	9	опред	_	_
+6	такая	ТАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+7	эта	ЭТОТ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+8	юная	ЮНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+9	дама	ДАМА	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+10	под	ПОД	PR	PR	PR	9	атриб	_	_
+11	вуалью	ВУАЛЬ	S	S f inan ins sg	S f inan ins sg	10	предл	_	_
+12	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+13	зачем	ЗАЧЕМ	ADV	ADV -	ADV -	14	обст	_	_
+14	явилась	ЯВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	12	соч-союзн	_	_
+15	на	НА	PR	PR	PR	14	2-компл	_	_
+16	аудиенцию	АУДИЕНЦИЯ	S	S f inan acc sg	S f inan acc sg	15	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

@@ -1,0 +1,2 @@
+{"analysis":[{"lex":"это","gr":"PART="}],"text":"Это"}
+{"analysis":[{"lex":"текст","gr":"S,m,inan=acc,sg"},{"lex":"текст","gr":"S,m,inan=nom,sg"}],"text":"текст"}

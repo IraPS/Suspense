@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"посидеть","gr":"V,pf,intr=inpraes,pl,indic,2p"},{"lex":"посидеть","gr":"V,pf,intr=pl,imper,2p"}],"text":"Посидите"}
+{"analysis":[{"lex":"тут","gr":"ADVPRO="}],"text":"тут"}
+{"text":"\\s"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"сейчас","gr":"ADV="}],"text":"сейчас"}

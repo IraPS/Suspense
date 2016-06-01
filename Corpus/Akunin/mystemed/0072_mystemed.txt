@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"отвечать","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"ответила"}
+{"analysis":[{"lex":"потому","gr":"ADVPRO="}],"text":"потому"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"во-первых","gr":"ADV,parenth="}],"text":"во-первых"}
+{"analysis":[{"lex":"предложение","gr":"S,n,inan=acc,sg"},{"lex":"предложение","gr":"S,n,inan=nom,sg"}],"text":"предложение"}
+{"analysis":[{"lex":"показываться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"показалось"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=dat"},{"lex":"она","gr":"SPRO,sg,3p,f=ins"}],"text":"ей"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"вполне","gr":"ADV="}],"text":"вполне"}
+{"analysis":[{"lex":"приличный","gr":"A=dat,pl,plen"},{"lex":"приличный","gr":"A=ins,sg,plen,m"},{"lex":"приличный","gr":"A=ins,sg,plen,n"}],"text":"приличным"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"а"}
+{"analysis":[{"lex":"во-вторых","gr":"ADV,parenth="}],"text":"во-вторых"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"принцип","gr":"S,m,inan=gen,sg"}],"text":"принципа"}

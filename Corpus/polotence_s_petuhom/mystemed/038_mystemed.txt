@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"голос","gr":"S,m,inan=acc,sg"},{"lex":"голос","gr":"S,m,inan=nom,sg"}],"text":"Голос"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"был"}
+{"analysis":[{"lex":"неглупый","gr":"A=sg,brev,m"}],"text":"неглуп"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"правда","gr":"ADV,parenth="}],"text":"правда"}
+{"analysis":[{"lex":"ли","gr":"PART="}],"text":"ли"}
+{"text":"\\s"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"вздрагивать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"вздрогнул"}

@@ -1,0 +1,46 @@
+1	Насколько	НАСКОЛЬКО	ADV	ADV -	ADV -	2	обст	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	возможно	ВОЗМОЖНО	ADV	ADV -	ADV -	7	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	в	В	PR	PR	PR	7	1-компл	_	_
+6	семье	СЕМЬЯ	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	отмечались	ОТМЕЧАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	примыкат	_	_
+8	большие	БОЛЬШОЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	опред	_	_
+9	церковные	ЦЕРКОВНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	опред	_	_
+10	праздники	ПРАЗДНИК	S	S m inan nom pl	S m inan nom pl	7	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	в	В	PR	PR	PR	0	ROOT	_	_
+13	согласии	СОГЛАСИЕ	S	S n inan loc sg	S n inan loc sg	12	предл	_	_
+14	с	С	PR	PR	PR	13	1-компл	_	_
+15	традициями	ТРАДИЦИЯ	S	S f inan ins pl	S f inan ins pl	14	предл	_	_
+16	русского	РУССКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	17	опред	_	_
+17	народа	НАРОД	S	S m inan gen sg	S m inan gen sg	15	квазиагент	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	На	НА	PR	PR	PR	5	обст	_	_
+2	Пасху	ПАСХА	S	S f inan acc sg	S f inan acc sg	1	предл	_	_
+3	дети	РЕБЕНОК	S	S m anim nom pl	S m anim nom pl	5	предик	_	_
+4	сами	САМ	A	A - nom pl plen - -	A - nom pl plen - -	5	суб-копр	_	_
+5	красили	КРАСИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	яйца	ЯЙЦО	S	S n inan acc pl	S n inan acc pl	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	на	НА	PR	PR	PR	10	обст	_	_
+9	Благовещенье	БЛАГОВЕЩЕНИЕ	S	S n inan nom sg	S n inan nom sg	8	предл	_	_
+10	выпускали	ВЫПУСКАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	5	сочин	_	_
+11	на	НА	PR	PR	PR	10	2-компл	_	_
+12	волю	ВОЛЯ	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	из	ИЗ	PR	PR	PR	10	1-компл	_	_
+14	клеток	КЛЕТКА	S	S f inan gen pl	S f inan gen pl	13	предл	_	_
+15	птичек	ПТИЧКА	S	S f anim gen pl	S f anim gen pl	14	квазиагент	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	на	НА	PR	PR	PR	19	обст	_	_
+18	Троицу	ТРОИЦА	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+19	украшали	УКРАШАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	10	сочин	_	_
+20	комнаты	КОМНАТА	S	S f inan nom pl	S f inan nom pl	19	предик	_	_
+21	березками	БЕРЕЗКА	S	S f inan ins pl	S f inan ins pl	20	сочин	_	_
+22	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+23	цветами	ЦВЕТОК	S	S m inan ins pl	S m inan ins pl	22	соч-союзн	_	_
+24	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+25	т.п	Т.П	S	S - - nonflex nonflex	S - - nonflex nonflex	24	соч-союзн	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

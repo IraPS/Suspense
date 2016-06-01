@@ -1,0 +1,107 @@
+1	Времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	4	предик	_	_
+2	до	ДО	PR	PR	PR	4	обст	_	_
+3	вечера	ВЕЧЕР	S	S m inan gen sg	S m inan gen sg	2	предл	_	_
+4	оставалось	ОСТАВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	много	МНОГО	ADV	ADV -	ADV -	4	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+8	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+9	отправилась	ОТПРАВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+10	прогуляться	ПРОГУЛИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+11	по	ПО	PR	PR	PR	10	обст	_	_
+12	фешенебельной	ФЕШЕНЕБЕЛЬНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	13	опред	_	_
+13	Каля	КАЛИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	11	предл	_	_
+14	-	-	-	-	PUNC	13	PUNC	_	_
+15	Могошоаей	МОГОШОАЕЙ	S	S f anim nonflex nonflex	S f anim nonflex nonflex	10	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	21	предик	_	_
+18	после	ПОСЛЕ	PR	PR	PR	21	обст	_	_
+19	палаточной	ПАЛАТОЧНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	20	опред	_	_
+20	жизни	ЖИЗНЬ	S	S f inan loc sg	S f inan loc sg	18	предл	_	_
+21	казалась	КАЗАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	сент-соч	_	_
+22	просто	ПРОСТО	PART	PART	PART	23	огранич	_	_
+23	Невским	НЕВСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	24	опред	_	_
+24	проспектом	ПРОСПЕКТ	S	S m inan ins sg	S m inan ins sg	21	1-компл	_	_
+25	:	:	:	:	PUNC	27	опред	_	_
+26	щегольские	ЩЕГОЛЬСКОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	27	опред	_	_
+27	экипажи	ЭКИПАЖ	S	S m inan acc pl	S m inan acc pl	21	сочин	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	полосатые	ПОЛОСАТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	30	опред	_	_
+30	маркизы	МАРКИЗА	S	S f inan nom pl	S f inan nom pl	27	сочин	_	_
+31	над	НАД	PR	PR	PR	30	1-компл	_	_
+32	окнами	ОКНО	S	S n inan ins pl	S n inan ins pl	31	предл	_	_
+33	лавок	ЛАВКА	S	S f inan gen pl	S f inan gen pl	32	квазиагент	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	ослепительные	ОСЛЕПИТЕЛЬНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	37	опред	_	_
+36	южные	ЮЖНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	37	опред	_	_
+37	красавицы	КРАСАВИЦА	S	S f anim nom pl	S f anim nom pl	30	сочин	_	_
+38	,	,	,	,	PUNC	37	PUNC	_	_
+39	картинные	КАРТИННЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	40	опред	_	_
+40	брюнеты	БРЮНЕТ	S	S m anim nom pl	S m anim nom pl	53	предик	_	_
+41	в	В	PR	PR	PR	53	обст	_	_
+42	голубых	ГОЛУБОЙ	A	A - loc pl plen - -	A - loc pl plen - -	48	опред	_	_
+43	,	,	,	,	PUNC	42	PUNC	_	_
+44	белых	БЕЛЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	42	сочин	_	_
+45	и	И	CONJ	CONJ	CONJ	42	сочин	_	_
+46	даже	ДАЖЕ	PART	PART	PART	47	огранич	_	_
+47	розовых	РОЗОВЫЙ	A	A - acc pl plen - anim	A - acc pl plen - anim	45	соч-союзн	_	_
+48	сюртуках	СЮРТУК	S	S m inan loc pl	S m inan loc pl	41	предл	_	_
+49	,	,	,	,	PUNC	48	PUNC	_	_
+50	и	И	CONJ	CONJ	CONJ	41	сочин	_	_
+51	мундиры	МУНДИР	S	S m inan nom pl	S m inan nom pl	50	соч-союзн	_	_
+52	,	,	,	,	PUNC	51	PUNC	_	_
+53	мундиры	МУНДИР	S	S m inan acc pl	S m inan acc pl	21	сент-соч	_	_
+54	,	,	,	,	PUNC	53	PUNC	_	_
+55	мундиры	МУНДИР	S	S m inan acc pl	S m inan acc pl	53	сочин	_	_
+56	.	.	SENT	SENT	SENT	55	PUNC	_	_
+
+1	Русская	РУССКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	французская	ФРАНЦУЗСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	соч-союзн	_	_
+4	речь	РЕЧЬ	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+5	явно	ЯВНО	ADV	ADV -	ADV -	6	обст	_	_
+6	заглушали	ЗАГЛУШАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	румынскую	РУМЫНСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	выпила	ВЫПИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	обст	_	_
+4	настоящем	НАСТОЯЩЕЕ	S	S n inan loc sg	S n inan loc sg	3	предл	_	_
+5	кафе	КАФЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	4	1-компл	_	_
+6	две	ДВА	NUM	NUM nom f -	NUM nom f -	7	количест	_	_
+7	чашки	ЧАШКА	S	S f inan gen sg	S f inan gen sg	10	предик	_	_
+8	какао	КАКАО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	7	квазиагент	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	съела	СЪЕДАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сент-соч	_	_
+11	четыре	ЧЕТЫРЕ	NUM	NUM nom - -	NUM nom - -	12	количест	_	_
+12	пирожных	ПИРОЖНОЕ	S	S n inan gen pl	S n inan gen pl	10	1-компл	_	_
+13	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+14	совсем	СОВСЕМ	ADV	ADV -	ADV -	15	огранич	_	_
+15	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	13	соч-союзн	_	_
+16	растаяла	РАСТАИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	сочин	_	_
+17	от	ОТ	PR	PR	PR	16	1-компл	_	_
+18	неги	НЕГА	S	S f inan gen sg	S f inan gen sg	17	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	но	НО	CONJ	CONJ	CONJ	16	сочин	_	_
+21	возле	ВОЗЛЕ	PR	PR	PR	24	обст	_	_
+22	шляпного	ШЛЯПНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	23	опред	_	_
+23	магазина	МАГАЗИН	S	S m inan gen sg	S m inan gen sg	21	предл	_	_
+24	заглянула	ЗАГЛЯДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	20	соч-союзн	_	_
+25	ненароком	НЕНАРОКОМ	ADV	ADV -	ADV -	24	обст	_	_
+26	в	В	PR	PR	PR	24	2-компл	_	_
+27	зеркальную	ЗЕРКАЛЬНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	28	опред	_	_
+28	витрину	ВИТРИНА	S	S f inan acc sg	S f inan acc sg	26	предл	_	_
+29	и	И	CONJ	CONJ	CONJ	24	сочин	_	_
+30	ахнула	АХНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	29	соч-союзн	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	То-то	ТО-ТО	PART	PART	PART	2	огранич	_	_
+2	встречные	ВСТРЕЧНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	мужчины	МУЖЧИНА	S	S m anim nom pl	S m anim nom pl	4	предик	_	_
+4	смотрят	СМОТРЕТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+5	сквозь	СКВОЗЬ	PR	PR	PR	4	обст	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	мимо	МИМО	ADV	ADV -	ADV -	6	соч-союзн	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+

@@ -1,0 +1,84 @@
+1	Приезд	ПРИЕЗД	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+2	богатого	БОГАТЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+3	соседа	СОСЕД	S	S m anim gen sg	S m anim gen sg	1	квазиагент	_	_
+4	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	важная	ВАЖНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	эпоха	ЭПОХА	S	S f inan nom sg	S f inan nom sg	4	присвяз	_	_
+7	для	ДЛЯ	PR	PR	PR	6	атриб	_	_
+8	деревенских	ДЕРЕВЕНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	жителей	ЖИТЕЛЬ	S	S m anim gen pl	S m anim gen pl	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Помещики	ПОМЕЩИК	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	атриб	_	_
+4	дворовые	ДВОРОВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	2	соч-союзн	_	_
+6	толкуют	ТОЛКОВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+7	о	О	PR	PR	PR	6	1-компл	_	_
+8	том	ТО	S	S n - loc sg	S n - loc sg	9	опред	_	_
+9	месяца	МЕСЯЦ	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+10	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	15	предл	_	_
+11	прежде	ПРЕЖДЕ	ADV	ADV -	ADV -	15	обст	_	_
+12	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+13	года	ГОД	S	S m inan gen sg	S m inan gen sg	12	соч-союзн	_	_
+14	три	ТРИ	NUM	NUM nom - -	NUM nom - -	15	предл	_	_
+15	спустя	СПУСТЯ	PR	PR	PR	6	обст	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	касается	КАСАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	8	обст	_	_
+3	до	ДО	PR	PR	PR	2	1-компл	_	_
+4	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	то	ТО	NONLEX	NONLEX	NONLEX	1	соотнос	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	признаюсь	ПРИЗНАВАТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	известие	ИЗВЕСТИЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+11	о	О	PR	PR	PR	10	1-компл	_	_
+12	прибытии	ПРИБЫТИЕ	S	S n inan loc sg	S n inan loc sg	11	предл	_	_
+13	молодой	МОЛОДОЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	прекрасной	ПРЕКРАСНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	16	опред	_	_
+16	соседки	СОСЕДКА	S	S f anim gen sg	S f anim gen sg	14	соч-союзн	_	_
+17	сильно	СИЛЬНО	ADV	ADV -	ADV -	18	огранич	_	_
+18	на	НА	PR	PR	PR	13	разъяснит	_	_
+19	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	18	предл	_	_
+20	подействовало	ПОДЕЙСТВОВАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	18	сочин	_	_
+21	;	;	SENT	SENT	SENT	20	PUNC	_	_
+
+1	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	горел	ГОРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	нетерпением	НЕТЕРПЕНИЕ	S	S n inan ins sg	S n inan ins sg	2	1-компл	_	_
+4	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	5	1-компл	_	_
+5	увидеть	УВИДЕТЬ	V	V pf - - inf - -	V pf - - inf - -	2	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+8	потому	ПОТОМУ	ADV	ADV -	ADV -	15	обст	_	_
+9	в	В	PR	PR	PR	11	огранич	_	_
+10	первое	ПЕРВЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	9	предл	_	_
+11	воскресение	ВОСКРЕСЕНИЕ	S	S n inan acc sg	S n inan acc sg	15	1-компл	_	_
+12	по	ПО	PR	PR	PR	11	1-компл	_	_
+13	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	14	квазиагент	_	_
+14	приезде	ПРИЕЗД	S	S m inan loc sg	S m inan loc sg	12	предл	_	_
+15	отправился	ОТПРАВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+16	после	ПОСЛЕ	PR	PR	PR	15	обст	_	_
+17	обеда	ОБЕД	S	S m inan gen sg	S m inan gen sg	16	предл	_	_
+18	в	В	PR	PR	PR	17	атриб	_	_
+19	село	СЕЛО	S	S n inan acc sg	S n inan acc sg	18	предл	_	_
+20	*	*	*	*	PUNC	0	ROOT	_	_
+21	*	*	*	*	PUNC	0	ROOT	_	_
+22	*	*	*	*	PUNC	0	ROOT	_	_
+23	рекомендоваться	РЕКОМЕНДОВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	22	1-компл	_	_
+24	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	23	1-компл	_	_
+25	сиятельствам	СИЯТЕЛЬСТВО	S	S n inan dat pl	S n inan dat pl	23	2-компл	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	как	КАК	CONJ	CONJ	CONJ	23	сравнит	_	_
+28	ближайший	БЛИЗКИЙ	A	A supr nom sg plen m -	A supr nom sg plen m -	29	опред	_	_
+29	сосед	СОСЕД	S	S m anim nom sg	S m anim nom sg	27	сравн-союзн	_	_
+30	и	И	CONJ	CONJ	CONJ	29	сочин	_	_
+31	всепокорнейший	ВСЕПОКОРНЕЙШИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	32	опред	_	_
+32	слуга	СЛУГА	S	S m anim nom sg	S m anim nom sg	30	соч-союзн	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+

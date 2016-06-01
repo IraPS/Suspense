@@ -1,0 +1,81 @@
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	когда	КОГДА	CONJ	CONJ	CONJ	17	обст	_	_
+4	в ходе	в ходе	PR	PR	ZERO	12	обст	_	_
+5	третьего	ТРЕТИЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	штурма	ШТУРМ	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+7	судьба	СУДЬБА	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+8	Плевны	ПЛЕВНА	S	S f inan gen sg	S f inan gen sg	7	квазиагент	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	всей	ВЕСЬ	A	A - gen sg plen f -	A - gen sg plen f -	11	опред	_	_
+11	войны	ВОЙНА	S	S f inan gen sg	S f inan gen sg	9	соч-союзн	_	_
+12	повисла	ПОВИСАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	подч-союзн	_	_
+13	на	НА	PR	PR	PR	12	1-компл	_	_
+14	волоске	ВОЛОСОК	S	S m inan loc sg	S m inan loc sg	13	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	Маклафлин	МАКЛАФЛИН	S	S m inan gen sg	S m inan gen sg	14	1-компл	_	_
+17	перешел	ПЕРЕХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+18	к	К	PR	PR	PR	17	2-компл	_	_
+19	прямой	ПРЯМОЙ	A	A - dat sg plen f -	A - dat sg plen f -	20	опред	_	_
+20	диверсии	ДИВЕРСИЯ	S	S f inan dat sg	S f inan dat sg	18	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Уверен	УВЕРЕННЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+4	действовал	ДЕЙСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	подч-союзн	_	_
+5	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	на	НА	PR	PR	PR	4	обст	_	_
+8	свой	СВОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	9	опред	_	_
+9	страх	СТРАХ	S	S m inan acc sg	S m inan acc sg	7	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+11	риск	РИСК	S	S m inan nom sg	S m inan nom sg	10	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	а	А	CONJ	CONJ	CONJ	1	сочин	_	_
+14	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	13	соч-союзн	_	_
+15	на	НА	PR	PR	PR	14	обст	_	_
+16	сей	СЕЙ	A	A - gen sg plen f -	A - gen sg plen f -	17	опред	_	_
+17	счет	СЧЕТ	S	S m inan acc sg	S m inan acc sg	15	предл	_	_
+18	инструкции	ИНСТРУКЦИЯ	S	S f inan gen sg	S f inan gen sg	17	квазиагент	_	_
+19	от	ОТ	PR	PR	PR	14	1-компл	_	_
+20	начальства	НАЧАЛЬСТВО	S	S n inan gen sg	S n inan gen sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Сожалею	СОЖАЛЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+4	с	С	PR	PR	PR	8	обст	_	_
+5	самого	САМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	начала	НАЧАЛО	S	S n inan gen sg	S n inan gen sg	4	предл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	установил	УСТАНАВЛИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	подч-союзн	_	_
+9	негласное	НЕГЛАСНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	10	опред	_	_
+10	наблюдение	НАБЛЮДЕНИЕ	S	S n inan nom sg	S n inan nom sg	8	предик	_	_
+11	за	ЗА	PR	PR	PR	10	1-компл	_	_
+12	британским	БРИТАНСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	14	опред	_	_
+13	дипломатическим	ДИПЛОМАТИЧЕСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	14	опред	_	_
+14	агентом	АГЕНТ	S	S m anim ins sg	S m anim ins sg	11	предл	_	_
+15	полковником	ПОЛКОВНИК	S	S m anim ins sg	S m anim ins sg	14	аппоз	_	_
+16	Веллсли	ВЕЛЛСЛИ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	15	аппоз	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	уже	УЖЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	докладывал	ДОКЛАДЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	вашему	ВАШ	A	A - dat sg plen m -	A - dat sg plen m -	5	опред	_	_
+5	величеству	ВЕЛИЧЕСТВО	S	S n inan dat sg	S n inan dat sg	3	1-компл	_	_
+6	об	ОБ	PR	PR	PR	5	3-компл	_	_
+7	антироссийских	АНТИРОССИЙСКИЙ	A	A - loc pl plen - -	A - loc pl plen - -	8	опред	_	_
+8	маневрах	МАНЕВР	S	S m inan loc pl	S m inan loc pl	6	предл	_	_
+9	этого	ЭТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	10	опред	_	_
+10	господина	ГОСПОДИН	S	S m anim gen sg	S m anim gen sg	8	квазиагент	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	которому	КОТОРЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	14	опред	_	_
+13	турецкий	ТУРЕЦКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	14	опред	_	_
+14	интерес	ИНТЕРЕС	S	S m inan acc sg	S m inan acc sg	3	2-компл	_	_
+15	явно	ЯВНО	ADV	ADV -	ADV -	16	колич-огран	_	_
+16	ближе	БЛИЗКО	ADV	ADV comp	ADV comp	3	обст	_	_
+17	нашего	НАШ	A	A - gen sg plen m -	A - gen sg plen m -	16	сравнит	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

@@ -1,0 +1,49 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	недобро	НЕДОБРО	ADV	ADV -	ADV -	3	обст	_	_
+3	покосилась	ПОКОСИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	обст	_	_
+5	обоих	ОБА	NUM	NUM gen m -	NUM gen m -	8	количест	_	_
+6	:	:	:	:	PUNC	8	1-компл	_	_
+7	ишь	ИШЬ	PART	PART	PART	8	огранич	_	_
+8	стакнулись	СТАКНУТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	только	ТОЛЬКО	PART	PART	PART	11	огранич	_	_
+11	бы	БЫ	PART	PART	PART	12	аналит	_	_
+12	выставить	ВЫСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+13	женщину	ЖЕНЩИНА	S	S f anim acc sg	S f anim acc sg	12	1-компл	_	_
+14	дурой	ДУРА	S	S f anim ins sg	S f anim ins sg	13	аппоз	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	8	огранич	_	_
+2	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+3	тут	ТУТ	ADV	ADV -	ADV -	5	обст	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	заслужил	ЗАСЛУЖИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+6	прощение	ПРОЩЕНИЕ	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+7	–	–	–	–	PUNC	8	предик	_	_
+8	вынул	ВЫНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	из	ИЗ	PR	PR	PR	8	1-компл	_	_
+10	кармана	КАРМАН	S	S m inan gen sg	S m inan gen sg	9	предл	_	_
+11	на	НА	PR	PR	PR	8	2-компл	_	_
+12	удивление	УДИВЛЕНИЕ	S	S n inan acc sg	S n inan acc sg	11	предл	_	_
+13	чистый	ЧИСТЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	14	опред	_	_
+14	платок	ПЛАТОК	S	S m inan acc sg	S m inan acc sg	8	1-компл	_	_
+15	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+16	приложил	ПРИКЛАДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+17	к	К	PR	PR	PR	16	обст	_	_
+18	Вариной	ВАРИНА	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+19	щеке	ЩЕКА	S	S f inan dat sg	S f inan dat sg	16	2-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Ох	ОХ	INTJ	INTJ	INTJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	а	А	CONJ	CONJ	CONJ	1	сент-соч	_	_
+4	про	ПРО	PR	PR	PR	7	3-компл	_	_
+5	царапину	ЦАРАПИНА	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	то	ТО	CONJ	CONJ	CONJ	3	соч-союзн	_	_
+8	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	0	ROOT	_	_
+9	и	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+10	забыла	ЗАБЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	соч-союзн	_	_
+11	!	!	SENT	SENT	SENT	10	PUNC	_	_
+

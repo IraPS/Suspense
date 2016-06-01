@@ -1,0 +1,34 @@
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Второй	ВТОРОЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	батальон	БАТАЛЬОН	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+4	прибудет	ПРИБЫВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	позже	ПОЗДНО	ADV	ADV comp2	ADV comp2	4	обст	_	_
+7	полудня	ПОЛДЕНЬ	S	S m inan gen sg	S m inan gen sg	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	4	предик	_	_
+10	–	–	–	–	PUNC	11	1-компл	_	_
+11	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	вводн	_	_
+12	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Пока	ПОКА	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	6	1-компл	_	_
+4	интересного	ИНТЕРЕСНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	6	предик	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	предвидится	ПРЕДВИДЕТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	подч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Будем	БЫТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	4	опред	_	_
+2	любоваться	ЛЮБОВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	1	аналит	_	_
+3	огнями	ОГОНЬ	S	S m inan ins pl	S m inan ins pl	2	1-компл	_	_
+4	Цареграда	ЦАРЕГРАДА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	коротать	КОРОТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	соч-союзн	_	_
+7	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+8	за	ЗА	PR	PR	PR	6	обст	_	_
+9	приятной	ПРИЯТНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	10	опред	_	_
+10	беседой	БЕСЕДА	S	S f inan ins sg	S f inan ins sg	8	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

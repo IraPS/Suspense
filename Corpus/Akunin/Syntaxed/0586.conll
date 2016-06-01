@@ -1,0 +1,66 @@
+1	Позавтракав	ПОЗАВТРАКАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	12	обст	_	_
+2	вместе	ВМЕСТЕ	ADV	ADV -	ADV -	1	обст	_	_
+3	с	С	PR	PR	PR	2	1-компл	_	_
+4	бледными	БЛЕДНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	вздрагивающими	ВЗДРАГИВАТЬ	PARTCP	PARTCP ipf inpraes ins pl plen - act -	PARTCP ipf inpraes ins pl plen - act -	1	1-компл	_	_
+7	от	ОТ	PR	PR	PR	1	2-компл	_	_
+8	выстрелов	ВЫСТРЕЛ	S	S m inan gen pl	S m inan gen pl	7	предл	_	_
+9	сестрами	СЕСТРА	S	S f anim ins pl	S f anim ins pl	1	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	12	предик	_	_
+12	отправилась	ОТПРАВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+13	разыскивать	РАЗЫСКИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	1-компл	_	_
+14	Эраста	ЭРАСТ	S	S m anim acc sg	S m anim acc sg	13	1-компл	_	_
+15	Петровича	ПЕТРОВИЧ	S	S m anim gen sg	S m anim gen sg	14	аппоз	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	штабе	ШТАБ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	титулярного	ТИТУЛЯРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	оказалось	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	в	В	PR	PR	PR	0	ROOT	_	_
+9	особой	ОСОБЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	10	опред	_	_
+10	части	ЧАСТЬ	S	S f inan dat sg	S f inan dat sg	8	предл	_	_
+11	тоже	ТОЖЕ	PART	PART	PART	10	огранич	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	На	НА	PR	PR	PR	5	обст	_	_
+2	всякий	ВСЯКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	случай	СЛУЧАЙ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	предик	_	_
+5	заглянула	ЗАГЛЯДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	к	К	PR	PR	PR	5	2-компл	_	_
+7	нему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	6	предл	_	_
+8	в	В	PR	PR	PR	5	обст	_	_
+9	палатку	ПАЛАТКА	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+11	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	что	ЧТО	CONJ	CONJ	CONJ	11	1-компл	_	_
+14	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+15	преспокойно	ПРЕСПОКОЙНО	ADV	ADV -	ADV -	16	обст	_	_
+16	сидит	СИДЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	13	подч-союзн	_	_
+17	в	В	PR	PR	PR	16	1-компл	_	_
+18	складном	СКЛАДНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	19	опред	_	_
+19	кресле	КРЕСЛО	S	S n inan loc sg	S n inan loc sg	17	предл	_	_
+20	с	С	PR	PR	PR	16	обст	_	_
+21	книгой	КНИГА	S	S f inan ins sg	S f inan ins sg	20	предл	_	_
+22	в	В	PR	PR	PR	21	атриб	_	_
+23	руке	РУКА	S	S f inan loc sg	S f inan loc sg	22	предл	_	_
+24	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	покачивая	ПОКАЧИВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	33	обст	_	_
+27	сафьяновой	САФЬЯНОВЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	28	опред	_	_
+28	туфлей	ТУФЛЯ	S	S f inan ins sg	S f inan ins sg	26	1-компл	_	_
+29	с	С	PR	PR	PR	28	атриб	_	_
+30	загнутым	ЗАГНУТЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	31	опред	_	_
+31	носком	НОСОК	S	S m inan ins sg	S m inan ins sg	29	предл	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	пьет	ПИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	24	соч-союзн	_	_
+34	кофе	КОФЕ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	33	1-компл	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+

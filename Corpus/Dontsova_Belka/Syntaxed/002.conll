@@ -1,0 +1,23 @@
+1	На	НА	PR	PR	PR	20	обст	_	_
+2	этом	ЭТОТ	A	A - loc sg plen m -	A - loc sg plen m -	4	обст	_	_
+3	анекдот	АНЕКДОТ	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+4	заканчивается	ЗАКАНЧИВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	далее	ДАЛЕЕ	ADV	ADV -	ADV -	8	обст	_	_
+8	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	подч-союзн	_	_
+9	европеец	ЕВРОПЕЕЦ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	счастливому	СЧАСТЛИВЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	11	опред	_	_
+11	туземцу	ТУЗЕМЕЦ	S	S m anim dat sg	S m anim dat sg	8	2-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+13	смогли	СМОЧЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	12	соч-союзн	_	_
+14	ли	ЛИ	PART	PART	PART	13	огранич	_	_
+15	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	13	предик	_	_
+16	понять	ПОНИМАТЬ	V	V pf - - inf - -	V pf - - inf - -	13	1-компл	_	_
+17	друг	ДРУГ	S	S - - nom sg	S - - nom sg	18	вспом	_	_
+18	друга	ДРУГ	S	S - - acc sg	S - - acc sg	16	1-компл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	осталось	ОСТАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+21	неизвестным	НЕИЗВЕСТНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	20	присвяз	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

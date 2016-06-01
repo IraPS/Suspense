@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"вар","gr":"S,m,inan=abl,sg"}],"text":"Варе"}
+{"analysis":[{"lex":"показываться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"показалось"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"сзади","gr":"ADV="}],"text":"сзади"}
+{"analysis":[{"lex":"расступаться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"расступилась"}
+{"analysis":[{"lex":"стена","gr":"S,f,inan=nom,sg"}],"text":"стена"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"внезапно","gr":"ADV="}],"text":"внезапно"}
+{"analysis":[{"lex":"они","gr":"SPRO,pl=nom"}],"text":"они"}
+{"analysis":[{"lex":"оба","gr":"NUM=acc,m,inan"},{"lex":"оба","gr":"NUM=nom,m"},{"lex":"оба","gr":"NUM=acc,n"},{"lex":"оба","gr":"NUM=nom,n"}],"text":"оба"}
+{"analysis":[{"lex":"оказываться","gr":"V,intr=praet,pl,indic,pf"}],"text":"оказались"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"какой-то","gr":"APRO=abl,sg,m"},{"lex":"какой-то","gr":"APRO=abl,sg,n"}],"text":"каком-то"}
+{"analysis":[{"lex":"другой","gr":"APRO=abl,sg,m"},{"lex":"другой","gr":"APRO=abl,sg,n"}],"text":"другом"}
+{"analysis":[{"lex":"помещение","gr":"S,n,inan=abl,sg"}],"text":"помещении"}

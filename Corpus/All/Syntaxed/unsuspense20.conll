@@ -1,0 +1,85 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	в	В	PR	PR	PR	5	обст	_	_
+3	зимний	ЗИМНИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+5	ходить	ХОДИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	1	соч-союзн	_	_
+6	по	ПО	PR	PR	PR	5	обст	_	_
+7	высоким	ВЫСОКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	8	опред	_	_
+8	сугробам	СУГРОБ	S	S m inan dat pl	S m inan dat pl	6	предл	_	_
+9	за	ЗА	PR	PR	PR	5	обст	_	_
+10	зайцами	ЗАЯЦ	S	S m anim ins pl	S m anim ins pl	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	дышать	ДЫШАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	сочин	_	_
+13	морозным	МОРОЗНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	16	опред	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	острым	ОСТРЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	16	опред	_	_
+16	воздухом	ВОЗДУХ	S	S m inan ins sg	S m inan ins sg	12	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	невольно	НЕВОЛЬНО	ADV	ADV -	ADV -	19	обст	_	_
+19	щуриться	ЩУРИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	12	сочин	_	_
+20	от	ОТ	PR	PR	PR	19	1-компл	_	_
+21	ослепительного	ОСЛЕПИТЕЛЬНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	23	опред	_	_
+22	мелкого	МЕЛКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	23	опред	_	_
+23	сверканья	СВЕРКАНИЕ	S	S n inan acc pl	S n inan acc pl	20	предл	_	_
+24	мягкого	МЯГКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	25	опред	_	_
+25	снега	СНЕГ	S	S m inan gen sg	S m inan gen sg	23	квазиагент	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	любоваться	ЛЮБОВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	19	сочин	_	_
+28	зеленым	ЗЕЛЕНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	29	опред	_	_
+29	цветом	ЦВЕТ	S	S m inan ins sg	S m inan ins sg	27	1-компл	_	_
+30	неба	НЕБО	S	S n inan gen sg	S n inan gen sg	29	квазиагент	_	_
+31	над	НАД	PR	PR	PR	30	1-компл	_	_
+32	красноватым	КРАСНОВАТЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	33	опред	_	_
+33	лесом	ЛЕС	S	S m inan ins sg	S m inan ins sg	31	предл	_	_
+34	!..	!..	SENT	SENT	SENT	33	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	первые	ПЕРВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+3	весенние	ВЕСЕННИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	опред	_	_
+4	дни	ДЕНЬ	S	S m inan acc pl	S m inan acc pl	19	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	когда	КОГДА	CONJ	CONJ	CONJ	4	сочин	_	_
+7	кругом	КРУГОМ	ADV	ADV -	ADV -	9	обст	_	_
+8	все	ВСЕ	S	S - - acc pl	S - - acc pl	9	1-компл	_	_
+9	блестит	БЛЕСТЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	подч-союзн	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	обрушается	ОБРУШАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	сквозь	СКВОЗЬ	PR	PR	PR	11	обст	_	_
+14	тяжелый	ТЯЖЕЛЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	15	опред	_	_
+15	пар	ПАР	S	S f inan gen pl	S f inan gen pl	13	предл	_	_
+16	талого	ТАЛЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	17	опред	_	_
+17	снега	СНЕГ	S	S m inan gen sg	S m inan gen sg	15	квазиагент	_	_
+18	уже	УЖЕ	ADV	ADV -	ADV -	19	огранич	_	_
+19	пахнет	ПАХНУТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+20	согретой	СОГРЕВАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	32	1-компл	_	_
+21	землей	ЗЕМЛЯ	S	S f inan ins sg	S f inan ins sg	20	агент	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	на	НА	PR	PR	PR	20	обст	_	_
+24	проталинках	ПРОТАЛИНКА	S	S f inan loc pl	S f inan loc pl	23	предл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	под	ПОД	PR	PR	PR	20	обст	_	_
+27	косым	КОСОЙ	A	A - ins sg plen m -	A - ins sg plen m -	28	опред	_	_
+28	лучом	ЛУЧ	S	S m inan ins sg	S m inan ins sg	26	предл	_	_
+29	солнца	СОЛНЦЕ	S	S n inan gen sg	S n inan gen sg	28	квазиагент	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	доверчиво	ДОВЕРЧИВО	ADV	ADV -	ADV -	32	обст	_	_
+32	поют	ПЕТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	19	предик	_	_
+33	жаворонки	ЖАВОРОНОК	S	S m anim nom pl	S m anim nom pl	32	предик	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	и	И	CONJ	CONJ	CONJ	32	сент-соч	_	_
+36	,	,	,	,	PUNC	35	PUNC	_	_
+37	с	С	PR	PR	PR	43	вводн	_	_
+38	веселым	ВЕСЕЛЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	39	опред	_	_
+39	шумом	ШУМ	S	S m inan ins sg	S m inan ins sg	37	предл	_	_
+40	и	И	CONJ	CONJ	CONJ	39	сочин	_	_
+41	ревом	РЕВ	S	S m inan ins sg	S m inan ins sg	40	соч-союзн	_	_
+42	,	,	,	,	PUNC	41	PUNC	_	_
+43	из	ИЗ	PR	PR	PR	35	соч-союзн	_	_
+44	оврага	ОВРАГ	S	S m inan gen sg	S m inan gen sg	43	предл	_	_
+45	в	В	PR	PR	PR	43	соотнос	_	_
+46	овраг	ОВРАГ	S	S m inan acc sg	S m inan acc sg	45	предл	_	_
+47	клубятся	КЛУБИТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	19	сент-соч	_	_
+48	потоки	ПОТОК	S	S m inan nom pl	S m inan nom pl	47	предик	_	_
+49	...	...	SENT	SENT	SENT	48	PUNC	_	_
+

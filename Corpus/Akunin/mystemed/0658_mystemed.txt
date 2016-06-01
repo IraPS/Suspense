@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"снова","gr":"ADV="}],"text":"снова"}
+{"analysis":[{"lex":"бесслезный","gr":"A=sg,brev,n"}],"text":"бесслезно"}
+{"analysis":[{"lex":"всхлипывать","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"всхлипнула"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"отвертываться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"отвернулась"}
+{"analysis":[{"lex":"чтобы","gr":"CONJ="}],"text":"чтобы"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"видеть","gr":"V,ipf,tran=inf"}],"text":"видеть"}
+{"analysis":[{"lex":"этот","gr":"APRO=abl,sg,f"},{"lex":"этот","gr":"APRO=dat,sg,f"},{"lex":"этот","gr":"APRO=gen,sg,f"},{"lex":"этот","gr":"APRO=ins,sg,f"}],"text":"этой"}
+{"analysis":[{"lex":"картина","gr":"S,f,inan=acc,pl"},{"lex":"картина","gr":"S,f,inan=gen,sg"},{"lex":"картина","gr":"S,f,inan=nom,pl"}],"text":"картины"}

@@ -1,0 +1,15 @@
+1	–	–	–	–	PUNC	3	опред	_	_
+2	Интереснейшие	ИНТЕРЕСНЫЙ	A	A supr acc pl plen - inan	A supr acc pl plen - inan	3	опред	_	_
+3	пометки	ПОМЕТКА	S	S f inan acc pl	S f inan acc pl	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	атриб	_	_
+5	записной	ЗАПИСНОЙ	A	A - loc sg plen f -	A - loc sg plen f -	6	опред	_	_
+6	книжке	КНИЖКА	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	взгляните	ВЗГЛЯДЫВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	ка	КА	PART	PART	PART	3	огранич	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

@@ -1,0 +1,56 @@
+1	Над	НАД	PR	PR	PR	11	обст	_	_
+2	пустым	ПУСТОЙ	A	A - ins sg plen n -	A - ins sg plen n -	3	опред	_	_
+3	полем	ПОЛЕ	S	S n inan ins sg	S n inan ins sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	разделявшим	РАЗДЕЛЯТЬ	PARTCP	PARTCP ipf praet dat pl plen - act -	PARTCP ipf praet dat pl plen - act -	3	опред	_	_
+6	враждующие	ВРАЖДОВАТЬ	PARTCP	PARTCP ipf inpraes nom pl plen - act -	PARTCP ipf inpraes nom pl plen - act -	5	1-компл	_	_
+7	стороны	СТОРОНА	S	S f inan gen sg	S f inan gen sg	6	квазиагент	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	крутыми	КРУТОЙ	A	A - ins pl plen - -	A - ins pl plen - -	10	опред	_	_
+10	дугами	ДУГА	S	S f inan ins pl	S f inan ins pl	11	2-компл	_	_
+11	прочертились	ПРОЧЕРТИТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+12	дымные	ДЫМНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	13	опред	_	_
+13	полосы	ПОЛОСА	S	S f inan nom pl	S f inan nom pl	11	предик	_	_
+14	–	–	–	–	PUNC	0	ROOT	_	_
+15	словно	СЛОВНО	CONJ	CONJ	CONJ	14	сравнит	_	_
+16	кто-то	КТО-ТО	S	S m - nom sg	S m - nom sg	17	предик	_	_
+17	нарезал	НАРЕЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	сравн-союзн	_	_
+18	небесную	НЕБЕСНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	19	опред	_	_
+19	сферу	СФЕРА	S	S f inan acc sg	S f inan acc sg	17	1-компл	_	_
+20	ломтями	ЛОМОТЬ	S	S m inan ins pl	S m inan ins pl	17	обст	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	как	КАК	CONJ	CONJ	CONJ	17	сравнит	_	_
+23	арбуз	АРБУЗ	S	S m inan nom sg	S m inan nom sg	22	сравн-союзн	_	_
+24	или	ИЛИ	CONJ	CONJ	CONJ	23	сочин	_	_
+25	каравай	КАРАВАЙ	S	S m inan nom sg	S m inan nom sg	24	соч-союзн	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	задрала	ЗАДИРАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	соч-союзн	_	_
+6	высоко	ВЫСОКО	ADV	ADV -	ADV -	5	обст	_	_
+7	вверху	ВВЕРХУ	ADV	ADV -	ADV -	8	огранич	_	_
+8	три	ТРИ	NUM	NUM nom - -	NUM nom - -	10	количест	_	_
+9	цветных	ЦВЕТНОЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	опред	_	_
+10	мяча	МЯЧ	S	S m inan gen sg	S m inan gen sg	5	1-компл	_	_
+11	–	–	–	–	PUNC	16	предик	_	_
+12	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	13	количест	_	_
+13	близко	БЛИЗКО	ADV	ADV -	ADV -	16	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	другой	ДРУГОЙ	A	A - nom sg plen m -	A - nom sg plen m -	16	предик	_	_
+16	подальше	ДАЛЕКО	ADV	ADV comp	ADV comp	5	изъясн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	над	НАД	PR	PR	PR	16	сочин	_	_
+19	императорской	ИМПЕРАТОРСКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	20	опред	_	_
+20	ставкой	СТАВКА	S	S f inan ins sg	S f inan ins sg	18	предл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	третий	ТРЕТИЙ	A	A - nom sg plen m -	A - nom sg plen m -	20	опред	_	_
+23	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+24	вовсе	ВОВСЕ	ADV	ADV -	ADV -	25	огранич	_	_
+25	над	НАД	PR	PR	PR	23	соч-союзн	_	_
+26	самым	САМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	27	опред	_	_
+27	горизонтом	ГОРИЗОНТ	S	S m inan ins sg	S m inan ins sg	25	предл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+

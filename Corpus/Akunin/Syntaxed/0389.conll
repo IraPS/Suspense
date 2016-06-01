@@ -1,0 +1,171 @@
+1	С	С	PR	PR	PR	4	1-компл	_	_
+2	титулярным	ТИТУЛЯРНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	3	опред	_	_
+3	советником	СОВЕТНИК	S	S m anim ins sg	S m anim ins sg	1	предл	_	_
+4	выходило	ВЫХОДИТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	как-то	КАК-ТО	ADV	ADV -	ADV -	6	огранич	_	_
+6	неясно	НЕЯСНО	ADV	ADV -	ADV -	4	присвяз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Помощницей	ПОМОЩНИЦА	S	S f anim ins sg	S f anim ins sg	4	обст	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+3	по-прежнему	ПО-ПРЕЖНЕМУ	ADV	ADV -	ADV -	4	обст	_	_
+4	числилась	ЧИСЛИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	у	У	PR	PR	PR	8	1-компл	_	_
+6	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	5	предл	_	_
+7	чисто	ЧИСТО	ADV	ADV -	ADV -	8	огранич	_	_
+8	номинально	НОМИНАЛЬНО	ADV	ADV -	ADV -	4	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	В	В	PR	PR	PR	7	обст	_	_
+2	свои	СВОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	3	опред	_	_
+3	секреты	СЕКРЕТ	S	S m inan acc pl	S m inan acc pl	1	предл	_	_
+4	Фандорин	ФАНДОРИН	S	S m anim gen sg	S m anim gen sg	7	кратно-длительн	_	_
+5	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	7	1-компл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	посвящал	ПОСВЯЩАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	7	сент-соч	_	_
+10	между	МЕЖДУ	PR	PR	PR	16	обст	_	_
+11	тем	ТО	S	S n - ins sg	S n - ins sg	10	предл	_	_
+12	какие-то	КАКОЙ-ТО	A	A - nom pl plen - -	A - nom pl plen - -	13	опред	_	_
+13	дела	ДЕЛО	S	S n inan nom pl	S n inan nom pl	16	предик	_	_
+14	у	У	PR	PR	PR	16	обст	_	_
+15	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	14	предл	_	_
+16	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	соч-союзн	_	_
+17	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	похоже	ПОХОЖЕ	ADV	ADV -	ADV -	21	вводн	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	что	ЧТО	CONJ	CONJ	CONJ	17	соч-союзн	_	_
+22	не	НЕ	PART	PART	PART	23	огранич	_	_
+23	пустяковые	ПУСТЯКОВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	21	подч-союзн	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+2	то	ТО	PART	PART	PART	1	огранич	_	_
+3	надолго	НАДОЛГО	ADV	ADV -	ADV -	4	обст	_	_
+4	исчезал	ИСЧЕЗАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	то	ТО	CONJ	CONJ	CONJ	4	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	наоборот	НАОБОРОТ	ADV	ADV -	ADV -	11	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	безвылазно	БЕЗВЫЛАЗНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	11	предик	_	_
+11	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	соч-союзн	_	_
+12	в	В	PR	PR	PR	11	обст	_	_
+13	палатке	ПАЛАТКА	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+16	к	К	PR	PR	PR	15	соч-союзн	_	_
+17	нему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	16	предл	_	_
+18	наведывались	НАВЕДЫВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	4	сент-соч	_	_
+19	какие-то	КАКОЙ-ТО	A	A - nom pl plen - -	A - nom pl plen - -	21	опред	_	_
+20	болгарские	БОЛГАРСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	21	опред	_	_
+21	мужики	МУЖИК	S	S m anim nom pl	S m anim nom pl	18	предик	_	_
+22	в	В	PR	PR	PR	18	обст	_	_
+23	пахучих	ПАХУЧИЙ	A	A - gen pl plen - -	A - gen pl plen - -	25	опред	_	_
+24	бараньих	БАРАНИЙ	A	A - gen pl plen - -	A - gen pl plen - -	25	опред	_	_
+25	шапках	ШАПКА	S	S f inan loc pl	S f inan loc pl	22	предл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Верно	ВЕРНО	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	из	ИЗ	PR	PR	PR	6	1-компл	_	_
+4	Плевны	ПЛЕВНА	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	догадывалась	ДОГАДЫВАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+7	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+10	из	ИЗ	PR	PR	PR	13	атриб	_	_
+11	гордости	ГОРДОСТЬ	S	S f inan gen sg	S f inan gen sg	10	предл	_	_
+12	ни	НИ	PART	PART	PART	13	огранич	_	_
+13	о	О	PR	PR	PR	16	обст	_	_
+14	чем	ЧТО	S	S n - ins sg	S n - ins sg	16	1-компл	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	спрашивала	СПРАШИВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	9	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Эка	ЭКА	PART	PART	PART	9	огранич	_	_
+2	невидаль	НЕВИДАЛЬ	S	S f inan nom sg	S f inan nom sg	9	присвяз	_	_
+3	–	–	–	–	PUNC	5	опред	_	_
+4	плевненские	ПЛЕВНЕНСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	5	опред	_	_
+5	жители	ЖИТЕЛЬ	S	S m anim nom pl	S m anim nom pl	9	предик	_	_
+6	в	В	PR	PR	PR	9	обст	_	_
+7	русском	РУССКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	8	опред	_	_
+8	лагере	ЛАГЕРЬ	S	S m inan loc sg	S m inan loc sg	6	предл	_	_
+9	появлялись	ПОЯВЛЯТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	так	ТАК	ADV	ADV -	ADV -	13	огранич	_	_
+12	уж	УЖ	PART	PART	PART	11	огранич	_	_
+13	редко	РЕДКО	ADV	ADV -	ADV -	9	обст	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Даже	ДАЖЕ	PART	PART	PART	2	огранич	_	_
+2	у	У	PR	PR	PR	4	1-компл	_	_
+3	Маклафлина	МАКЛАФЛИН	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	собственный	СОБСТВЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	информант	ИНФОРМАНТ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	сообщавший	СООБЩАТЬ	PARTCP	PARTCP ipf praet acc sg plen m act inan	PARTCP ipf praet acc sg plen m act inan	6	опред	_	_
+9	корреспонденту	КОРРЕСПОНДЕНТ	S	S m anim dat sg	S m anim dat sg	8	2-компл	_	_
+10	уникальные	УНИКАЛЬНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	11	опред	_	_
+11	сведения	СВЕДЕНИЕ	S	S n inan acc pl	S n inan acc pl	8	1-компл	_	_
+12	о	О	PR	PR	PR	11	1-компл	_	_
+13	жизни	ЖИЗНЬ	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+14	турецкого	ТУРЕЦКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+15	гарнизона	ГАРНИЗОН	S	S m inan gen sg	S m inan gen sg	13	квазиагент	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Правда	ПРАВДА	ADV	ADV -	ADV -	10	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	с	С	PR	PR	PR	10	обст	_	_
+4	русским	РУССКИЙ	A	A - ins sg plen n -	A - ins sg plen n -	5	опред	_	_
+5	командованием	КОМАНДОВАНИЕ	S	S n inan ins sg	S n inan ins sg	3	предл	_	_
+6	ирландец	ИРЛАНДЕЦ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+7	этими	ЭТОТ	A	A - ins pl plen - -	A - ins pl plen - -	8	опред	_	_
+8	знаниями	ЗНАНИЕ	S	S n inan ins pl	S n inan ins pl	10	1-компл	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	делился	ДЕЛИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	напирая	НАПИРАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	обст	_	_
+13	на	НА	PR	PR	PR	12	1-компл	_	_
+14	«	«	_	_	PUNC	15	PUNC	_	_
+15	журналистский	ЖУРНАЛИСТСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	16	опред	_	_
+16	этос	ЭТОС	S	S m inan nom sg	S m inan nom sg	13	предл	_	_
+17	»	»	_	_	PUNC	16	PUNC	_	_
+18	,	,	,	,	PUNC	16	PUNC	_	_
+19	зато	ЗАТО	CONJ	CONJ	CONJ	10	сент-соч	_	_
+20	читатели	ЧИТАТЕЛЬ	S	S m anim nom pl	S m anim nom pl	25	предик	_	_
+21	«	«	_	_	PUNC	22	PUNC	_	_
+22	Дейли	ДЕЙЛИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	23	опред	_	_
+23	ньюс	НЬЮС	S	S f inan nom sg	S f inan nom sg	25	предик	_	_
+24	»	»	_	_	PUNC	23	PUNC	_	_
+25	знали	ЗНАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	19	соч-союзн	_	_
+26	и	И	CONJ	CONJ	CONJ	25	сочин	_	_
+27	про	ПРО	PR	PR	PR	30	атриб	_	_
+28	распорядок	РАСПОРЯДОК	S	S m inan acc sg	S m inan acc sg	27	предл	_	_
+29	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	28	квазиагент	_	_
+30	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	26	соч-союзн	_	_
+31	-	-	-	-	PUNC	30	PUNC	_	_
+32	паши	ПАША	S	S m anim gen sg	S m anim gen sg	30	1-компл	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	и	И	CONJ	CONJ	CONJ	30	сочин	_	_
+35	про	ПРО	PR	PR	PR	34	соч-союзн	_	_
+36	мощные	МОЩНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	37	опред	_	_
+37	редуты	РЕДУТ	S	S m inan acc pl	S m inan acc pl	35	предл	_	_
+38	,	,	,	,	PUNC	37	PUNC	_	_
+39	которыми	КОТОРЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	47	2-компл	_	_
+40	не	НЕ	PART	PART	PART	41	огранич	_	_
+41	по	ПО	PR	PR	PR	39	атриб	_	_
+42	дням	ДЕНЬ	S	S m inan dat pl	S m inan dat pl	41	предл	_	_
+43	,	,	,	,	PUNC	42	PUNC	_	_
+44	а	А	CONJ	CONJ	CONJ	41	сочин	_	_
+45	по	ПО	PR	PR	PR	44	соч-союзн	_	_
+46	часам	ЧАСЫ	S	S m inan dat pl	S m inan dat pl	45	предл	_	_
+47	обрастал	ОБРАСТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	37	релят	_	_
+48	осажденный	ОСАЖДАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	49	опред	_	_
+49	город	ГОРОД	S	S m inan nom sg	S m inan nom sg	47	предик	_	_
+50	.	.	SENT	SENT	SENT	49	PUNC	_	_
+

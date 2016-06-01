@@ -1,0 +1,13 @@
+1	К	К	PR	PR	PR	3	вводн	_	_
+2	генералу	ГЕНЕРАЛ	S	S m anim dat sg	S m anim dat sg	1	предл	_	_
+3	подошел	ПОДХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	лихой	ЛИХОЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	урядник	УРЯДНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+7	ткнул	ТКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+8	пальцем	ПАЛЕЦ	S	S m inan ins sg	S m inan ins sg	7	1-компл	_	_
+9	куда-то	КУДА-ТО	ADV	ADV -	ADV -	10	огранич	_	_
+10	в	В	PR	PR	PR	7	2-компл	_	_
+11	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

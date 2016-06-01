@@ -1,0 +1,15 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+6	смотрит	СМОТРЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	подч-союзн	_	_
+7	на	НА	PR	PR	PR	6	1-компл	_	_
+8	красавца	КРАСАВЕЦ	S	S m anim acc sg	S m anim acc sg	7	предл	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	8	сочин	_	_
+11	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	10	сочин	_	_
+12	прибитой	ПРИБИВАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	13	опред	_	_
+13	собаки	СОБАКА	S	S f anim gen sg	S f anim gen sg	11	квазиагент	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

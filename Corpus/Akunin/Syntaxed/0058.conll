@@ -1,0 +1,106 @@
+1	Тогда	ТОГДА	ADV	ADV -	ADV -	3	обст	_	_
+2	неудачник	НЕУДАЧНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	вознамерился	ВОЗНАМЕРИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	перейти	ПЕРЕХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	от	ОТ	PR	PR	PR	4	2-компл	_	_
+6	слов	СЛОВО	S	S n inan gen pl	S n inan gen pl	5	предл	_	_
+7	к	К	PR	PR	PR	6	1-компл	_	_
+8	действиям	ДЕЙСТВИЕ	S	S n inan dat pl	S n inan dat pl	7	предл	_	_
+9	–	–	–	–	PUNC	12	1-компл	_	_
+10	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	предик	_	_
+11	широко	ШИРОКО	ADV	ADV -	ADV -	12	обст	_	_
+12	размахнулся	РАЗМАХИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+15	зеваки	ЗЕВАКА	S	S - anim nom pl	S - anim nom pl	16	предик	_	_
+16	шарахнулись	ШАРАХНУТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	14	соч-союзн	_	_
+17	в	В	PR	PR	PR	16	1-компл	_	_
+18	стороны	СТОРОНА	S	S f inan gen sg	S f inan gen sg	17	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	однако	ОДНАКО	CONJ	CONJ	CONJ	16	сент-соч	_	_
+21	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	24	предик	_	_
+22	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	21	аппоз	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	шелохнулся	ШЕЛОХНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	20	соч-союзн	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	лишь	ЛИШЬ	PART	PART	PART	27	огранич	_	_
+27	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	29	квазиагент	_	_
+28	правая	ПРАВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	29	опред	_	_
+29	рука	РУКА	S	S f inan nom sg	S f inan nom sg	32	предик	_	_
+30	как бы	как бы	ADV	ADV -	-	32	обст	_	_
+31	ненароком	НЕНАРОКОМ	ADV	ADV -	ADV -	32	обст	_	_
+32	нырнула	НЫРНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	сент-соч	_	_
+33	в	В	PR	PR	PR	32	2-компл	_	_
+34	карман	КАРМАН	S	S m inan acc sg	S m inan acc sg	33	предл	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+
+1	Жест	ЖЕСТ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	почти	ПОЧТИ	ADV	ADV -	ADV -	4	огранич	_	_
+4	неприметный	НЕПРИМЕТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	присвяз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	4	сочин	_	_
+7	на	НА	PR	PR	PR	9	обст	_	_
+8	толстяка	ТОЛСТЯК	S	S m anim acc sg	S m anim acc sg	7	предл	_	_
+9	подействовал	ПОДЕЙСТВОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+10	магически	МАГИЧЕСКИ	ADV	ADV -	ADV -	9	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	разом	РАЗОМ	ADV	ADV -	ADV -	3	обст	_	_
+3	сник	СНИКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	всхлипнул	ВСХЛИПЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	буркнул	БУРКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+8	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	9	опред	_	_
+9	жалкое	ЖАЛКИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	7	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	На	НА	PR	PR	PR	5	обст	_	_
+2	сей	СЕЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	Фандорич	ФАНДОРИЧ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+5	помотал	ПОМОТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	бросил	БРОСАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	сочин	_	_
+9	оказавшемуся	ОКАЗЫВАТЬСЯ	PARTCP	PARTCP pf praet dat sg plen m act -	PARTCP pf praet dat sg plen m act -	8	опред	_	_
+10	тут	ТУТ	ADV	ADV -	ADV -	9	обст	_	_
+11	же	ЖЕ	PART	PART	PART	10	огранич	_	_
+12	хозяину	ХОЗЯИН	S	S m anim dat sg	S m anim dat sg	9	2-компл	_	_
+13	пару	ПАРА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+14	монет	МОНЕТА	S	S f inan gen pl	S f inan gen pl	13	квазиагент	_	_
+15	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+16	направился	НАПРАВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+17	к	К	PR	PR	PR	16	2-компл	_	_
+18	выходу	ВЫХОД	S	S m inan dat sg	S m inan dat sg	17	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	На	НА	PR	PR	PR	7	обст	_	_
+2	Варю	ВАРИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	предл	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	даже	ДАЖЕ	PART	PART	PART	7	огранич	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	взглянул	ВЗГЛЯДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	но	НО	CONJ	CONJ	CONJ	7	сент-соч	_	_
+10	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	14	предик	_	_
+11	в	В	PR	PR	PR	14	обст	_	_
+12	приглашении	ПРИГЛАШЕНИЕ	S	S n inan loc sg	S n inan loc sg	11	предл	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	нуждалась	НУЖДАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	9	соч-союзн	_	_
+15	–	–	–	–	PUNC	14	1-компл	_	_
+16	сорвалась	СРЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	сочин	_	_
+17	с	С	PR	PR	PR	16	1-компл	_	_
+18	места	МЕСТО	S	S n inan gen sg	S n inan gen sg	17	предл	_	_
+19	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+20	моментально	МОМЕНТАЛЬНО	ADV	ADV -	ADV -	21	обст	_	_
+21	оказалась	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	19	соч-союзн	_	_
+22	рядом	РЯДОМ	ADV	ADV -	ADV -	21	присвяз	_	_
+23	со	СО	PR	PR	PR	22	1-компл	_	_
+24	своим	СВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	25	опред	_	_
+25	спасителем	СПАСИТЕЛЬ	S	S m anim ins sg	S m anim ins sg	23	предл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

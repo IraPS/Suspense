@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"analysis":[{"lex":"взглядывать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"взглянул"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=acc,sg"}],"text":"Варю"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"замечать","gr":"V,tran=praet,sg,indic,f,pf"}],"text":"заметила"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=acc,pl"},{"lex":"глаз","gr":"S,m,inan=gen,sg"},{"lex":"глаз","gr":"S,m,inan=nom,pl"}],"text":"глаза"}
+{"analysis":[{"lex":"его","gr":"APRO=abl,pl"},{"lex":"его","gr":"APRO=dat,pl"},{"lex":"его","gr":"APRO=gen,pl"},{"lex":"его","gr":"APRO=ins,pl"},{"lex":"его","gr":"APRO=nom,pl"},{"lex":"его","gr":"APRO=nom,sg,f"},{"lex":"его","gr":"APRO=acc,sg,m,anim"},{"lex":"его","gr":"APRO=gen,sg,m"},{"lex":"его","gr":"APRO=gen,sg,n"},{"lex":"его","gr":"APRO=acc,sg,n"},{"lex":"его","gr":"APRO=nom,sg,n"},{"lex":"его","gr":"APRO=abl,sg,f"},{"lex":"его","gr":"APRO=dat,sg,f"},{"lex":"его","gr":"APRO=gen,sg,f"},{"lex":"его","gr":"APRO=ins,sg,f"},{"lex":"его","gr":"APRO=abl,sg,m"},{"lex":"его","gr":"APRO=abl,sg,n"},{"lex":"его","gr":"APRO=dat,sg,m"},{"lex":"его","gr":"APRO=dat,sg,n"},{"lex":"его","gr":"APRO=acc,sg,f"},{"lex":"его","gr":"APRO=acc,pl,inan"},{"lex":"его","gr":"APRO=acc,sg,m,inan"},{"lex":"его","gr":"APRO=nom,sg,m"},{"lex":"его","gr":"APRO=ins,sg,m"},{"lex":"его","gr":"APRO=ins,sg,n"},{"lex":"его","gr":"APRO=acc,pl,anim"},{"lex":"его","gr":"APRO=abl,pl,n"},{"lex":"его","gr":"APRO=acc,pl,n"},{"lex":"его","gr":"APRO=dat,pl,n"},{"lex":"его","gr":"APRO=gen,pl,n"},{"lex":"его","gr":"APRO=ins,pl,n"},{"lex":"его","gr":"APRO=nom,pl,n"},{"lex":"его","gr":"APRO=abl,pl,m"},{"lex":"его","gr":"APRO=acc,pl,m"},{"lex":"его","gr":"APRO=acc,sg,m"},{"lex":"его","gr":"APRO=dat,pl,m"}],"text":"его"}
+{"analysis":[{"lex":"засвечиваться","gr":"V,intr=praet,pl,indic,pf"}],"text":"засветились"}
+{"analysis":[{"lex":"какой-то","gr":"APRO=dat,pl"},{"lex":"какой-то","gr":"APRO=ins,sg,m"},{"lex":"какой-то","gr":"APRO=ins,sg,n"}],"text":"каким-то"}
+{"analysis":[{"lex":"особенный","gr":"A=dat,pl,plen"},{"lex":"особенный","gr":"A=ins,sg,plen,m"},{"lex":"особенный","gr":"A=ins,sg,plen,n"}],"text":"особенным"}
+{"analysis":[{"lex":"блеск","gr":"S,m,inan=ins,sg"}],"text":"блеском"}

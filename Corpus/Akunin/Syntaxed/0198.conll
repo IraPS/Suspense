@@ -1,0 +1,34 @@
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	…	…	…	…	PUNC	8	обст	_	_
+3	но	НО	CONJ	CONJ	CONJ	2	сочин	_	_
+4	с	С	PR	PR	PR	3	соч-союзн	_	_
+5	мая	МАЙ	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	месяца	МЕСЯЦ	S	S m inan gen sg	S m inan gen sg	8	предик	_	_
+7	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	8	квазиагент	_	_
+8	залихорадило	ЗАЛИХОРАДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+9	так	ТАК	ADV	ADV -	ADV -	8	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	9	1-компл	_	_
+12	того	ТО	S	S n - gen sg	S n - gen sg	22	предик	_	_
+13	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+14	гляди	ГЛЯДЕТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	13	соч-союзн	_	_
+15	Босфор	БОСФОР	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+16	выйдет	ВЫХОДИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	12	релят	_	_
+17	из	ИЗ	PR	PR	PR	16	1-компл	_	_
+18	берегов	БЕРЕГ	S	S m inan gen pl	S m inan gen pl	17	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	стены	СТЕНА	S	S f inan gen sg	S f inan gen sg	18	сочин	_	_
+21	Цареграда	ЦАРЕГРАДА	S	S m inan gen sg	S m inan gen sg	20	квазиагент	_	_
+22	рухнут	РУХНУТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	11	подч-союзн	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	и	И	CONJ	CONJ	CONJ	22	сент-соч	_	_
+25	тебе	ТЫ	SPRO	SPRO sg 2p - loc	SPRO sg 2p - loc	30	1-компл	_	_
+26	не	НЕ	PART	PART	PART	27	огранич	_	_
+27	на	НА	PR	PR	PR	29	обст	_	_
+28	что	ЧТО	S	S n - acc sg	S n - acc sg	27	предл	_	_
+29	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	24	соч-союзн	_	_
+30	вешать	ВЕШАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	29	аналит	_	_
+31	свой	СВОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	32	опред	_	_
+32	щит	ЩИТ	S	S m inan nom sg	S m inan nom sg	29	предик	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+

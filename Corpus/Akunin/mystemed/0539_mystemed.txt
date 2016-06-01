@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"толпа","gr":"S,f,inan=abl,sg"},{"lex":"толпа","gr":"S,f,inan=dat,sg"}],"text":"толпе"}
+{"analysis":[{"lex":"одобрительно","gr":"ADV="}],"text":"одобрительно"}
+{"analysis":[{"lex":"зашуметь","gr":"V,pf,intr=praet,pl,indic"}],"text":"зашумели"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"кто-то","gr":"SPRO,sg,m,anim=nom"}],"text":"кто-то"}
+{"analysis":[{"lex":"даже","gr":"PART="}],"text":"даже"}
+{"analysis":[{"lex":"крикнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"крикнул"}
+{"analysis":[{"lex":"браво","gr":"INTJ="}],"text":"Браво"}

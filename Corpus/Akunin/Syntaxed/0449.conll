@@ -1,0 +1,24 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Ravissante	RAVISSANTE	NONLEX	NONLEX	NONLEX	1	предик	_	_
+3	comme	COMME	NONLEX	NONLEX	NONLEX	2	аппоз	_	_
+4	l	L	NONLEX	NONLEX	NONLEX	3	аппоз	_	_
+5	'	'	_	_	PUNC	4	PUNC	_	_
+6	Aurore	AURORE	NONLEX	NONLEX	NONLEX	4	аппоз	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	кинулся	КИНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	было	БЫЛО	PART	PART	PART	4	огранич	_	_
+4	к	К	PR	PR	PR	2	обст	_	_
+5	ручке	РУЧКА	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	но	НО	CONJ	CONJ	CONJ	2	сочин	_	_
+9	отпрянул	ОТПРЯДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	вспомнив	ВСПОМНИТЬ	V	V pf praet - ger - -	V pf praet - ger - -	9	обст	_	_
+12	о	О	PR	PR	PR	11	1-компл	_	_
+13	современных	СОВРЕМЕННЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	14	опред	_	_
+14	женщинах	ЖЕНЩИНА	S	S f anim loc pl	S f anim loc pl	12	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

@@ -1,0 +1,33 @@
+1	Всю	ВЕСЬ	A	A - acc sg plen f -	A - acc sg plen f -	2	опред	_	_
+2	ночь	НОЧЬ	S	S f inan acc sg	S f inan acc sg	4	длительн	_	_
+3	вдали	ВДАЛИ	ADV	ADV -	ADV -	4	обст	_	_
+4	громыхало	ГРОМЫХАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+7	к	К	PR	PR	PR	9	обст	_	_
+8	рассвету	РАССВЕТ	S	S m inan dat sg	S m inan dat sg	7	предл	_	_
+9	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	6	соч-союзн	_	_
+10	известно	ИЗВЕСТНО	ADV	ADV -	ADV -	9	присвяз	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	9	предик	_	_
+13	раненый	РАНЕНЫЙ	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+14	в	В	PR	PR	PR	17	обст	_	_
+15	бою	БОЙ	S	S m inan loc2 sg	S m inan loc2 sg	14	предл	_	_
+16	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+17	капитулировал	КАПИТУЛИРОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	подч-союзн	_	_
+18	со	СО	PR	PR	PR	17	обст	_	_
+19	всей	ВЕСЬ	A	A - loc sg plen f -	A - loc sg plen f -	28	опред	_	_
+20	своей	СВОЙ	A	A - loc sg plen f -	A - loc sg plen f -	21	опред	_	_
+21	армией	АРМИЯ	S	S f inan ins sg	S f inan ins sg	22	обст	_	_
+22	:	:	:	:	PUNC	23	опред	_	_
+23	десять	ДЕСЯТЬ	NUM	NUM acc - -	NUM acc - -	24	количест	_	_
+24	пашей	ПАША	S	S m inan gen sg	S m inan gen sg	19	1-компл	_	_
+25	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+26	сорок	СОРОК	NUM	NUM acc - -	NUM acc - -	25	соч-союзн	_	_
+27	две	ДВА	NUM	NUM nom f -	NUM nom f -	28	количест	_	_
+28	тысячи	ТЫСЯЧА	S	S f inan gen sg	S f inan gen sg	18	предл	_	_
+29	войска	ВОЙСКО	S	S n inan nom pl	S n inan nom pl	30	предик	_	_
+30	сложили	СЛАГАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	9	сент-соч	_	_
+31	оружие	ОРУЖИЕ	S	S n inan acc sg	S n inan acc sg	30	1-компл	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

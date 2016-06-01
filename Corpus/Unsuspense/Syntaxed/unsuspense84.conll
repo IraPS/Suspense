@@ -1,0 +1,44 @@
+1	Говорили	ГОВОРИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	о	О	PR	PR	PR	1	1-компл	_	_
+3	погоде	ПОГОДА	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	о	О	PR	PR	PR	1	3-компл	_	_
+6	том	ТО	S	S n - loc sg	S n - loc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	6	эксплет	_	_
+9	метель	МЕТЕЛЬ	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+10	продолжается	ПРОДОЛЖАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	8	подч-союзн	_	_
+11	обыкновенно	ОБЫКНОВЕННО	ADV	ADV -	ADV -	12	огранич	_	_
+12	двое	ДВОЕ	NUM	NUM nom - -	NUM nom - -	13	количест	_	_
+13	суток	СУТКИ	S	S - inan gen pl	S - inan gen pl	10	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	редко	РЕДКО	ADV	ADV -	ADV -	16	огранич	_	_
+16	более	БОЛЕЕ	ADV	ADV -	ADV -	10	обст	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	В	В	PR	PR	PR	4	обст	_	_
+2	шесть	ШЕСТЬ	NUM	NUM acc - -	NUM acc - -	3	количест	_	_
+3	часов	ЧАС	S	S m inan gen pl	S m inan gen pl	1	предл	_	_
+4	обедали	ОБЕДАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	потом	ПОТОМ	ADV	ADV -	ADV -	7	обст	_	_
+7	играли	ИГРАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	4	сочин	_	_
+8	в	В	PR	PR	PR	7	2-компл	_	_
+9	карты	КАРТА	S	S f inan acc pl	S f inan acc pl	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	пели	ПЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	7	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	танцевали	ТАНЦЕВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	11	сочин	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	13	вводн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	ужинали	УЖИНАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	13	сочин	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	День	ДЕНЬ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	прошел	ПРОХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	легли	ЛОЖИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	разъяснит	_	_
+5	спать	СПАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	обст	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

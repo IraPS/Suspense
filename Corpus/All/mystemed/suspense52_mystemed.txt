@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"Что"}
+{"text":"\\s"}
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"Что"}
+{"analysis":[{"lex":"случаться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"случилось"}
+{"analysis":[{"lex":"выкрикивать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"выкрикнул"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"чувствовать","gr":"V,ipf,tran=inpraes,ger"}],"text":"чувствуя"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=acc"},{"lex":"я","gr":"SPRO,sg,1p=gen"}],"text":"меня"}
+{"analysis":[{"lex":"холодеть","gr":"V,ipf,intr=inpraes,sg,indic,3p"}],"text":"холодеет"}
+{"analysis":[{"lex":"лицо","gr":"S,n,inan=acc,sg"},{"lex":"лицо","gr":"S,n,inan=nom,sg"}],"text":"лицо"}

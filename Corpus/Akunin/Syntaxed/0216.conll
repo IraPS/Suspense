@@ -1,0 +1,102 @@
+1	Отметь	ОТМЕЧАТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	0	ROOT	_	_
+2	невероятную	НЕВЕРОЯТНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	3	опред	_	_
+3	дальновидность	ДАЛЬНОВИДНОСТЬ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+4	Анвара	АНВАР	S	S m anim acc sg	S m anim acc sg	3	аппоз	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	3	сочин	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	первый	ПЕРВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+5	воцарения	ВОЦАРЕНИЕ	S	S n inan gen sg	S n inan gen sg	4	квазиагент	_	_
+6	Мурада	МУРАД	S	S m anim acc sg	S m anim acc sg	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	когда	КОГДА	CONJ	CONJ	CONJ	6	обст	_	_
+9	все	ВСЕ	S	S - - nom pl	S - - nom pl	11	предик	_	_
+10	еще	ЕЩЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	выглядело	ВЫГЛЯДЕТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	8	подч-союзн	_	_
+12	лучезарно	ЛУЧЕЗАРНЫЙ	A	A - - sg brev n -	A - - sg brev n -	11	присвяз	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	our	OUR	NONLEX	NONLEX	NONLEX	11	предик	_	_
+15	mutual	MUTUAL	NONLEX	NONLEX	NONLEX	14	аппоз	_	_
+16	friend	FRIEND	NONLEX	NONLEX	NONLEX	15	аппоз	_	_
+17	вдруг	ВДРУГ	ADV	ADV -	ADV -	18	обст	_	_
+18	попросился	ПОПРОСИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	изъясн	_	_
+19	секретарем	СЕКРЕТАРЬ	S	S f inan acc sg	S f inan acc sg	18	1-компл	_	_
+20	к	К	PR	PR	PR	19	1-компл	_	_
+21	принцу	ПРИНЦ	S	S m anim dat sg	S m anim dat sg	20	предл	_	_
+22	Абдул	АБДУЛ	S	S m anim gen sg	S m anim gen sg	19	квазиагент	_	_
+23	-	-	-	-	PUNC	22	PUNC	_	_
+24	Гамиду	ГАМИДА	S	S f anim acc sg	S f anim acc sg	18	2-компл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	брату	БРАТ	S	S m anim dat sg	S m anim dat sg	18	2-компл	_	_
+27	султана	СУЛТАН	S	S m anim gen sg	S m anim gen sg	26	1-компл	_	_
+28	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+29	престолонаследнику	ПРЕСТОЛОНАСЛЕДНИК	S	S m anim dat sg	S m anim dat sg	28	соч-союзн	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	8	обст	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+3	об	ОБ	PR	PR	PR	5	3-компл	_	_
+4	этом	ЭТО	S	S n - loc sg	S n - loc sg	3	предл	_	_
+5	узнал	УЗНАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	8	1-компл	_	_
+8	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+9	ясно	ЯСНО	ADV	ADV -	ADV -	8	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	8	предик	_	_
+12	Мидхат	МИДХАТ	S	S m anim nom sg	S m anim nom sg	19	предик	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	паша	ПАША	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+15	в	В	PR	PR	PR	19	обст	_	_
+16	Myраде	МУРАД	S	S m anim loc sg	S m anim loc sg	15	предл	_	_
+17	V	V	NUM	NUM - - -	NUM - - -	19	предик	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	уверен	УВЕРЕННЫЙ	A	A - - sg brev m -	A - - sg brev m -	11	подч-союзн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	пригляделся	ПРИГЛЯДЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	1-компл	_	_
+4	новому	НОВЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	5	опред	_	_
+5	наследнику	НАСЛЕДНИК	S	S m anim dat sg	S m anim dat sg	3	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	видимо	ВИДИМО	ADV	ADV -	ADV -	9	вводн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	счел	СЧЕСТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+10	его	ОНО	SPRO	SPRO sg 3p n acc	SPRO sg 3p n acc	9	1-компл	_	_
+11	приемлемым	ПРИЕМЛЕМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	9	2-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	и	И	CONJ	CONJ	CONJ	9	сент-соч	_	_
+14	Мидхат	МИДХАТ	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+15	поставил	ПОСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+16	Абдул	АБДУЛ	S	S m anim nom sg	S m anim nom sg	15	2-компл	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	Гамиду	ГАМИДА	S	S m inan gen sg	S m inan gen sg	16	1-компл	_	_
+19	условие	УСЛОВИЕ	S	S n inan nom sg	S n inan nom sg	21	предик	_	_
+20	:	:	:	:	PUNC	21	обст	_	_
+21	обещай	ОБЕЩАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	2	сент-соч	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	что	ЧТО	CONJ	CONJ	CONJ	21	1-компл	_	_
+24	введешь	ВВОДИТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	23	подч-союзн	_	_
+25	в	В	PR	PR	PR	24	обст	_	_
+26	стране	СТРАНА	S	S f inan loc sg	S f inan loc sg	25	предл	_	_
+27	конституцию	КОНСТИТУЦИЯ	S	S f inan acc sg	S f inan acc sg	24	1-компл	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	 	 	 	 	PUNC	27	опред	_	_
+30	–	–	–	–	PUNC	33	опред	_	_
+31	и	И	CONJ	CONJ	CONJ	30	сочин	_	_
+32	будешь	БЫТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	31	соч-союзн	_	_
+33	падишахом	ПАДИШАХ	S	S f inan nom sg	S f inan nom sg	24	предик	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	Принц	ПРИНЦ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	разумеется	РАЗУМЕЕТСЯ	ADV	ADV -	ADV -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	согласился	СОГЛАШАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

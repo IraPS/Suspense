@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"грохотать","gr":"V,ipf,intr=inpraes,ger"}],"text":"Грохоча"}
+{"analysis":[{"lex":"сапог","gr":"S,m,inan=ins,pl"}],"text":"сапогами"}
+{"analysis":[{"lex":"входить","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"вошел"}
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"распахнуть","gr":"V,pf,tran=praet,abl,sg,partcp,plen,f,pass"},{"lex":"распахнуть","gr":"V,pf,tran=praet,dat,sg,partcp,plen,f,pass"},{"lex":"распахнуть","gr":"V,pf,tran=praet,gen,sg,partcp,plen,f,pass"},{"lex":"распахнуть","gr":"V,pf,tran=praet,ins,sg,partcp,plen,f,pass"}],"text":"распахнутой"}
+{"analysis":[{"lex":"белый","gr":"A=abl,sg,plen,f"},{"lex":"белый","gr":"A=dat,sg,plen,f"},{"lex":"белый","gr":"A=gen,sg,plen,f"},{"lex":"белый","gr":"A=ins,sg,plen,f"}],"text":"белой"}
+{"analysis":[{"lex":"шинель","gr":"S,f,inan=abl,sg"},{"lex":"шинель","gr":"S,f,inan=acc,pl"},{"lex":"шинель","gr":"S,f,inan=dat,sg"},{"lex":"шинель","gr":"S,f,inan=gen,sg"},{"lex":"шинель","gr":"S,f,inan=nom,pl"}],"text":"шинели"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"алый","gr":"A=ins,pl,plen"}],"text":"алыми"}
+{"analysis":[{"lex":"отворот","gr":"S,m,inan=ins,pl"}],"text":"отворотами"}

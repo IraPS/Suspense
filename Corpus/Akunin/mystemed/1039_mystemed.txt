@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"Она"}
+{"analysis":[{"lex":"оглянуться","gr":"V,pf,intr=praet,sg,indic,f"}],"text":"оглянулась"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"секунда","gr":"S,f,inan=acc,sg"}],"text":"секунду"}
+{"analysis":[{"lex":"помешкать","gr":"V,pf,intr=praet,sg,indic,f"}],"text":"помешкала"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"вскакивать","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"вскочила"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"поплыть","gr":"V,pf,intr=praet,acc,sg,partcp,plen,f,act"}],"text":"поплывшую"}
+{"analysis":[{"lex":"вдоль","gr":"PR="}],"text":"вдоль"}
+{"analysis":[{"lex":"перрон","gr":"S,m,inan=gen,sg"}],"text":"перрона"}
+{"analysis":[{"lex":"ступенька","gr":"S,f,inan=acc,sg"}],"text":"ступеньку"}

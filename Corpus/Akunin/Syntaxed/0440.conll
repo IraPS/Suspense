@@ -1,0 +1,17 @@
+1	Наконец	НАКОНЕЦ	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	чувствуя	ЧУВСТВОВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	вот-вот	ВОТ-ВОТ	ADV	ADV -	ADV -	7	обст	_	_
+7	задохнется	ЗАДЫХАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	5	подч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+10	оттолкнула	ОТТАЛКИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	сент-соч	_	_
+11	кавалериста	КАВАЛЕРИСТ	S	S m anim acc sg	S m anim acc sg	10	1-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+13	схватилась	СХВАТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	12	соч-союзн	_	_
+14	за	ЗА	PR	PR	PR	13	обст	_	_
+15	сердце	СЕРДЦЕ	S	S n inan loc sg	S n inan loc sg	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

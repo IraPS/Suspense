@@ -1,0 +1,27 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	встрепенулась	ВСТРЕПЕНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	–	–	–	–	PUNC	2	1-компл	_	_
+4	из	ИЗ	PR	PR	PR	2	2-компл	_	_
+5	кустов	КУСТ	S	S m inan gen pl	S m inan gen pl	4	предл	_	_
+6	на	НА	PR	PR	PR	5	атриб	_	_
+7	дорогу	ДОРОГА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	выехал	ВЫЕЗЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+9	забрызганный	ЗАБРЫЗГАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	11	опред	_	_
+10	грязью	ГРЯЗЬ	S	S f inan ins sg	S f inan ins sg	9	агент	_	_
+11	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Шляпа	ШЛЯПА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	съехала	СЪЕЗЖАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	2-компл	_	_
+4	бок	БОК	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	7	предик	_	_
+7	красное	КРАСНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	по	ПО	PR	PR	PR	11	вводн	_	_
+10	лбу	ЛОБ	S	S m inan dat sg	S m inan dat sg	9	предл	_	_
+11	стекает	СТЕКАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	2-компл	_	_
+12	пот	ПОТ	S	S m inan acc sg	S m inan acc sg	11	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

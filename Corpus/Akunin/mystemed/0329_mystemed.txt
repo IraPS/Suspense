@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"ого","gr":"INTJ="}],"text":"Ого"}
+{"analysis":[{"lex":"да","gr":"CONJ="}],"text":"да"}
+{"analysis":[{"lex":"здесь","gr":"ADVPRO="}],"text":"здесь"}
+{"analysis":[{"lex":"весело","gr":"ADV="}],"text":"весело"}
+{"analysis":[{"lex":"вдруг","gr":"ADV="}],"text":"вдруг"}
+{"analysis":[{"lex":"раздаваться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"раздался"}
+{"analysis":[{"lex":"звучный","gr":"A=acc,sg,plen,m,inan"},{"lex":"звучный","gr":"A=nom,sg,plen,m"}],"text":"звучный"}
+{"analysis":[{"lex":"уверенный","gr":"A=acc,sg,plen,m,inan"},{"lex":"уверенный","gr":"A=nom,sg,plen,m"}],"text":"уверенный"}
+{"analysis":[{"lex":"голос","gr":"S,m,inan=acc,sg"},{"lex":"голос","gr":"S,m,inan=nom,sg"}],"text":"голос"}

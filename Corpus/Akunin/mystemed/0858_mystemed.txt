@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"почти","gr":"ADV="}],"text":"почти"}
+{"analysis":[{"lex":"все-таки","gr":"PART="}],"text":"все-таки"}
+{"analysis":[{"lex":"прибавлять","gr":"V,tran=praet,sg,indic,f,pf"}],"text":"прибавила"}
+{"text":"\\s"}
+{"analysis":[{"lex":"о","gr":"PR="}],"text":"О"}
+{"analysis":[{"lex":"ненавистный","gr":"A=acc,sg,plen,n"},{"lex":"ненавистный","gr":"A=nom,sg,plen,n"}],"text":"ненавистное"}
+{"analysis":[{"lex":"неистребимый","gr":"A=acc,sg,plen,n"},{"lex":"неистребимый","gr":"A=nom,sg,plen,n"}],"text":"неистребимое"}
+{"analysis":[{"lex":"женский","gr":"A=acc,sg,plen,n"},{"lex":"женский","gr":"A=nom,sg,plen,n"}],"text":"женское"}

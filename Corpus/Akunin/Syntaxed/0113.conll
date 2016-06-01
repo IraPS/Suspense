@@ -1,0 +1,68 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Кто	КТО	S	S m - nom sg	S m - nom sg	4	опред	_	_
+3	такие	ТАКОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	опред	_	_
+4	четники	ЧЕТНИК	S	S m anim nom pl	S m anim nom pl	1	предик	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	опред	_	_
+2	Болгарские	БОЛГАРСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	повстанцы	ПОВСТАНЕЦ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	О	О	INTJ	INTJ	INTJ	1	1-компл	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	о	О	S	S - - nonflex nonflex	S - - nonflex nonflex	2	разъяснит	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	ви	ВИ	NONLEX	NONLEX	NONLEX	4	аппоз	_	_
+7	дама	ДАМА	S	S f anim nom sg	S f anim nom sg	4	сочин	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	1-компл	_	_
+2	на	НА	PR	PR	PR	1	1-компл	_	_
+3	мясистом	МЯСИСТЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	5	опред	_	_
+4	добродушном	ДОБРОДУШНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	5	опред	_	_
+5	лице	ЛИЦО	S	S n inan loc sg	S n inan loc sg	2	предл	_	_
+6	англичанина	АНГЛИЧАНИН	S	S m anim gen sg	S m anim gen sg	5	квазиагент	_	_
+7	отразилось	ОТРАЖАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+8	изумление	ИЗУМЛЕНИЕ	S	S n inan nom sg	S n inan nom sg	7	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Однако	ОДНАКО	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	какой	КАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	мэскарад	МЭСКАРАД	S	S m inan acc sg	S m inan acc sg	2	сравн-союзн	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	знал	ЗНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	русские	РУССКИЙ	S	S m anim nom pl	S m anim nom pl	7	предик	_	_
+7	ползуют	ПОЛЗУВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	5	подч-союзн	_	_
+8	дженщин	ДЖЕНЩИНА	S	S m inan nom pl	S m inan nom pl	7	присвяз	_	_
+9	для	ДЛЯ	PR	PR	PR	8	атриб	_	_
+10	эспианаж	ЭСПИАНАЖ	S	S m inan gen sg	S m inan gen sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Ви	ВИ	NONLEX	NONLEX	NONLEX	4	предик	_	_
+2	хироуиня	ХИРОУИНЯ	ADV	ADV -	ADV -	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	мэдам	МЭД	S	S m inan dat pl	S m inan dat pl	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Как	КАК	ADV	ADV -	ADV -	3	обст	_	_
+2	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	3	1-компл	_	_
+3	зовут	ЗВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	отчен	ОТЧЕННЫЙ	A	A - - sg brev m -	A - - sg brev m -	2	присвяз	_	_
+4	интэрэсно	ИНТЭРЭСНО	ADV	ADV -	ADV -	5	огранич	_	_
+5	для	ДЛЯ	PR	PR	PR	3	1-компл	_	_
+6	моих	МОЙ	A	A - loc pl plen - -	A - loc pl plen - -	7	опред	_	_
+7	тчитатэлэй	ТЧИТАТЭЛЭЙ	S	S f inan nom sg	S f inan nom sg	5	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"лукан","gr":"S,persn,m,anim=nom,sg"}],"text":"Лукан"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"что-то","gr":"SPRO,sg,n,inan=acc"},{"lex":"что-то","gr":"SPRO,sg,n,inan=nom"}],"text":"что-то"}
+{"analysis":[{"lex":"по-румынски","gr":"ADV="}],"text":"по-румынски"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"зритель","gr":"S,m,anim=nom,pl"}],"text":"зрители"}
+{"analysis":[{"lex":"понимающе","gr":"ADV="}],"text":"понимающе"}
+{"analysis":[{"lex":"засмеяться","gr":"V,pf,intr=praet,pl,indic"}],"text":"засмеялись"}

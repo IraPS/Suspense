@@ -1,0 +1,8 @@
+1	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	наклонился	НАКЛОНЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	1-компл	_	_
+4	самому	САМЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	6	опред	_	_
+5	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	квазиагент	_	_
+6	уху	УХО	S	S n inan dat sg	S n inan dat sg	3	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

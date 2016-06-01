@@ -1,0 +1,35 @@
+1	Начиналось	НАЧИНАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+4	веселое	ВЕСЕЛЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	5	опред	_	_
+5	приключение	ПРИКЛЮЧЕНИЕ	S	S n inan nom sg	S n inan nom sg	3	сравн-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	1	сочин	_	_
+8	закончилось	ЗАКАНЧИВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	7	соч-союзн	_	_
+9	вон	ВОН	PART	PART	PART	10	огранич	_	_
+10	чем	ЧЕМ	CONJ	CONJ	CONJ	8	сравнит	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Так	ТАК	ADV	ADV -	ADV -	2	обст	_	_
+2	дуре	ДУРА	S	S f anim dat sg	S f anim dat sg	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	надо	НАДО	ADV	ADV -	ADV -	3	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Мама	МАМА	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	всегда	ВСЕГДА	ADV	ADV -	ADV -	3	обст	_	_
+3	повторяла	ПОВТОРЯТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+7	рано	РАНО	ADV	ADV -	ADV -	10	обст	_	_
+8	или	ИЛИ	CONJ	CONJ	CONJ	7	сочин	_	_
+9	поздно	ПОЗДНО	ADV	ADV -	ADV -	8	соч-союзн	_	_
+10	доиграется	ДОИГРЫВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	5	подч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	вот	ВОТ	PART	PART	PART	13	огранич	_	_
+13	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	0	ROOT	_	_
+14	и	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+15	доигралась	ДОИГРЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

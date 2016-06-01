@@ -1,0 +1,27 @@
+1	Никогда	НИКОГДА	ADV	ADV -	ADV -	5	обст	_	_
+2	в	В	PR	PR	PR	5	обст	_	_
+3	Колюше	КОЛЮША	S	S m anim dat sg	S m anim dat sg	2	предл	_	_
+4	нельзя	НЕЛЬЗЯ	ADV	ADV -	ADV -	5	присвяз	_	_
+5	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	заметить	ЗАМЕЧАТЬ	V	V pf - - inf - -	V pf - - inf - -	5	предик	_	_
+7	хотя бы	хотя бы	ADV	ADV -	-	6	обст	_	_
+8	оттенка	ОТТЕНОК	S	S m inan gen sg	S m inan gen sg	6	1-компл	_	_
+9	лукавства	ЛУКАВСТВО	S	S n inan gen sg	S n inan gen sg	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	лжи	ЛОЖЬ	S	S f inan gen sg	S f inan gen sg	9	сочин	_	_
+12	или	ИЛИ	CONJ	CONJ	CONJ	11	сочин	_	_
+13	лицемерия	ЛИЦЕМЕРИЕ	S	S n inan gen sg	S n inan gen sg	12	соч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Прямота	ПРЯМОТА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	искренность	ИСКРЕННОСТЬ	S	S f inan nom sg	S f inan nom sg	1	сочин	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	абсолютная	АБСОЛЮТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	правдивость	ПРАВДИВОСТЬ	S	S f inan nom sg	S f inan nom sg	4	соч-союзн	_	_
+7	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+8	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	10	квазиагент	_	_
+9	отличительными	ОТЛИЧИТЕЛЬНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	10	опред	_	_
+10	чертами	ЧЕРТА	S	S f inan ins pl	S f inan ins pl	7	присвяз	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

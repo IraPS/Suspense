@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"Д"}
+{"analysis":[{"lex":"эвр","qual":"bastard","gr":"S,m,inan=abl,sg"}],"text":"Эвре"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"отвечать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"ответил"}
+{"text":"\\s"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"смотреть","gr":"V,ipf,tran=praet,sg,indic,m"}],"text":"смотрел"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"титулярный","gr":"A=acc,sg,plen,m,anim"},{"lex":"титулярный","gr":"A=gen,sg,plen,m"},{"lex":"титулярный","gr":"A=gen,sg,plen,n"}],"text":"титулярного"}
+{"analysis":[{"lex":"советник","gr":"S,m,anim=acc,sg"},{"lex":"советник","gr":"S,m,anim=gen,sg"}],"text":"советника"}
+{"analysis":[{"lex":"внимательно","gr":"ADV="}],"text":"внимательно"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"казаться","gr":"V,ipf,intr=praet,sg,indic,n"}],"text":"казалось"}
+{"analysis":[{"lex":"что-то","gr":"SPRO,sg,n,inan=gen"}],"text":"чего-то"}
+{"analysis":[{"lex":"ждать","gr":"V,ipf,tran=praet,sg,indic,m"}],"text":"ждал"}

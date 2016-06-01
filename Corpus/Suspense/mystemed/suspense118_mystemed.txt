@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"да","gr":"PART="}],"text":"Да"}
+{"analysis":[{"lex":"тихо","gr":"ADV="}],"text":"тихо"}
+{"analysis":[{"lex":"молвить","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"молвил"}
+{"analysis":[{"lex":"фельдшер","gr":"S,m,anim=nom,sg"}],"text":"фельдшер"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"ничто","gr":"SPRO,sg,n=gen"}],"text":"ничего"}
+{"analysis":[{"lex":"больше","gr":"ADV="}],"text":"больше"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"прибавлять","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"прибавил"}

@@ -1,0 +1,167 @@
+1	Когда	КОГДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	кончал	КОНЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	подч-союзн	_	_
+4	среднюю	СРЕДНИЙ	A	A - acc sg plen f -	A - acc sg plen f -	5	опред	_	_
+5	школу	ШКОЛА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	в	В	PR	PR	PR	9	обст	_	_
+8	нем	ОН	SPRO	SPRO sg 3p m loc	SPRO sg 3p m loc	7	предл	_	_
+9	сохранялись	СОХРАНЯТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	5	релят	_	_
+10	еще	ЕЩЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	в	В	PR	PR	PR	9	обст	_	_
+12	значительной	ЗНАЧИТЕЛЬНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	13	опред	_	_
+13	степени	СТЕПЕНЬ	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+14	детские	ДЕТСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	15	опред	_	_
+15	интересы	ИНТЕРЕС	S	S m inan acc pl	S m inan acc pl	9	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Так	ТАК	ADV	ADV -	ADV -	8	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	например	НАПРИМЕР	ADV	ADV -	ADV -	8	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	8	предик	_	_
+6	с	С	PR	PR	PR	8	обст	_	_
+7	увлечением	УВЛЕЧЕНИЕ	S	S n inan ins sg	S n inan ins sg	6	предл	_	_
+8	играл	ИГРАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+9	с	С	PR	PR	PR	8	1-компл	_	_
+10	товарищами	ТОВАРИЩ	S	S m anim ins pl	S m anim ins pl	9	предл	_	_
+11	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+12	братом	БРАТ	S	S m anim ins sg	S m anim ins sg	11	соч-союзн	_	_
+13	Сережей	СЕРЕЖА	S	S m anim ins sg	S m anim ins sg	12	аппоз	_	_
+14	(	(	_	_	PUNC	15	PUNC	_	_
+15	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	16	предик	_	_
+16	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	сент-соч	_	_
+17	на	НА	PR	PR	PR	16	присвяз	_	_
+18	четыре	ЧЕТЫРЕ	NUM	NUM nom - -	NUM nom - -	19	количест	_	_
+19	года	ГОД	S	S m inan gen sg	S m inan gen sg	17	предл	_	_
+20	моложе	МОЛОДОЙ	A	A comp - - plen - -	A comp - - plen - -	16	сент-соч	_	_
+21	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	20	сравнит	_	_
+22	)	)	_	_	PUNC	21	PUNC	_	_
+23	в	В	PR	PR	PR	20	колич-огран	_	_
+24	различные	РАЗЛИЧНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	26	опред	_	_
+25	детские	ДЕТСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	26	опред	_	_
+26	игры	ИГРА	S	S f inan acc pl	S f inan acc pl	23	предл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	2	предик	_	_
+2	устанавливали	УСТАНАВЛИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	обст	_	_
+4	одном	ОДИН	A	A - loc sg plen m -	A - loc sg plen m -	5	количест	_	_
+5	конце	КОНЕЦ	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+6	комнаты	КОМНАТА	S	S f inan gen sg	S f inan gen sg	5	квазиагент	_	_
+7	множество	МНОЖЕСТВО	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+8	самодельных	САМОДЕЛЬНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	танков	ТАНК	S	S m inan gen pl	S m inan gen pl	7	квазиагент	_	_
+10	(	(	_	_	PUNC	11	PUNC	_	_
+11	из	ИЗ	PR	PR	PR	9	примыкат	_	_
+12	картона	КАРТОН	S	S m inan gen sg	S m inan gen sg	11	предл	_	_
+13	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+14	бумаги	БУМАГА	S	S f inan gen sg	S f inan gen sg	13	соч-союзн	_	_
+15	)	)	_	_	PUNC	14	PUNC	_	_
+16	,	,	,	,	PUNC	14	PUNC	_	_
+17	аэропланов	АЭРОПЛАН	S	S m inan gen pl	S m inan gen pl	9	сочин	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	пушек	ПУШКА	S	S f inan gen pl	S f inan gen pl	17	сочин	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	шахматных	ШАХМАТНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	19	сочин	_	_
+22	фигур	ФИГУРА	S	S f inan gen pl	S f inan gen pl	21	1-компл	_	_
+23	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+24	т.п	Т.П	S	S - - nonflex nonflex	S - - nonflex nonflex	23	соч-союзн	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	В	В	PR	PR	PR	4	обст	_	_
+2	другом	ДРУГ	S	S m anim ins sg	S m anim ins sg	1	предл	_	_
+3	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	4	предик	_	_
+4	помещались	ПОМЕЩАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	сами	САМ	A	A - nom pl plen - -	A - nom pl plen - -	4	суб-копр	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+8	из	ИЗ	PR	PR	PR	12	атриб	_	_
+9	резиновых	РЕЗИНОВЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	опред	_	_
+10	рогаток	РОГАТКА	S	S f inan gen pl	S f inan gen pl	8	предл	_	_
+11	бумажными	БУМАЖНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	12	опред	_	_
+12	пулями	ПУЛЯ	S	S f inan ins pl	S f inan ins pl	13	1-компл	_	_
+13	расстреливали	РАССТРЕЛИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	7	соч-союзн	_	_
+14	«	«	_	_	PUNC	13	PUNC	_	_
+15	неприятельскую	НЕПРИЯТЕЛЬСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	16	опред	_	_
+16	технику	ТЕХНИКА	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+17	»	»	_	_	PUNC	16	PUNC	_	_
+18	,	,	,	,	PUNC	16	PUNC	_	_
+19	приходя	ПРИХОДИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	13	обст	_	_
+20	в	В	PR	PR	PR	19	2-компл	_	_
+21	восторг	ВОСТОРГ	S	S m inan acc sg	S m inan acc sg	20	предл	_	_
+22	от	ОТ	PR	PR	PR	19	1-компл	_	_
+23	удачных	УДАЧНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	24	опред	_	_
+24	выстрелов	ВЫСТРЕЛ	S	S m inan gen pl	S m inan gen pl	22	предл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Ах	АХ	INTJ	INTJ	INTJ	6	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	6	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	студент	СТУДЕНТ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	студент	СТУДЕНТ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+9	!	!	!	!	PUNC	6	опред	_	_
+10	»	»	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	шутила	ШУТИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	мама	МАМА	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	глядя	ГЛЯДЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+6	на	НА	PR	PR	PR	5	1-компл	_	_
+7	играющего	ИГРАЮЩИЙ	S	S m anim acc sg	S m anim acc sg	6	предл	_	_
+8	с	С	PR	PR	PR	5	обст	_	_
+9	увлечением	УВЛЕЧЕНИЕ	S	S n inan ins sg	S n inan ins sg	8	предл	_	_
+10	сына	СЫН	S	S m anim gen sg	S m anim gen sg	9	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	хорошо	ХОРОШО	ADV	ADV -	ADV -	3	обст	_	_
+3	играл	ИГРАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	шахматы	ШАХМАТЫ	S	S - inan acc pl	S - inan acc pl	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	3	сочин	_	_
+8	никогда	НИКОГДА	ADV	ADV -	ADV -	10	обст	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	увлекался	УВЛЕКАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	соч-союзн	_	_
+11	ими	ОНИ	SPRO	SPRO pl - - ins	SPRO pl - - ins	10	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	очень	ОЧЕНЬ	ADV	ADV -	ADV -	4	огранич	_	_
+4	подвижен	ПОДВИЖНЫЙ	A	A - - sg brev m -	A - - sg brev m -	2	присвяз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	любил	ЛЮБИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сочин	_	_
+7	сыграть	СЫГРАТЬ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+8	на	НА	PR	PR	PR	7	обст	_	_
+9	пианино	ПИАНИНО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	8	предл	_	_
+10	веселый	ВЕСЕЛЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+11	«	«	_	_	PUNC	12	PUNC	_	_
+12	вальсишко	ВАЛЬСИШКО	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+13	»	»	_	_	PUNC	12	PUNC	_	_
+14	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	очень	ОЧЕНЬ	ADV	ADV -	ADV -	3	огранич	_	_
+3	любил	ЛЮБИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	Ростана	РОСТАН	S	S m anim acc sg	S m anim acc sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	4	сочин	_	_
+7	пьесу	ПЬЕСА	S	S f inan acc sg	S f inan acc sg	6	соч-союзн	_	_
+8	«	«	_	_	PUNC	7	PUNC	_	_
+9	Сирано	СИРАНО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	7	аппоз	_	_
+10	де	ДЕ	PART	PART	PART	11	вспом	_	_
+11	Бержерак	БЕРЖЕРАК	S	S m anim nom sg	S m anim nom sg	9	аппоз	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	знал	ЗНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	сочин	_	_
+14	чуть	ЧУТЬ	ADV	ADV -	ADV -	16	огранич	_	_
+15	ли	ЛИ	PART	PART	PART	14	огранич	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	наизусть	НАИЗУСТЬ	ADV	ADV -	ADV -	13	обст	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

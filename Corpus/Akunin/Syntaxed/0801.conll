@@ -1,0 +1,50 @@
+1	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	молодцевато	МОЛОДЦЕВАТЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+3	расправил	РАСПРАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	1-компл	_	_
+4	плечи	ПЛЕЧО	S	S n inan acc pl	S n inan acc pl	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	вопреки	ВОПРЕКИ	PR	PR	PR	10	обст	_	_
+8	ожиданиям	ОЖИДАНИЕ	S	S n inan dat pl	S n inan dat pl	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	обратился	ОБРАЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	к	К	PR	PR	PR	10	1-компл	_	_
+13	Фандорину	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	а	А	CONJ	CONJ	CONJ	12	сочин	_	_
+16	к	К	PR	PR	PR	15	соч-союзн	_	_
+17	Варе	ВАР	S	S m inan loc sg	S m inan loc sg	16	предл	_	_
+18	:	:	:	:	PUNC	20	опред	_	_
+19	–	–	–	–	PUNC	20	опред	_	_
+20	Госпожа	ГОСПОЖА	S	S f anim nom sg	S f anim nom sg	16	предик	_	_
+21	Суворова	СУВОРОВА	S	S m anim gen sg	S m anim gen sg	20	1-компл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	расскажите	РАССКАЗЫВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	2	эксплет	_	_
+24	подробно	ПОДРОБНО	ADV	ADV -	ADV -	25	огранич	_	_
+25	про	ПРО	PR	PR	PR	23	3-компл	_	_
+26	обе	ОБА	NUM	NUM nom f -	NUM nom f -	28	количест	_	_
+27	ваши	ВАШ	A	A - nom pl plen - -	A - nom pl plen - -	28	опред	_	_
+28	встречи	ВСТРЕЧА	S	S f inan nom pl	S f inan nom pl	25	предл	_	_
+29	с	С	PR	PR	PR	28	1-компл	_	_
+30	корреспондентом	КОРРЕСПОНДЕНТ	S	S m anim ins sg	S m anim ins sg	29	предл	_	_
+31	газеты	ГАЗЕТА	S	S f inan gen sg	S f inan gen sg	30	1-компл	_	_
+32	«	«	_	_	PUNC	31	PUNC	_	_
+33	Дейли	ДЕЙЛИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	31	аппоз	_	_
+34	пост	ПОСТ	S	S m inan acc sg	S m inan acc sg	28	квазиагент	_	_
+35	»	»	_	_	PUNC	34	PUNC	_	_
+36	Шеймасом	ШЕЙМАС	S	S m anim ins sg	S m anim ins sg	28	опред	_	_
+37	Маклафлином	МАКЛАФЛИН	S	S m anim ins sg	S m anim ins sg	36	агент	_	_
+38	–	–	–	–	PUNC	36	1-компл	_	_
+39	во время	во время	PR	PR	ZERO	36	атриб	_	_
+40	третьего	ТРЕТИЙ	A	A - gen sg plen m -	A - gen sg plen m -	42	опред	_	_
+41	плевненского	ПЛЕВНЕНСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	42	опред	_	_
+42	штурма	ШТУРМ	S	S m inan gen sg	S m inan gen sg	39	предл	_	_
+43	и	И	CONJ	CONJ	CONJ	25	сочин	_	_
+44	накануне	НАКАНУНЕ	PR	PR	PR	43	соч-союзн	_	_
+45	прорыва	ПРОРЫВ	S	S m inan gen sg	S m inan gen sg	44	предл	_	_
+46	Османа	ОСМАН	S	S m anim gen sg	S m anim gen sg	45	квазиагент	_	_
+47	-	-	-	-	PUNC	46	PUNC	_	_
+48	паши	ПАША	S	S m inan gen sg	S m inan gen sg	45	1-компл	_	_
+49	.	.	SENT	SENT	SENT	48	PUNC	_	_
+

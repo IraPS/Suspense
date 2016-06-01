@@ -1,0 +1,25 @@
+1	Корчаков	КОРЧАК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	одобрил	ОДОБРЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	:	:	:	:	PUNC	4	опред	_	_
+4	–	–	–	–	PUNC	2	1-компл	_	_
+5	А	А	CONJ	CONJ	CONJ	2	обст	_	_
+6	вот	ВОТ	PART	PART	PART	7	огранич	_	_
+7	это	ЭТО	S	S n - nom sg	S n - nom sg	8	предик	_	_
+8	дельно	ДЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	5	соч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	6	обст	_	_
+2	связать	СВЯЗЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	инф-союзн	_	_
+3	Биконсфильду	БИКОНСФИЛЬД	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	Дерби	ДЕРБИ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	4	соч-союзн	_	_
+6	руки	РУКА	S	S f inan nom pl	S f inan nom pl	8	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	хватит	ХВАТИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	хорошего	ХОРОШИЙ	A	A - gen sg plen m -	A - gen sg plen m -	11	опред	_	_
+11	скандала	СКАНДАЛ	S	S m inan gen sg	S m inan gen sg	9	соч-союзн	_	_
+12	в	В	PR	PR	PR	8	обст	_	_
+13	газетах	ГАЗЕТА	S	S f inan loc pl	S f inan loc pl	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

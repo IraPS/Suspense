@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"Не"}
+{"analysis":[{"lex":"отставать","gr":"V,intr=sg,imper,2p,ipf"}],"text":"отставай"}
+{"analysis":[{"lex":"штык","gr":"S,m,inan=acc,pl"},{"lex":"штык","gr":"S,m,inan=nom,pl"}],"text":"штыки"}
+{"analysis":[{"lex":"высоко","gr":"ADV=comp"}],"text":"выше"}
+{"analysis":[{"lex":"тонко","gr":"ADV="}],"text":"тонко"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"пронзительно","gr":"ADV="}],"text":"пронзительно"}
+{"analysis":[{"lex":"крикнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"крикнул"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"оглядываться","gr":"V,ipf,intr=inpraes,ger"}],"text":"оглядываясь"}
+{"text":"\\s"}
+{"analysis":[{"lex":"семенец","qual":"bastard","gr":"S,m,anim=acc,pl"},{"lex":"семенец","qual":"bastard","gr":"S,m,anim=gen,pl"}],"text":"Семенцов"}
+{"analysis":[{"lex":"смотреть","gr":"V,ipf,tran=sg,imper,2p"}],"text":"смотри"}
+{"analysis":[{"lex":"там","gr":"ADVPRO="}],"text":"там"}
+{"text":"\\s"}
+{"analysis":[{"lex":"башка","gr":"S,f,inan=acc,sg"}],"text":"Башку"}
+{"analysis":[{"lex":"отрывать","gr":"V,tran=inpraes,sg,indic,1p,pf"}],"text":"оторву"}

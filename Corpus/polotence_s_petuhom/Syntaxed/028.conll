@@ -1,0 +1,13 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Леопольд	ЛЕОПОЛЬД	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	Леопольдович	ЛЕОПОЛЬДОВИЧ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	выписал	ВЫПИСЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	-	-	-	-	PUNC	4	PUNC	_	_
+7	с	С	PR	PR	PR	9	обст	_	_
+8	гордостью	ГОРДОСТЬ	S	S f inan ins sg	S f inan ins sg	7	предл	_	_
+9	доложила	ДОКЛАДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	вводн	_	_
+10	Пелагея	ПЕЛАГЕЯ	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+11	Ивановна	ИВАНОВНА	S	S f anim nom sg	S f anim nom sg	10	аппоз	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

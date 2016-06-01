@@ -1,0 +1,34 @@
+1	Вперед	ВПЕРЕД	ADV	ADV -	ADV -	2	обст	_	_
+2	шагнул	ШАГНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	За	ЗА	PR	PR	PR	7	обст	_	_
+2	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	1	предл	_	_
+3	отсутствия	ОТСУТСТВИЕ	S	S n inan gen sg	S n inan gen sg	2	1-компл	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+5	совсем	СОВСЕМ	ADV	ADV -	ADV -	6	огранич	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	изменился	ИЗМЕНЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	только	ТОЛЬКО	PART	PART	PART	10	огранич	_	_
+10	одет	ОДЕВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	7	1-компл	_	_
+11	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сочин	_	_
+12	по	ПО	PR	PR	PR	11	обст	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	цивильному	ЦИВИЛЬНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	сущим	СУЩИЙ	A	A - ins sg plen m -	A - ins sg plen m -	17	опред	_	_
+17	франтом	ФРАНТ	S	S m anim ins sg	S m anim ins sg	11	присвяз	_	_
+18	:	:	:	:	PUNC	19	опред	_	_
+19	цилиндр	ЦИЛИНДР	S	S m inan nom sg	S m inan nom sg	11	предик	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	плащ	ПЛАЩ	S	S m inan nom sg	S m inan nom sg	19	аппоз	_	_
+22	с	С	PR	PR	PR	19	атриб	_	_
+23	пелериной	ПЕЛЕРИНА	S	S f inan ins sg	S f inan ins sg	22	предл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	крахмальный	КРАХМАЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	26	опред	_	_
+26	воротничок	ВОРОТНИЧОК	S	S m inan nom sg	S m inan nom sg	19	аппоз	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

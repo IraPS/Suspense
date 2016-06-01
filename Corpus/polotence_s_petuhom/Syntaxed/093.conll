@@ -1,0 +1,80 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	кость	КОСТЬ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	отпала	ОТПАДАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	руках	РУКА	S	S f inan loc pl	S f inan loc pl	1	предл	_	_
+3	у	У	PR	PR	PR	6	обст	_	_
+4	Демьяна	ДЕМЬЯН	S	S m anim gen sg	S m anim gen sg	3	предл	_	_
+5	Лукича	ЛУКИЧ	S	S m anim gen sg	S m anim gen sg	4	аппоз	_	_
+6	осталось	ОСТАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+7	то	ТО	S	S n - nom sg	S n - nom sg	6	огранич	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	эксплет	_	_
+10	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	9	подч-союзн	_	_
+11	девичьей	ДЕВИЧИЙ	A	A - ins sg plen f -	A - ins sg plen f -	12	опред	_	_
+12	ногой	НОГА	S	S f inan ins sg	S f inan ins sg	10	присвяз	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Лохмы	ЛОХМЫ	S	S - inan nom pl	S - inan nom pl	0	ROOT	_	_
+2	мяса	МЯСО	S	S n inan gen sg	S n inan gen sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	кости	КОСТЬ	S	S f inan nom pl	S f inan nom pl	1	предик	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	3	предик	_	_
+2	это	ЭТО	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+3	отбросили	ОТБРАСЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+8	на	НА	PR	PR	PR	10	обст	_	_
+9	столе	СТОЛ	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+10	оказалась	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+11	девушка	ДЕВУШКА	S	S f anim nom sg	S f anim nom sg	10	присвяз	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	как будто	как будто	CONJ	CONJ	ZERO	3	обст	_	_
+14	укороченная	УКОРАЧИВАТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	0	ROOT	_	_
+15	на	НА	PR	PR	PR	14	2-компл	_	_
+16	треть	ТРЕТЬ	S	S f inan acc sg	S f inan acc sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	с	С	PR	PR	PR	0	ROOT	_	_
+19	оттянутой	ОТТЯГИВАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	0	ROOT	_	_
+20	в	В	PR	PR	PR	19	2-компл	_	_
+21	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	20	предл	_	_
+22	культей	КУЛЬТЯ	S	S f inan gen pl	S f inan gen pl	21	квазиагент	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	"	"	_	_	PUNC	2	PUNC	_	_
+2	Еще	ЕЩЕ	ADV	ADV -	ADV -	7	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	еще	ЕЩЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	немножко...	НЕМНОЖКО...	ADV	ADV -	ADV -	7	обст	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	умирай	УМИРАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	-	-	-	-	PUNC	7	PUNC	_	_
+10	вдохновенно	ВДОХНОВЕННО	ADV	ADV -	ADV -	11	обст	_	_
+11	думал	ДУМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	вводн	_	_
+12	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	-	-	-	-	PUNC	12	PUNC	_	_
+15	потерпи	ПОТЕРПЕТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	11	обст	_	_
+16	до	ДО	PR	PR	PR	15	обст	_	_
+17	палаты	ПАЛАТА	S	S f inan gen sg	S f inan gen sg	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	дай	ДАВАТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	11	обст	_	_
+20	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	21	1-компл	_	_
+21	выскочить	ВЫСКОЧИТЬ	V	V pf - - inf - -	V pf - - inf - -	19	предик	_	_
+22	благополучно	БЛАГОПОЛУЧНО	ADV	ADV -	ADV -	21	обст	_	_
+23	из	ИЗ	PR	PR	PR	22	1-компл	_	_
+24	этого	ЭТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	26	опред	_	_
+25	ужасного	УЖАСНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	26	опред	_	_
+26	случая	СЛУЧАЙ	S	S m inan gen sg	S m inan gen sg	23	предл	_	_
+27	моей	МОЙ	A	A - gen sg plen f -	A - gen sg plen f -	28	опред	_	_
+28	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	26	квазиагент	_	_
+29	"	"	_	_	PUNC	28	PUNC	_	_
+30	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

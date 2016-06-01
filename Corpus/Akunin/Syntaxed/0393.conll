@@ -1,0 +1,44 @@
+1	Объясняться	ОБЪЯСНЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	2	предик	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	глупо	ГЛУПЫЙ	A	A - - sg brev n -	A - - sg brev n -	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+7	просто	ПРОСТО	ADV	ADV -	ADV -	8	обст	_	_
+8	сбежала	СБЕГАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	8	1-компл	_	_
+11	тоже	ТОЖЕ	PART	PART	PART	12	огранич	_	_
+12	получилось	ПОЛУЧАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	10	подч-союзн	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	очень	ОЧЕНЬ	ADV	ADV -	ADV -	15	огранич	_	_
+15	умно	УМНЫЙ	A	A - - sg brev n -	A - - sg brev n -	12	присвяз	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	но	НО	CONJ	CONJ	CONJ	12	сент-соч	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	по крайней мере	по крайней мере	ADV	ADV -	-	20	обст	_	_
+20	обошлось	ОБХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	17	соч-союзн	_	_
+21	без	БЕЗ	PR	PR	PR	20	обст	_	_
+22	неприятной	НЕПРИЯТНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	23	опред	_	_
+23	сцены	СЦЕНА	S	S f inan gen sg	S f inan gen sg	21	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Как	КАК	ADV	ADV -	ADV -	3	огранич	_	_
+2	ни	НИ	PART	PART	PART	3	огранич	_	_
+3	странно	СТРАННЫЙ	A	A - - sg brev n -	A - - sg brev n -	7	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	впоследствии	ВПОСЛЕДСТВИИ	ADV	ADV -	ADV -	7	обст	_	_
+6	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+7	вел	ВЕСТИ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+8	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	7	1-компл	_	_
+9	так	ТАК	ADV	ADV -	ADV -	7	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	будто	БУДТО	CONJ	CONJ	CONJ	7	сравнит	_	_
+12	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	эпизод	ЭПИЗОД	S	S m inan nom sg	S m inan nom sg	11	сравн-союзн	_	_
+14	вообще	ВООБЩЕ	ADV	ADV -	ADV -	17	обст	_	_
+15	места	МЕСТО	S	S n inan gen sg	S n inan gen sg	17	1-компл	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сочин	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

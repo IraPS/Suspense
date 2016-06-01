@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"У"}
+{"analysis":[{"lex":"крыльцо","gr":"S,n,inan=acc,pl"},{"lex":"крыльцо","gr":"S,n,inan=gen,sg"},{"lex":"крыльцо","gr":"S,n,inan=nom,pl"}],"text":"крыльца"}
+{"analysis":[{"lex":"останавливаться","gr":"V,intr=praet,pl,indic,pf"}],"text":"остановились"}
+{"text":"\\s"}
+{"analysis":[{"lex":"надо","gr":"ADV,praed="}],"text":"Надо"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"было"}
+{"analysis":[{"lex":"как-то","gr":"ADVPRO="}],"text":"как-то"}
+{"analysis":[{"lex":"объясняться","gr":"V,intr=inf,pf"}],"text":"объясниться"}

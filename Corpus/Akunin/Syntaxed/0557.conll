@@ -1,0 +1,66 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	боязливо	БОЯЗЛИВО	ADV	ADV -	ADV -	3	обст	_	_
+3	подняла	ПОДЫМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	впервые	ВПЕРВЫЕ	ADV	ADV -	ADV -	7	обст	_	_
+7	посмотрев	ПОСМОТРЕТЬ	V	V pf praet - ger - -	V pf praet - ger - -	3	обст	_	_
+8	титулярному	ТИТУЛЯРНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	9	опред	_	_
+9	советнику	СОВЕТНИК	S	S m anim dat sg	S m anim dat sg	7	1-компл	_	_
+10	в	В	PR	PR	PR	7	2-компл	_	_
+11	лицо	ЛИЦО	S	S n inan acc sg	S n inan acc sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Жалости	ЖАЛОСТЬ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+2	или	ИЛИ	CONJ	CONJ	CONJ	1	сочин	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	того	ТО	S	S n - gen sg	S n - gen sg	2	соч-союзн	_	_
+5	хуже	ПЛОХОЙ	A	A comp - - plen - -	A comp - - plen - -	4	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	презрения	ПРЕЗРЕНИЕ	S	S n inan gen sg	S n inan gen sg	12	1-компл	_	_
+8	в	В	PR	PR	PR	12	обст	_	_
+9	фандоринском	ФАНДОРИНСКИЙ	S	S m anim loc sg	S m anim loc sg	8	предл	_	_
+10	взгляде	ВЗГЛЯД	S	S m inan loc sg	S m inan loc sg	9	аппоз	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	прочла	ПРОЧИТЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	релят	_	_
+13	–	–	–	–	PUNC	12	1-компл	_	_
+14	лишь	ЛИШЬ	CONJ	CONJ	CONJ	1	сочин	_	_
+15	сосредоточенность	СОСРЕДОТОЧЕННОСТЬ	S	S f inan nom sg	S f inan nom sg	14	соч-союзн	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	пожалуй	ПОЖАЛУЙ	PART	PART	PART	20	вводн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	азарт	АЗАРТ	S	S m inan nom sg	S m inan nom sg	16	соч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Облегчение	ОБЛЕГЧЕНИЕ	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+2	тут	ТУТ	ADV	ADV -	ADV -	4	обст	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	сменилось	СМЕНИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	стыдом	СТЫД	S	S m inan ins sg	S m inan ins sg	4	1-компл	_	_
+6	:	:	:	:	PUNC	7	кратно-длительн	_	_
+7	тянула	ТЯНУТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	обст	_	_
+8	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	страшась	СТРАШИТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	обст	_	_
+11	возвращения	ВОЗВРАЩЕНИЕ	S	S n inan gen sg	S n inan gen sg	10	1-компл	_	_
+12	в	В	PR	PR	PR	11	2-компл	_	_
+13	лагерь	ЛАГЕРЬ	S	S m inan acc sg	S m inan acc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	нюни	НЮНИ	S	S - inan acc pl	S - inan acc pl	11	1-компл	_	_
+16	распускала	РАСПУСКАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	1-компл	_	_
+17	из-за	ИЗ-ЗА	PR	PR	PR	16	обст	_	_
+18	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+19	драгоценного	ДРАГОЦЕННЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+20	реноме	РЕНОМЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	17	предл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+23	о	О	PR	PR	PR	27	обст	_	_
+24	деле	ДЕЛО	S	S n inan loc sg	S n inan loc sg	23	предл	_	_
+25	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+26	думать	ДУМАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	25	соч-союзн	_	_
+27	забыла	ЗАБЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	22	соч-союзн	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	эгоистка	ЭГОИСТКА	S	S f anim nom sg	S f anim nom sg	27	предик	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+

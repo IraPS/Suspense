@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"тотчас","gr":"ADV="}],"text":"Тотчас"}
+{"analysis":[{"lex":"позвать","gr":"V,pf,tran=praet,pl,indic"}],"text":"позвали"}
+{"analysis":[{"lex":"истопник","gr":"S,m,anim=acc,sg"},{"lex":"истопник","gr":"S,m,anim=gen,sg"}],"text":"истопника"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,pl,indic,pf"}],"text":"стали"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=acc"},{"lex":"он","gr":"SPRO,sg,3p,m=gen"}],"text":"его"}
+{"analysis":[{"lex":"наводящий","gr":"A=ins,pl,plen"}],"text":"наводящими"}
+{"analysis":[{"lex":"вопрос","gr":"S,m,inan=ins,pl"}],"text":"вопросами"}
+{"analysis":[{"lex":"наталкивать","gr":"V,ipf,tran=inf"}],"text":"наталкивать"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"нужный","gr":"A=acc,sg,plen,m,inan"},{"lex":"нужный","gr":"A=nom,sg,plen,m"}],"text":"нужный"}
+{"analysis":[{"lex":"ответ","gr":"S,m,inan=acc,sg"},{"lex":"ответ","gr":"S,m,inan=nom,sg"}],"text":"ответ"}

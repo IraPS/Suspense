@@ -1,0 +1,53 @@
+1	–	–	–	–	PUNC	2	2-компл	_	_
+2	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	это	ЭТО	S	S n - acc sg	S n - acc sg	4	опред	_	_
+4	Эраста	ЭРАСТ	S	S m anim acc sg	S m anim acc sg	7	1-компл	_	_
+5	Петровича	ПЕТРОВИЧ	S	S m anim gen sg	S m anim gen sg	4	1-компл	_	_
+6	надо	НАДО	ADV	ADV -	ADV -	2	соч-союзн	_	_
+7	благодарить	БЛАГОДАРИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	предик	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	сдержавшись	СДЕРЖИВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	1	обст	_	_
+4	воскликнула	ВОСКЛИЦАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	вводн	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	смертельно	СМЕРТЕЛЬНО	ADV	ADV -	ADV -	8	обст	_	_
+8	обидевшаяся	ОБИЖАТЬСЯ	PARTCP	PARTCP pf praet nom sg plen f act -	PARTCP pf praet nom sg plen f act -	5	опред	_	_
+9	за	ЗА	PR	PR	PR	8	3-компл	_	_
+10	Фандорина	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Стоит	СТОЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	молчит	МОЛЧАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	сочин	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	за	ЗА	PR	PR	PR	7	1-компл	_	_
+6	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	5	предл	_	_
+7	постоять	ПОСТОЯТЬ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	может	МОЧЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	сочин	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	7	неакт-компл	_	_
+2	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	7	1-компл	_	_
+3	сюда	СЮДА	ADV	ADV -	ADV -	7	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	в качестве	в качестве	PR	PR	ZERO	3	сочин	_	_
+6	мебели	МЕБЕЛЬ	S	S f inan gen sg	S f inan gen sg	5	предл	_	_
+7	привели	ПРИВОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	предик	_	_
+2	Это	ЭТО	S	S n - nom sg	S n - nom sg	4	обст	_	_
+3	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	поскакал	ПОСКАКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	к	К	PR	PR	PR	4	2-компл	_	_
+6	Соболеву	СОБОЛЕВ	S	S m anim dat sg	S m anim dat sg	5	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+8	убедил	УБЕЖДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+9	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	10	1-компл	_	_
+10	атаковать	АТАКОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+11	!	!	SENT	SENT	SENT	10	PUNC	_	_
+

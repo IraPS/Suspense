@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"пистолет","gr":"S,m,inan=acc,sg"},{"lex":"пистолет","gr":"S,m,inan=nom,sg"}],"text":"Пистолет"}
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"д"}
+{"analysis":[{"lex":"эвр","qual":"bastard","gr":"S,m,inan=abl,sg"}],"text":"Эвре"}
+{"analysis":[{"lex":"грянуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"грянул"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"раз","gr":"S,m,inan=acc,sg"},{"lex":"раз","gr":"S,m,inan=gen,pl"},{"lex":"раз","gr":"S,m,inan=nom,sg"}],"text":"раз"}
+{"analysis":[{"lex":"прямо","gr":"PART="}],"text":"прямо"}
+{"analysis":[{"lex":"из-под","gr":"PR="}],"text":"из-под"}
+{"analysis":[{"lex":"вариный","qual":"bastard","gr":"A=acc,sg,plen,m,anim"},{"lex":"вариный","qual":"bastard","gr":"A=gen,sg,plen,m"},{"lex":"вариный","qual":"bastard","gr":"A=gen,sg,plen,n"}],"text":"Вариного"}
+{"analysis":[{"lex":"локоть","gr":"S,m,inan=gen,sg"}],"text":"локтя"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"юный","gr":"A=acc,sg,plen,m,inan"},{"lex":"юный","gr":"A=nom,sg,plen,m"}],"text":"юный"}
+{"analysis":[{"lex":"прапорщик","gr":"S,m,anim=nom,sg"}],"text":"прапорщик"}
+{"analysis":[{"lex":"ойкнуть","gr":"V,pf,intr=praet,ger"}],"text":"ойкнув"}
+{"analysis":[{"lex":"упасть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"упал"}
+{"analysis":[{"lex":"лицо","gr":"S,n,inan=ins,sg"}],"text":"лицом"}
+{"analysis":[{"lex":"вниз","gr":"ADV="}],"text":"вниз"}

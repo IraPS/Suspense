@@ -1,0 +1,96 @@
+1	Полог	ПОЛОГ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+2	шатра	ШАТЕР	S	S m inan gen sg	S m inan gen sg	1	квазиагент	_	_
+3	колыхнулся	КОЛЫХНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+6	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	сент-соч	_	_
+7	приземистую	ПРИЗЕМИСТЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	фигуру	ФИГУРА	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+9	в	В	PR	PR	PR	8	атриб	_	_
+10	синем	СИНИЙ	A	A - loc sg plen m -	A - loc sg plen m -	12	опред	_	_
+11	жандармском	ЖАНДАРМСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	12	опред	_	_
+12	мундире	МУНДИР	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+13	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+14	поспешно	ПОСПЕШНО	ADV	ADV -	ADV -	15	обст	_	_
+15	отвернулась	ОТВЕРТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	13	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	сделав	СДЕЛАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	15	обст	_	_
+18	вид	ВИД	S	S m inan acc sg	S m inan acc sg	17	1-компл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	что	ЧТО	CONJ	CONJ	CONJ	17	2-компл	_	_
+21	любуется	ЛЮБОВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	20	подч-союзн	_	_
+22	осточертевшим	ОСТОЧЕРТЕТЬ	PARTCP	PARTCP pf praet dat pl plen - act -	PARTCP pf praet dat pl plen - act -	23	опред	_	_
+23	видом	ВИД	S	S m inan ins sg	S m inan ins sg	21	1-компл	_	_
+24	деревеньки	ДЕРЕВЕНЬКА	S	S f inan gen sg	S f inan gen sg	23	квазиагент	_	_
+25	Богот	БОГОТА	S	S f inan gen pl	S f inan gen pl	24	квазиагент	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	приютившей	ПРИЮТИТЬ	PARTCP	PARTCP pf praet loc sg plen f act -	PARTCP pf praet loc sg plen f act -	23	опред	_	_
+28	штаб	ШТАБ	S	S m inan acc sg	S m inan acc sg	27	1-компл	_	_
+29	главнокомандующего	ГЛАВНОКОМАНДУЮЩИЙ	S	S m anim gen sg	S m anim gen sg	28	квазиагент	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Где	ГДЕ	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	спрашивается	СПРАШИВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	справедливость	СПРАВЕДЛИВОСТЬ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Подлый	ПОДЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	интриган	ИНТРИГАН	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	опричник	ОПРИЧНИК	S	S m anim nom sg	S m anim nom sg	3	соч-союзн	_	_
+5	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	ходит	ХОДИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	клуб	КЛУБ	S	S m inan acc sg	S m inan acc sg	7	предл	_	_
+9	запросто	ЗАПРОСТО	ADV	ADV -	ADV -	6	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	6	сент-соч	_	_
+12	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	21	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	в	В	PR	PR	PR	21	обст	_	_
+15	сущности	СУЩНОСТЬ	S	S f inan loc sg	S f inan loc sg	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	невинная	НЕВИННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	18	опред	_	_
+18	жертва	ЖЕРТВА	S	S f inan nom sg	S f inan nom sg	21	предик	_	_
+19	обстоятельств	ОБСТОЯТЕЛЬСТВО	S	S n inan gen pl	S n inan gen pl	18	1-компл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	топчется	ТОПТАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	соч-союзн	_	_
+22	на	НА	PR	PR	PR	21	1-компл	_	_
+23	пыльной	ПЫЛЬНЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	24	опред	_	_
+24	дороге	ДОРОГА	S	S f inan dat sg	S f inan dat sg	22	предл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	словно	СЛОВНО	CONJ	CONJ	CONJ	21	сравнит	_	_
+27	какая-то	КАКОЙ-ТО	A	A - nom sg plen f -	A - nom sg plen f -	28	опред	_	_
+28	дворняжка	ДВОРНЯЖКА	S	S f anim nom sg	S f anim nom sg	26	сравн-союзн	_	_
+29	!	!	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	возмущенно	ВОЗМУЩЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	тряхнула	ТРЯХНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	твердо	ТВЕРДО	ADV	ADV -	ADV -	7	обст	_	_
+7	решила	РЕШАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	соч-союзн	_	_
+8	убраться	УБИРАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	7	1-компл	_	_
+9	восвояси	ВОСВОЯСИ	ADV	ADV -	ADV -	8	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	но	НО	CONJ	CONJ	CONJ	9	сочин	_	_
+12	сзади	СЗАДИ	ADV	ADV -	ADV -	11	соч-союзн	_	_
+13	раздался	РАЗДАВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+14	вкрадчивый	ВКРАДЧИВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	15	опред	_	_
+15	голос	ГОЛОС	S	S m inan nom sg	S m inan nom sg	13	предик	_	_
+16	ненавистного	НЕНАВИСТНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	17	опред	_	_
+17	грека	ГРЕК	S	S m anim gen sg	S m anim gen sg	15	квазиагент	_	_
+18	:	:	:	:	PUNC	20	опред	_	_
+19	–	–	–	–	PUNC	20	опред	_	_
+20	Госпожа	ГОСПОЖА	S	S f anim nom sg	S f anim nom sg	13	сравнит	_	_
+21	Суворова	СУВОРОВА	S	S m anim gen sg	S m anim gen sg	20	1-компл	_	_
+22	!	!	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Какая	КАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+2	приятная	ПРИЯТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	встреча	ВСТРЕЧА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

@@ -1,0 +1,48 @@
+1	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	скромно	СКРОМНО	ADV	ADV -	ADV -	3	обст	_	_
+3	развел	РАЗВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	руками	РУКА	S	S f inan ins pl	S f inan ins pl	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	продолжил	ПРОДОЛЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+7	:	:	:	:	PUNC	8	опред	_	_
+8	–	–	–	–	PUNC	6	1-компл	_	_
+9	В	В	PR	PR	PR	16	обст	_	_
+10	первый	ПЕРВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	12	опред	_	_
+11	же	ЖЕ	PART	PART	PART	10	огранич	_	_
+12	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+13	новой	НОВЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+14	службы	СЛУЖБА	S	S f inan gen sg	S f inan gen sg	12	квазиагент	_	_
+15	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	16	предик	_	_
+16	вызвал	ВЫЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+17	международный	МЕЖДУНАРОДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	18	опред	_	_
+18	конфликт	КОНФЛИКТ	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	обмен	ОБМЕН	S	S m inan nom sg	S m inan nom sg	19	соч-союзн	_	_
+21	дипломатическими	ДИПЛОМАТИЧЕСКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	22	опред	_	_
+22	нотами	НОТА	S	S f inan ins pl	S f inan ins pl	20	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Николай	НИКОЛАЙ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Павлович	ПАВЛОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	отправил	ОТПРАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	3	1-компл	_	_
+5	с	С	PR	PR	PR	3	обст	_	_
+6	запросом	ЗАПРОС	S	S m inan ins sg	S m inan ins sg	5	предл	_	_
+7	к	К	PR	PR	PR	6	1-компл	_	_
+8	известному	ИЗВЕСТНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	9	опред	_	_
+9	русоненавистнику	РУСОНЕНАВИСТНИК	S	S m anim dat sg	S m anim dat sg	7	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+11	святоше	СВЯТОША	S	S - anim loc sg	S - anim loc sg	10	соч-союзн	_	_
+12	Расану	РАСАНА	S	S f anim acc sg	S f anim acc sg	13	1-компл	_	_
+13	Хайрулле	ХАЙРУЛЛ	S	S m anim loc sg	S m anim loc sg	18	опред	_	_
+14	–	–	–	–	PUNC	18	опред	_	_
+15	это	ЭТО	S	S n - nom sg	S n - nom sg	18	опред	_	_
+16	главный	ГЛАВНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	18	опред	_	_
+17	турецкий	ТУРЕЦКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	18	опред	_	_
+18	поп	ПОП	S	S m anim nom sg	S m anim nom sg	3	вводн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	вроде	ВРОДЕ	PR	PR	PR	0	ROOT	_	_
+21	папы	ПАПА	S	S m anim gen sg	S m anim gen sg	20	предл	_	_
+22	римского	РИМСКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	21	опред	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

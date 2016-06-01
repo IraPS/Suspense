@@ -1,0 +1,54 @@
+1	У	У	PR	PR	PR	3	обст	_	_
+2	входа	ВХОД	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	раздался	РАЗДАВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	стук	СТУК	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+5	шагов	ШАГ	S	S m inan gen pl	S m inan gen pl	4	квазиагент	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	звон	ЗВОН	S	S m inan nom sg	S m inan nom sg	6	соч-союзн	_	_
+8	оружия	ОРУЖИЕ	S	S n inan gen sg	S n inan gen sg	7	квазиагент	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Полог	ПОЛОГ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	резко	РЕЗКО	ADV	ADV -	ADV -	3	обст	_	_
+3	распахнулся	РАСПАХИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+6	в	В	PR	PR	PR	8	обст	_	_
+7	шатер	ШАТЕР	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	заглянул	ЗАГЛЯДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+9	подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	9	аппоз	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	век	ВЕК	ADV	ADV -	ADV -	16	вводн	_	_
+13	бы	БЫ	PART	PART	PART	12	вспом	_	_
+14	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	16	1-компл	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	видеть	ВИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	За	ЗА	PR	PR	PR	4	обст	_	_
+2	спиной	СПИНА	S	S f inan ins sg	S f inan ins sg	1	предл	_	_
+3	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+4	блестели	БЛЕСТЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	штыки	ШТЫК	S	S m inan acc pl	S m inan acc pl	4	1-компл	_	_
+6	конвоя	КОНВОЙ	S	S m inan gen sg	S m inan gen sg	5	квазиагент	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Жандарм	ЖАНДАРМ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	на	НА	PR	PR	PR	4	обст	_	_
+3	миг	МИГ	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+4	задержал	ЗАДЕРЖИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	взгляд	ВЗГЛЯД	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+6	на	НА	PR	PR	PR	5	1-компл	_	_
+7	Фандорине	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	посмотрел	ПОСМОТРЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сочин	_	_
+10	сквозь	СКВОЗЬ	PR	PR	PR	9	обст	_	_
+11	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	а	А	CONJ	CONJ	CONJ	9	сочин	_	_
+14	Пете	ПЕТЯ	S	S m anim dat sg	S m anim dat sg	16	1-компл	_	_
+15	радостно	РАДОСТНО	ADV	ADV -	ADV -	16	обст	_	_
+16	улыбнулся	УЛЫБАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

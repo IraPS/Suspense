@@ -1,0 +1,30 @@
+1	Тогда	ТОГДА	ADV	ADV -	ADV -	3	обст	_	_
+2	секретарь	СЕКРЕТАРЬ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	смотался	СМАТЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	юридический	ЮРИДИЧЕСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	6	опред	_	_
+6	отдел	ОТДЕЛ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+8	оттуда	ОТТУДА	ADV	ADV -	ADV -	9	обст	_	_
+9	привёл	ПРИВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+10	служащего	СЛУЖАЩИЙ	S	S m anim acc sg	S m anim acc sg	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	предик	_	_
+13	отличался	ОТЛИЧАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	сент-соч	_	_
+14	тем	ТО	S	S n - ins sg	S n - ins sg	0	ROOT	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	что	ЧТО	CONJ	CONJ	CONJ	14	эксплет	_	_
+17	умел	УМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	подч-союзн	_	_
+18	составлять	СОСТАВЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	17	1-компл	_	_
+19	любые	ЛЮБОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	20	опред	_	_
+20	бумаги	БУМАГА	S	S f inan gen sg	S f inan gen sg	18	1-компл	_	_
+21	так	ТАК	ADV	ADV -	ADV -	22	огранич	_	_
+22	ловко	ЛОВКО	ADV	ADV -	ADV -	18	обст	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	что	ЧТО	CONJ	CONJ	CONJ	22	эксплет	_	_
+25	обходил	ОБХОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	24	подч-союзн	_	_
+26	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	28	опред	_	_
+27	подводные	ПОДВОДНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	28	опред	_	_
+28	камни	КАМЕНЬ	S	S m inan nom pl	S m inan nom pl	25	предик	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

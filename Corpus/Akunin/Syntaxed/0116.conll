@@ -1,0 +1,28 @@
+1	Корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	сконфуженно	СКОНФУЖЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	сдернул	СДЕРГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	котелок	КОТЕЛОК	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	перешел	ПЕРЕХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+7	на	НА	PR	PR	PR	6	2-компл	_	_
+8	французский	ФРАНЦУЗСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	11	2-компл	_	_
+9	:	:	:	:	PUNC	11	1-компл	_	_
+10	–	–	–	–	PUNC	11	2-компл	_	_
+11	Прошу	ПРОСИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	7	предл	_	_
+12	прощения	ПРОЩЕНИЕ	S	S n inan gen sg	S n inan gen sg	11	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Шеймас	ШЕЙМАС	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+2	Маклафлин	МАКЛАФЛИН	S	S f inan nom sg	S f inan nom sg	1	аппоз	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	сотрудник	СОТРУДНИК	S	S m anim nom sg	S m anim nom sg	1	об-аппоз	_	_
+5	лондонской	ЛОНДОНСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+6	газеты	ГАЗЕТА	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+7	«	«	_	_	PUNC	6	PUNC	_	_
+8	Дейли	ДЕЙЛИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	6	разъяснит	_	_
+9	пост	ПОСТ	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+10	»	»	_	_	PUNC	9	PUNC	_	_
+11	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

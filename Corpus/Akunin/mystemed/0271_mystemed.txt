@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"отдергивать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"отдернул"}
+{"analysis":[{"lex":"полотняный","gr":"A=acc,sg,plen,m,inan"},{"lex":"полотняный","gr":"A=nom,sg,plen,m"}],"text":"полотняный"}
+{"analysis":[{"lex":"полог","gr":"S,m,inan=acc,sg"},{"lex":"полог","gr":"S,m,inan=nom,sg"}],"text":"полог"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"заглядывать","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"заглянула"}
+{"analysis":[{"lex":"внутрь","gr":"ADV="}],"text":"внутрь"}

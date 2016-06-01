@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"проворчать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"проворчал"}
+{"analysis":[{"lex":"сквозь","gr":"PR="}],"text":"сквозь"}
+{"analysis":[{"lex":"зуб","gr":"S,m,inan=acc,pl"},{"lex":"зуб","gr":"S,m,inan=nom,pl"}],"text":"зубы"}
+{"analysis":[{"lex":"сухо","gr":"ADV="}],"text":"сухо"}
+{"analysis":[{"lex":"гм","gr":"INTJ="}],"text":"Гм"}
+{"analysis":[{"lex":"нет","gr":"PART="}],"text":"нет"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"то","gr":"PART="}],"text":"то"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inpraes,sg,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=inpraes,pl,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,1p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,1p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,2p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,2p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,3p,ipf"}],"text":"есть"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"да","gr":"PART="}],"text":"да"}
+{"analysis":[{"lex":"моложавый","gr":"A=sg,brev,m"}],"text":"моложав"}

@@ -1,0 +1,62 @@
+1	Так	ТАК	ADV	ADV -	ADV -	2	огранич	_	_
+2	толком	ТОЛКОМ	ADV	ADV -	ADV -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	попрощались	ПОПРОЩАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	3	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	На	НА	PR	PR	PR	8	обст	_	_
+2	крыльце	КРЫЛЬЦО	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+3	«	«	_	_	PUNC	4	PUNC	_	_
+4	походного	ПОХОДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	дворца	ДВОРЕЦ	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+6	»	»	_	_	PUNC	5	PUNC	_	_
+7	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	2	1-компл	_	_
+8	подхватил	ПОДХВАТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	околдовал	ОКОЛДОВЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	сочин	_	_
+12	магнетизмом	МАГНЕТИЗМ	S	S m inan ins sg	S m inan ins sg	11	1-компл	_	_
+13	славы	СЛАВА	S	S f inan gen sg	S f inan gen sg	12	квазиагент	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	успеха	УСПЕХ	S	S m inan gen sg	S m inan gen sg	14	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	увез	УВЕЗТИ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	сочин	_	_
+18	в	В	PR	PR	PR	17	2-компл	_	_
+19	свой	СВОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	20	опред	_	_
+20	штаб	ШТАБ	S	S m inan acc sg	S m inan acc sg	18	предл	_	_
+21	праздновать	ПРАЗДНОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	17	1-компл	_	_
+22	победу	ПОБЕДА	S	S f inan acc sg	S f inan acc sg	21	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Эрасту	ЭРАСТ	S	S m anim dat sg	S m anim dat sg	6	1-компл	_	_
+2	Петровичу	ПЕТРОВИЧ	S	S m anim dat sg	S m anim dat sg	1	аппоз	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	5	предик	_	_
+4	едва	ЕДВА	ADV	ADV -	ADV -	5	обст	_	_
+5	успела	УСПЕВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	кивнуть	КИВНУТЬ	V	V pf - - inf - -	V pf - - inf - -	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	5	сочин	_	_
+9	наутро	НАУТРО	ADV	ADV -	ADV -	15	обст	_	_
+10	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	15	1-компл	_	_
+11	в	В	PR	PR	PR	15	обст	_	_
+12	лагере	ЛАГЕРЬ	S	S m inan loc sg	S m inan loc sg	11	предл	_	_
+13	уже	УЖЕ	ADV	ADV -	ADV -	15	огранич	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	8	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Денщик	ДЕНЩИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Трифон	ТРИФОН	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	:	:	:	:	PUNC	3	1-компл	_	_
+5	«	«	_	_	PUNC	4	PUNC	_	_
+6	Уехали	УЕЗЖАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	3	сент-соч	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Через	ЧЕРЕЗ	PR	PR	PR	3	обст	_	_
+2	месяц	МЕСЯЦ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+3	заходите	ЗАХОДИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+4	»	»	_	_	PUNC	3	PUNC	_	_
+5	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

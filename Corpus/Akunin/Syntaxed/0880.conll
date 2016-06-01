@@ -1,0 +1,58 @@
+1	Состав	СОСТАВ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	несся	НЕСТИСЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	сквозь	СКВОЗЬ	PR	PR	PR	2	обст	_	_
+4	тьму	ТЬМА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	быстро	БЫСТРО	ADV	ADV -	ADV -	2	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+8	едва	ЕДВА	ADV	ADV -	ADV -	9	обст	_	_
+9	успевала	УСПЕВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	сент-соч	_	_
+10	прочесть	ПРОЧИТЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+11	названия	НАЗВАНИЕ	S	S n inan acc pl	S n inan acc pl	10	1-компл	_	_
+12	станций	СТАНЦИЯ	S	S f inan gen pl	S f inan gen pl	11	квазиагент	_	_
+13	:	:	:	:	PUNC	16	опред	_	_
+14	Бабаэски	БАБАЭСКИ	ADV	ADV -	ADV -	13	обст	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	Люлебургаз	ЛЮЛЕБУРГАЗ	S	S m inan acc sg	S m inan acc sg	9	обст	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	Чорлу	ЧОРЕЛ	S	S f inan nom sg	S f inan nom sg	9	сент-соч	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Станции	СТАНЦИЯ	S	S m inan nom sg	S m inan nom sg	15	предик	_	_
+2	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	станции	СТАНЦИЯ	S	S f inan gen sg	S f inan gen sg	2	сравн-союзн	_	_
+4	–	–	–	–	PUNC	15	опред	_	_
+5	такие	ТАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	опред	_	_
+6	же	ЖЕ	PART	PART	PART	5	огранич	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	как	КАК	CONJ	CONJ	CONJ	5	сравнит	_	_
+9	где-нибудь	ГДЕ-НИБУДЬ	ADV	ADV -	ADV -	10	огранич	_	_
+10	на	НА	PR	PR	PR	8	сравн-союзн	_	_
+11	Тамбовщине	ТАМБОВЩИНА	S	S f inan loc sg	S f inan loc sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	только	ТОЛЬКО	PART	PART	PART	15	огранич	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	желтые	ЖЕЛТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	0	ROOT	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	а	А	CONJ	CONJ	CONJ	15	сочин	_	_
+18	белые	БЕЛЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	17	соч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Огоньки	ОГОНЕК	S	S m inan nom pl	S m inan nom pl	13	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	стройные	СТРОЙНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+4	силуэты	СИЛУЭТ	S	S m inan nom pl	S m inan nom pl	1	сочин	_	_
+5	кипарисов	КИПАРИС	S	S m inan gen pl	S m inan gen pl	4	квазиагент	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	8	количест	_	_
+8	раз	РАЗ	S	S m inan nom sg	S m inan nom sg	13	обст	_	_
+9	сквозь	СКВОЗЬ	PR	PR	PR	8	распред	_	_
+10	железное	ЖЕЛЕЗНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	11	опред	_	_
+11	кружево	КРУЖЕВО	S	S n inan acc sg	S n inan acc sg	9	предл	_	_
+12	моста	МОСТ	S	S m inan gen sg	S m inan gen sg	11	1-компл	_	_
+13	блеснула	БЛЕСНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+14	лунная	ЛУННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	15	опред	_	_
+15	полоса	ПОЛОСА	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+16	реки	РЕКА	S	S f inan gen sg	S f inan gen sg	15	квазиагент	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

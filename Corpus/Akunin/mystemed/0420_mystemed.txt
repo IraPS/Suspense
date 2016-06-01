@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"тут","gr":"ADVPRO="}],"text":"Тут"}
+{"analysis":[{"lex":"гусар","gr":"S,m,anim=acc,pl"},{"lex":"гусар","gr":"S,m,anim=gen,pl"},{"lex":"гусар","gr":"S,m,anim=nom,sg"}],"text":"гусар"}
+{"analysis":[{"lex":"сделать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сделал"}
+{"analysis":[{"lex":"пауза","gr":"S,f,inan=acc,sg"}],"text":"паузу"}
+{"analysis":[{"lex":"выжидательно","gr":"ADV="}],"text":"выжидательно"}
+{"analysis":[{"lex":"глядеть","gr":"V,ipf,tran=inpraes,ger"}],"text":"глядя"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"барышня","gr":"S,f,anim=acc,sg"}],"text":"барышню"}
+{"analysis":[{"lex":"красивый","gr":"A=ins,pl,plen"}],"text":"красивыми"}
+{"analysis":[{"lex":"нахальный","gr":"A=ins,pl,plen"}],"text":"нахальными"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=ins,pl"}],"text":"глазами"}
+{"text":"\\s"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"ждать","gr":"V,ipf,tran=praet,sg,indic,f"}],"text":"ждала"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"последовать","gr":"V,pf,intr=inpraes,sg,indic,3p"}],"text":"последует"}
+{"analysis":[{"lex":"далеко","gr":"ADV=comp"}],"text":"дальше"}

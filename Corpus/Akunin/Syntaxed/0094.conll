@@ -1,0 +1,47 @@
+1	Разбойничий	РАЗБОЙНИЧИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	2	опред	_	_
+2	конь	КОНЬ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+3	сразу	СРАЗУ	ADV	ADV -	ADV -	5	обст	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	вырвался	ВЫРЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	вперед	ВПЕРЕД	ADV	ADV -	ADV -	5	2-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	5	сент-соч	_	_
+9	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+10	втянула	ВТЯГИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+11	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+12	в	В	PR	PR	PR	10	2-компл	_	_
+13	плечи	ПЛЕЧО	S	S n inan acc pl	S n inan acc pl	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	боясь	БОЯТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	обст	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	что	ЧТО	CONJ	CONJ	CONJ	15	1-компл	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	удержится	УДЕРЖИВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	17	подч-союзн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	В	В	PR	PR	PR	3	обст	_	_
+2	ушах	УХО	S	S n inan loc pl	S n inan loc pl	1	предл	_	_
+3	свистело	СВИСТЕТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	левая	ЛЕВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	нога	НОГА	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+7	некстати	НЕКСТАТИ	ADV	ADV -	ADV -	8	обст	_	_
+8	выскочила	ВЫСКОЧИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	сент-соч	_	_
+9	из	ИЗ	PR	PR	PR	8	1-компл	_	_
+10	слишком	СЛИШКОМ	ADV	ADV -	ADV -	11	огранич	_	_
+11	длинного	ДЛИННЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	стремени	СТРЕМЯ	S	S n inan loc sg	S n inan loc sg	9	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	сзади	СЗАДИ	ADV	ADV -	ADV -	15	обст	_	_
+15	грохотали	ГРОХОТАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	8	сент-соч	_	_
+16	выстрелы	ВЫСТРЕЛ	S	S m inan nom pl	S m inan nom pl	15	предик	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	что-то	ЧТО-ТО	S	S n - nom sg	S n - nom sg	21	1-компл	_	_
+19	тяжелое	ТЯЖЕЛЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	21	предик	_	_
+20	больно	БОЛЬНО	ADV	ADV -	ADV -	21	обст	_	_
+21	стукало	СТУКАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	16	релят	_	_
+22	по	ПО	PR	PR	PR	21	обст	_	_
+23	правому	ПРАВЫЙ	S	S m anim dat sg	S m anim dat sg	22	предл	_	_
+24	бедру	БЕДРО	S	S n inan dat sg	S n inan dat sg	21	2-компл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

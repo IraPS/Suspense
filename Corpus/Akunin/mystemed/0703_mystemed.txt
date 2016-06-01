@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"хороший","gr":"A=acc,pl,plen,inan"},{"lex":"хороший","gr":"A=nom,pl,plen"}],"text":"Хорошие"}
+{"analysis":[{"lex":"дело","gr":"S,n,inan=acc,pl"},{"lex":"дело","gr":"S,n,inan=gen,sg"},{"lex":"дело","gr":"S,n,inan=nom,pl"}],"text":"дела"}
+{"analysis":[{"lex":"раздаваться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"раздался"}
+{"analysis":[{"lex":"гулкий","gr":"A=acc,sg,plen,m,inan"},{"lex":"гулкий","gr":"A=nom,sg,plen,m"}],"text":"гулкий"}
+{"analysis":[{"lex":"голос","gr":"S,m,inan=acc,sg"},{"lex":"голос","gr":"S,m,inan=nom,sg"}],"text":"голос"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=acc,sg"},{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=gen,sg"}],"text":"Фандорина"}
+{"text":"\\s"}
+{"analysis":[{"lex":"да","gr":"CONJ="}],"text":"Да"}
+{"analysis":[{"lex":"ведь","gr":"PART="}],"text":"ведь"}
+{"analysis":[{"lex":"это","gr":"PART="}],"text":"это"}
+{"analysis":[{"lex":"тиф","gr":"S,m,inan=acc,sg"},{"lex":"тиф","gr":"S,m,inan=nom,sg"}],"text":"тиф"}

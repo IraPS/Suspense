@@ -1,0 +1,12 @@
+1	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	4	количест	_	_
+4	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	5	обст	_	_
+5	моргнул	МОРГНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	нервно	НЕРВНО	ADV	ADV -	ADV -	8	обст	_	_
+8	расстегнул	РАССТЕГНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+9	тугой	ТУГОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	опред	_	_
+10	воротник	ВОРОТНИК	S	S m inan acc sg	S m inan acc sg	8	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

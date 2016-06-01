@@ -1,0 +1,33 @@
+1	Сердитый	СЕРДИТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	сиротливо	СИРОТЛИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+5	стоя	СТОЯТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	обст	_	_
+6	с	С	PR	PR	PR	5	1-компл	_	_
+7	шахматной	ШАХМАТНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	8	опред	_	_
+8	доской	ДОСКА	S	S f inan ins sg	S f inan ins sg	6	предл	_	_
+9	под	ПОД	PR	PR	PR	5	обст	_	_
+10	мышкой	МЫШКА	S	S f inan ins sg	S f inan ins sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	пробурчал	ПРОБУРЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	вводн	_	_
+13	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	0	ROOT	_	_
+14	по-английски	ПО-АНГЛИЙСКИ	ADV	ADV -	ADV -	0	ROOT	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	18	суб-копр	_	_
+17	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	18	1-компл	_	_
+18	перевел	ПЕРЕВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+19	на	НА	PR	PR	PR	18	2-компл	_	_
+20	русский	РУССКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	23	1-компл	_	_
+21	:	:	:	:	PUNC	23	обст	_	_
+22	–	–	–	–	PUNC	23	обст	_	_
+23	Был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	19	предл	_	_
+24	пресс	ПРЕСС	S	S m inan acc sg	S m inan acc sg	23	1-компл	_	_
+25	-	-	-	-	PUNC	24	PUNC	_	_
+26	клаб	КЛАБ	S	S m inan acc sg	S m inan acc sg	24	сочин	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	а	А	CONJ	CONJ	CONJ	18	сочин	_	_
+29	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	28	соч-союзн	_	_
+30	какой-то	КАКОЙ-ТО	A	A - nom sg plen m -	A - nom sg plen m -	31	опред	_	_
+31	прытон	ПРЫТОН	S	S m inan acc sg	S m inan acc sg	29	1-компл	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

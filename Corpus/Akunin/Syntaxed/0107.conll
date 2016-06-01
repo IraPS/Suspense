@@ -1,0 +1,35 @@
+1	Мимо	МИМО	PR	PR	PR	11	обст	_	_
+2	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	1	предл	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+4	устало	УСТАЛО	ADV	ADV -	ADV -	5	обст	_	_
+5	опирающегося	ОПИРАТЬСЯ	PARTCP	PARTCP ipf inpraes acc sg plen m act anim	PARTCP ipf inpraes acc sg plen m act anim	3	соч-союзн	_	_
+6	на	НА	PR	PR	PR	5	1-компл	_	_
+7	бесполезное	БЕСПОЛЕЗНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	8	опред	_	_
+8	ружье	РУЖЬЕ	S	S n inan loc sg	S n inan loc sg	6	предл	_	_
+9	Фандорина	ФАНДОРИН	S	S m anim acc sg	S m anim acc sg	11	1-компл	_	_
+10	вереницей	ВЕРЕНИЦА	S	S f inan ins sg	S f inan ins sg	11	обст	_	_
+11	пронеслись	ПРОНЕСТИСЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+12	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+13	волшебный	ВОЛШЕБНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	стрелок	СТРЕЛКА	S	S m anim nom sg	S m anim nom sg	18	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+17	всадник	ВСАДНИК	S	S m anim nom sg	S m anim nom sg	16	соч-союзн	_	_
+18	в	В	PR	PR	PR	12	соч-союзн	_	_
+19	белоснежном	БЕЛОСНЕЖНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	20	опред	_	_
+20	мундире	МУНДИР	S	S m inan loc sg	S m inan loc sg	18	предл	_	_
+21	(	(	_	_	PUNC	22	PUNC	_	_
+22	на	НА	PR	PR	PR	24	обст	_	_
+23	плече	ПЛЕЧО	S	S n inan loc sg	S n inan loc sg	22	предл	_	_
+24	блеснул	БЛЕСНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	вводн	_	_
+25	золотом	ЗОЛОТО	S	S n inan ins sg	S n inan ins sg	24	2-компл	_	_
+26	генеральский	ГЕНЕРАЛЬСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	27	опред	_	_
+27	погон	ПОГОН	S	S m inan acc sg	S m inan acc sg	24	1-компл	_	_
+28	)	)	_	_	PUNC	27	PUNC	_	_
+29	,	,	,	,	PUNC	27	PUNC	_	_
+30	и	И	CONJ	CONJ	CONJ	24	сочин	_	_
+31	ощетинившиеся	ОЩЕТИНИВАТЬСЯ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	32	опред	_	_
+32	пиками	ПИК	S	S f inan ins pl	S f inan ins pl	30	соч-союзн	_	_
+33	казаки	КАЗАК	S	S m anim nom pl	S m anim nom pl	11	предик	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+

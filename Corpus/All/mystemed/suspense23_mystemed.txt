@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"злобно","gr":"ADV="}],"text":"злобно"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"мрачно","gr":"ADV="}],"text":"мрачно"}
+{"analysis":[{"lex":"оглянуться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"оглянулся"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=acc"},{"lex":"она","gr":"SPRO,sg,3p,f=gen"}],"text":"нее"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"попросить","gr":"V,pf,tran=inpraes,sg,indic,1p"}],"text":"Попрошу"}
+{"analysis":[{"lex":"камфара","gr":"S,f,inan=acc,pl"},{"lex":"камфара","gr":"S,f,inan=gen,sg"},{"lex":"камфара","gr":"S,f,inan=nom,pl"}],"text":"камфары"}

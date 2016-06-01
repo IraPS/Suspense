@@ -1,0 +1,69 @@
+1	Повариха	ПОВАРИХА	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	открыла	ОТКРЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	сумку	СУМКА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	достала	ДОСТАВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сочин	_	_
+6	оттуда	ОТТУДА	ADV	ADV -	ADV -	7	огранич	_	_
+7	бумажник	БУМАЖНИК	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+9	показала	ПОКАЗЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+10	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	9	2-компл	_	_
+11	фото	ФОТО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	10	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	всунутое	ВСОВЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen n pass -	PARTCP pf praet acc sg plen n pass -	9	1-компл	_	_
+14	в	В	PR	PR	PR	13	4-компл	_	_
+15	прозрачный	ПРОЗРАЧНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	16	опред	_	_
+16	кармашек	КАРМАШЕК	S	S m inan acc sg	S m inan acc sg	14	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	На	НА	PR	PR	PR	3	обст	_	_
+2	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	1	предл	_	_
+3	смотрел	СМОТРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	худощавый	ХУДОЩАВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+5	темноволосый	ТЕМНОВОЛОСЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	мужчина	МУЖЧИНА	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	11	предик	_	_
+9	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	8	квазиагент	_	_
+10	трудно	ТРУДНО	ADV	ADV -	ADV -	11	присвяз	_	_
+11	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	сент-соч	_	_
+12	разглядеть	РАЗГЛЯДЕТЬ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+13	из-за	ИЗ-ЗА	PR	PR	PR	12	обст	_	_
+14	козырька	КОЗЫРЕК	S	S m inan gen sg	S m inan gen sg	13	предл	_	_
+15	бейсболки	БЕЙСБОЛКА	S	S f inan acc pl	S f inan acc pl	12	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	18	количест	_	_
+18	рукой	РУКА	S	S f inan ins sg	S f inan ins sg	20	обст	_	_
+19	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	20	предик	_	_
+20	обнимал	ОБНИМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	сент-соч	_	_
+21	стройную	СТРОЙНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	22	опред	_	_
+22	блондинку	БЛОНДИНКА	S	S f anim acc sg	S f anim acc sg	20	1-компл	_	_
+23	в	В	PR	PR	PR	22	атриб	_	_
+24	мини	МИНИ	COM	COM	COM	26	композ	_	_
+25	-	-	-	-	PUNC	24	PUNC	_	_
+26	бикини	БИКИНИ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	23	предл	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	а	А	CONJ	CONJ	CONJ	20	сент-соч	_	_
+29	другой	ДРУГОЙ	A	A - nom sg plen m -	A - nom sg plen m -	30	предик	_	_
+30	держал	ДЕРЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	28	соч-союзн	_	_
+31	маленького	МАЛЕНЬКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	32	опред	_	_
+32	мальчика	МАЛЬЧИК	S	S m anim gen sg	S m anim gen sg	30	1-компл	_	_
+33	в	В	PR	PR	PR	30	2-компл	_	_
+34	закатанных	ЗАКАТЫВАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	35	опред	_	_
+35	брючках	БРЮЧКИ	S	S - inan loc pl	S - inan loc pl	33	предл	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+
+1	Фоном	ФОН	S	S m inan ins sg	S m inan ins sg	5	обст	_	_
+2	для	ДЛЯ	PR	PR	PR	5	обст	_	_
+3	счастливой	СЧАСТЛИВЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	4	опред	_	_
+4	семьи	СЕМЬЯ	S	S f inan gen sg	S f inan gen sg	2	предл	_	_
+5	служил	СЛУЖИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	океан	ОКЕАН	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	в	В	PR	PR	PR	12	обст	_	_
+9	нем	НЕМОЙ	A	A - dat sg plen n -	A - dat sg plen n -	8	предл	_	_
+10	какие-то	КАКОЙ-ТО	A	A - nom pl plen - -	A - nom pl plen - -	11	опред	_	_
+11	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	12	предик	_	_
+12	купались	КУПАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	5	сент-соч	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

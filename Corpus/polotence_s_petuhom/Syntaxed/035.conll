@@ -1,0 +1,19 @@
+1	"	"	_	_	PUNC	2	PUNC	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	похож	ПОХОЖИЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	1-компл	_	_
+5	Лжедмитрия	ЛЖЕДМИТРИЙ	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	"	"	_	_	PUNC	5	PUNC	_	_
+7	,	,	,	,	PUNC	5	PUNC	_	_
+8	-	-	-	-	PUNC	5	PUNC	_	_
+9	вдруг	ВДРУГ	ADV	ADV -	ADV -	11	обст	_	_
+10	глупо	ГЛУПО	ADV	ADV -	ADV -	11	обст	_	_
+11	подумал	ПОДУМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	разъяснит	_	_
+12	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+13	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+14	опять	ОПЯТЬ	ADV	ADV -	ADV -	15	обст	_	_
+15	уселся	УСАЖИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+16	за	ЗА	PR	PR	PR	15	2-компл	_	_
+17	стол	СТОЛ	S	S m inan acc sg	S m inan acc sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

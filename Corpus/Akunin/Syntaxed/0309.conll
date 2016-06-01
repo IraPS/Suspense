@@ -1,0 +1,48 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	договорил	ДОГОВАРИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	потому что	потому что	CONJ	CONJ	ZERO	3	сент-соч	_	_
+6	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+7	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	очень	ОЧЕНЬ	ADV	ADV -	ADV -	9	огранич	_	_
+9	ловко	ЛОВКО	ADV	ADV -	ADV -	5	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	как	КАК	CONJ	CONJ	CONJ	9	вводн	_	_
+12	кот	КОТ	S	S m anim nom sg	S m anim nom sg	11	сравн-союзн	_	_
+13	лапой	ЛАПА	S	S f inan ins sg	S f inan ins sg	12	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	смазал	СМАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+16	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	15	2-компл	_	_
+17	ладонью	ЛАДОНЬ	S	S f inan ins sg	S f inan ins sg	15	обст	_	_
+18	по	ПО	PR	PR	PR	15	обст	_	_
+19	пухлым	ПУХЛЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	20	опред	_	_
+20	губам	ГУБА	S	S f inan dat pl	S f inan dat pl	18	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	ахнула	АХНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	кто-то	КТО-ТО	S	S m - nom sg	S m - nom sg	8	1-компл	_	_
+6	из	ИЗ	PR	PR	PR	5	электив	_	_
+7	офицеров	ОФИЦЕР	S	S m anim gen pl	S m anim gen pl	6	предл	_	_
+8	схватил	СХВАТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+9	Фандорина	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	за	ЗА	PR	PR	PR	8	обст	_	_
+11	руку	РУКА	S	S f inan acc sg	S f inan acc sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	8	сочин	_	_
+14	тут	ТУТ	ADV	ADV -	ADV -	16	обст	_	_
+15	же	ЖЕ	PART	PART	PART	14	огранич	_	_
+16	отпустил	ОТПУСКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	потому что	потому что	CONJ	CONJ	ZERO	16	сочин	_	_
+19	никаких	НИКАКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	20	опред	_	_
+20	признаков	ПРИЗНАК	S	S m inan gen pl	S m inan gen pl	24	предик	_	_
+21	буйства	БУЙСТВО	S	S n inan gen sg	S n inan gen sg	20	квазиагент	_	_
+22	ударивший	УДАРЯТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	24	1-компл	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	проявлял	ПРОЯВЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	18	соч-союзн	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"встрепенуться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"встрепенулся"}
+{"analysis":[{"lex":"выстрел","gr":"S,m,inan=acc,pl"},{"lex":"выстрел","gr":"S,m,inan=nom,pl"}],"text":"выстрелы"}
+{"analysis":[{"lex":"звучать","gr":"V,ipf,intr=praet,pl,indic"}],"text":"звучали"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"сам","gr":"APRO=abl,sg,m"},{"lex":"сам","gr":"APRO=abl,sg,n"}],"text":"самом"}
+{"analysis":[{"lex":"здание","gr":"S,n,inan=abl,sg"}],"text":"здании"}

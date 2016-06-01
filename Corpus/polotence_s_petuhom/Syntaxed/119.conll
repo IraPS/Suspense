@@ -1,0 +1,22 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	В	В	PR	PR	PR	0	ROOT	_	_
+3	Москве...	МОСКВА...	S	S m inan gen sg	S m inan gen sg	2	предл	_	_
+4	в	В	PR	PR	PR	3	атриб	_	_
+5	Москве	МОСКВА	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	...	...	SENT	SENT	SENT	5	PUNC	_	_
+
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	соч-союзн	_	_
+5	писать	ПИСАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+6	адрес	АДРЕС	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	там	ТАМ	PART	PART	PART	9	огранич	_	_
+9	устроят	УСТРАИВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	4	сочин	_	_
+10	протез	ПРОТЕЗ	S	S m inan acc sg	S m inan acc sg	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	искусственную	ИСКУССТВЕННЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+13	ногу	НОГА	S	S f inan acc sg	S f inan acc sg	9	сочин	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

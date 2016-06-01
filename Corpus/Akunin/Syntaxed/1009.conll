@@ -1,0 +1,28 @@
+1	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	стоял	СТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	закрыв	ЗАКРЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+5	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	2	квазиагент	_	_
+2	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	спокойным	СПОКОЙНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	3	присвяз	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	печальным	ПЕЧАЛЬНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	5	соч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	7	обст	_	_
+2	стрельба	СТРЕЛЬБА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+3	совсем	СОВСЕМ	ADV	ADV -	ADV -	4	огранич	_	_
+4	прекратилась	ПРЕКРАЩАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	подч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+7	отодвинул	ОТОДВИГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	засов	ЗАСОВ	S	S m inan nom sg	S m inan nom sg	7	предик	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	приоткрыл	ПРИОТКРЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+11	дверь	ДВЕРЬ	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

@@ -1,0 +1,19 @@
+1	Тон	ТОН	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+2	у	У	PR	PR	PR	1	атриб	_	_
+3	Эраста	ЭРАСТ	S	S m anim acc sg	S m anim acc sg	2	предл	_	_
+4	Петровича	ПЕТРОВИЧ	S	S m anim gen sg	S m anim gen sg	3	1-компл	_	_
+5	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	такой	ТАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	брюзгливый	БРЮЗГЛИВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	присвяз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+11	сжалилась	СЖАЛИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	подч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	шепнула	ШЕПНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	11	сочин	_	_
+14	:	:	:	:	PUNC	17	обст	_	_
+15	–	–	–	–	PUNC	17	1-компл	_	_
+16	Не	НЕ	PART	PART	PART	17	огранич	_	_
+17	продержится	ПРОДЕРЖАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	13	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

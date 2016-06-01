@@ -1,0 +1,22 @@
+1	–	–	–	–	PUNC	5	предик	_	_
+2	Отчего	ОТЧЕГО	ADV	ADV -	ADV -	5	обст	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	такая	ТАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+5	перемена	ПЕРЕМЕНА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+4	в	В	PR	PR	PR	2	обст	_	_
+5	надежде	НАДЕЖДА	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	хоть	ХОТЬ	CONJ	CONJ	CONJ	2	обст	_	_
+7	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	0	ROOT	_	_
+8	разузнать	РАЗУЗНАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	7	1-компл	_	_
+9	о	О	PR	PR	PR	8	1-компл	_	_
+10	загадочном	ЗАГАДОЧНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	11	опред	_	_
+11	прошлом	ПРОШЛОЕ	S	S n inan loc sg	S n inan loc sg	9	предл	_	_
+12	Эраста	ЭРАСТ	S	S m anim acc sg	S m anim acc sg	11	1-компл	_	_
+13	Петровича	ПЕТРОВИЧ	S	S m anim gen sg	S m anim gen sg	12	аппоз	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

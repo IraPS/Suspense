@@ -1,0 +1,86 @@
+1	–	–	–	–	PUNC	6	опред	_	_
+2	На	НА	PR	PR	PR	1	обст	_	_
+3	стороне	СТОРОНА	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+4	графа	ГРАФ	S	S m anim gen sg	S m anim gen sg	3	квазиагент	_	_
+5	слепая	СЛЕПОЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	удача	УДАЧА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	6	сент-соч	_	_
+9	за	ЗА	PR	PR	PR	11	обст	_	_
+10	мной	Я	SPRO	SPRO sg 1p - ins	SPRO sg 1p - ins	9	предл	_	_
+11	–	–	–	–	PUNC	0	ROOT	_	_
+12	математический	МАТЕМАТИЧЕСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	13	опред	_	_
+13	расчет	РАСЧЕТ	S	S m inan acc sg	S m inan acc sg	11	1-компл	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+15	огромное	ОГРОМНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	16	опред	_	_
+16	состояние	СОСТОЯНИЕ	S	S n inan nom sg	S n inan nom sg	14	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	взгляните	ВЗГЛЯДЫВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	ка	КА	PART	PART	PART	3	огранич	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	2-компл	_	_
+2	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	оттопырил	ОТТОПЫРИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	мизинец	МИЗИНЕЦ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Отыграл	ОТЫГРЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	свой	СВОЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+4	фамильный	ФАМИЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	перстень	ПЕРСТЕНЬ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Индийский	ИНДИЙСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	алмаз	АЛМАЗ	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	одиннадцать	ОДИННАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	5	количест	_	_
+5	каратов	КАРАТ	S	S m inan gen pl	S m inan gen pl	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Вывезен	ВЫВОЗИТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+2	предком	ПРЕДОК	S	S m anim ins sg	S m anim ins sg	1	2-компл	_	_
+3	из	ИЗ	PR	PR	PR	2	атриб	_	_
+4	крестового	КРЕСТОВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	похода	ПОХОД	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Разве	РАЗВЕ	PART	PART	PART	4	огранич	_	_
+3	румыны	РУМЫН	S	S m anim nom pl	S m anim nom pl	4	предик	_	_
+4	участвовали	УЧАСТВОВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	в	В	PR	PR	PR	4	2-компл	_	_
+6	крестовых	КРЕСТОВЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	7	опред	_	_
+7	походах	ПОХОД	S	S m inan loc pl	S m inan loc pl	5	предл	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	опрометчиво	ОПРОМЕТЧИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	3	присвяз	_	_
+3	удивилась	УДИВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	прослушала	ПРОСЛУШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	соч-союзн	_	_
+7	целую	ЦЕЛЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	лекцию	ЛЕКЦИЯ	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+9	о	О	PR	PR	PR	8	1-компл	_	_
+10	родословной	РОДОСЛОВНАЯ	S	S f inan ins sg	S f inan ins sg	9	предл	_	_
+11	полковника	ПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	10	квазиагент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	17	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	оказывается	ОКАЗЫВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	17	вводн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	восходила	ВОСХОДИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	10	релят	_	_
+18	к	К	PR	PR	PR	17	1-компл	_	_
+19	римскому	РИМСКИЙ	A	A - dat sg plen n -	A - dat sg plen n -	20	опред	_	_
+20	легату	ЛЕГАТ	S	S m anim dat sg	S m anim dat sg	18	предл	_	_
+21	Лукану	ЛУКАН	S	S m anim nom sg	S m anim nom sg	17	вводн	_	_
+22	Маврицию	МАВРИЦИЙ	S	S m anim nom sg	S m anim nom sg	21	аппоз	_	_
+23	Туллу	ТУЛЛ	S	S m anim nom sg	S m anim nom sg	22	аппоз	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+

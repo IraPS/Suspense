@@ -1,0 +1,33 @@
+1	Служащему	СЛУЖИТЬ	PARTCP	PARTCP ipf inpraes dat sg plen m act -	PARTCP ipf inpraes dat sg plen m act -	2	предик	_	_
+2	разъяснили	РАЗЪЯСНЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	2	1-компл	_	_
+4	задачу	ЗАДАЧА	S	S f inan acc sg	S f inan acc sg	2	2-компл	_	_
+5	—	—	—	—	PUNC	2	1-компл	_	_
+6	составить	СОСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	2	2-компл	_	_
+7	нужное	НУЖНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	8	опред	_	_
+8	требование	ТРЕБОВАНИЕ	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+9	таким образом	таким образом	ADV	ADV -	-	6	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	6	1-компл	_	_
+12	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	17	предик	_	_
+13	«	«	_	_	PUNC	14	PUNC	_	_
+14	кочерга	КОЧЕРГА	S	S f inan nom sg	S f inan nom sg	12	аппоз	_	_
+15	»	»	_	_	PUNC	14	PUNC	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	упоминалось	УПОМИНАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	11	подч-союзн	_	_
+18	во	ВО	PR	PR	PR	17	обст	_	_
+19	множественном	МНОЖЕСТВЕННЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	20	опред	_	_
+20	числе	ЧИСЛО	S	S n inan loc sg	S n inan loc sg	18	предл	_	_
+21	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	вместе	ВМЕСТЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+24	с	С	PR	PR	PR	23	1-компл	_	_
+25	тем	ТО	S	S n - ins sg	S n - ins sg	24	предл	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	23	2-компл	_	_
+28	склад	СКЛАД	S	S m inan nom sg	S m inan nom sg	29	предик	_	_
+29	выдал	ВЫДАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	27	подч-союзн	_	_
+30	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	31	количест	_	_
+31	штук	ШТУКА	S	S f inan gen pl	S f inan gen pl	29	1-компл	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

@@ -1,0 +1,24 @@
+1	Олег	ОЛЕГ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	кинулся	КИНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	коридор	КОРИДОР	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	7	предик	_	_
+7	побежали	ПОБЕЖАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	сент-соч	_	_
+8	за	ЗА	PR	PR	PR	7	обст	_	_
+9	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	8	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	через	ЧЕРЕЗ	PR	PR	PR	10	соч-союзн	_	_
+12	пару	ПАРА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	12	квазиагент	_	_
+14	увидели	УВИДЕТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	7	сочин	_	_
+15	игрушку	ИГРУШКА	S	S f inan acc sg	S f inan acc sg	14	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	лежавшую	ЛЕЖАТЬ	PARTCP	PARTCP ipf praet acc sg plen f act -	PARTCP ipf praet acc sg plen f act -	15	опред	_	_
+18	там	ТАМ	ADV	ADV -	ADV -	17	обст	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	где	ГДЕ	ADV	ADV -	ADV -	21	обст	_	_
+21	указала	УКАЗЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	сент-соч	_	_
+22	повариха	ПОВАРИХА	S	S f anim nom sg	S f anim nom sg	21	предик	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

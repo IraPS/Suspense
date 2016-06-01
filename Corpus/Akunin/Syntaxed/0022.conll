@@ -1,0 +1,130 @@
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	обернулась	ОБЕРТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	1-компл	_	_
+4	окну	ОКНО	S	S n inan dat sg	S n inan dat sg	3	предл	_	_
+5	–	–	–	–	PUNC	2	2-компл	_	_
+6	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	вдруг	ВДРУГ	ADV	ADV -	ADV -	9	обст	_	_
+8	Митко	МИТКО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	9	предик	_	_
+9	объявится	ОБЪЯВЛЯТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	6	соч-союзн	_	_
+10	?	?	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Вдруг	ВДРУГ	ADV	ADV -	ADV -	2	обст	_	_
+2	водил	ВОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	коней	КОНЬ	S	S m anim acc pl	S m anim acc pl	2	1-компл	_	_
+4	на	НА	PR	PR	PR	2	2-компл	_	_
+5	водопой	ВОДОПОЙ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+7	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	8	обст	_	_
+8	возвращается	ВОЗВРАЩАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	соч-союзн	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	ни	НИ	CONJ	CONJ	CONJ	5	соотнос	_	_
+3	Митко	МИТКО	S	S f anim nonflex nonflex	S f anim nonflex nonflex	11	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	ни	НИ	CONJ	CONJ	CONJ	3	сочин	_	_
+6	каруцы	КАРУЦА	S	S f anim gen sg	S f anim gen sg	5	соч-союзн	_	_
+7	на	НА	PR	PR	PR	6	обст	_	_
+8	пыльной	ПЫЛЬНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	9	опред	_	_
+9	улице	УЛИЦА	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	зато	ЗАТО	CONJ	CONJ	CONJ	11	сент-соч	_	_
+14	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	15	предик	_	_
+15	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	13	соч-союзн	_	_
+16	такое	ТАКОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	15	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	на	НА	PR	PR	PR	22	обст	_	_
+19	что	ЧТО	S	S n - acc sg	S n - acc sg	18	предл	_	_
+20	раньше	РАНО	ADV	ADV comp	ADV comp	22	обст	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	обратила	ОБРАЩАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	сочин	_	_
+23	внимания	ВНИМАНИЕ	S	S n inan gen sg	S n inan gen sg	22	1-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Над	НАД	PR	PR	PR	3	обст	_	_
+2	домами	ДОМ	S	S m inan ins pl	S m inan ins pl	1	предл	_	_
+3	торчал	ТОРЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	невысокий	НЕВЫСОКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	0	ROOT	_	_
+5	облупленный	ОБЛУПЛИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	6	опред	_	_
+6	минарет	МИНАРЕТ	S	S m inan gen sg	S m inan gen sg	4	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Ой	ОЙ	INTJ	INTJ	INTJ	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Неужто	НЕУЖТО	PART	PART	PART	2	огранич	_	_
+2	деревня	ДЕРЕВНЯ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	мусульманская	МУСУЛЬМАНСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	ведь	ВЕДЬ	PART	PART	PART	5	огранич	_	_
+3	болгаре	БОЛГАРИН	S	S m anim nom pl	S m anim nom pl	5	предик	_	_
+4	–	–	–	–	PUNC	5	опред	_	_
+5	христиане	ХРИСТИАНИН	S	S m anim nom pl	S m anim nom pl	11	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	православные	ПРАВОСЛАВНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	10	опред	_	_
+10	это	ЭТО	S	S n inan acc sg	S n inan acc sg	11	1-компл	_	_
+11	знают	ЗНАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	1	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Опять	ОПЯТЬ	ADV	ADV -	ADV -	5	обст	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вино	ВИНО	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+5	пьют	ПИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	5	сент-соч	_	_
+8	мусульманам	МУСУЛЬМАНИН	S	S m anim dat pl	S m anim dat pl	10	1-компл	_	_
+9	Коран	КОРАН	S	S m inan nom sg	S m inan nom sg	10	предик	_	_
+10	запрещает	ЗАПРЕЩАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	соч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	если	ЕСЛИ	CONJ	CONJ	CONJ	10	обст	_	_
+3	деревня	ДЕРЕВНЯ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+4	христианская	ХРИСТИАНСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	подч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	тогда	ТОГДА	ADV	ADV -	ADV -	10	обст	_	_
+7	в	В	PR	PR	PR	10	обст	_	_
+8	каком	КАКОЙ	A	A - loc sg plen m -	A - loc sg plen m -	9	опред	_	_
+9	смысле	СМЫСЛ	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+10	минарет	МИНАРЕТ	S	S m inan acc sg	S m inan acc sg	1	соч-союзн	_	_
+11	?	?	SENT	SENT	SENT	10	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	мусульманская	МУСУЛЬМАНСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	подч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	то	ТО	CONJ	CONJ	CONJ	2	соотнос	_	_
+6	за	ЗА	PR	PR	PR	0	ROOT	_	_
+7	кого	КТО	S	S m - gen sg	S m - gen sg	6	предл	_	_
+8	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	0	ROOT	_	_
+9	–	–	–	–	PUNC	0	ROOT	_	_
+10	за	ЗА	PR	PR	PR	9	1-компл	_	_
+11	наших	НАШ	A	A - gen pl plen - -	A - gen pl plen - -	10	предл	_	_
+12	или	ИЛИ	CONJ	CONJ	CONJ	10	сочин	_	_
+13	за	ЗА	PR	PR	PR	12	соч-союзн	_	_
+14	турок	ТУРОК	S	S m anim gen pl	S m anim gen pl	13	предл	_	_
+15	?	?	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Вряд ли	Вряд ли	ADV	ADV -	-	0	ROOT	_	_
+2	зa	ЗА	PR	PR	PR	0	ROOT	_	_
+3	наших	НАШ	A	A - gen pl plen - -	A - gen pl plen - -	2	предл	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Выходило	ВЫХОДИТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	предик	_	_
+4	«	«	_	_	PUNC	5	PUNC	_	_
+5	армията	АРМИЯТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	3	подч-союзн	_	_
+6	»	»	_	_	PUNC	5	PUNC	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	поможет	ПОМОГАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	1	сент-соч	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

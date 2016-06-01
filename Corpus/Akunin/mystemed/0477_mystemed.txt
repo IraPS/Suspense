@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"договаривать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"договорил"}
+{"analysis":[{"lex":"сдвигать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"сдвинул"}
+{"analysis":[{"lex":"бровь","gr":"S,f,inan=abl,sg"},{"lex":"бровь","gr":"S,f,inan=acc,pl"},{"lex":"бровь","gr":"S,f,inan=dat,sg"},{"lex":"бровь","gr":"S,f,inan=gen,sg"},{"lex":"бровь","gr":"S,f,inan=nom,pl"}],"text":"брови"}

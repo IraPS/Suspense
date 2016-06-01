@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"Д"}
+{"analysis":[{"lex":"эвр","qual":"bastard","gr":"S,m,inan=abl,sg"}],"text":"Эвре"}
+{"analysis":[{"lex":"тянуть","gr":"V,ipf,tran=praet,sg,indic,m"}],"text":"тянул"}
+{"analysis":[{"lex":"варить","gr":"V,ipf,tran=inpraes,sg,indic,1p"}],"text":"Варю"}
+{"analysis":[{"lex":"куда-то","gr":"ADVPRO="}],"text":"куда-то"}
+{"analysis":[{"lex":"назад","gr":"ADV="}],"text":"назад"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"сторона","gr":"S,f,inan=acc,sg"}],"text":"сторону"}

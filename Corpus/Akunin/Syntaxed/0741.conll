@@ -1,0 +1,135 @@
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Вижу	ВИДЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	4	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	здоровы	ЗДОРОВЫЙ	A	A - - pl brev - -	A - - pl brev - -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	11	предик	_	_
+2	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	осмотрел	ОСМАТРИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	примыкат	_	_
+5	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	4	1-компл	_	_
+6	с	С	PR	PR	PR	4	обст	_	_
+7	головы	ГОЛОВА	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+8	до	ДО	PR	PR	PR	4	1-компл	_	_
+9	ног	НОГА	S	S f inan gen pl	S f inan gen pl	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	П	П	S	S - - nonflex nonflex	S - - nonflex nonflex	4	оп-опред	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	прическа	ПРИЧЕСКА	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+5	новая	НОВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	4	предик	_	_
+2	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	4	обст	_	_
+3	такая	ТАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	мода	МОДА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	PART	PART	PART	1	огранич	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Очень	ОЧЕНЬ	ADV	ADV -	ADV -	2	огранич	_	_
+2	практично	ПРАКТИЧНО	ADV	ADV -	ADV -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	что	ЧТО	S	S n inan acc sg	S n inan acc sg	0	ROOT	_	_
+3	тут	ТУТ	ADV	ADV -	ADV -	0	ROOT	_	_
+4	у	У	PR	PR	PR	0	ROOT	_	_
+5	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	4	предл	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Ничего	НИЧЕГО	ADV	ADV -	ADV -	1	обст	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Сидим	СИДЕТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	осаждаем	ОСАЖДАТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	1	сочин	_	_
+4	турку	ТУРКУ	S	S m anim dat sg	S m anim dat sg	3	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	В	В	PR	PR	PR	1	обст	_	_
+3	голосе	ГОЛОС	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	титулярного	ТИТУЛЯРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	3	квазиагент	_	_
+6	прозвучало	ПРОЗВУЧАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+7	ожесточение	ОЖЕСТОЧЕНИЕ	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Месяц	МЕСЯЦ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+3	сидим	СИДЕТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	6	1-компл	_	_
+6	сидим	СИДЕТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	3	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	т	Т	S	S - - nonflex nonflex	S - - nonflex nonflex	6	сочин	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	три	ТРИ	NUM	NUM nom - -	NUM nom - -	11	количест	_	_
+11	сидим	СИДЕТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	8	сочин	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Офицеры	ОФИЦЕР	S	S m anim nom pl	S m anim nom pl	2	предик	_	_
+2	спиваются	СПИВАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+3	от	ОТ	PR	PR	PR	2	1-компл	_	_
+4	скуки	СКУКА	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	интенданты	ИНТЕНДАНТ	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+7	воруют	ВОРОВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	2	сочин	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	казна	КАЗНА	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+10	пустеет	ПУСТЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	сент-соч	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	В	В	PR	PR	PR	0	ROOT	_	_
+2	общем	ОБЩИЙ	A	A - loc sg plen m -	A - loc sg plen m -	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	все	ВСЕ	S	S - - nom pl	S - - nom pl	0	ROOT	_	_
+5	нормально	НОРМАЛЬНО	ADV	ADV -	ADV -	4	обст	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Война	ВОЙНА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+2	по-русски	ПО-РУССКИ	ADV	ADV -	ADV -	1	атриб	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Европа	ЕВРОПА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	вздохнула	ВЗДЫХАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	с	С	PR	PR	PR	2	обст	_	_
+4	облегчением	ОБЛЕГЧЕНИЕ	S	S n inan ins sg	S n inan ins sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	наблюдает	НАБЛЮДАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	к	К	S	S - - nonflex nonflex	S - - nonflex nonflex	2	1-компл	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	как	КАК	CONJ	CONJ	CONJ	8	сравнит	_	_
+11	из	ИЗ	PR	PR	PR	10	сравн-союзн	_	_
+12	России	РОССИЯ	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	уходят	УХОДИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	2	вводн	_	_
+14	жизненные	ЖИЗНЕННЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	15	опред	_	_
+15	соки	СОК	S	S m inan acc pl	S m inan acc pl	13	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	14	обст	_	_
+2	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	паша	ПАША	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+5	продержится	ПРОДЕРЖАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	1	подч-союзн	_	_
+6	еще	ЕЩЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	две	ДВА	NUM	NUM nom f -	NUM nom f -	8	количест	_	_
+8	недели	НЕДЕЛЯ	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	война	ВОЙНА	S	S f inan nom sg	S f inan nom sg	11	предик	_	_
+11	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	8	релят	_	_
+12	п	П	S	S n inan nonflex nonflex	S n inan nonflex nonflex	11	присвяз	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	проиграна	ПРОИГРЫВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	0	ROOT	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

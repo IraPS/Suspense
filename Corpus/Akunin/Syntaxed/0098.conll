@@ -1,0 +1,113 @@
+1	На	НА	PR	PR	PR	5	обст	_	_
+2	дороге	ДОРОГА	S	S f inan dat sg	S f inan dat sg	1	предл	_	_
+3	тем	ТОТ	A	A - dat pl plen - -	A - dat pl plen - -	4	опред	_	_
+4	временем	ВРЕМЯ	S	S n inan ins sg	S n inan ins sg	5	обст	_	_
+5	происходило	ПРОИСХОДИТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	вот	ВОТ	PART	PART	PART	7	огранич	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	Фандорин	ФАНДОРИН	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+10	лупил	ЛУПИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	подч-союзн	_	_
+11	прикладом	ПРИКЛАД	S	S m inan ins sg	S m inan ins sg	10	1-компл	_	_
+12	несчастную	НЕСЧАСТНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	13	опред	_	_
+13	клячу	КЛЯЧА	S	S f anim acc sg	S f anim acc sg	10	2-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	16	предик	_	_
+16	старалась	СТАРАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	13	релят	_	_
+17	как	КАК	CONJ	CONJ	CONJ	16	сравнит	_	_
+18	могла	МОЧЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	17	сравн-союзн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	выбрасывая	ВЫБРАСЫВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	18	обст	_	_
+21	вперед	ВПЕРЕД	ADV	ADV -	ADV -	20	2-компл	_	_
+22	мосластые	МОСЛАСТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	23	опред	_	_
+23	ноги	НОГА	S	S f inan nom pl	S f inan nom pl	18	предик	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	До	ДО	PR	PR	PR	5	обст	_	_
+2	куста	КУСТ	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	где	ГДЕ	ADV	ADV -	ADV -	5	обст	_	_
+5	сидела	СИДЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+6	оглушенная	ОГЛУШАТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	8	опред	_	_
+7	падением	ПАДЕНИЕ	S	S n inan ins sg	S n inan ins sg	6	агент	_	_
+8	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	оставалось	ОСТАВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	5	сент-соч	_	_
+11	всего	ВСЕ	S	S n inan gen sg	S n inan gen sg	10	предик	_	_
+12	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	10	сент-соч	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	а	А	CONJ	CONJ	CONJ	12	сент-соч	_	_
+15	сзади	СЗАДИ	ADV	ADV -	ADV -	17	вводн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	в	В	PR	PR	PR	14	соч-союзн	_	_
+18	какой-нибудь	КАКОЙ-НИБУДЬ	A	A - loc sg plen f -	A - loc sg plen f -	19	опред	_	_
+19	сотне	СОТНЯ	S	S f inan loc sg	S f inan loc sg	17	предл	_	_
+20	шагов	ШАГ	S	S m inan gen pl	S m inan gen pl	19	квазиагент	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	громыхая	ГРОМЫХАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	25	обст	_	_
+23	выстрелами	ВЫСТРЕЛ	S	S m inan ins pl	S m inan ins pl	22	1-компл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	катилась	КАТИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	5	сент-соч	_	_
+26	свора	СВОРА	S	S f inan nom sg	S f inan nom sg	25	предик	_	_
+27	преследователей	ПРЕСЛЕДОВАТЕЛЬ	S	S m anim gen pl	S m anim gen pl	26	квазиагент	_	_
+28	–	–	–	–	PUNC	30	предик	_	_
+29	не	НЕ	PART	PART	PART	30	огранич	_	_
+30	меньше	МАЛО	NUM	NUM - - -	NUM - - -	25	сент-соч	_	_
+31	десятка	ДЕСЯТОК	S	S m inan gen sg	S m inan gen sg	30	атриб	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	Внезапно	ВНЕЗАПНО	ADV	ADV -	ADV -	4	обст	_	_
+2	сивая	СИВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	кобыла	КОБЫЛА	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+4	сбилась	СБИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	с	С	PR	PR	PR	4	2-компл	_	_
+6	аллюра	АЛЛЮР	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	жалостно	ЖАЛОСТНО	ADV	ADV -	ADV -	9	обст	_	_
+9	мотнула	МОТНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	сочин	_	_
+10	башкой	БАШКА	S	S f inan ins sg	S f inan ins sg	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	пошла	ПОЙТИ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	сочин	_	_
+13	бочком	БОЧОК	S	S m inan ins sg	S m inan ins sg	12	2-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	бочком	БОЧОК	S	S m inan ins sg	S m inan ins sg	13	сочин	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	плавно	ПЛАВНО	ADV	ADV -	ADV -	18	обст	_	_
+18	завалилась	ЗАВАЛИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	16	соч-союзн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	придавив	ПРИДАВЛИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	18	обст	_	_
+21	всаднику	ВСАДНИК	S	S m anim dat sg	S m anim dat sg	20	2-компл	_	_
+22	ногу	НОГА	S	S f inan acc sg	S f inan acc sg	20	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	ахнула	АХНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	кое-как	КОЕ-КАК	ADV	ADV -	ADV -	3	обст	_	_
+3	вылез	ВЫЛЕЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	из-под	ИЗ-ПОД	PR	PR	PR	3	обст	_	_
+5	силящейся	СИЛИТЬСЯ	PARTCP	PARTCP ipf inpraes loc sg plen f act -	PARTCP ipf inpraes loc sg plen f act -	4	предл	_	_
+6	встать	ВСТАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+7	лошади	ЛОШАДЬ	S	S f anim nom pl	S f anim nom pl	6	1-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+9	выпрямился	ВЫПРЯМЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+10	во	ВО	PR	PR	PR	9	обст	_	_
+11	весь	ВЕСЬ	A	A - acc sg plen m inan	A - acc sg plen m inan	12	опред	_	_
+12	рост	РОСТ	S	S m inan acc sg	S m inan acc sg	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Оглянулся	ОГЛЯНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	на	НА	PR	PR	PR	1	1-компл	_	_
+3	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	вскинул	ВСКИДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	сочин	_	_
+6	ружье	РУЖЬЕ	S	S n inan loc sg	S n inan loc sg	5	1-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+9	целиться	ЦЕЛИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+10	в	В	PR	PR	PR	9	2-компл	_	_
+11	башибузуков	БАШИБУЗУК	S	S m anim gen pl	S m anim gen pl	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

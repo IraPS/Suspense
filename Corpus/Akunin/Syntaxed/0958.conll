@@ -1,0 +1,23 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	выкинул	ВЫКИДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	правую	ПРАВЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	4	опред	_	_
+4	руку	РУКА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+5	из-за	ИЗ-ЗА	PR	PR	PR	2	обст	_	_
+6	спины	СПИНА	S	S f inan gen sg	S f inan gen sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	В	В	PR	PR	PR	3	обст	_	_
+2	руке	РУКА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	оказался	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	пистолет	ПИСТОЛЕТ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Пистолет	ПИСТОЛЕТ	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+2	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	3	количест	_	_
+3	раза	РАЗ	S	S m inan gen sg	S m inan gen sg	4	обст	_	_
+4	изрыгнул	ИЗРЫГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	гром	ГРОМ	S	S m inan nom sg	S m inan nom sg	4	разъяснит	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	молнию	МОЛНИЯ	S	S f inan acc sg	S f inan acc sg	6	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

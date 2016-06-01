@@ -1,0 +1,48 @@
+1	–	–	–	–	PUNC	4	предик	_	_
+2	Это	ЭТО	S	S n - nom sg	S n - nom sg	4	огранич	_	_
+3	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+4	про	ПРО	PR	PR	PR	0	ROOT	_	_
+5	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	4	предл	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	дошло	ДОХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	до	ДО	PR	PR	PR	2	2-компл	_	_
+4	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	PUNC	_	_
+2	Если	ЕСЛИ	CONJ	CONJ	CONJ	17	обст	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	–	–	–	–	PUNC	2	подч-союзн	_	_
+5	«	«	_	_	PUNC	4	PUNC	_	_
+6	то	ТО	CONJ	CONJ	CONJ	2	соотнос	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	17	обст	_	_
+9	принадлежит	ПРИНАДЛЕЖАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	8	подч-союзн	_	_
+10	»	»	_	_	PUNC	9	PUNC	_	_
+11	Фандорину	ФАНДОРИН	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	17	предик	_	_
+14	на	НА	PR	PR	PR	17	2-компл	_	_
+15	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	14	предл	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	посягнете	ПОСЯГАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	0	ROOT	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	а	А	CONJ	CONJ	CONJ	17	сент-соч	_	_
+20	если	ЕСЛИ	CONJ	CONJ	CONJ	19	соч-союзн	_	_
+21	«	«	_	_	PUNC	20	PUNC	_	_
+22	не то	не то	CONJ	CONJ	ZERO	20	сочин	_	_
+23	»	»	_	_	PUNC	22	PUNC	_	_
+24	,	,	,	,	PUNC	22	PUNC	_	_
+25	 	 	 	 	PUNC	22	соч-союзн	_	_
+26	–	–	–	–	PUNC	27	1-компл	_	_
+27	посягнете	ПОСЯГАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	17	вводн	_	_
+28	?	?	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+2	правильно	ПРАВИЛЬНО	ADV	ADV -	ADV -	3	обст	_	_
+3	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	4	1-компл	_	_
+4	поняла	ПОНИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+

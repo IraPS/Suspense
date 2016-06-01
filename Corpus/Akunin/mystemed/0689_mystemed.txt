@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"лаврентий","gr":"S,persn,m,anim=nom,sg"}],"text":"Лаврентий"}
+{"analysis":[{"lex":"аркадьевич","gr":"S,patrn,m,anim=nom,sg"}],"text":"Аркадьевич"}
+{"analysis":[{"lex":"пожимать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"пожал"}
+{"analysis":[{"lex":"плечо","gr":"S,n,inan=ins,pl"}],"text":"плечами"}

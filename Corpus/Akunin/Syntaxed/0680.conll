@@ -1,0 +1,74 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	В	В	PR	PR	PR	1	обст	_	_
+3	смысле	СМЫСЛ	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	«	«	_	_	PUNC	5	PUNC	_	_
+5	твоя	ТВОЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	квазиагент	_	_
+6	»	»	_	_	PUNC	5	PUNC	_	_
+7	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	майор	МАЙОР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Нет	НЕТ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	«	«	_	_	PUNC	6	PUNC	_	_
+6	твоя	ТВОЙ	A	A - nom sg plen f -	A - nom sg plen f -	11	предик	_	_
+7	»	»	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	а именно	а именно	ADV	ADV -	-	11	огранич	_	_
+10	«	«	_	_	PUNC	11	PUNC	_	_
+11	твой	ТВОЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	,	,	,	,	PUNC	11	PUNC	_	_
+14	 	 	 	 	PUNC	17	1-компл	_	_
+15	–	–	–	–	PUNC	16	1-компл	_	_
+16	криво	КРИВОЙ	A	A - - sg brev n -	A - - sg brev n -	14	1-компл	_	_
+17	усмехнулся	УСМЕХАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	релят	_	_
+18	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	В	В	PR	PR	PR	1	обст	_	_
+3	том-то	ТОТ-ТО	A	A - loc sg plen m -	A - loc sg plen m -	2	предл	_	_
+4	вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	штука	ШТУКА	S	S f inan nom sg	S f inan nom sg	5	соч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Перед	ПЕРЕД	PR	PR	PR	12	обст	_	_
+2	тем	ТО	S	S n - ins sg	S n - ins sg	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	2	эксплет	_	_
+5	попасть	ПОПАДАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	сравн-союзн	_	_
+6	в	В	PR	PR	PR	5	2-компл	_	_
+7	Кишиневское	КИШИНЕВСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+8	жандармское	ЖАНДАРМСКИЙ	A	A - acc sg plen n -	A - acc sg plen n -	9	опред	_	_
+9	управление	УПРАВЛЕНИЕ	S	S n inan nom sg	S n inan nom sg	6	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	Казанзаки	КАЗАНЗАК	S	S m inan gen sg	S m inan gen sg	9	1-компл	_	_
+12	служил	СЛУЖИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+13	в	В	PR	PR	PR	12	обст	_	_
+14	Тифлисе	ТИФЛИС	S	S m inan loc sg	S m inan loc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	3	предик	_	_
+2	немедленно	НЕМЕДЛЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	послали	ПОСЫЛАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	запрос	ЗАПРОС	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+7	ответ	ОТВЕТ	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+8	уже	УЖЕ	ADV	ADV -	ADV -	9	огранич	_	_
+9	получен	ПОЛУЧАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	6	соч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Прочтите	ПРОЧИТЫВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+2	телеграмму	ТЕЛЕГРАММА	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Новгородцев	НОВГОРОДЕЦ	S	S m anim nom sg	S m anim nom sg	1	вводн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

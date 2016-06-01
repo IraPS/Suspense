@@ -1,0 +1,23 @@
+1	Уехать	УЕЗЖАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+2	можно	МОЖНО	ADV	ADV -	ADV -	3	присвяз	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	еще	ЕЩЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	две	ДВА	NUM	NUM nom f -	NUM nom f -	6	количест	_	_
+6	недели	НЕДЕЛЯ	S	S f inan gen sg	S f inan gen sg	3	предик	_	_
+7	назад	НАЗАД	ADV	ADV -	ADV -	3	обст	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	да	ДА	CONJ	CONJ	CONJ	3	предик	_	_
+10	и	И	CONJ	CONJ	CONJ	14	соотнос	_	_
+11	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+12	торопил	ТОРОПИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	9	подч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	но	НО	CONJ	CONJ	CONJ	12	сочин	_	_
+15	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	17	предик	_	_
+16	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	17	опред	_	_
+17	тянула	ТЯНУТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	14	соч-союзн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	ждала	ЖДАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	17	сочин	_	_
+20	непонятно	НЕПОНЯТНО	ADV	ADV -	ADV -	21	обст	_	_
+21	чего	ЧТО	S	S n - gen sg	S n - gen sg	19	1-компл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

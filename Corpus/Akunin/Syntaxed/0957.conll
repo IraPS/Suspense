@@ -1,0 +1,24 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Et	ET	NONLEX	NONLEX	NONLEX	1	предик	_	_
+3	maintenant	MAINTENANT	NONLEX	NONLEX	NONLEX	2	аппоз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	mesdames	MESDAMES	NONLEX	NONLEX	NONLEX	3	аппоз	_	_
+6	et	ET	NONLEX	NONLEX	NONLEX	5	аппоз	_	_
+7	messieurs	MESSIEURS	NONLEX	NONLEX	NONLEX	6	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	la	LA	NONLEX	NONLEX	NONLEX	7	аппоз	_	_
+10	parole	PAROLE	NONLEX	NONLEX	NONLEX	9	аппоз	_	_
+11	est	EST	NONLEX	NONLEX	NONLEX	10	аппоз	_	_
+12	a	A	NONLEX	NONLEX	NONLEX	11	аппоз	_	_
+13	la	LA	NONLEX	NONLEX	NONLEX	12	аппоз	_	_
+14	defence	DEFENCE	NONLEX	NONLEX	NONLEX	13	аппоз	_	_
+15	!	!	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	громко	ГРОМКО	ADV	ADV -	ADV -	3	обст	_	_
+3	объявил	ОБЪЯВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	3	1-компл	_	_
+5	'	'	_	_	PUNC	4	PUNC	_	_
+6	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	4	аппоз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

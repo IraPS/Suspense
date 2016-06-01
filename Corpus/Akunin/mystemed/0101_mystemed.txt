@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"Не"}
+{"analysis":[{"lex":"оглядываться","gr":"V,ipf,intr=inpraes,ger"}],"text":"оглядываясь"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}
+{"analysis":[{"lex":"процеживать","gr":"V=praet,sg,indic,m,pf"}],"text":"процедил"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"У"}
+{"analysis":[{"lex":"этот","gr":"APRO=acc,sg,m,anim"},{"lex":"этот","gr":"APRO=gen,sg,m"},{"lex":"этот","gr":"APRO=gen,sg,n"}],"text":"этого"}
+{"analysis":[{"lex":"партизан","gr":"S,m,anim=acc,sg"},{"lex":"партизан","gr":"S,m,anim=gen,sg"}],"text":"партизана"}
+{"analysis":[{"lex":"ружье","gr":"S,n,inan=abl,sg"},{"lex":"ружье","gr":"S,n,inan=acc,sg"},{"lex":"ружье","gr":"S,n,inan=nom,sg"}],"text":"ружье"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"заряжать","gr":"V=praet,sg,partcp,brev,n,pf,pass,tran"}],"text":"заряжено"}

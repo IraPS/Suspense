@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"никополь","gr":"S,geo,m,inan=acc,sg"},{"lex":"никополь","gr":"S,geo,m,inan=nom,sg"}],"text":"Никополь"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"тихо","gr":"ADV=comp"}],"text":"тише"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,m,pf"}],"text":"спросил"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"text":"\\s"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"что"}
+{"analysis":[{"lex":"плевна","gr":"S,geo,f,inan=nom,sg"}],"text":"Плевна"}

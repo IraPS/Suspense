@@ -1,0 +1,40 @@
+1	—	—	—	—	PUNC	3	1-компл	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	3	предик	_	_
+3	догадываетесь	ДОГАДЫВАТЬСЯ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	—	—	—	—	PUNC	6	1-компл	_	_
+6	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	пролепт	_	_
+7	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	6	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	—	—	—	—	PUNC	13	опред	_	_
+10	кто	КТО	S	S m - nom sg	S m - nom sg	13	опред	_	_
+11	эта	ЭТОТ	A	A - nom sg plen f -	A - nom sg plen f -	13	опред	_	_
+12	известная	ИЗВЕСТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	13	опред	_	_
+13	особа	ОСОБА	S	S f anim nom sg	S f anim nom sg	6	разъяснит	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Еду	ЕХАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	в	В	PR	PR	PR	1	2-компл	_	_
+3	Москву	МОСКВА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Посмотрим	ПОСМОТРЕТЬ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	6	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	так	ТАК	ADV	ADV -	ADV -	5	огранич	_	_
+4	ли	ЛИ	PART	PART	PART	3	огранич	_	_
+5	равнодушно	РАВНОДУШНО	ADV	ADV -	ADV -	6	обст	_	_
+6	примет	ПРИНИМАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+7	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	6	предик	_	_
+8	смерть	СМЕРТЬ	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+9	перед	ПЕРЕД	PR	PR	PR	6	обст	_	_
+10	своей	СВОЙ	A	A - ins sg plen f -	A - ins sg plen f -	11	опред	_	_
+11	свадьбой	СВАДЬБА	S	S f inan ins sg	S f inan ins sg	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	как	КАК	CONJ	CONJ	CONJ	6	сравнит	_	_
+14	некогда	НЕКОГДА	ADV	ADV -	ADV -	15	обст	_	_
+15	ждал	ЖДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	13	сравн-союзн	_	_
+16	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	15	1-компл	_	_
+17	за	ЗА	PR	PR	PR	15	обст	_	_
+18	черешнями	ЧЕРЕШНЯ	S	S f inan ins pl	S f inan ins pl	17	предл	_	_
+19	!	!	SENT	SENT	SENT	18	PUNC	_	_
+

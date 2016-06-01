@@ -1,0 +1,81 @@
+1	Без	БЕЗ	PR	PR	PR	4	обст	_	_
+2	Фандорина	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	1	предл	_	_
+3	заняться	ЗАНИМАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	нечем	НЕЧЕГО	S	S n inan ins sg	S n inan ins sg	4	присвяз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	по-прежнему	ПО-ПРЕЖНЕМУ	ADV	ADV -	ADV -	3	обст	_	_
+3	числилась	ЧИСЛИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	при	ПРИ	PR	PR	PR	3	обст	_	_
+5	штабе	ШТАБ	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	исправно	ИСПРАВНО	ADV	ADV -	ADV -	8	обст	_	_
+8	получила	ПОЛУЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	сочин	_	_
+9	жалованье	ЖАЛОВАНИЕ	S	S n inan acc sg	S n inan acc sg	8	1-компл	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	за	ЗА	PR	PR	PR	18	вспом	_	_
+12	декабрь	ДЕКАБРЬ	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+15	за	ЗА	PR	PR	PR	14	соч-союзн	_	_
+16	январь	ЯНВАРЬ	S	S m inan acc sg	S m inan acc sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	плюс	ПЛЮС	CONJ	CONJ	CONJ	10	соч-союзн	_	_
+19	походные	ПОХОДНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	0	ROOT	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	плюс	ПЛЮС	CONJ	CONJ	CONJ	19	сочин	_	_
+22	наградные	НАГРАДНОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	21	соч-союзн	_	_
+23	к	К	PR	PR	PR	22	1-компл	_	_
+24	Рождеству	РОЖДЕСТВО	S	S n inan dat sg	S n inan dat sg	23	предл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Денег	ДЕНЬГИ	S	S - inan gen pl	S - inan gen pl	2	предик	_	_
+2	накопилось	НАКАПЛИВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	изрядно	ИЗРЯДНО	ADV	ADV -	ADV -	2	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	тратить	ТРАТИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	на	НА	PR	PR	PR	6	1-компл	_	_
+9	что	ЧТО	S	S n - acc sg	S n - acc sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Хотела	ХОТЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+2	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	1	обст	_	_
+3	в	В	PR	PR	PR	1	обст	_	_
+4	Софии	СОФИЯ	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	купить	КУПИТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+6	очаровательный	ОЧАРОВАТЕЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+7	медный	МЕДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	светильник	СВЕТИЛЬНИК	S	S m inan nom sg	S m inan nom sg	1	предик	_	_
+9	(	(	_	_	PUNC	10	PUNC	_	_
+10	ну	НУ	PART	PART	PART	11	огранич	_	_
+11	точь-в-точь	ТОЧЬ-В-ТОЧЬ	ADV	ADV -	ADV -	15	обст	_	_
+12	лампа	ЛАМПА	S	S f inan nom sg	S f inan nom sg	15	предик	_	_
+13	Аладдина	АЛАДДИН	S	S m anim gen sg	S m anim gen sg	12	квазиагент	_	_
+14	)	)	_	_	PUNC	13	PUNC	_	_
+15	–	–	–	–	PUNC	17	обст	_	_
+16	какое	КАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	17	предик	_	_
+17	там	ТАМ	ADV	ADV -	ADV -	1	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	Гриднев	ГРИДНЕВ	S	S f inan nom sg	S f inan nom sg	2	соч-союзн	_	_
+4	сцепились	СЦЕПЛЯТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	чуть не	чуть не	PART	PART	ZERO	6	огранич	_	_
+6	до	ДО	PR	PR	PR	4	1-компл	_	_
+7	драки	ДРАКА	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+8	–	–	–	–	PUNC	10	обст	_	_
+9	кто	КТО	S	S m - nom sg	S m - nom sg	10	предик	_	_
+10	преподнесет	ПРЕПОДНОСИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	4	2-компл	_	_
+11	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	10	2-компл	_	_
+12	безделушку	БЕЗДЕЛУШКА	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Пришлось	ПРИХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+2	уступить	УСТУПАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

@@ -1,0 +1,18 @@
+1	—	—	—	—	PUNC	5	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+3	с	С	PR	PR	PR	5	обст	_	_
+4	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	3	предл	_	_
+5	дрался	ДРАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	—	—	—	—	PUNC	8	1-компл	_	_
+8	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	сочин	_	_
+9	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	8	присвяз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	—	—	—	—	PUNC	9	сочин	_	_
+12	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+13	вот	ВОТ	PART	PART	PART	14	огранич	_	_
+14	памятник	ПАМЯТНИК	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+15	нашего	НАШ	A	A - gen sg plen m -	A - gen sg plen m -	16	опред	_	_
+16	поединка	ПОЕДИНОК	S	S m inan gen sg	S m inan gen sg	14	квазиагент	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

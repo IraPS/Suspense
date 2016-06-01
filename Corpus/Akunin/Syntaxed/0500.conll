@@ -1,0 +1,31 @@
+1	Замарашка	ЗАМАРАШКА	S	S - anim nom sg	S - anim nom sg	9	опред	_	_
+2	в	В	PR	PR	PR	1	атриб	_	_
+3	линялом	ЛИНЯЛЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	5	опред	_	_
+4	голубом	ГОЛУБОЙ	A	A - loc sg plen m -	A - loc sg plen m -	5	опред	_	_
+5	платье	ПЛАТЬЕ	S	S n inan nom sg	S n inan nom sg	2	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	пожухлой	ПОЖУХЛЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	опред	_	_
+8	соломеной	СОЛОМЕНА	S	S f inan gen sg	S f inan gen sg	6	соч-союзн	_	_
+9	шляпке	ШЛЯПКА	S	S f inan loc sg	S f inan loc sg	10	1-компл	_	_
+10	позорила	ПОЗОРИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+11	имя	ИМЯ	S	S n inan acc sg	S n inan acc sg	10	1-компл	_	_
+12	русской	РУССКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+13	женщины	ЖЕНЩИНА	S	S f anim gen sg	S f anim gen sg	11	квазиагент	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	по	ПО	PR	PR	PR	4	вводн	_	_
+3	тротуарам	ТРОТУАР	S	S m inan dat pl	S m inan dat pl	2	предл	_	_
+4	фланировали	ФЛАНИРОВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	соч-союзн	_	_
+5	такие	ТАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+6	мессалины	МЕССАЛИНА	S	S f anim gen sg	S f anim gen sg	4	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	разодетые	РАЗОДЕТЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	6	опред	_	_
+9	по	ПО	PR	PR	PR	8	1-компл	_	_
+10	самой	САМЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	11	опред	_	_
+11	что ни на есть	что ни на есть	PART	PART	ZERO	12	огранич	_	_
+12	последней	ПОСЛЕДНИЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+13	парижской	ПАРИЖСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+14	моде	МОДА	S	S f inan dat sg	S f inan dat sg	9	предл	_	_
+15	!	!	SENT	SENT	SENT	14	PUNC	_	_
+

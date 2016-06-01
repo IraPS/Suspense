@@ -1,0 +1,40 @@
+1	Тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	закашлялся	ЗАКАШЛИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	сбился	СБИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	потому что	потому что	CONJ	CONJ	ZERO	3	сент-соч	_	_
+8	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+9	от	ОТ	PR	PR	PR	8	1-компл	_	_
+10	неожиданности	НЕОЖИДАННОСТЬ	S	S f inan gen sg	S f inan gen sg	9	предл	_	_
+11	присвистнула	ПРИСВИСТЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Дождалась	ДОЖДАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	таки	ТАКИ	PART	PART	PART	1	огранич	_	_
+4	комплимента	КОМПЛИМЕНТ	S	S m inan gen sg	S m inan gen sg	1	1-компл	_	_
+5	от	ОТ	PR	PR	PR	4	1-компл	_	_
+6	статуи	СТАТУЯ	S	S f inan gen sg	S f inan gen sg	5	предл	_	_
+7	командора	КОМАНДОР	S	S m anim gen sg	S m anim gen sg	6	квазиагент	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Конечно	КОНЕЧНО	ADV	ADV -	ADV -	6	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	комплимент	КОМПЛИМЕНТ	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+4	довольно	ДОВОЛЬНО	ADV	ADV -	ADV -	5	огранич	_	_
+5	тщедушный	ТЩЕДУШНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	–	–	–	–	PUNC	0	ROOT	_	_
+7	«	«	_	_	PUNC	6	PUNC	_	_
+8	молодая	МОЛОДОЙ	A	A - nom sg plen f -	A - nom sg plen f -	10	опред	_	_
+9	привлекательная	ПРИВЛЕКАТЕЛЬНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	10	опред	_	_
+10	особа	ОСОБА	S	S f anim nom sg	S f anim nom sg	6	сочин	_	_
+11	»	»	_	_	PUNC	10	PUNC	_	_
+12	,	,	,	,	PUNC	10	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	10	сочин	_	_
+14	все же	все же	PART	PART	ZERO	13	огранич	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	все же	все же	PART	PART	ZERO	13	соч-союзн	_	_
+17	…	…	SENT	SENT	SENT	16	PUNC	_	_
+

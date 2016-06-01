@@ -1,0 +1,29 @@
+1	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	упрямо	УПРЯМО	ADV	ADV -	ADV -	3	обст	_	_
+3	покачал	ПОКАЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	3	1-компл	_	_
+5	:	:	:	:	PUNC	9	опред	_	_
+6	–	–	–	–	PUNC	9	1-компл	_	_
+7	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	9	предик	_	_
+8	дослушаем	ДОСЛУШИВАТЬ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	9	опред	_	_
+9	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	3	2-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	3	вводн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	а	А	CONJ	CONJ	CONJ	3	сочин	_	_
+14	потом	ПОТОМ	ADV	ADV -	ADV -	15	обст	_	_
+15	дадим	ДАВАТЬ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	13	соч-союзн	_	_
+16	высказаться	ВЫСКАЗЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	15	1-компл	_	_
+17	Шарлю	ШАРЛЬ	S	S f inan acc sg	S f inan acc sg	16	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Разбирательство	РАЗБИРАТЕЛЬСТВО	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	может	МОЧЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	состоять	СОСТОЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	только	ТОЛЬКО	PART	PART	PART	6	огранич	_	_
+6	из	ИЗ	PR	PR	PR	4	1-компл	_	_
+7	речи	РЕЧЬ	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+8	прокурора	ПРОКУРОР	S	S m anim gen sg	S m anim gen sg	7	квазиагент	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

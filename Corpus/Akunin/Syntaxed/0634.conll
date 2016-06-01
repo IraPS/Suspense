@@ -1,0 +1,39 @@
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Значит	ЗНАЧИТ	ADV	ADV -	ADV -	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	можно	МОЖНО	ADV	ADV -	ADV -	0	ROOT	_	_
+5	возвращаться	ВОЗВРАЩАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	4	предик	_	_
+6	в	В	PR	PR	PR	5	2-компл	_	_
+7	лагерь	ЛАГЕРЬ	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	облегченно	ОБЛЕГЧЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Полагаю	ПОЛАГАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	да	ДА	PART	PART	PART	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	В	В	PR	PR	PR	5	обст	_	_
+2	штабе	ШТАБ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	5	предик	_	_
+4	узнаем	УЗНАВАТЬ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	5	колич-огран	_	_
+5	больше	МНОГО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	чем	ЧЕМ	CONJ	CONJ	CONJ	5	сравнит	_	_
+8	в	В	PR	PR	PR	7	сравн-союзн	_	_
+9	этой	ЭТОТ	A	A - loc sg plen f -	A - loc sg plen f -	10	опред	_	_
+10	саванне	САВАННА	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	соч-союзн	_	_
+3	стемнеет	СТЕМНЕТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	2	соч-союзн	_	_
+4	скоро	СКОРО	ADV	ADV -	ADV -	3	обст	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

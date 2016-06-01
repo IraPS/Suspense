@@ -1,0 +1,33 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	демонстративно	ДЕМОНСТРАТИВНО	ADV	ADV -	ADV -	3	обст	_	_
+3	отвернулась	ОТВЕРТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	окинула	ОКИДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	сочин	_	_
+6	взглядом	ВЗГЛЯД	S	S m inan ins sg	S m inan ins sg	5	1-компл	_	_
+7	лагерь	ЛАГЕРЬ	S	S m inan acc sg	S m inan acc sg	5	сочин	_	_
+8	:	:	:	:	PUNC	10	опред	_	_
+9	белостенные	БЕЛОСТЕННЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	10	опред	_	_
+10	домики	ДОМИК	S	S m inan nom pl	S m inan nom pl	7	сочин	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	ровные	РОВНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	13	опред	_	_
+13	ряды	РЯД	S	S m inan acc pl	S m inan acc pl	10	сочин	_	_
+14	палаток	ПАЛАТКА	S	S f inan gen pl	S f inan gen pl	13	квазиагент	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	новехонькие	НОВЕХОНЬКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	18	опред	_	_
+17	телеграфные	ТЕЛЕГРАФНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	18	опред	_	_
+18	столбы	СТОЛБ	S	S m inan nom pl	S m inan nom pl	3	разъяснит	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	3	вводн	_	_
+2	улице	УЛИЦА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	бежал	БЕЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	солдат	СОЛДАТ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	очень	ОЧЕНЬ	ADV	ADV -	ADV -	7	огранич	_	_
+7	знакомо	ЗНАКОМЫЙ	A	A - - sg brev n -	A - - sg brev n -	3	сент-соч	_	_
+8	размахивая	РАЗМАХИВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	обст	_	_
+9	длинными	ДЛИННЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	11	опред	_	_
+10	нескладными	НЕСКЛАДНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	11	опред	_	_
+11	руками	РУКА	S	S f inan ins pl	S f inan ins pl	8	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

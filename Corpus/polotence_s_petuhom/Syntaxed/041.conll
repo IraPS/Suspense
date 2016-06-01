@@ -1,0 +1,59 @@
+1	Так-с...	ТАК-С...	PART	PART	PART	2	огранич	_	_
+2	со	СО	PR	PR	PR	7	обст	_	_
+3	справочником	СПРАВОЧНИК	S	S m inan ins sg	S m inan ins sg	2	предл	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	предик	_	_
+5	расставаться	РАССТАВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	буду	БЫТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+8	...	...	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	что	ЧТО	CONJ	CONJ	CONJ	5	соотнос	_	_
+3	выписать	ВЫПИСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	инф-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	можно	МОЖНО	ADV	ADV -	ADV -	3	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	пока	ПОКА	CONJ	CONJ	CONJ	5	сочин	_	_
+8	руки	РУКА	S	S f inan acc pl	S f inan acc pl	9	1-компл	_	_
+9	моешь	МЫТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	7	подч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	обдумать	ОБДУМЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Справочник	СПРАВОЧНИК	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	раскрытым	РАСКРЫВАТЬ	PARTCP	PARTCP pf praet dat pl plen - pass -	PARTCP pf praet dat pl plen - pass -	4	1-компл	_	_
+4	лежать	ЛЕЖАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	аналит	_	_
+5	прямо	ПРЯМО	PART	PART	PART	6	огранич	_	_
+6	на	НА	PR	PR	PR	4	обст	_	_
+7	книге	КНИГА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	для	ДЛЯ	PR	PR	PR	7	атриб	_	_
+9	записей	ЗАПИСЬ	S	S f inan gen pl	S f inan gen pl	8	предл	_	_
+10	больных	БОЛЬНОЙ	S	S m anim gen pl	S m anim gen pl	9	квазиагент	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Буду	БЫТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	выписывать	ВЫПИСЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	1	1-компл	_	_
+3	полезные	ПОЛЕЗНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	7	опред	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	но	НО	CONJ	CONJ	CONJ	3	сочин	_	_
+6	нетрудные	НЕТРУДНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	5	соч-союзн	_	_
+7	рецепты	РЕЦЕПТ	S	S m inan acc pl	S m inan acc pl	2	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Ну	НУ	PART	PART	PART	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	например	НАПРИМЕР	ADV	ADV -	ADV -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	natrii	NATRII	NONLEX	NONLEX	NONLEX	12	предик	_	_
+6	salicilici	SALICILICI	NONLEX	NONLEX	NONLEX	5	аппоз	_	_
+7	0,5	0,5	NUM	NUM - - -	NUM - - -	6	нум-аппоз	_	_
+8	по	ПО	PR	PR	PR	5	атриб	_	_
+9	одному	ОДИН	A	A - dat sg plen m -	A - dat sg plen m -	10	количест	_	_
+10	порошку	ПОРОШОК	S	S m inan dat sg	S m inan dat sg	8	предл	_	_
+11	три	ТРИ	NUM	NUM nom - -	NUM nom - -	12	количест	_	_
+12	раза	РАЗ	S	S m inan gen sg	S m inan gen sg	0	ROOT	_	_
+13	в	В	PR	PR	PR	12	распред	_	_
+14	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	13	предл	_	_
+15	...	...	SENT	SENT	SENT	14	PUNC	_	_
+

@@ -1,0 +1,18 @@
+1	Поколебавшись	ПОКОЛЕБАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	5	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+4	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+5	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	:	:	:	:	PUNC	8	кратно-длительн	_	_
+7	–	–	–	–	PUNC	8	1-компл	_	_
+8	Числился	ЧИСЛИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	3-компл	_	_
+9	по	ПО	PR	PR	PR	8	обст	_	_
+10	министерству	МИНИСТЕРСТВО	S	S n inan dat sg	S n inan dat sg	9	предл	_	_
+11	иностранных	ИНОСТРАННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	12	опред	_	_
+12	дел	ДЕЛО	S	S n inan gen pl	S n inan gen pl	10	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Титулярный	ТИТУЛЯРНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	2	опред	_	_
+2	советник	СОВЕТНИК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

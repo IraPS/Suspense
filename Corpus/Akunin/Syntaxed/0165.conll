@@ -1,0 +1,32 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Господи	ГОСПОДИ	INTJ	INTJ	INTJ	5	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	да	ДА	PART	PART	PART	5	огранич	_	_
+5	вызовите	ВЫЗЫВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+6	Петра	ПЕТР	S	S m anim acc sg	S m anim acc sg	5	1-компл	_	_
+7	Афанасьевича	АФАНАСЬЕВИЧ	S	S m anim gen sg	S m anim gen sg	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	5	сент-соч	_	_
+10	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	13	предик	_	_
+11	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	13	2-компл	_	_
+12	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	13	1-компл	_	_
+13	подтвердит	ПОДТВЕРДИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	9	соч-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	 	 	 	 	PUNC	17	обст	_	_
+16	–	–	–	–	PUNC	17	1-компл	_	_
+17	повторяла	ПОВТОРЯТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	5	вводн	_	_
+18	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	17	предик	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	а	А	CONJ	CONJ	CONJ	5	сент-соч	_	_
+21	подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+22	снова	СНОВА	ADV	ADV -	ADV -	0	ROOT	_	_
+23	на	НА	PR	PR	PR	0	ROOT	_	_
+24	это	ЭТО	S	S n - acc sg	S n - acc sg	25	1-компл	_	_
+25	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	23	предл	_	_
+26	:	:	:	:	PUNC	30	опред	_	_
+27	–	–	–	–	PUNC	30	опред	_	_
+28	Всему	ВСЕ	S	S n - dat sg	S n - dat sg	30	опред	_	_
+29	свое	СВОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	30	опред	_	_
+30	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	25	длительн	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+

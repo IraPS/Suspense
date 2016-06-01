@@ -1,0 +1,35 @@
+1	Женщина	ЖЕНЩИНА	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	тварь	ТВАРЬ	S	S f anim nom sg	S f anim nom sg	8	обст	_	_
+4	хилая	ХИЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	ненадежная	НЕНАДЕЖНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	соч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	присвяз	_	_
+9	Блаженный	БЛАЖЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	опред	_	_
+10	Августин	АВГУСТИН	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Прав	ПРАВЫЙ	A	A - - sg brev m -	A - - sg brev m -	8	вводн	_	_
+2	мракобес	МРАКОБЕС	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	женоненавистник	ЖЕНОНЕНАВИСТНИК	S	S m anim nom sg	S m anim nom sg	3	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	тысячу	ТЫСЯЧА	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+7	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	8	обст	_	_
+8	прав	ПРАВЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Во	ВО	PR	PR	PR	0	ROOT	_	_
+2	всяком	ВСЯКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	3	опред	_	_
+3	случае	СЛУЧАЙ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	в отношении	в отношении	PR	PR	ZERO	3	1-компл	_	_
+6	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	7	количест	_	_
+7	особы	ОСОБА	S	S f anim gen sg	S f anim gen sg	5	предл	_	_
+8	по	ПО	PR	PR	PR	7	атриб	_	_
+9	имени	ИМЯ	S	S n inan dat sg	S n inan dat sg	8	предл	_	_
+10	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	9	компл-аппоз	_	_
+11	Суворова	СУВОРОВ	S	S m anim gen sg	S m anim gen sg	10	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

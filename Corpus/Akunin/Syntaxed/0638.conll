@@ -1,0 +1,33 @@
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	2	предик	_	_
+2	перешептывались	ПЕРЕШЕПТЫВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	об	ОБ	PR	PR	PR	2	1-компл	_	_
+4	огромных	ОГРОМНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	5	опред	_	_
+5	потерях	ПОТЕРЯ	S	S f inan loc pl	S f inan loc pl	3	предл	_	_
+6	–	–	–	–	PUNC	7	1-компл	_	_
+7	выходило	ВЫХОДИТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	2	сент-соч	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	предик	_	_
+10	полегла	ПОЛЕГАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	подч-союзн	_	_
+11	четверть	ЧЕТВЕРТЬ	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+12	армии	АРМИЯ	S	S f inan gen sg	S f inan gen sg	11	квазиагент	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	но	НО	CONJ	CONJ	CONJ	10	сочин	_	_
+15	вслух	ВСЛУХ	ADV	ADV -	ADV -	16	обст	_	_
+16	говорили	ГОВОРИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	14	соч-союзн	_	_
+17	о	О	PR	PR	PR	16	3-компл	_	_
+18	проявленном	ПРОЯВЛЯТЬ	PARTCP	PARTCP pf praet loc sg plen m pass -	PARTCP pf praet loc sg plen m pass -	22	опред	_	_
+19	солдатами	СОЛДАТ	S	S m anim ins pl	S m anim ins pl	18	агент	_	_
+20	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+21	офицерами	ОФИЦЕР	S	S m anim ins pl	S m anim ins pl	20	соч-союзн	_	_
+22	героизме	ГЕРОИЗМ	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Героизма	ГЕРОИЗМ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	проявлено	ПРОЯВЛЯТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	2	пасс-анал	_	_
+4	много	МНОГО	ADV	ADV -	ADV -	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	особенно	ОСОБЕННО	ADV	ADV -	ADV -	7	огранич	_	_
+7	офицерами	ОФИЦЕР	S	S m anim ins pl	S m anim ins pl	2	присвяз	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

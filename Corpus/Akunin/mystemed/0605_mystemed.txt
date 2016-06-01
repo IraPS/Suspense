@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"три","gr":"NUM=nom"},{"lex":"три","gr":"NUM=acc,inan"}],"text":"Три"}
+{"analysis":[{"lex":"час","gr":"S,m,inan=gen,sg"}],"text":"часа"}
+{"text":"\\s"}
+{"analysis":[{"lex":"сейчас","gr":"ADV="}],"text":"Сейчас"}
+{"analysis":[{"lex":"пойти","gr":"V,pf,intr=inpraes,pl,indic,3p"}],"text":"пойдут"}

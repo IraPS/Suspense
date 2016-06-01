@@ -1,0 +1,33 @@
+1	Титулярный	ТИТУЛЯРНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	1-компл	_	_
+2	советник	СОВЕТНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	застегнул	ЗАСТЕГНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	ворот	ВОРОТ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+7	серьезно	СЕРЬЕЗНО	ADV	ADV -	ADV -	8	обст	_	_
+8	:	:	:	:	PUNC	6	1-компл	_	_
+9	–	–	–	–	PUNC	6	3-компл	_	_
+10	Если	ЕСЛИ	CONJ	CONJ	CONJ	3	обст	_	_
+11	живешь	ЖИТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	10	подч-союзн	_	_
+12	в	В	PR	PR	PR	11	1-компл	_	_
+13	г	Г	S	S m inan nonflex nonflex	S m inan nonflex nonflex	12	предл	_	_
+14	-	-	-	-	PUNC	13	PUNC	_	_
+15	государстве	ГОСУДАРСТВО	S	S n inan loc sg	S n inan loc sg	11	сочин	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	надобно	НАДОБНО	ADV	ADV -	ADV -	20	обст	_	_
+18	либо	ЛИБО	CONJ	CONJ	CONJ	20	соотнос	_	_
+19	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	20	квазиагент	_	_
+20	беречь	БЕРЕЧЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	либо	ЛИБО	CONJ	CONJ	CONJ	3	обст	_	_
+23	уж	УЖ	PART	PART	PART	22	огранич	_	_
+24	уезжать	УЕЗЖАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	22	инф-союзн	_	_
+25	–	–	–	–	PUNC	26	PUNC	_	_
+26	иначе	ИНАЧЕ	CONJ	CONJ	CONJ	24	примыкат	_	_
+27	получается	ПОЛУЧАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	26	соч-союзн	_	_
+28	паразитизм	ПАРАЗИТИЗМ	S	S f inan nom sg	S f inan nom sg	27	предик	_	_
+29	и	И	CONJ	CONJ	CONJ	28	сочин	_	_
+30	лакейские	ЛАКЕЙСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	31	опред	_	_
+31	пересуды	ПЕРЕСУДЫ	S	S - inan nom pl	S - inan nom pl	29	соч-союзн	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

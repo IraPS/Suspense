@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"ваш","gr":"APRO=acc,sg,n"},{"lex":"ваш","gr":"APRO=nom,sg,n"}],"text":"Ваше"}
+{"analysis":[{"lex":"превосходительство","gr":"S,n,anim=acc,sg"},{"lex":"превосходительство","gr":"S,n,anim=nom,sg"}],"text":"превосходительство"}
+{"analysis":[{"lex":"крикнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"крикнул"}
+{"analysis":[{"lex":"перепелкин","gr":"S,famn,m,anim=nom,sg"}],"text":"Перепелкин"}
+{"analysis":[{"lex":"чтоб","gr":"CONJ="}],"text":"чтоб"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=dat"}],"text":"ему"}
+{"analysis":[{"lex":"под","gr":"PR="}],"text":"под"}
+{"analysis":[{"lex":"земля","gr":"S,f,inan=acc,sg"}],"text":"землю"}
+{"analysis":[{"lex":"проваливаться","gr":"V,intr=inf,pf"}],"text":"провалиться"}
+{"text":"\\s"}
+{"analysis":[{"lex":"сан","gr":"S,m,inan=acc,sg"},{"lex":"сан","gr":"S,m,inan=nom,sg"}],"text":"Сан"}
+{"analysis":[{"lex":"стефано","gr":"S,famn,mf,anim=abl,pl"},{"lex":"стефано","gr":"S,famn,mf,anim=abl,sg"},{"lex":"стефано","gr":"S,famn,mf,anim=acc,pl"},{"lex":"стефано","gr":"S,famn,mf,anim=acc,sg"},{"lex":"стефано","gr":"S,famn,mf,anim=dat,pl"},{"lex":"стефано","gr":"S,famn,mf,anim=dat,sg"},{"lex":"стефано","gr":"S,famn,mf,anim=gen,pl"},{"lex":"стефано","gr":"S,famn,mf,anim=gen,sg"},{"lex":"стефано","gr":"S,famn,mf,anim=ins,pl"},{"lex":"стефано","gr":"S,famn,mf,anim=ins,sg"},{"lex":"стефано","gr":"S,famn,mf,anim=nom,pl"},{"lex":"стефано","gr":"S,famn,mf,anim=nom,sg"}],"text":"Стефано"}
+{"text":"\\s"}
+{"analysis":[{"lex":"выгружаться","gr":"V,intr=inpraes,pl,indic,1p,ipf"}],"text":"Выгружаемся"}

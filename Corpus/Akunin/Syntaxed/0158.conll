@@ -1,0 +1,118 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Разве	РАЗВЕ	PART	PART	PART	3	огранич	_	_
+3	ж	Ж	PART	PART	PART	4	огранич	_	_
+4	это	ЭТО	S	S n - nom sg	S n - nom sg	5	опред	_	_
+5	Семенов	СЕМЕНОВ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	усомнился	УСОМНИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Врешь	ВРАТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Нечитайло	НЕЧИТАЙЛО	S	S - anim nonflex nonflex	S - anim nonflex nonflex	2	сочин	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	У	У	PR	PR	PR	3	1-компл	_	_
+2	Семенова	СЕМЕНОВ	S	S m anim acc sg	S m anim acc sg	1	предл	_	_
+3	лицо	ЛИЦО	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+4	совсем	СОВСЕМ	ADV	ADV -	ADV -	5	огранич	_	_
+5	другое	ДРУГОЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	как	КАК	ADV	ADV -	ADV -	0	ROOT	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	Михал	МИХАЛ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+7	Дмитрич	ДМИТРИЧ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	11	2-компл	_	_
+10	–	–	–	–	PUNC	11	1-компл	_	_
+11	загорячился	ЗАГОРЯЧИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	релят	_	_
+12	урядник	УРЯДНИК	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	10	опред	_	_
+2	Вон	ВОН	PART	PART	PART	5	огранич	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	ухо	УХО	S	S n inan acc sg	S n inan acc sg	3	соч-союзн	_	_
+5	рваное	РВАНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	10	опред	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	вот	ВОТ	PART	PART	PART	7	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	гляньте	ГЛЯНУТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	раздвинул	РАЗДВИГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	мертвой	МЕРТВЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	5	опред	_	_
+5	голове	ГОЛОВА	S	S f inan loc sg	S f inan loc sg	3	1-компл	_	_
+6	фиолетовые	ФИОЛЕТОВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	7	опред	_	_
+7	губы	ГУБА	S	S f inan nom pl	S f inan nom pl	3	предик	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	предик	_	_
+2	И	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	зуба	ЗУБ	S	S m inan gen sg	S m inan gen sg	2	соч-союзн	_	_
+4	переднего	ПЕРЕДНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+5	опять	ОПЯТЬ	ADV	ADV -	ADV -	7	огранич	_	_
+6	же	ЖЕ	PART	PART	PART	5	огранич	_	_
+7	нет	НЕТ	ADV	ADV -	ADV -	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Точно	ТОЧНО	ADV	ADV -	ADV -	2	огранич	_	_
+2	Семенов	СЕМЕНОВ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	1-компл	_	_
+2	Пожалуй	ПОЖАЛУЙ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	7	2-компл	_	_
+5	–	–	–	–	PUNC	7	1-компл	_	_
+6	задумчиво	ЗАДУМЧИВО	ADV	ADV -	ADV -	7	обст	_	_
+7	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	предик	_	_
+2	Эк	ЭК	PART	PART	PART	4	огранич	_	_
+3	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	4	1-компл	_	_
+4	перекорежило	ПЕРЕКОРЕЖИВАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	1	вводн	_	_
+4	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	казак	КАЗАК	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+7	из	ИЗ	PR	PR	PR	6	атриб	_	_
+8	второй	ВТОРОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	9	опред	_	_
+9	сотни	СОТНЯ	S	S f inan gen sg	S f inan gen sg	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	14	1-компл	_	_
+12	нынче	НЫНЧЕ	ADV	ADV -	ADV -	14	обст	_	_
+13	утром	УТРО	S	S n inan ins sg	S n inan ins sg	14	1-компл	_	_
+14	похитили	ПОХИЩАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	релят	_	_
+15	месхетинцы	МЕСХЕТИНЕЦ	S	S m anim nom pl	S m anim nom pl	14	предик	_	_
+16	Дауд	ДАУД	S	S m anim nom sg	S m anim nom sg	15	аппоз	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	бека	БЕК	S	S m anim acc sg	S m anim acc sg	15	об-аппоз	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	 	 	 	 	PUNC	22	обст	_	_
+21	–	–	–	–	PUNC	22	1-компл	_	_
+22	пояснил	ПОЯСНЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	вводн	_	_
+23	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	22	предик	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	оборачиваясь	ОБОРАЧИВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	22	обст	_	_
+26	к	К	PR	PR	PR	25	1-компл	_	_
+27	Варе	ВАР	S	S m inan loc sg	S m inan loc sg	26	предл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+

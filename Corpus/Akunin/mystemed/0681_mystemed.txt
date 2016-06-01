@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"новый","gr":"A=acc,sg,plen,m,inan"},{"lex":"новый","gr":"A=nom,sg,plen,m"}],"text":"Новый"}
+{"analysis":[{"lex":"документ","gr":"S,m,inan=acc,sg"},{"lex":"документ","gr":"S,m,inan=nom,sg"}],"text":"документ"}
+{"analysis":[{"lex":"новгородец","gr":"S,m,anim=acc,pl"},{"lex":"новгородец","gr":"S,m,anim=gen,pl"}],"text":"Новгородцев"}
+{"analysis":[{"lex":"читать","gr":"V,ipf,tran=praet,sg,indic,m"}],"text":"читал"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"явно","gr":"ADV="}],"text":"явно"}
+{"analysis":[{"lex":"больший","gr":"A=dat,pl,plen"},{"lex":"больший","gr":"A=ins,sg,plen,m"},{"lex":"больший","gr":"A=ins,sg,plen,n"}],"text":"большим"}
+{"analysis":[{"lex":"удовольствие","gr":"S,n,inan=ins,sg"}],"text":"удовольствием"}
+{"analysis":[{"lex":"чем","gr":"CONJ="}],"text":"чем"}
+{"analysis":[{"lex":"любовный","gr":"A=acc,sg,plen,n"},{"lex":"любовный","gr":"A=nom,sg,plen,n"}],"text":"любовное"}
+{"analysis":[{"lex":"послание","gr":"S,n,inan=acc,sg"},{"lex":"послание","gr":"S,n,inan=nom,sg"}],"text":"послание"}

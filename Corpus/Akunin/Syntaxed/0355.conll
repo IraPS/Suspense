@@ -1,0 +1,46 @@
+1	–	–	–	–	PUNC	11	1-компл	_	_
+2	Эразм	ЭРАЗМ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	тебя	ТЫ	SPRO	SPRO sg 2p - acc	SPRO sg 2p - acc	6	1-компл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	приглашаю	ПРИГЛАШАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	сент-соч	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	11	обст	_	_
+9	–	–	–	–	PUNC	11	1-компл	_	_
+10	поспешно	ПОСПЕШНО	ADV	ADV -	ADV -	11	обст	_	_
+11	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	граф	ГРАФ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Тебе	ТЫ	SPRO	SPRO sg 2p - loc	SPRO sg 2p - loc	3	опред	_	_
+3	черт	ЧЕРТ	S	S f inan gen pl	S f inan gen pl	4	предик	_	_
+4	ворожит	ВОРОЖИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	опред	_	_
+2	Ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	3	опред	_	_
+3	превосходительство	ПРЕВОСХОДИТЕЛЬСТВО	S	S n anim nom sg	S n anim nom sg	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	 	 	 	 	PUNC	3	опред	_	_
+6	–	–	–	–	PUNC	7	1-компл	_	_
+7	возмутился	ВОЗМУЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	релят	_	_
+8	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Надеюсь	НАДЕЯТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	6	предик	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	допустите	ДОПУСКАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	2	сент-соч	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	6	1-компл	_	_
+9	в	В	PR	PR	PR	12	обст	_	_
+10	вашем	ВАШ	A	A - loc sg plen n -	A - loc sg plen n -	11	опред	_	_
+11	присутствии	ПРИСУТСТВИЕ	S	S n inan loc sg	S n inan loc sg	9	предл	_	_
+12	шла	ИДТИ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	8	подч-союзн	_	_
+13	азартная	АЗАРТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	опред	_	_
+14	игра	ИГРА	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+15	?	?	SENT	SENT	SENT	14	PUNC	_	_
+

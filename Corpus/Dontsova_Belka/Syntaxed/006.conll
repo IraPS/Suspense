@@ -1,0 +1,183 @@
+1	Первое	ПЕРВЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	4	предик	_	_
+2	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	4	обст	_	_
+3	Раиса	РАИСА	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+4	пыталась	ПЫТАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	вести	ВЕСТЬ	S	S f inan loc sg	S f inan loc sg	4	2-компл	_	_
+6	сельский	СЕЛЬСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	7	опред	_	_
+7	образ	ОБРАЗ	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+8	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	7	квазиагент	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	вскопала	ВСКАПЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	сочин	_	_
+11	землю	ЗЕМЛЯ	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+12	под	ПОД	PR	PR	PR	10	обст	_	_
+13	зелень	ЗЕЛЕНЬ	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	завела	ЗАВОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	сочин	_	_
+16	цветы	ЦВЕТОК	S	S m inan acc pl	S m inan acc pl	15	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	двух	ДВА	NUM	NUM loc - -	NUM loc - -	19	количест	_	_
+19	кошек	КОШКА	S	S f anim acc pl	S f anim acc pl	15	3-компл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	исправно	ИСПРАВНО	ADV	ADV -	ADV -	22	обст	_	_
+22	смотрела	СМОТРЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	15	сочин	_	_
+23	сериалы	СЕРИАЛ	S	S m inan acc pl	S m inan acc pl	22	1-компл	_	_
+24	по	ПО	PR	PR	PR	23	атриб	_	_
+25	телевизору	ТЕЛЕВИЗОР	S	S m inan dat sg	S m inan dat sg	24	предл	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	читала	ЧИТАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	22	сочин	_	_
+28	газеты	ГАЗЕТА	S	S f inan acc pl	S f inan acc pl	27	1-компл	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	книги	КНИГА	S	S f inan gen sg	S f inan gen sg	28	1-компл	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	а	А	CONJ	CONJ	CONJ	27	сочин	_	_
+33	потом	ПОТОМ	ADV	ADV -	ADV -	34	обст	_	_
+34	поняла	ПОНИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	32	соч-союзн	_	_
+35	:	:	:	:	PUNC	0	ROOT	_	_
+36	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	38	дат-субъект	_	_
+37	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	38	количест	_	_
+38	скучно	СКУЧНО	ADV	ADV -	ADV -	35	обст	_	_
+39	и	И	CONJ	CONJ	CONJ	38	сочин	_	_
+40	грустно	ГРУСТНО	ADV	ADV -	ADV -	39	соч-союзн	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+
+1	Дети	РЕБЕНОК	S	S m anim nom pl	S m anim nom pl	2	предик	_	_
+2	приезжали	ПРИЕЗЖАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	редко	РЕДКО	ADV	ADV -	ADV -	2	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	отбывали	ОТБЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	сочин	_	_
+6	повинность	ПОВИННОСТЬ	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	укатывали	УКАТЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	7	соч-союзн	_	_
+9	в	В	PR	PR	PR	8	2-компл	_	_
+10	Москву	МОСКВА	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Внуки	ВНУК	S	S m anim nom pl	S m anim nom pl	4	предик	_	_
+2	вообще	ВООБЩЕ	ADV	ADV -	ADV -	4	обст	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	заглядывали	ЗАГЛЯДЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	9	1-компл	_	_
+7	никак	НИКАК	ADV	ADV -	ADV -	9	обст	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	прельщали	ПРЕЛЬЩАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	4	сент-соч	_	_
+10	сельские	СЕЛЬСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	опред	_	_
+11	удовольствия	УДОВОЛЬСТВИЕ	S	S n inan nom pl	S n inan nom pl	9	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Другая	ДРУГОЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	предик	_	_
+2	начала	НАЧИНАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	бы	БЫ	PART	PART	PART	2	аналит	_	_
+4	качать	КАЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	1-компл	_	_
+5	права	ПРАВО	S	S n inan acc pl	S n inan acc pl	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	напоминать	НАПОМИНАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	сочин	_	_
+8	дочери	ДОЧЬ	S	S f anim dat sg	S f anim dat sg	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	8	1-компл	_	_
+11	оставила	ОСТАВЛЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	подч-союзн	_	_
+12	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	11	2-компл	_	_
+13	хорошую	ХОРОШИЙ	A	A - acc sg plen f -	A - acc sg plen f -	15	опред	_	_
+14	«	«	_	_	PUNC	15	PUNC	_	_
+15	трешку	ТРЕШКА	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+16	»	»	_	_	PUNC	15	PUNC	_	_
+17	,	,	,	,	PUNC	15	PUNC	_	_
+18	а	А	CONJ	CONJ	CONJ	11	сочин	_	_
+19	сыну	СЫН	S	S m anim dat sg	S m anim dat sg	29	1-компл	_	_
+20	Олегу	ОЛЕГ	S	S m anim dat sg	S m anim dat sg	19	аппоз	_	_
+21	–	–	–	–	PUNC	19	опред	_	_
+22	про	ПРО	PR	PR	PR	21	1-компл	_	_
+23	врученные	ВРУЧАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	26	опред	_	_
+24	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	23	2-компл	_	_
+25	«	«	_	_	PUNC	23	PUNC	_	_
+26	Жигули	ЖИГУЛИ	S	S - inan acc pl	S - inan acc pl	22	предл	_	_
+27	»	»	_	_	PUNC	26	PUNC	_	_
+28	,	,	,	,	PUNC	26	PUNC	_	_
+29	потребовала	ПОТРЕБОВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	18	соч-союзн	_	_
+30	бы	БЫ	PART	PART	PART	29	аналит	_	_
+31	в	В	PR	PR	PR	29	обст	_	_
+32	ответ	ОТВЕТ	S	S m inan acc sg	S m inan acc sg	31	предл	_	_
+33	любви	ЛЮБОВЬ	S	S f inan gen sg	S f inan gen sg	32	квазиагент	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	внимания	ВНИМАНИЕ	S	S n inan gen sg	S n inan gen sg	33	сочин	_	_
+36	и	И	CONJ	CONJ	CONJ	35	сочин	_	_
+37	уважения	УВАЖЕНИЕ	S	S n inan gen sg	S n inan gen sg	36	соч-союзн	_	_
+38	,	,	,	,	PUNC	37	PUNC	_	_
+39	но	НО	CONJ	CONJ	CONJ	29	сент-соч	_	_
+40	Раиса	РАИСА	S	S f anim nom sg	S f anim nom sg	42	предик	_	_
+41	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	40	аппоз	_	_
+42	рассудила	РАССУДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	39	соч-союзн	_	_
+43	иначе	ИНАЧЕ	CONJ	CONJ	CONJ	42	1-компл	_	_
+44	:	:	:	:	PUNC	46	1-компл	_	_
+45	насильно	НАСИЛЬНО	ADV	ADV -	ADV -	46	огранич	_	_
+46	мил	МИЛЫЙ	A	A - - sg brev m -	A - - sg brev m -	43	подч-союзн	_	_
+47	не	НЕ	PART	PART	PART	48	огранич	_	_
+48	будешь	БЫТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	42	сочин	_	_
+49	,	,	,	,	PUNC	48	PUNC	_	_
+50	и	И	CONJ	CONJ	CONJ	48	сочин	_	_
+51	негоже	НЕГОЖЕ	ADV	ADV -	ADV -	52	обст	_	_
+52	старикам	СТАРИК	S	S m anim dat pl	S m anim dat pl	50	соч-союзн	_	_
+53	заедать	ЗАЕДАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	48	1-компл	_	_
+54	жизнь	ЖИЗНЬ	S	S f inan acc sg	S f inan acc sg	53	1-компл	_	_
+55	молодым	МОЛОДОЙ	A	A - ins sg plen m -	A - ins sg plen m -	53	2-компл	_	_
+56	.	.	SENT	SENT	SENT	55	PUNC	_	_
+
+1	Звягина	ЗВЯГИН	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	вспомнила	ВСПОМНИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	про	ПРО	PR	PR	PR	2	обст	_	_
+4	то	ТО	S	S n - acc sg	S n - acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	эксплет	_	_
+7	умеет	УМЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	подч-союзн	_	_
+8	вкусно	ВКУСНО	ADV	ADV -	ADV -	9	обст	_	_
+9	готовить	ГОТОВИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	оценила	ОЦЕНИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сочин	_	_
+12	размеры	РАЗМЕР	S	S m inan acc pl	S m inan acc pl	11	1-компл	_	_
+13	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+14	дачки	ДАЧКА	S	S f inan gen sg	S f inan gen sg	12	квазиагент	_	_
+15	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+16	разместила	РАЗМЕЩАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	соч-союзн	_	_
+17	в	В	PR	PR	PR	16	обст	_	_
+18	Интернете	ИНТЕРНЕТ	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+19	объявление	ОБЪЯВЛЕНИЕ	S	S n inan nom sg	S n inan nom sg	20	предик	_	_
+20	:	:	:	:	PUNC	16	сент-соч	_	_
+21	«	«	_	_	PUNC	20	PUNC	_	_
+22	Маленький	МАЛЕНЬКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	23	опред	_	_
+23	отель	ОТЕЛЬ	S	S m inan nom sg	S m inan nom sg	20	сент-соч	_	_
+24	на	НА	PR	PR	PR	23	атриб	_	_
+25	берегу	БЕРЕГ	S	S m inan loc2 sg	S m inan loc2 sg	24	предл	_	_
+26	озера	ОЗЕРО	S	S n inan gen sg	S n inan gen sg	25	квазиагент	_	_
+27	приглашает	ПРИГЛАШАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	вводн	_	_
+28	тех	ТОТ	A	A - acc pl plen - anim	A - acc pl plen - anim	0	ROOT	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	кто	КТО	S	S m - nom sg	S m - nom sg	31	предик	_	_
+31	хочет	ХОТЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	28	релят	_	_
+32	провести	ПРОВОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	31	1-компл	_	_
+33	отдых	ОТДЫХ	S	S m inan acc sg	S m inan acc sg	32	1-компл	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	как	КАК	CONJ	CONJ	CONJ	32	сравнит	_	_
+36	в	В	PR	PR	PR	39	обст	_	_
+37	детстве	ДЕТСТВО	S	S n inan loc sg	S n inan loc sg	36	предл	_	_
+38	:	:	:	:	PUNC	39	опред	_	_
+39	баня	БАНЯ	S	S f inan nom sg	S f inan nom sg	35	сравн-союзн	_	_
+40	,	,	,	,	PUNC	39	PUNC	_	_
+41	рыбалка	РЫБАЛКА	S	S f inan nom sg	S f inan nom sg	39	сочин	_	_
+42	,	,	,	,	PUNC	41	PUNC	_	_
+43	грибы	ГРИБ	S	S m inan acc pl	S m inan acc pl	32	1-компл	_	_
+44	-	-	-	-	PUNC	43	PUNC	_	_
+45	ягоды	ЯГОДА	S	S f inan nom pl	S f inan nom pl	43	сочин	_	_
+46	,	,	,	,	PUNC	45	PUNC	_	_
+47	велосипед	ВЕЛОСИПЕД	S	S m inan nom sg	S m inan nom sg	45	сочин	_	_
+48	и	И	CONJ	CONJ	CONJ	47	сочин	_	_
+49	еда	ЕДА	S	S f inan nom sg	S f inan nom sg	48	соч-союзн	_	_
+50	от	ОТ	PR	PR	PR	49	атриб	_	_
+51	бабули	БАБУЛЯ	S	S m inan loc sg	S m inan loc sg	50	предл	_	_
+52	.	.	SENT	SENT	SENT	51	PUNC	_	_
+
+1	Цена	ЦЕНА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+2	по	ПО	PR	PR	PR	1	атриб	_	_
+3	договоренности	ДОГОВОРЕННОСТЬ	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+4	»	»	_	_	PUNC	3	PUNC	_	_
+5	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

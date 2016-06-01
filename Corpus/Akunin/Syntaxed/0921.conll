@@ -1,0 +1,28 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	оглянулась	ОГЛЯНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	Шарля	ШАРЛЬ	S	S m anim gen sg	S m anim gen sg	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	2	предик	_	_
+2	стоял	СТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	у	У	PR	PR	PR	2	1-компл	_	_
+4	стены	СТЕНА	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	скрестив	СКРЕЩИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+7	руки	РУКА	S	S f inan acc pl	S f inan acc pl	6	1-компл	_	_
+8	на	НА	PR	PR	PR	6	обст	_	_
+9	груди	ГРУДЬ	S	S f inan loc2 sg	S f inan loc2 sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+12	смотрел	СМОТРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	соч-союзн	_	_
+13	на	НА	PR	PR	PR	12	1-компл	_	_
+14	титулярного	ТИТУЛЯРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+15	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	13	предл	_	_
+16	с	С	PR	PR	PR	15	атриб	_	_
+17	недоверчиво	НЕДОВЕРЧИВО	ADV	ADV -	ADV -	20	вводн	_	_
+18	-	-	-	-	PUNC	17	PUNC	_	_
+19	насмешливой	НАСМЕШЛИВЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	20	опред	_	_
+20	улыбкой	УЛЫБКА	S	S f inan ins sg	S f inan ins sg	16	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

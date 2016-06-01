@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"},{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Маклафлин"}
+{"analysis":[{"lex":"многозначительно","gr":"ADV="}],"text":"многозначительно"}
+{"analysis":[{"lex":"умолкать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"умолк"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"было"}
+{"analysis":[{"lex":"видно","gr":"ADV,praed="}],"text":"видно"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=acc"},{"lex":"он","gr":"SPRO,sg,3p,m=gen"}],"text":"его"}
+{"analysis":[{"lex":"все","gr":"SPRO,sg,n,inan=gen"}],"text":"всего"}
+{"analysis":[{"lex":"распирать","gr":"V=inpraes,sg,indic,3p,ipf,tran"}],"text":"распирает"}
+{"analysis":[{"lex":"от","gr":"PR="}],"text":"от"}
+{"analysis":[{"lex":"важность","gr":"S,f,inan=abl,sg"},{"lex":"важность","gr":"S,f,inan=acc,pl"},{"lex":"важность","gr":"S,f,inan=dat,sg"},{"lex":"важность","gr":"S,f,inan=gen,sg"},{"lex":"важность","gr":"S,f,inan=nom,pl"}],"text":"важности"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"секретность","gr":"S,f,inan=abl,sg"},{"lex":"секретность","gr":"S,f,inan=acc,pl"},{"lex":"секретность","gr":"S,f,inan=dat,sg"},{"lex":"секретность","gr":"S,f,inan=gen,sg"},{"lex":"секретность","gr":"S,f,inan=nom,pl"}],"text":"секретности"}

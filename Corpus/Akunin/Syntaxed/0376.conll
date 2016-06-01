@@ -1,0 +1,31 @@
+1	Лукан	ЛУКАН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	рванул	РВАНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	с	С	PR	PR	PR	2	1-компл	_	_
+4	пальца	ПАЛЕЦ	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	бриллиантовый	БРИЛЛИАНТОВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	перстень	ПЕРСТЕНЬ	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+7	:	:	:	:	PUNC	9	2-компл	_	_
+8	–	–	–	–	PUNC	9	1-компл	_	_
+9	Вскрываю	ВСКРЫВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	2	сент-соч	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	8	предик	_	_
+2	И	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	дрожащей	ДРОЖАТЬ	PARTCP	PARTCP ipf inpraes loc sg plen f act -	PARTCP ipf inpraes loc sg plen f act -	2	соч-союзн	_	_
+4	рукой	РУКА	S	S f inan ins sg	S f inan ins sg	3	агент	_	_
+5	медленно	МЕДЛЕННО	ADV	ADV -	ADV -	8	обст	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	медленно	МЕДЛЕННО	ADV	ADV -	ADV -	8	обст	_	_
+8	потянулся	ПОТЯНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	к	К	PR	PR	PR	8	2-компл	_	_
+10	картам	КАРТА	S	S f inan dat pl	S f inan dat pl	9	предл	_	_
+11	Зурова	ЗУРОВ	S	S m anim acc sg	S m anim acc sg	8	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	небрежно	НЕБРЕЖНО	ADV	ADV -	ADV -	14	обст	_	_
+14	лежавшим	ЛЕЖАТЬ	PARTCP	PARTCP ipf praet dat pl plen - act -	PARTCP ipf praet dat pl plen - act -	11	опред	_	_
+15	на	НА	PR	PR	PR	14	1-компл	_	_
+16	столе	СТОЛ	S	S m inan loc sg	S m inan loc sg	15	предл	_	_
+17	рубашкой	РУБАШКА	S	S f inan ins sg	S f inan ins sg	14	2-компл	_	_
+18	кверху	КВЕРХУ	ADV	ADV -	ADV -	14	обст	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=ins"}],"text":"ним"}
+{"analysis":[{"lex":"драться","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"дрался"}
+{"analysis":[{"lex":"отвечать","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"отвечал"}
+{"analysis":[{"lex":"сильвио","gr":"S,persn,m,anim=abl,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=abl,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=acc,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=acc,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=dat,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=dat,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=gen,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=gen,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=ins,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=ins,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=nom,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=nom,sg"}],"text":"Сильвио"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"вот","gr":"PART="}],"text":"вот"}
+{"analysis":[{"lex":"памятник","gr":"S,m,inan=acc,sg"},{"lex":"памятник","gr":"S,m,inan=nom,sg"}],"text":"памятник"}
+{"analysis":[{"lex":"наш","gr":"APRO=acc,sg,m,anim"},{"lex":"наш","gr":"APRO=gen,sg,m"},{"lex":"наш","gr":"APRO=gen,sg,n"}],"text":"нашего"}
+{"analysis":[{"lex":"поединок","gr":"S,m,inan=gen,sg"}],"text":"поединка"}

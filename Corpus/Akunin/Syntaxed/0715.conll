@@ -1,0 +1,29 @@
+1	–	–	–	–	PUNC	8	предик	_	_
+2	О	О	PR	PR	PR	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	1	вводн	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	очень	ОЧЕНЬ	ADV	ADV -	ADV -	8	огранич	_	_
+8	рад	РАД	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+9	видеть	ВИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+10	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	9	1-компл	_	_
+11	в	В	PR	PR	PR	9	обст	_	_
+12	добром	ДОБРЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	13	опред	_	_
+13	здравии	ЗДРАВИЕ	S	S n inan loc sg	S n inan loc sg	11	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	7	1-компл	_	_
+3	из	ИЗ	PR	PR	PR	2	электив	_	_
+4	гигиенических	ГИГИЕНИЧЕСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	5	опред	_	_
+5	соображений	СООБРАЖЕНИЕ	S	S n inan gen pl	S n inan gen pl	3	предл	_	_
+6	так	ТАК	ADV	ADV -	ADV -	7	обст	_	_
+7	обстригли	ОБСТРИГАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Прямо	ПРЯМО	PART	PART	PART	3	огранич	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	узнать	УЗНАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

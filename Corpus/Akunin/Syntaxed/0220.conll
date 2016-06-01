@@ -1,0 +1,45 @@
+1	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+2	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	слушавший	СЛУШАТЬ	PARTCP	PARTCP ipf praet acc sg plen m act inan	PARTCP ipf praet acc sg plen m act inan	1	опред	_	_
+5	очень	ОЧЕНЬ	ADV	ADV -	ADV -	6	огранич	_	_
+6	внимательно	ВНИМАТЕЛЬНО	ADV	ADV -	ADV -	4	обст	_	_
+7	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+8	за	ЗА	PR	PR	PR	7	соч-союзн	_	_
+9	все	ВЕСЬ	A	A - acc sg plen n inan	A - acc sg plen n inan	10	опред	_	_
+10	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	8	предл	_	_
+11	ни разу	ни разу	ADV	ADV -	-	13	обст	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	пошевелившийся	ПОШЕВЕЛИТЬСЯ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	0	ROOT	_	_
+14	(	(	_	_	PUNC	15	PUNC	_	_
+15	в отличие от	в отличие от	PR	PR	ZERO	13	примыкат	_	_
+16	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	20	предик	_	_
+19	вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	20	суб-копр	_	_
+20	извертелась	ИЗВЕРТЕТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	13	сент-соч	_	_
+21	на	НА	PR	PR	PR	20	обст	_	_
+22	жестком	ЖЕСТКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	23	опред	_	_
+23	стуле	СТУЛ	S	S m inan loc sg	S m inan loc sg	21	предл	_	_
+24	)	)	_	_	PUNC	23	PUNC	_	_
+25	,	,	,	,	PUNC	23	PUNC	_	_
+26	коротко	КОРОЧЕ	ADV	ADV -	ADV -	27	обст	_	_
+27	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	20	сент-соч	_	_
+28	:	:	:	:	PUNC	33	1-компл	_	_
+29	–	–	–	–	PUNC	30	предл	_	_
+30	Про	ПРО	PR	PR	PR	33	обст	_	_
+31	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	29	аппрокс-колич	_	_
+32	-	-	-	-	PUNC	31	PUNC	_	_
+33	дебют	ДЕБЮТ	S	S m inan nom sg	S m inan nom sg	27	предик	_	_
+34	ясно	ЯСНО	ADV	ADV -	ADV -	27	обст	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	про	ПРО	PR	PR	PR	34	сочин	_	_
+37	миттельшпиль	МИТТЕЛЬШПИЛЬ	S	S f inan acc sg	S f inan acc sg	36	предл	_	_
+38	тоже	ТОЖЕ	PART	PART	PART	37	огранич	_	_
+39	.	.	SENT	SENT	SENT	38	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	где	ГДЕ	ADV	ADV -	ADV -	3	2-компл	_	_
+3	эндшпиль	ЭНДШПИЛЬ	S	S m inan acc sg	S m inan acc sg	1	соч-союзн	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+

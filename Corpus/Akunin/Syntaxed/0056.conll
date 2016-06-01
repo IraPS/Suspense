@@ -1,0 +1,12 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	все	ВСЕ	S	S - - acc pl	S - - acc pl	3	1-компл	_	_
+3	повторял	ПОВТОРЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	:	:	:	:	PUNC	6	опред	_	_
+5	–	–	–	–	PUNC	6	опред	_	_
+6	Оште	ОШТА	S	S m anim loc sg	S m anim loc sg	3	1-компл	_	_
+7	ветнаж	ВЕТНАЖ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	оште	ОШТА	S	S m anim loc sg	S m anim loc sg	3	вводн	_	_
+10	ветнаж	ВЕТНАЖ	S	S m anim nom sg	S m anim nom sg	3	вводн	_	_
+11	!	!	SENT	SENT	SENT	10	PUNC	_	_
+

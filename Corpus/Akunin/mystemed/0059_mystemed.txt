@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"второй","gr":"ANUM=abl,sg,f"},{"lex":"второй","gr":"ANUM=dat,sg,f"},{"lex":"второй","gr":"ANUM=gen,sg,f"},{"lex":"второй","gr":"ANUM=ins,sg,f"},{"lex":"второй","gr":"ANUM=acc,sg,m,inan"},{"lex":"второй","gr":"ANUM=nom,sg,m"}],"text":"Второй"}
+{"analysis":[{"lex":"от","gr":"PR="}],"text":"от"}
+{"analysis":[{"lex":"к","gr":"S,abbr=abl,pl"},{"lex":"к","gr":"S,abbr=abl,sg"},{"lex":"к","gr":"S,abbr=acc,pl"},{"lex":"к","gr":"S,abbr=acc,sg"},{"lex":"к","gr":"S,abbr=dat,pl"},{"lex":"к","gr":"S,abbr=dat,sg"},{"lex":"к","gr":"S,abbr=gen,pl"},{"lex":"к","gr":"S,abbr=gen,sg"},{"lex":"к","gr":"S,abbr=ins,pl"},{"lex":"к","gr":"S,abbr=ins,sg"},{"lex":"к","gr":"S,abbr=nom,pl"},{"lex":"к","gr":"S,abbr=nom,sg"}],"text":"к"}
+{"analysis":[{"lex":"край","gr":"S,m,inan=acc,pl"},{"lex":"край","gr":"S,m,inan=gen,sg"},{"lex":"край","gr":"S,m,inan=nom,pl"}],"text":"края"}
+{"analysis":[{"lex":"сосредоточенно","gr":"ADV="}],"text":"сосредоточенно"}
+{"analysis":[{"lex":"прищуриваться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"прищурился"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}
+{"analysis":[{"lex":"останавливаться","gr":"V,intr=inpraes,ger,ipf"}],"text":"останавливаясь"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"крыльцо","gr":"S,n,inan=abl,sg"}],"text":"крыльце"}

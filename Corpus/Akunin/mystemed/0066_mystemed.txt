@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=abl"},{"lex":"вы","gr":"SPRO,pl,2p=acc"},{"lex":"вы","gr":"SPRO,pl,2p=gen"}],"text":"вас"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"карман","gr":"S,m,inan=abl,sg"}],"text":"кармане"}
+{"analysis":[{"lex":"вспомнить","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"вспомнила"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"text":"\\s"}
+{"analysis":[{"lex":"пистолет","gr":"S,m,inan=acc,sg"},{"lex":"пистолет","gr":"S,m,inan=nom,sg"}],"text":"Пистолет"}
+{"analysis":[{"lex":"да","gr":"PART="}],"text":"да"}

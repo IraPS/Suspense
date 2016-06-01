@@ -1,0 +1,87 @@
+1	Предо	ПРЕДО	PR	PR	PR	4	вводн	_	_
+2	мною	Я	SPRO	SPRO sg 1p - ins	SPRO sg 1p - ins	1	предл	_	_
+3	двухэтажный	ДВУХЭТАЖНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	дом	ДОМ	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+5	с	С	PR	PR	PR	4	атриб	_	_
+6	тремя	ТРИ	NUM	NUM ins - -	NUM ins - -	8	количест	_	_
+7	облупленными	ОБЛУПЛИВАТЬ	PARTCP	PARTCP pf praet ins pl plen - pass -	PARTCP pf praet ins pl plen - pass -	8	опред	_	_
+8	колоннами	КОЛОННА	S	S f inan ins pl	S f inan ins pl	5	предл	_	_
+9	по	ПО	PR	PR	PR	8	атриб	_	_
+10	фасаду	ФАСАД	S	S m inan dat sg	S m inan dat sg	9	предл	_	_
+11	;	;	SENT	SENT	SENT	10	PUNC	_	_
+
+1	зияют	ЗИЯТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+2	окна	ОКНО	S	S n inan nom pl	S n inan nom pl	1	предик	_	_
+3	верхнего	ВЕРХНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	этажа	ЭТАЖ	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+5	;	;	SENT	SENT	SENT	4	PUNC	_	_
+
+1	рамы	РАМА	S	S f inan gen sg	S f inan gen sg	4	предик	_	_
+2	из	ИЗ	PR	PR	PR	1	атриб	_	_
+3	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	2	предл	_	_
+4	выломаны	ВЫЛАМЫВАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	колоды	КОЛОДА	S	S f inan gen sg	S f inan gen sg	4	2-компл	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	тоже	ТОЖЕ	PART	PART	PART	10	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	вывалилась	ВЫВАЛИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	сент-соч	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сент-соч	_	_
+12	часть	ЧАСТЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+13	кирпичей	КИРПИЧ	S	S m inan gen pl	S m inan gen pl	12	квазиагент	_	_
+14	;	;	SENT	SENT	SENT	13	PUNC	_	_
+
+1	окна	ОКНО	S	S n inan gen sg	S n inan gen sg	2	1-компл	_	_
+2	–	–	–	–	PUNC	6	опред	_	_
+3	зубчатые	ЗУБЧАТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	рваные	РВАНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	6	опред	_	_
+6	дыры	ДЫРА	S	S f inan acc pl	S f inan acc pl	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+9	кажется	КАЗАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	8	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	9	предик	_	_
+12	из	ИЗ	PR	PR	PR	14	атриб	_	_
+13	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	12	предл	_	_
+14	на	НА	PR	PR	PR	18	1-компл	_	_
+15	улицу	УЛИЦА	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+16	холодным	ХОЛОДНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	17	опред	_	_
+17	дымом	ДЫМ	S	S m inan ins sg	S m inan ins sg	18	обст	_	_
+18	лезет	ЛЕЗТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	подч-союзн	_	_
+19	густейшая	ГУСТОЙ	A	A supr nom sg plen f -	A supr nom sg plen f -	20	опред	_	_
+20	тьма	ТЬМА	S	S f inan nom sg	S f inan nom sg	18	предик	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Вокруг	ВОКРУГ	PR	PR	PR	4	обст	_	_
+2	дома	ДОМ	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	4	предик	_	_
+4	нет	НЕТ	ADV	ADV -	ADV -	0	ROOT	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	ни	НИ	CONJ	CONJ	CONJ	9	соотнос	_	_
+7	забора	ЗАБОР	S	S m inan gen sg	S m inan gen sg	4	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	ни	НИ	CONJ	CONJ	CONJ	7	сочин	_	_
+10	служб	СЛУЖБА	S	S f inan gen pl	S f inan gen pl	9	соч-союзн	_	_
+11	;	;	SENT	SENT	SENT	10	PUNC	_	_
+
+1	от	ОТ	PR	PR	PR	4	1-компл	_	_
+2	широких	ШИРОКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	3	опред	_	_
+3	ворот	ВОРОТА	S	S - inan gen pl	S - inan gen pl	1	предл	_	_
+4	остались	ОСТАВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	только	ТОЛЬКО	PART	PART	PART	6	огранич	_	_
+6	кирпичные	КИРПИЧНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	обломанные	ОБЛОМАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	6	2-компл	_	_
+9	столбы	СТОЛБ	S	S m inan nom pl	S m inan nom pl	4	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Дом	ДОМ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+2	как будто	как будто	CONJ	CONJ	ZERO	1	сравнит	_	_
+3	выброшен	ВЫБРАСЫВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+4	из	ИЗ	PR	PR	PR	3	2-компл	_	_
+5	города	ГОРОД	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	на	НА	PR	PR	PR	3	обст	_	_
+7	пустырь	ПУСТЫРЬ	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

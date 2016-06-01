@@ -1,0 +1,75 @@
+1	Положение	ПОЛОЖЕНИЕ	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+2	у	У	PR	PR	PR	4	обст	_	_
+3	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	2	предл	_	_
+4	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	довольно	ДОВОЛЬНО	ADV	ADV -	ADV -	6	огранич	_	_
+6	странное	СТРАННЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	4	присвяз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	В	В	PR	PR	PR	9	обст	_	_
+2	штабе	ШТАБ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	квазиагент	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	судя	СУДЯ	ADV	ADV -	ADV -	6	огранич	_	_
+6	по	ПО	PR	PR	PR	9	обст	_	_
+7	всему	ВСЕ	S	S n - dat sg	S n - dat sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	считали	СЧИТАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+10	Соболевской	СОБОЛЕВСКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	11	опред	_	_
+11	любовницей	ЛЮБОВНИЦА	S	S f anim ins sg	S f anim ins sg	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Поскольку	ПОСКОЛЬКУ	CONJ	CONJ	CONJ	14	обст	_	_
+2	отношение	ОТНОШЕНИЕ	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+3	к	К	PR	PR	PR	2	1-компл	_	_
+4	Белому	БЕЛЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	5	опред	_	_
+5	Генералу	ГЕНЕРАЛ	S	S m anim dat sg	S m anim dat sg	3	предл	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	подч-союзн	_	_
+7	восторженно	ВОСТОРЖЕННО	ADV	ADV -	ADV -	6	присвяз	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	всепрощающее	ВСЕПРОЩАЮЩИЙ	A	A - gen sg plen m -	A - gen sg plen m -	14	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	никто	НИКТО	S	S m - nom sg	S m - nom sg	14	обст	_	_
+12	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	14	1-компл	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	осуждал	ОСУЖДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Напротив	НАПРОТИВ	PR	PR	PR	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	частица	ЧАСТИЦА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+4	Соболевского	СОБОЛЕВСКИЙ	S	S m anim gen sg	S m anim gen sg	3	квазиагент	_	_
+5	сияния	СИЯНИЕ	S	S n inan gen sg	S n inan gen sg	4	1-компл	_	_
+6	как бы	как бы	ADV	ADV -	-	7	обст	_	_
+7	распространялась	РАСПРОСТРАНЯТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	предл	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	на	НА	PR	PR	PR	0	ROOT	_	_
+10	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Пожалуй	ПОЖАЛУЙ	PART	PART	PART	6	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	многие	МНОГИЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+4	офицеры	ОФИЦЕР	S	S m anim nom pl	S m anim nom pl	6	предик	_	_
+5	даже	ДАЖЕ	PART	PART	PART	6	огранич	_	_
+6	возмутились	ВОЗМУЩАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	бы	БЫ	PART	PART	PART	6	аналит	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	узнав	УЗНАВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	6	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	9	1-компл	_	_
+12	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	13	предик	_	_
+13	смеет	СМЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	подч-союзн	_	_
+14	отказывать	ОТКАЗЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	1-компл	_	_
+15	преславному	ПРЕСЛАВНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	16	опред	_	_
+16	Ахиллесу	АХИЛЛЕС	S	S f anim acc sg	S f anim acc sg	14	1-компл	_	_
+17	во	ВО	PR	PR	PR	16	атриб	_	_
+18	взаимности	ВЗАИМНОСТЬ	S	S f inan loc sg	S f inan loc sg	17	предл	_	_
+19	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+20	хранит	ХРАНИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	19	соч-союзн	_	_
+21	верность	ВЕРНОСТЬ	S	S f inan acc sg	S f inan acc sg	20	1-компл	_	_
+22	какому-то	КАКОЙ-ТО	A	A - dat sg plen m -	A - dat sg plen m -	24	опред	_	_
+23	жалкому	ЖАЛКИЙ	A	A - dat sg plen m -	A - dat sg plen m -	24	опред	_	_
+24	шифровальщику	ШИФРОВАЛЬЩИК	S	S m inan gen sg	S m inan gen sg	21	квазиагент	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

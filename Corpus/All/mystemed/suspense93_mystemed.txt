@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"вдовец","gr":"S,m,anim=nom,sg"}],"text":"вдовец"}
+{"analysis":[{"lex":"машинальный","gr":"A=sg,brev,n"}],"text":"машинально"}
+{"analysis":[{"lex":"шепнуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"шепнул"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}

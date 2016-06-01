@@ -1,0 +1,69 @@
+1	Тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	вышел	ВЫХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	из	ИЗ	PR	PR	PR	3	1-компл	_	_
+5	оцепенения	ОЦЕПЕНЕНИЕ	S	S n inan gen sg	S n inan gen sg	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+7	взялся	ВЗЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+8	за	ЗА	PR	PR	PR	7	1-компл	_	_
+9	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	10	квазиагент	_	_
+10	пульс	ПУЛЬС	S	S m inan acc sg	S m inan acc sg	8	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	холодной	ХОЛОДНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	3	опред	_	_
+3	руке	РУКА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+4	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	6	1-компл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Лишь	ЛИШЬ	PART	PART	PART	2	огранич	_	_
+2	после	ПОСЛЕ	PR	PR	PR	5	обст	_	_
+3	нескольких	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	4	количест	_	_
+4	секунд	СЕКУНДА	S	S f inan gen pl	S f inan gen pl	2	предл	_	_
+5	нашел	НАХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+7	чуть	ЧУТЬ	ADV	ADV -	ADV -	8	огранич	_	_
+8	заметную	ЗАМЕТНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	10	опред	_	_
+9	редкую	РЕДКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	10	опред	_	_
+10	волну	ВОЛНА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	прошла...	ПРОХОДИТЬ...	V	V pf praet sg indic f -	V pf praet sg indic f -	4	присвяз	_	_
+3	потом	ПОТОМ	ADV	ADV -	ADV -	4	обст	_	_
+4	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	пауза	ПАУЗА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	во время	во время	PR	PR	ZERO	10	обст	_	_
+8	которой	КОТОРЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	7	предл	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+10	успел	УСПЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сент-соч	_	_
+11	глянуть	ГЛЯНУТЬ	V	V pf - - inf - -	V pf - - inf - -	10	1-компл	_	_
+12	на	НА	PR	PR	PR	11	обст	_	_
+13	синеющие	СИНЕТЬ	PARTCP	PARTCP ipf inpraes nom pl plen - act -	PARTCP ipf inpraes nom pl plen - act -	12	предл	_	_
+14	крылья	КРЫЛО	S	S n inan acc pl	S n inan acc pl	11	1-компл	_	_
+15	носа	НОС	S	S m inan gen sg	S m inan gen sg	14	квазиагент	_	_
+16	и	И	CONJ	CONJ	CONJ	10	сент-соч	_	_
+17	белые	БЕЛЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	18	опред	_	_
+18	губы	ГУБА	S	S f inan nom pl	S f inan nom pl	16	соч-союзн	_	_
+19	...	...	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Хотел	ХОТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	уже	УЖЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	сказать	СКАЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+4	:	:	:	:	PUNC	3	1-компл	_	_
+5	конец...	КОНЕЦ...	S	S m inan gen sg	S m inan gen sg	4	квазиагент	_	_
+6	по	ПО	PR	PR	PR	9	обст	_	_
+7	счастью	СЧАСТИЕ	S	S n inan dat sg	S n inan dat sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	удержался	УДЕРЖИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	сочин	_	_
+10	...	...	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Опять	ОПЯТЬ	ADV	ADV -	ADV -	2	обст	_	_
+2	прошла	ПРОХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	ниточкой	НИТОЧКА	S	S f inan ins sg	S f inan ins sg	2	1-компл	_	_
+4	волна	ВОЛНА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

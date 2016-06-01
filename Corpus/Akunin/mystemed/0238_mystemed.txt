@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"как","gr":"ADVPRO="}],"text":"Как"}
+{"analysis":[{"lex":"угодно","gr":"PART="}],"text":"угодно"}
+{"analysis":[{"lex":"пожимать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"пожал"}
+{"analysis":[{"lex":"плечо","gr":"S,n,inan=ins,pl"}],"text":"плечами"}
+{"analysis":[{"lex":"генерал","gr":"S,m,anim=nom,sg"}],"text":"генерал"}
+{"analysis":[{"lex":"подниматься","gr":"V,intr=inpraes,ger,ipf"}],"text":"поднимаясь"}
+{"text":"\\s"}
+{"analysis":[{"lex":"новгородец","gr":"S,m,anim=acc,pl"},{"lex":"новгородец","gr":"S,m,anim=gen,pl"}],"text":"Новгородцев"}
+{"analysis":[{"lex":"конвой","gr":"S,m,inan=acc,sg"},{"lex":"конвой","gr":"S,m,inan=nom,sg"}],"text":"конвой"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"согласный","gr":"A=sg,brev,f"}],"text":"согласна"}
+{"analysis":[{"lex":"крикнуть","gr":"V,pf,intr=praet,sg,indic,f"}],"text":"крикнула"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}

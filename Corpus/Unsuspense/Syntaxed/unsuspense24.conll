@@ -1,0 +1,127 @@
+1	Особая	ОСОБЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	нежность	НЕЖНОСТЬ	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+3	в	В	PR	PR	PR	2	атриб	_	_
+4	отношениях	ОТНОШЕНИЕ	S	S n inan loc pl	S n inan loc pl	3	предл	_	_
+5	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+6	между	МЕЖДУ	PR	PR	PR	5	обст	_	_
+7	Колюшей	КОЛЮША	S	S m anim ins sg	S m anim ins sg	6	предл	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	Наташей	НАТАША	S	S f anim ins sg	S f anim ins sg	8	соч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	11	обст	_	_
+2	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	пришел	ПРИХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	первый	ПЕРВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	6	опред	_	_
+6	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+7	из	ИЗ	PR	PR	PR	3	1-компл	_	_
+8	школы	ШКОЛА	S	S f inan gen sg	S f inan gen sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	мама	МАМА	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+11	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+12	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	11	1-компл	_	_
+13	:	:	:	:	PUNC	11	2-компл	_	_
+14	«	«	_	_	PUNC	13	PUNC	_	_
+15	Ну	НУ	PART	PART	PART	13	огранич	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	что	ЧТО	CONJ	CONJ	CONJ	13	1-компл	_	_
+18	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	19	предик	_	_
+19	делал	ДЕЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	17	подч-союзн	_	_
+20	в	В	PR	PR	PR	19	обст	_	_
+21	школе	ШКОЛА	S	S f inan loc sg	S f inan loc sg	20	предл	_	_
+22	?	?	?	?	PUNC	19	1-компл	_	_
+23	»	»	SENT	SENT	SENT	22	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	«	«	_	_	PUNC	1	PUNC	_	_
+3	Бегал	БЕГАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	по	ПО	PR	PR	PR	3	обст	_	_
+5	коридорам	КОРИДОР	S	S m inan dat pl	S m inan dat pl	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+7	смотрел	СМОТРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	соч-союзн	_	_
+8	на	НА	PR	PR	PR	7	1-компл	_	_
+9	девочек	ДЕВОЧКА	S	S f anim gen pl	S f anim gen pl	8	предл	_	_
+10	»	»	_	_	PUNC	9	PUNC	_	_
+11	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	«	«	_	_	PUNC	1	PUNC	_	_
+3	Ну	НУ	PART	PART	PART	8	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	S	S n inan acc sg	S n inan acc sg	8	1-компл	_	_
+6	же	ЖЕ	PART	PART	PART	5	огранич	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	понравились	ПОНРАВИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	сент-соч	_	_
+9	ли	ЛИ	PART	PART	PART	8	огранич	_	_
+10	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	8	предик	_	_
+11	тебе	ТЫ	SPRO	SPRO sg 2p - loc	SPRO sg 2p - loc	8	1-компл	_	_
+12	?	?	?	?	PUNC	8	сочин	_	_
+13	»	»	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	«	«	_	_	PUNC	1	PUNC	_	_
+3	Нет	НЕТ	PART	PART	PART	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	мамочка	МАМОЧКА	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	9	предик	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	нашел	НАХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	релят	_	_
+10	там	ТАМ	ADV	ADV -	ADV -	9	2-компл	_	_
+11	лучше	ХОРОШО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+12	нашей	НАШ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+13	Наташи	НАТАША	S	S f anim gen sg	S f anim gen sg	11	сравнит	_	_
+14	»	»	_	_	PUNC	13	PUNC	_	_
+15	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	В	В	PR	PR	PR	4	обст	_	_
+2	школе	ШКОЛА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	тогда	ТОГДА	ADV	ADV -	ADV -	4	обст	_	_
+4	поили	ПОИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	детей	РЕБЕНОК	S	S m anim acc pl	S m anim acc pl	4	1-компл	_	_
+6	чаем	ЧАЙ	S	S m inan ins sg	S m inan ins sg	4	2-компл	_	_
+7	с	С	PR	PR	PR	6	атриб	_	_
+8	конфетами	КОНФЕТА	S	S f inan ins pl	S f inan ins pl	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Последние	ПОСЛЕДНИЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	приносил	ПРИНОСИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	домой	ДОМОЙ	ADV	ADV -	ADV -	3	2-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	оделял	ОДЕЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	соч-союзн	_	_
+7	ими	ОНИ	SPRO	SPRO pl - - ins	SPRO pl - - ins	6	обст	_	_
+8	Наташу	НАТАША	S	S f anim acc sg	S f anim acc sg	6	1-компл	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	Сережу	СЕРЕЖА	S	S m anim acc sg	S m anim acc sg	9	соч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	На	НА	PR	PR	PR	9	обст	_	_
+2	вопрос	ВОПРОС	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+3	мамы	МАМА	S	S f anim gen sg	S f anim gen sg	2	1-компл	_	_
+4	:	:	:	:	PUNC	3	аппоз	_	_
+5	«	«	_	_	PUNC	4	PUNC	_	_
+6	Почему	ПОЧЕМУ	ADV	ADV -	ADV -	9	обст	_	_
+7	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	9	предик	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	ешь	ЕСТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	0	ROOT	_	_
+10	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	9	1-компл	_	_
+11	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	9	суб-копр	_	_
+12	?	?	?	?	PUNC	9	сочин	_	_
+13	»	»	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Восьмилетний	ВОСЬМИЛЕТНИЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	:	:	:	:	PUNC	4	1-компл	_	_
+6	«	«	_	_	PUNC	5	PUNC	_	_
+7	Надо	НАДО	ADV	ADV -	ADV -	11	обст	_	_
+8	же	ЖЕ	PART	PART	PART	7	огранич	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	малышей	МАЛЫШ	S	S m anim gen pl	S m anim gen pl	9	соч-союзн	_	_
+11	побаловать	ПОБАЛОВАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	2-компл	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

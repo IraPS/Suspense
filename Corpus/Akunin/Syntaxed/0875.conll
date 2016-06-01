@@ -1,0 +1,56 @@
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	на	НА	PR	PR	PR	7	обст	_	_
+3	сей	СЕЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+5	противный	ПРОТИВНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+7	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	подч-союзн	_	_
+8	абсолютно	АБСОЛЮТНО	ADV	ADV -	ADV -	9	огранич	_	_
+9	прав	ПРАВЫЙ	A	A - - sg brev m -	A - - sg brev m -	7	присвяз	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Прекрасная	ПРЕКРАСНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	идея	ИДЕЯ	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+4	»	»	_	_	PUNC	3	PUNC	_	_
+5	Шарля	ШАРЛЬ	S	S m anim gen sg	S m anim gen sg	3	атриб	_	_
+6	показалась	ПОКАЗЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+7	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	6	1-компл	_	_
+8	сущей	СУЩИЙ	A	A - ins sg plen f -	A - ins sg plen f -	9	опред	_	_
+9	дикостью	ДИКОСТЬ	S	S f inan ins sg	S f inan ins sg	6	2-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Впрочем	ВПРОЧЕМ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	у	У	PR	PR	PR	7	обст	_	_
+4	пирующих	ПИРОВАТЬ	PARTCP	PARTCP ipf inpraes loc pl plen - act -	PARTCP ipf inpraes loc pl plen - act -	3	предл	_	_
+5	вздорный	ВЗДОРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	прожект	ПРОЖЕКТ	S	S m inan nom sg	S m inan nom sg	7	предик	_	_
+7	получил	ПОЛУЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+8	полную	ПОЛНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	поддержку	ПОДДЕРЖКА	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+10	:	:	:	:	PUNC	15	обст	_	_
+11	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	13	количест	_	_
+12	казачий	КАЗАЧИЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+14	даже	ДАЖЕ	PART	PART	PART	15	огранич	_	_
+15	хлопнул	ХЛОПНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	сочин	_	_
+16	француза	ФРАНЦУЗ	S	S m anim acc sg	S m anim acc sg	15	1-компл	_	_
+17	по	ПО	PR	PR	PR	15	обст	_	_
+18	спине	СПИНА	S	S f inan loc sg	S f inan loc sg	17	предл	_	_
+19	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+20	назвал	НАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	19	соч-союзн	_	_
+21	«	«	_	_	PUNC	22	PUNC	_	_
+22	отчаянной	ОТЧАЯННЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	23	опред	_	_
+23	башкой	БАШКА	S	S f inan ins sg	S f inan ins sg	20	2-компл	_	_
+24	»	»	_	_	PUNC	23	PUNC	_	_
+25	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	улыбался	УЛЫБАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	пока	ПОКА	CONJ	CONJ	CONJ	0	ROOT	_	_
+6	молчал	МОЛЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	подч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

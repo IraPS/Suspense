@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"прощай","gr":"INTJ="}],"text":"Прощай"}
+{"analysis":[{"lex":"прощай","gr":"INTJ="}],"text":"прощай"}
+{"analysis":[{"lex":"надолго","gr":"ADV="}],"text":"надолго"}
+{"analysis":[{"lex":"золото","gr":"S,sg,n,inan=acc"},{"lex":"золото","gr":"S,sg,n,inan=nom"}],"text":"золото"}
+{"analysis":[{"lex":"красный","gr":"A=acc,sg,plen,m,inan"},{"lex":"красный","gr":"A=nom,sg,plen,m"}],"text":"красный"}
+{"analysis":[{"lex":"большой","gr":"A=acc,sg,plen,m,inan"},{"lex":"большой","gr":"A=nom,sg,plen,m"},{"lex":"большой","gr":"A=abl,sg,plen,f"},{"lex":"большой","gr":"A=dat,sg,plen,f"},{"lex":"большой","gr":"A=gen,sg,plen,f"},{"lex":"большой","gr":"A=ins,sg,plen,f"}],"text":"Большой"}
+{"analysis":[{"lex":"театр","gr":"S,m,inan=acc,sg"},{"lex":"театр","gr":"S,m,inan=nom,sg"}],"text":"театр"}
+{"analysis":[{"lex":"москва","gr":"S,geo,f,inan=nom,sg"}],"text":"Москва"}
+{"analysis":[{"lex":"витрина","gr":"S,f,inan=acc,pl"},{"lex":"витрина","gr":"S,f,inan=gen,sg"},{"lex":"витрина","gr":"S,f,inan=nom,pl"}],"text":"витрины"}
+{"analysis":[{"lex":"ах","gr":"INTJ="}],"text":"ах"}
+{"analysis":[{"lex":"прощай","gr":"INTJ="}],"text":"прощай"}

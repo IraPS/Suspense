@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Фандорин"}
+{"analysis":[{"lex":"встрепенуться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"встрепенулся"}
+{"analysis":[{"lex":"пытливый","gr":"A=sg,brev,n"}],"text":"пытливо"}
+{"analysis":[{"lex":"заглядывать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"заглянул"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=acc,pl"},{"lex":"глаз","gr":"S,m,inan=gen,sg"},{"lex":"глаз","gr":"S,m,inan=nom,pl"}],"text":"глаза"}

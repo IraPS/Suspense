@@ -1,0 +1,21 @@
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	испугался	ИСПУГАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+4	еще	ЕЩЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	больше	МНОГО	ADV	ADV comp	ADV comp	3	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Вздрогнув	ВЗДРАГИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	4	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	обернулся	ОБЕРТЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	ошеломленно	ОШЕЛОМЛЕННО	ADV	ADV -	ADV -	7	обст	_	_
+7	уставился	УСТАВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+8	на	НА	PR	PR	PR	7	1-компл	_	_
+9	невольную	НЕВОЛЬНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	10	опред	_	_
+10	свидетельницу	СВИДЕТЕЛЬНИЦА	S	S f anim acc sg	S f anim acc sg	8	предл	_	_
+11	конфиденциальной	КОНФИДЕНЦИАЛЬНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	12	опред	_	_
+12	беседы	БЕСЕДА	S	S f inan gen sg	S f inan gen sg	10	квазиагент	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

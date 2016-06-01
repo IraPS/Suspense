@@ -1,0 +1,130 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Все	ВСЕ	S	S - - nom pl	S - - nom pl	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	2	вводн	_	_
+5	Барбара	БАРБАРА	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+2	заточение	ЗАТОЧЕНИЕ	S	S n inan acc sg	S n inan acc sg	3	предик	_	_
+3	окончено	ОКАНЧИВАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Выходите	ВЫХОДИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	2	соч-союзн	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	прошептала	ПРОШЕПТАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	неакт-компл	_	_
+2	Ферзь	ФЕРЗЬ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	пожертвован	ПОЖЕРТВОВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+4	без	БЕЗ	PR	PR	PR	3	обст	_	_
+5	особой	ОСОБЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+6	выгоды	ВЫГОДА	S	S f inan gen sg	S f inan gen sg	4	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Жаль	ЖАЛЬ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	В	В	PR	PR	PR	4	обст	_	_
+2	остальном	ОСТАЛЬНОЕ	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+3	все	ВСЕ	S	S - - nom pl	S - - nom pl	4	предик	_	_
+4	остается	ОСТАВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	в	В	PR	PR	PR	4	присвяз	_	_
+6	силе	СИЛА	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Ступайте	СТУПАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	желаю	ЖЕЛАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	2	соч-союзн	_	_
+4	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	3	2-компл	_	_
+5	счастья	СЧАСТИЕ	S	S n inan gen sg	S n inan gen sg	3	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Нет	НЕТ	PART	PART	PART	1	огранич	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	увернулась	УВЕРТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+4	от	ОТ	PR	PR	PR	2	разъяснит	_	_
+5	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	квазиагент	_	_
+6	руки	РУКА	S	S f inan acc pl	S f inan acc pl	4	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+3	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	6	1-компл	_	_
+4	тут	ТУТ	ADV	ADV -	ADV -	6	обст	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	оставлю	ОСТАВЛЯТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Сдайтесь	СДАВАТЬСЯ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	буду	БЫТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+5	свидетельствовать	СВИДЕТЕЛЬСТВОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	аналит	_	_
+6	на	НА	PR	PR	PR	5	обст	_	_
+7	суде	СУД	S	S m inan loc sg	S m inan loc sg	6	предл	_	_
+8	в	В	PR	PR	PR	4	присвяз	_	_
+9	вашу	ВАШ	A	A - acc sg plen f -	A - acc sg plen f -	10	опред	_	_
+10	пользу	ПОЛЬЗА	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	1	обст	_	_
+3	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	4	предик	_	_
+4	зашили	ЗАШИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	подч-союзн	_	_
+5	горло	ГОРЛО	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	1	сочин	_	_
+8	потом	ПОТОМ	ADV	ADV -	ADV -	10	обст	_	_
+9	все-таки	ВСЕ-ТАКИ	PART	PART	PART	10	огранич	_	_
+10	повесили	ПОВЕСИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	7	соч-союзн	_	_
+11	?	?	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	усмехнулся	УСМЕХАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Нет	НЕТ	PART	PART	PART	3	огранич	_	_
+3	уж	УЖ	PART	PART	PART	5	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	благодарю	БЛАГОДАРИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+6	покорно	ПОКОРНО	ADV	ADV -	ADV -	5	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Больше	МНОГО	ADV	ADV comp	ADV comp	6	обст	_	_
+2	всего	ВСЕ	S	S n - gen sg	S n - gen sg	1	сравнит	_	_
+3	на	НА	PR	PR	PR	2	атриб	_	_
+4	свете	СВЕТ	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	терплю	ТЕРПЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+7	две	ДВА	NUM	NUM nom f -	NUM nom f -	8	количест	_	_
+8	вещи	ВЕЩЬ	S	S f inan acc pl	S f inan acc pl	6	1-компл	_	_
+9	–	–	–	–	PUNC	10	опред	_	_
+10	унижение	УНИЖЕНИЕ	S	S n inan nom sg	S n inan nom sg	6	сочин	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	капитуляцию	КАПИТУЛЯЦИЯ	S	S f inan acc sg	S f inan acc sg	11	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Прощайте	ПРОЩАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	5	1-компл	_	_
+4	надо	НАДО	ADV	ADV -	ADV -	1	релят	_	_
+5	побыть	ПОБЫТЬ	V	V pf - - inf - -	V pf - - inf - -	4	предик	_	_
+6	одному	ОДИН	A	A - dat sg plen m -	A - dat sg plen m -	5	суб-копр	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

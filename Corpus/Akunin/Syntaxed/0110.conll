@@ -1,0 +1,11 @@
+1	Круглые	КРУГЛЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+2	светлые	СВЕТЛЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	6	предик	_	_
+4	поверх	ПОВЕРХ	PR	PR	PR	3	атриб	_	_
+5	очков	ОЧКИ	S	S - inan gen pl	S - inan gen pl	4	предл	_	_
+6	участливо	УЧАСТЛИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+7	воззрились	ВОЗЗРИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	1-компл	_	_
+8	на	НА	PR	PR	PR	7	обст	_	_
+9	спасении	СПАСЕНИЕ	S	S n inan loc sg	S n inan loc sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

@@ -1,0 +1,27 @@
+1	Шурша	ШУРШАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	обст	_	_
+2	по	ПО	PR	PR	PR	1	обст	_	_
+3	сухой	СУХОЙ	A	A - loc sg plen f -	A - loc sg plen f -	4	опред	_	_
+4	листве	ЛИСТВА	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+7	слепой	СЛЕПОЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	сравн-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	доберешься	ДОБИРАТЬСЯ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+10	до	ДО	PR	PR	PR	9	2-компл	_	_
+11	шалаша	ШАЛАШ	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Там	ТАМ	ADV	ADV -	ADV -	5	обст	_	_
+2	на	НА	PR	PR	PR	5	обст	_	_
+3	полянке	ПОЛЯНКА	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+4	немного	НЕМНОГО	ADV	ADV -	ADV -	5	колич-огран	_	_
+5	светлее	СВЕТЛО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	5	сент-соч	_	_
+8	над	НАД	PR	PR	PR	10	обст	_	_
+9	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	8	предл	_	_
+10	белеет	БЕЛЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	соч-союзн	_	_
+11	Млечный	МЛЕЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	опред	_	_
+12	Путь	ПУТЬ	S	S m inan nom sg	S m inan nom sg	10	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

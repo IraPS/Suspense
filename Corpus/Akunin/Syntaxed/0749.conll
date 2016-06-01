@@ -1,0 +1,91 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Что	ЧТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+2	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	1	опред	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	истошно	ИСТОШНО	ADV	ADV -	ADV -	3	обст	_	_
+3	закричала	ЗАКРИЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	бросаясь	БРОСАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	3	обст	_	_
+7	за	ЗА	PR	PR	PR	6	1-компл	_	_
+8	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Провокация	ПРОВОКАЦИЯ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	0	ROOT	_	_
+5	–	–	–	–	PUNC	11	1-компл	_	_
+6	сквозь	СКВОЗЬ	PR	PR	PR	5	обст	_	_
+7	зубы	ЗУБ	S	S m inan acc pl	S m inan acc pl	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	на	НА	PR	PR	PR	5	обст	_	_
+10	ходу	ХОД	S	S m inan loc2 sg	S m inan loc2 sg	9	предл	_	_
+11	бросал	БРОСАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	1-компл	_	_
+12	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	обст	_	_
+2	У	У	PR	PR	PR	1	атриб	_	_
+3	Ганецкого	ГАНЕЦКИЙ	S	S m anim ins sg	S m anim ins sg	2	предл	_	_
+4	оборона	ОБОРОНА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+5	тоньше	ТОНКИЙ	A	A comp - - plen - -	A comp - - plen - -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	за	ЗА	PR	PR	PR	5	3-компл	_	_
+3	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	2	предл	_	_
+4	Софийское	СОФИЙСКИЙ	A	A - acc sg plen n -	A - acc sg plen n -	5	опред	_	_
+5	шоссе	ШОССЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	1	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	капитуляция	КАПИТУЛЯЦИЯ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	прорыв	ПРОРЫВ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Ганецкому	ГАНЕЦКИЙ	S	S m anim dat sg	S m anim dat sg	0	ROOT	_	_
+2	зубы	ЗУБ	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+3	заговорить	ЗАГОВАРИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Чтоб	ЧТОБ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	стрелял	СТРЕЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Ой	ОЙ	INTJ	INTJ	INTJ	0	ROOT	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	поняла	ПОНИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	это	ЭТО	S	S n - nom sg	S n - nom sg	4	предик	_	_
+4	будут	БЫТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	2	соч-союзн	_	_
+5	никакие	НИКАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	7	опред	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	парламентеры	ПАРЛАМЕНТЕР	S	S m anim nom pl	S m anim nom pl	4	присвяз	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	2	предик	_	_
+2	куда	КУДА	ADV	ADV -	ADV -	0	ROOT	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	В	В	PR	PR	PR	0	ROOT	_	_
+2	штаб	ШТАБ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+

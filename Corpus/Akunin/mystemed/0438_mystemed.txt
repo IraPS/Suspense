@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"это","gr":"PART="}],"text":"Это"}
+{"analysis":[{"lex":"чудо","gr":"S,n,inan=acc,sg"},{"lex":"чудо","gr":"S,n,inan=nom,sg"}],"text":"чудо"}
+{"analysis":[{"lex":"знак","gr":"S,m,inan=acc,sg"},{"lex":"знак","gr":"S,m,inan=nom,sg"}],"text":"знак"}
+{"analysis":[{"lex":"свыше","gr":"ADV="}],"text":"свыше"}
+{"analysis":[{"lex":"восклицать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"воскликнул"}
+{"analysis":[{"lex":"граф","gr":"S,m,anim=nom,sg"}],"text":"граф"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"тронуть","gr":"V,pf,tran=praet,ger"}],"text":"тронув"}
+{"analysis":[{"lex":"ус","gr":"S,m,inan=acc,pl"},{"lex":"ус","gr":"S,m,inan=nom,pl"}],"text":"усы"}
+{"analysis":[{"lex":"наклоняться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"наклонился"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"хохотать","gr":"V,ipf,intr=inpraes,abl,sg,partcp,plen,f,act"},{"lex":"хохотать","gr":"V,ipf,intr=inpraes,dat,sg,partcp,plen,f,act"},{"lex":"хохотать","gr":"V,ipf,intr=inpraes,gen,sg,partcp,plen,f,act"},{"lex":"хохотать","gr":"V,ipf,intr=inpraes,ins,sg,partcp,plen,f,act"}],"text":"хохочущей"}
+{"analysis":[{"lex":"вар","gr":"S,m,inan=abl,sg"}],"text":"Варе"}

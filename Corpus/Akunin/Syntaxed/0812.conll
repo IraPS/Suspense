@@ -1,0 +1,245 @@
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Уберег	УБЕРЕГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Господь	ГОСПОДЬ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	Россию	РОССИЯ	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	После	ПОСЛЕ	PR	PR	PR	1	атриб	_	_
+3	третьего	ТРЕТИЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	штурма	ШТУРМ	S	S m inan gen sg	S m inan gen sg	2	предл	_	_
+5	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	0	ROOT	_	_
+6	–	–	–	–	PUNC	0	ROOT	_	_
+7	а	А	CONJ	CONJ	CONJ	6	сочин	_	_
+8	точнее	ТОЧНО	ADV	ADV comp	ADV comp	10	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	ибо	ИБО	CONJ	CONJ	CONJ	6	обст	_	_
+13	выводы	ВЫВОД	S	S m inan nom pl	S m inan nom pl	14	предик	_	_
+14	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	12	подч-союзн	_	_
+15	мои	МОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	16	опред	_	_
+16	–	–	–	–	PUNC	17	предик	_	_
+17	совершили	СОВЕРШАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	14	присвяз	_	_
+18	серьезную	СЕРЬЕЗНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	19	опред	_	_
+19	ошибку	ОШИБКА	S	S f inan acc sg	S f inan acc sg	17	1-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Сочли	СЧЕСТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+2	за	ЗА	PR	PR	PR	1	2-компл	_	_
+3	главного	ГЛАВНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+4	турецкого	ТУРЕЦКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	агента	АГЕНТ	S	S m anim gen sg	S m anim gen sg	2	предл	_	_
+6	жандармского	ЖАНДАРМСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	5	аппоз	_	_
+8	Казанзаки	КАЗАНЗАК	S	S m anim nom pl	S m anim nom pl	1	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	тем	ТО	S	S n - ins sg	S n - ins sg	13	атриб	_	_
+12	самым	САМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	13	опред	_	_
+13	предоставили	ПРЕДОСТАВЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	10	соч-союзн	_	_
+14	истинному	ИСТИННЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	15	опред	_	_
+15	виновнику	ВИНОВНИК	S	S m anim dat sg	S m anim dat sg	13	2-компл	_	_
+16	полную	ПОЛНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	17	опред	_	_
+17	свободу	СВОБОДА	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+18	действий	ДЕЙСТВИЕ	S	S n inan gen pl	S n inan gen pl	17	квазиагент	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Ныне	НЫНЕ	ADV	ADV -	ADV -	3	обст	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	вызывает	ВЫЗЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	сомнений	СОМНЕНИЕ	S	S n inan gen pl	S n inan gen pl	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	3	2-компл	_	_
+7	нам	МЫ	SPRO	SPRO pl 1p - dat	SPRO pl 1p - dat	11	1-компл	_	_
+8	с	С	PR	PR	PR	11	обст	_	_
+9	самого	САМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+10	начала	НАЧАЛО	S	S n inan gen sg	S n inan gen sg	8	предл	_	_
+11	вредил	ВРЕДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	подч-союзн	_	_
+12	британский	БРИТАНСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	подданный	ПОДДАННЫЙ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+14	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	13	аппоз	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	3	предик	_	_
+2	несомненно	НЕСОМНЕННО	ADV	ADV -	ADV -	3	огранич	_	_
+3	агент	АГЕНТ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+4	высшего	ВЫСОКИЙ	A	A supr gen sg plen m -	A supr gen sg plen m -	5	опред	_	_
+5	класса	КЛАСС	S	S m inan gen sg	S m inan gen sg	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	незаурядный	НЕЗАУРЯДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	актер	АКТЕР	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	готовившийся	ГОТОВИТЬСЯ	PARTCP	PARTCP ipf praet acc sg plen m act inan	PARTCP ipf praet acc sg plen m act inan	3	опред	_	_
+11	к	К	PR	PR	PR	10	2-компл	_	_
+12	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+13	миссии	МИССИЯ	S	S f inan gen sg	S f inan gen sg	11	предл	_	_
+14	долго	ДОЛГО	ADV	ADV -	ADV -	10	обст	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	обстоятельно	ОБСТОЯТЕЛЬНО	ADV	ADV -	ADV -	15	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	PUNC	_	_
+2	Как	КАК	CONJ	CONJ	CONJ	6	вводн	_	_
+3	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	субъект	СУБЪЕКТ	S	S m anim nom sg	S m anim nom sg	2	сравн-союзн	_	_
+5	вообще	ВООБЩЕ	ADV	ADV -	ADV -	6	обст	_	_
+6	попал	ПОПАДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	действующую	ДЕЙСТВУЮЩИЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	армию	АРМИЯ	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+10	?	?	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	недовольно	НЕДОВОЛЬНО	ADV	ADV -	ADV -	3	обст	_	_
+3	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	государь	ГОСУДАРЬ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	У	У	PR	PR	PR	1	обст	_	_
+3	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	2	предл	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	давали	ДАВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	4	подч-союзн	_	_
+7	корреспондентам	КОРРЕСПОНДЕНТ	S	S m anim dat pl	S m anim dat pl	6	2-компл	_	_
+8	визу	ВИЗА	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+9	безо	БЕЗО	PR	PR	PR	6	обст	_	_
+10	всякой	ВСЯКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	11	опред	_	_
+11	проверки	ПРОВЕРКА	S	S f inan gen sg	S f inan gen sg	9	предл	_	_
+12	?	?	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	предик	_	_
+2	Разумеется	РАЗУМЕЕТСЯ	ADV	ADV -	ADV -	5	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	проверка	ПРОВЕРКА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+5	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	претщательная	ПРЕТЩАТЕЛЬНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	12	суб-копр	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	 	 	 	 	PUNC	8	кратн	_	_
+11	–	–	–	–	PUNC	12	1-компл	_	_
+12	развел	РАЗВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+13	руками	РУКА	S	S f inan ins pl	S f inan ins pl	12	2-компл	_	_
+14	шеф	ШЕФ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+15	жандармов	ЖАНДАРМ	S	S m anim gen pl	S m anim gen pl	14	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	предик	_	_
+2	На	НА	PR	PR	PR	1	1-компл	_	_
+3	каждого	КАЖДЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	2	предл	_	_
+4	из	ИЗ	PR	PR	PR	3	электив	_	_
+5	иностранных	ИНОСТРАННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	журналистов	ЖУРНАЛИСТ	S	S m anim gen pl	S m anim gen pl	4	предл	_	_
+7	запрашивали	ЗАПРАШИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+8	в	В	PR	PR	PR	7	обст	_	_
+9	редакциях	РЕДАКЦИЯ	S	S f inan loc pl	S f inan loc pl	8	предл	_	_
+10	список	СПИСОК	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+11	публикаций	ПУБЛИКАЦИЯ	S	S f inan gen pl	S f inan gen pl	10	квазиагент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	согласовывали	СОГЛАСОВЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	7	сочин	_	_
+14	с	С	PR	PR	PR	13	1-компл	_	_
+15	нашими	НАШ	A	A - ins pl plen - -	A - ins pl plen - -	16	опред	_	_
+16	посольствами	ПОСОЛЬСТВО	S	S n inan ins pl	S n inan ins pl	14	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Каждый	КАЖДЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	предик	_	_
+2	из	ИЗ	PR	PR	PR	1	электив	_	_
+3	корреспондентов	КОРРЕСПОНДЕНТ	S	S m anim gen pl	S m anim gen pl	2	предл	_	_
+4	–	–	–	–	PUNC	5	опред	_	_
+5	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+6	известный	ИЗВЕСТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	с	С	PR	PR	PR	6	сочин	_	_
+9	именем	ИМЯ	S	S n inan ins sg	S n inan ins sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	в	В	PR	PR	PR	16	обст	_	_
+12	враждебности	ВРАЖДЕБНОСТЬ	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	к	К	PR	PR	PR	16	обст	_	_
+14	России	РОССИЯ	S	S f inan loc sg	S f inan loc sg	13	предл	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	замечен	ЗАМЕЧАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	5	сент-соч	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	уж	УЖ	PART	PART	PART	3	огранич	_	_
+3	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	особенно	ОСОБЕННО	ADV	ADV -	ADV -	1	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	говорю	ГОВОРИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	очень	ОЧЕНЬ	ADV	ADV -	ADV -	6	огранич	_	_
+6	обстоятельный	ОБСТОЯТЕЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	3	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	сумел	СУМЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	завязать	ЗАВЯЗЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	дружеские	ДРУЖЕСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	5	опред	_	_
+5	отношения	ОТНОШЕНИЕ	S	S n inan acc pl	S n inan acc pl	3	1-компл	_	_
+6	со	СО	PR	PR	PR	5	1-компл	_	_
+7	многими	МНОГИЙ	A	A - ins pl plen - -	A - ins pl plen - -	9	опред	_	_
+8	русскими	РУССКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	9	опред	_	_
+9	генералами	ГЕНЕРАЛ	S	S m anim ins pl	S m anim ins pl	6	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	офицерами	ОФИЦЕР	S	S m anim ins pl	S m anim ins pl	10	соч-союзн	_	_
+12	еще	ЕЩЕ	ADV	ADV -	ADV -	13	огранич	_	_
+13	во время	во время	PR	PR	ZERO	3	обст	_	_
+14	среднеазиатской	СРЕДНЕАЗИАТСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	опред	_	_
+15	кампании	КАМПАНИЯ	S	S f inan nom pl	S f inan nom pl	13	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	прошлогодние	ПРОШЛОГОДНИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	3	опред	_	_
+3	репортажи	РЕПОРТАЖ	S	S m inan acc pl	S m inan acc pl	9	1-компл	_	_
+4	о	О	PR	PR	PR	3	1-компл	_	_
+5	турецких	ТУРЕЦКИЙ	A	A - loc pl plen - -	A - loc pl plen - -	6	опред	_	_
+6	зверствах	ЗВЕРСТВО	S	S n inan loc pl	S n inan loc pl	4	предл	_	_
+7	в	В	PR	PR	PR	6	атриб	_	_
+8	Болгарии	БОЛГАРИЯ	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+9	составили	СОСТАВЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	соч-союзн	_	_
+10	Маклафлину	МАКЛАФЛИН	S	S m anim dat sg	S m anim dat sg	9	2-компл	_	_
+11	репутацию	РЕПУТАЦИЯ	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+12	друга	ДРУГ	S	S m anim gen sg	S m anim gen sg	11	квазиагент	_	_
+13	славян	СЛАВЯНИН	S	S m anim gen pl	S m anim gen pl	12	1-компл	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+15	искреннего	ИСКРЕННИЙ	A	A - gen sg plen m -	A - gen sg plen m -	16	опред	_	_
+16	приверженца	ПРИВЕРЖЕНЕЦ	S	S m anim acc sg	S m anim acc sg	14	соч-союзн	_	_
+17	России	РОССИЯ	S	S f inan gen sg	S f inan gen sg	16	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Между	МЕЖДУ	PR	PR	PR	9	обст	_	_
+2	тем	ТО	S	S n - ins sg	S n - ins sg	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+5	это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	6	опред	_	_
+6	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	9	длительн	_	_
+7	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	9	предик	_	_
+8	наверняка	НАВЕРНЯКА	ADV	ADV -	ADV -	9	обст	_	_
+9	действовал	ДЕЙСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+10	по	ПО	PR	PR	PR	9	обст	_	_
+11	тайной	ТАЙНЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	12	опред	_	_
+12	инструкции	ИНСТРУКЦИЯ	S	S f inan dat sg	S f inan dat sg	10	предл	_	_
+13	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	14	опред	_	_
+14	правительства	ПРАВИТЕЛЬСТВО	S	S n inan gen sg	S n inan gen sg	12	квазиагент	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	которое	КОТОРЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	21	предик	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	как	КАК	ADV	ADV -	ADV -	19	огранич	_	_
+19	известно	ИЗВЕСТНО	ADV	ADV -	ADV -	21	вводн	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	относится	ОТНОСИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	9	сент-соч	_	_
+22	к	К	PR	PR	PR	21	1-компл	_	_
+23	нашей	НАШ	A	A - loc sg plen f -	A - loc sg plen f -	25	опред	_	_
+24	восточной	ВОСТОЧНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	25	опред	_	_
+25	политике	ПОЛИТИКА	S	S f inan dat sg	S f inan dat sg	22	предл	_	_
+26	с	С	PR	PR	PR	21	2-компл	_	_
+27	неприкрытой	НЕПРИКРЫТЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	28	опред	_	_
+28	враждебностью	ВРАЖДЕБНОСТЬ	S	S f inan ins sg	S f inan ins sg	26	предл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

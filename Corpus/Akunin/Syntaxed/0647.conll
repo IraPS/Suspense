@@ -1,0 +1,12 @@
+1	Волнуясь	ВОЛНОВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	4	предик	_	_
+4	пересказала	ПЕРЕСКАЗЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	то	ТО	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	эксплет	_	_
+8	услышала	УСЛЫШАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	подч-союзн	_	_
+9	от	ОТ	PR	PR	PR	8	1-компл	_	_
+10	Маклафлина	МАКЛАФЛИН	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

@@ -1,0 +1,48 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Варенька	ВАРЕНЬКА	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+3	решила	РЕШАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	подч-союзн	_	_
+7	жить	ЖИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	аналит	_	_
+8	иначе	ИНАЧЕ	CONJ	CONJ	CONJ	3	сент-соч	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	2	огранич	_	_
+2	в	В	PR	PR	PR	6	обст	_	_
+3	Американских	АМЕРИКАНСКИЙ	A	A - loc pl plen - -	A - loc pl plen - -	4	опред	_	_
+4	Штатах	ШТАТ	S	S m inan loc pl	S m inan loc pl	2	предл	_	_
+5	уже	УЖЕ	ADV	ADV -	ADV -	6	огранич	_	_
+6	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+8	первая	ПЕРВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+9	женщина	ЖЕНЩИНА	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+10	-	-	-	-	PUNC	9	PUNC	_	_
+11	врач	ВРАЧ	S	S m anim nom sg	S m anim nom sg	7	соч-союзн	_	_
+12	Мери	МЕРИ	S	S f anim nonflex nonflex	S f anim nonflex nonflex	11	аппоз	_	_
+13	Джейкоби	ДЖЕЙКОБИ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	12	аппоз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+16	первая	ПЕРВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	17	опред	_	_
+17	женщина	ЖЕНЩИНА	S	S f anim nom sg	S f anim nom sg	15	соч-союзн	_	_
+18	-	-	-	-	PUNC	17	PUNC	_	_
+19	священник	СВЯЩЕННИК	S	S m anim nom sg	S m anim nom sg	17	об-аппоз	_	_
+20	Антуанетта	АНТУАНЕТТА	S	S f anim nom sg	S f anim nom sg	19	аппоз	_	_
+21	Блеквелл	БЛЕКВЕЛЛ	S	S m anim nom sg	S m anim nom sg	20	аппоз	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	а	А	CONJ	CONJ	CONJ	6	сент-соч	_	_
+24	в	В	PR	PR	PR	27	обст	_	_
+25	России	РОССИЯ	S	S f inan loc sg	S f inan loc sg	24	предл	_	_
+26	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	27	опред	_	_
+27	косность	КОСНОСТЬ	S	S f inan nom sg	S f inan nom sg	23	соч-союзн	_	_
+28	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+29	домострой	ДОМОСТРОЙ	S	S m inan nom sg	S m inan nom sg	28	соч-союзн	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	ничего	НИЧЕГО	ADV	ADV -	ADV -	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	дайте	ДАВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	1	соч-союзн	_	_
+5	срок	СРОК	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

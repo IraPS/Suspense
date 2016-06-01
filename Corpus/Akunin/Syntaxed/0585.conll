@@ -1,0 +1,115 @@
+1	Журналисты	ЖУРНАЛИСТ	S	S m anim nom pl	S m anim nom pl	11	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	извещенные	ИЗВЕЩАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	1	опред	_	_
+5	о	О	PR	PR	PR	4	3-компл	_	_
+6	хитроумном	ХИТРОУМНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	7	опред	_	_
+7	плане	ПЛАН	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+8	артиллерийской	АРТИЛЛЕРИЙСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	9	опред	_	_
+9	подготовки	ПОДГОТОВКА	S	S f inan gen sg	S f inan gen sg	7	квазиагент	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	выехали	ВЫЕЗЖАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+12	на	НА	PR	PR	PR	11	2-компл	_	_
+13	позицию	ПОЗИЦИЯ	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	еще	ЕЩЕ	ADV	ADV -	ADV -	15	огранич	_	_
+15	затемно	ЗАТЕМНО	ADV	ADV -	ADV -	11	обст	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Местонахождение	МЕСТОНАХОЖДЕНИЕ	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+2	корреспондентского	КОРРЕСПОНДЕНТСКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	3	опред	_	_
+3	пункта	ПУНКТ	S	S m inan gen sg	S m inan gen sg	1	1-компл	_	_
+4	следовало	СЛЕДОВАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	обговорить	ОБГОВАРИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	предик	_	_
+6	с	С	PR	PR	PR	5	2-компл	_	_
+7	командованием	КОМАНДОВАНИЕ	S	S n inan ins sg	S n inan ins sg	6	предл	_	_
+8	заранее	ЗАРАНЕЕ	ADV	ADV -	ADV -	5	обст	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	после	ПОСЛЕ	PR	PR	PR	10	соч-союзн	_	_
+12	долгих	ДОЛГИЙ	A	A - gen pl plen - -	A - gen pl plen - -	13	опред	_	_
+13	дискуссий	ДИСКУССИЯ	S	S f inan gen pl	S f inan gen pl	11	предл	_	_
+14	большинством	БОЛЬШИНСТВО	S	S n inan ins sg	S n inan ins sg	16	обст	_	_
+15	голосов	ГОЛОС	S	S m inan gen pl	S m inan gen pl	14	1-компл	_	_
+16	решили	РЕШАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	изъясн	_	_
+17	проситься	ПРОСИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	16	1-компл	_	_
+18	на	НА	PR	PR	PR	17	2-компл	_	_
+19	высотку	ВЫСОТКА	S	S f inan acc sg	S f inan acc sg	18	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	расположенную	РАСПОЛАГАТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	19	опред	_	_
+22	между	МЕЖДУ	PR	PR	PR	21	обст	_	_
+23	Гривицей	ГРИВИЦА	S	S m anim ins sg	S m anim ins sg	22	предл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	где	ГДЕ	ADV	ADV -	ADV -	26	обст	_	_
+26	находился	НАХОДИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	изъясн	_	_
+27	центр	ЦЕНТР	S	S m inan nom sg	S m inan nom sg	26	предик	_	_
+28	позиции	ПОЗИЦИЯ	S	S f inan gen sg	S f inan gen sg	27	квазиагент	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+31	Ловчинским	ЛОВЧИНСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	32	опред	_	_
+32	шоссе	ШОССЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	30	соч-союзн	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	за	ЗА	PR	PR	PR	36	обст	_	_
+35	которым	КОТОРЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	34	предл	_	_
+36	располагался	РАСПОЛАГАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	26	1-компл	_	_
+37	левый	ЛЕВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	38	опред	_	_
+38	фланг	ФЛАНГ	S	S m inan acc sg	S m inan acc sg	36	1-компл	_	_
+39	.	.	SENT	SENT	SENT	38	PUNC	_	_
+
+1	Поначалу	ПОНАЧАЛУ	ADV	ADV -	ADV -	4	обст	_	_
+2	большинство	БОЛЬШИНСТВО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+3	журналистов	ЖУРНАЛИСТ	S	S m anim gen pl	S m anim gen pl	2	квазиагент	_	_
+4	хотели	ХОТЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	обосноваться	ОБОСНОВЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	4	1-компл	_	_
+6	ближе	БЛИЗКО	ADV	ADV comp	ADV comp	5	1-компл	_	_
+7	к	К	PR	PR	PR	6	1-компл	_	_
+8	правому	ПРАВЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	9	опред	_	_
+9	флангу	ФЛАНГ	S	S m inan dat sg	S m inan dat sg	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	потому что	потому что	CONJ	CONJ	ZERO	4	сент-соч	_	_
+12	главный	ГЛАВНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	удар	УДАР	S	S m inan nom sg	S m inan nom sg	15	предик	_	_
+14	явно	ЯВНО	ADV	ADV -	ADV -	15	обст	_	_
+15	намечался	НАМЕЧАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	соч-союзн	_	_
+16	именно	ИМЕННО	PART	PART	PART	17	огранич	_	_
+17	с	С	PR	PR	PR	15	обст	_	_
+18	той	ТОТ	A	A - gen sg plen f -	A - gen sg plen f -	19	опред	_	_
+19	стороны	СТОРОНА	S	S f inan gen sg	S f inan gen sg	17	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	но	НО	CONJ	CONJ	CONJ	15	сент-соч	_	_
+22	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	27	предик	_	_
+23	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+24	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	23	соч-союзн	_	_
+25	'	'	_	_	PUNC	24	PUNC	_	_
+26	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	24	аппоз	_	_
+27	переубедили	ПЕРЕУБЕЖДАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	21	соч-союзн	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	коллег	КОЛЛЕГА	S	S - anim acc pl	S - anim acc pl	27	1-компл	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Главный	ГЛАВНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	аргумент	АРГУМЕНТ	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+3	у	У	PR	PR	PR	5	обст	_	_
+4	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	3	предл	_	_
+5	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	такой	ТАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	:	:	:	:	PUNC	5	присвяз	_	_
+8	пусть	ПУСТЬ	CONJ	CONJ	CONJ	5	обст	_	_
+9	левый	ЛЕВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	опред	_	_
+10	фланг	ФЛАНГ	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+11	даже	ДАЖЕ	CONJ	CONJ	CONJ	0	ROOT	_	_
+12	окажется	ОКАЗЫВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	11	подч-союзн	_	_
+13	второстепенным	ВТОРОСТЕПЕННЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	12	присвяз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	но	НО	CONJ	CONJ	CONJ	12	сент-соч	_	_
+16	там	ТАМ	ADV	ADV -	ADV -	0	ROOT	_	_
+17	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	а	А	CONJ	CONJ	CONJ	17	сочин	_	_
+20	значит	ЗНАЧИТ	ADV	ADV -	ADV -	25	вводн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	без	БЕЗ	PR	PR	PR	25	обст	_	_
+23	сенсации	СЕНСАЦИЯ	S	S f inan loc sg	S f inan loc sg	22	предл	_	_
+24	не	НЕ	PART	PART	PART	25	огранич	_	_
+25	обойдется	ОБХОДИТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	19	соч-союзн	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

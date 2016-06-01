@@ -1,0 +1,60 @@
+1	Апроши	АПРОШ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	рыл	РЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	довольно	ДОВОЛЬНО	ADV	ADV -	ADV -	5	огранич	_	_
+5	неумело	НЕУМЕЛО	ADV	ADV -	ADV -	3	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	5	сочин	_	_
+8	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+9	ухаживания	УХАЖИВАНИЕ	S	S n inan gen sg	S n inan gen sg	7	соч-союзн	_	_
+10	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	11	2-компл	_	_
+11	льстили	ЛЬСТИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	сент-соч	_	_
+12	–	–	–	–	PUNC	15	опред	_	_
+13	все-таки	ВСЕ-ТАКИ	PART	PART	PART	14	огранич	_	_
+14	настоящий	НАСТОЯЩИЙ	A	A - nom sg plen m -	A - nom sg plen m -	15	опред	_	_
+15	герой	ГЕРОЙ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	хоть	ХОТЬ	CONJ	CONJ	CONJ	11	сент-соч	_	_
+18	и	И	CONJ	CONJ	CONJ	19	соотнос	_	_
+19	с	С	PR	PR	PR	0	ROOT	_	_
+20	дурацким	ДУРАЦКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	21	опред	_	_
+21	веником	ВЕНИК	S	S m inan ins sg	S m inan ins sg	19	предл	_	_
+22	на	НА	PR	PR	PR	21	атриб	_	_
+23	лице	ЛИЦО	S	S n inan loc sg	S n inan loc sg	22	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	На	НА	PR	PR	PR	4	обст	_	_
+2	деликатные	ДЕЛИКАТНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	3	опред	_	_
+3	советы	СОВЕТ	S	S m inan acc pl	S m inan acc pl	1	предл	_	_
+4	изменить	ИЗМЕНЯТЬ	V	V pf - - inf - -	V pf - - inf - -	13	1-компл	_	_
+5	форму	ФОРМА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+6	бороды	БОРОДА	S	S f inan gen sg	S f inan gen sg	5	квазиагент	_	_
+7	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+8	начинал	НАЧИНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	разъяснит	_	_
+9	торговаться	ТОРГОВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+10	:	:	:	:	PUNC	9	1-компл	_	_
+11	мол	МОЛ	PART	PART	PART	13	огранич	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	готов	ГОТОВЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+14	принести	ПРИНОСИТЬ	V	V pf - - inf - -	V pf - - inf - -	13	1-компл	_	_
+15	эту	ЭТОТ	A	A - acc sg plen f -	A - acc sg plen f -	16	опред	_	_
+16	жертву	ЖЕРТВА	S	S f inan acc sg	S f inan acc sg	14	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	но	НО	CONJ	CONJ	CONJ	13	сент-соч	_	_
+19	лишь	ЛИШЬ	PART	PART	PART	20	огранич	_	_
+20	взамен	ВЗАМЕН	ADV	ADV -	ADV -	21	огранич	_	_
+21	на	НА	PR	PR	PR	0	ROOT	_	_
+22	предоставление	ПРЕДОСТАВЛЕНИЕ	S	S n inan acc sg	S n inan acc sg	21	предл	_	_
+23	определенных	ОПРЕДЕЛЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	24	опред	_	_
+24	гарантий	ГАРАНТИЯ	S	S f inan gen pl	S f inan gen pl	22	1-компл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Предоставлять	ПРЕДОСТАВЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	предик	_	_
+2	гарантии	ГАРАНТИЯ	S	S f inan acc pl	S f inan acc pl	1	1-компл	_	_
+3	в	В	PR	PR	PR	1	2-компл	_	_
+4	Варины	ВАРИН	S	S m anim nom pl	S m anim nom pl	3	предл	_	_
+5	намерения	НАМЕРЕНИЕ	S	S n inan acc pl	S n inan acc pl	7	1-компл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	входило	ВХОДИТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

@@ -1,0 +1,64 @@
+1	В	В	PR	PR	PR	8	обст	_	_
+2	том	ТОТ	A	A - loc sg plen m -	A - loc sg plen m -	5	опред	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	самом	САМЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	2	опред	_	_
+5	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	1	предл	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	8	предик	_	_
+8	убеждал	УБЕЖДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+9	одного	ОДИН	A	A - acc sg plen m anim	A - acc sg plen m anim	11	количест	_	_
+10	бравого	БРАВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	11	опред	_	_
+11	офицера	ОФИЦЕР	S	S m anim gen sg	S m anim gen sg	8	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	ранее	РАНЕЕ	ADV	ADV -	ADV -	14	обст	_	_
+14	служившего	СЛУЖИТЬ	PARTCP	PARTCP ipf praet acc sg plen m act anim	PARTCP ipf praet acc sg plen m act anim	8	сент-соч	_	_
+15	у	У	PR	PR	PR	14	1-компл	_	_
+16	покойного	ПОКОЙНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	17	опред	_	_
+17	султана	СУЛТАН	S	S m inan gen sg	S m inan gen sg	15	предл	_	_
+18	адъютантом	АДЪЮТАНТ	S	S m anim ins sg	S m anim ins sg	14	2-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Звали	ЗВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	офицера	ОФИЦЕР	S	S m anim acc sg	S m anim acc sg	1	1-компл	_	_
+3	Гасан	ГАСАН	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	бей	БИТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	1	разъяснит	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	красавице	КРАСАВИЦА	S	S f anim dat sg	S f anim dat sg	5	сочин	_	_
+8	Михри	МИХОРЬ	S	S m inan acc pl	S m inan acc pl	7	1-компл	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	ханум	ХАНУМ	S	S m inan gen sg	S m inan gen sg	8	1-компл	_	_
+11	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	предик	_	_
+12	приходился	ПРИХОДИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	сент-соч	_	_
+13	братом	БРАТ	S	S m anim ins sg	S m anim ins sg	12	2-компл	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+15	у	У	PR	PR	PR	18	обст	_	_
+16	придворных	ПРИДВОРНЫЙ	S	S m anim loc pl	S m anim loc pl	15	предл	_	_
+17	прелестниц	ПРЕЛЕСТНИЦА	S	S f inan gen pl	S f inan gen pl	16	1-компл	_	_
+18	пользовался	ПОЛЬЗОВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	14	соч-союзн	_	_
+19	невероятной	НЕВЕРОЯТНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	20	опред	_	_
+20	популярностью	ПОПУЛЯРНОСТЬ	S	S f inan ins sg	S f inan ins sg	18	1-компл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	ибо	ИБО	CONJ	CONJ	CONJ	18	обст	_	_
+23	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	22	подч-союзн	_	_
+24	очень	ОЧЕНЬ	ADV	ADV -	ADV -	25	огранич	_	_
+25	недурен	НЕДУРНОЙ	A	A - - sg brev m -	A - - sg brev m -	23	присвяз	_	_
+26	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	25	вспом	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	отважен	ОТВАЖНЫЙ	A	A - - sg brev m -	A - - sg brev m -	25	сочин	_	_
+29	и	И	CONJ	CONJ	CONJ	28	сочин	_	_
+30	превосходно	ПРЕВОСХОДНО	ADV	ADV -	ADV -	31	обст	_	_
+31	исполнял	ИСПОЛНЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	29	соч-союзн	_	_
+32	итальянские	ИТАЛЬЯНСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	33	опред	_	_
+33	арии	АРИЯ	S	S f inan acc pl	S f inan acc pl	31	1-компл	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	2	1-компл	_	_
+2	называли	НАЗЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	Гасан	ГАСАН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	бея	БЕЙ	S	S m inan gen sg	S m inan gen sg	3	1-компл	_	_
+6	просто	ПРОСТО	ADV	ADV -	ADV -	7	огранич	_	_
+7	Черкес	ЧЕРКЕС	S	S m anim nom sg	S m anim nom sg	3	сочин	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

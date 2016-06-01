@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"каждый","gr":"APRO=acc,sg,m,inan"},{"lex":"каждый","gr":"APRO=nom,sg,m"}],"text":"каждый"}
+{"analysis":[{"lex":"обязательно","gr":"ADV="}],"text":"обязательно"}
+{"analysis":[{"lex":"подымать","gr":"V=praet,sg,indic,m,ipf,tran"}],"text":"поднимал"}
+{"analysis":[{"lex":"бровь","gr":"S,f,inan=abl,sg"},{"lex":"бровь","gr":"S,f,inan=acc,pl"},{"lex":"бровь","gr":"S,f,inan=dat,sg"},{"lex":"бровь","gr":"S,f,inan=gen,sg"},{"lex":"бровь","gr":"S,f,inan=nom,pl"}],"text":"брови"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,m,ipf,tran"}],"text":"спрашивал"}
+{"analysis":[{"lex":"неужели","gr":"PART="}],"text":"Неужели"}
+{"text":"\\s"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"то","gr":"PART="}],"text":"то"}
+{"analysis":[{"lex":"думать","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"думал"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=nom"}],"text":"вы"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"студент","gr":"S,m,anim=nom,sg"}],"text":"студент"}

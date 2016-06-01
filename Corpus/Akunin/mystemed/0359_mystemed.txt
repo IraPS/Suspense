@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"банк","gr":"S,m,inan=acc,sg"},{"lex":"банк","gr":"S,m,inan=nom,sg"}],"text":"Банк"}
+{"analysis":[{"lex":"составляться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"составился"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"минута","gr":"S,f,inan=acc,sg"}],"text":"минуту"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"вскоре","gr":"ADV="}],"text":"вскоре"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"палатка","gr":"S,f,inan=abl,sg"},{"lex":"палатка","gr":"S,f,inan=dat,sg"}],"text":"палатке"}
+{"analysis":[{"lex":"зазвучать","gr":"V,pf,intr=praet,sg,indic,n"}],"text":"зазвучало"}
+{"analysis":[{"lex":"волшебный","gr":"A=acc,sg,plen,n"},{"lex":"волшебный","gr":"A=nom,sg,plen,n"}],"text":"волшебное"}
+{"analysis":[{"lex":"шелехвосточка","qual":"bastard","gr":"S,f,inan=nom,sg"}],"text":"Шелехвосточка"}
+{"analysis":[{"lex":"пойти","gr":"V,pf,intr=praet,sg,indic,f"}],"text":"пошла"}

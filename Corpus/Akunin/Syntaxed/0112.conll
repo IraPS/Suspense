@@ -1,0 +1,31 @@
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+2	нетерпеливо	НЕТЕРПЕЛИВО	ADV	ADV -	ADV -	3	обст	_	_
+3	дернула	ДЕРНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	волонтера	ВОЛОНТЕР	S	S m anim acc sg	S m anim acc sg	3	1-компл	_	_
+5	за	ЗА	PR	PR	PR	3	2-компл	_	_
+6	рукав	РУКАВ	S	S m inan acc sg	S m inan acc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+9	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	11	предик	_	_
+10	виновато	ВИНОВАТО	ADV	ADV -	ADV -	11	обст	_	_
+11	пояснил	ПОЯСНЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+12	:	:	:	:	PUNC	15	опред	_	_
+13	–	–	–	–	PUNC	15	опред	_	_
+14	Я	Я	S	S - - nonflex nonflex	S - - nonflex nonflex	15	опред	_	_
+15	г	Г	S	S - - nonflex nonflex	S - - nonflex nonflex	11	1-компл	_	_
+16	-	-	-	-	PUNC	15	PUNC	_	_
+17	говорю	ГОВОРИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	3	вводн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	что	ЧТО	CONJ	CONJ	CONJ	17	1-компл	_	_
+20	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	22	предик	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	четники	ЧЕТНИК	S	S m anim nom pl	S m anim nom pl	19	подч-союзн	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	а	А	CONJ	CONJ	CONJ	22	сочин	_	_
+25	русские	РУССКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	0	ROOT	_	_
+26	и	И	CONJ	CONJ	CONJ	25	сочин	_	_
+27	пробираемся	ПРОБИРАТЬСЯ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	26	соч-союзн	_	_
+28	к	К	PR	PR	PR	27	2-компл	_	_
+29	своим	СВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	28	предл	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+

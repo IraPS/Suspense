@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"Она"}
+{"analysis":[{"lex":"поглядеть","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"поглядела"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=acc"},{"lex":"я","gr":"SPRO,sg,1p=gen"}],"text":"меня"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"щека","gr":"S,f,inan=acc,pl"},{"lex":"щека","gr":"S,f,inan=gen,sg"},{"lex":"щека","gr":"S,f,inan=nom,pl"}],"text":"щеки"}
+{"analysis":[{"lex":"ее","gr":"APRO=abl,pl"},{"lex":"ее","gr":"APRO=dat,pl"},{"lex":"ее","gr":"APRO=gen,pl"},{"lex":"ее","gr":"APRO=ins,pl"},{"lex":"ее","gr":"APRO=nom,pl"},{"lex":"ее","gr":"APRO=nom,sg,f"},{"lex":"ее","gr":"APRO=acc,sg,m,anim"},{"lex":"ее","gr":"APRO=gen,sg,m"},{"lex":"ее","gr":"APRO=gen,sg,n"},{"lex":"ее","gr":"APRO=acc,sg,n"},{"lex":"ее","gr":"APRO=nom,sg,n"},{"lex":"ее","gr":"APRO=abl,sg,f"},{"lex":"ее","gr":"APRO=dat,sg,f"},{"lex":"ее","gr":"APRO=gen,sg,f"},{"lex":"ее","gr":"APRO=ins,sg,f"},{"lex":"ее","gr":"APRO=abl,sg,m"},{"lex":"ее","gr":"APRO=abl,sg,n"},{"lex":"ее","gr":"APRO=dat,sg,m"},{"lex":"ее","gr":"APRO=dat,sg,n"},{"lex":"ее","gr":"APRO=acc,sg,f"},{"lex":"ее","gr":"APRO=acc,pl,inan"},{"lex":"ее","gr":"APRO=acc,sg,m,inan"},{"lex":"ее","gr":"APRO=nom,sg,m"},{"lex":"ее","gr":"APRO=ins,sg,m"},{"lex":"ее","gr":"APRO=ins,sg,n"},{"lex":"ее","gr":"APRO=acc,pl,anim"},{"lex":"ее","gr":"APRO=abl,pl,n"},{"lex":"ее","gr":"APRO=acc,pl,n"},{"lex":"ее","gr":"APRO=dat,pl,n"},{"lex":"ее","gr":"APRO=gen,pl,n"},{"lex":"ее","gr":"APRO=ins,pl,n"},{"lex":"ее","gr":"APRO=nom,pl,n"},{"lex":"ее","gr":"APRO=abl,pl,m"},{"lex":"ее","gr":"APRO=acc,pl,m"},{"lex":"ее","gr":"APRO=acc,sg,m"},{"lex":"ее","gr":"APRO=dat,pl,m"}],"text":"ее"}
+{"analysis":[{"lex":"заметать","gr":"V=praet,sg,indic,n,pf"}],"text":"замело"}
+{"analysis":[{"lex":"розовый","gr":"A=abl,sg,plen,f"},{"lex":"розовый","gr":"A=dat,sg,plen,f"},{"lex":"розовый","gr":"A=gen,sg,plen,f"},{"lex":"розовый","gr":"A=ins,sg,plen,f"}],"text":"розовой"}
+{"analysis":[{"lex":"краска","gr":"S,f,inan=ins,sg"}],"text":"краской"}

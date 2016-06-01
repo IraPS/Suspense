@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"после","gr":"PR="}],"text":"После"}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=gen"}],"text":"этого"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"надолго","gr":"ADV="}],"text":"надолго"}
+{"analysis":[{"lex":"замолчать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"замолчал"}
+{"text":"\\s"}
+{"analysis":[{"lex":"метаться","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"Метался"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"хранилище","gr":"S,n,inan=dat,sg"}],"text":"хранилищу"}
+{"analysis":[{"lex":"несколько","gr":"NUM="},{"lex":"несколько","gr":"NUM=nom"},{"lex":"несколько","gr":"NUM=acc,inan"}],"text":"несколько"}
+{"analysis":[{"lex":"раз","gr":"S,m,inan=acc,sg"},{"lex":"раз","gr":"S,m,inan=gen,pl"},{"lex":"раз","gr":"S,m,inan=nom,sg"}],"text":"раз"}
+{"analysis":[{"lex":"смотреть","gr":"V,ipf,tran=praet,sg,indic,m"}],"text":"смотрел"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"часы","gr":"S,pl,inan=acc"},{"lex":"часы","gr":"S,pl,inan=nom"}],"text":"часы"}

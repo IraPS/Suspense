@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"пускать","gr":"V=inpraes,pl,indic,2p,pf"},{"lex":"пускать","gr":"V=pl,imper,2p,pf"}],"text":"Пустите"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"сказала"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"бурно","gr":"ADV="}],"text":"бурно"}
+{"analysis":[{"lex":"дышать","gr":"V,ipf,intr=inpraes,ger"}],"text":"дыша"}
+{"text":"\\s"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"сам","gr":"APRO=nom,sg,f"}],"text":"сама"}
+{"text":"\\s"}
+{"analysis":[{"lex":"давать","gr":"V,tran=pl,imper,2p,pf"}],"text":"Дайте"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=abl"},{"lex":"я","gr":"SPRO,sg,1p=dat"}],"text":"мне"}
+{"analysis":[{"lex":"нож","gr":"S,m,inan=acc,sg"},{"lex":"нож","gr":"S,m,inan=nom,sg"}],"text":"нож"}

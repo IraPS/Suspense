@@ -1,0 +1,42 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	5	предик	_	_
+3	так и	так и	CONJ	CONJ	ZERO	5	соотнос	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	узнала	УЗНАВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как	КАК	CONJ	CONJ	CONJ	5	сравнит	_	_
+8	именно	ИМЕННО	PART	PART	PART	9	огранич	_	_
+9	одарил	ОДАРЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	сравн-союзн	_	_
+10	император	ИМПЕРАТОР	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	героя	ГЕРОЙ	S	S m anim gen sg	S m anim gen sg	10	1-компл	_	_
+12	Плевны	ПЛЕВНА	S	S f inan gen sg	S f inan gen sg	11	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	потому что	потому что	CONJ	CONJ	ZERO	5	обст	_	_
+15	за	ЗА	PR	PR	PR	18	обст	_	_
+16	плечом	ПЛЕЧО	S	S n inan ins sg	S n inan ins sg	15	предл	_	_
+17	небожителя	НЕБОЖИТЕЛЬ	S	S m anim acc sg	S m anim acc sg	16	1-компл	_	_
+18	возникла	ВОЗНИКАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	подч-союзн	_	_
+19	будничная	БУДНИЧНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	20	опред	_	_
+20	физиономия	ФИЗИОНОМИЯ	S	S f inan nom sg	S f inan nom sg	18	предик	_	_
+21	Лаврентия	ЛАВРЕНТИЙ	S	S m anim gen sg	S m anim gen sg	20	квазиагент	_	_
+22	Аркадьевича	АРКАДЬЕВИЧ	S	S m anim gen sg	S m anim gen sg	21	аппоз	_	_
+23	Мизинова	МИЗИНОВ	S	S m anim nom sg	S m anim nom sg	20	аппоз	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Главный	ГЛАВНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	жандарм	ЖАНДАРМ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	империи	ИМПЕРИЯ	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+4	поманил	ПОМАНИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	Фандорина	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	4	присвяз	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	6	соч-союзн	_	_
+8	пальцем	ПАЛЕЦ	S	S m inan ins sg	S m inan ins sg	4	обст	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Сердце	СЕРДЦЕ	S	S n inan nom sg	S n inan nom sg	2	предик	_	_
+2	забилось	ЗАБИВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	часто	ЧАСТО	ADV	ADV -	ADV -	2	обст	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	часто	ЧАСТО	ADV	ADV -	ADV -	2	обст	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

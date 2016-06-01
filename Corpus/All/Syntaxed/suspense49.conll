@@ -1,0 +1,81 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+3	произошло	ПРОИСХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+4	что-то	ЧТО-ТО	S	S n - nom sg	S n - nom sg	11	опред	_	_
+5	странное	СТРАННЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	11	опред	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	непредвиденное	НЕПРЕДВИДЕННЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	5	сочин	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	необычное	НЕОБЫЧНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	7	сочин	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что-то	ЧТО-ТО	S	S n - nom sg	S n - nom sg	3	1-компл	_	_
+12	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	11	опред	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	в	В	PR	PR	PR	3	2-компл	_	_
+15	чем	ЧЕМ	CONJ	CONJ	CONJ	14	предл	_	_
+16	никто	НИКТО	S	S m - nom sg	S m - nom sg	18	1-компл	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	смог	СМОЧЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	сравн-союзн	_	_
+19	и	И	CONJ	CONJ	CONJ	21	соотнос	_	_
+20	не	НЕ	PART	PART	PART	21	огранич	_	_
+21	захотел	ЗАХОТЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	предик	_	_
+22	увидеть	УВИДЕТЬ	V	V pf - - inf - -	V pf - - inf - -	21	1-компл	_	_
+23	звена	ЗВЕНО	S	S n inan gen sg	S n inan gen sg	22	1-компл	_	_
+24	сковывавшей	СКОВЫВАТЬ	PARTCP	PARTCP ipf praet loc sg plen f act -	PARTCP ipf praet loc sg plen f act -	26	опред	_	_
+25	всех	ВЕСЬ	A	A - loc pl plen - -	A - loc pl plen - -	26	опред	_	_
+26	цепи	ЦЕПЬ	S	S f inan gen sg	S f inan gen sg	23	1-компл	_	_
+27	:	:	:	:	PUNC	31	опред	_	_
+28	какой-то	КАКОЙ-ТО	A	A - nom sg plen m -	A - nom sg plen m -	31	опред	_	_
+29	высокий	ВЫСОКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	31	опред	_	_
+30	толстый	ТОЛСТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	31	опред	_	_
+31	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	21	предик	_	_
+32	вдруг	ВДРУГ	ADV	ADV -	ADV -	33	обст	_	_
+33	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	разъяснит	_	_
+34	как-то	КАК-ТО	ADV	ADV -	ADV -	35	огранич	_	_
+35	странно	СТРАННО	ADV	ADV -	ADV -	36	обст	_	_
+36	надуваться	НАДУВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	33	1-компл	_	_
+37	,	,	,	,	PUNC	36	PUNC	_	_
+38	точно	ТОЧНО	ADV	ADV -	ADV -	39	огранич	_	_
+39	нарочно	НАРОЧНО	ADV	ADV -	ADV -	36	обст	_	_
+40	;	;	SENT	SENT	SENT	39	PUNC	_	_
+
+1	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	3	суб-копр	_	_
+3	разбух	РАЗБУХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	слился	СЛИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+6	в	В	PR	PR	PR	5	2-компл	_	_
+7	продолговатый	ПРОДОЛГОВАТЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	8	опред	_	_
+8	шар	ШАР	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+9	;	;	SENT	SENT	SENT	8	PUNC	_	_
+
+1	вот	ВОТ	PART	PART	PART	2	огранич	_	_
+2	затрещало	ЗАТРЕЩАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	пальто	ПАЛЬТО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	треснул	ТРЕСНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сент-соч	_	_
+6	шов	ШОВ	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+7	на	НА	PR	PR	PR	5	обст	_	_
+8	спине	СПИНА	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	словно	СЛОВНО	CONJ	CONJ	CONJ	0	ROOT	_	_
+13	радуясь	РАДОВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	сравн-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	что	ЧТО	CONJ	CONJ	CONJ	13	1-компл	_	_
+16	преодолел	ПРЕОДОЛЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	подч-союзн	_	_
+17	неприятное	НЕПРИЯТНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	16	1-компл	_	_
+18	препятствие	ПРЕПЯТСТВИЕ	S	S n inan acc sg	S n inan acc sg	16	сочин	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	22	предик	_	_
+21	звонко	ЗВОНКО	ADV	ADV -	ADV -	22	обст	_	_
+22	лопнул	ЛОПНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	18	релят	_	_
+23	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+24	разлетелся	РАЗЛЕТАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	23	соч-союзн	_	_
+25	брызгами	БРЫЗГИ	S	S - inan ins pl	S - inan ins pl	24	2-компл	_	_
+26	во	ВО	PR	PR	PR	24	обст	_	_
+27	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	28	опред	_	_
+28	стороны	СТОРОНА	S	S f inan acc pl	S f inan acc pl	26	предл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"никогда","gr":"ADVPRO="}],"text":"никогда"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"позволять","gr":"V,tran=inpraes,sg,indic,1p,ipf"}],"text":"позволяю"}
+{"analysis":[{"lex":"конь","gr":"S,m,anim=dat,sg"}],"text":"коню"}
+{"analysis":[{"lex":"топтать","gr":"V,ipf,tran=inf"}],"text":"топтать"}
+{"analysis":[{"lex":"репейник","gr":"S,m,inan=acc,sg"},{"lex":"репейник","gr":"S,m,inan=nom,sg"}],"text":"репейник"}
+{"analysis":[{"lex":"вдруг","gr":"ADV="}],"text":"вдруг"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"расти","gr":"V,ipf,intr=inpraes,sg,indic,3p"}],"text":"растет"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"старый","gr":"A=acc,sg,plen,m,anim"},{"lex":"старый","gr":"A=gen,sg,plen,m"},{"lex":"старый","gr":"A=gen,sg,plen,n"}],"text":"старого"}
+{"analysis":[{"lex":"исаак","gr":"S,persn,m,anim=acc,sg"},{"lex":"исаак","gr":"S,persn,m,anim=gen,sg"}],"text":"Исаака"}

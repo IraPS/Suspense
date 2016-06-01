@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"леопольд","gr":"S,persn,m,anim=nom,sg"}],"text":"Леопольд"}
+{"analysis":[{"lex":"леопольдович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Леопольдович"}
+{"analysis":[{"lex":"выписывать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"выписал"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"гордость","gr":"S,f,inan=ins,sg"}],"text":"гордостью"}
+{"analysis":[{"lex":"докладывать","gr":"V,tran=praet,sg,indic,f,pf"}],"text":"доложила"}
+{"analysis":[{"lex":"пелагея","gr":"S,persn,f,anim=nom,sg"}],"text":"Пелагея"}
+{"analysis":[{"lex":"ивановна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Ивановна"}

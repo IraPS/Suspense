@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"ожидание","gr":"S,n,inan=acc,sg"},{"lex":"ожидание","gr":"S,n,inan=nom,sg"}],"text":"Ожидание"}
+{"analysis":[{"lex":"затягиваться","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"затягивалось"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"было"}
+{"analysis":[{"lex":"совсем","gr":"ADV="}],"text":"совсем"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"скучно","gr":"ADV="}],"text":"скучно"}

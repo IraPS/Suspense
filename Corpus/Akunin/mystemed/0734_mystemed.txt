@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"},{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Маклафлин"}
+{"analysis":[{"lex":"возбужденно","gr":"ADV="}],"text":"возбужденно"}
+{"analysis":[{"lex":"расхохотаться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"расхохотался"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"сунуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сунул"}
+{"analysis":[{"lex":"нога","gr":"S,f,inan=acc,sg"}],"text":"ногу"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"стремя","gr":"S,n,inan=acc,sg"},{"lex":"стремя","gr":"S,n,inan=nom,sg"}],"text":"стремя"}

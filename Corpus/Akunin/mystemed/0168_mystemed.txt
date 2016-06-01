@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"генерал-адъютант","gr":"S,m,anim=nom,sg"}],"text":"Генерал-адъютант"}
+{"analysis":[{"lex":"мизин","qual":"bastard","gr":"S,m,inan=gen,pl"}],"text":"Мизинов"}
+{"analysis":[{"lex":"зычно","gr":"ADV="}],"text":"зычно"}
+{"analysis":[{"lex":"объявлять","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"объявил"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"порог","gr":"S,m,inan=gen,sg"}],"text":"порога"}
+{"analysis":[{"lex":"строго","gr":"ADV="}],"text":"строго"}
+{"analysis":[{"lex":"взглядывать","gr":"V,intr=praet,ger,pf"}],"text":"взглянув"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"подполковник","gr":"S,m,anim=acc,sg"},{"lex":"подполковник","gr":"S,m,anim=gen,sg"}],"text":"подполковника"}
+{"text":"\\s"}
+{"analysis":[{"lex":"казанзак","qual":"bastard","gr":"S,m,anim=nom,pl"}],"text":"Казанзаки"}

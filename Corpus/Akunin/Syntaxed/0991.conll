@@ -1,0 +1,33 @@
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Только	ТОЛЬКО	PART	PART	PART	1	огранич	_	_
+3	бы	БЫ	PART	PART	PART	1	аналит	_	_
+4	выбраться	ВЫБИРАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+5	отсюда	ОТСЮДА	ADV	ADV -	ADV -	4	обст	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	пробормотал	ПРОБОРМОТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+6	странный	СТРАННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	ударив	УДАРЯТЬ	V	V pf praet - ger - -	V pf praet - ger - -	0	ROOT	_	_
+10	кулаком	КУЛАК	S	S m inan ins sg	S m inan ins sg	9	1-компл	_	_
+11	по	ПО	PR	PR	PR	9	обст	_	_
+12	чугунной	ЧУГУННЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	13	опред	_	_
+13	полке	ПОЛКА	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	1-компл	_	_
+2	Без	БЕЗ	PR	PR	PR	1	2-компл	_	_
+3	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	2	предл	_	_
+4	Абдул	АБДУЛ	S	S m anim gen sg	S m anim gen sg	7	предик	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	Гамид	ГАМИД	S	S m anim nom sg	S m anim nom sg	4	об-аппоз	_	_
+7	сожрет	СЖИРАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+8	благородного	БЛАГОРОДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	Мидхата	МИДХАТ	S	S m anim acc sg	S m anim acc sg	7	предик	_	_
+10	!	!	SENT	SENT	SENT	9	PUNC	_	_
+

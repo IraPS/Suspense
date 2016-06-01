@@ -1,0 +1,132 @@
+1	–	–	–	–	PUNC	5	обст	_	_
+2	Сражение	СРАЖЕНИЕ	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+3	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	2	аппоз	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	проиграно	ПРОИГРЫВАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	рвать	РВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	предик	_	_
+8	волосы	ВОЛОС	S	S m inan acc pl	S m inan acc pl	7	1-компл	_	_
+9	поздно	ПОЗДНО	ADV	ADV -	ADV -	10	обст	_	_
+10	–	–	–	–	PUNC	5	сент-соч	_	_
+11	это	ЭТО	S	S n - nom sg	S n - nom sg	12	опред	_	_
+12	эмоции	ЭМОЦИЯ	S	S f inan nom pl	S f inan nom pl	10	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	мешающие	МЕШАТЬ	PARTCP	PARTCP ipf inpraes nom pl plen - act -	PARTCP ipf inpraes nom pl plen - act -	12	опред	_	_
+15	расследованию	РАССЛЕДОВАНИЕ	S	S n inan dat sg	S n inan dat sg	14	2-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	 	 	 	 	PUNC	20	обст	_	_
+18	–	–	–	–	PUNC	20	1-компл	_	_
+19	сухо	СУХО	ADV	ADV -	ADV -	20	обст	_	_
+20	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	сент-соч	_	_
+21	титулярный	ТИТУЛЯРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	22	опред	_	_
+22	советник	СОВЕТНИК	S	S m anim nom sg	S m anim nom sg	20	предик	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	сделать	СДЕЛАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	предик	_	_
+4	надо	НАДО	ADV	ADV -	ADV -	2	соч-союзн	_	_
+5	вот	ВОТ	PART	PART	PART	6	огранич	_	_
+6	что	ЧТО	S	S n - acc sg	S n - acc sg	4	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Разбить	РАЗБИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+2	территорию	ТЕРРИТОРИЯ	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+3	между	МЕЖДУ	PR	PR	PR	2	квазиагент	_	_
+4	корреспондентским	КОРРЕСПОНДЕНТСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	6	опред	_	_
+5	наблюдательным	НАБЛЮДАТЕЛЬНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	6	опред	_	_
+6	пунктом	ПУНКТ	S	S m inan ins sg	S m inan ins sg	3	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	ставкой	СТАВКА	S	S f inan ins sg	S f inan ins sg	7	соч-союзн	_	_
+9	на	НА	PR	PR	PR	1	2-компл	_	_
+10	квадраты	КВАДРАТ	S	S m inan acc pl	S m inan acc pl	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	4	предик	_	_
+2	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	4	композ	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	первое	ПЕРВЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	С	С	PR	PR	PR	0	ROOT	_	_
+2	первым	ПЕРВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	4	опред	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	лучом	ЛУЧ	S	S m inan ins sg	S m inan ins sg	1	предл	_	_
+5	солнца	СОЛНЦЕ	S	S n inan gen sg	S n inan gen sg	4	квазиагент	_	_
+6	к	К	PR	PR	PR	5	1-компл	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	каждый	КАЖДЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	квадрат	КВАДРАТ	S	S m inan nom sg	S m inan nom sg	1	предик	_	_
+10	прочесать	ПРОЧЕСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	второе	ВТОРОЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	В	В	PR	PR	PR	4	обст	_	_
+2	случае	СЛУЧАЙ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	обнаружения	ОБНАРУЖЕНИЕ	S	S n inan gen sg	S n inan gen sg	2	1-компл	_	_
+4	т	Т	S	S n - nonflex nonflex	S n - nonflex nonflex	0	ROOT	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	трупов	ТРУП	S	S m inan gen pl	S m inan gen pl	4	предик	_	_
+7	Зурова	ЗУРОВ	S	S m anim gen sg	S m anim gen sg	6	квазиагент	_	_
+8	или	ИЛИ	CONJ	CONJ	CONJ	4	сент-соч	_	_
+9	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+10	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	11	опред	_	_
+11	руками	РУКА	S	S f inan ins pl	S f inan ins pl	13	2-компл	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	трогать	ТРОГАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	соч-союзн	_	_
+14	и	И	CONJ	CONJ	CONJ	15	соотнос	_	_
+15	землю	ЗЕМЛЯ	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+16	вокруг	ВОКРУГ	ADV	ADV -	ADV -	18	обст	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	топтать	ТОПТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	15	1-компл	_	_
+19	–	–	–	–	PUNC	21	опред	_	_
+20	это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	21	опред	_	_
+21	третье	ТРЕТИЙ	A	A - nom sg plen n -	A - nom sg plen n -	18	1-компл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	На	НА	PR	PR	PR	4	обст	_	_
+2	всякий	ВСЯКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	случай	СЛУЧАЙ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	поискать	ПОИСКАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+5	того	ТО	S	S n - gen sg	S n - gen sg	4	1-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	друтого	ДРУТОЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	0	ROOT	_	_
+8	по	ПО	PR	PR	PR	7	4-компл	_	_
+9	лазаретам	ЛАЗАРЕТ	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	среди	СРЕДИ	PR	PR	PR	7	атриб	_	_
+11	тяжело	ТЯЖЕЛО	ADV	ADV -	ADV -	12	огранич	_	_
+12	раненых	РАНЕНЫЙ	S	S m anim gen pl	S m anim gen pl	10	предл	_	_
+13	–	–	–	–	PUNC	15	опред	_	_
+14	это	ЭТО	S	S n - nom sg	S n - nom sg	15	опред	_	_
+15	четвертое	ЧЕТВЕРТЫЙ	A	A - acc sg plen n -	A - acc sg plen n -	12	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Пока	ПОКА	CONJ	CONJ	CONJ	11	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Лаврентий	ЛАВРЕНТИЙ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+4	Аркадьевич	АРКАДЬЕВИЧ	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	б	Б	PART	PART	PART	8	вводн	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	больше	БОЛЬШОЙ	A	A comp - - plen - -	A comp - - plen - -	1	подч-союзн	_	_
+9	сделать	СДЕЛАТЬ	V	V pf - - inf - -	V pf - - inf - -	8	1-компл	_	_
+10	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	11	предик	_	_
+11	нельзя	НЕЛЬЗЯ	ADV	ADV -	ADV -	0	ROOT	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Какие	КАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	предположения	ПРЕДПОЛОЖЕНИЕ	S	S n inan nom pl	S n inan nom pl	1	предик	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Что	ЧТО	S	S n - acc sg	S n - acc sg	2	1-компл	_	_
+2	доложить	ДОКЛАДЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+3	государю	ГОСУДАРЬ	S	S m anim dat sg	S m anim dat sg	2	2-компл	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Измена	ИЗМЕНА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+2	?	?	SENT	SENT	SENT	1	PUNC	_	_
+

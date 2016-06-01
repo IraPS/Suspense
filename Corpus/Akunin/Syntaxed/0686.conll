@@ -1,0 +1,110 @@
+1	Встрепенувшись	ВСТРЕПЕНУТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	4	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+4	подумала	ПОДУМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	в	В	PR	PR	PR	9	обст	_	_
+8	Петрушиной	ПЕТРУШИНА	S	S f anim loc sg	S f anim loc sg	7	предл	_	_
+9	судьбе	СУДЬБА	S	S f inan loc sg	S f inan loc sg	6	подч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	13	вводн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	наметился	НАМЕЧАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сент-соч	_	_
+14	просвет	ПРОСВЕТ	S	S m inan nom sg	S m inan nom sg	13	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	пожевав	ПОЖЕВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	7	обст	_	_
+5	губами	ГУБА	S	S f inan ins pl	S f inan ins pl	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	продолжил	ПРОДОЛЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+8	:	:	:	:	PUNC	11	опред	_	_
+9	–	–	–	–	PUNC	10	опред	_	_
+10	Полковника	ПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	8	1-компл	_	_
+11	Панчулидзева	ПАНЧУЛИДЗЕВ	S	S f inan nom sg	S f inan nom sg	7	1-компл	_	_
+12	в	В	PR	PR	PR	7	2-компл	_	_
+13	назидание	НАЗИДАНИЕ	S	S n inan acc sg	S n inan acc sg	12	предл	_	_
+14	прочим	ПРОЧИЙ	A	A - dat pl plen - -	A - dat pl plen - -	15	опред	_	_
+15	молчальникам	МОЛЧАЛЬНИК	S	S m anim dat pl	S m anim dat pl	7	неакт-компл	_	_
+16	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	20	предик	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	разумеется	РАЗУМЕЕТСЯ	ADV	ADV -	ADV -	20	вводн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	отдам	ОТДАВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	7	1-компл	_	_
+21	под	ПОД	PR	PR	PR	20	2-компл	_	_
+22	суд	СУД	S	S m inan acc sg	S m inan acc sg	21	предл	_	_
+23	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+24	буду	БЫТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	23	соч-союзн	_	_
+25	добиваться	ДОБИВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	24	аналит	_	_
+26	полного	ПОЛНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	27	опред	_	_
+27	разжалования	РАЗЖАЛОВАНИЕ	S	S n inan acc pl	S n inan acc pl	25	1-компл	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	однако	ОДНАКО	CONJ	CONJ	CONJ	24	сент-соч	_	_
+30	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	32	1-компл	_	_
+31	телеграмма	ТЕЛЕГРАММА	S	S f inan nom sg	S f inan nom sg	32	предик	_	_
+32	позволяет	ПОЗВОЛЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	34	предик	_	_
+33	нам	МЫ	SPRO	SPRO pl 1p - dat	SPRO pl 1p - dat	34	1-компл	_	_
+34	дедуктивно	ДЕДУКТИВНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+35	восстановить	ВОССТАНАВЛИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	34	1-компл	_	_
+36	всю	ВЕСЬ	A	A - acc sg plen f -	A - acc sg plen f -	37	опред	_	_
+37	цепочку	ЦЕПОЧКА	S	S f inan acc sg	S f inan acc sg	35	1-компл	_	_
+38	.	.	SENT	SENT	SENT	37	PUNC	_	_
+
+1	Здесь	ЗДЕСЬ	ADV	ADV -	ADV -	4	обст	_	_
+2	все	ВСЕ	S	S - - nom pl	S - - nom pl	4	предик	_	_
+3	достаточно	ДОСТАТОЧНО	ADV	ADV -	ADV -	4	огранич	_	_
+4	просто	ПРОСТО	ADV	ADV -	ADV -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Про	ПРО	PR	PR	PR	7	2-компл	_	_
+2	тайный	ТАЙНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	порок	ПОРОК	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	Ивана	ИВАН	S	S m anim gen sg	S m anim gen sg	3	квазиагент	_	_
+5	Казанзаки	КАЗАНЗАК	S	S m anim gen sg	S m anim gen sg	4	аппоз	_	_
+6	наверняка	НАВЕРНЯКА	ADV	ADV -	ADV -	7	обст	_	_
+7	узнала	УЗНАВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	турецкая	ТУРЕЦКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+9	агентура	АГЕНТУРА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	которой	КОТОРЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	12	1-компл	_	_
+12	кишит	КИШЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	9	релят	_	_
+13	весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	Кавказ	КАВКАЗ	S	S m inan nom sg	S m inan nom sg	12	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+17	подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	18	предик	_	_
+18	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	соч-союзн	_	_
+19	завербован	ЗАВЕРБОВЫВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	18	пасс-анал	_	_
+20	посредством	ПОСРЕДСТВОМ	PR	PR	PR	19	обст	_	_
+21	шантажа	ШАНТАЖ	S	S m inan gen sg	S m inan gen sg	20	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	История	ИСТОРИЯ	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	вечная	ВЕЧНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	2	сравнит	_	_
+5	мир	МИР	S	S m inan nom sg	S m inan nom sg	4	сравн-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Ванчик	ВАНЧИК	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	Харитончик	ХАРИТОНЧИК	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+5	»	»	_	_	PUNC	4	PUNC	_	_
+6	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Тьфу	ТЬФУ	INTJ	INTJ	INTJ	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	пакость	ПАКОСТЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Добро	ДОБРО	PART	PART	PART	2	огранич	_	_
+2	б	Б	PART	PART	PART	3	огранич	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	из-за	ИЗ-ЗА	PR	PR	PR	0	ROOT	_	_
+5	денег	ДЕНЬГИ	S	S - inan gen pl	S - inan gen pl	4	предл	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+

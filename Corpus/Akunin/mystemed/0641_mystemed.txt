@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"быстрый","gr":"A=dat,pl,plen"},{"lex":"быстрый","gr":"A=ins,sg,plen,m"},{"lex":"быстрый","gr":"A=ins,sg,plen,n"}],"text":"Быстрым"}
+{"analysis":[{"lex":"шаг","gr":"S,m,inan=ins,sg"}],"text":"шагом"}
+{"analysis":[{"lex":"они","gr":"SPRO,pl=nom"}],"text":"они"}
+{"analysis":[{"lex":"доходить","gr":"V,intr=praet,pl,indic,pf"}],"text":"дошли"}
+{"analysis":[{"lex":"до","gr":"PR="}],"text":"до"}
+{"analysis":[{"lex":"мазанка","gr":"S,f,inan=acc,pl"},{"lex":"мазанка","gr":"S,f,inan=gen,sg"},{"lex":"мазанка","gr":"S,f,inan=nom,pl"}],"text":"мазанки"}
+{"analysis":[{"lex":"где","gr":"ADVPRO="}],"text":"где"}
+{"analysis":[{"lex":"располагаться","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"располагалось"}
+{"analysis":[{"lex":"ведомство","gr":"S,n,inan=acc,sg"},{"lex":"ведомство","gr":"S,n,inan=nom,sg"}],"text":"ведомство"}
+{"analysis":[{"lex":"подполковник","gr":"S,m,anim=acc,sg"},{"lex":"подполковник","gr":"S,m,anim=gen,sg"}],"text":"подполковника"}
+{"analysis":[{"lex":"казанзак","qual":"bastard","gr":"S,m,anim=nom,pl"}],"text":"Казанзаки"}

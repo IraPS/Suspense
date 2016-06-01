@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"зуров","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Зуров"}
+{"analysis":[{"lex":"дипломатичный","gr":"A=sg,brev,n"}],"text":"дипломатично"}
+{"analysis":[{"lex":"поиграть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"поиграл"}
+{"analysis":[{"lex":"бровь","gr":"S,f,inan=ins,pl"}],"text":"бровями"}
+{"analysis":[{"lex":"ничуть","gr":"ADVPRO="}],"text":"ничуть"}
+{"analysis":[{"lex":"впрочем","gr":"CONJ,parenth="}],"text":"впрочем"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"смущаться","gr":"V,intr=praet,ger,pf"}],"text":"смутившись"}

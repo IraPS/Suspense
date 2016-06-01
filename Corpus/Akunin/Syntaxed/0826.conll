@@ -1,0 +1,15 @@
+1	Царь	ЦАРЬ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	поморщился	ПОМОРЩИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	от	ОТ	PR	PR	PR	12	обст	_	_
+6	зубной	ЗУБНОЙ	A	A - gen sg plen f -	A - gen sg plen f -	7	опред	_	_
+7	боли	БОЛЬ	S	S f inan gen sg	S f inan gen sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	5	соотнос	_	_
+10	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+11	сокрушенно	СОКРУШЕННО	ADV	ADV -	ADV -	12	обст	_	_
+12	покачал	ПОКАЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	подч-союзн	_	_
+13	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	12	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

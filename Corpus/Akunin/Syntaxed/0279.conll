@@ -1,0 +1,36 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Это	ЭТО	S	S n - nom sg	S n - nom sg	3	опред	_	_
+3	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+4	Лукан	ЛУКАН	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	личный	ЛИЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	представитель	ПРЕДСТАВИТЕЛЬ	S	S m anim nom sg	S m anim nom sg	3	об-аппоз	_	_
+8	нашего	НАШ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+9	драгоценного	ДРАГОЦЕННЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+10	союзника	СОЮЗНИК	S	S m anim gen sg	S m anim gen sg	7	1-компл	_	_
+11	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	12	квазиагент	_	_
+12	высочества	ВЫСОЧЕСТВО	S	S n inan gen sg	S n inan gen sg	10	1-компл	_	_
+13	князя	КНЯЗЬ	S	S m anim gen sg	S m anim gen sg	12	1-компл	_	_
+14	румынского	РУМЫНСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+15	Карла	КАРЛ	S	S m anim gen sg	S m anim gen sg	13	аппоз	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	 	 	 	 	PUNC	7	2-компл	_	_
+18	–	–	–	–	PUNC	19	1-компл	_	_
+19	усмехнулся	УСМЕХАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	релят	_	_
+20	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	19	предик	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Предупреждаю	ПРЕДУПРЕЖДАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	2	вводн	_	_
+5	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+8	для	ДЛЯ	PR	PR	PR	7	атриб	_	_
+9	дамских	ДАМСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	опред	_	_
+10	сердец	СЕРДЦЕ	S	S n inan gen pl	S n inan gen pl	8	предл	_	_
+11	смертоносней	СМЕРТОНОСНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	12	опред	_	_
+12	анчара	АНЧАР	S	S f inan nom sg	S f inan nom sg	7	разъяснит	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

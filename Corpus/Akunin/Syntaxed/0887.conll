@@ -1,0 +1,28 @@
+1	Операция	ОПЕРАЦИЯ	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	прошла	ПРОХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	без	БЕЗ	PR	PR	PR	2	обст	_	_
+4	сучка	СУЧОК	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	без	БЕЗ	PR	PR	PR	2	обст	_	_
+6	задоринки	ЗАДОРИНКА	S	S f inan gen sg	S f inan gen sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Разоружили	РАЗОРУЖАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+2	ошалевшую	ОШАЛЕВАТЬ	PARTCP	PARTCP pf praet acc sg plen f act -	PARTCP pf praet acc sg plen f act -	3	опред	_	_
+3	охрану	ОХРАНА	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+4	станции	СТАНЦИЯ	S	S f inan gen sg	S f inan gen sg	3	квазиагент	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	смешно	СМЕШНО	ADV	ADV -	ADV -	7	обст	_	_
+7	сказать	СКАЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+8	–	–	–	–	PUNC	7	1-компл	_	_
+9	шестеро	ШЕСТЕРО	NUM	NUM nom - -	NUM nom - -	11	количест	_	_
+10	сонных	СОННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	11	опред	_	_
+11	солдат	СОЛДАТ	S	S m anim gen pl	S m anim gen pl	8	примыкат	_	_
+12	)	)	_	_	PUNC	11	PUNC	_	_
+13	,	,	,	,	PUNC	11	PUNC	_	_
+14	рассыпались	РАССЫПАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	сент-соч	_	_
+15	по	ПО	PR	PR	PR	14	обст	_	_
+16	городку	ГОРОДОК	S	S m inan dat sg	S m inan dat sg	15	предл	_	_
+17	взводными	ВЗВОДНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	18	опред	_	_
+18	командами	КОМАНДА	S	S f inan ins pl	S f inan ins pl	14	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

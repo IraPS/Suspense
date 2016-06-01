@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"итак","gr":"CONJ="}],"text":"Итак"}
+{"analysis":[{"lex":"выходить","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"выходило"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"все-таки","gr":"PART="}],"text":"все-таки"}
+{"analysis":[{"lex":"неравнодушный","gr":"A=sg,brev,m"}],"text":"неравнодушен"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"соперничать","gr":"V,ipf,intr=inf"}],"text":"соперничать"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=dat,pl"},{"lex":"соболев","gr":"S,famn,m,anim=ins,sg"}],"text":"Соболевым"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"желать","gr":"V,ipf,tran=inpraes,sg,indic,3p"}],"text":"желает"}
+{"text":"\\s"}
+{"analysis":[{"lex":"верно","gr":"ADV,parenth="}],"text":"Верно"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"гордость","gr":"S,f,inan=abl,sg"},{"lex":"гордость","gr":"S,f,inan=acc,pl"},{"lex":"гордость","gr":"S,f,inan=dat,sg"},{"lex":"гордость","gr":"S,f,inan=gen,sg"},{"lex":"гордость","gr":"S,f,inan=nom,pl"}],"text":"гордости"}

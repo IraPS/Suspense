@@ -1,0 +1,121 @@
+1	В	В	PR	PR	PR	10	обст	_	_
+2	четырнадцать	ЧЕТЫРНАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	3	количест	_	_
+3	лет	ГОД	S	S m inan gen pl	S m inan gen pl	1	предл	_	_
+4	на	НА	PR	PR	PR	10	обст	_	_
+5	уроке	УРОК	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	Закона	ЗАКОН	S	S m inan gen sg	S m inan gen sg	5	квазиагент	_	_
+7	Божия	БОЖИЙ	A	A - nom sg plen f -	A - nom sg plen f -	8	опред	_	_
+8	Вареньке	ВАРЕНЬКА	S	S f anim dat sg	S f anim dat sg	10	2-компл	_	_
+9	Суворовой	СУВОРОВА	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+10	пришла	ПРИХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+11	в	В	PR	PR	PR	10	2-компл	_	_
+12	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	неопровержимая	НЕОПРОВЕРЖИМЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	10	суб-копр	_	_
+14	в	В	PR	PR	PR	13	атриб	_	_
+15	своей	СВОЙ	A	A - loc sg plen f -	A - loc sg plen f -	16	опред	_	_
+16	очевидности	ОЧЕВИДНОСТЬ	S	S f inan loc sg	S f inan loc sg	14	предл	_	_
+17	мысль	МЫСЛЬ	S	S f inan nom sg	S f inan nom sg	18	предик	_	_
+18	–	–	–	–	PUNC	10	сент-соч	_	_
+19	как только	как только	CONJ	CONJ	ZERO	10	обст	_	_
+20	раньше	РАНО	ADV	ADV comp	ADV comp	23	обст	_	_
+21	никто	НИКТО	S	S m - nom sg	S m - nom sg	23	1-компл	_	_
+22	не	НЕ	PART	PART	PART	23	огранич	_	_
+23	догадался	ДОГАДЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	19	подч-союзн	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	13	обст	_	_
+2	Бог	БОГ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	сотворил	СОТВОРИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+4	Адама	АДАМ	S	S m anim acc sg	S m anim acc sg	3	1-компл	_	_
+5	сначала	СНАЧАЛА	ADV	ADV -	ADV -	3	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	3	сочин	_	_
+8	Еву	ЕВА	S	S f anim acc sg	S f anim acc sg	7	соч-союзн	_	_
+9	потом	ПОТОМ	ADV	ADV -	ADV -	3	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	то	ТО	CONJ	CONJ	CONJ	1	соотнос	_	_
+12	это	ЭТО	S	S n - nom sg	S n - nom sg	13	предик	_	_
+13	свидетельствует	СВИДЕТЕЛЬСТВОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+14	вовсе	ВОВСЕ	ADV	ADV -	ADV -	15	огранич	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	о	О	PR	PR	PR	13	1-компл	_	_
+17	том	ТО	S	S n - loc sg	S n - loc sg	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	что	ЧТО	CONJ	CONJ	CONJ	17	эксплет	_	_
+20	мужчины	МУЖЧИНА	S	S m anim nom pl	S m anim nom pl	21	предик	_	_
+21	главнее	ГЛАВНЫЙ	A	A comp - - plen - -	A comp - - plen - -	19	подч-союзн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	а	А	CONJ	CONJ	CONJ	21	сент-соч	_	_
+24	о	О	PR	PR	PR	0	ROOT	_	_
+25	том	ТО	S	S n - loc sg	S n - loc sg	24	предл	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	что	ЧТО	CONJ	CONJ	CONJ	25	эксплет	_	_
+28	женщины	ЖЕНЩИНА	S	S f anim nom pl	S f anim nom pl	29	предик	_	_
+29	совершенней	СОВЕРШЕННЫЙ	A	A comp - - plen - -	A comp - - plen - -	27	подч-союзн	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Мужчина	МУЖЧИНА	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+2	–	–	–	–	PUNC	4	опред	_	_
+3	пробный	ПРОБНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	образец	ОБРАЗЕЦ	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+5	человека	ЧЕЛОВЕК	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	эскиз	ЭСКИЗ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	в то время как	в то время как	CONJ	CONJ	ZERO	7	сент-соч	_	_
+10	женщина	ЖЕНЩИНА	S	S f anim nom sg	S f anim nom sg	14	предик	_	_
+11	–	–	–	–	PUNC	14	опред	_	_
+12	окончательно	ОКОНЧАТЕЛЬНО	ADV	ADV -	ADV -	13	обст	_	_
+13	утвержденный	УТВЕРЖДАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	14	опред	_	_
+14	вариант	ВАРИАНТ	S	S m inan nom sg	S m inan nom sg	9	соч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	исправленный	ИСПРАВЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	14	сочин	_	_
+17	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+18	дополненный	ДОПОЛНЯТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	17	соч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Ведь	ВЕДЬ	PART	PART	PART	3	огранич	_	_
+2	это	ЭТО	S	S n - nom sg	S n - nom sg	3	предик	_	_
+3	яснее	ЯСНЫЙ	A	A comp - - plen - -	A comp - - plen - -	0	ROOT	_	_
+4	ясного	ЯСНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	сравнит	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	8	предик	_	_
+3	интересная	ИНТЕРЕСНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	8	суб-копр	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	настоящая	НАСТОЯЩИЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	жизнь	ЖИЗНЬ	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+7	почему-то	ПОЧЕМУ-ТО	ADV	ADV -	ADV -	8	обст	_	_
+8	принадлежит	ПРИНАДЛЕЖАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+9	мужчинам	МУЖЧИНА	S	S m anim dat pl	S m anim dat pl	8	2-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	9	сочин	_	_
+12	женщины	ЖЕНЩИНА	S	S f anim nom pl	S f anim nom pl	11	соч-союзн	_	_
+13	только	ТОЛЬКО	PART	PART	PART	14	огранич	_	_
+14	рожают	РОЖАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	8	сент-соч	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	вышивают	ВЫШИВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	15	соч-союзн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	рожают	РОЖАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	16	сочин	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	вышивают	ВЫШИВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	19	соч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Почему	ПОЧЕМУ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	такая	ТАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	несправедливость	НЕСПРАВЕДЛИВОСТЬ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Потому что	Потому что	CONJ	CONJ	ZERO	0	ROOT	_	_
+2	мужчины	МУЖЧИНА	S	S m anim gen sg	S m anim gen sg	3	предик	_	_
+3	сильнее	СИЛЬНЫЙ	A	A comp - - plen - -	A comp - - plen - -	1	соч-союзн	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Значит	ЗНАЧИТ	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	надо	НАДО	ADV	ADV -	ADV -	0	ROOT	_	_
+4	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	предик	_	_
+5	сильной	СИЛЬНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	4	присвяз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

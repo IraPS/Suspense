@@ -1,0 +1,15 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Проклятье	ПРОКЛЯТИЕ	S	S n inan loc sg	S n inan loc sg	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	как	КАК	ADV	ADV -	ADV -	13	огранич	_	_
+6	назло	НАЗЛО	ADV	ADV -	ADV -	13	огранич	_	_
+7	в	В	PR	PR	PR	11	огранич	_	_
+8	этом	ЭТОТ	A	A - loc sg plen m -	A - loc sg plen m -	10	опред	_	_
+9	чертовом	ЧЕРТОВЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	10	опред	_	_
+10	хранилище	ХРАНИЛИЩЕ	S	S n inan acc sg	S n inan acc sg	7	предл	_	_
+11	ни	НИ	CONJ	CONJ	CONJ	13	огранич	_	_
+12	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	13	количест	_	_
+13	окна	ОКНО	S	S n inan gen sg	S n inan gen sg	4	соч-союзн	_	_
+14	!	!	SENT	SENT	SENT	13	PUNC	_	_
+

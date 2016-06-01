@@ -1,0 +1,111 @@
+1	в	В	PR	PR	PR	4	обст	_	_
+2	которой	КОТОРЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	3	опред	_	_
+3	Фандорин	ФАНДОРИН	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+4	произносит	ПРОИЗНОСИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	длинную	ДЛИННЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	речь	РЕЧЬ	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Винер	ВИНЕР	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+3	цайтунг	ЦАЙТУНГ	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+4	»	»	_	_	PUNC	6	PUNC	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	Вена	ВЕНА	S	S f inan nom sg	S f inan nom sg	3	примыкат	_	_
+7	)	)	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	21	21	NUM	NUM - - -	NUM - - -	6	нум-аппоз	_	_
+10	(	(	_	_	PUNC	11	PUNC	_	_
+11	9	9	NUM	NUM - - -	NUM - - -	9	примыкат	_	_
+12	)	)	_	_	PUNC	11	PUNC	_	_
+13	января	ЯНВАРЬ	S	S m inan gen sg	S m inan gen sg	6	квазиагент	_	_
+14	1878	1878	NUM	NUM - - -	NUM - - -	15	опред	_	_
+15	г	Г	S	S m inan nonflex nonflex	S m inan nonflex nonflex	13	атриб	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	…	…	SENT	SENT	SENT	0	ROOT	_	_
+
+1	Соотношение	СООТНОШЕНИЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+2	сил	СИЛА	S	S f inan gen pl	S f inan gen pl	1	квазиагент	_	_
+3	между	МЕЖДУ	PR	PR	PR	2	квазиагент	_	_
+4	враждующими	ВРАЖДОВАТЬ	PARTCP	PARTCP ipf inpraes ins pl plen - act -	PARTCP ipf inpraes ins pl plen - act -	5	опред	_	_
+5	сторонами	СТОРОНА	S	S f inan ins pl	S f inan ins pl	3	предл	_	_
+6	на	НА	PR	PR	PR	5	атриб	_	_
+7	заключительном	ЗАКЛЮЧИТЕЛЬНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	8	опред	_	_
+8	этапе	ЭТАП	S	S m inan loc sg	S m inan loc sg	6	предл	_	_
+9	войны	ВОЙНА	S	S f inan gen sg	S f inan gen sg	8	квазиагент	_	_
+10	таково	ТАКОВ	A	A - nom sg plen n -	A - nom sg plen n -	12	вспом	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+13	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	15	предик	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	можем	МОЧЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	12	подч-союзн	_	_
+16	более	МНОГО	ADV	ADV comp	ADV comp	17	обст	_	_
+17	игнорировать	ИГНОРИРОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	15	1-компл	_	_
+18	опасность	ОПАСНОСТЬ	S	S f inan acc sg	S f inan acc sg	17	1-компл	_	_
+19	панславянской	ПАНСЛАВЯНСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	20	опред	_	_
+20	экспансии	ЭКСПАНСИЯ	S	S f inan gen sg	S f inan gen sg	18	квазиагент	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	угрожающей	УГРОЖАТЬ	PARTCP	PARTCP ipf inpraes loc sg plen f act -	PARTCP ipf inpraes loc sg plen f act -	18	опред	_	_
+23	южным	ЮЖНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	24	опред	_	_
+24	рубежам	РУБЕЖ	S	S m inan ins sg	S m inan ins sg	0	ROOT	_	_
+25	двуединой	ДВУЕДИНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	26	опред	_	_
+26	империи	ИМПЕРИЯ	S	S f inan gen sg	S f inan gen sg	24	квазиагент	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Царь	ЦАРЬ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+2	Александр	АЛЕКСАНДР	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	сателлиты	САТЕЛЛИТ	S	S m inan acc pl	S m inan acc pl	3	соч-союзн	_	_
+6	Румыния	РУМЫНИЯ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	Сербия	СЕРБИЯ	S	S f inan nom sg	S f inan nom sg	6	сочин	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	Черногория	ЧЕРНОГОРИЯ	S	S f inan nom sg	S f inan nom sg	9	соч-союзн	_	_
+11	сконцентрировали	СКОНЦЕНТРИРОВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	сент-соч	_	_
+12	700	700	NUM	NUM - - -	NUM - - -	16	опред	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	тысячный	ТЫСЯЧНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	16	опред	_	_
+15	железный	ЖЕЛЕЗНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	16	опред	_	_
+16	кулак	КУЛАК	S	S m inan acc sg	S m inan acc sg	11	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	оснащенный	ОСНАЩАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	16	опред	_	_
+19	полутора	ПОЛТОРА	NUM	NUM loc - -	NUM loc - -	20	количест	_	_
+20	тысячью	ТЫСЯЧА	S	S f inan ins sg	S f inan ins sg	18	2-компл	_	_
+21	пушек	ПУШКА	S	S f inan gen pl	S f inan gen pl	20	квазиагент	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	спрашивается	СПРАШИВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	против	ПРОТИВ	PR	PR	PR	0	ROOT	_	_
+6	кого	КТО	S	S m - gen sg	S m - gen sg	5	предл	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Против	ПРОТИВ	PR	PR	PR	11	обст	_	_
+2	деморализованной	ДЕМОРАЛИЗОВАТЬ	PARTCP	PARTCP ipf praet loc sg plen f pass -	PARTCP ipf praet loc sg plen f pass -	1	предл	_	_
+3	турецкой	ТУРЕЦКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	4	опред	_	_
+4	армии	АРМИЯ	S	S f inan gen sg	S f inan gen sg	2	квазиагент	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	11	предик	_	_
+7	по	ПО	PR	PR	PR	11	обст	_	_
+8	самым	САМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	9	опред	_	_
+9	оптимистическим	ОПТИМИСТИЧЕСКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	10	опред	_	_
+10	подсчетам	ПОДСЧЕТ	S	S m inan dat pl	S m inan dat pl	7	предл	_	_
+11	насчитывает	НАСЧИТЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+12	на	НА	PR	PR	PR	11	обст	_	_
+13	сегодняшний	СЕГОДНЯШНИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	14	опред	_	_
+14	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	12	предл	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	более	БОЛЕЕ	ADV	ADV -	ADV -	17	огранич	_	_
+17	120	120	NUM	NUM - - -	NUM - - -	18	количест	_	_
+18	тысяч	ТЫСЯЧА	S	S f inan gen -	S f inan gen -	19	огранич	_	_
+19	голодных	ГОЛОДНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	11	1-компл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	перепуганных	ПЕРЕПУГАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	19	сочин	_	_
+22	солдат	СОЛДАТ	S	S m anim gen pl	S m anim gen pl	21	1-компл	_	_
+23	?	?	SENT	SENT	SENT	22	PUNC	_	_
+

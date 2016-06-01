@@ -1,0 +1,23 @@
+1	Тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+2	гусар	ГУСАР	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	сделал	СДЕЛАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	паузу	ПАУЗА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	выжидательно	ВЫЖИДАТЕЛЬНО	ADV	ADV -	ADV -	7	обст	_	_
+7	глядя	ГЛЯДЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	3	обст	_	_
+8	на	НА	PR	PR	PR	7	1-компл	_	_
+9	барышню	БАРЫШНЯ	S	S f anim acc sg	S f anim acc sg	8	предл	_	_
+10	красивыми	КРАСИВЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	7	сочин	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	нахальными	НАХАЛЬНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	13	опред	_	_
+13	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	7	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	ждала	ЖДАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	последует	ПОСЛЕДОВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	4	подч-союзн	_	_
+6	дальше	ДАЛЕКО	ADV	ADV comp	ADV comp	5	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

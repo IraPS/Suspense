@@ -1,0 +1,41 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	тут	ТУТ	ADV	ADV -	ADV -	0	ROOT	_	_
+3	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+4	с	С	PR	PR	PR	3	атриб	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	свойственной	СВОЙСТВЕННЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	12	обст	_	_
+7	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	6	1-компл	_	_
+8	в	В	PR	PR	PR	6	атриб	_	_
+9	обычных	ОБЫЧНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	10	опред	_	_
+10	обстоятельствах	ОБСТОЯТЕЛЬСТВО	S	S n inan loc pl	S n inan loc pl	8	предл	_	_
+11	бесцеремонностью	БЕСЦЕРЕМОННОСТЬ	S	S f inan ins sg	S f inan ins sg	12	обст	_	_
+12	вылез	ВЫЛЕЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	предл	_	_
+13	вперед	ВПЕРЕД	ADV	ADV -	ADV -	12	2-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	дал	ДАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	сочин	_	_
+17	договорить	ДОГОВАРИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	16	1-компл	_	_
+18	:	:	:	:	PUNC	20	опред	_	_
+19	–	–	–	–	PUNC	20	опред	_	_
+20	Скажите	СКАЗАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	16	сочин	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	20	об-аппоз	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	20	1-компл	_	_
+25	ли	ЛИ	PART	PART	PART	24	огранич	_	_
+26	у	У	PR	PR	PR	24	присвяз	_	_
+27	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	26	предл	_	_
+28	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	24	разъяснит	_	_
+29	-	-	-	-	PUNC	28	PUNC	_	_
+30	перед	ПЕРЕД	PR	PR	PR	28	обст	_	_
+31	самым	САМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	32	опред	_	_
+32	штурмом	ШТУРМ	S	S m inan ins sg	S m inan ins sg	30	предл	_	_
+33	корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	28	предик	_	_
+34	газеты	ГАЗЕТА	S	S f inan gen sg	S f inan gen sg	33	1-компл	_	_
+35	«	«	_	_	PUNC	34	PUNC	_	_
+36	Дейли	ДЕЙЛИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	34	аппоз	_	_
+37	пост	ПОСТ	S	S m inan acc sg	S m inan acc sg	28	1-компл	_	_
+38	»	»	_	_	PUNC	37	PUNC	_	_
+39	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	28	предик	_	_
+40	?	?	SENT	SENT	SENT	39	PUNC	_	_
+

@@ -1,0 +1,97 @@
+1	Жизнь	ЖИЗНЬ	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	кипела	КИПЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	лишь	ЛИШЬ	PART	PART	PART	4	огранич	_	_
+4	за	ЗА	PR	PR	PR	2	обст	_	_
+5	карточным	КАРТОЧНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	6	опред	_	_
+6	столом	СТОЛ	S	S m inan ins sg	S m inan ins sg	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	где	ГДЕ	ADV	ADV -	ADV -	13	обст	_	_
+9	вторые	ВТОРОЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	опред	_	_
+10	сутки	СУТКИ	S	S - inan acc pl	S - inan acc pl	13	обст	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	прекращаясь	ПРЕКРАЩАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	13	обст	_	_
+13	шла	ИДТИ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	сент-соч	_	_
+14	игра	ИГРА	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Бледный	БЛЕДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	дымя	ДЫМИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	обст	_	_
+5	сигарой	СИГАРА	S	S f inan ins sg	S f inan ins sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	быстро	БЫСТРО	ADV	ADV -	ADV -	8	обст	_	_
+8	сдавал	СДАВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+9	карты	КАРТА	S	S f inan acc pl	S f inan acc pl	8	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+2	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	4	1-компл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	ел	ЕСТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	зато	ЗАТО	CONJ	CONJ	CONJ	4	сочин	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	переставая	ПЕРЕСТАВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	обст	_	_
+9	пил	ПИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	соч-союзн	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	при	ПРИ	PR	PR	PR	0	ROOT	_	_
+12	этом	ЭТО	S	S n - loc sg	S n - loc sg	15	1-компл	_	_
+13	нисколько	НИСКОЛЬКО	ADV	ADV -	ADV -	15	обст	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	пьянел	ПЬЯНЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Возле	ВОЗЛЕ	PR	PR	PR	4	1-компл	_	_
+2	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	квазиагент	_	_
+3	локтя	ЛОКОТЬ	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+4	выросла	ВЫРАСТАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	гора	ГОРА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+6	банкнот	БАНКНОТ	S	S f inan gen pl	S f inan gen pl	5	квазиагент	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	золотых	ЗОЛОТОЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	монет	МОНЕТА	S	S f inan gen pl	S f inan gen pl	6	сочин	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	долговых	ДОЛГОВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	12	опред	_	_
+12	расписок	РАСПИСКА	S	S f inan gen pl	S f inan gen pl	10	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Напротив	НАПРОТИВ	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	ероша	ЕРОШИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	6	обст	_	_
+4	волосы	ВОЛОС	S	S m inan acc pl	S m inan acc pl	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	обезумевший	ОБЕЗУМЕТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	6	1-компл	_	_
+8	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+9	Лукан	ЛУКАН	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Рядом	РЯДОМ	ADV	ADV -	ADV -	2	обст	_	_
+2	спал	СПАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	какой-то	КАКОЙ-ТО	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	офицер	ОФИЦЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	8	квазиагент	_	_
+7	светло-русая	СВЕТЛО-РУСЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	8	опред	_	_
+8	голова	ГОЛОВА	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+9	лежала	ЛЕЖАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	релят	_	_
+10	на	НА	PR	PR	PR	9	обст	_	_
+11	скрещенных	СКРЕЩИВАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	12	опред	_	_
+12	руках	РУКА	S	S f inan loc pl	S f inan loc pl	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Поблизости	ПОБЛИЗОСТИ	ADV	ADV -	ADV -	4	обст	_	_
+2	жирным	ЖИРНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	3	опред	_	_
+3	мотыльком	МОТЫЛЕК	S	S m anim ins sg	S m anim ins sg	4	присвяз	_	_
+4	порхал	ПОРХАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	буфетчик	БУФЕТЧИК	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	ловя	ЛОВИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	0	ROOT	_	_
+8	на	НА	PR	PR	PR	7	обст	_	_
+9	лету	ЛЕТ	S	S m inan loc2 sg	S m inan loc2 sg	8	предл	_	_
+10	пожелания	ПОЖЕЛАНИЕ	S	S n inan acc pl	S n inan acc pl	7	1-компл	_	_
+11	везучего	ВЕЗУЧИЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	гусара	ГУСАР	S	S m anim gen sg	S m anim gen sg	10	квазиагент	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

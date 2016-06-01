@@ -1,0 +1,25 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	г	Г	S	S m inan nonflex nonflex	S m inan nonflex nonflex	1	соч-союзн	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Зверков	ЗВЕРОК	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	докончив	ДОКАНЧИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	7	обст	_	_
+5	речи	РЕЧЬ	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	отворотил	ОТВОРАЧИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	завернулся	ЗАВЕРТЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+11	плотнее	ПЛОТНЫЙ	A	A comp - - plen - -	A comp - - plen - -	10	2-компл	_	_
+12	в	В	PR	PR	PR	10	обст	_	_
+13	свой	СВОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	14	опред	_	_
+14	плащ	ПЛАЩ	S	S m inan acc sg	S m inan acc sg	12	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	мужественно	МУЖЕСТВЕННО	ADV	ADV -	ADV -	17	обст	_	_
+17	подавляя	ПОДАВЛЯТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	обст	_	_
+18	невольное	НЕВОЛЬНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	17	1-компл	_	_
+19	волнение	ВОЛНЕНИЕ	S	S n inan acc sg	S n inan acc sg	10	1-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

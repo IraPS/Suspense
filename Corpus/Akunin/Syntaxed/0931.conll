@@ -1,0 +1,21 @@
+1	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	3	опред	_	_
+2	'	'	_	_	PUNC	1	PUNC	_	_
+3	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	5	1-компл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	смотрел	СМОТРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	титулярного	ТИТУЛЯРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	3	предл	_	_
+6	внимательно	ВНИМАТЕЛЬНО	ADV	ADV -	ADV -	0	ROOT	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	казалось	КАЗАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	12	вводн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	чего-то	ЧТО-ТО	S	S n - gen sg	S n - gen sg	12	1-компл	_	_
+12	ждал	ЖДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

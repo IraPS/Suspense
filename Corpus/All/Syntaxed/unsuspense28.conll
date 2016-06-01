@@ -1,0 +1,71 @@
+1	Та	ТОТ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	черта	ЧЕРТА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+4	характера	ХАРАКТЕР	S	S m inan gen sg	S m inan gen sg	3	квазиагент	_	_
+5	проявлялась	ПРОЯВЛЯТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+6	у	У	PR	PR	PR	5	1-компл	_	_
+7	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	6	предл	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+9	в отношении	в отношении	PR	PR	ZERO	8	соч-союзн	_	_
+10	сладостей	СЛАДОСТЬ	S	S f inan gen pl	S f inan gen pl	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	18	суб-копр	_	_
+13	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	18	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	будучи	БЫТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	18	обст	_	_
+16	мальчиком	МАЛЬЧИК	S	S m anim ins sg	S m anim ins sg	15	присвяз	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	получал	ПОЛУЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	разъяснит	_	_
+19	в	В	PR	PR	PR	18	2-компл	_	_
+20	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	19	предл	_	_
+21	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	22	опред	_	_
+22	Ангела	АНГЕЛ	S	S m anim acc sg	S m anim acc sg	18	1-компл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	на	НА	PR	PR	PR	18	обст	_	_
+25	большие	БОЛЬШОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	26	опред	_	_
+26	праздники	ПРАЗДНИК	S	S m inan acc pl	S m inan acc pl	24	предл	_	_
+27	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+28	т.п	Т.П	S	S - - nonflex nonflex	S - - nonflex nonflex	27	соч-союзн	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+2	всегда	ВСЕГДА	ADV	ADV -	ADV -	4	обст	_	_
+3	щедро	ЩЕДРО	ADV	ADV -	ADV -	4	обст	_	_
+4	угощал	УГОЩАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	ими	ОНИ	SPRO	SPRO pl - - ins	SPRO pl - - ins	4	1-компл	_	_
+6	близких	БЛИЗКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	0	ROOT	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	умел	УМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	соч-союзн	_	_
+10	беречь	БЕРЕЧЬ	V	V ipf - - inf - -	V ipf - - inf - -	9	1-компл	_	_
+11	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	10	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Зная	ЗНАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	обст	_	_
+2	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	3	опред	_	_
+3	слабость	СЛАБОСТЬ	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+4	невоздержания	НЕВОЗДЕРЖАНИЕ	S	S n inan acc pl	S n inan acc pl	11	1-компл	_	_
+5	при	ПРИ	PR	PR	PR	4	обст	_	_
+6	избытке	ИЗБЫТОК	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+7	сладостей	СЛАДОСТЬ	S	S f inan gen pl	S f inan gen pl	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	11	предик	_	_
+10	часто	ЧАСТО	ADV	ADV -	ADV -	11	обст	_	_
+11	отдавал	ОТДАВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+12	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	13	квазиагент	_	_
+13	сестре	СЕСТРА	S	S f anim dat sg	S f anim dat sg	11	2-компл	_	_
+14	с	С	PR	PR	PR	11	обст	_	_
+15	просьбой	ПРОСЬБА	S	S f inan ins sg	S f inan ins sg	14	предл	_	_
+16	:	:	:	:	PUNC	0	ROOT	_	_
+17	«	«	_	_	PUNC	16	PUNC	_	_
+18	Спрячь	СПРЯТАТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	16	сочин	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	Тяпик	ТЯПИК	S	S m anim nom sg	S m anim nom sg	18	вводн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	а то	а то	CONJ	CONJ	ZERO	18	1-компл	_	_
+23	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	25	предик	_	_
+24	все	ВСЕ	S	S - - acc pl	S - - acc pl	25	1-компл	_	_
+25	съем	СЪЕДАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	22	подч-союзн	_	_
+26	»	»	_	_	PUNC	25	PUNC	_	_
+27	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

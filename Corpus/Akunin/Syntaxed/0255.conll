@@ -1,0 +1,29 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	3	1-компл	_	_
+3	свидеться	СВИДЕТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	5	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	довелось	ДОВОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Вестовой	ВЕСТОВОЙ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	принес	ПРИНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	из	ИЗ	PR	PR	PR	2	1-компл	_	_
+4	штаба	ШТАБ	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	записку	ЗАПИСКА	S	S f inan acc sg	S f inan acc sg	2	неакт-компл	_	_
+6	:	:	:	:	PUNC	2	2-компл	_	_
+7	«	«	_	_	PUNC	6	PUNC	_	_
+8	Всю	ВЕСЬ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	ночь	НОЧЬ	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+10	служба	СЛУЖБА	S	S f inan nom sg	S f inan nom sg	2	неакт-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Завтра	ЗАВТРА	ADV	ADV -	ADV -	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Люблю	ЛЮБИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	П.	П.	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+2	»	»	_	_	PUNC	1	PUNC	_	_
+3	.	.	SENT	SENT	SENT	1	PUNC	_	_
+

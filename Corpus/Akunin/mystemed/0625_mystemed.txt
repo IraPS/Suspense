@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"Так"}
+{"analysis":[{"lex":"пасть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"пал"}
+{"analysis":[{"lex":"третий","gr":"ANUM=acc,sg,m,inan"},{"lex":"третий","gr":"ANUM=nom,sg,m"}],"text":"третий"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"гонец","gr":"S,m,anim=acc,pl"},{"lex":"гонец","gr":"S,m,anim=gen,pl"}],"text":"гонцов"}
+{"analysis":[{"lex":"отправлять","gr":"V,tran=praet,abl,pl,partcp,plen,pf,pass"},{"lex":"отправлять","gr":"V,tran=praet,acc,pl,partcp,plen,pf,pass,anim"},{"lex":"отправлять","gr":"V,tran=praet,gen,pl,partcp,plen,pf,pass"}],"text":"отправленных"}
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=dat,pl"},{"lex":"соболев","gr":"S,famn,m,anim=ins,sg"}],"text":"Соболевым"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"государь","gr":"S,m,anim=dat,sg"}],"text":"Государю"}

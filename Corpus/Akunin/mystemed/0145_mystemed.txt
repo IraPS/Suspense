@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Фандорин"}
+{"analysis":[{"lex":"заминаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"замялся"}
+{"analysis":[{"lex":"явно","gr":"ADV="}],"text":"явно"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"желать","gr":"V,ipf,tran=inpraes,ger"}],"text":"желая"}
+{"analysis":[{"lex":"говорить","gr":"V,ipf,tran=inf"}],"text":"говорить"}

@@ -1,0 +1,150 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Ах	АХ	INTJ	INTJ	INTJ	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+5	Барбара	БАРБАРА	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	если	ЕСЛИ	CONJ	CONJ	CONJ	4	обст	_	_
+8	бы	БЫ	PART	PART	PART	10	аналит	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+10	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	подч-союзн	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	 	 	 	 	PUNC	17	2-компл	_	_
+15	–	–	–	–	PUNC	17	1-компл	_	_
+16	горько	ГОРЬКО	ADV	ADV -	ADV -	17	обст	_	_
+17	усмехнулся	УСМЕХАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	изъясн	_	_
+18	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	17	1-компл	_	_
+19	'	'	_	_	PUNC	18	PUNC	_	_
+20	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	17	сочин	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	не	НЕ	PART	PART	PART	23	огранич	_	_
+23	ведая	ВЕДАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	17	обст	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	что	ЧТО	CONJ	CONJ	CONJ	23	1-компл	_	_
+26	почти	ПОЧТИ	ADV	ADV -	ADV -	27	огранич	_	_
+27	дословно	ДОСЛОВНО	ADV	ADV -	ADV -	28	обст	_	_
+28	повторяет	ПОВТОРЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	25	подч-союзн	_	_
+29	обожаемого	ОБОЖАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m pass anim	PARTCP ipf inpraes acc sg plen m pass anim	30	опред	_	_
+30	Варей	ВАРЯ	S	S f anim ins sg	S f anim ins sg	28	1-компл	_	_
+31	Пьера	ПЬЕР	S	S m anim gen sg	S m anim gen sg	30	квазиагент	_	_
+32	Безухова	БЕЗУХОВ	S	S m anim gen sg	S m anim gen sg	31	аппоз	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	бы	БЫ	PART	PART	PART	5	аналит	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	подч-союзн	_	_
+6	в	В	PR	PR	PR	5	обст	_	_
+7	ином	ИНОЙ	A	A - loc sg plen n -	A - loc sg plen n -	8	опред	_	_
+8	положении	ПОЛОЖЕНИЕ	S	S n inan loc sg	S n inan loc sg	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	с	С	PR	PR	PR	5	обст	_	_
+11	иным	ИНОЙ	A	A - ins sg plen m -	A - ins sg plen m -	12	опред	_	_
+12	характером	ХАРАКТЕР	S	S m inan ins sg	S m inan ins sg	10	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	с	С	PR	PR	PR	5	присвяз	_	_
+15	иной	ИНОЙ	A	A - ins sg plen f -	A - ins sg plen f -	16	опред	_	_
+16	судьбой	СУДЬБА	S	S f inan ins sg	S f inan ins sg	14	предл	_	_
+17	…	…	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	посмотрел	ПОСМОТРЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	обст	_	_
+5	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	4	предл	_	_
+6	так	ТАК	ADV	ADV -	ADV -	3	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	3	предик	_	_
+9	сердце	СЕРДЦЕ	S	S n inan nom sg	S n inan nom sg	14	предик	_	_
+10	у	У	PR	PR	PR	14	обст	_	_
+11	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	10	предл	_	_
+12	в	В	PR	PR	PR	10	уточн	_	_
+13	груди	ГРУДЬ	S	S f inan loc2 sg	S f inan loc2 sg	12	предл	_	_
+14	запрыгало	ЗАПРЫГАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	8	подч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	как	КАК	CONJ	CONJ	CONJ	14	сравнит	_	_
+17	через	ЧЕРЕЗ	PR	PR	PR	16	сравн-союзн	_	_
+18	скакалку	СКАКАЛКА	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+3	бы	БЫ	PART	PART	PART	5	аналит	_	_
+4	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	5	обст	_	_
+5	посоперничал	ПОСОПЕРНИЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	с	С	PR	PR	PR	5	2-компл	_	_
+7	блистательным	БЛИСТАТЕЛЬНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	8	опред	_	_
+8	Мишелем	МИШЕЛЬ	S	S m anim ins sg	S m anim ins sg	6	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Как	КАК	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	бы	БЫ	PART	PART	PART	3	аналит	_	_
+5	у	У	PR	PR	PR	3	присвяз	_	_
+6	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	5	предл	_	_
+7	против	ПРОТИВ	PR	PR	PR	3	обст	_	_
+8	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	7	предл	_	_
+9	хоть	ХОТЬ	PART	PART	PART	10	огранич	_	_
+10	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	11	количест	_	_
+11	шанс	ШАНС	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+12	?	?	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	предик	_	_
+2	Конечно	КОНЕЧНО	ADV	ADV -	ADV -	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	бы	БЫ	PART	PART	PART	4	аналит	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	 	 	 	 	PUNC	10	обст	_	_
+8	–	–	–	–	PUNC	10	1-компл	_	_
+9	честно	ЧЕСТНО	ADV	ADV -	ADV -	10	обст	_	_
+10	ответила	ОТВЕЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	сент-соч	_	_
+11	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+12	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+13	спохватилась	СПОХВАТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	12	соч-союзн	_	_
+14	–	–	–	–	PUNC	16	1-компл	_	_
+15	это	ЭТО	S	S n - nom sg	S n - nom sg	16	предик	_	_
+16	прозвучало	ПРОЗВУЧАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	13	1-компл	_	_
+17	как	КАК	CONJ	CONJ	CONJ	16	2-компл	_	_
+18	приглашение	ПРИГЛАШЕНИЕ	S	S n inan nom sg	S n inan nom sg	17	сравн-союзн	_	_
+19	к	К	PR	PR	PR	18	1-компл	_	_
+20	флирту	ФЛИРТ	S	S m inan dat sg	S m inan dat sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	хочу	ХОТЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+4	сказать	СКАЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	у	У	PR	PR	PR	12	обст	_	_
+8	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	Шарль	ШАРЛЬ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	6	подч-союзн	_	_
+13	бы	БЫ	PART	PART	PART	12	аналит	_	_
+14	шансов	ШАНС	S	S m inan gen pl	S m inan gen pl	12	предик	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	меньше	МАЛО	ADV	ADV comp	ADV comp	12	присвяз	_	_
+17	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	больше	МНОГО	ADV	ADV comp	ADV comp	17	соч-союзн	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	чем	ЧЕМ	CONJ	CONJ	CONJ	19	сравнит	_	_
+22	у	У	PR	PR	PR	21	сравн-союзн	_	_
+23	Михаила	МИХАИЛ	S	S m anim gen sg	S m anim gen sg	22	предл	_	_
+24	Дмитриевича	ДМИТРИЕВИЧ	S	S m anim gen sg	S m anim gen sg	23	аппоз	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	То есть	То есть	ADV	ADV -	-	2	огранич	_	_
+2	никаких	НИКАКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Почти	ПОЧТИ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+

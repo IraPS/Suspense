@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}
+{"analysis":[{"lex":"взвизгивать","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"взвизгнула"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"чуть","gr":"ADV="}],"text":"чуть"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"бросаться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"бросилась"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=dat"}],"text":"ему"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"шея","gr":"S,f,inan=acc,sg"}],"text":"шею"}
+{"analysis":[{"lex":"да","gr":"CONJ="}],"text":"да"}
+{"analysis":[{"lex":"вовремя","gr":"ADV="}],"text":"вовремя"}
+{"analysis":[{"lex":"спохватываться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"спохватилась"}

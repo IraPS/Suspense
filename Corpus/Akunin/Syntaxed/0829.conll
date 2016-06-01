@@ -1,0 +1,50 @@
+1	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	понял	ПОНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	смысл	СМЫСЛ	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+4	взгляда	ВЗГЛЯД	S	S m inan gen sg	S m inan gen sg	3	квазиагент	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+7	:	:	:	:	PUNC	10	опред	_	_
+8	–	–	–	–	PUNC	10	опред	_	_
+9	Ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	10	опред	_	_
+10	величество	ВЕЛИЧЕСТВО	S	S n inan nom sg	S n inan nom sg	6	2-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	13	предик	_	_
+13	понимаю	ПОНИМАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	2	сент-соч	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	куда	КУДА	ADV	ADV -	ADV -	16	2-компл	_	_
+16	клонит	КЛОНИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	13	1-компл	_	_
+17	Михаил	МИХАИЛ	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+18	Александрович	АЛЕКСАНДРОВИЧ	S	S m anim nom sg	S m anim nom sg	17	аппоз	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	пришел	ПРИХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	3-компл	_	_
+4	тому	ТОТ	A	A - dat sg plen m -	A - dat sg plen m -	6	опред	_	_
+5	же	ЖЕ	PART	PART	PART	4	огранич	_	_
+6	умозаключению	УМОЗАКЛЮЧЕНИЕ	S	S n inan dat sg	S n inan dat sg	3	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+9	привел	ПРИВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+10	с	С	PR	PR	PR	9	обст	_	_
+11	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	10	предл	_	_
+12	титулярного	ТИТУЛЯРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	опред	_	_
+13	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	9	1-компл	_	_
+14	Фандорина	ФАНДОРИН	S	S m anim gen sg	S m anim gen sg	13	аппоз	_	_
+15	неслучайно	НЕСЛУЧАЙНО	ADV	ADV -	ADV -	9	обст	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	госпожу	ГОСПОЖА	S	S f anim acc sg	S f anim acc sg	4	1-компл	_	_
+4	Суворову	СУВОРОВ	S	S m anim dat sg	S m anim dat sg	11	1-компл	_	_
+5	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	9	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	пожалуй	ПОЖАЛУЙ	PART	PART	PART	9	вводн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	могли	МОЧЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	соч-союзн	_	_
+10	бы	БЫ	PART	PART	PART	9	аналит	_	_
+11	отпустить	ОТПУСКАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

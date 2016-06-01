@@ -1,0 +1,120 @@
+1	Следующую	СЛЕДУЮЩИЙ	A	A - acc sg plen f -	A - acc sg plen f -	2	опред	_	_
+2	неделю	НЕДЕЛЯ	S	S f inan acc sg	S f inan acc sg	5	длительн	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+4	осторожно	ОСТОРОЖНО	ADV	ADV -	ADV -	5	обст	_	_
+5	расспрашивала	РАССПРАШИВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+6	служащих	СЛУЖАЩИЙ	S	S m anim acc pl	S m anim acc pl	5	1-компл	_	_
+7	отеля	ОТЕЛЬ	S	S m inan gen sg	S m inan gen sg	6	атриб	_	_
+8	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+9	пришла	ПРИХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+10	к	К	PR	PR	PR	9	2-компл	_	_
+11	неутешительному	НЕУТЕШИТЕЛЬНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	12	опред	_	_
+12	выводу	ВЫВОД	S	S m inan dat sg	S m inan dat sg	10	предл	_	_
+13	:	:	:	:	PUNC	19	опред	_	_
+14	про	ПРО	PR	PR	PR	13	3-компл	_	_
+15	бобра	БОБР	S	S m anim gen sg	S m anim gen sg	14	предл	_	_
+16	-	-	-	-	PUNC	15	PUNC	_	_
+17	енота	ЕНОТ	S	S m anim gen sg	S m anim gen sg	15	аппоз	_	_
+18	-	-	-	-	PUNC	17	PUNC	_	_
+19	суслика	СУСЛИК	S	S m anim acc sg	S m anim acc sg	12	1-компл	_	_
+20	-	-	-	-	PUNC	19	PUNC	_	_
+21	скунса	СКУНС	S	S f inan nom sg	S f inan nom sg	12	аппоз	_	_
+22	знали	ЗНАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	5	сент-соч	_	_
+23	абсолютно	АБСОЛЮТНО	ADV	ADV -	ADV -	24	огранич	_	_
+24	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	22	1-компл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Правда	ПРАВДА	ADV	ADV -	ADV -	9	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	горничная	ГОРНИЧНАЯ	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	повариха	ПОВАРИХА	S	S f anim nom sg	S f anim nom sg	3	аппоз	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+7	остальной	ОСТАЛЬНОЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	персонал	ПЕРСОНАЛ	S	S m inan nom sg	S m inan nom sg	6	соч-союзн	_	_
+9	называли	НАЗЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+10	четвероногого	ЧЕТВЕРОНОГИЙ	A	A - gen sg plen n -	A - gen sg plen n -	11	огранич	_	_
+11	по-разному	ПО-РАЗНОМУ	ADV	ADV -	ADV -	9	обст	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	9	сент-соч	_	_
+14	суть	СУТЬ	S	S f inan nom sg	S f inan nom sg	18	предик	_	_
+15	от	ОТ	PR	PR	PR	14	квазиагент	_	_
+16	этого	ЭТО	S	S n - gen sg	S n - gen sg	15	предл	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	менялась	МЕНЯТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	13	соч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	С	С	PR	PR	PR	8	обст	_	_
+2	каждым	КАЖДЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	3	опред	_	_
+3	членом	ЧЛЕН	S	S m anim ins sg	S m anim ins sg	1	предл	_	_
+4	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	коллектива	КОЛЛЕКТИВ	S	S m inan gen sg	S m inan gen sg	3	1-компл	_	_
+6	Раиса	РАИСА	S	S f anim nom sg	S f anim nom sg	3	аппоз	_	_
+7	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	6	аппоз	_	_
+8	побеседовала	ПОБЕСЕДОВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+9	о	О	PR	PR	PR	8	1-компл	_	_
+10	наглом	НАГЛЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	11	опред	_	_
+11	млекопитающем	МЛЕКОПИТАЮЩЕЕ	S	S n inan loc sg	S n inan loc sg	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	которое	КОТОРЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	18	предик	_	_
+14	на	НА	PR	PR	PR	18	обст	_	_
+15	чистом	ЧИСТЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	17	опред	_	_
+16	русском	РУССКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	17	опред	_	_
+17	языке	ЯЗЫК	S	S m inan loc sg	S m inan loc sg	14	предл	_	_
+18	предсказывало	ПРЕДСКАЗЫВАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	8	сент-соч	_	_
+19	хозяйке	ХОЗЯЙКА	S	S f anim dat sg	S f anim dat sg	18	1-компл	_	_
+20	гостиницы	ГОСТИНИЦА	S	S f inan gen sg	S f inan gen sg	19	квазиагент	_	_
+21	:	:	:	:	PUNC	18	сент-соч	_	_
+22	«	«	_	_	PUNC	21	PUNC	_	_
+23	Ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	25	предик	_	_
+24	скоро	СКОРО	ADV	ADV -	ADV -	25	обст	_	_
+25	умрешь	УМИРАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	21	сент-соч	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	жить	ЖИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	29	предик	_	_
+28	тебе	ТЫ	SPRO	SPRO sg 2p - loc	SPRO sg 2p - loc	27	1-компл	_	_
+29	осталось	ОСТАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	25	сент-соч	_	_
+30	недолго	НЕДОЛГО	ADV	ADV -	ADV -	29	обст	_	_
+31	»	»	_	_	PUNC	30	PUNC	_	_
+32	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	Звягина	ЗВЯГИН	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	просила	ПРОСИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	обслугу	ОБСЛУГА	S	S f anim acc sg	S f anim acc sg	2	1-компл	_	_
+4	никому	НИКТО	S	S m - dat sg	S m - dat sg	6	1-компл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	рассказывать	РАССКАЗЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	2-компл	_	_
+7	про	ПРО	PR	PR	PR	6	3-компл	_	_
+8	енота	ЕНОТ	S	S m anim gen sg	S m anim gen sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+11	разве	РАЗВЕ	PART	PART	PART	14	огранич	_	_
+12	ж	Ж	PART	PART	PART	14	огранич	_	_
+13	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	14	предик	_	_
+14	могла	МОЧЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	10	соч-союзн	_	_
+15	заставить	ЗАСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	14	1-компл	_	_
+16	держать	ДЕРЖАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	15	2-компл	_	_
+17	за	ЗА	PR	PR	PR	16	1-компл	_	_
+18	зубами	ЗУБ	S	S m inan ins pl	S m inan ins pl	17	предл	_	_
+19	такую	ТАКОЙ	A	A - acc sg plen f -	A - acc sg plen f -	20	опред	_	_
+20	новость	НОВОСТЬ	S	S f inan acc sg	S f inan acc sg	15	1-компл	_	_
+21	?	?	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Очень	ОЧЕНЬ	ADV	ADV -	ADV -	2	огранич	_	_
+2	скоро	СКОРО	ADV	ADV -	ADV -	6	обст	_	_
+3	весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	коллектив	КОЛЛЕКТИВ	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+5	шепотом	ШЕПОТОМ	ADV	ADV -	ADV -	6	обст	_	_
+6	обсуждал	ОБСУЖДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	:	:	:	:	PUNC	0	ROOT	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+9	произойдет	ПРОИСХОДИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	8	подч-союзн	_	_
+10	с	С	PR	PR	PR	9	2-компл	_	_
+11	гостиницей	ГОСТИНИЦА	S	S f inan ins sg	S f inan ins sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	когда	КОГДА	CONJ	CONJ	CONJ	9	обст	_	_
+14	Раиса	РАИСА	S	S f anim nom sg	S f anim nom sg	17	предик	_	_
+15	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	14	аппоз	_	_
+16	окончательно	ОКОНЧАТЕЛЬНО	ADV	ADV -	ADV -	17	обст	_	_
+17	спятит	СПЯТИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	13	подч-союзн	_	_
+18	?	?	SENT	SENT	SENT	17	PUNC	_	_
+

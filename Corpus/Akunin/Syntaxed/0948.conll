@@ -1,0 +1,49 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	вздрогнула	ВЗДРАГИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вспомнив	ВСПОМНИТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	как	КАК	CONJ	CONJ	CONJ	4	сравнит	_	_
+7	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	6	сравн-союзн	_	_
+8	'	'	_	_	PUNC	7	PUNC	_	_
+9	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	2	вводн	_	_
+10	говорил	ГОВОРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	1-компл	_	_
+11	о	О	PR	PR	PR	10	3-компл	_	_
+12	горячо	ГОРЯЧО	ADV	ADV -	ADV -	13	огранич	_	_
+13	любимом	ЛЮБИМЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	14	опред	_	_
+14	отце	ОТЕЦ	S	S m anim loc sg	S m anim loc sg	11	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	живущем	ЖИТЬ	PARTCP	PARTCP ipf inpraes loc sg plen m act -	PARTCP ipf inpraes loc sg plen m act -	14	опред	_	_
+17	во	ВО	PR	PR	PR	16	обст	_	_
+18	Франции	ФРАНЦИЯ	S	S f inan loc sg	S f inan loc sg	17	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Неужели	НЕУЖЕЛИ	PART	PART	PART	4	огранич	_	_
+2	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+3	это	ЭТО	S	S n - nom sg	S n - nom sg	4	опред	_	_
+4	правда	ПРАВДА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	4	предик	_	_
+2	в	В	PR	PR	PR	4	обст	_	_
+3	ужасе	УЖАС	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	взглянула	ВЗГЛЯДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	1-компл	_	_
+6	корреспондента	КОРРЕСПОНДЕНТ	S	S m anim gen sg	S m anim gen sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	3	предик	_	_
+2	по-прежнему	ПО-ПРЕЖНЕМУ	ADV	ADV -	ADV -	3	обст	_	_
+3	сохранял	СОХРАНЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	полнейшее	ПОЛНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	5	опред	_	_
+5	хладнокровие	ХЛАДНОКРОВИЕ	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+8	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+9	улыбка	УЛЫБКА	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+10	показалась	ПОКАЗЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+11	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	10	1-компл	_	_
+12	несколько	НЕСКОЛЬКО	ADV	ADV -	ADV -	13	колич-огран	_	_
+13	вымученной	ВЫМУЧИВАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	10	2-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

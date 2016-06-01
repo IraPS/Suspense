@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"давать","gr":"V,tran=sg,imper,2p,ipf"}],"text":"Давай"}
+{"analysis":[{"lex":"семенец","qual":"bastard","gr":"S,m,anim=acc,pl"},{"lex":"семенец","qual":"bastard","gr":"S,m,anim=gen,pl"}],"text":"Семенцов"}
+{"analysis":[{"lex":"давать","gr":"V,tran=sg,imper,2p,ipf"}],"text":"давай"}
+{"analysis":[{"lex":"шептать","gr":"V,ipf,tran=praet,sg,indic,f"}],"text":"шептала"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"сжинать","gr":"V=praet,ger,pf"}],"text":"сжав"}
+{"analysis":[{"lex":"кулак","gr":"S,m,inan=acc,pl"},{"lex":"кулак","gr":"S,m,inan=nom,pl"}],"text":"кулаки"}

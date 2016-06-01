@@ -1,0 +1,62 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	1	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	чтоб	ЧТОБ	CONJ	CONJ	CONJ	1	обст	_	_
+6	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	7	1-компл	_	_
+7	провалиться	ПРОВАЛИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	5	инф-союзн	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	предик	_	_
+2	ринулся	РИНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	2-компл	_	_
+4	Фандорина	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	гусар	ГУСАР	S	S m anim nom sg	S m anim nom sg	2	разъяснит	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+7	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+8	трясти	ТРЯСТИ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+9	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	8	1-компл	_	_
+10	за	ЗА	PR	PR	PR	8	2-компл	_	_
+11	плечи	ПЛЕЧО	S	S n inan acc pl	S n inan acc pl	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	да	ДА	CONJ	CONJ	CONJ	7	сочин	_	_
+14	так	ТАК	ADV	ADV -	ADV -	15	огранич	_	_
+15	усердно	УСЕРДНО	ADV	ADV -	ADV -	13	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	что	ЧТО	CONJ	CONJ	CONJ	14	1-компл	_	_
+18	голова	ГОЛОВА	S	S f inan nom sg	S f inan nom sg	22	предик	_	_
+19	у	У	PR	PR	PR	22	обст	_	_
+20	Эраста	ЭРАСТ	S	S m anim acc sg	S m anim acc sg	19	предл	_	_
+21	Петровича	ПЕТРОВИЧ	S	S m anim gen sg	S m anim gen sg	20	аппоз	_	_
+22	замоталась	ЗАМАТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	17	подч-союзн	_	_
+23	взад-вперед.	ВЗАД-ВПЕРЕД.	ADV	ADV -	ADV -	24	обст	_	_
+24	–	–	–	–	PUNC	22	1-компл	_	_
+25	А	А	CONJ	CONJ	CONJ	22	обст	_	_
+26	говорили	ГОВОРИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	25	соч-союзн	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	тебя	ТЫ	SPRO	SPRO sg 2p - acc	SPRO sg 2p - acc	34	1-компл	_	_
+29	в	В	PR	PR	PR	34	обст	_	_
+30	Сербии	СЕРБИЯ	S	S f inan loc sg	S f inan loc sg	29	предл	_	_
+31	турки	ТУРОК	S	S m anim nom pl	S m anim nom pl	34	предик	_	_
+32	на	НА	PR	PR	PR	34	обст	_	_
+33	кол	КОЛ	S	S m inan acc sg	S m inan acc sg	32	предл	_	_
+34	посадили	ПОСАДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	26	сент-соч	_	_
+35	!	!	SENT	SENT	SENT	34	PUNC	_	_
+
+1	Ох	ОХ	INTJ	INTJ	INTJ	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	подурнел	ПОДУРНЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	братец	БРАТЕЦ	S	S m anim nom sg	S m anim nom sg	3	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	узнать	УЗНАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Виски	ВИСОК	S	S m inan nom pl	S m inan nom pl	4	предик	_	_
+2	для	ДЛЯ	PR	PR	PR	1	атриб	_	_
+3	импозантности	ИМПОЗАНТНОСТЬ	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+4	подкрашиваешь	ПОДКРАШИВАТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	0	ROOT	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+

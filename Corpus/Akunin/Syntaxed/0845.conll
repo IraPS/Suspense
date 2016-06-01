@@ -1,0 +1,84 @@
+1	Не то	Не то	CONJ	CONJ	ZERO	0	ROOT	_	_
+2	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+4	скучала	СКУЧАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	подч-союзн	_	_
+5	–	–	–	–	PUNC	4	1-компл	_	_
+6	наоборот	НАОБОРОТ	ADV	ADV -	ADV -	4	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Как	КАК	ADV	ADV -	ADV -	2	обст	_	_
+2	снялись	СНИМАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	с	С	PR	PR	PR	2	2-компл	_	_
+4	плевненского	ПЛЕВНЕНСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	лагеря	ЛАГЕРЬ	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	жизнь	ЖИЗНЬ	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+8	стала	СТАНОВИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сент-соч	_	_
+9	увлекательной	УВЛЕКАТЕЛЬНЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	8	присвяз	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+2	ни	НИ	PART	PART	PART	3	огранич	_	_
+3	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	5	длительн	_	_
+4	–	–	–	–	PUNC	5	опред	_	_
+5	переезды	ПЕРЕЕЗД	S	S m inan nom pl	S m inan nom pl	1	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	новые	НОВЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	8	опред	_	_
+8	города	ГОРОД	S	S m inan acc pl	S m inan acc pl	5	сочин	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	умопомрачительные	УМОПОМРАЧИТЕЛЬНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	12	опред	_	_
+11	горные	ГОРНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	12	опред	_	_
+12	пейзажи	ПЕЙЗАЖ	S	S m inan acc pl	S m inan acc pl	8	сочин	_	_
+13	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+14	бесконечные	БЕСКОНЕЧНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	опред	_	_
+15	торжества	ТОРЖЕСТВО	S	S n inan nom pl	S n inan nom pl	13	соч-союзн	_	_
+16	по поводу	по поводу	PR	PR	ZERO	15	атриб	_	_
+17	чуть	ЧУТЬ	ADV	ADV -	ADV -	19	огранич	_	_
+18	ли	ЛИ	PART	PART	PART	17	огранич	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	ежедневных	ЕЖЕДНЕВНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	21	опред	_	_
+21	викторий	ВИКТОРИЙ	S	S f inan gen pl	S f inan gen pl	16	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Штаб	ШТАБ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+2	верховного	ВЕРХОВНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	1-компл	_	_
+3	переехал	ПЕРЕЕЗЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	сначала	СНАЧАЛА	ADV	ADV -	ADV -	3	обст	_	_
+5	в	В	PR	PR	PR	3	2-компл	_	_
+6	Казанлык	КАЗАНЛЫК	S	S m inan acc sg	S m inan acc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	за	ЗА	PR	PR	PR	0	ROOT	_	_
+9	Балканский	БАЛКАНСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	опред	_	_
+10	хребет	ХРЕБЕТ	S	S m inan acc sg	S m inan acc sg	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	потом	ПОТОМ	ADV	ADV -	ADV -	0	ROOT	_	_
+13	еще	ЕЩЕ	ADV	ADV -	ADV -	14	огранич	_	_
+14	южнее	ЮЖНЕЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	в	В	PR	PR	PR	14	сочин	_	_
+17	Германлы	ГЕРМАНЛЫ	S	S m anim ins sg	S m anim ins sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Тут	ТУТ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	зимы	ЗИМА	S	S f inan gen sg	S f inan gen sg	2	соч-союзн	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	то	ТО	CONJ	CONJ	CONJ	1	предик	_	_
+6	никакой	НИКАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	предик	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	5	соч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Деревья	ДЕРЕВО	S	S n inan nom pl	S n inan nom pl	2	предик	_	_
+2	стояли	СТОЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	зеленые	ЗЕЛЕНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	снег	СНЕГ	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+6	виднелся	ВИДНЕТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сент-соч	_	_
+7	только	ТОЛЬКО	PART	PART	PART	8	огранич	_	_
+8	на	НА	PR	PR	PR	6	обст	_	_
+9	вершинах	ВЕРШИНА	S	S f inan loc pl	S f inan loc pl	8	предл	_	_
+10	дальних	ДАЛЬНИЙ	A	A - gen pl plen - -	A - gen pl plen - -	11	опред	_	_
+11	гор	ГОРА	S	S f inan gen pl	S f inan gen pl	9	квазиагент	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

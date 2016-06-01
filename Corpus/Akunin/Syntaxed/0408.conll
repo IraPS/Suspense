@@ -1,0 +1,185 @@
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	8	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	3	вводн	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	ругаете	РУГАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+9	азиатов	АЗИАТ	S	S m anim acc pl	S m anim acc pl	8	1-компл	_	_
+10	за	ЗА	PR	PR	PR	8	обст	_	_
+11	пренебрежение	ПРЕНЕБРЕЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	10	предл	_	_
+12	к	К	PR	PR	PR	11	1-компл	_	_
+13	человеческой	ЧЕЛОВЕЧЕСКИЙ	A	A - loc sg plen f -	A - loc sg plen f -	14	опред	_	_
+14	жизни	ЖИЗНЬ	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+17	правильно	ПРАВИЛЬНО	ADV	ADV -	ADV -	18	обст	_	_
+18	делаете	ДЕЛАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	16	соч-союзн	_	_
+19	(	(	_	_	PUNC	20	PUNC	_	_
+20	речь	РЕЧЬ	S	S f inan nom sg	S f inan nom sg	21	предик	_	_
+21	зашла	ЗАЙТИ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	вводн	_	_
+22	о	О	PR	PR	PR	21	обст	_	_
+23	зверствах	ЗВЕРСТВО	S	S n inan loc pl	S n inan loc pl	22	предл	_	_
+24	башибузуков	БАШИБУЗУК	S	S m anim gen pl	S m anim gen pl	23	квазиагент	_	_
+25	)	)	_	_	PUNC	24	PUNC	_	_
+26	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	ведь	ВЕДЬ	PART	PART	PART	4	огранич	_	_
+3	это	ЭТО	S	S n - nom sg	S n - nom sg	4	опред	_	_
+4	дикари	ДИКАРЬ	S	S m anim nom pl	S m anim nom pl	12	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	варвары	ВАРВАР	S	S m anim nom pl	S m anim nom pl	4	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	в	В	PR	PR	PR	12	обст	_	_
+9	своем	СВОЙ	A	A - loc sg plen n -	A - loc sg plen n -	10	опред	_	_
+10	развитии	РАЗВИТИЕ	S	S n inan loc sg	S n inan loc sg	8	предл	_	_
+11	очень	ОЧЕНЬ	ADV	ADV -	ADV -	12	огранич	_	_
+12	недалеко	НЕДАЛЕКО	ADV	ADV -	ADV -	1	соч-союзн	_	_
+13	ушедшие	УХОДИТЬ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	12	опред	_	_
+14	от	ОТ	PR	PR	PR	13	1-компл	_	_
+15	каких-нибудь	КАКОЙ-НИБУДЬ	A	A - gen pl plen - -	A - gen pl plen - -	16	опред	_	_
+16	тигров	ТИГР	S	S m anim gen pl	S m anim gen pl	14	предл	_	_
+17	или	ИЛИ	CONJ	CONJ	CONJ	16	сочин	_	_
+18	крокодилов	КРОКОДИЛ	S	S m anim acc pl	S m anim acc pl	17	соч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	опишу	ОПИСЫВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	1	соч-союзн	_	_
+4	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	3	2-компл	_	_
+5	сцену	СЦЕНА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	которую	КОТОРЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	1-компл	_	_
+8	наблюдал	НАБЛЮДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	релят	_	_
+9	в	В	PR	PR	PR	8	обст	_	_
+10	самой	САМЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	11	опред	_	_
+11	цивилизованной	ЦИВИЛИЗОВАННЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	9	предл	_	_
+12	из	ИЗ	PR	PR	PR	11	электив	_	_
+13	стран	СТРАНА	S	S f inan gen pl	S f inan gen pl	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	Англии	АНГЛИЯ	S	S f inan gen sg	S f inan gen sg	13	квазиагент	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	О	О	PR	PR	PR	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	это	ЭТО	S	S n - nom sg	S n - nom sg	5	опред	_	_
+4	целая	ЦЕЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+5	история	ИСТОРИЯ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+6	…	…	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Британцы	БРИТАНЕЦ	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+2	настолько	НАСТОЛЬКО	ADV	ADV -	ADV -	3	обст	_	_
+3	ценят	ЦЕНИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	человеческую	ЧЕЛОВЕЧЕСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	5	опред	_	_
+5	жизнь	ЖИЗНЬ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	3	2-компл	_	_
+8	худшим	ПЛОХОЙ	A	A supr ins sg plen n -	A supr ins sg plen n -	11	предик	_	_
+9	из	ИЗ	PR	PR	PR	8	электив	_	_
+10	грехов	ГРЕХ	S	S m inan gen pl	S m inan gen pl	9	предл	_	_
+11	почитают	ПОЧИТАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	7	подч-союзн	_	_
+12	самоубийство	САМОУБИЙСТВО	S	S n inan acc sg	S n inan acc sg	11	1-компл	_	_
+13	–	–	–	–	PUNC	11	2-компл	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+15	за	ЗА	PR	PR	PR	21	обст	_	_
+16	попытку	ПОПЫТКА	S	S f inan acc sg	S f inan acc sg	15	предл	_	_
+17	наложить	НАЛАГАТЬ	V	V pf - - inf - -	V pf - - inf - -	16	1-компл	_	_
+18	на	НА	PR	PR	PR	17	3-компл	_	_
+19	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	18	предл	_	_
+20	руки	РУКА	S	S f inan acc pl	S f inan acc pl	17	1-компл	_	_
+21	карают	КАРАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	14	соч-союзн	_	_
+22	смертной	СМЕРТНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	23	опред	_	_
+23	казнью	КАЗНЬ	S	S f inan ins sg	S f inan ins sg	21	2-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	На	НА	PR	PR	PR	0	ROOT	_	_
+2	Востоке	ВОСТОК	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	до	ДО	PR	PR	PR	1	соотнос	_	_
+4	такого	ТАКОЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	предл	_	_
+5	пока	ПОКА	CONJ	CONJ	CONJ	0	ROOT	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	додумались	ДОДУМЫВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	5	подч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	2	количест	_	_
+2	лет	ГОД	S	S m inan gen pl	S m inan gen pl	3	предл	_	_
+3	назад	НАЗАД	ADV	ADV -	ADV -	15	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	когда	КОГДА	CONJ	CONJ	CONJ	3	уточн	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	предик	_	_
+7	находился	НАХОДИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	подч-союзн	_	_
+8	в	В	PR	PR	PR	7	1-компл	_	_
+9	Лондоне	ЛОНДОН	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	в	В	PR	PR	PR	14	обст	_	_
+12	тамошней	ТАМОШНИЙ	A	A - loc sg plen f -	A - loc sg plen f -	13	опред	_	_
+13	тюрьме	ТЮРЬМА	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+14	должны	ДОЛЖНЫЙ	A	A - - pl brev - -	A - - pl brev - -	15	присвяз	_	_
+15	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+16	повесить	ПОВЕСИТЬ	V	V pf - - inf - -	V pf - - inf - -	14	1-компл	_	_
+17	заключенного	ЗАКЛЮЧЕННЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	16	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	совершил	СОВЕРШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	страшное	СТРАШНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	4	опред	_	_
+4	преступление	ПРЕСТУПЛЕНИЕ	S	S n inan acc sg	S n inan acc sg	2	1-компл	_	_
+5	–	–	–	–	PUNC	8	неакт-компл	_	_
+6	каким-то	КАКОЙ-ТО	A	A - ins sg plen m -	A - ins sg plen m -	7	опред	_	_
+7	образом	ОБРАЗ	S	S m inan ins sg	S m inan ins sg	8	обст	_	_
+8	раздобыл	РАЗДОБЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+9	бритву	БРИТВА	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	попытался	ПОПЫТАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	сочин	_	_
+12	перерезать	ПЕРЕРЕЗЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+13	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	12	2-компл	_	_
+14	горло	ГОРЛО	S	S n inan acc sg	S n inan acc sg	12	1-компл	_	_
+15	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+16	даже	ДАЖЕ	PART	PART	PART	17	огранич	_	_
+17	частично	ЧАСТИЧНО	ADV	ADV -	ADV -	20	обст	_	_
+18	в	В	PR	PR	PR	20	обст	_	_
+19	этом	ЭТО	S	S n - loc sg	S n - loc sg	18	предл	_	_
+20	преуспел	ПРЕУСПЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+23	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	22	соч-союзн	_	_
+24	вовремя	ВОВРЕМЯ	ADV	ADV -	ADV -	23	обст	_	_
+25	спасен	СПАСАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	23	пасс-анал	_	_
+26	тюремным	ТЮРЕМНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	27	опред	_	_
+27	врачом	ВРАЧ	S	S m anim ins sg	S m anim ins sg	25	2-компл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	2	1-компл	_	_
+2	потрясла	ПОТРЯСАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	логика	ЛОГИКА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+4	судьи	СУДЬЯ	S	S m anim gen sg	S m anim gen sg	3	квазиагент	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+8	решил	РЕШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	8	1-компл	_	_
+11	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	12	огранич	_	_
+12	должен	ДОЛЖНЫЙ	A	A - - sg brev m -	A - - sg brev m -	10	подч-союзн	_	_
+13	видеть	ВИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	1-компл	_	_
+14	экзекуцию	ЭКЗЕКУЦИЯ	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+15	собственными	СОБСТВЕННЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	16	опред	_	_
+16	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	13	обст	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Использовал	ИСПОЛЬЗОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	свои	СВОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	3	опред	_	_
+3	связи	СВЯЗЬ	S	S f inan gen sg	S f inan gen sg	1	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	раздобыл	РАЗДОБЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	сочин	_	_
+6	пропуск	ПРОПУСК	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+7	на	НА	PR	PR	PR	5	2-компл	_	_
+8	казнь	КАЗНЬ	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+9	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	9	соч-союзн	_	_
+12	разочарован	РАЗОЧАРОВАННЫЙ	A	A - - sg brev m -	A - - sg brev m -	11	присвяз	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

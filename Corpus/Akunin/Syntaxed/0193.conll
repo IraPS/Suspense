@@ -1,0 +1,97 @@
+1	–	–	–	–	PUNC	5	предик	_	_
+2	Итак	ИТАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вот	ВОТ	PART	PART	PART	5	огранич	_	_
+5	то	ТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	чем	ЧЕМ	CONJ	CONJ	CONJ	0	ROOT	_	_
+8	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	0	ROOT	_	_
+9	располагаем	РАСПОЛАГАТЬ	PARTCP	PARTCP ipf inpraes - sg brev m pass -	PARTCP ipf inpraes - sg brev m pass -	0	ROOT	_	_
+10	об	ОБ	PR	PR	PR	9	3-компл	_	_
+11	Анваре	АНВАР	S	S m anim loc sg	S m anim loc sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	 	 	 	 	PUNC	15	обст	_	_
+14	–	–	–	–	PUNC	15	1-компл	_	_
+15	зашелестел	ЗАШЕЛЕСТЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	релят	_	_
+16	страницами	СТРАНИЦА	S	S f inan ins pl	S f inan ins pl	15	1-компл	_	_
+17	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Не	НЕ	PART	PART	PART	3	огранич	_	_
+3	угодно	УГОДНО	ADV	ADV -	ADV -	1	вспом	_	_
+4	ли	ЛИ	PART	PART	PART	3	огранич	_	_
+5	записать	ЗАПИСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	запомню	ЗАПОМИНАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	 	 	 	 	PUNC	7	3-компл	_	_
+6	–	–	–	–	PUNC	7	1-компл	_	_
+7	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+8	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+9	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	О	О	PR	PR	PR	1	обст	_	_
+3	раннем	РАННИЙ	A	A - loc sg plen m -	A - loc sg plen m -	4	опред	_	_
+4	периоде	ПЕРИОД	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+5	данные	ДАННЫЕ	S	S - inan nom pl	S - inan nom pl	7	предик	_	_
+6	крайне	КРАЙНЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	скудны	СКУДНЫЙ	A	A - - pl brev - -	A - - pl brev - -	1	сент-соч	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Родился	РОЖДАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	примерно	ПРИМЕРНО	ADV	ADV -	ADV -	3	огранич	_	_
+3	тридцать	ТРИДЦАТЬ	NUM	NUM acc - -	NUM acc - -	4	колич-вспом	_	_
+4	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	5	количест	_	_
+5	лет	ГОД	S	S m inan gen pl	S m inan gen pl	6	предл	_	_
+6	назад	НАЗАД	ADV	ADV -	ADV -	1	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	0	ROOT	_	_
+2	некоторым	НЕКОТОРЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	3	опред	_	_
+3	сведениям	СВЕДЕНИЕ	S	S n inan dat pl	S n inan dat pl	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	в	В	PR	PR	PR	0	ROOT	_	_
+6	боснийском	БОСНИЙСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	8	опред	_	_
+7	мусульманском	МУСУЛЬМАНСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	8	опред	_	_
+8	городишке	ГОРОДИШКО	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+9	Хевраис	ХЕВРАИС	S	S m anim gen sg	S m anim gen sg	8	квазиагент	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Родители	РОДИТЕЛИ	S	S m anim nom pl	S m anim nom pl	2	предик	_	_
+2	неизвестны	НЕИЗВЕСТНЫЙ	A	A - - pl brev - -	A - - pl brev - -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Воспитывался	ВОСПИТЫВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	20	вводн	_	_
+2	где-то	ГДЕ-ТО	ADV	ADV -	ADV -	1	обст	_	_
+3	в	В	PR	PR	PR	1	обст	_	_
+4	Европе	ЕВРОПА	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	в	В	PR	PR	PR	20	обст	_	_
+7	одном	ОДИН	A	A - loc sg plen m -	A - loc sg plen m -	6	предл	_	_
+8	из	ИЗ	PR	PR	PR	7	электив	_	_
+9	знаменитых	ЗНАМЕНИТЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	11	опред	_	_
+10	учебных	УЧЕБНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	11	опред	_	_
+11	заведений	ЗАВЕДЕНИЕ	S	S n inan gen pl	S n inan gen pl	8	предл	_	_
+12	леди	ЛЕДИ	S	S f anim nonflex nonflex	S f anim nonflex nonflex	20	вводн	_	_
+13	Эстер	ЭСТЕР	S	S f anim nonflex nonflex	S f anim nonflex nonflex	12	аппоз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	которую	КОТОРЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	20	1-компл	_	_
+16	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	20	предик	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	разумеется	РАЗУМЕЕТСЯ	ADV	ADV -	ADV -	20	вводн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	помните	ПОМНИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+21	по	ПО	PR	PR	PR	20	обст	_	_
+22	истории	ИСТОРИЯ	S	S f inan loc sg	S f inan loc sg	21	предл	_	_
+23	с	С	PR	PR	PR	22	1-компл	_	_
+24	«	«	_	_	PUNC	25	PUNC	_	_
+25	Азазелем	АЗАЗЕЛЬ	S	S m anim ins sg	S m anim ins sg	23	предл	_	_
+26	»	»	_	_	PUNC	25	PUNC	_	_
+27	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

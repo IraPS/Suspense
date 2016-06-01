@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"тпрра","qual":"bastard","gr":"S,f,anim=gen,sg"},{"lex":"тпрра","qual":"bastard","gr":"S,f,anim=nom,pl"}],"text":"Тпрры"}
+{"analysis":[{"lex":"стоять","gr":"V,ipf,intr=sg,imper,2p"}],"text":"стой"}
+{"analysis":[{"lex":"парменко","qual":"bastard","gr":"S,n,inan=abl,pl"},{"lex":"парменко","qual":"bastard","gr":"S,n,inan=abl,sg"},{"lex":"парменко","qual":"bastard","gr":"S,n,inan=acc,pl"},{"lex":"парменко","qual":"bastard","gr":"S,n,inan=acc,sg"},{"lex":"парменко","qual":"bastard","gr":"S,n,inan=dat,pl"},{"lex":"парменко","qual":"bastard","gr":"S,n,inan=dat,sg"},{"lex":"парменко","qual":"bastard","gr":"S,n,inan=gen,pl"},{"lex":"парменко","qual":"bastard","gr":"S,n,inan=gen,sg"},{"lex":"парменко","qual":"bastard","gr":"S,n,inan=ins,pl"},{"lex":"парменко","qual":"bastard","gr":"S,n,inan=ins,sg"},{"lex":"парменко","qual":"bastard","gr":"S,n,inan=nom,pl"},{"lex":"парменко","qual":"bastard","gr":"S,n,inan=nom,sg"}],"text":"Парменко"}
+{"analysis":[{"lex":"тут","gr":"ADVPRO="}],"text":"тут"}
+{"analysis":[{"lex":"мы","gr":"SPRO,pl,1p=dat"}],"text":"нам"}
+{"analysis":[{"lex":"потихоньку","gr":"ADV="}],"text":"потихоньку"}
+{"analysis":[{"lex":"надо","gr":"ADV,praed="}],"text":"надо"}
+{"analysis":[{"lex":"как","gr":"ADVPRO="}],"text":"как"}
+{"analysis":[{"lex":"бы","gr":"PART="}],"text":"бы"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"окувыркнуться","qual":"bastard","gr":"V,pf,intr=inf"}],"text":"окувыркнуться"}

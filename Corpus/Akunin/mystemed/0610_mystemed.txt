@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"ну","gr":"PART="}],"text":"Ну"}
+{"analysis":[{"lex":"сейчас","gr":"ADV="}],"text":"сейчас"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"они","gr":"SPRO,pl=dat"}],"text":"им"}
+{"analysis":[{"lex":"давать","gr":"V,tran=inpraes,sg,indic,3p,pf"}],"text":"даст"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"кто-то","gr":"SPRO,sg,m,anim=nom"}],"text":"кто-то"}
+{"analysis":[{"lex":"рядом","gr":"ADV="}],"text":"рядом"}

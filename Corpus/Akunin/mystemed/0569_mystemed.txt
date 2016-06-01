@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"обертываться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"обернулась"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"скорчить","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"скорчила"}
+{"analysis":[{"lex":"гримаса","gr":"S,f,inan=acc,sg"}],"text":"гримасу"}
+{"analysis":[{"lex":"уверять","gr":"V,tran=praet,nom,sg,partcp,plen,f,pf,pass"}],"text":"уверенная"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"непривычный","gr":"A=abl,sg,plen,f"},{"lex":"непривычный","gr":"A=dat,sg,plen,f"},{"lex":"непривычный","gr":"A=gen,sg,plen,f"},{"lex":"непривычный","gr":"A=ins,sg,plen,f"}],"text":"непривычной"}
+{"analysis":[{"lex":"любезность","gr":"S,f,inan=ins,sg"}],"text":"любезностью"}
+{"analysis":[{"lex":"подполковник","gr":"S,m,anim=acc,sg"},{"lex":"подполковник","gr":"S,m,anim=gen,sg"}],"text":"подполковника"}
+{"analysis":[{"lex":"немедленно","gr":"ADV="}],"text":"немедленно"}
+{"analysis":[{"lex":"последовать","gr":"V,pf,intr=inpraes,sg,indic,3p"}],"text":"последует"}
+{"analysis":[{"lex":"какой-нибудь","gr":"APRO=abl,sg,f"},{"lex":"какой-нибудь","gr":"APRO=dat,sg,f"},{"lex":"какой-нибудь","gr":"APRO=gen,sg,f"},{"lex":"какой-нибудь","gr":"APRO=ins,sg,f"},{"lex":"какой-нибудь","gr":"APRO=acc,sg,m,inan"},{"lex":"какой-нибудь","gr":"APRO=nom,sg,m"}],"text":"какой-нибудь"}
+{"analysis":[{"lex":"змеиный","gr":"A=acc,sg,plen,m,inan"},{"lex":"змеиный","gr":"A=nom,sg,plen,m"}],"text":"змеиный"}
+{"analysis":[{"lex":"укус","gr":"S,m,inan=acc,sg"},{"lex":"укус","gr":"S,m,inan=nom,sg"}],"text":"укус"}

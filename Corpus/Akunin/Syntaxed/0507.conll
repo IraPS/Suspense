@@ -1,0 +1,70 @@
+1	Фат	ФАТА	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	пошляк	ПОШЛЯК	S	S m anim nom sg	S m anim nom sg	2	соч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	конечно	КОНЕЧНО	ADV	ADV -	ADV -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	5	сочин	_	_
+8	все равно	все равно	ADV	ADV -	-	9	огранич	_	_
+9	приятно	ПРИЯТНО	ADV	ADV -	ADV -	7	соч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+2	даже	ДАЖЕ	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	позволила	ПОЗВОЛЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	подч-союзн	_	_
+4	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	3	2-компл	_	_
+5	приложиться	ПРИКЛАДЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+6	к	К	PR	PR	PR	5	1-компл	_	_
+7	руке	РУКА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	поступилась	ПОСТУПАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	сочин	_	_
+10	принципами	ПРИНЦИП	S	S m inan ins pl	S m inan ins pl	9	1-компл	_	_
+11	ради	РАДИ	PR	PR	PR	9	обст	_	_
+12	пользы	ПОЛЬЗА	S	S f inan gen sg	S f inan gen sg	11	предл	_	_
+13	дела	ДЕЛО	S	S n inan gen sg	S n inan gen sg	12	квазиагент	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Ирландцу	ИРЛАНДЕЦ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	с	С	PR	PR	PR	3	1-компл	_	_
+5	небрежной	НЕБРЕЖНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	6	опред	_	_
+6	благосклонностью	БЛАГОСКЛОННОСТЬ	S	S f inan ins sg	S f inan ins sg	4	предл	_	_
+7	(	(	_	_	PUNC	8	PUNC	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	соперник	СОПЕРНИК	S	S m anim nom sg	S m anim nom sg	6	примыкат	_	_
+10	)	)	_	_	PUNC	9	PUNC	_	_
+11	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	дожидаясь	ДОЖИДАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	17	обст	_	_
+15	приглашения	ПРИГЛАШЕНИЕ	S	S n inan gen sg	S n inan gen sg	14	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	уселся	УСАЖИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	соч-союзн	_	_
+18	за	ЗА	PR	PR	PR	17	2-компл	_	_
+19	стол	СТОЛ	S	S m inan acc sg	S m inan acc sg	18	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	2	2-компл	_	_
+2	показалось	ПОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	предик	_	_
+5	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+6	румыну	РУМЫН	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+7	тоже	ТОЖЕ	PART	PART	PART	8	огранич	_	_
+8	рад	РАД	A	A - - sg brev m -	A - - sg brev m -	4	подч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Неужели	НЕУЖЕЛИ	PART	PART	PART	2	огранич	_	_
+2	устал	УСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	разговаривать	РАЗГОВАРИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	1-компл	_	_
+4	о	О	PR	PR	PR	3	1-компл	_	_
+5	климате	КЛИМАТ	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	нет	НЕТ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вряд ли	вряд ли	ADV	ADV -	-	1	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

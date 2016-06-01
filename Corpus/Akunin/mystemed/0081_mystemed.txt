@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"Но"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"удерживаться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"удержалась"}
+{"analysis":[{"lex":"кинуть","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"кинула"}
+{"analysis":[{"lex":"исподлобья","gr":"ADV="}],"text":"исподлобья"}
+{"analysis":[{"lex":"взгляд","gr":"S,m,inan=acc,sg"},{"lex":"взгляд","gr":"S,m,inan=nom,sg"}],"text":"взгляд"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"знаменитый","gr":"A=abl,pl,plen"},{"lex":"знаменитый","gr":"A=acc,pl,plen,anim"},{"lex":"знаменитый","gr":"A=gen,pl,plen"}],"text":"знаменитых"}
+{"analysis":[{"lex":"головорез","gr":"S,m,anim=acc,pl"},{"lex":"головорез","gr":"S,m,anim=gen,pl"}],"text":"головорезов"}
+{"analysis":[{"lex":"про","gr":"PR="}],"text":"про"}
+{"analysis":[{"lex":"который","gr":"APRO=abl,pl"},{"lex":"который","gr":"APRO=gen,pl"},{"lex":"который","gr":"APRO=acc,pl,anim"}],"text":"которых"}
+{"analysis":[{"lex":"второй","gr":"ANUM=abl,sg,f"},{"lex":"второй","gr":"ANUM=dat,sg,f"},{"lex":"второй","gr":"ANUM=gen,sg,f"},{"lex":"второй","gr":"ANUM=ins,sg,f"},{"lex":"второй","gr":"ANUM=acc,sg,m,inan"},{"lex":"второй","gr":"ANUM=nom,sg,m"}],"text":"второй"}
+{"analysis":[{"lex":"год","gr":"S,m,inan=acc,sg"},{"lex":"год","gr":"S,m,inan=nom,sg"}],"text":"год"}
+{"analysis":[{"lex":"писать","gr":"V,ipf,tran=praet,pl,indic"}],"text":"писали"}
+{"analysis":[{"lex":"весь","gr":"APRO=nom,pl"},{"lex":"весь","gr":"APRO=acc,sg,n"},{"lex":"весь","gr":"APRO=nom,sg,n"},{"lex":"весь","gr":"APRO=acc,pl,inan"}],"text":"все"}
+{"analysis":[{"lex":"газета","gr":"S,f,inan=acc,pl"},{"lex":"газета","gr":"S,f,inan=gen,sg"},{"lex":"газета","gr":"S,f,inan=nom,pl"}],"text":"газеты"}

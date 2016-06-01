@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"кто","gr":"SPRO,sg,m,anim=nom"}],"text":"Кто"}
+{"analysis":[{"lex":"тгонуться","qual":"bastard","gr":"V,pf,intr=inpraes,sg,indic,3p"}],"text":"тгонется"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"место","gr":"S,n,inan=acc,pl"},{"lex":"место","gr":"S,n,inan=gen,sg"},{"lex":"место","gr":"S,n,inan=nom,pl"}],"text":"места"}
+{"analysis":[{"lex":"убивать","gr":"V,tran=inpraes,sg,indic,1p,pf"}],"text":"убью"}
+{"analysis":[{"lex":"негромко","gr":"ADV="}],"text":"негромко"}
+{"analysis":[{"lex":"предупреждать","gr":"V=praet,sg,indic,m,pf"}],"text":"предупредил"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}

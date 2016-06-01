@@ -1,0 +1,78 @@
+1	Генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	наскоро	НАСКОРО	ADV	ADV -	ADV -	3	обст	_	_
+3	осмотрел	ОСМАТРИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	освещенный	ОСВЕЩАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	6	опред	_	_
+5	газовыми	ГАЗОВЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	6	опред	_	_
+6	фонарями	ФОНАРЬ	S	S m inan ins pl	S m inan ins pl	3	1-компл	_	_
+7	центр	ЦЕНТР	S	S m inan nom sg	S m inan nom sg	3	разъяснит	_	_
+8	городка	ГОРОДОК	S	S m inan gen sg	S m inan gen sg	7	квазиагент	_	_
+9	–	–	–	–	PUNC	12	1-компл	_	_
+10	чуть	ЧУТЬ	ADV	ADV -	ADV -	11	огранич	_	_
+11	дальше	ДАЛЕКО	ADV	ADV comp	ADV comp	12	обст	_	_
+12	начинался	НАЧИНАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	релят	_	_
+13	темный	ТЕМНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	лабиринт	ЛАБИРИНТ	S	S m inan nom sg	S m inan nom sg	12	предик	_	_
+15	кривых	КРИВАЯ	S	S f inan loc pl	S f inan loc pl	7	сочин	_	_
+16	улочек	УЛОЧКА	S	S f inan gen pl	S f inan gen pl	15	квазиагент	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+19	туда	ТУДА	ADV	ADV -	ADV -	20	обст	_	_
+20	соваться	СОВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	18	соч-союзн	_	_
+21	смысла	СМЫСЛ	S	S m inan gen sg	S m inan gen sg	20	1-компл	_	_
+22	не	НЕ	PART	PART	PART	23	огранич	_	_
+23	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	сент-соч	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	В качестве	В качестве	PR	PR	ZERO	12	обст	_	_
+2	резиденции	РЕЗИДЕНЦИЯ	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	оплота	ОПЛОТ	S	S m inan gen sg	S m inan gen sg	3	соч-союзн	_	_
+5	обороны	ОБОРОНА	S	S f inan gen sg	S f inan gen sg	4	квазиагент	_	_
+6	(	(	_	_	PUNC	7	PUNC	_	_
+7	на	НА	PR	PR	PR	1	примыкат	_	_
+8	случай	СЛУЧАЙ	S	S m inan acc sg	S m inan acc sg	7	предл	_	_
+9	неприятностей	НЕПРИЯТНОСТЬ	S	S f inan gen pl	S f inan gen pl	8	1-компл	_	_
+10	)	)	_	_	PUNC	9	PUNC	_	_
+11	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+12	выбрал	ВЫБИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+13	массивное	МАССИВНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	14	опред	_	_
+14	здание	ЗДАНИЕ	S	S n inan acc sg	S n inan acc sg	12	1-компл	_	_
+15	филиала	ФИЛИАЛ	S	S m inan gen sg	S m inan gen sg	14	квазиагент	_	_
+16	Османо	ОСМАНО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	12	предик	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	Османского	ОСМАНСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	19	опред	_	_
+19	банка	БАНК	S	S f inan nom sg	S f inan nom sg	12	сент-соч	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Одна	ОДИН	A	A - nom sg plen f -	A - nom sg plen f -	4	предик	_	_
+2	из	ИЗ	PR	PR	PR	1	электив	_	_
+3	рот	РОТ	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+4	разместилась	РАЗМЕЩАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	непосредственно	НЕПОСРЕДСТВЕННО	ADV	ADV -	ADV -	6	огранич	_	_
+6	у	У	PR	PR	PR	4	2-компл	_	_
+7	стен	СТЕНА	S	S f inan gen pl	S f inan gen pl	6	предл	_	_
+8	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+9	внутри	ВНУТРИ	ADV	ADV -	ADV -	12	вводн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	вторая	ВТОРОЙ	A	A - nom sg plen f -	A - nom sg plen f -	12	предик	_	_
+12	осталась	ОСТАВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+13	на	НА	PR	PR	PR	12	присвяз	_	_
+14	станции	СТАНЦИЯ	S	S f inan loc sg	S f inan loc sg	13	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	третья	ТРЕТИЙ	A	A - nom sg plen f -	A - nom sg plen f -	17	предик	_	_
+17	распределилась	РАСПРЕДЕЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	12	сент-соч	_	_
+18	дозорами	ДОЗОР	S	S m inan ins pl	S m inan ins pl	17	1-компл	_	_
+19	по	ПО	PR	PR	PR	18	атриб	_	_
+20	окрестным	ОКРЕСТНЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	21	опред	_	_
+21	улицам	УЛИЦА	S	S f inan dat pl	S f inan dat pl	19	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Поезд	ПОЕЗД	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+2	немедленно	НЕМЕДЛЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	укатил	УКАТИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	обратно	ОБРАТНО	ADV	ADV -	ADV -	3	обст	_	_
+5	–	–	–	–	PUNC	3	обст	_	_
+6	за	ЗА	PR	PR	PR	3	2-компл	_	_
+7	подкреплениями	ПОДКРЕПЛЕНИЕ	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

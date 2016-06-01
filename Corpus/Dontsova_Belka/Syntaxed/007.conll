@@ -1,0 +1,262 @@
+1	Спрос	СПРОС	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	превысил	ПРЕВЫШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	предложение	ПРЕДЛОЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	в	В	PR	PR	PR	7	обст	_	_
+6	доме	ДОМ	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+7	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	релят	_	_
+8	всего	ВСЕГО	PART	PART	PART	9	огранич	_	_
+9	две	ДВА	NUM	NUM nom f -	NUM nom f -	11	количест	_	_
+10	пустые	ПУСТОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	11	опред	_	_
+11	комнаты	КОМНАТА	S	S f inan acc pl	S f inan acc pl	7	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	а	А	CONJ	CONJ	CONJ	7	сент-соч	_	_
+14	желающих	ЖЕЛАТЬ	PARTCP	PARTCP ipf inpraes loc pl plen - act -	PARTCP ipf inpraes loc pl plen - act -	15	предик	_	_
+15	оказалось	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	13	соч-союзн	_	_
+16	намного	НАМНОГО	ADV	ADV -	ADV -	17	колич-огран	_	_
+17	больше	МНОГО	ADV	ADV comp	ADV comp	15	обст	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	2	огранич	_	_
+2	так и	так и	CONJ	CONJ	ZERO	6	обст	_	_
+3	начался	НАЧИНАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	подч-союзн	_	_
+4	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	3	1-компл	_	_
+5	успешный	УСПЕШНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	6	опред	_	_
+6	бизнес	БИЗНЕС	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Сейчас	СЕЙЧАС	ADV	ADV -	ADV -	4	обст	_	_
+2	у	У	PR	PR	PR	4	обст	_	_
+3	Звягиной	ЗВЯГИНА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	гостиница	ГОСТИНИЦА	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+5	на	НА	PR	PR	PR	4	атриб	_	_
+6	тридцать	ТРИДЦАТЬ	NUM	NUM acc - -	NUM acc - -	7	количест	_	_
+7	номеров	НОМЕР	S	S m inan gen pl	S m inan gen pl	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	4	сочин	_	_
+10	большинство	БОЛЬШИНСТВО	S	S n inan nom sg	S n inan nom sg	9	соч-союзн	_	_
+11	постояльцев	ПОСТОЯЛЕЦ	S	S m anim gen pl	S m anim gen pl	10	квазиагент	_	_
+12	стали	СТАНОВИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+13	друзьями	ДРУГ	S	S m anim ins pl	S m anim ins pl	12	присвяз	_	_
+14	Раисы	РАИСА	S	S f anim gen sg	S f anim gen sg	13	1-компл	_	_
+15	Андреевны	АНДРЕЕВНА	S	S f anim gen sg	S f anim gen sg	14	аппоз	_	_
+16	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+17	помогают	ПОМОГАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	16	соч-союзн	_	_
+18	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	17	1-компл	_	_
+19	в	В	PR	PR	PR	17	2-компл	_	_
+20	решении	РЕШЕНИЕ	S	S n inan loc sg	S n inan loc sg	19	предл	_	_
+21	разных	РАЗНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	22	опред	_	_
+22	вопросов	ВОПРОС	S	S m inan gen pl	S m inan gen pl	20	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Звягина	ЗВЯГИН	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	поддерживает	ПОДДЕРЖИВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	семейный	СЕМЕЙНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	дух	ДУХ	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+5	отеля	ОТЕЛЬ	S	S m inan gen sg	S m inan gen sg	4	квазиагент	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	еду	ЕХАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	2	2-компл	_	_
+8	тут	ТУТ	ADV	ADV -	ADV -	7	обст	_	_
+9	можно	МОЖНО	ADV	ADV -	ADV -	2	сент-соч	_	_
+10	получить	ПОЛУЧАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	предик	_	_
+11	в	В	PR	PR	PR	10	обст	_	_
+12	любое	ЛЮБОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	13	опред	_	_
+13	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	11	предл	_	_
+14	суток	СУТКИ	S	S - inan gen pl	S - inan gen pl	10	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	надо	НАДО	ADV	ADV -	ADV -	9	сент-соч	_	_
+17	лишь	ЛИШЬ	PART	PART	PART	18	огранич	_	_
+18	спуститься	СПУСКАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	16	предик	_	_
+19	на	НА	PR	PR	PR	18	2-компл	_	_
+20	кухню	КУХНЯ	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	где	ГДЕ	ADV	ADV -	ADV -	23	1-компл	_	_
+23	священнодействует	СВЯЩЕННОДЕЙСТВОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	18	1-компл	_	_
+24	милая	МИЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	25	опред	_	_
+25	Надежда	НАДЕЖДА	S	S f anim nom sg	S f anim nom sg	23	предик	_	_
+26	Федоровна	ФЕДОРОВНА	S	S f anim nom sg	S f anim nom sg	25	аппоз	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	пенсионерка	ПЕНСИОНЕРКА	S	S f anim nom sg	S f anim nom sg	26	аппоз	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	бывший	БЫВШИЙ	A	A - nom sg plen m -	A - nom sg plen m -	31	опред	_	_
+31	повар	ПОВАР	S	S m anim nom sg	S m anim nom sg	25	об-аппоз	_	_
+32	детского	ДЕТСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	33	опред	_	_
+33	сада	САД	S	S m inan gen sg	S m inan gen sg	31	1-компл	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	Кормят	КОРМИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+2	в	В	PR	PR	PR	1	обст	_	_
+3	гостинице	ГОСТИНИЦА	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+4	просто	ПРОСТО	PART	PART	PART	5	огранич	_	_
+5	:	:	:	:	PUNC	6	опред	_	_
+6	каша	КАША	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	сырники	СЫРНИК	S	S m inan acc pl	S m inan acc pl	6	разъяснит	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	борщ	БОРЩ	S	S m inan nom sg	S m inan nom sg	8	сочин	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	котлеты	КОТЛЕТА	S	S f inan nom pl	S f inan nom pl	10	сочин	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	пироги	ПИРОГ	S	S m inan acc pl	S m inan acc pl	12	сочин	_	_
+15	с	С	PR	PR	PR	14	2-компл	_	_
+16	капустой	КАПУСТА	S	S f inan ins sg	S f inan ins sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	кексы	КЕКС	S	S m inan gen sg	S m inan gen sg	14	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Надежда	НАДЕЖДА	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	Федоровна	ФЕДОРОВНА	S	S f anim nom sg	S f anim nom sg	1	аппоз	_	_
+3	готовит	ГОТОВИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	так	ТАК	ADV	ADV -	ADV -	3	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	словно	СЛОВНО	CONJ	CONJ	CONJ	3	сравнит	_	_
+7	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	9	предик	_	_
+8	до сих пор	до сих пор	ADV	ADV -	-	9	обст	_	_
+9	рулит	РУЛИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	сравн-союзн	_	_
+10	пищеблоком	ПИЩЕБЛОК	S	S m inan ins sg	S m inan ins sg	9	1-компл	_	_
+11	для	ДЛЯ	PR	PR	PR	10	атриб	_	_
+12	малышей	МАЛЫШ	S	S m anim gen pl	S m anim gen pl	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Никакой	НИКАКОЙ	A	A - gen sg plen f -	A - gen sg plen f -	3	опред	_	_
+2	пряной	ПРЯНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	3	опред	_	_
+3	рукколы	РУККОЛА	S	S f inan ins sg	S f inan ins sg	13	присвяз	_	_
+4	с	С	PR	PR	PR	3	атриб	_	_
+5	гигантскими	ГИГАНТСКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	6	опред	_	_
+6	креветками	КРЕВЕТКА	S	S f inan ins pl	S f inan ins pl	4	предл	_	_
+7	под	ПОД	PR	PR	PR	6	атриб	_	_
+8	соусом	СОУС	S	S m inan ins sg	S m inan ins sg	7	предл	_	_
+9	песто	ПЕСТО	ADV	ADV -	ADV -	13	обст	_	_
+10	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	13	предик	_	_
+11	тут	ТУТ	ADV	ADV -	ADV -	13	обст	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	дождетесь	ДОЖДАТЬСЯ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	0	ROOT	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	но	НО	CONJ	CONJ	CONJ	13	сочин	_	_
+16	многим	МНОГИЙ	A	A - dat pl plen - -	A - dat pl plen - -	19	опред	_	_
+17	бывшим	БЫВШИЙ	A	A - ins sg plen m -	A - ins sg plen m -	19	опред	_	_
+18	советским	СОВЕТСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	19	опред	_	_
+19	людям	ЧЕЛОВЕК	S	S m anim dat pl	S m anim dat pl	15	соч-союзн	_	_
+20	булочка	БУЛОЧКА	S	S f inan nom sg	S f inan nom sg	23	предик	_	_
+21	с	С	PR	PR	PR	20	атриб	_	_
+22	повидлом	ПОВИДЛО	S	S n inan ins sg	S n inan ins sg	21	предл	_	_
+23	милее	МИЛЫЙ	A	A comp - - plen - -	A comp - - plen - -	13	сент-соч	_	_
+24	тирамису	ТИРАМИС	S	S m anim dat sg	S m anim dat sg	23	сравнит	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	а	А	CONJ	CONJ	CONJ	23	сент-соч	_	_
+27	макароны	МАКАРОНЫ	S	S - inan acc pl	S - inan acc pl	29	предик	_	_
+28	по-флотски	ПО-ФЛОТСКИ	ADV	ADV -	ADV -	29	колич-огран	_	_
+29	вкуснее	ВКУСНЫЙ	A	A comp - - plen - -	A comp - - plen - -	26	соч-союзн	_	_
+30	спагетти	СПАГЕТТИ	S	S n inan loc pl	S n inan loc pl	29	сравнит	_	_
+31	болонез	БОЛОНЕЗ	S	S m inan gen sg	S m inan gen sg	30	квазиагент	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	Правда	ПРАВДА	ADV	ADV -	ADV -	8	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	раз	РАЗ	S	S m inan nom sg	S m inan nom sg	6	обст	_	_
+4	в	В	PR	PR	PR	3	распред	_	_
+5	месяц	МЕСЯЦ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	Надежда	НАДЕЖДА	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+7	Федоровна	ФЕДОРОВНА	S	S f anim nom sg	S f anim nom sg	6	аппоз	_	_
+8	уезжает	УЕЗЖАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+9	на	НА	PR	PR	PR	8	1-компл	_	_
+10	три	ТРИ	NUM	NUM nom - -	NUM nom - -	11	количест	_	_
+11	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	9	предл	_	_
+12	в	В	PR	PR	PR	11	распред	_	_
+13	Москву	МОСКВА	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	посещает	ПОСЕЩАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	8	сочин	_	_
+16	врача	ВРАЧ	S	S m anim acc sg	S m anim acc sg	15	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	19	предик	_	_
+19	делает	ДЕЛАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	15	сент-соч	_	_
+20	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	19	2-компл	_	_
+21	уколы	УКОЛ	S	S m inan acc pl	S m inan acc pl	19	1-компл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	но	НО	CONJ	CONJ	CONJ	19	сент-соч	_	_
+24	тогда	ТОГДА	ADV	ADV -	ADV -	27	обст	_	_
+25	к	К	PR	PR	PR	27	1-компл	_	_
+26	плите	ПЛИТА	S	S f inan loc sg	S f inan loc sg	25	предл	_	_
+27	встает	ВСТАВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	23	соч-союзн	_	_
+28	сама	САМ	A	A - nom sg plen f -	A - nom sg plen f -	29	опред	_	_
+29	Раиса	РАИСА	S	S f anim nom sg	S f anim nom sg	27	предик	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	32	предик	_	_
+32	жарит	ЖАРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	27	сент-соч	_	_
+33	восхитительные	ВОСХИТИТЕЛЬНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	34	опред	_	_
+34	котлеты	КОТЛЕТА	S	S f inan acc pl	S f inan acc pl	32	1-компл	_	_
+35	и	И	CONJ	CONJ	CONJ	32	сочин	_	_
+36	готовит	ГОТОВИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	35	соч-союзн	_	_
+37	потрясающую	ПОТРЯСАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen f act -	PARTCP ipf inpraes acc sg plen f act -	38	опред	_	_
+38	селедку	СЕЛЕДКА	S	S f inan acc sg	S f inan acc sg	36	1-компл	_	_
+39	под	ПОД	PR	PR	PR	38	атриб	_	_
+40	шубой	ШУБА	S	S f inan ins sg	S f inan ins sg	39	предл	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+
+1	Роль	РОЛЬ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+2	горничных	ГОРНИЧНАЯ	S	S f anim acc pl	S f anim acc pl	1	аппоз	_	_
+3	тут	ТУТ	ADV	ADV -	ADV -	4	обст	_	_
+4	отдана	ОТДАВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	0	ROOT	_	_
+5	бойким	БОЙКИЙ	A	A - ins sg plen n -	A - ins sg plen n -	4	2-компл	_	_
+6	«	«	_	_	PUNC	5	PUNC	_	_
+7	девочкам	ДЕВОЧКА	S	S f anim dat pl	S f anim dat pl	5	сочин	_	_
+8	»	»	_	_	PUNC	7	PUNC	_	_
+9	,	,	,	,	PUNC	7	PUNC	_	_
+10	справившим	СПРАВЛЯТЬ	PARTCP	PARTCP pf praet dat pl plen - act -	PARTCP pf praet dat pl plen - act -	7	опред	_	_
+11	шестидесятилетний	ШЕСТИДЕСЯТИЛЕТНИЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	опред	_	_
+12	юбилей	ЮБИЛЕЙ	S	S m inan nom sg	S m inan nom sg	16	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	по	ПО	PR	PR	PR	16	вводн	_	_
+15	хозяйству	ХОЗЯЙСТВО	S	S n inan dat sg	S n inan dat sg	14	предл	_	_
+16	помогают	ПОМОГАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	4	сент-соч	_	_
+17	мужики	МУЖИК	S	S m anim nom pl	S m anim nom pl	16	предик	_	_
+18	той	ТОТ	A	A - gen sg plen f -	A - gen sg plen f -	21	опред	_	_
+19	же	ЖЕ	PART	PART	PART	18	огранич	_	_
+20	возрастной	ВОЗРАСТНОЙ	A	A - gen sg plen f -	A - gen sg plen f -	21	опред	_	_
+21	категории	КАТЕГОРИЯ	S	S f inan gen sg	S f inan gen sg	17	атриб	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Каждый	КАЖДЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	день	ДЕНЬ	S	S m inan nom sg	S m inan nom sg	10	предик	_	_
+3	постельное	ПОСТЕЛЬНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	4	опред	_	_
+4	белье	БЕЛЬЕ	S	S n inan loc sg	S n inan loc sg	2	квазиагент	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	полотенца	ПОЛОТЕНЦЕ	S	S n inan nom pl	S n inan nom pl	5	соч-союзн	_	_
+7	в	В	PR	PR	PR	6	атриб	_	_
+8	отеле	ОТЕЛЬ	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	меняют	МЕНЯТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	но	НО	CONJ	CONJ	CONJ	10	сент-соч	_	_
+13	в	В	PR	PR	PR	16	обст	_	_
+14	номерах	НОМЕР	S	S m inan loc pl	S m inan loc pl	13	предл	_	_
+15	идеальная	ИДЕАЛЬНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	16	опред	_	_
+16	чистота	ЧИСТОТА	S	S f inan nom sg	S f inan nom sg	12	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+3	персонал	ПЕРСОНАЛ	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+4	любит	ЛЮБИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+5	наставлять	НАСТАВЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+6	постояльцев	ПОСТОЯЛЕЦ	S	S m anim acc pl	S m anim acc pl	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	например	НАПРИМЕР	ADV	ADV -	ADV -	5	обст	_	_
+9	:	:	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	9	1-компл	_	_
+2	На	НА	PR	PR	PR	1	атриб	_	_
+3	улице	УЛИЦА	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+4	ветер	ВЕТЕР	S	S m inan nom sg	S m inan nom sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	куда	КУДА	ADV	ADV -	ADV -	9	2-компл	_	_
+7	в	В	PR	PR	PR	9	обст	_	_
+8	сарафане	САРАФАН	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+9	направилась	НАПРАВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	вернись	ВЕРНУТЬСЯ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	9	вводн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	набрось	НАБРОСИТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	9	2-компл	_	_
+14	кофту	КОФТА	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

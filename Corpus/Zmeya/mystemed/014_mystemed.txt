@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"джой","gr":"S,persn,m,anim=nom,sg"}],"text":"Джой"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"встревожить","gr":"V,pf,tran=praet,acc,sg,partcp,plen,m,pass,inan"},{"lex":"встревожить","gr":"V,pf,tran=praet,nom,sg,partcp,plen,m,pass"}],"text":"встревоженный"}
+{"analysis":[{"lex":"кольбер","gr":"S,famn,m,anim=nom,sg"}],"text":"Кольбер"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=abl"},{"lex":"вы","gr":"SPRO,pl,2p=acc"},{"lex":"вы","gr":"SPRO,pl,2p=gen"}],"text":"вас"}
+{"analysis":[{"lex":"действовать","gr":"V,ipf,intr=inpraes,sg,indic,3p"}],"text":"действует"}
+{"analysis":[{"lex":"жара","gr":"S,sg,f,inan=nom"}],"text":"жара"}
+{"text":"\\s"}
+{"analysis":[{"lex":"идти","gr":"V,ipf,intr=pl,imper,1p"}],"text":"Идемте"}
+{"analysis":[{"lex":"обратно","gr":"ADV="}],"text":"обратно"}
+{"analysis":[{"lex":"там","gr":"ADVPRO="}],"text":"там"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=nom"}],"text":"вы"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inpraes,pl,indic,2p"}],"text":"будете"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"тень","gr":"S,f,inan=abl,sg"},{"lex":"тень","gr":"S,f,inan=acc,pl"},{"lex":"тень","gr":"S,f,inan=dat,sg"},{"lex":"тень","gr":"S,f,inan=gen,sg"},{"lex":"тень","gr":"S,f,inan=nom,pl"}],"text":"тени"}

@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"знакомый","gr":"A=abl,sg,plen,f"},{"lex":"знакомый","gr":"A=dat,sg,plen,f"},{"lex":"знакомый","gr":"A=gen,sg,plen,f"},{"lex":"знакомый","gr":"A=ins,sg,plen,f"}],"text":"знакомой"}
+{"analysis":[{"lex":"комната","gr":"S,f,inan=abl,sg"},{"lex":"комната","gr":"S,f,inan=dat,sg"}],"text":"комнате"}
+{"analysis":[{"lex":"собираться","gr":"V,intr=praet,pl,indic,pf"}],"text":"собрались"}
+{"analysis":[{"lex":"офицер","gr":"S,m,anim=nom,pl"}],"text":"офицеры"}
+{"analysis":[{"lex":"сотрудник","gr":"S,m,anim=nom,pl"}],"text":"сотрудники"}
+{"analysis":[{"lex":"особый","gr":"A=abl,sg,plen,f"},{"lex":"особый","gr":"A=dat,sg,plen,f"},{"lex":"особый","gr":"A=gen,sg,plen,f"},{"lex":"особый","gr":"A=ins,sg,plen,f"}],"text":"особой"}
+{"analysis":[{"lex":"часть","gr":"S,f,inan=abl,sg"},{"lex":"часть","gr":"S,f,inan=acc,pl"},{"lex":"часть","gr":"S,f,inan=dat,sg"},{"lex":"часть","gr":"S,f,inan=gen,sg"},{"lex":"часть","gr":"S,f,inan=nom,pl"}],"text":"части"}
+{"analysis":[{"lex":"западный","gr":"A=acc,sg,plen,m,anim"},{"lex":"западный","gr":"A=gen,sg,plen,m"},{"lex":"западный","gr":"A=gen,sg,plen,n"}],"text":"Западного"}
+{"analysis":[{"lex":"отряд","gr":"S,m,inan=gen,sg"}],"text":"отряда"}
+{"analysis":[{"lex":"однако","gr":"CONJ="}],"text":"однако"}
+{"analysis":[{"lex":"начальник","gr":"S,m,anim=acc,sg"},{"lex":"начальник","gr":"S,m,anim=gen,sg"}],"text":"начальника"}
+{"analysis":[{"lex":"среди","gr":"PR="}],"text":"среди"}
+{"analysis":[{"lex":"они","gr":"SPRO,pl=abl"},{"lex":"они","gr":"SPRO,pl=acc"},{"lex":"они","gr":"SPRO,pl=gen"}],"text":"них"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"было"}

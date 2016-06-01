@@ -1,0 +1,22 @@
+1	Только	ТОЛЬКО	PART	PART	PART	2	огранич	_	_
+2	начальник	НАЧАЛЬНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	хотел	ХОТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	отойти	ОТХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	от	ОТ	PR	PR	PR	4	1-компл	_	_
+6	окна	ОКНО	S	S n inan gen sg	S n inan gen sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	6	эксплет	_	_
+9	выйти	ВЫХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	8	инф-союзн	_	_
+10	на	НА	PR	PR	PR	9	2-компл	_	_
+11	станцию	СТАНЦИЯ	S	S f inan acc sg	S f inan acc sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	как	КАК	CONJ	CONJ	CONJ	3	2-компл	_	_
+14	вдруг	ВДРУГ	ADV	ADV -	ADV -	17	обст	_	_
+15	в	В	PR	PR	PR	17	обст	_	_
+16	окно	ОКНО	S	S n inan acc sg	S n inan acc sg	15	предл	_	_
+17	влетело	ВЛЕТАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	13	сравн-союзн	_	_
+18	множество	МНОЖЕСТВО	S	S n inan nom sg	S n inan nom sg	17	предик	_	_
+19	разъярённых	РАЗЪЯРЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	20	опред	_	_
+20	пчёл	ПЧЕЛА	S	S f anim gen pl	S f anim gen pl	18	квазиагент	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

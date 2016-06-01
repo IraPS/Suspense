@@ -1,0 +1,22 @@
+1	Официанты	ОФИЦИАНТ	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+2	уже	УЖЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	уносили	УНОСИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	кофейник	КОФЕЙНИК	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	кекс	КЕКС	S	S m inan acc sg	S m inan acc sg	5	соч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	заказанный	ЗАКАЗЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	6	опред	_	_
+9	экономным	ЭКОНОМНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	10	опред	_	_
+10	корреспондентом	КОРРЕСПОНДЕНТ	S	S m anim ins sg	S m anim ins sg	8	агент	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+13	тащили	ТАЩИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	12	соч-союзн	_	_
+14	вина	ВИНО	S	S n inan nom pl	S n inan nom pl	13	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	сладости	СЛАДОСТЬ	S	S f inan gen sg	S f inan gen sg	14	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	фрукты	ФРУКТ	S	S m inan acc pl	S m inan acc pl	13	1-компл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	сыры	СЫР	S	S m inan acc pl	S m inan acc pl	18	сочин	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

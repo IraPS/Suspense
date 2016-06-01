@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"начальник","gr":"S,m,anim=nom,sg"}],"text":"Начальник"}
+{"analysis":[{"lex":"схватывать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"схватил"}
+{"analysis":[{"lex":"полотенце","gr":"S,n,inan=abl,sg"},{"lex":"полотенце","gr":"S,n,inan=acc,sg"},{"lex":"полотенце","gr":"S,n,inan=nom,sg"}],"text":"полотенце"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"стал"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=ins"}],"text":"им"}
+{"analysis":[{"lex":"махать","gr":"V,ipf,intr=inf"}],"text":"махать"}
+{"analysis":[{"lex":"чтобы","gr":"CONJ="}],"text":"чтобы"}
+{"analysis":[{"lex":"выгонять","gr":"V=inf,pf"}],"text":"выгнать"}
+{"analysis":[{"lex":"пчела","gr":"S,f,anim=acc,pl"},{"lex":"пчела","gr":"S,f,anim=gen,pl"}],"text":"пчёл"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"комната","gr":"S,f,inan=acc,pl"},{"lex":"комната","gr":"S,f,inan=gen,sg"},{"lex":"комната","gr":"S,f,inan=nom,pl"}],"text":"комнаты"}

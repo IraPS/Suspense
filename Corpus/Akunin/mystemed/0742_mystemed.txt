@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"тон","gr":"S,m,inan=acc,sg"},{"lex":"тон","gr":"S,m,inan=nom,sg"}],"text":"Тон"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=acc,sg"},{"lex":"эраст","gr":"S,persn,m,anim=gen,sg"}],"text":"Эраста"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=acc,sg"},{"lex":"петрович","gr":"S,patrn,m,anim=gen,sg"}],"text":"Петровича"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"был"}
+{"analysis":[{"lex":"такой","gr":"APRO=abl,sg,f"},{"lex":"такой","gr":"APRO=dat,sg,f"},{"lex":"такой","gr":"APRO=gen,sg,f"},{"lex":"такой","gr":"APRO=ins,sg,f"},{"lex":"такой","gr":"APRO=acc,sg,m,inan"},{"lex":"такой","gr":"APRO=nom,sg,m"}],"text":"такой"}
+{"analysis":[{"lex":"брюзгливый","gr":"A=acc,sg,plen,m,inan"},{"lex":"брюзгливый","gr":"A=nom,sg,plen,m"}],"text":"брюзгливый"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"сжалиться","gr":"V,pf,intr=praet,sg,indic,f"}],"text":"сжалилась"}
+{"analysis":[{"lex":"шепнуть","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"шепнула"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"Не"}
+{"analysis":[{"lex":"продержаться","gr":"V,pf,intr=inpraes,sg,indic,3p"}],"text":"продержится"}

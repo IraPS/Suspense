@@ -1,0 +1,65 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	минуточку	МИНУТОЧКА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+4	проживет	ПРОЖИВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	-	-	-	-	PUNC	4	PUNC	_	_
+7	одними	ОДИН	A	A - ins pl plen - -	A - ins pl plen - -	8	опред	_	_
+8	губами	ГУБА	S	S f inan ins pl	S f inan ins pl	4	обст	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	без	БЕЗ	PR	PR	PR	4	обст	_	_
+11	звука	ЗВУК	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+12	в	В	PR	PR	PR	4	2-компл	_	_
+13	ухо	УХО	S	S n inan acc sg	S n inan acc sg	12	предл	_	_
+14	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	вводн	_	_
+15	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	14	2-компл	_	_
+16	фельдшер	ФЕЛЬДШЕР	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Потом	ПОТОМ	ADV	ADV -	ADV -	2	обст	_	_
+2	запнулся	ЗАПИНАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	деликатно	ДЕЛИКАТНО	ADV	ADV -	ADV -	5	обст	_	_
+5	посоветовал	ПОСОВЕТОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	соч-союзн	_	_
+6	:	:	:	:	PUNC	5	1-компл	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Вторую	ВТОРОЙ	A	A - acc sg plen f -	A - acc sg plen f -	2	опред	_	_
+2	ногу	НОГА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	может	МОЧЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	трогать	ТРОГАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	доктор	ДОКТОР	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Марлей	МАРЛЯ	S	S f inan ins sg	S f inan ins sg	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	знаете	ЗНАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	6	вводн	_	_
+4	ли	ЛИ	PART	PART	PART	3	огранич	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	замотаем...	ЗАМАТЫВАТЬ...	V	V pf - pl imper - 1p	V pf - pl imper - 1p	1	опред	_	_
+7	а то	а то	CONJ	CONJ	ZERO	1	сочин	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	дотянет	ДОТЯГИВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	7	соч-союзн	_	_
+10	до	ДО	PR	PR	PR	9	1-компл	_	_
+11	палаты	ПАЛАТА	S	S f inan gen sg	S f inan gen sg	10	предл	_	_
+12	...	...	SENT	SENT	SENT	11	PUNC	_	_
+
+1	А	А	PART	PART	PART	0	ROOT	_	_
+2	?	?	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Все	ВСЕ	S	S - - acc pl	S - - acc pl	0	ROOT	_	_
+2	лучше	ХОРОШО	ADV	ADV comp	ADV comp	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	если	ЕСЛИ	CONJ	CONJ	CONJ	2	сравнит	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	в	В	PR	PR	PR	0	ROOT	_	_
+7	операционной	ОПЕРАЦИОННЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	8	1-компл	_	_
+8	скончается	СКОНЧАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	6	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

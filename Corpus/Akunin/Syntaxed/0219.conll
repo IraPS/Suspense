@@ -1,0 +1,80 @@
+1	Вот	ВОТ	PART	PART	PART	2	огранич	_	_
+2	с	С	PR	PR	PR	0	ROOT	_	_
+3	кем	КТО	S	S m - ins sg	S m - ins sg	6	обст	_	_
+4	тебе	ТЫ	SPRO	SPRO sg 2p - loc	SPRO sg 2p - loc	6	1-компл	_	_
+5	отныне	ОТНЫНЕ	ADV	ADV -	ADV -	6	обст	_	_
+6	придется	ПРИХОДИТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	2	предл	_	_
+7	иметь	ИМЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	предик	_	_
+8	дело	ДЕЛО	S	S n inan acc sg	S n inan acc sg	7	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Ежели	ЕЖЕЛИ	CONJ	CONJ	CONJ	10	обст	_	_
+2	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	4	1-компл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	обманывает	ОБМАНЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	подч-союзн	_	_
+5	чутье	ЧУТЬЕ	S	S n inan loc sg	S n inan loc sg	4	2-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	Мидхат	МИДХАТ	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+8	с	С	PR	PR	PR	7	атриб	_	_
+9	Анваром	АНВАР	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	будут	БЫТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	дальше	ДАЛЕКО	ADV	ADV comp	ADV comp	13	обст	_	_
+13	вертеть	ВЕРТЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	соч-союзн	_	_
+14	султаном	СУЛТАН	S	S m anim ins sg	S m anim ins sg	13	2-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	как	КАК	CONJ	CONJ	CONJ	13	сравнит	_	_
+17	им	ОНИ	SPRO	SPRO pl - - dat	SPRO pl - - dat	18	1-компл	_	_
+18	заблагорассудится	ЗАБЛАГОРАССУДИТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	16	сравн-союзн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+21	через	ЧЕРЕЗ	PR	PR	PR	20	соч-союзн	_	_
+22	годик	ГОДИК	S	S m inan acc sg	S m inan acc sg	21	предл	_	_
+23	-	-	-	-	PUNC	22	PUNC	_	_
+24	другой	ДРУГОЙ	A	A - gen sg plen f -	A - gen sg plen f -	22	кратн	_	_
+25	…	…	SENT	SENT	SENT	24	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	–	–	–	–	PUNC	10	1-компл	_	_
+3	Ну	НУ	PART	PART	PART	2	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	дальше	ДАЛЕКО	ADV	ADV comp	ADV comp	10	обст	_	_
+6	неинтересно	НЕИНТЕРЕСНО	ADV	ADV -	ADV -	10	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	10	обст	_	_
+9	–	–	–	–	PUNC	10	1-компл	_	_
+10	оборвал	ОБОРВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+11	затянувшееся	ЗАТЯГИВАТЬСЯ	PARTCP	PARTCP pf praet acc sg plen n act -	PARTCP pf praet acc sg plen n act -	10	1-компл	_	_
+12	чтение	ЧТЕНИЕ	S	S n inan nom sg	S n inan nom sg	10	предик	_	_
+13	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+14	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+15	вытер	ВЫТИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	соч-союзн	_	_
+16	платком	ПЛАТОК	S	S m inan ins sg	S m inan ins sg	15	2-компл	_	_
+17	вспотевший	ВСПОТЕТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	18	опред	_	_
+18	лоб	ЛОБ	S	S m inan acc sg	S m inan acc sg	15	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Тем более	Тем более	ADV	ADV -	-	4	обст	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	2	вспом	_	_
+4	чутье	ЧУТЬЕ	S	S n inan loc sg	S n inan loc sg	6	предик	_	_
+5	все-таки	ВСЕ-ТАКИ	PART	PART	PART	6	огранич	_	_
+6	обмануло	ОБМАНЫВАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+7	умнейшего	УМНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	8	опред	_	_
+8	Николая	НИКОЛАЙ	S	S m anim gen sg	S m anim gen sg	6	1-компл	_	_
+9	Павловича	ПАВЛОВИЧ	S	S m anim gen sg	S m anim gen sg	8	аппоз	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Мидхат	МИДХАТ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	паша	ПАША	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+4	у	У	PR	PR	PR	7	обст	_	_
+5	власти	ВЛАСТЬ	S	S f inan gen sg	S f inan gen sg	4	предл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	удержался	УДЕРЖИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	отправлен	ОТПРАВЛЯТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	8	соч-союзн	_	_
+10	в	В	PR	PR	PR	9	2-компл	_	_
+11	изгнание	ИЗГНАНИЕ	S	S n inan acc sg	S n inan acc sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

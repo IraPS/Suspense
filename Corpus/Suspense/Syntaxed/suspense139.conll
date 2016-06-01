@@ -1,0 +1,29 @@
+1	—	—	—	—	PUNC	2	предик	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	вот	ВОТ	PART	PART	PART	4	огранич	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	проверю	ПРОВЕРЯТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	5	соч-союзн	_	_
+7	!..	!..	SENT	SENT	SENT	6	PUNC	_	_
+
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	твердо	ТВЕРДО	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+5	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	6	2-компл	_	_
+6	показалось	ПОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	4	сравн-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	вводн	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	поднимаясь	ПОДНИМАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	обст	_	_
+12	с	С	PR	PR	PR	11	обст	_	_
+13	койки	КОЙКА	S	S f inan gen sg	S f inan gen sg	12	предл	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+15	путаясь	ПУТАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	14	соч-союзн	_	_
+16	ногами	НОГА	S	S f inan ins pl	S f inan ins pl	15	1-компл	_	_
+17	в	В	PR	PR	PR	16	атриб	_	_
+18	сбившемся	СБИВАТЬСЯ	PARTCP	PARTCP pf praet loc sg plen m act -	PARTCP pf praet loc sg plen m act -	19	опред	_	_
+19	одеяле	ОДЕЯЛО	S	S n inan loc sg	S n inan loc sg	17	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

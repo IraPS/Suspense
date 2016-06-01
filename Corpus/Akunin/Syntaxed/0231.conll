@@ -1,0 +1,75 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Что	ЧТО	S	S n - nom sg	S n - nom sg	7	опред	_	_
+3	ж	Ж	PART	PART	PART	2	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	хорошо	ХОРОШО	ADV	ADV -	ADV -	7	вводн	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	с	С	PR	PR	PR	1	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	В	В	PR	PR	PR	1	обст	_	_
+3	голосе	ГОЛОС	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	Мизинова	МИЗИНОВ	S	S m inan gen sg	S m inan gen sg	3	квазиагент	_	_
+5	зазвучала	ЗАЗВУЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	тихая	ТИХИЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+7	угроза	УГРОЗА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	1-компл	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	госпожа	ГОСПОЖА	S	S f anim nom sg	S f anim nom sg	1	вводн	_	_
+5	неродственница	НЕРОДСТВЕННИЦА	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	узнали	УЗНАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+8	такое	ТАКОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	7	2-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	о	О	PR	PR	PR	13	3-компл	_	_
+11	чем	ЧТО	S	S n - ins sg	S n - ins sg	10	предл	_	_
+12	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	13	2-компл	_	_
+13	знать	ЗНАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+14	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	15	огранич	_	_
+15	ни	НИ	PART	PART	PART	16	огранич	_	_
+16	к	К	PR	PR	PR	13	1-компл	_	_
+17	чему	ЧТО	S	S n - dat sg	S n - dat sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	целях	ЦЕЛЬ	S	S f inan loc pl	S f inan loc pl	1	предл	_	_
+3	государственной	ГОСУДАРСТВЕННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	4	опред	_	_
+4	безопасности	БЕЗОПАСНОСТЬ	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+6	помещаю	ПОМЕЩАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+7	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	6	1-компл	_	_
+8	под	ПОД	PR	PR	PR	6	2-компл	_	_
+9	временный	ВРЕМЕННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	11	опред	_	_
+10	административный	АДМИНИСТРАТИВНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	11	опред	_	_
+11	арест	АРЕСТ	S	S m inan acc sg	S m inan acc sg	8	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	2	предик	_	_
+2	доставят	ДОСТАВЛЯТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+3	под	ПОД	PR	PR	PR	2	обст	_	_
+4	конвоем	КОНВОЙ	S	S m inan ins sg	S m inan ins sg	3	предл	_	_
+5	в	В	PR	PR	PR	2	2-компл	_	_
+6	кишиневский	КИШИНЕВСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+7	гарнизонный	ГАРНИЗОННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	карантин	КАРАНТИН	S	S m inan nom sg	S m inan nom sg	5	предл	_	_
+9	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+10	будут	БЫТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	9	соч-союзн	_	_
+11	содержать	СОДЕРЖАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	аналит	_	_
+12	там	ТАМ	ADV	ADV -	ADV -	11	обст	_	_
+13	под	ПОД	PR	PR	PR	11	обст	_	_
+14	стражей	СТРАЖА	S	S f inan ins sg	S f inan ins sg	13	предл	_	_
+15	до	ДО	PR	PR	PR	11	обст	_	_
+16	окончания	ОКОНЧАНИЕ	S	S n inan gen sg	S n inan gen sg	15	предл	_	_
+17	кампании	КАМПАНИЯ	S	S f inan gen sg	S f inan gen sg	16	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Так что	Так что	CONJ	CONJ	ZERO	0	ROOT	_	_
+2	пеняйте	ПЕНЯТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	1	соч-союзн	_	_
+3	на	НА	PR	PR	PR	2	2-компл	_	_
+4	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

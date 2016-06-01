@@ -1,0 +1,3 @@
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}
+{"analysis":[{"lex":"вздыхать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"вздохнул"}

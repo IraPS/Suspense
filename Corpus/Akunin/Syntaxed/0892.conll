@@ -1,0 +1,71 @@
+1	Временный	ВРЕМЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	штаб	ШТАБ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+3	устроили	УСТРАИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	обст	_	_
+5	третьем	ТРЕТИЙ	A	A - loc sg plen m -	A - loc sg plen m -	6	опред	_	_
+6	этаже	ЭТАЖ	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	в	В	PR	PR	PR	3	обст	_	_
+9	директорском	ДИРЕКТОРСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	10	опред	_	_
+10	кабинете	КАБИНЕТ	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Во-первых	ВО-ПЕРВЫХ	ADV	ADV -	ADV -	8	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	из	ИЗ	PR	PR	PR	1	сочин	_	_
+4	окон	ОКНО	S	S n inan gen pl	S n inan gen pl	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	действительно	ДЕЙСТВИТЕЛЬНО	ADV	ADV -	ADV -	8	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+9	видно	ВИДНО	ADV	ADV -	ADV -	10	огранич	_	_
+10	далекие	ДАЛЕКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	опред	_	_
+11	огоньки	ОГОНЕК	S	S m inan nom pl	S m inan nom pl	8	предик	_	_
+12	турецкой	ТУРЕЦКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+13	столицы	СТОЛИЦА	S	S f inan gen sg	S f inan gen sg	11	квазиагент	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	а	А	CONJ	CONJ	CONJ	8	сент-соч	_	_
+16	во-вторых	ВО-ВТОРЫХ	ADV	ADV -	ADV -	19	вводн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	прямо	ПРЯМО	PART	PART	PART	19	огранич	_	_
+19	из	ИЗ	PR	PR	PR	23	обст	_	_
+20	кабинета	КАБИНЕТ	S	S m inan gen sg	S m inan gen sg	19	предл	_	_
+21	стальная	СТАЛЬНОЙ	A	A - nom sg plen f -	A - nom sg plen f -	22	опред	_	_
+22	дверь	ДВЕРЬ	S	S f inan nom sg	S f inan nom sg	23	предик	_	_
+23	вела	ВЕСТИ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	15	соч-союзн	_	_
+24	в	В	PR	PR	PR	23	1-компл	_	_
+25	банковское	БАНКОВСКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	26	опред	_	_
+26	хранилище	ХРАНИЛИЩЕ	S	S n inan nom sg	S n inan nom sg	24	предл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	На	НА	PR	PR	PR	6	обст	_	_
+2	чугунных	ЧУГУННЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	3	опред	_	_
+3	полках	ПОЛКА	S	S f inan loc pl	S f inan loc pl	1	предл	_	_
+4	ровными	РОВНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	5	опред	_	_
+5	рядами	РЯД	S	S m inan ins pl	S m inan ins pl	6	1-компл	_	_
+6	стояли	СТОЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	мешки	МЕШОК	S	S m inan acc pl	S m inan acc pl	6	1-компл	_	_
+8	с	С	PR	PR	PR	7	атриб	_	_
+9	сургучными	СУРГУЧНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	10	опред	_	_
+10	печатями	ПЕЧАТЬ	S	S f inan ins pl	S f inan ins pl	8	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	предик	_	_
+2	'	'	_	_	PUNC	1	PUNC	_	_
+3	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	1	1-компл	_	_
+4	прочитал	ПРОЧИТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	арабскую	АРАБСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	вязь	ВЯЗЬ	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сочин	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	8	1-компл	_	_
+11	в	В	PR	PR	PR	0	ROOT	_	_
+12	каждом	КАЖДЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	13	опред	_	_
+13	мешке	МЕШОК	S	S m inan loc sg	S m inan loc sg	11	предл	_	_
+14	по	ПО	PR	PR	PR	13	атриб	_	_
+15	сто	СТО	NUM	NUM acc - -	NUM acc - -	16	количест	_	_
+16	тысяч	ТЫСЯЧА	S	S f inan gen -	S f inan gen -	14	предл	_	_
+17	лир	ЛИРА	S	S f inan gen pl	S f inan gen pl	16	квазиагент	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

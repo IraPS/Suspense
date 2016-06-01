@@ -1,0 +1,29 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	сочла	СЧЕСТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	4	опред	_	_
+4	замечание	ЗАМЕЧАНИЕ	S	S n inan acc sg	S n inan acc sg	2	1-компл	_	_
+5	непозволительно	НЕПОЗВОЛИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	2	неакт-компл	_	_
+6	грубым	ГРУБЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	27	опред	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	вжала	ВЖИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+9	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+10	в	В	PR	PR	PR	8	2-компл	_	_
+11	плечи	ПЛЕЧО	S	S n inan acc pl	S n inan acc pl	10	предл	_	_
+12	:	:	:	:	PUNC	14	опред	_	_
+13	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	12	обст	_	_
+14	оскорбленный	ОСКОРБЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	22	1-компл	_	_
+15	в	В	PR	PR	PR	14	обст	_	_
+16	лучших	ХОРОШИЙ	A	A supr loc pl plen - -	A supr loc pl plen - -	17	опред	_	_
+17	чувствах	ЧУВСТВО	S	S n inan loc pl	S n inan loc pl	15	предл	_	_
+18	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	22	предик	_	_
+19	ка	КА	PART	PART	PART	21	вспом	_	_
+20	-	-	-	-	PUNC	19	PUNC	_	_
+21	ак	АК	S	S m anim nonflex nonflex	S m anim nonflex nonflex	18	аппоз	_	_
+22	разобидится	РАЗОБИДЕТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	8	1-компл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	как	КАК	ADV	ADV -	ADV -	27	вводн	_	_
+25	-	-	-	-	PUNC	24	PUNC	_	_
+26	ак	АК	S	S m anim nonflex nonflex	S m anim nonflex nonflex	27	предик	_	_
+27	закричит	ЗАКРИЧАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	2	1-компл	_	_
+28	!	!	SENT	SENT	SENT	27	PUNC	_	_
+

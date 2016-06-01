@@ -1,0 +1,14 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	осторожно	ОСТОРОЖНО	ADV	ADV -	ADV -	3	обст	_	_
+3	приблизился	ПРИБЛИЖАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	к	К	PR	PR	PR	3	2-компл	_	_
+5	двери	ДВЕРЬ	S	S f inan dat sg	S f inan dat sg	4	предл	_	_
+6	в	В	PR	PR	PR	3	1-компл	_	_
+7	хранилище	ХРАНИЛИЩЕ	S	S n inan acc sg	S n inan acc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	провел	ПРОВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+10	рукой	РУКА	S	S f inan ins sg	S f inan ins sg	9	1-компл	_	_
+11	по	ПО	PR	PR	PR	10	атриб	_	_
+12	стали	СТАНОВИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

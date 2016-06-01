@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"смотреть","gr":"V,ipf,tran=praet,sg,indic,m"}],"text":"смотрел"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"сильвио","gr":"S,persn,m,anim=abl,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=abl,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=acc,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=acc,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=dat,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=dat,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=gen,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=gen,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=ins,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=ins,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=nom,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=nom,sg"}],"text":"Сильвио"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"изумление","gr":"S,n,inan=ins,sg"}],"text":"изумлением"}
+{"text":"\\s"}
+{"analysis":[{"lex":"таковой","gr":"APRO=acc,sg,n"},{"lex":"таковой","gr":"APRO=nom,sg,n"}],"text":"Таковое"}
+{"analysis":[{"lex":"признание","gr":"S,n,inan=acc,sg"},{"lex":"признание","gr":"S,n,inan=nom,sg"}],"text":"признание"}
+{"analysis":[{"lex":"совершенно","gr":"ADV="}],"text":"совершенно"}
+{"analysis":[{"lex":"смущать","gr":"V,tran=praet,sg,indic,n,pf"}],"text":"смутило"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=acc"},{"lex":"я","gr":"SPRO,sg,1p=gen"}],"text":"меня"}
+{"text":"\\s"}
+{"analysis":[{"lex":"сильвио","gr":"S,persn,m,anim=abl,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=abl,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=acc,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=acc,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=dat,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=dat,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=gen,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=gen,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=ins,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=ins,sg"},{"lex":"сильвио","gr":"S,persn,m,anim=nom,pl"},{"lex":"сильвио","gr":"S,persn,m,anim=nom,sg"}],"text":"Сильвио"}
+{"analysis":[{"lex":"продолжать","gr":"V,tran=praet,sg,indic,m,ipf"}],"text":"продолжал"}

@@ -1,0 +1,78 @@
+1	Пьеса	ПЬЕСА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+2	«	«	_	_	PUNC	3	PUNC	_	_
+3	Ревизор	РЕВИЗОР	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+4	»	»	_	_	PUNC	3	PUNC	_	_
+5	,	,	,	,	PUNC	3	PUNC	_	_
+6	немая	НЕМОЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+7	сцена	СЦЕНА	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	тупо	ТУПО	ADV	ADV -	ADV -	10	обст	_	_
+10	подумала	ПОДУМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	релят	_	_
+11	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	видя	ВИДЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	3	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	как	КАК	CONJ	CONJ	CONJ	13	сравнит	_	_
+16	в	В	PR	PR	PR	15	сравн-союзн	_	_
+17	дверях	ДВЕРЬ	S	S f inan loc pl	S f inan loc pl	16	предл	_	_
+18	вырастает	ВЫРАСТАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	сент-соч	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	застывает	ЗАСТЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	19	соч-союзн	_	_
+21	на	НА	PR	PR	PR	20	обст	_	_
+22	месте	МЕСТО	S	S n inan loc sg	S n inan loc sg	21	предл	_	_
+23	рослый	РОСЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	24	опред	_	_
+24	жандарм	ЖАНДАРМ	S	S m anim nom sg	S m anim nom sg	20	предик	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+2	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+4	Мизинов	МИЗИН	S	S f inan nom sg	S f inan nom sg	3	соч-союзн	_	_
+5	выставили	ВЫСТАВЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	7	опред	_	_
+6	вперед	ВПЕРЕД	ADV	ADV -	ADV -	5	2-компл	_	_
+7	револьверы	РЕВОЛЬВЕР	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	У	У	PR	PR	PR	4	обст	_	_
+2	генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	1	предл	_	_
+3	лицо	ЛИЦО	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+4	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	сердитое	СЕРДИТЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	4	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	у	У	PR	PR	PR	10	вводн	_	_
+8	титулярного	ТИТУЛЯРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	7	предл	_	_
+10	несчастное	НЕСЧАСТНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	5	сочин	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	развел	РАЗВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	руки	РУКА	S	S f inan acc pl	S f inan acc pl	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	да	ДА	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	так и	так и	CONJ	CONJ	ZERO	0	ROOT	_	_
+7	замер	ЗАМИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	подч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Митя	МИТЯ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Гриднев	ГРИДНЕВ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	разинул	РАЗЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	рот	РОТ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	хлопал	ХЛОПАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	соч-союзн	_	_
+7	своими	СВОЙ	A	A - ins pl plen - -	A - ins pl plen - -	9	опред	_	_
+8	замечательными	ЗАМЕЧАТЕЛЬНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	9	опред	_	_
+9	ресницами	РЕСНИЦА	S	S f inan ins pl	S f inan ins pl	6	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	поднял	ПОДЫМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	руку	РУКА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	снова	СНОВА	ADV	ADV -	ADV -	5	обст	_	_
+5	застегнуть	ЗАСТЕГНУТЬ	V	V pf - - inf - -	V pf - - inf - -	2	2-компл	_	_
+6	воротник	ВОРОТНИК	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+8	забыл	ЗАБЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+9	опустить	ОПУСКАТЬ	V	V pf - - inf - -	V pf - - inf - -	8	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

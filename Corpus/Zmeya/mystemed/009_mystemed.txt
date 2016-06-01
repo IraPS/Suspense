@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"они","gr":"SPRO,pl=nom"}],"text":"Они"}
+{"analysis":[{"lex":"выходить","gr":"V,intr=praet,pl,indic,pf"}],"text":"вышли"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"поляна","gr":"S,f,inan=acc,sg"}],"text":"поляну"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"высокий","gr":"A=abl,sg,plen,f"},{"lex":"высокий","gr":"A=dat,sg,plen,f"},{"lex":"высокий","gr":"A=gen,sg,plen,f"},{"lex":"высокий","gr":"A=ins,sg,plen,f"}],"text":"высокой"}
+{"analysis":[{"lex":"трава","gr":"S,f,inan=ins,sg"}],"text":"травой"}
+{"analysis":[{"lex":"усеивать","gr":"V=praet,acc,sg,partcp,plen,f,pf,pass,tran"}],"text":"усеянную"}
+{"analysis":[{"lex":"камень","gr":"S,m,inan=ins,pl"}],"text":"камнями"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"садиться","gr":"V,intr=praet,pl,indic,pf"}],"text":"сели"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"камень","gr":"S,m,inan=acc,pl"},{"lex":"камень","gr":"S,m,inan=nom,pl"}],"text":"камни"}
+{"analysis":[{"lex":"думать","gr":"V,ipf,intr=inpraes,ger"}],"text":"думая"}
+{"analysis":[{"lex":"каждый","gr":"APRO=acc,sg,m,inan"},{"lex":"каждый","gr":"APRO=nom,sg,m"}],"text":"каждый"}
+{"analysis":[{"lex":"о","gr":"PR="}],"text":"о"}
+{"analysis":[{"lex":"свой","gr":"APRO=abl,sg,m"},{"lex":"свой","gr":"APRO=abl,sg,n"}],"text":"своем"}

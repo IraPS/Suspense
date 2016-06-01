@@ -1,0 +1,43 @@
+1	Удивленная	УДИВЛЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	девушка	ДЕВУШКА	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+3	позвала	ПОЗВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	:	:	:	:	PUNC	3	1-компл	_	_
+5	"	"	_	_	PUNC	6	PUNC	_	_
+6	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+7	!	!	!	!	PUNC	6	аппоз	_	_
+8	"	"	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Ничего	НИЧТО	S	S n - gen sg	S n - gen sg	0	ROOT	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	прощая	ПРОЩАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	1	обст	_	_
+4	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	8	предик	_	_
+7	еще	ЕЩЕ	ADV	ADV -	ADV -	8	огранич	_	_
+8	во	ВО	PR	PR	PR	1	сент-соч	_	_
+9	власти	ВЛАСТЬ	S	S f inan gen sg	S f inan gen sg	8	предл	_	_
+10	внутреннего	ВНУТРЕННИЙ	A	A - gen sg plen n -	A - gen sg plen n -	11	опред	_	_
+11	насилия	НАСИЛИЕ	S	S n inan gen sg	S n inan gen sg	9	квазиагент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	которым	КОТОРЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	16	суб-копр	_	_
+14	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+15	окончательно	ОКОНЧАТЕЛЬНО	ADV	ADV -	ADV -	16	обст	_	_
+16	одержал	ОДЕРЖИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	сент-соч	_	_
+17	верх	ВЕРХ	S	S m inan acc sg	S m inan acc sg	16	1-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	девушка	ДЕВУШКА	S	S f anim nom sg	S f anim nom sg	20	предик	_	_
+20	направилась	НАПРАВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	17	релят	_	_
+21	по	ПО	PR	PR	PR	20	обст	_	_
+22	следу	СЛЕД	S	S m inan dat sg	S m inan dat sg	21	предл	_	_
+23	смятой	СМИНАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	16	сочин	_	_
+24	травы	ТРАВА	S	S f inan gen sg	S f inan gen sg	23	квазиагент	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	заглянув	ЗАГЛЯДЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	32	обст	_	_
+29	в	В	PR	PR	PR	28	1-компл	_	_
+30	кусты	КУСТ	S	S m inan acc pl	S m inan acc pl	29	предл	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	остановилась	ОСТАНАВЛИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	26	соч-союзн	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+

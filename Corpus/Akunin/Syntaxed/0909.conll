@@ -1,0 +1,20 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	взвизгнула	ВЗВИЗГИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	чуть не	чуть не	PART	PART	ZERO	6	огранич	_	_
+6	бросилась	БРОСАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	соч-союзн	_	_
+7	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	6	неакт-компл	_	_
+8	на	НА	PR	PR	PR	6	2-компл	_	_
+9	шею	ШЕЯ	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	да	ДА	CONJ	CONJ	CONJ	6	сочин	_	_
+12	вовремя	ВОВРЕМЯ	ADV	ADV -	ADV -	13	обст	_	_
+13	спохватилась	СПОХВАТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	11	соч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

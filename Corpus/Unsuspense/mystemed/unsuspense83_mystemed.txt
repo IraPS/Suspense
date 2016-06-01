@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"полдень","gr":"S,m,inan=acc,sg"},{"lex":"полдень","gr":"S,m,inan=nom,sg"}],"text":"полдень"}
+{"analysis":[{"lex":"завтракать","gr":"V,ipf,intr=praet,pl,indic"}],"text":"завтракали"}
+{"analysis":[{"lex":"потом","gr":"ADVPRO="}],"text":"потом"}
+{"analysis":[{"lex":"бродить","gr":"V,ipf,intr=praet,pl,indic"}],"text":"бродили"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"дом","gr":"S,m,inan=dat,sg"},{"lex":"дом","gr":"S,m,inan=part,sg"},{"lex":"дом","gr":"S,m,inan=loc,sg"}],"text":"дому"}
+{"analysis":[{"lex":"без","gr":"PR="}],"text":"без"}
+{"analysis":[{"lex":"цель","gr":"S,f,inan=abl,sg"},{"lex":"цель","gr":"S,f,inan=acc,pl"},{"lex":"цель","gr":"S,f,inan=dat,sg"},{"lex":"цель","gr":"S,f,inan=gen,sg"},{"lex":"цель","gr":"S,f,inan=nom,pl"}],"text":"цели"}
+{"analysis":[{"lex":"подходить","gr":"V,intr=praet,pl,indic,ipf"}],"text":"подходили"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"окно","gr":"S,n,inan=dat,pl"}],"text":"окнам"}

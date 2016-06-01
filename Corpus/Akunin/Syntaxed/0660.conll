@@ -1,0 +1,24 @@
+1	Офицер	ОФИЦЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	понизил	ПОНИЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	голос	ГОЛОС	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+4	:	:	:	:	PUNC	6	опред	_	_
+5	–	–	–	–	PUNC	6	опред	_	_
+6	Кинжал	КИНЖАЛ	S	S m inan nom sg	S m inan nom sg	2	разъяснит	_	_
+7	Ивана	ИВАН	S	S m anim gen sg	S m anim gen sg	6	квазиагент	_	_
+8	Харитоновича	ХАРИТОНОВИЧ	S	S m anim acc sg	S m anim acc sg	6	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	12	предик	_	_
+11	сразу	СРАЗУ	ADV	ADV -	ADV -	12	обст	_	_
+12	признал	ПРИЗНАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сент-соч	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	показывал	ПОКАЗЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	говорил	ГОВОРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	подарок	ПОДАРОК	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+7	грузинского	ГРУЗИНСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	8	опред	_	_
+8	князя	КНЯЗЬ	S	S m anim gen sg	S m anim gen sg	6	квазиагент	_	_
+9	…	…	SENT	SENT	SENT	8	PUNC	_	_
+

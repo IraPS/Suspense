@@ -1,0 +1,55 @@
+1	Припекало	ПРИПЕКАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+2	взаправду	ВЗАПРАВДУ	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	первый	ПЕРВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	5	опред	_	_
+5	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	7	обст	_	_
+6	по-весеннему	ПО-ВЕСЕННЕМУ	ADV	ADV -	ADV -	7	обст	_	_
+7	голубело	ГОЛУБЕТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	сент-соч	_	_
+8	небо	НЕБО	S	S n inan nom sg	S n inan nom sg	7	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	золоченные	ЗОЛОТИТЬ	PARTCP	PARTCP ipf praet acc pl plen - pass inan	PARTCP ipf praet acc pl plen - pass inan	12	опред	_	_
+12	солнышком	СОЛНЫШКО	S	S n inan ins sg	S n inan ins sg	15	обст	_	_
+13	сосны	СОСНА	S	S f inan gen sg	S f inan gen sg	12	квазиагент	_	_
+14	тихо	ТИХО	ADV	ADV -	ADV -	15	обст	_	_
+15	грелись	ГРЕТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	10	соч-союзн	_	_
+16	на	НА	PR	PR	PR	15	обст	_	_
+17	горушке	ГОРУШКА	S	S f inan loc sg	S f inan loc sg	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	над	НАД	PR	PR	PR	15	2-компл	_	_
+20	родничком	РОДНИЧОК	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	В	В	PR	PR	PR	0	ROOT	_	_
+2	этом	ЭТОТ	A	A - loc sg plen n -	A - loc sg plen n -	3	опред	_	_
+3	месте	МЕСТО	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	недалеко	НЕДАЛЕКО	ADV	ADV -	ADV -	1	сочин	_	_
+6	от	ОТ	PR	PR	PR	5	1-компл	_	_
+7	Сосновки	СОСНОВКА	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	Катерина	КАТЕРИНА	S	S f anim nom sg	S f anim nom sg	1	предик	_	_
+10	да	ДА	CONJ	CONJ	CONJ	1	сент-соч	_	_
+11	и	И	CONJ	CONJ	CONJ	18	соотнос	_	_
+12	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	Иван	ИВАН	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+14	Африканович	АФРИКАНОВИЧ	S	S m anim nom sg	S m anim nom sg	13	аппоз	_	_
+15	всегда	ВСЕГДА	ADV	ADV -	ADV -	16	обст	_	_
+16	приворачивали	ПРИВОРАЧИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	10	соч-союзн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	пили	ПИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	16	сочин	_	_
+19	родничковую	РОДНИЧКОВЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	20	опред	_	_
+20	воду	ВОДА	S	S f inan acc sg	S f inan acc sg	18	1-компл	_	_
+21	даже	ДАЖЕ	PART	PART	PART	22	огранич	_	_
+22	зимой	ЗИМА	S	S f inan ins sg	S f inan ins sg	18	2-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Отдыхали	ОТДЫХАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	просто	ПРОСТО	PART	PART	PART	4	огранич	_	_
+4	останавливались	ОСТАНАВЛИВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	соч-союзн	_	_
+5	посидеть	ПОСИДЕТЬ	V	V pf - - inf - -	V pf - - inf - -	4	1-компл	_	_
+6	с	С	PR	PR	PR	5	2-компл	_	_
+7	минуту	МИНУТА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

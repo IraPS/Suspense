@@ -1,0 +1,22 @@
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	Хозяйственная	ХОЗЯЙСТВЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	бабочка	БАБОЧКА	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	—	—	—	—	PUNC	2	предик	_	_
+2	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	о	О	PR	PR	PR	2	3-компл	_	_
+4	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	3	предл	_	_
+5	мещанин	МЕЩАНИН	S	S m anim nom sg	S m anim nom sg	7	композ	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	покачивая	ПОКАЧИВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+8	головою	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	7	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	—	—	—	—	PUNC	2	1-компл	_	_
+2	Переводятся	ПЕРЕВОДИТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+3	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	2	обст	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	такие	ТАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	соч-союзн	_	_
+6	...	...	SENT	SENT	SENT	5	PUNC	_	_
+

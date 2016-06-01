@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"Д"}
+{"analysis":[{"lex":"эвр","qual":"bastard","gr":"S,m,inan=abl,sg"}],"text":"Эвре"}
+{"analysis":[{"lex":"захлопывать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"захлопнул"}
+{"analysis":[{"lex":"стальной","gr":"A=acc,sg,plen,f"}],"text":"стальную"}
+{"analysis":[{"lex":"дверь","gr":"S,f,inan=acc,sg"},{"lex":"дверь","gr":"S,f,inan=nom,sg"}],"text":"дверь"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"задвигать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"задвинул"}
+{"analysis":[{"lex":"засов","gr":"S,m,inan=acc,sg"},{"lex":"засов","gr":"S,m,inan=nom,sg"}],"text":"засов"}

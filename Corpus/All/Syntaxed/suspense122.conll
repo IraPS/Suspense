@@ -1,0 +1,17 @@
+1	Бледное	БЛЕДНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+2	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+3	Аксиньи	АКСИНЬЯ	S	S f anim gen sg	S f anim gen sg	2	квазиагент	_	_
+4	висело	ВИСЕТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	в	В	PR	PR	PR	4	обст	_	_
+6	черном	ЧЕРНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	7	опред	_	_
+7	квадрате	КВАДРАТ	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+8	двери	ДВЕРЬ	S	S f inan gen sg	S f inan gen sg	7	квазиагент	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Тоска	ТОСКА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	обвилась	ОБВИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	вокруг	ВОКРУГ	PR	PR	PR	2	обст	_	_
+4	моего	МОЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	сердца	СЕРДЦЕ	S	S n inan gen sg	S n inan gen sg	3	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

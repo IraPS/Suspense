@@ -1,0 +1,22 @@
+1	Ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	2	2-компл	_	_
+2	показалось	ПОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	предик	_	_
+5	губы	ГУБА	S	S f inan nom pl	S f inan nom pl	8	предик	_	_
+6	Фандорина	ФАНДОРИН	S	S m anim gen sg	S m anim gen sg	5	квазиагент	_	_
+7	чуть	ЧУТЬ	ADV	ADV -	ADV -	8	огранич	_	_
+8	дрогнули	ДРОГНУТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	подч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	нет	НЕТ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	померещилось	ПОМЕРЕЩИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+5	–	–	–	–	PUNC	10	1-компл	_	_
+6	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	субъект	СУБЪЕКТ	S	S m inan nom sg	S m inan nom sg	10	предик	_	_
+8	улыбаться	УЛЫБАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	10	1-компл	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	умеет	УМЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

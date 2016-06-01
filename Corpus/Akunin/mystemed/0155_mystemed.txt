@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"ваш","gr":"APRO=acc,sg,n"},{"lex":"ваш","gr":"APRO=nom,sg,n"}],"text":"Ваше"}
+{"analysis":[{"lex":"превосходительство","gr":"S,n,anim=acc,sg"},{"lex":"превосходительство","gr":"S,n,anim=nom,sg"}],"text":"превосходительство"}
+{"analysis":[{"lex":"казаться","gr":"V,ipf,intr=sg,imper,2p"}],"text":"кажись"}
+{"analysis":[{"lex":"семенов","gr":"S,famn,m,anim=nom,sg"}],"text":"Семенов"}

@@ -1,0 +1,138 @@
+1	—	—	—	—	PUNC	4	опред	_	_
+2	Вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	хороший	ХОРОШИЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	выстрел	ВЫСТРЕЛ	S	S m inan nom sg	S m inan nom sg	7	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	—	—	—	—	PUNC	4	опред	_	_
+7	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	обращаясь	ОБРАЩАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	оп-опред	_	_
+11	к	К	PR	PR	PR	10	1-компл	_	_
+12	графу	ГРАФ	S	S m anim dat sg	S m anim dat sg	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	Да	ДА	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	—	—	—	—	PUNC	5	1-компл	_	_
+5	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	соч-союзн	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	—	—	—	—	PUNC	11	вводн	_	_
+9	выстрел	ВЫСТРЕЛ	S	S m inan nom sg	S m inan nom sg	11	предик	_	_
+10	очень	ОЧЕНЬ	ADV	ADV -	ADV -	11	огранич	_	_
+11	замечательный	ЗАМЕЧАТЕЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	сент-соч	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	хорошо	ХОРОШО	PART	PART	PART	4	огранич	_	_
+3	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+4	стреляете	СТРЕЛЯТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	1	соч-союзн	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	—	—	—	—	PUNC	2	1-компл	_	_
+2	продолжал	ПРОДОЛЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	—	—	—	—	PUNC	5	1-компл	_	_
+2	Изрядно	ИЗРЯДНО	ADV	ADV -	ADV -	5	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	—	—	—	—	PUNC	5	1-компл	_	_
+5	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	обрадовавшись	ОБРАДОВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	5	обст	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	8	1-компл	_	_
+11	разговор	РАЗГОВОР	S	S m inan nom sg	S m inan nom sg	12	предик	_	_
+12	коснулся	КАСАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	подч-союзн	_	_
+13	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	12	обст	_	_
+14	предмета	ПРЕДМЕТ	S	S m inan gen sg	S m inan gen sg	12	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	12	2-компл	_	_
+17	близкого	БЛИЗКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	16	опред	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	—	—	—	—	PUNC	9	1-компл	_	_
+2	В	В	PR	PR	PR	1	атриб	_	_
+3	тридцати	ТРИДЦАТЬ	NUM	NUM loc - -	NUM loc - -	4	количест	_	_
+4	шагах	ШАГ	S	S m inan loc pl	S m inan loc pl	2	предл	_	_
+5	промаху	ПРОМАХ	S	S m inan dat sg	S m inan dat sg	9	2-компл	_	_
+6	в	В	PR	PR	PR	9	обст	_	_
+7	карту	КАРТА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	дам	ДАВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	разумеется	РАЗУМЕЕТСЯ	ADV	ADV -	ADV -	12	огранич	_	_
+12	из	ИЗ	PR	PR	PR	9	разъяснит	_	_
+13	знакомых	ЗНАКОМЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	14	опред	_	_
+14	пистолетов	ПИСТОЛЕТ	S	S m inan gen pl	S m inan gen pl	12	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	Право	ПРАВО	ADV	ADV -	ADV -	1	обст	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	—	—	—	—	PUNC	2	1-компл	_	_
+2	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	графиня	ГРАФИНЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	с	С	PR	PR	PR	2	обст	_	_
+6	видом	ВИД	S	S m inan ins sg	S m inan ins sg	5	предл	_	_
+7	большой	БОЛЬШОЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	опред	_	_
+8	внимательности	ВНИМАТЕЛЬНОСТЬ	S	S f inan gen sg	S f inan gen sg	6	квазиагент	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	—	—	—	—	PUNC	2	2-компл	_	_
+11	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+12	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	17	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	мой	МОЙ	A	A - nom sg plen m -	A - nom sg plen m -	15	опред	_	_
+15	друг	ДРУГ	S	S m anim nom sg	S m anim nom sg	17	вводн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	попадешь	ПОПАДАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	11	соч-союзн	_	_
+18	ли	ЛИ	PART	PART	PART	17	огранич	_	_
+19	в	В	PR	PR	PR	17	обст	_	_
+20	карту	КАРТА	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	на	НА	PR	PR	PR	17	2-компл	_	_
+22	тридцати	ТРИДЦАТЬ	NUM	NUM loc - -	NUM loc - -	23	количест	_	_
+23	шагах	ШАГ	S	S m inan loc pl	S m inan loc pl	21	предл	_	_
+24	?	?	SENT	SENT	SENT	23	PUNC	_	_
+
+1	—	—	—	—	PUNC	5	1-компл	_	_
+2	Когда-нибудь	КОГДА-НИБУДЬ	ADV	ADV -	ADV -	5	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	—	—	—	—	PUNC	5	1-компл	_	_
+5	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	граф	ГРАФ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	—	—	—	—	PUNC	5	сент-соч	_	_
+9	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	10	предик	_	_
+10	попробуем	ПОПРОБОВАТЬ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	5	сент-соч	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	В	В	PR	PR	PR	5	обст	_	_
+2	свое	СВОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	3	опред	_	_
+3	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	1	предл	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	стрелял	СТРЕЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	худо	ХУДО	ADV	ADV -	ADV -	5	обст	_	_
+8	;	;	SENT	SENT	SENT	7	PUNC	_	_
+
+1	но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вот	ВОТ	PART	PART	PART	1	огранич	_	_
+3	уже	УЖЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	четыре	ЧЕТЫРЕ	NUM	NUM nom - -	NUM nom - -	5	количест	_	_
+5	года	ГОД	S	S m inan gen sg	S m inan gen sg	1	длительн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как	КАК	CONJ	CONJ	CONJ	1	соотнос	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	брал	БРАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сравн-союзн	_	_
+11	в	В	PR	PR	PR	10	2-компл	_	_
+12	руки	РУКА	S	S f inan acc pl	S f inan acc pl	11	предл	_	_
+13	пистолета	ПИСТОЛЕТ	S	S m inan gen sg	S m inan gen sg	12	квазиагент	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

@@ -1,0 +1,33 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	оттолкнула	ОТТАЛКИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Фандорина	ФАНДОРИН	S	S f inan nom sg	S f inan nom sg	2	обст-тавт	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	бросилась	БРОСАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	соч-союзн	_	_
+6	к	К	PR	PR	PR	5	2-компл	_	_
+7	двери	ДВЕРЬ	S	S f inan dat sg	S f inan dat sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Ударилась	УДАРЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+2	о	О	PR	PR	PR	1	2-компл	_	_
+3	косяк	КОСЯК	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	выбежала	ВЫБЕГАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	сочин	_	_
+6	на	НА	PR	PR	PR	5	2-компл	_	_
+7	крыльцо	КРЫЛЬЦО	S	S n inan acc sg	S n inan acc sg	6	предл	_	_
+8	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+9	ослепла	ОСЛЕПНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+10	от	ОТ	PR	PR	PR	9	1-компл	_	_
+11	яркого	ЯРКИЙ	A	A - gen sg plen n -	A - gen sg plen n -	12	опред	_	_
+12	солнца	СОЛНЦЕ	S	S n inan gen sg	S n inan gen sg	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Пришлось	ПРИХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+2	остановиться	ОСТАНАВЛИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Рядом	РЯДОМ	ADV	ADV -	ADV -	3	обст	_	_
+2	опять	ОПЯТЬ	ADV	ADV -	ADV -	3	обст	_	_
+3	возник	ВОЗНИКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

@@ -1,0 +1,7 @@
+1	Оркестр	ОРКЕСТР	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	грянул	ГРЯНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	торжественный	ТОРЖЕСТВЕННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	5	опред	_	_
+4	Преображенский	ПРЕОБРАЖЕНСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	5	опред	_	_
+5	марш	МАРШ	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

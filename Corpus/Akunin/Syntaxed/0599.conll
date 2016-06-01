@@ -1,0 +1,133 @@
+1	Француз	ФРАНЦУЗ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	помог	ПОМОГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	барышне	БАРЫШНЯ	S	S f anim dat sg	S f anim dat sg	2	2-компл	_	_
+4	спешиться	СПЕШИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	усадив	УСАДИТЬ	V	V pf praet - ger - -	V pf praet - ger - -	13	обст	_	_
+8	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	7	1-компл	_	_
+9	на	НА	PR	PR	PR	7	2-компл	_	_
+10	складной	СКЛАДНОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	11	опред	_	_
+11	стул	СТУЛ	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	принялся	ПРИНИМАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+14	объяснять	ОБЪЯСНЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	1-компл	_	_
+15	:	:	:	:	PUNC	0	ROOT	_	_
+16	–	–	–	–	PUNC	0	ROOT	_	_
+17	Вон	ВОН	ADV	ADV -	ADV -	18	обст	_	_
+18	там	ТАМ	ADV	ADV -	ADV -	16	1-компл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	на	НА	PR	PR	PR	16	2-компл	_	_
+21	противостоящих	ПРОТИВОСТОЯЩИЙ	A	A - gen pl plen - -	A - gen pl plen - -	22	опред	_	_
+22	высотах	ВЫСОТА	S	S f inan loc pl	S f inan loc pl	20	предл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	укрепленные	УКРЕПЛЯТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	16	сочин	_	_
+25	позиции	ПОЗИЦИЯ	S	S f inan gen sg	S f inan gen sg	24	1-компл	_	_
+26	турок	ТУРОК	S	S m anim gen pl	S m anim gen pl	25	квазиагент	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Видите	ВИДЕТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	где	ГДЕ	ADV	ADV -	ADV -	5	обст	_	_
+4	фонтанами	ФОНТАН	S	S m inan ins pl	S m inan ins pl	5	1-компл	_	_
+5	вздымаются	ВЗДЫМАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+6	разрывы	РАЗРЫВ	S	S m inan nom pl	S m inan nom pl	5	предик	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	3	опред	_	_
+2	самый	САМЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	центр	ЦЕНТР	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+4	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	позиции	ПОЗИЦИЯ	S	S f inan gen sg	S f inan gen sg	3	квазиагент	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Русско	РУССКО	COM	COM	COM	4	композ	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	румынская	РУМЫНСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	армия	АРМИЯ	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+5	вытянулась	ВЫТЯГИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	1-компл	_	_
+6	параллельной	ПАРАЛЛЕЛЬНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	7	опред	_	_
+7	линией	ЛИНИЯ	S	S f inan ins sg	S f inan ins sg	5	1-компл	_	_
+8	километров	КИЛОМЕТР	S	S m inan gen pl	S m inan gen pl	9	предл	_	_
+9	на	НА	PR	PR	PR	5	обст	_	_
+10	пятнадцать	ПЯТНАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	8	аппрокс-колич	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	нам	МЫ	SPRO	SPRO pl 1p - dat	SPRO pl 1p - dat	14	дат-субъект	_	_
+13	отсюда	ОТСЮДА	ADV	ADV -	ADV -	14	обст	_	_
+14	можно	МОЖНО	ADV	ADV -	ADV -	0	ROOT	_	_
+15	обозреть	ОБОЗРЕВАТЬ	V	V pf - - inf - -	V pf - - inf - -	14	предик	_	_
+16	только	ТОЛЬКО	PART	PART	PART	17	огранич	_	_
+17	часть	ЧАСТЬ	S	S f inan nom sg	S f inan nom sg	14	сент-соч	_	_
+18	этого	ЭТОТ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+19	огромного	ОГРОМНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	20	опред	_	_
+20	пространства	ПРОСТРАНСТВО	S	S n inan gen sg	S n inan gen sg	17	квазиагент	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Обратите	ОБРАЩАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	0	ROOT	_	_
+2	внимание	ВНИМАНИЕ	S	S n inan acc sg	S n inan acc sg	1	1-компл	_	_
+3	на	НА	PR	PR	PR	1	2-компл	_	_
+4	круглый	КРУГЛЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	5	опред	_	_
+5	холм	ХОЛМ	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	нет	НЕТ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	5	сочин	_	_
+8	вон	ВОН	PART	PART	PART	9	огранич	_	_
+9	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	7	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	где	ГДЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+12	белый	БЕЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	шатер	ШАТЕР	S	S m inan nom sg	S m inan nom sg	11	предик	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	3	опред	_	_
+2	командный	КОМАНДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	пункт	ПУНКТ	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	временная	ВРЕМЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	ставка	СТАВКА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Там	ТАМ	ADV	ADV -	ADV -	14	обст	_	_
+2	и	И	CONJ	CONJ	CONJ	10	соотнос	_	_
+3	начальствующий	НАЧАЛЬСТВУЮЩИЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	предик	_	_
+4	Западным	ЗАПАДНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	5	опред	_	_
+5	отрядом	ОТРЯД	S	S m inan ins sg	S m inan ins sg	8	обст	_	_
+6	князь	КНЯЗЬ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+7	Карл	КАРЛ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	Румынский	РУМЫНСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	опред	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	главнокомандующий	ГЛАВНОКОМАНДУЮЩИЙ	S	S m anim nom sg	S m anim nom sg	10	соч-союзн	_	_
+12	гран	ГРАН	S	S m inan acc sg	S m inan acc sg	14	1-компл	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	дюк	ДЮК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+15	Николай	НИКОЛАЙ	S	S m anim nom sg	S m anim nom sg	14	аппоз	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+18	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	19	опред	_	_
+19	император	ИМПЕРАТОР	S	S m anim nom sg	S m anim nom sg	17	соч-союзн	_	_
+20	Александр	АЛЕКСАНДР	S	S m anim nom sg	S m anim nom sg	19	аппоз	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	О	О	PR	PR	PR	6	2-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	ракеты	РАКЕТА	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	ракеты	РАКЕТА	S	S f inan gen sg	S f inan gen sg	3	сочин	_	_
+6	пошли	ПОЙТИ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Живописное	ЖИВОПИСНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+2	зрелище	ЗРЕЛИЩЕ	S	S n inan nom sg	S n inan nom sg	5	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	правда	ПРАВДА	ADV	ADV -	ADV -	0	ROOT	_	_
+6	ли	ЛИ	PART	PART	PART	5	огранич	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+

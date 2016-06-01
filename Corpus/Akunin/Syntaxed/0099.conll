@@ -1,0 +1,53 @@
+1	Стрелять	СТРЕЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	спешил	СПЕШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	целился	ЦЕЛИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сочин	_	_
+7	как	КАК	CONJ	CONJ	CONJ	6	сравнит	_	_
+8	следует	СЛЕДОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	сравн-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+11	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	12	квазиагент	_	_
+12	поза	ПОЗА	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+13	выглядела	ВЫГЛЯДЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	10	соч-союзн	_	_
+14	столь	СТОЛЬ	ADV	ADV -	ADV -	15	огранич	_	_
+15	внушительно	ВНУШИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	13	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	что	ЧТО	CONJ	CONJ	CONJ	15	предик	_	_
+18	никто	НИКТО	S	S m - nom sg	S m - nom sg	22	дат-субъект	_	_
+19	из	ИЗ	PR	PR	PR	18	атриб	_	_
+20	разбойников	РАЗБОЙНИК	S	S m anim gen pl	S m anim gen pl	19	предл	_	_
+21	первым	ПЕРВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	22	суб-копр	_	_
+22	лезть	ЛЕЗТЬ	V	V ipf - - inf - -	V ipf - - inf - -	17	подч-союзн	_	_
+23	под	ПОД	PR	PR	PR	26	обст	_	_
+24	пулю	ПУЛЯ	S	S f inan acc sg	S f inan acc sg	23	предл	_	_
+25	не	НЕ	PART	PART	PART	26	огранич	_	_
+26	захотел	ЗАХОТЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сочин	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	 	 	 	 	PUNC	31	1-компл	_	_
+29	–	–	–	–	PUNC	30	опред	_	_
+30	отряд	ОТРЯД	S	S m inan nom sg	S m inan nom sg	31	предик	_	_
+31	рассыпался	РАССЫПАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	26	сочин	_	_
+32	с	С	PR	PR	PR	31	обст	_	_
+33	дороги	ДОРОГА	S	S f inan gen sg	S f inan gen sg	32	предл	_	_
+34	по	ПО	PR	PR	PR	33	атриб	_	_
+35	лугу	ЛУГ	S	S m inan loc2 sg	S m inan loc2 sg	34	предл	_	_
+36	,	,	,	,	PUNC	35	PUNC	_	_
+37	охватывая	ОХВАТЫВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	31	обст	_	_
+38	беглецов	БЕГЛЕЦ	S	S m anim acc pl	S m anim acc pl	37	1-компл	_	_
+39	полукругом	ПОЛУКРУГ	S	S m inan ins sg	S m inan ins sg	37	2-компл	_	_
+40	.	.	SENT	SENT	SENT	39	PUNC	_	_
+
+1	Выстрелы	ВЫСТРЕЛ	S	S m inan nom pl	S m inan nom pl	2	предик	_	_
+2	стихли	СТИХАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+6	догадалась	ДОГАДЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	соч-союзн	_	_
+7	:	:	:	:	PUNC	9	1-компл	_	_
+8	хотят	ХОТЕТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	6	1-компл	_	_
+9	взять	ВЗЯТЬ	V	V pf - - inf - -	V pf - - inf - -	8	1-компл	_	_
+10	живьем	ЖИВЬЕМ	ADV	ADV -	ADV -	9	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

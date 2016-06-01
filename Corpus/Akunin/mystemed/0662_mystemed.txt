@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=abl,sg"},{"lex":"варя","gr":"S,persn,f,anim=dat,sg"}],"text":"Варе"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"стало"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"плохо","gr":"ADV=comp"}],"text":"хуже"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"зажмуриваться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"зажмурилась"}
+{"analysis":[{"lex":"чтобы","gr":"CONJ="}],"text":"чтобы"}
+{"analysis":[{"lex":"отогнать","gr":"V,pf,tran=inf"}],"text":"отогнать"}
+{"analysis":[{"lex":"дурнота","gr":"S,sg,f,inan=acc"}],"text":"дурноту"}

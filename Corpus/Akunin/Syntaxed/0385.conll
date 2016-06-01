@@ -1,0 +1,68 @@
+1	С	С	PR	PR	PR	6	обст	_	_
+2	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	3	количест	_	_
+3	стороны	СТОРОНА	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	дела	ДЕЛО	S	S n inan gen sg	S n inan gen sg	6	1-компл	_	_
+6	обстояли	ОБСТОЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	12	1-компл	_	_
+7	скверно	СКВЕРНО	ADV	ADV -	ADV -	6	обст	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	даже	ДАЖЕ	PART	PART	PART	11	огранич	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	можно	МОЖНО	ADV	ADV -	ADV -	14	колич-огран	_	_
+12	сказать	СКАЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	11	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	хуже	ПЛОХОЙ	A	A comp - - plen - -	A comp - - plen - -	0	ROOT	_	_
+15	некуда	НЕКУДА	ADV	ADV -	ADV -	14	обст	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Бедный	БЕДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	все	ВСЕ	S	S - - acc pl	S - - acc pl	4	1-компл	_	_
+4	томился	ТОМИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	за	ЗА	PR	PR	PR	4	1-компл	_	_
+6	семью	СЕМЬ	NUM	NUM ins - -	NUM ins - -	7	количест	_	_
+7	замками	ЗАМОК	S	S m inan ins pl	S m inan ins pl	5	предл	_	_
+8	–	–	–	–	PUNC	16	дат-субъект	_	_
+9	после	ПОСЛЕ	PR	PR	PR	8	обст	_	_
+10	плевненского	ПЛЕВНЕНСКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	11	опред	_	_
+11	кровопролития	КРОВОПРОЛИТИЕ	S	S n inan gen sg	S n inan gen sg	9	предл	_	_
+12	зловредному	ЗЛОВРЕДНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	13	опред	_	_
+13	Казанзаки	КАЗАНЗАК	S	S f inan nom sg	S f inan nom sg	14	предик	_	_
+14	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	4	сент-соч	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	до	ДО	PR	PR	PR	14	присвяз	_	_
+17	шифровальщика	ШИФРОВАЛЬЩИК	S	S m anim acc sg	S m anim acc sg	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	но	НО	CONJ	CONJ	CONJ	14	сент-соч	_	_
+20	угроза	УГРОЗА	S	S f inan nom sg	S f inan nom sg	24	предик	_	_
+21	трибунала	ТРИБУНАЛ	S	S m inan gen sg	S m inan gen sg	20	квазиагент	_	_
+22	никуда	НИКУДА	ADV	ADV -	ADV -	24	1-компл	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	делась	ДЕВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	19	соч-союзн	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	5	соотнос	_	_
+3	военная	ВОЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	фортуна	ФОРТУНА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+5	оказалась	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+6	переменчива	ПЕРЕМЕНЧИВЫЙ	A	A - - sg brev f -	A - - sg brev f -	5	присвяз	_	_
+7	–	–	–	–	PUNC	6	1-компл	_	_
+8	из	ИЗ	PR	PR	PR	7	атриб	_	_
+9	золотой	ЗОЛОТОЙ	A	A - gen sg plen f -	A - gen sg plen f -	10	опред	_	_
+10	рыбки	РЫБКА	S	S f anim gen sg	S f anim gen sg	8	предл	_	_
+11	обратилась	ОБРАЩАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	сочин	_	_
+12	в	В	PR	PR	PR	11	1-компл	_	_
+13	колючего	КОЛЮЧИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	14	опред	_	_
+14	ерша	ЕРШ	S	S m anim acc sg	S m anim acc sg	12	предл	_	_
+15	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+16	ушла	УХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	соч-союзн	_	_
+17	в	В	PR	PR	PR	16	2-компл	_	_
+18	пучину	ПУЧИНА	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	до	ДО	PR	PR	PR	16	обст	_	_
+21	крови	КРОВЬ	S	S f inan loc2 sg	S f inan loc2 sg	20	предл	_	_
+22	ободрав	ОБДИРАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	16	обст	_	_
+23	ладони	ЛАДОНЬ	S	S f inan acc pl	S f inan acc pl	22	1-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+

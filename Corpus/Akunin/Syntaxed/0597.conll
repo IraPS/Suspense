@@ -1,0 +1,34 @@
+1	Зато	ЗАТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	на	НА	PR	PR	PR	6	обст	_	_
+3	наблюдательном	НАБЛЮДАТЕЛЬНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	4	опред	_	_
+4	пункте	ПУНКТ	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+5	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	6	предик	_	_
+6	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	соч-союзн	_	_
+7	оживлены	ОЖИВЛЯТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	6	пасс-анал	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	полны	ПОЛНЫЙ	A	A - - pl brev - -	A - - pl brev - -	8	соч-союзн	_	_
+10	радостного	РАДОСТНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	11	опред	_	_
+11	предвкушения	ПРЕДВКУШЕНИЕ	S	S n inan gen sg	S n inan gen sg	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Тут	ТУТ	ADV	ADV -	ADV -	2	обст	_	_
+2	царила	ЦАРИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	атмосфера	АТМОСФЕРА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+4	пикника	ПИКНИК	S	S m inan gen sg	S m inan gen sg	3	квазиагент	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	кое-кто	КОЕ-КТО	S	S m - nom sg	S m - nom sg	9	1-компл	_	_
+8	прямо	ПРЯМО	PART	PART	PART	9	огранич	_	_
+9	расположился	РАСПОЛАГАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+10	у	У	PR	PR	PR	9	обст	_	_
+11	разложенных	РАСКЛАДЫВАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	19	1-компл	_	_
+12	на	НА	PR	PR	PR	11	2-компл	_	_
+13	земле	ЗЕМЛЯ	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+14	белых	БЕЛЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	15	опред	_	_
+15	скатертей	СКАТЕРТЬ	S	S f inan gen pl	S f inan gen pl	13	квазиагент	_	_
+16	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+17	с	С	PR	PR	PR	16	соч-союзн	_	_
+18	аппетитом	АППЕТИТ	S	S m inan ins sg	S m inan ins sg	17	предл	_	_
+19	закусывал	ЗАКУСЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

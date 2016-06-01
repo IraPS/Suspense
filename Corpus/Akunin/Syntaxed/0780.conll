@@ -1,0 +1,216 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Что	ЧТО	S	S n - nom sg	S n - nom sg	1	опред	_	_
+3	именно	ИМЕННО	PART	PART	PART	2	огранич	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	с	С	PR	PR	PR	5	обст	_	_
+3	туповатым	ТУПОВАТЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	4	опред	_	_
+4	видом	ВИД	S	S m inan ins sg	S m inan ins sg	2	предл	_	_
+5	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+7	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	9	1-компл	_	_
+2	Ну	НУ	PART	PART	PART	3	огранич	_	_
+3	как	КАК	ADV	ADV -	ADV -	9	обст	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	9	предик	_	_
+7	разве	РАЗВЕ	PART	PART	PART	9	огранич	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	слыхали	СЛЫХАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+10	?	?	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	видно	ВИДНО	ADV	ADV -	ADV -	2	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	уже	УЖЕ	ADV	ADV -	ADV -	8	огранич	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	в	В	PR	PR	PR	11	обст	_	_
+9	первый	ПЕРВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	опред	_	_
+10	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	8	предл	_	_
+11	принялся	ПРИНИМАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	объяснять	ОБЪЯСНЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+3	Маклафлина	МАКЛАФЛИНА	ADV	ADV -	ADV -	4	обст	_	_
+4	знаю	ЗНАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+5	еще	ЕЩЕ	ADV	ADV -	ADV -	6	огранич	_	_
+6	по	ПО	PR	PR	PR	4	обст	_	_
+7	Петербургу	ПЕТЕРБУРГ	S	S m inan dat sg	S m inan dat sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Серьезный	СЕРЬЕЗНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	2	опред	_	_
+2	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	России	РОССИЯ	S	S f inan gen sg	S f inan gen sg	3	соч-союзн	_	_
+5	друг	ДРУГ	S	S - - nom sg	S - - nom sg	7	композ	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	хоть	ХОТЬ	CONJ	CONJ	CONJ	2	примыкат	_	_
+8	подданный	ПОДДАННЫЙ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+9	королевы	КОРОЛЕВА	S	S f anim gen sg	S f anim gen sg	8	1-компл	_	_
+10	Виктории	ВИКТОРИЯ	S	S f anim gen sg	S f anim gen sg	9	аппоз	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	18	обст	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	с	С	PR	PR	PR	8	вводн	_	_
+7	минуты	МИНУТА	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+8	на	НА	PR	PR	PR	5	подч-союзн	_	_
+9	минуту	МИНУТА	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	ко	КО	PR	PR	PR	15	обст	_	_
+11	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	10	предл	_	_
+12	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+13	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+14	сдаваться	СДАВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	15	1-компл	_	_
+15	пожалует	ПОЖАЛОВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	8	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	18	предик	_	_
+18	погнал	ПОГНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+19	на	НА	PR	PR	PR	18	2-компл	_	_
+20	передний	ПЕРЕДНИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	21	опред	_	_
+21	край	КРАЙ	S	S m inan acc sg	S m inan acc sg	19	предл	_	_
+22	вестовых	ВЕСТОВОЙ	S	S m anim acc pl	S m anim acc pl	18	1-компл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	чтоб	ЧТОБ	CONJ	CONJ	CONJ	18	обст	_	_
+25	упаси	УПАСТИ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	29	1-компл	_	_
+26	Боже	БОЖЕ	S	S m anim voc sg	S m anim voc sg	27	опред	_	_
+27	пальбу	ПАЛЬБА	S	S f inan acc sg	S f inan acc sg	25	1-компл	_	_
+28	не	НЕ	PART	PART	PART	29	огранич	_	_
+29	открыли	ОТКРЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	24	подч-союзн	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	старый	СТАРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	сочин	_	_
+5	дурак	ДУРАК	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	кинулся	КИНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+8	парадный	ПАРАДНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	9	опред	_	_
+9	китель	КИТЕЛЬ	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+10	надевать	НАДЕВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	2-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	конфузливо	КОНФУЗЛИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+4	улыбнулся	УЛЫБАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+7	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+8	решила	РЕШАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	8	1-компл	_	_
+11	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	13	предик	_	_
+12	ужасно	УЖАСНО	ADV	ADV -	ADV -	13	огранич	_	_
+13	симпатичный	СИМПАТИЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	подч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	турки	ТУРОК	S	S m anim nom pl	S m anim nom pl	1	предик	_	_
+4	и	И	CONJ	CONJ	CONJ	1	сент-соч	_	_
+5	сняли	СНИМАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	соч-союзн	_	_
+6	дозоры	ДОЗОР	S	S m inan nom pl	S m inan nom pl	5	предик	_	_
+7	без	БЕЗ	PR	PR	PR	6	атриб	_	_
+8	единого	ЕДИНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	выстрела	ВЫСТРЕЛ	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Хорошо	ХОРОШО	ADV	ADV -	ADV -	9	обст	_	_
+2	хоть	ХОТЬ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	мои	МОЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	молодцы	МОЛОДЕЦ	S	S m anim nom pl	S m anim nom pl	9	предик	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	гренадеры	ГРЕНАДЕР	S	S m inan gen sg	S m inan gen sg	9	1-компл	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	подвели	ПОДВОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	продержались	ПРОДЕРЖАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	9	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	пока	ПОКА	ADV	ADV -	ADV -	14	огранич	_	_
+14	Михал	МИХАЛ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+15	Дмитрич	ДМИТРИЧ	S	S m anim nom sg	S m anim nom sg	14	аппоз	_	_
+16	в	В	PR	PR	PR	20	обст	_	_
+17	тыл	ТЫЛ	S	S m inan acc sg	S m inan acc sg	16	предл	_	_
+18	Осману	ОСМАН	S	S m anim dat sg	S m anim dat sg	20	1-компл	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	ударил	УДАРЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	сент-соч	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Куда	КУДА	ADV	ADV -	ADV -	3	обст	_	_
+3	делся	ДЕВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	титулярный	ТИТУЛЯРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	советник	СОВЕТНИК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	глядя	ГЛЯДЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	0	ROOT	_	_
+7	на	НА	PR	PR	PR	6	1-компл	_	_
+8	Ганецкого	ГАНЕЦКИЙ	S	S m anim ins sg	S m anim ins sg	7	предл	_	_
+9	в	В	PR	PR	PR	6	обст	_	_
+10	упор	УПОР	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+11	холодными	ХОЛОДНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	13	опред	_	_
+12	голубыми	ГОЛУБОЙ	A	A - ins pl plen - -	A - ins pl plen - -	13	опред	_	_
+13	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	6	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Не	НЕ	PART	PART	PART	3	огранич	_	_
+3	видел	ВИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	 	 	 	 	PUNC	7	обст	_	_
+6	–	–	–	–	PUNC	7	1-компл	_	_
+7	пожал	ПОЖИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+8	плечами	ПЛЕЧО	S	S n inan ins pl	S n inan ins pl	7	1-компл	_	_
+9	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	предик	_	_
+2	Не	НЕ	PART	PART	PART	3	огранич	_	_
+3	до	ДО	PR	PR	PR	5	обст	_	_
+4	того	ТО	S	S n - gen sg	S n - gen sg	5	предик	_	_
+5	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	предик	_	_
+2	началось	НАЧИНАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	–	–	–	–	PUNC	5	1-компл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	приведи	ПРИВОДИТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	2	1-компл	_	_
+6	Господь	ГОСПОДЬ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Башибузуки	БАШИБУЗУК	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+2	до	ДО	PR	PR	PR	1	атриб	_	_
+3	самого	САМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	штаба	ШТАБ	S	S m inan gen sg	S m inan gen sg	2	предл	_	_
+5	добрались	ДОБИРАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	насилу	НАСИЛУ	ADV	ADV -	ADV -	12	обст	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	12	предик	_	_
+9	от	ОТ	PR	PR	PR	12	обст	_	_
+10	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	9	предл	_	_
+11	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	9	соотнос	_	_
+12	унес	УНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	вводн	_	_
+13	в	В	PR	PR	PR	12	обст	_	_
+14	своем	СВОЙ	A	A - loc sg plen n -	A - loc sg plen n -	15	опред	_	_
+15	парадном	ПАРАДНОЕ	S	S n inan loc sg	S n inan loc sg	13	предл	_	_
+16	кителе	КИТЕЛЬ	S	S m inan loc sg	S m inan loc sg	12	2-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

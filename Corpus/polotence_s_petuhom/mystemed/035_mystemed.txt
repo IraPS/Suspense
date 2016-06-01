@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"похожий","gr":"A=sg,brev,m"}],"text":"похож"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"лжедмитрий","qual":"bastard","gr":"S,persn,m,anim=acc,sg"},{"lex":"лжедмитрий","qual":"bastard","gr":"S,persn,m,anim=gen,sg"}],"text":"Лжедмитрия"}
+{"analysis":[{"lex":"вдруг","gr":"ADV="}],"text":"вдруг"}
+{"analysis":[{"lex":"глупо","gr":"ADV="}],"text":"глупо"}
+{"analysis":[{"lex":"подумать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"подумал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"опять","gr":"ADV="}],"text":"опять"}
+{"analysis":[{"lex":"усаживаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"уселся"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"стол","gr":"S,m,inan=acc,sg"},{"lex":"стол","gr":"S,m,inan=nom,sg"}],"text":"стол"}

@@ -1,0 +1,17 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	Кэзанзаки	КЭЗАНЗАК	S	S m anim nom pl	S m anim nom pl	1	примыкат	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	где	ГДЕ	ADV	ADV -	ADV -	6	обст	_	_
+6	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	1	сочин	_	_
+7	'	'	_	_	PUNC	6	PUNC	_	_
+8	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	6	1-компл	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	предик	_	_
+2	обернулся	ОБЕРТЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	1-компл	_	_
+4	вошедшему	ВХОДИТЬ	PARTCP	PARTCP pf praet dat sg plen m act -	PARTCP pf praet dat sg plen m act -	3	предл	_	_
+5	Маклафлин	МАКЛАФЛИН	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

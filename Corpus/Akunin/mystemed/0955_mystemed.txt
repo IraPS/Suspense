@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"отставлять","gr":"V,tran=inf,pf"}],"text":"Отставить"}
+{"analysis":[{"lex":"болван","gr":"S,m,anim=nom,sg"}],"text":"болван"}
+{"analysis":[{"lex":"пробурчать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"пробурчал"}
+{"analysis":[{"lex":"багровый","gr":"A=acc,sg,plen,m,inan"},{"lex":"багровый","gr":"A=nom,sg,plen,m"}],"text":"багровый"}
+{"analysis":[{"lex":"герой","gr":"S,m,anim=nom,sg"}],"text":"герой"}
+{"text":"\\s"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"К"}
+{"analysis":[{"lex":"черта","gr":"S,f,inan=acc,sg"}],"text":"черту"}
+{"analysis":[{"lex":"врата","gr":"S,pl,inan=acc"},{"lex":"врата","gr":"S,pl,inan=nom"}],"text":"врата"}

@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"потерять","gr":"V,pf,tran=praet,ger"}],"text":"Потеряв"}
+{"analysis":[{"lex":"терпение","gr":"S,n,inan=acc,sg"},{"lex":"терпение","gr":"S,n,inan=nom,sg"}],"text":"терпение"}
+{"analysis":[{"lex":"директор","gr":"S,m,anim=nom,sg"}],"text":"директор"}
+{"analysis":[{"lex":"прямолинейно","gr":"ADV="}],"text":"прямолинейно"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,m,pf"}],"text":"спросил"}
+{"analysis":[{"lex":"истопник","gr":"S,m,anim=acc,sg"},{"lex":"истопник","gr":"S,m,anim=gen,sg"}],"text":"истопника"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=dat"}],"text":"ему"}
+{"analysis":[{"lex":"нужно","gr":"ADV,praed="}],"text":"нужно"}

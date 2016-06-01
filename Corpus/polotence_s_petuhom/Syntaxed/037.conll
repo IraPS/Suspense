@@ -1,0 +1,61 @@
+1	Так-с	ТАК-С	PART	PART	PART	0	ROOT	_	_
+2	...	...	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Прием	ПРИЕМ	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	4	предик	_	_
+4	говорят	ГОВОРИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	1	релят	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	7	обст	_	_
+7	ничтожный	НИЧТОЖНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	В	В	PR	PR	PR	3	обст	_	_
+2	деревнях	ДЕРЕВНЯ	S	S f inan loc pl	S f inan loc pl	1	предл	_	_
+3	мнут	МЯТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	лен	ЛЕН	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	бездорожье	БЕЗДОРОЖЬЕ	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+7	...	...	SENT	SENT	SENT	6	PUNC	_	_
+
+1	"	"	_	_	PUNC	2	PUNC	_	_
+2	Тут	ТУТ	ADV	ADV -	ADV -	9	обст	_	_
+3	тебе	ТЫ	SPRO	SPRO sg 2p - loc	SPRO sg 2p - loc	4	опред	_	_
+4	грыжу	ГРЫЖА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	привезут	ПРИВОЗИТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	5	соч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	-	-	-	-	PUNC	6	PUNC	_	_
+9	бухнул	БУХНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+10	суровый	СУРОВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	голос	ГОЛОС	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+12	в	В	PR	PR	PR	11	атриб	_	_
+13	мозгу	МОЗГ	S	S m inan loc2 sg	S m inan loc2 sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	-	-	-	-	PUNC	13	PUNC	_	_
+16	потому что	потому что	CONJ	CONJ	ZERO	9	сент-соч	_	_
+17	по	ПО	PR	PR	PR	27	обст	_	_
+18	бездорожью	БЕЗДОРОЖЬЕ	S	S n inan dat sg	S n inan dat sg	17	предл	_	_
+19	человек	ЧЕЛОВЕК	S	S m anim gen pl	S m anim gen pl	18	квазиагент	_	_
+20	с	С	PR	PR	PR	19	атриб	_	_
+21	насморком	НАСМОРК	S	S m inan ins sg	S m inan ins sg	20	предл	_	_
+22	(	(	_	_	PUNC	23	PUNC	_	_
+23	нетрудная	НЕТРУДНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	24	опред	_	_
+24	болезнь	БОЛЕЗНЬ	S	S f inan nom sg	S f inan nom sg	19	примыкат	_	_
+25	)	)	_	_	PUNC	24	PUNC	_	_
+26	не	НЕ	PART	PART	PART	27	огранич	_	_
+27	поедет	ПОЕХАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	16	соч-союзн	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	а	А	CONJ	CONJ	CONJ	27	сент-соч	_	_
+30	грыжу	ГРЫЖА	S	S f inan acc sg	S f inan acc sg	31	1-компл	_	_
+31	притащат	ПРИТАСКИВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	29	соч-союзн	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	будь	БЫТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	31	разъяснит	_	_
+34	покоен	ПОКОЙНЫЙ	A	A - - sg brev m -	A - - sg brev m -	33	присвяз	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	дорогой	ДОРОГОЙ	A	A - nom sg plen m -	A - nom sg plen m -	38	опред	_	_
+37	коллега	КОЛЛЕГА	S	S - anim nom sg	S - anim nom sg	38	опред	_	_
+38	доктор	ДОКТОР	S	S m anim nom sg	S m anim nom sg	33	предик	_	_
+39	"	"	_	_	PUNC	38	PUNC	_	_
+40	.	.	SENT	SENT	SENT	38	PUNC	_	_
+

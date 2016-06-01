@@ -1,0 +1,55 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Ой	ОЙ	INTJ	INTJ	INTJ	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вот	ВОТ	PART	PART	PART	5	огранич	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	0	ROOT	_	_
+6	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	0	ROOT	_	_
+7	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	0	ROOT	_	_
+8	как	КАК	CONJ	CONJ	CONJ	0	ROOT	_	_
+9	влеплю	ВЛЕПЛЯТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	8	сравн-союзн	_	_
+10	пощечину	ПОЩЕЧИНА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	 	 	 	 	PUNC	14	3-компл	_	_
+13	–	–	–	–	PUNC	14	1-компл	_	_
+14	пригрозила	ПРИГРОЗИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	релят	_	_
+15	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	14	предик	_	_
+16	слабым	СЛАБЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	17	опред	_	_
+17	голосом	ГОЛОС	S	S m inan ins sg	S m inan ins sg	14	обст	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Предупреждали	ПРЕДУПРЕЖДАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	ведь	ВЕДЬ	PART	PART	PART	5	огранич	_	_
+4	добрые	ДОБРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	2	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+8	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	9	предик	_	_
+9	играете	ИГРАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	7	подч-союзн	_	_
+10	нечисто	НЕЧИСТО	ADV	ADV -	ADV -	9	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	предик	_	_
+2	За	ЗА	PR	PR	PR	1	2-компл	_	_
+3	пощечину	ПОЩЕЧИНА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	вызову	ВЫЗЫВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	2-компл	_	_
+6	поединок	ПОЕДИНОК	S	S m inan acc sg	S m inan acc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	несомненно	НЕСОМНЕННО	ADV	ADV -	ADV -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	буду	БЫТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	соч-союзн	_	_
+6	сражен	СРАЖАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	5	пасс-анал	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	13	2-компл	_	_
+9	–	–	–	–	PUNC	13	1-компл	_	_
+10	тараща	ТАРАЩИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	13	обст	_	_
+11	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	10	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	промурлыкал	ПРОМУРЛЫКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	релят	_	_
+14	граф	ГРАФ	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

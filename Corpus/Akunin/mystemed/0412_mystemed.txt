@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"Но"}
+{"analysis":[{"lex":"про","gr":"PR="}],"text":"про"}
+{"analysis":[{"lex":"возвращение","gr":"S,n,inan=acc,sg"},{"lex":"возвращение","gr":"S,n,inan=nom,sg"}],"text":"возвращение"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"старт","gr":"S,m,inan=acc,sg"},{"lex":"старт","gr":"S,m,inan=nom,sg"}],"text":"старт"}
+{"analysis":[{"lex":"это","gr":"PART="}],"text":"это"}
+{"analysis":[{"lex":"уже","gr":"ADV="}],"text":"уже"}
+{"analysis":[{"lex":"от","gr":"PR="}],"text":"от"}
+{"analysis":[{"lex":"соболева","gr":"S,famn,f,anim=nom,sg"}],"text":"Соболева"}

@@ -1,0 +1,63 @@
+1	Гости	ГОСТЬ	S	S m anim nom pl	S m anim nom pl	2	предик	_	_
+2	ушли	УХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	;	;	SENT	SENT	SENT	2	PUNC	_	_
+
+1	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	2	предик	_	_
+2	остались	ОСТАВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	вдвоем	ВДВОЕМ	ADV	ADV -	ADV -	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	сели	САДИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	сочин	_	_
+6	друг	ДРУГ	S	S - - nom -	S - - nom -	7	вспом	_	_
+7	противу	ПРОТИВ	S	S m inan dat sg	S m inan dat sg	8	1-компл	_	_
+8	друга	ДРУГ	S	S - - gen sg	S - - gen sg	5	1-компл	_	_
+9	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+10	молча	МОЛЧА	ADV	ADV -	ADV -	11	обст	_	_
+11	закурили	ЗАКУРИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	9	соч-союзн	_	_
+12	трубки	ТРУБКА	S	S f inan nom pl	S f inan nom pl	11	предик	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	озабочен	ОЗАБОЧЕННЫЙ	A	A - - sg brev m -	A - - sg brev m -	2	присвяз	_	_
+4	;	;	SENT	SENT	SENT	3	PUNC	_	_
+
+1	не	НЕ	PART	PART	PART	2	огранич	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	уже	УЖЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	следов	СЛЕД	S	S m inan gen pl	S m inan gen pl	4	соч-союзн	_	_
+6	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	8	квазиагент	_	_
+7	судорожной	СУДОРОЖНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	8	опред	_	_
+8	веселости	ВЕСЕЛОСТЬ	S	S f inan ins sg	S f inan ins sg	2	присвяз	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Мрачная	МРАЧНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	бледность	БЛЕДНОСТЬ	S	S f inan nom sg	S f inan nom sg	14	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	сверкающие	СВЕРКАТЬ	PARTCP	PARTCP ipf inpraes nom pl plen - act -	PARTCP ipf inpraes nom pl plen - act -	2	опред	_	_
+5	глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	10	предик	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	густой	ГУСТОЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	дым	ДЫМ	S	S m inan nom sg	S m inan nom sg	6	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	выходящий	ВЫХОДИТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act inan	PARTCP ipf inpraes acc sg plen m act inan	2	примыкат	_	_
+11	изо	ИЗО	PR	PR	PR	10	атриб	_	_
+12	рту	РОТ	S	S m inan loc2 sg	S m inan loc2 sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	придавали	ПРИДАВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+15	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	14	2-компл	_	_
+16	вид	ВИД	S	S m inan acc sg	S m inan acc sg	14	1-компл	_	_
+17	настоящего	НАСТОЯЩИЙ	A	A - gen sg plen m -	A - gen sg plen m -	18	опред	_	_
+18	дьявола	ДЬЯВОЛ	S	S m anim gen sg	S m anim gen sg	16	квазиагент	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Прошло	ПРОХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+2	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	3	количест	_	_
+3	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	1	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	1	сент-соч	_	_
+6	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	7	предик	_	_
+7	прервал	ПРЕРЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+8	молчание	МОЛЧАНИЕ	S	S n inan acc sg	S n inan acc sg	7	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"дурацкий","gr":"A=nom,sg,plen,f"}],"text":"Дурацкая"}
+{"analysis":[{"lex":"манера","gr":"S,f,inan=nom,sg"}],"text":"манера"}
+{"text":"\\s"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=inf"}],"text":"Сказать"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"а"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"говорить","gr":"V,ipf,tran=inf"}],"text":"говорить"}
+{"analysis":[{"lex":"б","gr":"PART="}],"text":"б"}
+{"text":"\\s"}
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"Что"}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=acc"},{"lex":"это","gr":"SPRO,sg,n,inan=nom"}],"text":"это"}
+{"analysis":[{"lex":"такой","gr":"APRO=acc,sg,n"},{"lex":"такой","gr":"APRO=nom,sg,n"}],"text":"такое"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"конец","gr":"S,m,inan=abl,sg"}],"text":"конце"}
+{"analysis":[{"lex":"конец","gr":"S,m,inan=gen,pl"}],"text":"концов"}

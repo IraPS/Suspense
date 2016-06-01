@@ -1,0 +1,164 @@
+1	Была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	одна	ОДИН	A	A - nom sg plen f -	A - nom sg plen f -	4	количест	_	_
+4	черта	ЧЕРТ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	типичная	ТИПИЧНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+7	для	ДЛЯ	PR	PR	PR	6	1-компл	_	_
+8	характера	ХАРАКТЕР	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+9	Колюши	КОЛЮША	S	S m anim gen sg	S m anim gen sg	8	квазиагент	_	_
+10	в	В	PR	PR	PR	4	атриб	_	_
+11	юности	ЮНОСТЬ	S	S f inan loc sg	S f inan loc sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	3	опред	_	_
+2	презрительное	ПРЕЗРИТЕЛЬНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	3	опред	_	_
+3	отношение	ОТНОШЕНИЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+4	к	К	PR	PR	PR	3	1-компл	_	_
+5	деньгам	ДЕНЬГИ	S	S - inan dat pl	S - inan dat pl	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Тщательный	ТЩАТЕЛЬНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	10	предик	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	аккуратный	АККУРАТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	соч-союзн	_	_
+4	в	В	PR	PR	PR	3	атриб	_	_
+5	работе	РАБОТА	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	по отношению к	по отношению к	PR	PR	ZERO	10	обст	_	_
+8	деньгам	ДЕНЬГИ	S	S - inan dat pl	S - inan dat pl	7	предл	_	_
+9	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+10	проявлял	ПРОЯВЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+11	какую-то	КАКОЙ-ТО	A	A - acc sg plen f inan	A - acc sg plen f inan	10	1-компл	_	_
+12	подчеркнутую	ПОДЧЕРКИВАТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	13	опред	_	_
+13	небрежность	НЕБРЕЖНОСТЬ	S	S f inan nom sg	S f inan nom sg	10	разъяснит	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	6	обст	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	брал	БРАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	подч-союзн	_	_
+4	на	НА	PR	PR	PR	3	1-компл	_	_
+5	расходы	РАСХОД	S	S m inan acc pl	S m inan acc pl	4	предл	_	_
+6	деньги	ДЕНЬГИ	S	S - inan acc pl	S - inan acc pl	22	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	9	предик	_	_
+9	рассовывал	РАССОВЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	сент-соч	_	_
+10	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	9	1-компл	_	_
+11	по	ПО	PR	PR	PR	9	обст	_	_
+12	карманам	КАРМАН	S	S m inan dat pl	S m inan dat pl	11	предл	_	_
+13	и	И	CONJ	CONJ	CONJ	9	сент-соч	_	_
+14	там	ТАМ	ADV	ADV -	ADV -	16	обст	_	_
+15	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	16	предик	_	_
+16	превращались	ПРЕВРАЩАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	13	соч-союзн	_	_
+17	в	В	PR	PR	PR	16	2-компл	_	_
+18	грязные	ГРЯЗНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	19	опред	_	_
+19	комочки	КОМОЧЕК	S	S m inan acc pl	S m inan acc pl	17	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	22	предик	_	_
+22	вылетали	ВЫЛЕТАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+23	с	С	PR	PR	PR	22	обст	_	_
+24	носовым	НОСОВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	25	опред	_	_
+25	платком	ПЛАТОК	S	S m inan ins sg	S m inan ins sg	23	предл	_	_
+26	или	ИЛИ	CONJ	CONJ	CONJ	22	сочин	_	_
+27	вытряхивались	ВЫТРЯХИВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	26	соч-союзн	_	_
+28	при	ПРИ	PR	PR	PR	27	обст	_	_
+29	ревизии	РЕВИЗИЯ	S	S f inan gen sg	S f inan gen sg	28	предл	_	_
+30	карманов	КАРМАН	S	S m inan gen pl	S m inan gen pl	29	1-компл	_	_
+31	перед	ПЕРЕД	PR	PR	PR	29	2-компл	_	_
+32	стиркою	СТИРКА	S	S f inan ins sg	S f inan ins sg	31	предл	_	_
+33	брюк	БРЮКИ	S	S - inan gen pl	S - inan gen pl	32	квазиагент	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	барахло	БАРАХЛО	S	S n inan acc sg	S n inan acc sg	0	ROOT	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	то	ТО	CONJ	CONJ	CONJ	3	сочин	_	_
+6	»	»	_	_	PUNC	5	PUNC	_	_
+7	,	,	,	,	PUNC	5	PUNC	_	_
+8	–	–	–	–	PUNC	9	1-компл	_	_
+9	говорил	ГОВОРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	соч-союзн	_	_
+10	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	когда	КОГДА	CONJ	CONJ	CONJ	9	обст	_	_
+13	смотрел	СМОТРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	подч-союзн	_	_
+14	на	НА	PR	PR	PR	13	1-компл	_	_
+15	это	ЭТО	S	S n - acc sg	S n - acc sg	22	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	неожиданно	НЕОЖИДАННО	ADV	ADV -	ADV -	22	обст	_	_
+18	для	ДЛЯ	PR	PR	PR	22	обст	_	_
+19	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	18	предл	_	_
+20	появившееся	ПОЯВЛЯТЬСЯ	PARTCP	PARTCP pf praet acc sg plen n act -	PARTCP pf praet acc sg plen n act -	22	опред	_	_
+21	неприглядное	НЕПРИГЛЯДНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	22	опред	_	_
+22	содержание	СОДЕРЖАНИЕ	S	S n inan nom sg	S n inan nom sg	9	сент-соч	_	_
+23	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	22	квазиагент	_	_
+24	карманов	КАРМАН	S	S m inan gen pl	S m inan gen pl	22	1-компл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	укорял	УКОРЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	2	1-компл	_	_
+4	за	ЗА	PR	PR	PR	2	обст	_	_
+5	эту	ЭТОТ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	небрежность	НЕБРЕЖНОСТЬ	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	но	НО	CONJ	CONJ	CONJ	2	сочин	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	мог	МОЧЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	соч-союзн	_	_
+11	привить	ПРИВИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	10	1-компл	_	_
+12	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	11	2-компл	_	_
+13	уважение	УВАЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	11	1-компл	_	_
+14	к	К	PR	PR	PR	13	1-компл	_	_
+15	деньгам	ДЕНЬГИ	S	S - inan dat pl	S - inan dat pl	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Следует	СЛЕДОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+2	заметить	ЗАМЕЧАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	подобная	ПОДОБНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	небрежность	НЕБРЕЖНОСТЬ	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+7	являлась	ЯВЛЯТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	подч-союзн	_	_
+8	следствием	СЛЕДСТВИЕ	S	S n inan ins sg	S n inan ins sg	7	1-компл	_	_
+9	основной	ОСНОВНОЙ	A	A - gen sg plen f -	A - gen sg plen f -	10	опред	_	_
+10	черты	ЧЕРТА	S	S f inan gen sg	S f inan gen sg	8	квазиагент	_	_
+11	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	12	квазиагент	_	_
+12	характера	ХАРАКТЕР	S	S m inan gen sg	S m inan gen sg	10	квазиагент	_	_
+13	–	–	–	–	PUNC	16	опред	_	_
+14	пренебрежения	ПРЕНЕБРЕЖЕНИЕ	S	S n inan gen sg	S n inan gen sg	13	1-компл	_	_
+15	материальными	МАТЕРИАЛЬНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	16	опред	_	_
+16	ценностями	ЦЕННОСТЬ	S	S f inan ins pl	S f inan ins pl	7	обст	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	4	предик	_	_
+2	никогда	НИКОГДА	ADV	ADV -	ADV -	4	обст	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	занимали	ЗАНИМАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	квазиагент	_	_
+6	сердца	СЕРДЦЕ	S	S n inan gen sg	S n inan gen sg	4	1-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+9	внимания	ВНИМАНИЕ	S	S n inan gen sg	S n inan gen sg	7	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+12	с	С	PR	PR	PR	23	вводн	_	_
+13	чем	ЧТО	S	S n - ins sg	S n - ins sg	22	пролепт	_	_
+14	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	16	1-компл	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	приходилось	ПРИХОДИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	13	сравн-союзн	_	_
+17	бороться	БОРОТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	16	предик	_	_
+18	в	В	PR	PR	PR	17	1-компл	_	_
+19	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	18	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	так	ТАК	ADV	ADV -	ADV -	22	обст	_	_
+22	это	ЭТО	S	S n - nom sg	S n - nom sg	12	предл	_	_
+23	со	СО	PR	PR	PR	11	соч-союзн	_	_
+24	«	«	_	_	PUNC	25	PUNC	_	_
+25	сребролюбием	СРЕБРОЛЮБИЕ	S	S n inan ins sg	S n inan ins sg	23	предл	_	_
+26	»	»	_	_	PUNC	25	PUNC	_	_
+27	в	В	PR	PR	PR	25	атриб	_	_
+28	широком	ШИРОКИЙ	A	A - loc sg plen n -	A - loc sg plen n -	29	опред	_	_
+29	понимании	ПОНИМАНИЕ	S	S n inan loc sg	S n inan loc sg	27	предл	_	_
+30	этого	ЭТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	31	опред	_	_
+31	слова	СЛОВО	S	S n inan gen sg	S n inan gen sg	29	1-компл	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

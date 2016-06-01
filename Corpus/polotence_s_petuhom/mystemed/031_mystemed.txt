@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"надвигаться","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"Надвигался"}
+{"analysis":[{"lex":"вечер","gr":"S,m,inan=acc,sg"},{"lex":"вечер","gr":"S,m,inan=nom,sg"}],"text":"вечер"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"осваиваться","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"осваивался"}

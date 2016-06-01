@@ -1,0 +1,67 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Гриднев	ГРИДНЕВ	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	оставляю	ОСТАВЛЯТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	2	вводн	_	_
+5	тебе	ТЫ	SPRO	SPRO sg 2p - loc	SPRO sg 2p - loc	4	1-компл	_	_
+6	моих	МОЙ	A	A - gen pl plen - -	A - gen pl plen - -	7	опред	_	_
+7	конвойцев	КОНВОЕЦ	S	S m anim acc pl	S m anim acc pl	2	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	будешь	БЫТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	0	ROOT	_	_
+10	стеречь	СТЕРЕЧЬ	V	V ipf - - inf - -	V ipf - - inf - -	9	аналит	_	_
+11	банк	БАНК	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Не то	Не то	CONJ	CONJ	ZERO	0	ROOT	_	_
+2	местные	МЕСТНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	предик	_	_
+3	разворуют	РАЗВОРОВЫВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	1	подч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+6	свалят	СВАЛИВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	5	соч-союзн	_	_
+7	на	НА	PR	PR	PR	6	1-компл	_	_
+8	Соболева	СОБОЛЕВ	S	S m anim gen sg	S m anim gen sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	 	 	 	 	PUNC	6	2-компл	_	_
+11	–	–	–	–	PUNC	12	1-компл	_	_
+12	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	1-компл	_	_
+13	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	опред	_	_
+2	Ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	3	опред	_	_
+3	превосходительство	ПРЕВОСХОДИТЕЛЬСТВО	S	S n anim nom sg	S n anim nom sg	0	ROOT	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Михал	МИХАЛ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+2	Дмитрич	ДМИТРИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	взвыл	ВЗВЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	прапорщик	ПРАПОРЩИК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+3	тоже	ТОЖЕ	PART	PART	PART	4	огранич	_	_
+4	в	В	PR	PR	PR	6	обст	_	_
+5	Константинополь	КОНСТАНТИНОПОЛЬ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	хочу	ХОТЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	кто	КТО	S	S m - nom sg	S m - nom sg	4	присвяз	_	_
+4	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	соч-союзн	_	_
+5	Вагвагу	ВАГВАГА	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+6	Андгевну	АНДГЕЕВНА	S	S m anim nom sg	S m anim nom sg	5	аппоз	_	_
+7	охганять	ОХГАНЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	аналит	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	укоризненно	УКОРИЗНЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	прокартавил	ПРОКАРТАВИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	3	1-компл	_	_
+5	'	'	_	_	PUNC	4	PUNC	_	_
+6	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	4	аппоз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

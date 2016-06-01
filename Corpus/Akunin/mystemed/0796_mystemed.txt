@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"садиться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"сел"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"письменный","gr":"A=acc,sg,plen,m,inan"},{"lex":"письменный","gr":"A=nom,sg,plen,m"}],"text":"письменный"}
+{"analysis":[{"lex":"стол","gr":"S,m,inan=acc,sg"},{"lex":"стол","gr":"S,m,inan=nom,sg"}],"text":"стол"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"кивнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"кивнул"}
+{"analysis":[{"lex":"мизинов","qual":"bastard","gr":"S,famn,m,anim=dat,sg"}],"text":"Мизинову"}
+{"analysis":[{"lex":"приступать","gr":"V,intr=sg,imper,2p,ipf"}],"text":"Приступай"}
+{"text":"\\s"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"мы","gr":"SPRO,pl,1p=nom"}],"text":"мы"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"михайла","gr":"S,persn,m,anim=ins,sg"}],"text":"Михайлой"}
+{"analysis":[{"lex":"александрович","gr":"S,patrn,m,anim=ins,sg"}],"text":"Александровичем"}
+{"analysis":[{"lex":"послушать","gr":"V,pf,tran=inpraes,pl,indic,1p"},{"lex":"послушать","gr":"V,pf,tran=pl,imper,1p"}],"text":"послушаем"}

@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"один","gr":"APRO=dat,pl"},{"lex":"один","gr":"APRO=ins,sg,m"},{"lex":"один","gr":"APRO=ins,sg,n"}],"text":"Одним"}
+{"analysis":[{"lex":"слово","gr":"S,n,inan=ins,sg"}],"text":"словом"}
+{"analysis":[{"lex":"безвременье","gr":"S,n,inan=abl,sg"},{"lex":"безвременье","gr":"S,n,inan=acc,sg"},{"lex":"безвременье","gr":"S,n,inan=nom,sg"}],"text":"безвременье"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"скука","gr":"S,f,inan=nom,sg"}],"text":"скука"}

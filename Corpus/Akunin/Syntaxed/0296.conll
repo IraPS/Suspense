@@ -1,0 +1,99 @@
+1	–	–	–	–	PUNC	3	опред	_	_
+2	Ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	3	опред	_	_
+3	превосходительство	ПРЕВОСХОДИТЕЛЬСТВО	S	S n anim nom sg	S n anim nom sg	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	господа	ГОСПОДИН	S	S m anim gen sg	S m anim gen sg	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+8	только	ТОЛЬКО	PART	PART	PART	10	огранич	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	8	вспом	_	_
+10	от	ОТ	PR	PR	PR	3	разъяснит	_	_
+11	барона	БАРОН	S	S m anim gen sg	S m anim gen sg	10	предл	_	_
+12	Криденера	КРИДЕНЕРА	S	S f anim nom sg	S f anim nom sg	10	соотнос	_	_
+13	!	!	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	солидно	СОЛИДНО	ADV	ADV -	ADV -	3	обст	_	_
+3	объявил	ОБЪЯВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	капитан	КАПИТАН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Имею	ИМЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	важное	ВАЖНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	4	опред	_	_
+4	сообщение	СООБЩЕНИЕ	S	S n inan nom sg	S n inan nom sg	2	присвяз	_	_
+5	для	ДЛЯ	PR	PR	PR	4	атриб	_	_
+6	прессы	ПРЕССА	S	S f inan gen sg	S f inan gen sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Можете	МОЧЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+2	записать	ЗАПИСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+3	–	–	–	–	PUNC	2	1-компл	_	_
+4	генерального	ГЕНЕРАЛЬНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	штаба	ШТАБ	S	S m inan gen sg	S m inan gen sg	3	1-компл	_	_
+6	капитан	КАПИТАН	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+7	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	оперативный	ОПЕРАТИВНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	опред	_	_
+10	отдел	ОТДЕЛ	S	S m inan nom sg	S m inan nom sg	6	об-аппоз	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Пе	ПЕ	NONLEX	NONLEX	NONLEX	3	композ	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	ре	РЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	5	1-компл	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	пел	ПЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	кин	КИН	S	S m inan gen sg	S m inan gen sg	5	разъяснит	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Никополь	НИКОПОЛЬ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	взят	ВЗЯТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+3	штурмом	ШТУРМ	S	S m inan ins sg	S m inan ins sg	2	2-компл	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	2	предик	_	_
+2	захватили	ЗАХВАТИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	обст	_	_
+4	плен	ПЛЕН	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+5	двух	ДВА	NUM	NUM loc - -	NUM loc - -	2	1-компл	_	_
+6	пашей	ПАША	S	S m inan gen sg	S m inan gen sg	5	1-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	шесть	ШЕСТЬ	NUM	NUM acc - -	NUM acc - -	7	соч-союзн	_	_
+9	тысяч	ТЫСЯЧА	S	S f inan gen pl	S f inan gen pl	2	2-компл	_	_
+10	солдат	СОЛДАТ	S	S m anim gen pl	S m anim gen pl	9	квазиагент	_	_
+11	!	!	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Наши	НАШ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	потери	ПОТЕРЯ	S	S f inan nom pl	S f inan nom pl	5	предик	_	_
+3	–	–	–	–	PUNC	5	опред	_	_
+4	сущий	СУЩИЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	пустяк	ПУСТЯК	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Победа	ПОБЕДА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	господа	ГОСПОДИН	S	S m anim gen sg	S m anim gen sg	1	квазиагент	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Черт	ЧЕРТ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Опять	ОПЯТЬ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	без	БЕЗ	PR	PR	PR	0	ROOT	_	_
+3	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	2	предл	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	простонал	ПРОСТОНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	бросился	БРОСАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+6	вон	ВОН	PART	PART	PART	5	огранич	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	даже	ДАЖЕ	PART	PART	PART	10	огранич	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	попрощавшись	ПОПРОЩАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	5	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

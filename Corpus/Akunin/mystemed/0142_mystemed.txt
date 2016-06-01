@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"поколебаться","gr":"V,pf,intr=praet,ger"}],"text":"Поколебавшись"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"числиться","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"Числился"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"министерство","gr":"S,n,inan=dat,sg"}],"text":"министерству"}
+{"analysis":[{"lex":"иностранный","gr":"A=abl,pl,plen"},{"lex":"иностранный","gr":"A=acc,pl,plen,anim"},{"lex":"иностранный","gr":"A=gen,pl,plen"}],"text":"иностранных"}
+{"analysis":[{"lex":"дело","gr":"S,n,inan=gen,pl"}],"text":"дел"}
+{"text":"\\s"}
+{"analysis":[{"lex":"титулярный","gr":"A=acc,sg,plen,m,inan"},{"lex":"титулярный","gr":"A=nom,sg,plen,m"}],"text":"Титулярный"}
+{"analysis":[{"lex":"советник","gr":"S,m,anim=nom,sg"}],"text":"советник"}

@@ -1,0 +1,282 @@
+1	Скажу	СКАЗАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+2	коротко	КОРОЧЕ	ADV	ADV -	ADV -	3	обст	_	_
+3	:	:	:	:	PUNC	1	1-компл	_	_
+4	сорок	СОРОК	NUM	NUM acc - -	NUM acc - -	5	количест	_	_
+5	верст	ВЕРСТА	S	S f inan gen pl	S f inan gen pl	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	отделяющих	ОТДЕЛЯТЬ	PARTCP	PARTCP ipf inpraes loc pl plen - act -	PARTCP ipf inpraes loc pl plen - act -	15	1-компл	_	_
+8	уездный	УЕЗДНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	9	опред	_	_
+9	город	ГОРОД	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+10	Грачевку	ГРАЧЕВКА	S	S f inan acc sg	S f inan acc sg	9	аппоз	_	_
+11	от	ОТ	PR	PR	PR	7	атриб	_	_
+12	Мурьевской	МУРЬЕВСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+13	больницы	БОЛЬНИЦА	S	S f inan gen sg	S f inan gen sg	11	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	ехали	ЕХАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	5	релят	_	_
+16	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	15	предик	_	_
+17	с	С	PR	PR	PR	15	обст	_	_
+18	возницей	ВОЗНИЦА	S	S - anim ins sg	S - anim ins sg	21	опред	_	_
+19	моим	МОЙ	A	A - ins sg plen m -	A - ins sg plen m -	21	опред	_	_
+20	ровно	РОВНО	ADV	ADV -	ADV -	21	огранич	_	_
+21	сутки	СУТКИ	S	S - inan acc pl	S - inan acc pl	17	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	даже	ДАЖЕ	PART	PART	PART	3	огранич	_	_
+3	до	ДО	PR	PR	PR	45	обст	_	_
+4	курьезного	КУРЬЕЗНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	3	предл	_	_
+5	ровно	РОВНО	ADV	ADV -	ADV -	6	обст	_	_
+6	:	:	:	:	PUNC	45	1-компл	_	_
+7	в	В	PR	PR	PR	6	обст	_	_
+8	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	9	количест	_	_
+9	часа	ЧАС	S	S m inan - sg	S m inan - sg	7	предл	_	_
+10	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	9	атриб	_	_
+11	16	16	NUM	NUM - - -	NUM - - -	10	атриб	_	_
+12	сентября	СЕНТЯБРЬ	S	S m inan gen sg	S m inan gen sg	11	атриб	_	_
+13	1917	1917	NUM	NUM - - -	NUM - - -	14	опред	_	_
+14	года	ГОД	S	S m inan gen sg	S m inan gen sg	12	атриб	_	_
+15	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	16	предик	_	_
+16	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	6	примыкат	_	_
+17	у	У	PR	PR	PR	16	присвяз	_	_
+18	последнего	ПОСЛЕДНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	19	опред	_	_
+19	лабаза	ЛАБАЗ	S	S m inan gen sg	S m inan gen sg	17	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	помещающегося	ПОМЕЩАТЬСЯ	PARTCP	PARTCP ipf inpraes acc sg plen m act anim	PARTCP ipf inpraes acc sg plen m act anim	16	пасс-анал	_	_
+22	на	НА	PR	PR	PR	21	атриб	_	_
+23	границе	ГРАНИЦА	S	S f inan loc sg	S f inan loc sg	22	предл	_	_
+24	этого	ЭТОТ	A	A - gen sg plen m -	A - gen sg plen m -	26	опред	_	_
+25	замечательного	ЗАМЕЧАТЕЛЬНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	26	опред	_	_
+26	города	ГОРОД	S	S m inan gen sg	S m inan gen sg	23	квазиагент	_	_
+27	Грачевки	ГРАЧЕВКА	S	S f inan gen sg	S f inan gen sg	26	квазиагент	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	а	А	CONJ	CONJ	CONJ	6	сочин	_	_
+30	в	В	PR	PR	PR	29	соч-союзн	_	_
+31	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	32	количест	_	_
+32	часа	ЧАС	S	S m inan - sg	S m inan - sg	30	предл	_	_
+33	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	34	количест	_	_
+34	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	32	аддит	_	_
+35	17	17	NUM	NUM - - -	NUM - - -	36	опред	_	_
+36	сентября	СЕНТЯБРЬ	S	S m inan gen sg	S m inan gen sg	34	квазиагент	_	_
+37	того	ТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	45	опред	_	_
+38	же	ЖЕ	PART	PART	PART	37	огранич	_	_
+39	17	17	NUM	NUM - - -	NUM - - -	41	композ	_	_
+40	-	-	-	-	PUNC	39	PUNC	_	_
+41	го	ГО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	45	1-компл	_	_
+42	незабываемого	НЕЗАБЫВАЕМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	43	опред	_	_
+43	года	ГОД	S	S m inan gen sg	S m inan gen sg	41	атриб	_	_
+44	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	45	предик	_	_
+45	стоял	СТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+46	на	НА	PR	PR	PR	45	1-компл	_	_
+47	битой	БИТЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	55	опред	_	_
+48	,	,	,	,	PUNC	47	PUNC	_	_
+49	умирающей	УМИРАТЬ	PARTCP	PARTCP ipf inpraes loc sg plen f act -	PARTCP ipf inpraes loc sg plen f act -	47	сочин	_	_
+50	и	И	CONJ	CONJ	CONJ	49	сочин	_	_
+51	смякшей	СМЯКАТЬ	PARTCP	PARTCP pf praet loc sg plen f act -	PARTCP pf praet loc sg plen f act -	50	соч-союзн	_	_
+52	от	ОТ	PR	PR	PR	51	1-компл	_	_
+53	сентябрьского	СЕНТЯБРЬСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	54	опред	_	_
+54	дождика	ДОЖДИК	S	S m inan gen sg	S m inan gen sg	52	предл	_	_
+55	траве	ТРАВА	S	S f inan loc sg	S f inan loc sg	46	предл	_	_
+56	во	ВО	PR	PR	PR	55	атриб	_	_
+57	дворе	ДВОР	S	S m inan loc sg	S m inan loc sg	56	предл	_	_
+58	Мурьевской	МУРЬЕВСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	59	опред	_	_
+59	больницы	БОЛЬНИЦА	S	S f inan gen sg	S f inan gen sg	57	квазиагент	_	_
+60	.	.	SENT	SENT	SENT	59	PUNC	_	_
+
+1	Стоял	СТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	1	предик	_	_
+3	в	В	PR	PR	PR	1	обст	_	_
+4	таком	ТАКОЙ	A	A - loc sg plen m -	A - loc sg plen m -	5	опред	_	_
+5	виде	ВИД	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+6	:	:	:	:	PUNC	8	обст	_	_
+7	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	8	1-компл	_	_
+8	окостенели	ОКОСТЕНЕВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	сент-соч	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+11	настолько	НАСТОЛЬКО	ADV	ADV -	ADV -	0	ROOT	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	что	ЧТО	CONJ	CONJ	CONJ	11	1-компл	_	_
+14	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	21	предик	_	_
+15	смутно	СМУТНО	ADV	ADV -	ADV -	16	огранич	_	_
+16	тут	ТУТ	ADV	ADV -	ADV -	21	обст	_	_
+17	же	ЖЕ	PART	PART	PART	16	огранич	_	_
+18	во	ВО	PR	PR	PR	21	обст	_	_
+19	дворе	ДВОР	S	S m inan loc sg	S m inan loc sg	18	предл	_	_
+20	мысленно	МЫСЛЕННО	ADV	ADV -	ADV -	21	обст	_	_
+21	перелистывал	ПЕРЕЛИСТЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	13	подч-союзн	_	_
+22	страницы	СТРАНИЦА	S	S f inan acc pl	S f inan acc pl	21	1-компл	_	_
+23	учебников	УЧЕБНИК	S	S m inan gen pl	S m inan gen pl	22	квазиагент	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	тупо	ТУПО	ADV	ADV -	ADV -	26	обст	_	_
+26	стараясь	СТАРАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	21	обст	_	_
+27	припомнить	ПРИПОМИНАТЬ	V	V pf - - inf - -	V pf - - inf - -	26	1-компл	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	существует	СУЩЕСТВОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	27	1-компл	_	_
+30	ли	ЛИ	PART	PART	PART	29	огранич	_	_
+31	действительно	ДЕЙСТВИТЕЛЬНО	ADV	ADV -	ADV -	29	обст	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	или	ИЛИ	CONJ	CONJ	CONJ	29	сент-соч	_	_
+34	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	36	1-компл	_	_
+35	это	ЭТО	S	S n - nom sg	S n - nom sg	36	предик	_	_
+36	померещилось	ПОМЕРЕЩИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	33	соч-союзн	_	_
+37	во	ВО	PR	PR	PR	36	обст	_	_
+38	вчерашнем	ВЧЕРАШНИЙ	A	A - loc sg plen m -	A - loc sg plen m -	39	опред	_	_
+39	сне	СОН	S	S m inan loc sg	S m inan loc sg	37	предл	_	_
+40	в	В	PR	PR	PR	39	атриб	_	_
+41	деревне	ДЕРЕВНЯ	S	S f inan loc sg	S f inan loc sg	40	предл	_	_
+42	Грабиловке	ГРАБИЛОВКА	S	S f inan loc sg	S f inan loc sg	41	аппоз	_	_
+43	,	,	,	,	PUNC	42	PUNC	_	_
+44	болезнь	БОЛЕЗНЬ	S	S f inan nom sg	S f inan nom sg	36	предик	_	_
+45	,	,	,	,	PUNC	44	PUNC	_	_
+46	при	ПРИ	PR	PR	PR	50	обст	_	_
+47	которой	КОТОРЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	46	предл	_	_
+48	у	У	PR	PR	PR	50	1-компл	_	_
+49	человека	ЧЕЛОВЕК	S	S m anim gen sg	S m anim gen sg	48	предл	_	_
+50	окостеневают	ОКОСТЕНЕВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	44	релят	_	_
+51	мышцы	МЫШЦА	S	S f inan nom pl	S f inan nom pl	50	предик	_	_
+52	?	?	SENT	SENT	SENT	51	PUNC	_	_
+
+1	Как	КАК	CONJ	CONJ	CONJ	6	вводн	_	_
+2	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	1	сравн-союзн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	проклятую	ПРОКЛЯТЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	зовут	ЗВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+7	по-латыни	ПО-ЛАТЫНИ	ADV	ADV -	ADV -	6	обст	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Каждая	КАЖДЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+2	из	ИЗ	PR	PR	PR	1	электив	_	_
+3	мышц	МЫШЦА	S	S f inan gen pl	S f inan gen pl	2	предл	_	_
+4	этих	ЭТОТ	A	A - gen pl plen - -	A - gen pl plen - -	5	предик	_	_
+5	болела	БОЛЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	релят	_	_
+6	нестерпимой	НЕСТЕРПИМЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	7	опред	_	_
+7	болью	БОЛЬ	S	S f inan ins sg	S f inan ins sg	5	2-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	напоминающей	НАПОМИНАТЬ	PARTCP	PARTCP ipf inpraes loc sg plen f act -	PARTCP ipf inpraes loc sg plen f act -	7	опред	_	_
+10	зубную	ЗУБНОЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+11	боль	БОЛЬ	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	О	О	PR	PR	PR	5	3-компл	_	_
+2	пальцах	ПАЛЕЦ	S	S m inan loc pl	S m inan loc pl	1	предл	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	ног	НОГА	S	S f inan gen pl	S f inan gen pl	3	предл	_	_
+5	говорить	ГОВОРИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	предик	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	приходится	ПРИХОДИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	12	предик	_	_
+10	уже	УЖЕ	ADV	ADV -	ADV -	12	огранич	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	шевелились	ШЕВЕЛИТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	7	разъяснит	_	_
+13	в	В	PR	PR	PR	12	2-компл	_	_
+14	сапогах	САПОГ	S	S m inan loc pl	S m inan loc pl	13	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	лежали	ЛЕЖАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	12	сочин	_	_
+17	смирно	СМИРНО	ADV	ADV -	ADV -	16	обст	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	16	сочин	_	_
+20	похожи	ПОХОЖИЙ	A	A - - pl brev - -	A - - pl brev - -	19	присвяз	_	_
+21	на	НА	PR	PR	PR	20	1-компл	_	_
+22	деревянные	ДЕРЕВЯННЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	23	опред	_	_
+23	культяпки	КУЛЬТЯПКА	S	S f inan acc pl	S f inan acc pl	21	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Сознаюсь	СОЗНАВАТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+4	в	В	PR	PR	PR	8	обст	_	_
+5	порыве	ПОРЫВ	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	малодушия	МАЛОДУШИЕ	S	S n inan gen sg	S n inan gen sg	5	квазиагент	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+8	проклинал	ПРОКЛИНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	подч-союзн	_	_
+9	шепотом	ШЕПОТОМ	ADV	ADV -	ADV -	10	огранич	_	_
+10	медицину	МЕДИЦИНА	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+11	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+12	свое	СВОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	11	соч-союзн	_	_
+13	заявление	ЗАЯВЛЕНИЕ	S	S n inan acc sg	S n inan acc sg	8	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	поданное	ПОДАВАТЬ	PARTCP	PARTCP pf praet acc sg plen n pass -	PARTCP pf praet acc sg plen n pass -	13	опред	_	_
+16	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	17	количест	_	_
+17	лет	ГОД	S	S m inan gen pl	S m inan gen pl	18	предл	_	_
+18	тому назад	тому назад	PR	PR	ZERO	15	обст	_	_
+19	ректору	РЕКТОР	S	S m anim dat sg	S m anim dat sg	15	2-компл	_	_
+20	университета	УНИВЕРСИТЕТ	S	S m inan gen sg	S m inan gen sg	15	квазиагент	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Сверху	СВЕРХУ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	в	В	PR	PR	PR	0	ROOT	_	_
+3	это	ЭТОТ	A	A - acc sg plen n inan	A - acc sg plen n inan	5	предик	_	_
+4	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	5	длительн	_	_
+5	сеяло	СЕЯТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	2	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как	КАК	CONJ	CONJ	CONJ	5	сравнит	_	_
+8	сквозь	СКВОЗЬ	PR	PR	PR	7	сравн-союзн	_	_
+9	сито	СИТО	S	S n inan acc sg	S n inan acc sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Пальто	ПАЛЬТО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	3	1-компл	_	_
+2	мое	МОЙ	A	A - nom sg plen n -	A - nom sg plen n -	3	предик	_	_
+3	набухло	НАБУХАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как	КАК	CONJ	CONJ	CONJ	3	сравнит	_	_
+6	губка	ГУБКА	S	S f inan nom sg	S f inan nom sg	5	сравн-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Пальцами	ПАЛЕЦ	S	S m inan ins pl	S m inan ins pl	6	обст	_	_
+2	правой	ПРАВЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	3	опред	_	_
+3	руки	РУКА	S	S f inan gen sg	S f inan gen sg	1	атриб	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+5	тщетно	ТЩЕТНО	ADV	ADV -	ADV -	6	обст	_	_
+6	пытался	ПЫТАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	ухватиться	УХВАТЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+8	за	ЗА	PR	PR	PR	7	2-компл	_	_
+9	ручку	РУЧКА	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	чемодана	ЧЕМОДАН	S	S m inan gen sg	S m inan gen sg	9	квазиагент	_	_
+11	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+12	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	13	обст	_	_
+13	плюнул	ПЛЮНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	соч-союзн	_	_
+14	на	НА	PR	PR	PR	13	2-компл	_	_
+15	мокрую	МОКРЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	16	опред	_	_
+16	траву	ТРАВА	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Пальцы	ПАЛЕЦ	S	S m inan nom pl	S m inan nom pl	5	предик	_	_
+2	мои	МОЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	суб-копр	_	_
+3	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	5	1-компл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	могли	МОЧЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	хватать	ХВАТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+9	опять	ОПЯТЬ	ADV	ADV -	ADV -	10	обст	_	_
+10	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	8	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	начиненному	НАЧИНИВАТЬ	PARTCP	PARTCP pf praet dat sg plen m pass -	PARTCP pf praet dat sg plen m pass -	5	1-компл	_	_
+13	всякими	ВСЯКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	14	опред	_	_
+14	знаниями	ЗНАНИЕ	S	S n inan ins pl	S n inan ins pl	5	2-компл	_	_
+15	из	ИЗ	PR	PR	PR	14	атриб	_	_
+16	интересных	ИНТЕРЕСНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	18	опред	_	_
+17	медицинских	МЕДИЦИНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	18	опред	_	_
+18	книжек	КНИЖКА	S	S f inan gen pl	S f inan gen pl	15	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	вспомнилась	ВСПОМИНАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	сент-соч	_	_
+21	болезнь	БОЛЕЗНЬ	S	S f inan nom sg	S f inan nom sg	20	предик	_	_
+22	-	-	-	-	PUNC	21	PUNC	_	_
+23	паралич	ПАРАЛИЧ	S	S m inan nom sg	S m inan nom sg	21	аппоз	_	_
+24	"	"	_	_	PUNC	25	PUNC	_	_
+25	Парализис	ПАРАЛИЗИС	S	S m inan nom sg	S m inan nom sg	23	аппоз	_	_
+26	"	"	_	_	PUNC	25	PUNC	_	_
+27	,	,	,	,	PUNC	25	PUNC	_	_
+28	-	-	-	-	PUNC	25	PUNC	_	_
+29	отчаянно	ОТЧАЯННО	ADV	ADV -	ADV -	30	огранич	_	_
+30	мысленно	МЫСЛЕННО	ADV	ADV -	ADV -	33	обст	_	_
+31	и	И	CONJ	CONJ	CONJ	30	сочин	_	_
+32	черт	ЧЕРТ	S	S f inan gen pl	S f inan gen pl	31	соч-союзн	_	_
+33	знает	ЗНАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	21	релят	_	_
+34	зачем	ЗАЧЕМ	ADV	ADV -	ADV -	33	1-компл	_	_
+35	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	вводн	_	_
+36	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	35	предик	_	_
+37	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	5	1-компл	_	_
+38	.	.	SENT	SENT	SENT	37	PUNC	_	_
+

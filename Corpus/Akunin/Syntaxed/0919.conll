@@ -1,0 +1,40 @@
+1	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	откинул	ОТКИНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	с	С	PR	PR	PR	2	2-компл	_	_
+4	плеча	ПЛЕЧО	S	S n inan gen sg	S n inan gen sg	3	предл	_	_
+5	плащ	ПЛАЩ	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+8	в	В	PR	PR	PR	13	обст	_	_
+9	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	11	квазиагент	_	_
+10	правой	ПРАВЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	11	опред	_	_
+11	руке	РУКА	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+12	тускло	ТУСКЛО	ADV	ADV -	ADV -	13	обст	_	_
+13	блеснул	БЛЕСНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+14	вороненой	ВОРОНЕНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	15	опред	_	_
+15	сталью	СТАЛЬ	S	S f inan ins sg	S f inan ins sg	13	1-компл	_	_
+16	маленький	МАЛЕНЬКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	18	опред	_	_
+17	красивый	КРАСИВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	18	опред	_	_
+18	револьвер	РЕВОЛЬВЕР	S	S m inan nom sg	S m inan nom sg	13	предик	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	ту	ТОТ	A	A - acc sg plen f -	A - acc sg plen f -	4	опред	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	секунду	СЕКУНДА	S	S f inan acc sg	S f inan acc sg	1	предл	_	_
+5	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+6	щелкнул	ЩЕЛКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	пальцами	ПАЛЕЦ	S	S m inan ins pl	S m inan ins pl	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	в	В	PR	PR	PR	11	1-компл	_	_
+10	кабинет	КАБИНЕТ	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+11	вошли	ВХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	сент-соч	_	_
+12	двое	ДВОЕ	NUM	NUM nom - -	NUM nom - -	13	количест	_	_
+13	жандармов	ЖАНДАРМ	S	S m anim gen pl	S m anim gen pl	11	предик	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+15	наставили	НАСТАВЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	14	соч-союзн	_	_
+16	на	НА	PR	PR	PR	15	2-компл	_	_
+17	корреспондента	КОРРЕСПОНДЕНТ	S	S m anim gen sg	S m anim gen sg	16	предл	_	_
+18	карабины	КАРАБИН	S	S m inan acc pl	S m inan acc pl	15	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

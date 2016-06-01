@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"пожалуй","gr":"PART,parenth="}],"text":"Пожалуй"}
+{"analysis":[{"lex":"два","gr":"NUM=abl"},{"lex":"два","gr":"NUM=gen"},{"lex":"два","gr":"NUM=acc,m,anim"},{"lex":"два","gr":"NUM=acc,f,anim"}],"text":"двух"}
+{"analysis":[{"lex":"шашка","gr":"S,f,inan=gen,pl"}],"text":"шашек"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"самый","gr":"APRO=acc,sg,m,inan"},{"lex":"самый","gr":"APRO=nom,sg,m"}],"text":"самый"}
+{"analysis":[{"lex":"раз","gr":"S,m,inan=acc,sg"},{"lex":"раз","gr":"S,m,inan=gen,pl"},{"lex":"раз","gr":"S,m,inan=nom,sg"}],"text":"раз"}
+{"analysis":[{"lex":"хватить","gr":"V,pf,tran=inpraes,sg,indic,3p"}],"text":"хватит"}
+{"text":"\\s"}
+{"analysis":[{"lex":"или","gr":"CONJ="}],"text":"Или"}
+{"analysis":[{"lex":"много","gr":"ADV,praed="}],"text":"много"}
+{"text":"\\s"}
+{"analysis":[{"lex":"хорошо","gr":"ADV=parenth"}],"text":"Хорошо"}
+{"analysis":[{"lex":"бы","gr":"PART="}],"text":"бы"}
+{"analysis":[{"lex":"мерзавец","gr":"S,m,anim=acc,sg"},{"lex":"мерзавец","gr":"S,m,anim=gen,sg"}],"text":"мерзавца"}
+{"analysis":[{"lex":"живьем","gr":"ADV="}],"text":"живьем"}
+{"analysis":[{"lex":"взять","gr":"V,pf,tran=inf"}],"text":"взять"}

@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"опять","gr":"ADV="}],"text":"опять"}
+{"analysis":[{"lex":"покорно","gr":"ADV="}],"text":"покорно"}
+{"analysis":[{"lex":"фельдшер","gr":"S,m,anim=nom,sg"}],"text":"фельдшер"}
+{"analysis":[{"lex":"впрыскивать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"впрыснул"}
+{"analysis":[{"lex":"масло","gr":"S,n,inan=acc,sg"},{"lex":"масло","gr":"S,n,inan=nom,sg"}],"text":"масло"}

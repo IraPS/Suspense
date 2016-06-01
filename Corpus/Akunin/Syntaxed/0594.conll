@@ -1,0 +1,23 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	тронула	ТРОНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	поводья	ПОВОД	S	S m inan acc pl	S m inan acc pl	2	1-компл	_	_
+4	смирного	СМИРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+5	каурого	КАУРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	конька	КОНЕК	S	S m anim gen sg	S m anim gen sg	3	квазиагент	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	позаимствованного	ПОЗАИМСТВОВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	3	опред	_	_
+9	в	В	PR	PR	PR	8	2-компл	_	_
+10	лазаретной	ЛАЗАРЕТНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	11	опред	_	_
+11	конюшне	КОНЮШНЯ	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+14	поехала	ПОЕХАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	13	соч-союзн	_	_
+15	на	НА	PR	PR	PR	14	2-компл	_	_
+16	флаг	ФЛАГ	S	S m inan acc sg	S m inan acc sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	с	С	PR	PR	PR	20	обст	_	_
+19	любопытством	ЛЮБОПЫТСТВО	S	S n inan ins sg	S n inan ins sg	18	предл	_	_
+20	озираясь	ОЗИРАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	14	обст	_	_
+21	вокруг	ВОКРУГ	ADV	ADV -	ADV -	20	обст	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"любопытство","gr":"S,n,inan=acc,sg"},{"lex":"любопытство","gr":"S,n,inan=nom,sg"}],"text":"Любопытство"}
+{"analysis":[{"lex":"мой","gr":"APRO=acc,sg,n"},{"lex":"мой","gr":"APRO=nom,sg,n"}],"text":"мое"}
+{"analysis":[{"lex":"сильно","gr":"ADV="}],"text":"сильно"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"было"}
+{"analysis":[{"lex":"возбуждать","gr":"V=praet,sg,partcp,brev,n,pf,pass,tran"}],"text":"возбуждено"}

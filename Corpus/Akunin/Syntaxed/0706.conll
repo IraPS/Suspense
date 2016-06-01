@@ -1,0 +1,94 @@
+1	Один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	2	количест	_	_
+2	раз	РАЗ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+3	вырвался	ВЫРЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	проведать	ПРОВЕДЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	3	вводн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+2	все	ВСЕ	S	S - - nom pl	S - - nom pl	4	1-компл	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	числился	ЧИСЛИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	под	ПОД	PR	PR	PR	4	обст	_	_
+6	следствием	СЛЕДСТВИЕ	S	S n inan ins sg	S n inan ins sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	но	НО	CONJ	CONJ	CONJ	4	сочин	_	_
+9	уже	УЖЕ	ADV	ADV -	ADV -	11	огранич	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	соч-союзн	_	_
+12	на	НА	PR	PR	PR	11	1-компл	_	_
+13	гауптвахте	ГАУПТВАХТА	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	а	А	CONJ	CONJ	CONJ	11	сочин	_	_
+16	ходил	ХОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	соч-союзн	_	_
+17	на	НА	PR	PR	PR	16	2-компл	_	_
+18	службу	СЛУЖБА	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+19	–	–	–	–	PUNC	20	опред	_	_
+20	армия	АРМИЯ	S	S f inan nom sg	S f inan nom sg	21	предик	_	_
+21	разрослась	РАЗРАСТАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	сент-соч	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	и	И	CONJ	CONJ	CONJ	21	сент-соч	_	_
+24	шифровальщиков	ШИФРОВАЛЬЩИК	S	S m anim acc pl	S m anim acc pl	26	1-компл	_	_
+25	не	НЕ	PART	PART	PART	26	огранич	_	_
+26	хватало	ХВАТАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	23	соч-союзн	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	сильно	СИЛЬНО	ADV	ADV -	ADV -	3	огранич	_	_
+3	изменился	ИЗМЕНЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	:	:	:	:	PUNC	5	предик	_	_
+5	оброс	ОБРАСТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+6	жидкой	ЖИДКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	ужасно	УЖАСНО	ADV	ADV -	ADV -	12	огранич	_	_
+9	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	12	2-компл	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	шедшей	ИДТИ	PARTCP	PARTCP ipf praet loc sg plen f act -	PARTCP ipf praet loc sg plen f act -	12	опред	_	_
+12	бороденкой	БОРОДЕНКА	S	S f inan ins sg	S f inan ins sg	6	сочин	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	отощал	ОТОЩАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	сочин	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	через	ЧЕРЕЗ	PR	PR	PR	18	обст	_	_
+17	слово	СЛОВО	S	S n inan acc sg	S n inan acc sg	16	предл	_	_
+18	поминал	ПОМИНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	соч-союзн	_	_
+19	то	ТО	CONJ	CONJ	CONJ	3	вводн	_	_
+20	Бога	БОГ	S	S m anim gen sg	S m anim gen sg	19	сравн-союзн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	то	ТО	CONJ	CONJ	CONJ	3	обст	_	_
+23	служение	СЛУЖЕНИЕ	S	S n inan nom sg	S n inan nom sg	24	предик	_	_
+24	народу	НАРОД	S	S m inan dat sg	S m inan dat sg	22	подч-союзн	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Больше	МНОГО	ADV	ADV comp	ADV comp	4	обст	_	_
+2	всего	ВСЕ	S	S n - gen sg	S n - gen sg	3	опред	_	_
+3	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	4	1-компл	_	_
+4	потрясло	ПОТРЯСАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	то	ТО	CONJ	CONJ	CONJ	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+8	при	ПРИ	PR	PR	PR	11	обст	_	_
+9	встрече	ВСТРЕЧА	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	жених	ЖЕНИХ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+11	поцеловал	ПОЦЕЛОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	подч-союзн	_	_
+12	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	11	1-компл	_	_
+13	в	В	PR	PR	PR	11	2-компл	_	_
+14	лоб	ЛОБ	S	S m inan acc sg	S m inan acc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	7	предик	_	_
+2	это	ЭТО	S	S n - nom sg	S n - nom sg	7	обст	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как	КАК	CONJ	CONJ	CONJ	3	сравнит	_	_
+6	покойницу	ПОКОЙНИЦА	S	S f anim acc sg	S f anim acc sg	5	сравн-союзн	_	_
+7	в	В	PR	PR	PR	0	ROOT	_	_
+8	гробу	ГРОБ	S	S m inan loc2 sg	S m inan loc2 sg	7	предл	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Неужто	НЕУЖТО	PART	PART	PART	2	огранич	_	_
+2	до	ДО	PR	PR	PR	5	обст	_	_
+3	такой	ТАКОЙ	A	A - loc sg plen f -	A - loc sg plen f -	4	опред	_	_
+4	степени	СТЕПЕНЬ	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+5	подурнела	ПОДУРНЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+

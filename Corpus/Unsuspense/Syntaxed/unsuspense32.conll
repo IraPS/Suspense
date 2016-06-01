@@ -1,0 +1,47 @@
+1	Спотыкаясь	СПОТЫКАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	бреду	БРЕД	S	S m inan loc2 sg	S m inan loc2 sg	0	ROOT	_	_
+5	как	КАК	CONJ	CONJ	CONJ	4	сравнит	_	_
+6	во	ВО	PR	PR	PR	5	сравн-союзн	_	_
+7	сне	СОН	S	S m inan loc sg	S m inan loc sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	До	ДО	PR	PR	PR	3	обст	_	_
+2	утра	УТРО	S	S n inan gen sg	S n inan gen sg	1	предл	_	_
+3	далеко	ДАЛЕКО	ADV	ADV -	ADV -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Целую	ЦЕЛЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	2	опред	_	_
+2	ночь	НОЧЬ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+3	придется	ПРИХОДИТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+4	спускаться	СПУСКАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	3	предик	_	_
+5	к	К	PR	PR	PR	4	2-компл	_	_
+6	долинам	ДОЛИНА	S	S f inan dat pl	S f inan dat pl	5	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+8	только	ТОЛЬКО	PART	PART	PART	9	огранич	_	_
+9	на	НА	PR	PR	PR	11	обст	_	_
+10	заре	ЗАРЯ	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	удастся	УДАВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	7	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	может	МОЧЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	16	вводн	_	_
+14	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	уснуть	УСНУТЬ	V	V pf - - inf - -	V pf - - inf - -	11	предик	_	_
+17	где-нибудь	ГДЕ-НИБУДЬ	ADV	ADV -	ADV -	18	огранич	_	_
+18	мертвым	МЕРТВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	19	опред	_	_
+19	сном	СОН	S	S m inan ins sg	S m inan ins sg	16	1-компл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	-	-	-	-	PUNC	19	PUNC	_	_
+22	сжаться	СЖИМАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	16	сочин	_	_
+23	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+24	чувствовать	ЧУВСТВОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	23	соч-союзн	_	_
+25	только	ТОЛЬКО	PART	PART	PART	26	огранич	_	_
+26	одно	ОДИН	A	A - nom sg plen n -	A - nom sg plen n -	11	сент-соч	_	_
+27	-	-	-	-	PUNC	26	PUNC	_	_
+28	сладость	СЛАДОСТЬ	S	S f inan nom sg	S f inan nom sg	26	предик	_	_
+29	тепла	ТЕПЛО	S	S n inan gen sg	S n inan gen sg	28	1-компл	_	_
+30	после	ПОСЛЕ	PR	PR	PR	28	атриб	_	_
+31	холода	ХОЛОД	S	S m inan gen sg	S m inan gen sg	30	предл	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

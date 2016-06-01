@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"перепелкин","gr":"S,famn,m,anim=dat,sg"}],"text":"Перепелкину"}
+{"analysis":[{"lex":"просто","gr":"PART="}],"text":"просто"}
+{"analysis":[{"lex":"кивнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"кивнул"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"а"}
+{"analysis":[{"lex":"напоследок","gr":"ADV="}],"text":"напоследок"}
+{"analysis":[{"lex":"обращаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"обратился"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"корреспондент","gr":"S,m,anim=dat,sg"}],"text":"корреспонденту"}
+{"analysis":[{"lex":"салям","qual":"bastard","gr":"S,persn,m,anim=nom,sg"}],"text":"Салям"}
+{"analysis":[{"lex":"алейкум","qual":"bastard","gr":"S,m,anim=nom,sg"}],"text":"алейкум"}
+{"analysis":[{"lex":"анвар","gr":"S,persn,m,anim=nom,sg"}],"text":"Анвар"}
+{"analysis":[{"lex":"эфенди","gr":"S,m,anim=abl,pl"},{"lex":"эфенди","gr":"S,m,anim=abl,sg"},{"lex":"эфенди","gr":"S,m,anim=acc,pl"},{"lex":"эфенди","gr":"S,m,anim=acc,sg"},{"lex":"эфенди","gr":"S,m,anim=dat,pl"},{"lex":"эфенди","gr":"S,m,anim=dat,sg"},{"lex":"эфенди","gr":"S,m,anim=gen,pl"},{"lex":"эфенди","gr":"S,m,anim=gen,sg"},{"lex":"эфенди","gr":"S,m,anim=ins,pl"},{"lex":"эфенди","gr":"S,m,anim=ins,sg"},{"lex":"эфенди","gr":"S,m,anim=nom,pl"},{"lex":"эфенди","gr":"S,m,anim=nom,sg"}],"text":"эфенди"}

@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"при","gr":"PR="}],"text":"При"}
+{"analysis":[{"lex":"этот","gr":"APRO=abl,pl"},{"lex":"этот","gr":"APRO=gen,pl"},{"lex":"этот","gr":"APRO=acc,pl,anim"}],"text":"этих"}
+{"analysis":[{"lex":"слово","gr":"S,n,inan=abl,pl"}],"text":"словах"}
+{"analysis":[{"lex":"император","gr":"S,m,anim=nom,sg"}],"text":"император"}
+{"analysis":[{"lex":"осенять","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"осенил"}
+{"analysis":[{"lex":"себя","gr":"SPRO=acc"},{"lex":"себя","gr":"SPRO=gen"}],"text":"себя"}
+{"analysis":[{"lex":"крестный","gr":"A=dat,pl,plen"},{"lex":"крестный","gr":"A=ins,sg,plen,m"},{"lex":"крестный","gr":"A=ins,sg,plen,n"}],"text":"крестным"}
+{"analysis":[{"lex":"знамение","gr":"S,n,inan=ins,sg"}],"text":"знамением"}

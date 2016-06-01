@@ -1,0 +1,34 @@
+1	Оглушительно	ОГЛУШИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	2	присвяз	_	_
+2	поёт	ПЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	канарейка	КАНАРЕЙКА	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	изумляя	ИЗУМЛЯТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+6	силою	СИЛА	S	S f inan ins sg	S f inan ins sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	скрытой	СКРЫВАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	2	предик	_	_
+9	в	В	PR	PR	PR	8	обст	_	_
+10	таком	ТАКОЙ	A	A - loc sg plen m -	A - loc sg plen m -	12	опред	_	_
+11	ничтожном	НИЧТОЖНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	12	опред	_	_
+12	комочке	КОМОЧЕК	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+13	жёлтых	ЖЕЛТЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	14	опред	_	_
+14	перьев	ПЕРО	S	S n inan gen pl	S n inan gen pl	12	квазиагент	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	крошечных	КРОШЕЧНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	17	опред	_	_
+17	мускулов	МУСКУЛ	S	S m inan gen pl	S m inan gen pl	14	сочин	_	_
+18	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+19	тоненьких	ТОНЕНЬКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	22	опред	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	изящных	ИЗЯЩНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	19	сочин	_	_
+22	косточек	КОСТОЧКА	S	S f inan gen pl	S f inan gen pl	18	соч-союзн	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Пение	ПЕНИЕ	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+2	канарейки	КАНАРЕЙКА	S	S f anim gen sg	S f anim gen sg	1	квазиагент	_	_
+3	всегда	ВСЕГДА	ADV	ADV -	ADV -	4	обст	_	_
+4	напоминает	НАПОМИНАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	7	опред	_	_
+6	рыдающий	РЫДАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act inan	PARTCP ipf inpraes acc sg plen m act inan	7	опред	_	_
+7	крик	КРИК	S	S m inan nom sg	S m inan nom sg	4	1-компл	_	_
+8	осла	ОСЕЛ	S	S m anim gen sg	S m anim gen sg	7	квазиагент	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

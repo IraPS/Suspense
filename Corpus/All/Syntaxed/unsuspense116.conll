@@ -1,0 +1,31 @@
+1	—	—	—	—	PUNC	2	опред	_	_
+2	Ух	УХ	INTJ	INTJ	INTJ	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	здорово	ЗДОРОВО	ADV	ADV -	ADV -	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	—	—	—	—	PUNC	2	1-компл	_	_
+2	скажет	СКАЗАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+3	мещанин	МЕЩАНИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	Потращайте	ПОТРАЩАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	1	сочин	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	потращайте	ПОТРАЩАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	2	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	барчук	БАРЧУК	S	S m anim nom sg	S m anim nom sg	4	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а то	а то	CONJ	CONJ	ZERO	1	сравнит	_	_
+9	просто	ПРОСТО	PART	PART	PART	10	огранич	_	_
+10	беда	БЕДА	S	S f inan nom sg	S f inan nom sg	8	сравн-союзн	_	_
+11	!	!	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Опять	ОПЯТЬ	ADV	ADV -	ADV -	6	обст	_	_
+2	всю	ВЕСЬ	A	A - acc sg plen f -	A - acc sg plen f -	3	опред	_	_
+3	дулю	ДУЛЯ	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+4	на	НА	PR	PR	PR	3	атриб	_	_
+5	валу	ВАЛ	S	S m inan loc2 sg	S m inan loc2 sg	4	предл	_	_
+6	отрясли	ОТРЯСАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	...	...	SENT	SENT	SENT	6	PUNC	_	_
+

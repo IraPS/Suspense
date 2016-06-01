@@ -1,0 +1,94 @@
+1	Зазимок	ЗАЗИМОК	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	первый	ПЕРВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	снег	СНЕГ	S	S m inan nom sg	S m inan nom sg	1	аппоз	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Борзых	БОРЗАЯ	S	S m inan gen sg	S m inan gen sg	2	предик	_	_
+2	нет	НЕТ	PART	PART	PART	4	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	охотиться	ОХОТИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+5	в	В	PR	PR	PR	4	обст	_	_
+6	ноябре	НОЯБРЬ	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	с	С	PR	PR	PR	4	2-компл	_	_
+9	чем	ЧТО	S	S n - ins sg	S n - ins sg	8	предл	_	_
+10	;	;	SENT	SENT	SENT	9	PUNC	_	_
+
+1	но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	наступает	НАСТУПАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+3	зима	ЗИМА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	начинается	НАЧИНАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	вводн	_	_
+6	«	«	_	_	PUNC	7	PUNC	_	_
+7	работа	РАБОТА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+8	»	»	_	_	PUNC	7	PUNC	_	_
+9	с	С	PR	PR	PR	7	1-компл	_	_
+10	гончими	ГОНЧАЯ	S	S f anim ins pl	S f anim ins pl	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	опять	ОПЯТЬ	ADV	ADV -	ADV -	1	соч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как	КАК	CONJ	CONJ	CONJ	3	сравнит	_	_
+6	в	В	PR	PR	PR	5	сравн-союзн	_	_
+7	прежние	ПРЕЖНИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	8	опред	_	_
+8	времена	ВРЕМЯ	S	S n inan acc pl	S n inan acc pl	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	съезжаются	СЪЕЗЖАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	1	вводн	_	_
+11	мелкопоместные	МЕЛКОПОМЕСТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	опред	_	_
+12	друг	ДРУГ	S	S m anim nom sg	S m anim nom sg	14	вспом	_	_
+13	к	К	PR	PR	PR	10	1-компл	_	_
+14	другу	ДРУГ	S	S - - dat sg	S - - dat sg	13	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	пьют	ПИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	10	сочин	_	_
+17	на	НА	PR	PR	PR	16	1-компл	_	_
+18	последние	ПОСЛЕДНИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	19	опред	_	_
+19	деньги	ДЕНЬГИ	S	S - inan acc pl	S - inan acc pl	17	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	по	ПО	PR	PR	PR	24	вводн	_	_
+22	целым	ЦЕЛЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	23	опред	_	_
+23	дням	ДЕНЬ	S	S m inan dat pl	S m inan dat pl	21	предл	_	_
+24	пропадают	ПРОПАДАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	16	сочин	_	_
+25	в	В	PR	PR	PR	24	обст	_	_
+26	снежных	СНЕЖНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	27	опред	_	_
+27	полях	ПОЛЕ	S	S n inan loc pl	S n inan loc pl	25	предл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	8	обст	_	_
+3	на	НА	PR	PR	PR	2	атриб	_	_
+4	каком-нибудь	КАКОЙ-НИБУДЬ	A	A - loc sg plen m -	A - loc sg plen m -	6	опред	_	_
+5	глухом	ГЛУХОЙ	A	A - loc sg plen m -	A - loc sg plen m -	6	опред	_	_
+6	хуторе	ХУТОР	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+7	далеко	ДАЛЕКО	ADV	ADV -	ADV -	8	огранич	_	_
+8	светятся	СВЕТИТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	1	соч-союзн	_	_
+9	в	В	PR	PR	PR	8	обст	_	_
+10	темноте	ТЕМНОТА	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	зимней	ЗИМНИЙ	A	A - gen sg plen f -	A - gen sg plen f -	12	опред	_	_
+12	ночи	НОЧЬ	S	S f inan gen sg	S f inan gen sg	10	квазиагент	_	_
+13	окна	ОКНО	S	S n inan gen sg	S n inan gen sg	12	квазиагент	_	_
+14	флигеля	ФЛИГЕЛЬ	S	S m inan gen sg	S m inan gen sg	13	квазиагент	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Там	ТАМ	ADV	ADV -	ADV -	17	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	в	В	PR	PR	PR	8	1-компл	_	_
+4	этом	ЭТОТ	A	A - loc sg plen m -	A - loc sg plen m -	6	опред	_	_
+5	маленьком	МАЛЕНЬКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	6	опред	_	_
+6	флигеле	ФЛИГЕЛЬ	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	плавают	ПЛАВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	1	релят	_	_
+9	клубы	КЛУБ	S	S m inan nom pl	S m inan nom pl	8	предик	_	_
+10	дыма	ДЫМ	S	S m inan gen sg	S m inan gen sg	9	квазиагент	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	тускло	ТУСКЛО	ADV	ADV -	ADV -	13	обст	_	_
+13	горят	ГОРЕТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	9	релят	_	_
+14	сальные	САЛЬНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	15	опред	_	_
+15	свечи	СВЕЧА	S	S f inan nom pl	S f inan nom pl	13	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	настраивается	НАСТРАИВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+18	гитара	ГИТАРА	S	S f inan nom sg	S f inan nom sg	17	предик	_	_
+19	...	...	SENT	SENT	SENT	18	PUNC	_	_
+

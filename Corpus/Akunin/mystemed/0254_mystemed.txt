@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"побежать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"побежал"}
+{"analysis":[{"lex":"обратно","gr":"ADV="}],"text":"обратно"}
+{"analysis":[{"lex":"пылить","gr":"V,ipf,intr=inpraes,ger"}],"text":"пыля"}
+{"analysis":[{"lex":"тяжелый","gr":"A=ins,pl,plen"}],"text":"тяжелыми"}
+{"analysis":[{"lex":"сапог","gr":"S,m,inan=ins,pl"}],"text":"сапогами"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"ежесекундный","gr":"A=sg,brev,n"}],"text":"ежесекундно"}
+{"analysis":[{"lex":"оглядываться","gr":"V,ipf,intr=inpraes,ger"}],"text":"оглядываясь"}

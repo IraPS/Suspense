@@ -1,0 +1,53 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	PART	PART	PART	1	огранич	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Вид	ВИД	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+2	чужой	ЧУЖОЙ	A	A - nom sg plen m -	A - nom sg plen m -	1	опред	_	_
+3	б	Б	S	S - - nonflex nonflex	S - - nonflex nonflex	5	опред	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	боли	БОЛЬ	S	S f inan nom pl	S f inan nom pl	6	предик	_	_
+6	позволяет	ПОЗВОЛЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	релят	_	_
+7	легче	ЛЕГКО	ADV	ADV comp	ADV comp	8	обст	_	_
+8	переносить	ПЕРЕНОСИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	1-компл	_	_
+9	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	попал	ПОПАДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	2-компл	_	_
+4	фронт	ФРОНТ	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+5	за	ЗА	PR	PR	PR	4	атриб	_	_
+6	две	ДВА	NUM	NUM nom f -	NUM nom f -	7	количест	_	_
+7	недели	НЕДЕЛЯ	S	S f inan gen sg	S f inan gen sg	5	предл	_	_
+8	до	ДО	PR	PR	PR	2	обст	_	_
+9	разгрома	РАЗГРОМ	S	S m inan gen sg	S m inan gen sg	8	предл	_	_
+10	армии	АРМИЯ	S	S f inan gen sg	S f inan gen sg	9	квазиагент	_	_
+11	Черняева	ЧЕРНЯЕВ	S	S m anim gen sg	S m anim gen sg	10	квазиагент	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	потом	ПОТОМ	ADV	ADV -	ADV -	5	обст	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	вдосталь	ВДОСТАЛЬ	ADV	ADV -	ADV -	5	обст	_	_
+5	набродился	НАБРОДИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+6	по	ПО	PR	PR	PR	5	обст	_	_
+7	горам	ГОРА	S	S f inan dat pl	S f inan dat pl	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	настрелялся	НАСТРЕЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	сочин	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Слава	СЛАВА	S	S f inan nom sg	S f inan nom sg	4	вводн	_	_
+2	богу	БОГ	S	S m anim dat sg	S m anim dat sg	1	вспом	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	к	К	S	S - - nonflex nonflex	S - - nonflex nonflex	12	1-компл	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	кажется	КАЗАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	ни	НИ	PART	PART	PART	9	огранич	_	_
+9	в	В	PR	PR	PR	12	2-компл	_	_
+10	кого	КТО	S	S m - gen sg	S m - gen sg	9	предл	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	попал	ПОПАДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

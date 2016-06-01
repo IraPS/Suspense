@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"зачем","gr":"ADVPRO="}],"text":"Зачем"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"солгать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"солгал"}
+{"text":"\\s"}
+{"analysis":[{"lex":"теперь","gr":"ADV="}],"text":"Теперь"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=abl"},{"lex":"я","gr":"SPRO,sg,1p=dat"}],"text":"мне"}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=acc"},{"lex":"это","gr":"SPRO,sg,n,inan=nom"}],"text":"это"}
+{"analysis":[{"lex":"непонятный","gr":"A=sg,brev,n"}],"text":"непонятно"}

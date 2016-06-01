@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"отчего","gr":"ADVPRO="}],"text":"Отчего"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}
+{"analysis":[{"lex":"такой","gr":"APRO=nom,sg,f"}],"text":"такая"}
+{"analysis":[{"lex":"перемена","gr":"S,f,inan=nom,sg"}],"text":"перемена"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,f,pf"}],"text":"спросила"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"надежда","gr":"S,f,inan=abl,sg"},{"lex":"надежда","gr":"S,f,inan=dat,sg"}],"text":"надежде"}
+{"analysis":[{"lex":"хоть","gr":"CONJ="}],"text":"хоть"}
+{"analysis":[{"lex":"что-то","gr":"SPRO,sg,n,inan=acc"},{"lex":"что-то","gr":"SPRO,sg,n,inan=nom"}],"text":"что-то"}
+{"analysis":[{"lex":"разузнавать","gr":"V,tran=inf,pf"}],"text":"разузнать"}
+{"analysis":[{"lex":"о","gr":"PR="}],"text":"о"}
+{"analysis":[{"lex":"загадочный","gr":"A=abl,sg,plen,m"},{"lex":"загадочный","gr":"A=abl,sg,plen,n"}],"text":"загадочном"}
+{"analysis":[{"lex":"прошлое","gr":"S,n,inan=abl,sg"}],"text":"прошлом"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=acc,sg"},{"lex":"эраст","gr":"S,persn,m,anim=gen,sg"}],"text":"Эраста"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=acc,sg"},{"lex":"петрович","gr":"S,patrn,m,anim=gen,sg"}],"text":"Петровича"}

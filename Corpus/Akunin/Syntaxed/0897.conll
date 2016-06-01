@@ -1,0 +1,120 @@
+1	Вести	ВЕСТЬ	S	S f inan nom pl	S f inan nom pl	3	предик	_	_
+2	тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+3	разносились	РАЗНОСИТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	быстро	БЫСТРО	ADV	ADV -	ADV -	3	обст	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	прошло	ПРОХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	двух	ДВА	NUM	NUM loc - -	NUM loc - -	5	количест	_	_
+5	часов	ЧАС	S	S m inan gen pl	S m inan gen pl	8	предик	_	_
+6	после	ПОСЛЕ	PR	PR	PR	5	атриб	_	_
+7	ухода	УХОД	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+8	сан	САН	S	S m inan acc sg	S m inan acc sg	3	соч-союзн	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	стефанских	СТЕФАНСКИЙ	A	A - loc pl plen - -	A - loc pl plen - -	11	опред	_	_
+11	просителей	ПРОСИТЕЛЬ	S	S m anim acc pl	S m anim acc pl	2	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+14	к	К	S	S - - nonflex nonflex	S - - nonflex nonflex	15	опред	_	_
+15	Ак	АК	S	S m inan nonflex nonflex	S m inan nonflex nonflex	17	композ	_	_
+16	-	-	-	-	PUNC	15	PUNC	_	_
+17	паше	ПАША	S	S m anim loc sg	S m anim loc sg	19	1-компл	_	_
+18	уже	УЖЕ	ADV	ADV -	ADV -	19	огранич	_	_
+19	прибыла	ПРИБЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	13	соч-союзн	_	_
+20	депутация	ДЕПУТАЦИЯ	S	S f inan nom sg	S f inan nom sg	19	предик	_	_
+21	греческих	ГРЕЧЕСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	22	опред	_	_
+22	торговцев	ТОРГОВЕЦ	S	S m anim gen pl	S m anim gen pl	20	квазиагент	_	_
+23	из	ИЗ	PR	PR	PR	20	атриб	_	_
+24	самого	САМ	A	A - gen sg plen m -	A - gen sg plen m -	25	опред	_	_
+25	Константинополя	КОНСТАНТИНОПОЛЬ	S	S m inan gen sg	S m inan gen sg	23	предл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Эти	ЭТОТ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	контрибуции	КОНТРИБУЦИЯ	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	предлагали	ПРЕДЛАГАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	4	сочин	_	_
+7	принесли	ПРИНОСИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	соч-союзн	_	_
+8	«	«	_	_	PUNC	9	PUNC	_	_
+9	храбрым	ХРАБРЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	11	опред	_	_
+10	христианским	ХРИСТИАНСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	11	опред	_	_
+11	воинам	ВОИН	S	S m anim dat pl	S m anim dat pl	7	2-компл	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	сладостей	СЛАДОСТЬ	S	S f inan gen pl	S f inan gen pl	11	сочин	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	вина	ВИНО	S	S n inan gen sg	S n inan gen sg	14	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Говорили	ГОВОРИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+4	в	В	PR	PR	PR	6	обст	_	_
+5	городе	ГОРОД	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	много	МНОГО	ADV	ADV -	ADV -	3	подч-союзн	_	_
+7	православных	ПРАВОСЛАВНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	просили	ПРОСИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	соч-союзн	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	стрелять	СТРЕЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	1-компл	_	_
+13	из	ИЗ	PR	PR	PR	12	1-компл	_	_
+14	пушек	ПУШКА	S	S f inan gen pl	S f inan gen pl	13	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	а	А	CONJ	CONJ	CONJ	10	сент-соч	_	_
+17	если	ЕСЛИ	CONJ	CONJ	CONJ	25	обст	_	_
+18	уж	УЖ	PART	PART	PART	19	огранич	_	_
+19	очень	ОЧЕНЬ	ADV	ADV -	ADV -	20	огранич	_	_
+20	надо	НАДО	ADV	ADV -	ADV -	17	подч-союзн	_	_
+21	пострелять	ПОСТРЕЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	20	предик	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	то	ТО	CONJ	CONJ	CONJ	17	соотнос	_	_
+24	не	НЕ	PART	PART	PART	25	огранич	_	_
+25	по	ПО	PR	PR	PR	16	соч-союзн	_	_
+26	Пере	ПЕРО	S	S n inan loc sg	S n inan loc sg	25	предл	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	ибо	ИБО	CONJ	CONJ	CONJ	6	обст	_	_
+29	там	ТАМ	ADV	ADV -	ADV -	42	обст	_	_
+30	магазины	МАГАЗИН	S	S m inan nom pl	S m inan nom pl	42	предик	_	_
+31	и	И	CONJ	CONJ	CONJ	30	сочин	_	_
+32	склады	СКЛАД	S	S m inan nom pl	S m inan nom pl	31	соч-союзн	_	_
+33	с	С	PR	PR	PR	32	атриб	_	_
+34	товаром	ТОВАР	S	S m inan ins sg	S m inan ins sg	33	предл	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	а	А	CONJ	CONJ	CONJ	33	сочин	_	_
+37	по	ПО	PR	PR	PR	36	соч-союзн	_	_
+38	Галате	ГАЛАТА	S	S f inan loc sg	S f inan loc sg	37	предл	_	_
+39	,	,	,	,	PUNC	38	PUNC	_	_
+40	еще	ЕЩЕ	ADV	ADV -	ADV -	41	огранич	_	_
+41	лучше	ХОРОШО	ADV	ADV comp	ADV comp	42	обст	_	_
+42	–	–	–	–	PUNC	28	подч-союзн	_	_
+43	по	ПО	PR	PR	PR	42	обст	_	_
+44	армянскому	АРМЯНСКИЙ	A	A - dat sg plen m -	A - dat sg plen m -	47	опред	_	_
+45	и	И	CONJ	CONJ	CONJ	44	сочин	_	_
+46	еврейскому	ЕВРЕЙСКИЙ	A	A - dat sg plen m -	A - dat sg plen m -	45	соч-союзн	_	_
+47	кварталам	КВАРТАЛ	S	S f inan gen sg	S f inan gen sg	43	предл	_	_
+48	.	.	SENT	SENT	SENT	47	PUNC	_	_
+
+1	Попробовали	ПОПРОБОВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	10	предик	_	_
+2	всучить	ВСУЧИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+3	Соболеву	СОБОЛЕВ	S	S f anim acc sg	S f anim acc sg	2	1-компл	_	_
+4	золотую	ЗОЛОТОЙ	A	A - acc sg plen f -	A - acc sg plen f -	5	опред	_	_
+5	шашку	ШАШКА	S	S f inan acc sg	S f inan acc sg	1	разъяснит	_	_
+6	с	С	PR	PR	PR	5	атриб	_	_
+7	драгоценными	ДРАГОЦЕННЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	8	опред	_	_
+8	камнями	КАМЕНЬ	S	S m inan ins pl	S m inan ins pl	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+11	выставлены	ВЫСТАВЛЯТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	10	пасс-анал	_	_
+12	за	ЗА	PR	PR	PR	11	4-компл	_	_
+13	дверь	ДВЕРЬ	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	18	вводн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	ушли	УХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	14	соч-союзн	_	_
+19	успокоенные	УСПОКАИВАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	18	1-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

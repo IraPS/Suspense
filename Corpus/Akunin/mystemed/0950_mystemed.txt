@@ -1,0 +1,3 @@
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"analysis":[{"lex":"потерянно","gr":"ADV="}],"text":"потерянно"}
+{"analysis":[{"lex":"молчать","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"молчал"}

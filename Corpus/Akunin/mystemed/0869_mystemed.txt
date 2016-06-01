@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"варвара","gr":"S,persn,f,anim=nom,sg"}],"text":"Варвара"}
+{"analysis":[{"lex":"андреевна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Андреевна"}
+{"analysis":[{"lex":"закричать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"закричал"}
+{"analysis":[{"lex":"ахиллес","gr":"S,persn,m,anim=nom,sg"}],"text":"Ахиллес"}
+{"analysis":[{"lex":"вскакивать","gr":"V,intr=inpraes,ger,ipf"}],"text":"вскакивая"}
+{"text":"\\s"}
+{"analysis":[{"lex":"счастливый","gr":"A=sg,brev,m"}],"text":"Счастлив"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"счесть","gr":"V,pf,tran=praet,pl,indic"}],"text":"сочли"}
+{"analysis":[{"lex":"возможный","gr":"A=dat,pl,plen"},{"lex":"возможный","gr":"A=ins,sg,plen,m"},{"lex":"возможный","gr":"A=ins,sg,plen,n"}],"text":"возможным"}
+{"text":"\\s"}
+{"analysis":[{"lex":"ура","gr":"INTJ="}],"text":"Ура"}
+{"analysis":[{"lex":"господин","gr":"S,m,anim=nom,pl"}],"text":"господа"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"честь","gr":"S,f,inan=acc,sg"},{"lex":"честь","gr":"S,f,inan=nom,sg"}],"text":"честь"}
+{"analysis":[{"lex":"единственный","gr":"A=abl,sg,plen,f"},{"lex":"единственный","gr":"A=dat,sg,plen,f"},{"lex":"единственный","gr":"A=gen,sg,plen,f"},{"lex":"единственный","gr":"A=ins,sg,plen,f"}],"text":"единственной"}
+{"analysis":[{"lex":"дама","gr":"S,f,anim=gen,sg"},{"lex":"дама","gr":"S,f,anim=nom,pl"}],"text":"дамы"}

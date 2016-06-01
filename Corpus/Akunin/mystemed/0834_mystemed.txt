@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"кто","gr":"SPRO,sg,m,anim=nom"}],"text":"Кто"}
+{"analysis":[{"lex":"это","gr":"PART="}],"text":"это"}
+{"analysis":[{"lex":"дерби","gr":"S,n,inan=abl,pl"},{"lex":"дерби","gr":"S,n,inan=abl,sg"},{"lex":"дерби","gr":"S,n,inan=acc,pl"},{"lex":"дерби","gr":"S,n,inan=acc,sg"},{"lex":"дерби","gr":"S,n,inan=dat,pl"},{"lex":"дерби","gr":"S,n,inan=dat,sg"},{"lex":"дерби","gr":"S,n,inan=gen,pl"},{"lex":"дерби","gr":"S,n,inan=gen,sg"},{"lex":"дерби","gr":"S,n,inan=ins,pl"},{"lex":"дерби","gr":"S,n,inan=ins,sg"},{"lex":"дерби","gr":"S,n,inan=nom,pl"},{"lex":"дерби","gr":"S,n,inan=nom,sg"}],"text":"Дерби"}
+{"analysis":[{"lex":"шепотом","gr":"ADV="}],"text":"шепотом"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,f,pf"}],"text":"спросила"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"министр","gr":"S,m,anim=nom,sg"}],"text":"Министр"}
+{"analysis":[{"lex":"иностранный","gr":"A=abl,pl,plen"},{"lex":"иностранный","gr":"A=acc,pl,plen,anim"},{"lex":"иностранный","gr":"A=gen,pl,plen"}],"text":"иностранных"}
+{"analysis":[{"lex":"дело","gr":"S,n,inan=gen,pl"}],"text":"дел"}
+{"analysis":[{"lex":"почти","gr":"ADV="}],"text":"почти"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"шевелить","gr":"V,ipf,tran=inpraes,ger"}],"text":"шевеля"}
+{"analysis":[{"lex":"губа","gr":"S,f,inan=ins,pl"}],"text":"губами"}
+{"analysis":[{"lex":"прошелестеть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"прошелестел"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Фандорин"}

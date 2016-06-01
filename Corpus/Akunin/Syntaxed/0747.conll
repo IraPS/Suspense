@@ -1,0 +1,33 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	подошел	ПОДХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	2-компл	_	_
+4	карте	КАРТА	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	забормотал	ЗАБОРМОТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+7	под	ПОД	PR	PR	PR	6	2-компл	_	_
+8	нос	НОС	S	S m inan acc sg	S m inan acc sg	7	предл	_	_
+9	:	:	:	:	PUNC	11	опред	_	_
+10	–	–	–	–	PUNC	11	опред	_	_
+11	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	6	1-компл	_	_
+12	-	-	-	-	PUNC	11	PUNC	_	_
+13	далеко	ДАЛЕКО	ADV	ADV -	ADV -	14	огранич	_	_
+14	к	К	PR	PR	PR	6	2-компл	_	_
+15	Ганецкому	ГАНЕЦКИЙ	S	S m anim ins sg	S m anim ins sg	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Самый	САМЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	фланг	ФЛАНГ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Почему	ПОЧЕМУ	ADV	ADV -	ADV -	3	обст	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	в	В	PR	PR	PR	0	ROOT	_	_
+4	ставку	СТАВКА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Стоп	СТОП	INTJ	INTJ	INTJ	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Стоп	СТОП	INTJ	INTJ	INTJ	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+

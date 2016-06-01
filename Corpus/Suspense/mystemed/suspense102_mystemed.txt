@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"москва","gr":"S,geo,f,inan=abl,sg"},{"lex":"москва","gr":"S,geo,f,inan=dat,sg"}],"text":"Москве"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"москва","gr":"S,geo,f,inan=abl,sg"},{"lex":"москва","gr":"S,geo,f,inan=dat,sg"}],"text":"Москве"}
+{"text":"\\s"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"И"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"стал"}
+{"analysis":[{"lex":"писать","gr":"V,ipf,tran=inf"}],"text":"писать"}
+{"analysis":[{"lex":"адрес","gr":"S,m,inan=acc,sg"},{"lex":"адрес","gr":"S,m,inan=nom,sg"}],"text":"адрес"}
+{"analysis":[{"lex":"там","gr":"PART="}],"text":"там"}
+{"analysis":[{"lex":"устраивать","gr":"V,tran=inpraes,pl,indic,3p,pf"}],"text":"устроят"}
+{"analysis":[{"lex":"протез","gr":"S,m,inan=acc,sg"},{"lex":"протез","gr":"S,m,inan=nom,sg"}],"text":"протез"}
+{"analysis":[{"lex":"искусственный","gr":"A=acc,sg,plen,f"}],"text":"искусственную"}
+{"analysis":[{"lex":"нога","gr":"S,f,inan=acc,sg"}],"text":"ногу"}

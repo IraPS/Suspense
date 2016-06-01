@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"сердиться","gr":"V,ipf,intr=inf"}],"text":"Сердиться"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=acc"},{"lex":"он","gr":"SPRO,sg,3p,m=gen"}],"text":"него"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"было"}
+{"analysis":[{"lex":"положительно","gr":"ADV="}],"text":"положительно"}
+{"analysis":[{"lex":"невозможно","gr":"ADV="}],"text":"невозможно"}

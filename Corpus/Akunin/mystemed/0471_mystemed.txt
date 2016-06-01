@@ -1,0 +1,16 @@
+{"analysis":[{"lex":"знакомый","gr":"S,m,anim=nom,sg"}],"text":"Знакомый"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,m,pf"}],"text":"спросил"}
+{"analysis":[{"lex":"сопровождать","gr":"V=praet,acc,sg,partcp,plen,m,ipf,act,inan,tran"},{"lex":"сопровождать","gr":"V=praet,nom,sg,partcp,plen,m,ipf,act,tran"}],"text":"сопровождавший"}
+{"analysis":[{"lex":"полковник","gr":"S,m,anim=acc,sg"},{"lex":"полковник","gr":"S,m,anim=gen,sg"}],"text":"полковника"}
+{"analysis":[{"lex":"фельдшер","gr":"S,m,anim=nom,sg"}],"text":"фельдшер"}
+{"text":"\\s"}
+{"analysis":[{"lex":"нога","gr":"S,f,inan=acc,pl"},{"lex":"нога","gr":"S,f,inan=gen,sg"},{"lex":"нога","gr":"S,f,inan=nom,pl"}],"text":"Ноги"}
+{"analysis":[{"lex":"снаряд","gr":"S,m,inan=ins,sg"}],"text":"снарядом"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"самый","gr":"APRO=acc,sg,n"},{"lex":"самый","gr":"APRO=nom,sg,n"}],"text":"самое"}
+{"analysis":[{"lex":"никуда","gr":"ADVPRO="}],"text":"никуда"}
+{"analysis":[{"lex":"отрывать","gr":"V,tran=praet,sg,indic,n,pf"}],"text":"оторвало"}
+{"text":"\\s"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"Не"}
+{"analysis":[{"lex":"везти","gr":"V=praet,indic,pf,intr"},{"lex":"везти","gr":"V=praet,sg,indic,n,pf,intr"}],"text":"повезло"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}

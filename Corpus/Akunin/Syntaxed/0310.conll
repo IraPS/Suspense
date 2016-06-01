@@ -1,0 +1,31 @@
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Стреляться	СТРЕЛЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	7	обст	_	_
+5	–	–	–	–	PUNC	7	1-компл	_	_
+6	буднично	БУДНИЧНО	ADV	ADV -	ADV -	7	обст	_	_
+7	произнес	ПРОИЗНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+9	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	и	И	CONJ	CONJ	CONJ	7	сент-соч	_	_
+11	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	13	обст	_	_
+12	уже	УЖЕ	ADV	ADV -	ADV -	13	огранич	_	_
+13	глядел	ГЛЯДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	соч-союзн	_	_
+14	подполковнику	ПОДПОЛКОВНИК	S	S m anim dat sg	S m anim dat sg	13	2-компл	_	_
+15	прямо	ПРЯМО	PART	PART	PART	16	огранич	_	_
+16	в	В	PR	PR	PR	13	обст	_	_
+17	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Сразу	СРАЗУ	ADV	ADV -	ADV -	5	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	прямо	ПРЯМО	PART	PART	PART	5	огранич	_	_
+5	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	1	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	пока	ПОКА	CONJ	CONJ	CONJ	0	ROOT	_	_
+8	командование	КОМАНДОВАНИЕ	S	S n inan nom sg	S n inan nom sg	10	предик	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	вмешалось	ВМЕШИВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	7	подч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

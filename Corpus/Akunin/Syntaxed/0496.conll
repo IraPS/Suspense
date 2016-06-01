@@ -1,0 +1,62 @@
+1	На	НА	PR	PR	PR	7	обст	_	_
+2	второй	ВТОРОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	пути	ПУТЬ	S	S m inan gen sg	S m inan gen sg	3	квазиагент	_	_
+5	–	–	–	–	PUNC	7	2-компл	_	_
+6	уже	УЖЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	проехали	ПРОЕХАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+8	Александрию	АЛЕКСАНДРИЯ	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+9	–	–	–	–	PUNC	10	предик	_	_
+10	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	7	сент-соч	_	_
+11	полегче	ЛЕГКО	ADV	ADV comp	ADV comp	10	обст	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	потому что	потому что	CONJ	CONJ	ZERO	10	сент-соч	_	_
+14	кавалькаду	КАВАЛЬКАДА	S	S f inan acc sg	S f inan acc sg	15	1-компл	_	_
+15	догнал	ДОГНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+16	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	отличился	ОТЛИЧАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	обст	_	_
+4	сражении	СРАЖЕНИЕ	S	S n inan loc sg	S n inan loc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	за	ЗА	PR	PR	PR	8	обст	_	_
+7	лихость	ЛИХОСТЬ	S	S f inan nom sg	S f inan nom sg	6	предл	_	_
+8	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	1-компл	_	_
+9	взят	ВЗЯТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	8	пасс-анал	_	_
+10	к	К	PR	PR	PR	9	2-компл	_	_
+11	Соболеву	СОБОЛЕВ	S	S m anim dat sg	S m anim dat sg	10	предл	_	_
+12	в	В	PR	PR	PR	9	обст	_	_
+13	адъютанты	АДЪЮТАНТ	S	S m anim nom pl	S m anim nom pl	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+16	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	20	предик	_	_
+17	вроде	ВРОДЕ	PART	PART	PART	20	огранич	_	_
+18	бы	БЫ	PART	PART	PART	20	аналит	_	_
+19	даже	ДАЖЕ	PART	PART	PART	20	огранич	_	_
+20	хотел	ХОТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	соч-союзн	_	_
+21	представить	ПРЕДСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	20	1-компл	_	_
+22	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	21	1-компл	_	_
+23	к	К	PR	PR	PR	21	2-компл	_	_
+24	«	«	_	_	PUNC	25	PUNC	_	_
+25	анне	АННА	S	S f anim loc sg	S f anim loc sg	23	предл	_	_
+26	»	»	_	_	PUNC	25	PUNC	_	_
+27	,	,	,	,	PUNC	25	PUNC	_	_
+28	но	НО	CONJ	CONJ	CONJ	20	сент-соч	_	_
+29	взамен	ВЗАМЕН	ADV	ADV -	ADV -	31	обст	_	_
+30	гусар	ГУСАР	S	S m anim nom sg	S m anim nom sg	31	предик	_	_
+31	выторговал	ВЫТОРГОВЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	28	соч-союзн	_	_
+32	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	31	2-компл	_	_
+33	недельный	НЕДЕЛЬНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	34	опред	_	_
+34	отпуск	ОТПУСК	S	S m inan acc sg	S m inan acc sg	31	1-компл	_	_
+35	–	–	–	–	PUNC	31	2-компл	_	_
+36	по	ПО	PR	PR	PR	40	2-компл	_	_
+37	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	38	квазиагент	_	_
+38	выражению	ВЫРАЖЕНИЕ	S	S n inan dat sg	S n inan dat sg	36	предл	_	_
+39	,	,	,	,	PUNC	38	PUNC	_	_
+40	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	31	обст	_	_
+41	размять	РАЗМИНАТЬ	V	V pf - - inf - -	V pf - - inf - -	40	инф-союзн	_	_
+42	косточки	КОСТОЧКА	S	S f inan acc pl	S f inan acc pl	41	1-компл	_	_
+43	.	.	SENT	SENT	SENT	42	PUNC	_	_
+

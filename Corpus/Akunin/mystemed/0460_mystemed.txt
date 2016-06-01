@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"все-таки","gr":"PART="}],"text":"Все-таки"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"лукан","gr":"S,persn,m,anim=ins,sg"}],"text":"Луканом"}
+{"analysis":[{"lex":"следовать","gr":"V,ipf=praet,sg,indic,n"}],"text":"следовало"}
+{"analysis":[{"lex":"признавать","gr":"V,tran=inf,pf"}],"text":"признать"}
+{"analysis":[{"lex":"определенный","gr":"A=acc,pl,plen,inan"},{"lex":"определенный","gr":"A=nom,pl,plen"}],"text":"определенные"}
+{"analysis":[{"lex":"достоинство","gr":"S,n,inan=acc,pl"},{"lex":"достоинство","gr":"S,n,inan=gen,sg"},{"lex":"достоинство","gr":"S,n,inan=nom,pl"}],"text":"достоинства"}

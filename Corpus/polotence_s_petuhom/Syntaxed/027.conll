@@ -1,0 +1,59 @@
+1	Затем	ЗАТЕМ	ADV	ADV -	ADV -	3	обст	_	_
+2	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	3	предик	_	_
+3	спустились	СПУСКАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	аптеку	АПТЕКА	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+8	сразу	СРАЗУ	ADV	ADV -	ADV -	10	обст	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	10	предик	_	_
+10	увидел	УВИДЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	10	1-компл	_	_
+13	в	В	PR	PR	PR	16	обст	_	_
+14	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	13	предл	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	12	подч-союзн	_	_
+17	только	ТОЛЬКО	PART	PART	PART	18	огранич	_	_
+18	птичьего	ПТИЧИЙ	A	A - gen sg plen n -	A - gen sg plen n -	19	опред	_	_
+19	молока	МОЛОКО	S	S n inan gen sg	S n inan gen sg	16	предик	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	темноватых	ТЕМНОВАТЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	3	опред	_	_
+3	двух	ДВА	NUM	NUM loc - -	NUM loc - -	4	количест	_	_
+4	комнатах	КОМНАТА	S	S f inan loc pl	S f inan loc pl	1	предл	_	_
+5	крепко	КРЕПКО	ADV	ADV -	ADV -	6	обст	_	_
+6	пахло	ПАХНУТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+7	травами	ТРАВА	S	S f inan ins pl	S f inan ins pl	6	2-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+10	на	НА	PR	PR	PR	12	1-компл	_	_
+11	полках	ПОЛК	S	S f inan loc pl	S f inan loc pl	10	предл	_	_
+12	стояло	СТОЯТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	9	соч-союзн	_	_
+13	все	ВСЕ	S	S - - acc pl	S - - acc pl	0	ROOT	_	_
+14	что	ЧТО	CONJ	CONJ	CONJ	13	вспом	_	_
+15	угодно	УГОДНО	PART	PART	PART	14	вспом	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	даже	ДАЖЕ	PART	PART	PART	3	огранич	_	_
+3	патентованные	ПАТЕНТОВАННЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+4	заграничные	ЗАГРАНИЧНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	средства	СРЕДСТВО	S	S n inan nom pl	S n inan nom pl	1	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	1	сент-соч	_	_
+8	нужно	НУЖНЫЙ	A	A - - sg brev n -	A - - sg brev n -	7	соч-союзн	_	_
+9	ли	ЛИ	PART	PART	PART	8	огранич	_	_
+10	добавлять	ДОБАВЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	10	1-компл	_	_
+13	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	16	предик	_	_
+14	никогда	НИКОГДА	ADV	ADV -	ADV -	16	обст	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	слыхал	СЛЫХАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	подч-союзн	_	_
+17	о	О	PR	PR	PR	16	1-компл	_	_
+18	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	17	предл	_	_
+19	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	16	2-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

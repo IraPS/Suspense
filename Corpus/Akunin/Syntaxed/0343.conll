@@ -1,0 +1,27 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Не	НЕ	PART	PART	PART	1	огранич	_	_
+3	«	«	_	_	PUNC	2	PUNC	_	_
+4	к	К	PR	PR	PR	1	1-компл	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	кучум	КУЧУМ	S	S m anim nom sg	S m anim nom sg	4	предл	_	_
+7	»	»	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	1	сент-соч	_	_
+10	«	«	_	_	PUNC	11	PUNC	_	_
+11	кучук	КУЧУК	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	,	,	,	,	PUNC	11	PUNC	_	_
+14	 	 	 	 	PUNC	16	2-компл	_	_
+15	–	–	–	–	PUNC	16	1-компл	_	_
+16	поправил	ПОПРАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	релят	_	_
+17	Фандорин	ФАНДОРИНА	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+18	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+19	вдруг	ВДРУГ	ADV	ADV -	ADV -	20	обст	_	_
+20	покраснел	ПОКРАСНЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	18	соч-союзн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	что	ЧТО	CONJ	CONJ	CONJ	20	1-компл	_	_
+23	показалось	ПОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	22	подч-союзн	_	_
+24	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	23	2-компл	_	_
+25	странным	СТРАННЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	23	1-компл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

@@ -1,0 +1,8 @@
+1	Сердиться	СЕРДИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	4	предик	_	_
+2	на	НА	PR	PR	PR	1	2-компл	_	_
+3	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	2	предл	_	_
+4	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	положительно	ПОЛОЖИТЕЛЬНО	ADV	ADV -	ADV -	6	огранич	_	_
+6	невозможно	НЕВОЗМОЖНО	ADV	ADV -	ADV -	4	присвяз	_	_
+7	…	…	SENT	SENT	SENT	6	PUNC	_	_
+

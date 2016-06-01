@@ -1,0 +1,155 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Ах	АХ	INTJ	INTJ	INTJ	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+5	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+8	моя	МОЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+9	жизнь	ЖИЗНЬ	S	S f inan nom sg	S f inan nom sg	11	предик	_	_
+10	–	–	–	–	PUNC	9	квазиагент	_	_
+11	скачки	СКАЧКИ	S	S - inan nom pl	S - inan nom pl	4	релят	_	_
+12	с	С	PR	PR	PR	11	1-компл	_	_
+13	барьерами	БАРЬЕР	S	S m inan ins pl	S m inan ins pl	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	 	 	 	 	PUNC	4	опред	_	_
+16	–	–	–	–	PUNC	17	1-компл	_	_
+17	говорил	ГОВОРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сент-соч	_	_
+18	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	17	2-компл	_	_
+19	молодой	МОЛОДОЙ	A	A - nom sg plen m -	A - nom sg plen m -	20	опред	_	_
+20	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	горько	ГОРЬКО	ADV	ADV -	ADV -	23	обст	_	_
+23	качая	КАЧАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	17	обст	_	_
+24	коротко	КОРОЧЕ	ADV	ADV -	ADV -	23	обст	_	_
+25	стриженной	СТРИЧЬ	PARTCP	PARTCP ipf praet loc sg plen f pass -	PARTCP ipf praet loc sg plen f pass -	23	1-компл	_	_
+26	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	23	2-компл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	2-компл	_	_
+2	Только	ТОЛЬКО	PART	PART	PART	3	огранич	_	_
+3	судья	СУДЬЯ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+4	без	БЕЗ	PR	PR	PR	3	атриб	_	_
+5	конца	КОНЕЦ	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	снимает	СНИМАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	6	1-компл	_	_
+8	с	С	PR	PR	PR	6	обст	_	_
+9	дистанции	ДИСТАНЦИЯ	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+11	возвращает	ВОЗВРАЩАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	соч-союзн	_	_
+12	к	К	PR	PR	PR	11	2-компл	_	_
+13	старту	СТАРТ	S	S m inan dat sg	S m inan dat sg	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Судите	СУДИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+2	сами	САМ	A	A - nom pl plen - -	A - nom pl plen - -	1	суб-копр	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Начинал	НАЧИНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	кавалергардом	КАВАЛЕРГАРД	S	S m anim ins sg	S m anim ins sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	отличился	ОТЛИЧАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	сочин	_	_
+5	в	В	PR	PR	PR	4	обст	_	_
+6	войне	ВОЙНА	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	с	С	PR	PR	PR	6	1-компл	_	_
+8	поляками	ПОЛЯК	S	S m anim ins pl	S m anim ins pl	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	но	НО	CONJ	CONJ	CONJ	4	сочин	_	_
+11	попал	ПОПАДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	соч-союзн	_	_
+12	в	В	PR	PR	PR	11	2-компл	_	_
+13	глупую	ГЛУПЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	14	опред	_	_
+14	историю	ИСТОРИЯ	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+15	с	С	PR	PR	PR	14	атриб	_	_
+16	паненкой	ПАНЕНКА	S	S f anim ins sg	S f anim ins sg	15	предл	_	_
+17	–	–	–	–	PUNC	11	обст	_	_
+18	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+19	назад	НАЗАД	ADV	ADV -	ADV -	0	ROOT	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	на	НА	PR	PR	PR	19	сочин	_	_
+22	старт	СТАРТ	S	S m inan acc sg	S m inan acc sg	21	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Окончил	ОКАНЧИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	академию	АКАДЕМИЯ	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+3	генштаба	ГЕНШТАБ	S	S m inan gen sg	S m inan gen sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	получил	ПОЛУЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	сочин	_	_
+6	назначение	НАЗНАЧЕНИЕ	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+7	в	В	PR	PR	PR	6	2-компл	_	_
+8	Туркестан	ТУРКЕСТАН	S	S m inan acc sg	S m inan acc sg	7	предл	_	_
+9	–	–	–	–	PUNC	6	опред	_	_
+10	а	А	CONJ	CONJ	CONJ	5	сочин	_	_
+11	там	ТАМ	ADV	ADV -	ADV -	0	ROOT	_	_
+12	идиотская	ИДИОТСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	13	опред	_	_
+13	дуэль	ДУЭЛЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+14	со	СО	PR	PR	PR	13	атриб	_	_
+15	смертельным	СМЕРТЕЛЬНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	16	опред	_	_
+16	исходом	ИСХОД	S	S m inan ins sg	S m inan ins sg	14	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+19	снова	СНОВА	ADV	ADV -	ADV -	20	обст	_	_
+20	изволь	ИЗВОЛИТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	18	соч-союзн	_	_
+21	на	НА	PR	PR	PR	20	2-компл	_	_
+22	старт	СТАРТ	S	S m inan acc sg	S m inan acc sg	21	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Женился	ЖЕНИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	на	НА	PR	PR	PR	1	1-компл	_	_
+3	княжне	КНЯЖНА	S	S f anim dat sg	S f anim dat sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	думал	ДУМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	буду	БЫТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	5	сочин	_	_
+8	счастлив	СЧАСТЛИВЫЙ	A	A - - sg brev m -	A - - sg brev m -	7	присвяз	_	_
+9	–	–	–	–	PUNC	8	1-компл	_	_
+10	какое	КАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	11	предик	_	_
+11	там	ТАМ	ADV	ADV -	ADV -	1	сент-соч	_	_
+12	…	…	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Опять	ОПЯТЬ	ADV	ADV -	ADV -	2	огранич	_	_
+2	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	у	У	PR	PR	PR	2	разъяснит	_	_
+5	разбитого	РАЗБИТЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	4	предл	_	_
+6	корыта	КОРЫТО	S	S n inan gen sg	S n inan gen sg	5	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Снова	СНОВА	ADV	ADV -	ADV -	2	обст	_	_
+2	отпросился	ОТПРАШИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	пустыню	ПУСТЫНЯ	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	жалел	ЖАЛЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сочин	_	_
+8	ни	НИ	CONJ	CONJ	CONJ	11	соотнос	_	_
+9	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	7	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	ни	НИ	CONJ	CONJ	CONJ	9	сочин	_	_
+12	людей	ЧЕЛОВЕК	S	S m anim gen pl	S m anim gen pl	11	соч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	чудом	ЧУДО	S	S n inan ins sg	S n inan ins sg	15	обст	_	_
+15	остался	ОСТАВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	сочин	_	_
+16	жив	ЖИВОЙ	A	A - - sg brev m -	A - - sg brev m -	15	присвяз	_	_
+17	–	–	–	–	PUNC	16	1-компл	_	_
+18	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+19	вот	ВОТ	PART	PART	PART	20	огранич	_	_
+20	снова	СНОВА	ADV	ADV -	ADV -	22	обст	_	_
+21	ни	НИ	PART	PART	PART	22	огранич	_	_
+22	с	С	PR	PR	PR	18	соч-союзн	_	_
+23	чем	ЧТО	S	S n - ins sg	S n - ins sg	22	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Прозябаю	ПРОЗЯБАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	в	В	PR	PR	PR	1	2-компл	_	_
+3	нахлебниках	НАХЛЕБНИК	S	S f inan ins sg	S f inan ins sg	2	предл	_	_
+4	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+5	жду	ЖДАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	4	соч-союзн	_	_
+6	нового	НОВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	старта	СТАРТ	S	S m inan gen sg	S m inan gen sg	5	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Только	ТОЛЬКО	PART	PART	PART	2	огранич	_	_
+2	дождусь	ДОЖДАТЬСЯ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+3	ли	ЛИ	PART	PART	PART	2	огранич	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+

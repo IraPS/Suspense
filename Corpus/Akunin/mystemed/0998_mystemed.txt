@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"проклятие","gr":"S,n,inan=abl,sg"},{"lex":"проклятие","gr":"S,n,inan=acc,sg"},{"lex":"проклятие","gr":"S,n,inan=nom,sg"}],"text":"Проклятье"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"как","gr":"ADVPRO="}],"text":"как"}
+{"analysis":[{"lex":"назло","gr":"ADV="}],"text":"назло"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"этот","gr":"APRO=abl,sg,m"},{"lex":"этот","gr":"APRO=abl,sg,n"}],"text":"этом"}
+{"analysis":[{"lex":"чертовый","gr":"A,plen=abl,sg,m"},{"lex":"чертовый","gr":"A,plen=abl,sg,n"}],"text":"чертовом"}
+{"analysis":[{"lex":"хранилище","gr":"S,n,inan=abl,sg"},{"lex":"хранилище","gr":"S,n,inan=acc,sg"},{"lex":"хранилище","gr":"S,n,inan=nom,sg"}],"text":"хранилище"}
+{"analysis":[{"lex":"ни","gr":"CONJ="}],"text":"ни"}
+{"analysis":[{"lex":"один","gr":"APRO=acc,sg,m,anim"},{"lex":"один","gr":"APRO=gen,sg,m"},{"lex":"один","gr":"APRO=gen,sg,n"}],"text":"одного"}
+{"analysis":[{"lex":"окно","gr":"S,n,inan=acc,pl"},{"lex":"окно","gr":"S,n,inan=gen,sg"},{"lex":"окно","gr":"S,n,inan=nom,pl"}],"text":"окна"}

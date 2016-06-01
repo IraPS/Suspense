@@ -1,0 +1,110 @@
+1	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	тщательно	ТЩАТЕЛЬНО	ADV	ADV -	ADV -	3	обст	_	_
+3	обрабатывал	ОБРАБАТЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+5	свои	СВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	7	опред	_	_
+6	домашние	ДОМАШНИЕ	S	S - anim nom pl	S - anim nom pl	7	предик	_	_
+7	сочинения	СОЧИНЕНИЕ	S	S n inan nom pl	S n inan nom pl	4	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Одно	ОДИН	A	A - nom sg plen n -	A - nom sg plen n -	7	предик	_	_
+2	из	ИЗ	PR	PR	PR	1	электив	_	_
+3	таких	ТАКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	4	опред	_	_
+4	сочинений	СОЧИНЕНИЕ	S	S n inan gen pl	S n inan gen pl	2	предл	_	_
+5	—	—	—	—	PUNC	7	опред	_	_
+6	«	«	_	_	PUNC	5	PUNC	_	_
+7	Слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+8	о	О	PR	PR	PR	7	1-компл	_	_
+9	полку	ПОЛК	S	S m inan loc2 sg	S m inan loc2 sg	8	предл	_	_
+10	Игореве	ИГОРЕВ	S	S m anim loc sg	S m anim loc sg	9	аппоз	_	_
+11	»	»	_	_	PUNC	10	PUNC	_	_
+12	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	13	предик	_	_
+13	подал	ПОДАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	сент-соч	_	_
+14	учительнице	УЧИТЕЛЬНИЦА	S	S f anim dat sg	S f anim dat sg	13	2-компл	_	_
+15	переписанным	ПЕРЕПИСЫВАТЬ	PARTCP	PARTCP pf praet dat pl plen - pass -	PARTCP pf praet dat pl plen - pass -	17	опред	_	_
+16	печатными	ПЕЧАТНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	17	опред	_	_
+17	буквами	БУКВА	S	S f inan ins pl	S f inan ins pl	13	1-компл	_	_
+18	в	В	PR	PR	PR	17	1-компл	_	_
+19	тетради	ТЕТРАДЬ	S	S f inan loc sg	S f inan loc sg	18	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	оформленной	ОФОРМЛЯТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	19	опред	_	_
+22	наподобие	НАПОДОБИЕ	PR	PR	PR	21	обст	_	_
+23	книжки	КНИЖКА	S	S f inan acc pl	S f inan acc pl	22	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	4	2-компл	_	_
+2	сочинение	СОЧИНЕНИЕ	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	снабжено	СНАБЖАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	3	пасс-анал	_	_
+5	иллюстрациями	ИЛЛЮСТРАЦИЯ	S	S f inan ins pl	S f inan ins pl	4	агент	_	_
+6	в	В	PR	PR	PR	5	атриб	_	_
+7	красках	КРАСКА	S	S f inan loc pl	S f inan loc pl	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	предик	_	_
+10	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	сент-соч	_	_
+11	выполнены	ВЫПОЛНЯТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	10	пасс-анал	_	_
+12	по	ПО	PR	PR	PR	11	обст	_	_
+13	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	14	квазиагент	_	_
+14	просьбе	ПРОСЬБА	S	S f inan dat sg	S f inan dat sg	12	предл	_	_
+15	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	16	квазиагент	_	_
+16	сестрой	СЕСТРА	S	S f anim ins sg	S f anim ins sg	11	агент	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	эта	ЭТОТ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	черта	ЧЕРТА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+4	старательности	СТАРАТЕЛЬНОСТЬ	S	S f inan loc sg	S f inan loc sg	1	соч-союзн	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	добросовестности	ДОБРОСОВЕСТНОСТЬ	S	S f inan gen sg	S f inan gen sg	5	соч-союзн	_	_
+7	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	вводн	_	_
+8	характерной	ХАРАКТЕРНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	7	присвяз	_	_
+9	для	ДЛЯ	PR	PR	PR	8	атриб	_	_
+10	всех	ВЕСЬ	A	A - loc pl plen - -	A - loc pl plen - -	12	опред	_	_
+11	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	12	квазиагент	_	_
+12	работ	РАБОТА	S	S f inan gen pl	S f inan gen pl	9	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	16	предик	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	мог	МОЧЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+17	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	16	1-компл	_	_
+18	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	19	опред	_	_
+19	кое-как	КОЕ-КАК	ADV	ADV -	ADV -	17	обст	_	_
+20	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+21	наспех	НАСПЕХ	ADV	ADV -	ADV -	20	соч-союзн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	26	предик	_	_
+24	«	«	_	_	PUNC	25	PUNC	_	_
+25	все	ВСЕ	S	S - - acc pl	S - - acc pl	26	1-компл	_	_
+26	делал	ДЕЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	сент-соч	_	_
+27	хорошо	ХОРОШО	ADV	ADV -	ADV -	26	обст	_	_
+28	»	»	_	_	PUNC	26	PUNC	_	_
+29	(	(	_	_	PUNC	30	PUNC	_	_
+30	Мк	МК	S	S m anim nonflex nonflex	S m anim nonflex nonflex	26	разъяснит	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	7	7	NUM	NUM - - -	NUM - - -	22	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	37	37	NUM	NUM - - -	NUM - - -	1	кратн	_	_
+4	)	)	_	_	PUNC	3	PUNC	_	_
+5	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+6	в	В	PR	PR	PR	5	сравн-союзн	_	_
+7	«	«	_	_	PUNC	8	PUNC	_	_
+8	большом	БОЛЬШОЙ	A	A - loc sg plen m -	A - loc sg plen m -	6	предл	_	_
+9	»	»	_	_	PUNC	8	PUNC	_	_
+10	,	,	,	,	PUNC	8	PUNC	_	_
+11	так и	так и	CONJ	CONJ	ZERO	1	сочин	_	_
+12	в	В	PR	PR	PR	11	соч-союзн	_	_
+13	«	«	_	_	PUNC	14	PUNC	_	_
+14	малом	МАЛОЕ	S	S n inan loc sg	S n inan loc sg	12	предл	_	_
+15	»	»	_	_	PUNC	14	PUNC	_	_
+16	,	,	,	,	PUNC	14	PUNC	_	_
+17	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+18	в	В	PR	PR	PR	17	соч-союзн	_	_
+19	этом	ЭТО	S	S n - loc sg	S n - loc sg	20	опред	_	_
+20	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	18	предл	_	_
+21	так же	так же	ADV	ADV -	-	22	огранич	_	_
+22	послушен	ПОСЛУШНЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+23	заветам	ЗАВЕТ	S	S m inan dat pl	S m inan dat pl	22	1-компл	_	_
+24	Христа	ХРИСТОС	S	S m anim gen sg	S m anim gen sg	23	квазиагент	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+

@@ -1,0 +1,33 @@
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	думала	ДУМАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	6	предик	_	_
+6	поцелует	ПОЦЕЛОВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	4	подч-союзн	_	_
+7	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	6	1-компл	_	_
+8	в	В	PR	PR	PR	6	2-компл	_	_
+9	щеку	ЩЕКА	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	как	КАК	CONJ	CONJ	CONJ	6	сравнит	_	_
+12	это	ЭТО	S	S n - nom sg	S n - nom sg	14	1-компл	_	_
+13	всегда	ВСЕГДА	ADV	ADV -	ADV -	14	обст	_	_
+14	делал	ДЕЛАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	сравн-союзн	_	_
+15	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+18	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	19	предик	_	_
+19	целил	ЦЕЛИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	17	соч-союзн	_	_
+20	в	В	PR	PR	PR	19	2-компл	_	_
+21	губы	ГУБА	S	S f inan acc pl	S f inan acc pl	20	предл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	и	И	CONJ	CONJ	CONJ	19	сент-соч	_	_
+24	поцелуй	ПОЦЕЛУЙ	S	S m inan nom sg	S m inan nom sg	25	предик	_	_
+25	получился	ПОЛУЧАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	23	соч-союзн	_	_
+26	долгим	ДОЛГИЙ	A	A - ins sg plen m -	A - ins sg plen m -	25	2-компл	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	необычным	НЕОБЫЧНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	26	сочин	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	с	С	PR	PR	PR	0	ROOT	_	_
+31	головокружением	ГОЛОВОКРУЖЕНИЕ	S	S n inan ins sg	S n inan ins sg	30	предл	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

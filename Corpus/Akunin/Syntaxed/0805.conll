@@ -1,0 +1,52 @@
+1	Государь	ГОСУДАРЬ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	раздраженно	РАЗДРАЖЕННО	ADV	ADV -	ADV -	4	обст	_	_
+4	ударил	УДАРЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	ладонью	ЛАДОНЬ	S	S f inan ins sg	S f inan ins sg	4	1-компл	_	_
+6	по	ПО	PR	PR	PR	4	обст	_	_
+7	столу	СТОЛ	S	S m inan dat sg	S m inan dat sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	когда	КОГДА	CONJ	CONJ	CONJ	4	обст	_	_
+10	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+11	объясняла	ОБЪЯСНЯТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	9	подч-союзн	_	_
+12	про	ПРО	PR	PR	PR	11	3-компл	_	_
+13	информаторов	ИНФОРМАТОР	S	S m anim acc pl	S m anim acc pl	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	которыми	КОТОРЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	16	1-компл	_	_
+16	обзавелись	ОБЗАВОДИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	сент-соч	_	_
+17	в	В	PR	PR	PR	16	обст	_	_
+18	Плевне	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+19	многие	МНОГИЕ	S	S - - nom pl	S - - nom pl	16	предик	_	_
+20	из	ИЗ	PR	PR	PR	19	электив	_	_
+21	журналистов	ЖУРНАЛИСТ	S	S m anim gen pl	S m anim gen pl	20	предл	_	_
+22	:	:	:	:	PUNC	28	предик	_	_
+23	–	–	–	–	PUNC	28	1-компл	_	_
+24	Ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	28	предик	_	_
+25	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	28	1-компл	_	_
+26	еще	ЕЩЕ	ADV	ADV -	ADV -	28	огранич	_	_
+27	не	НЕ	PART	PART	PART	28	огранич	_	_
+28	объяснил	ОБЪЯСНЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	16	сент-соч	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	Мизинов	МИЗИН	S	S m inan gen pl	S m inan gen pl	28	1-компл	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	как	КАК	CONJ	CONJ	CONJ	28	сравнит	_	_
+33	вышло	ВЫХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	32	сравн-союзн	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	что	ЧТО	CONJ	CONJ	CONJ	33	предик	_	_
+36	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	43	предик	_	_
+37	всю	ВЕСЬ	A	A - acc sg plen f -	A - acc sg plen f -	38	опред	_	_
+38	армию	АРМИЯ	S	S f inan acc sg	S f inan acc sg	43	1-компл	_	_
+39	для	ДЛЯ	PR	PR	PR	43	обст	_	_
+40	прорыва	ПРОРЫВ	S	S m inan gen sg	S m inan gen sg	39	предл	_	_
+41	в	В	PR	PR	PR	40	1-компл	_	_
+42	кулак	КУЛАК	S	S m inan acc sg	S m inan acc sg	41	предл	_	_
+43	стянул	СТЯГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	35	подч-союзн	_	_
+44	,	,	,	,	PUNC	43	PUNC	_	_
+45	а	А	CONJ	CONJ	CONJ	43	сент-соч	_	_
+46	твои	ТВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	47	опред	_	_
+47	лазутчики	ЛАЗУТЧИК	S	S m anim nom pl	S m anim nom pl	50	предик	_	_
+48	вовремя	ВОВРЕМЯ	ADV	ADV -	ADV -	50	обст	_	_
+49	не	НЕ	PART	PART	PART	50	огранич	_	_
+50	донесли	ДОНОСИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	45	соч-союзн	_	_
+51	!	!	SENT	SENT	SENT	50	PUNC	_	_
+

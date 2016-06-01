@@ -1,0 +1,23 @@
+1	При	ПРИ	PR	PR	PR	0	ROOT	_	_
+2	чем	ЧЕМ	CONJ	CONJ	CONJ	1	предл	_	_
+3	тут	ТУТ	ADV	ADV -	ADV -	4	обст	_	_
+4	сода	СОДА	S	S f inan nom sg	S f inan nom sg	2	сравн-союзн	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	ипекакуанку	ИПЕКАКУАНКА	S	S f inan acc sg	S f inan acc sg	2	соч-союзн	_	_
+4	выпишу	ВЫПИСЫВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+5	инфузум...	ИНФУЗУМ...	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+6	на	НА	PR	PR	PR	4	2-компл	_	_
+7	180	180	NUM	NUM - - -	NUM - - -	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Или	ИЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	на	НА	PR	PR	PR	1	соч-союзн	_	_
+3	двести	ДВЕСТИ	NUM	NUM acc - -	NUM acc - -	2	предл	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Позвольте	ПОЗВОЛЯТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+

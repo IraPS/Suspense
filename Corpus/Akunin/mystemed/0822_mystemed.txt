@@ -1,0 +1,2 @@
+{"analysis":[{"lex":"государь","gr":"S,m,anim=nom,sg"}],"text":"Государь"}
+{"analysis":[{"lex":"кивнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"кивнул"}

@@ -1,0 +1,21 @@
+1	Варин	ВАРИН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	новый	НОВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	знакомый	ЗНАКОМЫЙ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+4	замолчал	ЗАМАЛЧИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	10	предик	_	_
+8	прикидывая	ПРИКИДЫВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	обст	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	оглянулся	ОГЛЯНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+11	на	НА	PR	PR	PR	10	2-компл	_	_
+12	игроков	ИГРОК	S	S m anim gen pl	S m anim gen pl	11	предл	_	_
+13	в	В	PR	PR	PR	10	3-компл	_	_
+14	кости	КОСТЬ	S	S f inan acc pl	S f inan acc pl	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Снова	СНОВА	ADV	ADV -	ADV -	3	обст	_	_
+2	тяжко	ТЯЖКО	ADV	ADV -	ADV -	3	обст	_	_
+3	вздохнул	ВЗДЫХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

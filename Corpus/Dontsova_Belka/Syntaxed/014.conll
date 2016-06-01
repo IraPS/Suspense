@@ -1,0 +1,75 @@
+1	Шум	ШУМ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	начал	НАЧИНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	удаляться	УДАЛЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	поколебавшись	ПОКОЛЕБАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	11	обст	_	_
+8	некоторое	НЕКОТОРЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	9	опред	_	_
+9	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	7	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	стала	СТАНОВИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сент-соч	_	_
+12	продираться	ПРОДИРАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	11	1-компл	_	_
+13	сквозь	СКВОЗЬ	PR	PR	PR	12	обст	_	_
+14	шиповник	ШИПОВНИК	S	S m inan acc sg	S m inan acc sg	13	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	стараясь	СТАРАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	обст	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	оцарапаться	ОЦАРАПАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	16	1-компл	_	_
+19	о	О	PR	PR	PR	18	2-компл	_	_
+20	шипы	ШИП	S	S m inan acc pl	S m inan acc pl	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	В конце концов	В конце концов	ADV	ADV -	-	3	обст	_	_
+2	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	3	1-компл	_	_
+3	вынесли	ВЫНЕСТИ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	3	1-компл	_	_
+5	на	НА	PR	PR	PR	3	2-компл	_	_
+6	небольшую	НЕБОЛЬШОЙ	A	A - acc sg plen f -	A - acc sg plen f -	7	опред	_	_
+7	лужайку	ЛУЖАЙКА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	10	огранич	_	_
+10	пустую	ПУСТОЙ	A	A - acc sg plen f -	A - acc sg plen f -	7	оп-опред	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	залитую	ЗАЛИВАТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	10	сочин	_	_
+13	бледным	БЛЕДНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	14	опред	_	_
+14	светом	СВЕТ	S	S m inan ins sg	S m inan ins sg	12	2-компл	_	_
+15	луны	ЛУНА	S	S f inan gen sg	S f inan gen sg	14	квазиагент	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Чуть	ЧУТЬ	ADV	ADV -	ADV -	2	огранич	_	_
+2	левее	ЛЕВЕЕ	ADV	ADV -	ADV -	3	обст	_	_
+3	чернел	ЧЕРНЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	овраг	ОВРАГ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+7	осторожно	ОСТОРОЖНО	ADV	ADV -	ADV -	8	обст	_	_
+8	приблизилась	ПРИБЛИЖАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	сент-соч	_	_
+9	к	К	PR	PR	PR	8	1-компл	_	_
+10	краю	КРАЙ	S	S m inan loc2 sg	S m inan loc2 sg	9	предл	_	_
+11	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+12	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	11	соч-союзн	_	_
+13	внизу	ВНИЗУ	ADV	ADV -	ADV -	12	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	там	ТАМ	ADV	ADV -	ADV -	12	обст	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	где	ГДЕ	ADV	ADV -	ADV -	18	обст	_	_
+18	валялись	ВАЛЯТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	15	релят	_	_
+19	камни	КАМЕНЬ	S	S m inan nom pl	S m inan nom pl	18	предик	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	тело	ТЕЛО	S	S n inan nom sg	S n inan nom sg	22	предик	_	_
+22	Звягиной	ЗВЯГИНА	S	S f anim loc sg	S f anim loc sg	12	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Раиса	РАИСА	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	1	аппоз	_	_
+3	лежала	ЛЕЖАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	лицом	ЛИЦО	S	S n inan ins sg	S n inan ins sg	3	агент	_	_
+5	вверх	ВВЕРХ	ADV	ADV -	ADV -	3	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	разбросав	РАЗБРАСЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	0	ROOT	_	_
+8	в	В	PR	PR	PR	7	обст	_	_
+9	стороны	СТОРОНА	S	S f inan gen sg	S f inan gen sg	8	предл	_	_
+10	руки	РУКА	S	S f inan acc pl	S f inan acc pl	7	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

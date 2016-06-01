@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"больница","gr":"S,f,inan=abl,sg"},{"lex":"больница","gr":"S,f,inan=dat,sg"}],"text":"больнице"}
+{"analysis":[{"lex":"стихать","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"стихло"}
+{"text":"\\s"}
+{"analysis":[{"lex":"совсем","gr":"ADV="}],"text":"Совсем"}

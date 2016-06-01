@@ -1,0 +1,54 @@
+1	Француз	ФРАНЦУЗ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	озорно	ОЗОРНО	ADV	ADV -	ADV -	3	обст	_	_
+3	улыбнулся	УЛЫБАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	промолчал	ПРОМОЛЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	5	сент-соч	_	_
+8	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	14	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	с	С	PR	PR	PR	14	обст	_	_
+11	некоторых	НЕКОТОРЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	12	опред	_	_
+12	пор	ПОРА	S	S f inan gen pl	S f inan gen pl	10	предл	_	_
+13	начавший	НАЧИНАТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	14	1-компл	_	_
+14	проявлять	ПРОЯВЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	22	1-компл	_	_
+15	явственные	ЯВСТВЕННЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	16	опред	_	_
+16	признаки	ПРИЗНАК	S	S m inan nom pl	S m inan nom pl	14	длительн	_	_
+17	нетерпения	НЕТЕРПЕНИЕ	S	S n inan gen sg	S n inan gen sg	16	квазиагент	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	вдруг	ВДРУГ	ADV	ADV -	ADV -	22	обст	_	_
+20	с	С	PR	PR	PR	22	обст	_	_
+21	воодушевлением	ВООДУШЕВЛЕНИЕ	S	S n inan ins sg	S n inan ins sg	20	предл	_	_
+22	воскликнул	ВОСКЛИЦАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+23	:	:	:	:	PUNC	24	опред	_	_
+24	–	–	–	–	PUNC	0	ROOT	_	_
+25	А	А	CONJ	CONJ	CONJ	24	сравнит	_	_
+26	вот	ВОТ	PART	PART	PART	27	огранич	_	_
+27	кстати	КСТАТИ	ADV	ADV -	ADV -	29	вводн	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	господа	ГОСПОДИН	S	S m anim gen sg	S m anim gen sg	25	сравн-союзн	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	не	НЕ	PART	PART	PART	32	огранич	_	_
+32	заложить	ЗАКЛАДЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	29	1-компл	_	_
+33	ли	ЛИ	PART	PART	PART	32	огранич	_	_
+34	нам	МЫ	SPRO	SPRO pl 1p - dat	SPRO pl 1p - dat	32	2-компл	_	_
+35	банчишко	БАНЧИШКО	S	S m inan acc sg	S m inan acc sg	32	1-компл	_	_
+36	?	?	SENT	SENT	SENT	35	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	0	ROOT	_	_
+4	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	разговоры	РАЗГОВОР	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+6	да	ДА	CONJ	CONJ	CONJ	5	сочин	_	_
+7	разговоры	РАЗГОВОР	S	S m inan nom pl	S m inan nom pl	6	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Право	ПРАВО	ADV	ADV -	ADV -	6	обст	_	_
+2	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как-то	КАК-ТО	ADV	ADV -	ADV -	6	огранич	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	по-людски	ПО-ЛЮДСКИ	ADV	ADV -	ADV -	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

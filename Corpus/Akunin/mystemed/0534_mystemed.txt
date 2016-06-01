@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"Д"}
+{"analysis":[{"lex":"эвр","qual":"bastard","gr":"S,m,inan=abl,sg"}],"text":"Эвре"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}
+{"analysis":[{"lex":"ничто","gr":"SPRO,sg,n=gen"}],"text":"ничего"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"молча","gr":"ADV="}],"text":"молча"}
+{"analysis":[{"lex":"стягивать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"стянул"}
+{"analysis":[{"lex":"белый","gr":"A=acc,sg,plen,f"}],"text":"белую"}
+{"analysis":[{"lex":"перчатка","gr":"S,f,inan=acc,sg"}],"text":"перчатку"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"швырнуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"швырнул"}
+{"analysis":[{"lex":"полковник","gr":"S,m,anim=dat,sg"}],"text":"полковнику"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"лицо","gr":"S,n,inan=acc,sg"},{"lex":"лицо","gr":"S,n,inan=nom,sg"}],"text":"лицо"}

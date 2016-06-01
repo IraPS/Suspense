@@ -1,0 +1,12 @@
+1	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	1-компл	_	_
+2	'	'	_	_	PUNC	1	PUNC	_	_
+3	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	1	1-компл	_	_
+4	тянул	ТЯНУТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	Варю	ВАРИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	4	1-компл	_	_
+6	куда-то	КУДА-ТО	ADV	ADV -	ADV -	7	огранич	_	_
+7	назад	НАЗАД	ADV	ADV -	ADV -	5	обст	_	_
+8	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+9	в	В	PR	PR	PR	0	ROOT	_	_
+10	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

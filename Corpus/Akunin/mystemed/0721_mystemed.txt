@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"},{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Маклафлин"}
+{"analysis":[{"lex":"доставать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"достал"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"карман","gr":"S,m,inan=gen,sg"}],"text":"кармана"}
+{"analysis":[{"lex":"часы","gr":"S,pl,inan=acc"},{"lex":"часы","gr":"S,pl,inan=nom"}],"text":"часы"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"серебряный","gr":"A=abl,sg,plen,f"},{"lex":"серебряный","gr":"A=dat,sg,plen,f"},{"lex":"серебряный","gr":"A=gen,sg,plen,f"},{"lex":"серебряный","gr":"A=ins,sg,plen,f"}],"text":"серебряной"}
+{"analysis":[{"lex":"цепочка","gr":"S,f,inan=abl,sg"},{"lex":"цепочка","gr":"S,f,inan=dat,sg"}],"text":"цепочке"}

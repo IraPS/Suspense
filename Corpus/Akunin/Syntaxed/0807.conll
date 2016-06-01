@@ -1,0 +1,34 @@
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Продолжай	ПРОДОЛЖАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	0	ROOT	_	_
+3	»	»	_	_	PUNC	2	PUNC	_	_
+4	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Каково	КАКОВО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	?	?	SENT	SENT	SENT	1	PUNC	_	_
+
+1	В	В	PR	PR	PR	11	обст	_	_
+2	первом	ПЕРВЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	3	опред	_	_
+3	классе	КЛАСС	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+6	то	ТО	S	S n - nom sg	S n - nom sg	5	соч-союзн	_	_
+7	на	НА	PR	PR	PR	1	вводн	_	_
+8	«	«	_	_	PUNC	9	PUNC	_	_
+9	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	7	предл	_	_
+10	»	»	_	_	PUNC	9	PUNC	_	_
+11	называли	НАЗЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	демонстративно	ДЕМОНСТРАТИВНО	ADV	ADV -	ADV -	3	обст	_	_
+3	выдержала	ВЫДЕРЖИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	паузу	ПАУЗА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+7	все-таки	ВСЕ-ТАКИ	PART	PART	PART	8	огранич	_	_
+8	довела	ДОВОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	соч-союзн	_	_
+9	рассказ	РАССКАЗ	S	S m inan acc sg	S m inan acc sg	8	1-компл	_	_
+10	до	ДО	PR	PR	PR	8	обст	_	_
+11	конца	КОНЕЦ	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

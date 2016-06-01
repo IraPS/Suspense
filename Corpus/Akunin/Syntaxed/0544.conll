@@ -1,0 +1,146 @@
+1	–	–	–	–	PUNC	7	1-компл	_	_
+2	Глупо	ГЛУПО	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	7	обст	_	_
+5	–	–	–	–	PUNC	7	1-компл	_	_
+6	сердито	СЕРДИТО	ADV	ADV -	ADV -	7	обст	_	_
+7	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	7	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Какие	КАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	2	огранич	_	_
+4	эспадроны	ЭСПАДРОН	S	S m inan nom sg	S m inan nom sg	1	предик	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	0	ROOT	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	то	ТО	CONJ	CONJ	CONJ	1	огранич	_	_
+4	видел	ВИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	как	КАК	CONJ	CONJ	CONJ	4	сравнит	_	_
+7	румыны	РУМЫН	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+8	управляются	УПРАВЛЯТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	6	сравн-союзн	_	_
+9	с	С	PR	PR	PR	8	1-компл	_	_
+10	саблей	САБЛЯ	S	S f inan ins sg	S f inan ins sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Тут	ТУТ	ADV	ADV -	ADV -	6	обст	_	_
+2	в	В	PR	PR	PR	6	обст	_	_
+3	третью	ТРЕТИЙ	A	A - acc sg plen f -	A - acc sg plen f -	4	опред	_	_
+4	позицию	ПОЗИЦИЯ	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	встают	ВСТАВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	«	«	_	_	PUNC	9	PUNC	_	_
+9	гарде	ГАРДА	S	S f inan loc sg	S f inan loc sg	7	соч-союзн	_	_
+10	»	»	_	_	PUNC	9	PUNC	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	говорят	ГОВОРИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	6	сочин	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Рубят	РУБИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+2	ломтями	ЛОМОТЬ	S	S m inan ins pl	S m inan ins pl	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	1	2-компл	_	_
+5	кровяную	КРОВЯНОЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	колбасу	КОЛБАСА	S	S f inan acc sg	S f inan acc sg	4	сравн-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Ах	АХ	INTJ	INTJ	INTJ	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	какое	КАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	4	опред	_	_
+4	перо	ПЕРО	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+5	погибает	ПОГИБАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	как	КАК	ADV	ADV -	ADV -	0	ROOT	_	_
+9	по-идиотски	ПО-ИДИОТСКИ	ADV	ADV -	ADV -	8	огранич	_	_
+10	!	!	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	3	опред	_	_
+2	французская	ФРАНЦУЗСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	спесь	СПЕСЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Индюку	ИНДЮК	S	S m anim dat sg	S m anim dat sg	5	1-компл	_	_
+2	Лукану	ЛУКАН	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+3	тоже	ТОЖЕ	PART	PART	PART	5	огранич	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	поздоровится	ПОЗДОРОВИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Засадят	ЗАСАЖИВАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+2	в	В	PR	PR	PR	1	2-компл	_	_
+3	тюрьму	ТЮРЬМА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+6	просидит	ПРОСИЖИВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	5	соч-союзн	_	_
+7	до	ДО	PR	PR	PR	6	обст	_	_
+8	самой	САМ	A	A - loc sg plen f -	A - loc sg plen f -	9	опред	_	_
+9	амнистии	АМНИСТИЯ	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+10	по	ПО	PR	PR	PR	0	ROOT	_	_
+11	случаю	СЛУЧАЙ	S	S m inan dat sg	S m inan dat sg	10	предл	_	_
+12	победы	ПОБЕДА	S	S f inan gen sg	S f inan gen sg	11	квазиагент	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	2	огранич	_	_
+2	у	У	PR	PR	PR	0	ROOT	_	_
+3	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	2	предл	_	_
+4	в	В	PR	PR	PR	2	сочин	_	_
+5	Британии	БРИТАНИЯ	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	…	…	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Боже	БОЖЕ	INTJ	INTJ	INTJ	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	боже	БОЖЕ	INTJ	INTJ	INTJ	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	подч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	12	обст	_	_
+10	–	–	–	–	PUNC	12	1-компл	_	_
+11	потерянно	ПОТЕРЯННО	ADV	ADV -	ADV -	12	обст	_	_
+12	бормотала	БОРМОТАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	сент-соч	_	_
+13	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	12	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	слушая	СЛУШАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	12	обст	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+3	одна	ОДИН	A	A - nom sg plen f -	A - nom sg plen f -	6	предик	_	_
+4	во	ВО	PR	PR	PR	6	обст	_	_
+5	всем	ВСЕ	S	S n - loc sg	S n - loc sg	4	предл	_	_
+6	виновата	ВИНОВАТЫЙ	A	A - - sg brev f -	A - - sg brev f -	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	опред	_	_
+2	Кокетство	КОКЕТСТВО	S	S n inan acc sg	S n inan acc sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	сударыня	СУДАРЫНЯ	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	4	опред	_	_
+7	–	–	–	–	PUNC	9	опред	_	_
+8	большой	БОЛЬШОЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	грех	ГРЕХ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	 	 	 	 	PUNC	9	опред	_	_
+12	–	–	–	–	PUNC	15	1-компл	_	_
+13	неожиданно	НЕОЖИДАННО	ADV	ADV -	ADV -	14	огранич	_	_
+14	легко	ЛЕГКО	ADV	ADV -	ADV -	15	обст	_	_
+15	согласился	СОГЛАШАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	релят	_	_
+16	ирландец	ИРЛАНДЕЦ	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	со	СО	PR	PR	PR	1	обст	_	_
+4	времен	ВРЕМЯ	S	S n inan gen pl	S n inan gen pl	3	предл	_	_
+5	Троянской	ТРОЯНСКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	6	опред	_	_
+6	войны	ВОЙНА	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+7	…	…	SENT	SENT	SENT	6	PUNC	_	_
+

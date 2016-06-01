@@ -1,0 +1,110 @@
+1	Когда	КОГДА	CONJ	CONJ	CONJ	17	обст	_	_
+2	случалось	СЛУЧАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	подч-союзн	_	_
+3	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	предик	_	_
+4	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	3	2-компл	_	_
+5	замечание	ЗАМЕЧАНИЕ	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+6	за	ЗА	PR	PR	PR	3	обст	_	_
+7	излишнюю	ИЗЛИШНИЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	резвость	РЕЗВОСТЬ	S	S f inan nom sg	S f inan nom sg	6	предл	_	_
+9	или	ИЛИ	CONJ	CONJ	CONJ	8	сочин	_	_
+10	забывчивость	ЗАБЫВЧИВОСТЬ	S	S f inan nom sg	S f inan nom sg	9	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	то	ТО	CONJ	CONJ	CONJ	1	соотнос	_	_
+13	обычно	ОБЫЧНО	ADV	ADV -	ADV -	17	обст	_	_
+14	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+15	сразу	СРАЗУ	ADV	ADV -	ADV -	17	обст	_	_
+16	же	ЖЕ	PART	PART	PART	15	огранич	_	_
+17	просил	ПРОСИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+18	прощения	ПРОЩЕНИЕ	S	S n inan gen sg	S n inan gen sg	17	1-компл	_	_
+19	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+20	молчал	МОЛЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	19	соч-союзн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	когда	КОГДА	CONJ	CONJ	CONJ	20	обст	_	_
+23	слушал	СЛУШАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	22	подч-союзн	_	_
+24	выговор	ВЫГОВОР	S	S m inan acc sg	S m inan acc sg	23	1-компл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	помню	ПОМНИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	случай	СЛУЧАЙ	S	S m inan nom sg	S m inan nom sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	когда	КОГДА	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	в	В	PR	PR	PR	9	обст	_	_
+7	запальчивости	ЗАПАЛЬЧИВОСТЬ	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	9	предик	_	_
+9	назвал	НАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	подч-союзн	_	_
+10	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	9	1-компл	_	_
+11	обидным	ОБИДНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	12	опред	_	_
+12	именем	ИМЯ	S	S n inan ins sg	S n inan ins sg	9	2-компл	_	_
+13	за	ЗА	PR	PR	PR	9	1-компл	_	_
+14	неисполнение	НЕИСПОЛНЕНИЕ	S	S n inan acc sg	S n inan acc sg	13	предл	_	_
+15	какого-то	КАКОЙ-ТО	A	A - gen sg plen m -	A - gen sg plen m -	16	опред	_	_
+16	поручения	ПОРУЧЕНИЕ	S	S n inan gen sg	S n inan gen sg	14	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Почувствовав	ПОЧУВСТВОВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	7	обст	_	_
+2	затем	ЗАТЕМ	ADV	ADV -	ADV -	4	огранич	_	_
+3	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	4	опред	_	_
+4	несправедливость	НЕСПРАВЕДЛИВОСТЬ	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	предик	_	_
+7	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	7	неакт-компл	_	_
+9	:	:	:	:	PUNC	7	2-компл	_	_
+10	«	«	_	_	PUNC	9	PUNC	_	_
+11	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	14	предик	_	_
+14	сожалею	СОЖАЛЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	7	сент-соч	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	что	ЧТО	CONJ	CONJ	CONJ	14	1-компл	_	_
+17	назвал	НАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	16	подч-союзн	_	_
+18	тебя	ТЫ	SPRO	SPRO sg 2p - acc	SPRO sg 2p - acc	17	1-компл	_	_
+19	так	ТАК	ADV	ADV -	ADV -	20	огранич	_	_
+20	обидно	ОБИДНО	ADV	ADV -	ADV -	17	2-компл	_	_
+21	»	»	_	_	PUNC	20	PUNC	_	_
+22	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	–	–	–	–	PUNC	24	1-компл	_	_
+2	«	«	_	_	PUNC	1	PUNC	_	_
+3	Не	НЕ	PART	PART	PART	4	огранич	_	_
+4	беспокойся	БЕСПОКОИТЬСЯ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	1	примыкат	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	папочка	ПАПОЧКА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+7	»	»	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	–	–	–	–	PUNC	10	1-компл	_	_
+10	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	релят	_	_
+11	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	10	предик	_	_
+12	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+13	посмотрел	ПОСМОТРЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	соч-союзн	_	_
+14	на	НА	PR	PR	PR	13	1-компл	_	_
+15	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	14	предл	_	_
+16	таким	ТАКОЙ	A	A - ins sg plen m -	A - ins sg plen m -	18	опред	_	_
+17	ясным	ЯСНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	18	опред	_	_
+18	взором	ВЗОР	S	S m inan ins sg	S m inan ins sg	13	обст	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	в	В	PR	PR	PR	23	обст	_	_
+21	котором	КОТОРЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	20	предл	_	_
+22	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	23	предик	_	_
+23	мог	МОЧЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+24	прочесть	ПРОЧИТЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	23	1-компл	_	_
+25	полное	ПОЛНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	26	опред	_	_
+26	примирение	ПРИМИРЕНИЕ	S	S n inan acc sg	S n inan acc sg	24	1-компл	_	_
+27	души	ДУША	S	S f inan gen sg	S f inan gen sg	26	квазиагент	_	_
+28	:	:	:	:	PUNC	31	1-компл	_	_
+29	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	30	квазиагент	_	_
+30	любовь	ЛЮБОВЬ	S	S f inan nom sg	S f inan nom sg	31	предик	_	_
+31	покрывала	ПОКРЫВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	26	релят	_	_
+32	всегда	ВСЕГДА	ADV	ADV -	ADV -	0	ROOT	_	_
+33	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	34	опред	_	_
+34	обиды	ОБИДА	S	S f inan nom pl	S f inan nom pl	0	ROOT	_	_
+35	и	И	CONJ	CONJ	CONJ	34	сочин	_	_
+36	не	НЕ	PART	PART	PART	37	огранич	_	_
+37	позволяла	ПОЗВОЛЯТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	35	соч-союзн	_	_
+38	гнездиться	ГНЕЗДИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	37	1-компл	_	_
+39	в	В	PR	PR	PR	38	обст	_	_
+40	сердце	СЕРДЦЕ	S	S n inan loc sg	S n inan loc sg	39	предл	_	_
+41	злопамятности	ЗЛОПАМЯТНОСТЬ	S	S f inan loc sg	S f inan loc sg	37	сочин	_	_
+42	.	.	SENT	SENT	SENT	41	PUNC	_	_
+

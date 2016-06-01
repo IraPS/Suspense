@@ -1,0 +1,40 @@
+1	Тут	ТУТ	ADV	ADV -	ADV -	5	обст	_	_
+2	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+3	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	вопросительно	ВОПРОСИТЕЛЬНО	ADV	ADV -	ADV -	5	обст	_	_
+5	наклонил	НАКЛОНЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	5	сент-соч	_	_
+9	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+10	вкрадчиво	ВКРАДЧИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	8	соч-союзн	_	_
+11	произнес	ПРОИЗНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	сочин	_	_
+12	:	:	:	:	PUNC	11	1-компл	_	_
+13	–	–	–	–	PUNC	11	2-компл	_	_
+14	Анвара	АНВАР	S	S f inan nom sg	S f inan nom sg	11	обст	_	_
+15	-	-	-	-	PUNC	14	PUNC	_	_
+16	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	14	сочин	_	_
+17	помните	ПОМНИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	11	сочин	_	_
+18	?	?	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Секретарь	СЕКРЕТАРЬ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+2	султана	СУЛТАН	S	S m anim gen sg	S m anim gen sg	1	1-компл	_	_
+3	Абдул	АБДУЛ	S	S m anim gen sg	S m anim gen sg	2	аппоз	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	Гамида	ГАМИДА	S	S m inan gen sg	S m inan gen sg	1	атриб	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Ну	НУ	PART	PART	PART	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	слегка	СЛЕГКА	ADV	ADV -	ADV -	7	огранич	_	_
+7	промелькнул	ПРОМЕЛЬКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	подч-союзн	_	_
+8	в	В	PR	PR	PR	7	обст	_	_
+9	деле	ДЕЛО	S	S n inan loc sg	S n inan loc sg	8	предл	_	_
+10	«	«	_	_	PUNC	9	PUNC	_	_
+11	Азазеля	АЗАЗЕЛЬ	S	S m anim acc sg	S m anim acc sg	7	1-компл	_	_
+12	»	»	_	_	PUNC	11	PUNC	_	_
+13	?	?	SENT	SENT	SENT	11	PUNC	_	_
+

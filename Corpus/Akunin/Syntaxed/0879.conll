@@ -1,0 +1,21 @@
+1	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	поднялся	ПОДНИМАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	церемонно	ЦЕРЕМОННО	ADV	ADV -	ADV -	5	обст	_	_
+5	предложил	ПРЕДЛАГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+6	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	5	2-компл	_	_
+7	руку	РУКА	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+8	:	:	:	:	PUNC	13	суб-копр	_	_
+9	–	–	–	–	PUNC	13	1-компл	_	_
+10	Не	НЕ	PART	PART	PART	11	огранич	_	_
+11	угодно	УГОДНО	ADV	ADV -	ADV -	9	вспом	_	_
+12	ли	ЛИ	PART	PART	PART	11	огранич	_	_
+13	взглянуть	ВЗГЛЯДЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	5	1-компл	_	_
+14	на	НА	PR	PR	PR	13	2-компл	_	_
+15	огни	ОГОНЬ	S	S m inan acc pl	S m inan acc pl	14	предл	_	_
+16	Константинополя	КОНСТАНТИНОПОЛЬ	S	S m inan gen sg	S m inan gen sg	15	квазиагент	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	5	2-компл	_	_
+19	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	18	аппоз	_	_
+20	?	?	SENT	SENT	SENT	19	PUNC	_	_
+

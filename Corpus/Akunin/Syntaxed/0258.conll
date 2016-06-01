@@ -1,0 +1,36 @@
+1	Потом	ПОТОМ	ADV	ADV -	ADV -	5	обст	_	_
+2	от	ОТ	PR	PR	PR	4	1-компл	_	_
+3	нечего	НЕЧЕГО	S	S n inan gen sg	S n inan gen sg	2	предл	_	_
+4	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	предик	_	_
+5	зашла	ЗАЙТИ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	проведать	ПРОВЕДЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	5	1-компл	_	_
+7	Фандорина	ФАНДОРИН	S	S m anim acc sg	S m anim acc sg	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	которому	КОТОРЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	10	2-компл	_	_
+10	выделили	ВЫДЕЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	5	изъясн	_	_
+11	отдельную	ОТДЕЛЬНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	12	опред	_	_
+12	палатку	ПАЛАТКА	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+13	в	В	PR	PR	PR	12	атриб	_	_
+14	штабном	ШТАБНОЙ	A	A - loc sg plen m -	A - loc sg plen m -	15	опред	_	_
+15	секторе	СЕКТОР	S	S m inan loc sg	S m inan loc sg	13	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	тоже	ТОЖЕ	PART	PART	PART	4	огранич	_	_
+4	бездельничал	БЕЗДЕЛЬНИЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	:	:	:	:	PUNC	6	1-компл	_	_
+6	валялся	ВАЛЯТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сочин	_	_
+7	в	В	PR	PR	PR	6	обст	_	_
+8	походной	ПОХОДНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	9	опред	_	_
+9	койке	КОЙКА	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+10	с	С	PR	PR	PR	9	атриб	_	_
+11	турецкой	ТУРЕЦКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	12	опред	_	_
+12	книжкой	КНИЖКА	S	S f inan ins sg	S f inan ins sg	10	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	выписывал	ВЫПИСЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	сочин	_	_
+15	оттуда	ОТТУДА	ADV	ADV -	ADV -	17	опред	_	_
+16	какие-то	КАКОЙ-ТО	A	A - nom pl plen - -	A - nom pl plen - -	17	опред	_	_
+17	слова	СЛОВО	S	S n inan nom pl	S n inan nom pl	14	предик	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

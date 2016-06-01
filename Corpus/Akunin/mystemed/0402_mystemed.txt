@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"от","gr":"PR="}],"text":"От"}
+{"analysis":[{"lex":"такой","gr":"APRO=acc,sg,m,anim"},{"lex":"такой","gr":"APRO=gen,sg,m"},{"lex":"такой","gr":"APRO=gen,sg,n"}],"text":"такого"}
+{"analysis":[{"lex":"неслыханный","gr":"A=acc,sg,plen,m,anim"},{"lex":"неслыханный","gr":"A=gen,sg,plen,m"},{"lex":"неслыханный","gr":"A=gen,sg,plen,n"}],"text":"неслыханного"}
+{"analysis":[{"lex":"заявление","gr":"S,n,inan=acc,pl"},{"lex":"заявление","gr":"S,n,inan=gen,sg"},{"lex":"заявление","gr":"S,n,inan=nom,pl"}],"text":"заявления"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"растериваться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"растерялась"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"выручка","gr":"S,f,inan=acc,sg"}],"text":"выручку"}
+{"analysis":[{"lex":"приходить","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"пришел"}
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"д"}
+{"analysis":[{"lex":"эвр","qual":"bastard","gr":"S,m,inan=abl,sg"}],"text":"Эвре"}

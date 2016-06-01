@@ -1,0 +1,68 @@
+1	Тем	ТОТ	A	A - dat pl plen - -	A - dat pl plen - -	2	опред	_	_
+2	временем	ВРЕМЯ	S	S n inan ins sg	S n inan ins sg	4	обст	_	_
+3	коляска	КОЛЯСКА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+4	выехала	ВЫЕЗЖАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	за	ЗА	PR	PR	PR	4	2-компл	_	_
+6	пределы	ПРЕДЕЛ	S	S m inan acc pl	S m inan acc pl	5	предл	_	_
+7	лагеря	ЛАГЕРЬ	S	S m inan gen sg	S m inan gen sg	6	квазиагент	_	_
+8	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+9	остановилась	ОСТАНАВЛИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+10	в	В	PR	PR	PR	9	2-компл	_	_
+11	тенистой	ТЕНИСТЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	12	опред	_	_
+12	роще	РОЩА	S	S f inan dat sg	S f inan dat sg	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Под	ПОД	PR	PR	PR	4	обст	_	_
+2	старым	СТАРЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	3	опред	_	_
+3	дубом	ДУБ	S	S m inan ins sg	S m inan ins sg	1	предл	_	_
+4	белел	БЕЛЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	накрытый	НАКРЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	8	опред	_	_
+6	крахмальной	КРАХМАЛЬНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	7	опред	_	_
+7	скатертью	СКАТЕРТЬ	S	S f inan ins sg	S f inan ins sg	5	агент	_	_
+8	стол	СТОЛ	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+11	на	НА	PR	PR	PR	13	1-компл	_	_
+12	нем	ОН	SPRO	SPRO sg 3p m loc	SPRO sg 3p m loc	11	предл	_	_
+13	стояло	СТОЯТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	10	соч-союзн	_	_
+14	столько	СТОЛЬКО	NUM	NUM acc - -	NUM acc - -	18	соотнос	_	_
+15	всякого	ВСЯКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	16	опред	_	_
+16	вкусного	ВКУСНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	предик	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	что	ЧТО	CONJ	CONJ	CONJ	16	сочин	_	_
+19	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	21	предик	_	_
+20	моментально	МОМЕНТАЛЬНО	ADV	ADV -	ADV -	21	обст	_	_
+21	проголодалась	ПРОГОЛОДАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	18	соч-союзн	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Здесь	ЗДЕСЬ	ADV	ADV -	ADV -	2	обст	_	_
+2	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	французские	ФРАНЦУЗСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	5	опред	_	_
+5	сыры	СЫР	S	S m inan acc pl	S m inan acc pl	3	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	фрукты	ФРУКТ	S	S m inan nom pl	S m inan nom pl	7	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	копченая	КОПЧЕНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	12	опред	_	_
+12	лососина	ЛОСОСИНА	S	S f inan nom sg	S f inan nom sg	10	соч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+15	розовая	РОЗОВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	16	опред	_	_
+16	ветчина	ВЕТЧИНА	S	S f inan nom sg	S f inan nom sg	14	соч-союзн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+19	пурпурные	ПУРПУРНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	20	опред	_	_
+20	раки	РАК	S	S m anim nom pl	S m anim nom pl	0	ROOT	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	а	А	CONJ	CONJ	CONJ	20	сочин	_	_
+23	в	В	PR	PR	PR	27	обст	_	_
+24	серебряном	СЕРЕБРЯНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	25	опред	_	_
+25	ведерке	ВЕДЕРКО	S	S m inan loc sg	S m inan loc sg	23	предл	_	_
+26	уютно	УЮТНО	ADV	ADV -	ADV -	27	обст	_	_
+27	пристроилась	ПРИСТРАИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	22	соч-союзн	_	_
+28	бутылка	БУТЫЛКА	S	S f inan nom sg	S f inan nom sg	27	предик	_	_
+29	лафита	ЛАФИТ	S	S m inan gen sg	S m inan gen sg	28	квазиагент	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+

@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"после","gr":"PR="}],"text":"После"}
+{"analysis":[{"lex":"продолжительный","gr":"A=abl,sg,plen,f"},{"lex":"продолжительный","gr":"A=dat,sg,plen,f"},{"lex":"продолжительный","gr":"A=gen,sg,plen,f"},{"lex":"продолжительный","gr":"A=ins,sg,plen,f"}],"text":"продолжительной"}
+{"analysis":[{"lex":"пауза","gr":"S,f,inan=acc,pl"},{"lex":"пауза","gr":"S,f,inan=gen,sg"},{"lex":"пауза","gr":"S,f,inan=nom,pl"}],"text":"паузы"}
+{"analysis":[{"lex":"шеф","gr":"S,m,anim=nom,sg"}],"text":"шеф"}
+{"analysis":[{"lex":"жандарм","gr":"S,m,anim=acc,pl"},{"lex":"жандарм","gr":"S,m,anim=gen,pl"}],"text":"жандармов"}
+{"analysis":[{"lex":"обращаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"обратился"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=dat,sg"}],"text":"Фандорину"}
+{"analysis":[{"lex":"ваш","gr":"APRO=nom,pl"},{"lex":"ваш","gr":"APRO=acc,pl,inan"}],"text":"Ваши"}
+{"analysis":[{"lex":"вывод","gr":"S,m,inan=acc,pl"},{"lex":"вывод","gr":"S,m,inan=nom,pl"}],"text":"выводы"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}

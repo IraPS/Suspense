@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"analysis":[{"lex":"подниматься","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"поднялся"}
+{"analysis":[{"lex":"церемонно","gr":"ADV="}],"text":"церемонно"}
+{"analysis":[{"lex":"предлагать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"предложил"}
+{"analysis":[{"lex":"вар","gr":"S,m,inan=abl,sg"}],"text":"Варе"}
+{"analysis":[{"lex":"рука","gr":"S,f,inan=acc,sg"}],"text":"руку"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"Не"}
+{"analysis":[{"lex":"угодно","gr":"ADV,praed="}],"text":"угодно"}
+{"analysis":[{"lex":"ли","gr":"PART="}],"text":"ли"}
+{"analysis":[{"lex":"взглядывать","gr":"V,intr=inf,pf"}],"text":"взглянуть"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"огонь","gr":"S,m,inan=acc,pl"},{"lex":"огонь","gr":"S,m,inan=nom,pl"}],"text":"огни"}
+{"analysis":[{"lex":"константинополь","gr":"S,geo,m,inan=gen,sg"}],"text":"Константинополя"}
+{"analysis":[{"lex":"варвара","gr":"S,persn,f,anim=nom,sg"}],"text":"Варвара"}
+{"analysis":[{"lex":"андреевна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Андреевна"}

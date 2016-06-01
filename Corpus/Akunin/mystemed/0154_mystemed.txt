@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"К"}
+{"analysis":[{"lex":"генерал","gr":"S,m,anim=dat,sg"}],"text":"генералу"}
+{"analysis":[{"lex":"подходить","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"подошел"}
+{"analysis":[{"lex":"лихой","gr":"A=acc,sg,plen,m,inan"},{"lex":"лихой","gr":"A=nom,sg,plen,m"},{"lex":"лихой","gr":"A=abl,sg,plen,f"},{"lex":"лихой","gr":"A=dat,sg,plen,f"},{"lex":"лихой","gr":"A=gen,sg,plen,f"},{"lex":"лихой","gr":"A=ins,sg,plen,f"}],"text":"лихой"}
+{"analysis":[{"lex":"урядник","gr":"S,m,anim=nom,sg"}],"text":"урядник"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"ткнуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"ткнул"}
+{"analysis":[{"lex":"палец","gr":"S,m,inan=ins,sg"}],"text":"пальцем"}
+{"analysis":[{"lex":"куда-то","gr":"ADVPRO="}],"text":"куда-то"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"сторона","gr":"S,f,inan=acc,sg"}],"text":"сторону"}

@@ -1,0 +1,33 @@
+1	Время	ВРЕМЯ	S	S n inan nom sg	S n inan nom sg	2	предик	_	_
+2	шло	ИДТИ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	бежало	БЕЖАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	2	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	летело	ЛЕТЕТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	4	сочин	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	В	В	PR	PR	PR	8	обст	_	_
+2	начале	НАЧАЛО	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+3	октября	ОКТЯБРЬ	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+4	сорок	СОРОК	NUM	NUM acc - -	NUM acc - -	7	колич-вспом	_	_
+5	две	ДВА	NUM	NUM nom f -	NUM nom f -	7	количест	_	_
+6	граммофонные	ГРАММОФОННЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	7	опред	_	_
+7	фирмы	ФИРМА	S	S f inan gen sg	S f inan gen sg	3	квазиагент	_	_
+8	выслали	ВЫСЫЛАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+9	в	В	PR	PR	PR	8	3-компл	_	_
+10	Америку	АМЕРИКА	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+11	своих	СВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	12	опред	_	_
+12	представителей	ПРЕДСТАВИТЕЛЬ	S	S m anim gen pl	S m anim gen pl	10	квазиагент	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	8	обст	_	_
+15	записать	ЗАПИСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	14	инф-союзн	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	обнародовать	ОБНАРОДОВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	16	соч-союзн	_	_
+18	по	ПО	PR	PR	PR	17	обст	_	_
+19	всему	ВЕСЬ	A	A - dat sg plen m -	A - dat sg plen m -	20	опред	_	_
+20	миру	МИР	S	S m inan dat sg	S m inan dat sg	18	предл	_	_
+21	первый	ПЕРВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	23	опред	_	_
+22	рачий	РАЧИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	23	опред	_	_
+23	свист	СВИСТ	S	S m inan acc sg	S m inan acc sg	17	1-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+

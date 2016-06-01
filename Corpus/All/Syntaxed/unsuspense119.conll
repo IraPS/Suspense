@@ -1,0 +1,268 @@
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	береги	БЕРЕЧЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	2	соч-союзн	_	_
+5	!	!	!	!	PUNC	4	1-компл	_	_
+6	»	»	SENT	SENT	SENT	5	PUNC	_	_
+
+1	—	—	—	—	PUNC	2	предик	_	_
+2	мелькнет	МЕЛЬКНУТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	обст	_	_
+4	голове	ГОЛОВА	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	опьяняющая	ОПЬЯНЯТЬ	PARTCP	PARTCP ipf inpraes nom sg plen f act -	PARTCP ipf inpraes nom sg plen f act -	6	опред	_	_
+6	мысль	МЫСЛЬ	S	S f inan nom sg	S f inan nom sg	2	разъяснит	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Гикнешь	ГИКНУТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+2	на	НА	PR	PR	PR	1	обст	_	_
+3	лошадь	ЛОШАДЬ	S	S f anim acc sg	S f anim acc sg	2	предл	_	_
+4	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	как	КАК	CONJ	CONJ	CONJ	11	вводн	_	_
+7	сорвавшийся	СРЫВАТЬСЯ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	6	сравн-союзн	_	_
+8	с	С	PR	PR	PR	7	обст	_	_
+9	цепи	ЦЕПЬ	S	S f inan loc2 sg	S f inan loc2 sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	помчишься	ПОМЧАТЬСЯ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	4	соч-союзн	_	_
+12	по	ПО	PR	PR	PR	11	обст	_	_
+13	лесу	ЛЕС	S	S m inan loc2 sg	S m inan loc2 sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	уже	УЖЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+16	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	0	ROOT	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	разбирая	РАЗБИРАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	16	обст	_	_
+19	по	ПО	PR	PR	PR	18	обст	_	_
+20	пути	ПУТЬ	S	S m inan loc sg	S m inan loc sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Только	ТОЛЬКО	PART	PART	PART	2	огранич	_	_
+2	деревья	ДЕРЕВО	S	S n inan nom pl	S n inan nom pl	3	предик	_	_
+3	мелькают	МЕЛЬКАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	перед	ПЕРЕД	PR	PR	PR	3	1-компл	_	_
+5	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	4	предл	_	_
+6	да	ДА	CONJ	CONJ	CONJ	3	обст	_	_
+7	лепит	ЛЕПИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	подч-союзн	_	_
+8	в	В	PR	PR	PR	7	2-компл	_	_
+9	лицо	ЛИЦО	S	S n inan acc sg	S n inan acc sg	8	предл	_	_
+10	грязью	ГРЯЗЬ	S	S f inan ins sg	S f inan ins sg	7	обст	_	_
+11	из-под	ИЗ-ПОД	PR	PR	PR	7	обст	_	_
+12	копыт	КОПЫТО	S	S n inan gen pl	S n inan gen pl	11	предл	_	_
+13	лошади	ЛОШАДЬ	S	S f anim gen sg	S f anim gen sg	12	квазиагент	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Выскочишь	ВЫСКОЧИТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	5	обст	_	_
+2	из	ИЗ	PR	PR	PR	1	электив	_	_
+3	лесу	ЛЕС	S	S m inan loc2 sg	S m inan loc2 sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	увидишь	УВИДЕТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+6	на	НА	PR	PR	PR	5	обст	_	_
+7	зеленях	ЗЕЛЕНЬ	S	S - - loc pl	S - - loc pl	6	предл	_	_
+8	пеструю	ПЕСТРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	растянувшуюся	РАСТЯГИВАТЬСЯ	PARTCP	PARTCP pf praet acc sg plen f act -	PARTCP pf praet acc sg plen f act -	13	опред	_	_
+11	по	ПО	PR	PR	PR	10	обст	_	_
+12	земле	ЗЕМЛЯ	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	стаю	СТАЯ	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+14	собак	СОБАКА	S	S f anim gen pl	S f anim gen pl	13	квазиагент	_	_
+15	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+16	еще	ЕЩЕ	ADV	ADV -	ADV -	17	огранич	_	_
+17	сильнее	СИЛЬНО	ADV	ADV comp	ADV comp	18	обст	_	_
+18	наддашь	НАДДАВАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	15	соч-союзн	_	_
+19	«	«	_	_	PUNC	18	PUNC	_	_
+20	киргиза	КИРГИЗ	S	S m anim acc sg	S m anim acc sg	18	1-компл	_	_
+21	»	»	_	_	PUNC	20	PUNC	_	_
+22	наперерез	НАПЕРЕРЕЗ	ADV	ADV -	ADV -	23	огранич	_	_
+23	зверю	ЗВЕРЬ	S	S m anim dat sg	S m anim dat sg	18	2-компл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	—	—	—	—	PUNC	23	опред	_	_
+26	по	ПО	PR	PR	PR	25	обст	_	_
+27	зеленям	ЗЕЛЕНЬ	S	S f inan dat pl	S f inan dat pl	26	предл	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	взметам	ВЗМЕТ	S	S m inan dat pl	S m inan dat pl	25	1-компл	_	_
+30	и	И	CONJ	CONJ	CONJ	29	сочин	_	_
+31	жнивьям	ЖНИВЬЕ	S	S f anim nom sg	S f anim nom sg	30	соч-союзн	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	пока	ПОКА	CONJ	CONJ	CONJ	25	обст	_	_
+34	,	,	,	,	PUNC	33	PUNC	_	_
+35	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	38	вводн	_	_
+36	,	,	,	,	PUNC	35	PUNC	_	_
+37	не	НЕ	PART	PART	PART	38	огранич	_	_
+38	перевалишься	ПЕРЕВАЛИВАТЬСЯ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	33	подч-союзн	_	_
+39	в	В	PR	PR	PR	38	2-компл	_	_
+40	другой	ДРУГОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	41	опред	_	_
+41	остров	ОСТРОВ	S	S m inan acc sg	S m inan acc sg	39	предл	_	_
+42	и	И	CONJ	CONJ	CONJ	38	сочин	_	_
+43	не	НЕ	PART	PART	PART	44	огранич	_	_
+44	скроется	СКРЫВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	42	соч-союзн	_	_
+45	из	ИЗ	PR	PR	PR	44	2-компл	_	_
+46	глаз	ГЛАЗ	S	S m inan acc sg	S m inan acc sg	45	предл	_	_
+47	стая	СТАЯ	S	S f inan nom sg	S f inan nom sg	44	предик	_	_
+48	вместе	ВМЕСТЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+49	со	СО	PR	PR	PR	48	1-компл	_	_
+50	своим	СВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	52	опред	_	_
+51	бешеным	БЕШЕНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	52	опред	_	_
+52	лаем	ЛАЙ	S	S m inan ins sg	S m inan ins sg	49	предл	_	_
+53	и	И	CONJ	CONJ	CONJ	52	сочин	_	_
+54	стоном	СТОН	S	S m inan ins sg	S m inan ins sg	53	соч-союзн	_	_
+55	.	.	SENT	SENT	SENT	54	PUNC	_	_
+
+1	Тогда	ТОГДА	ADV	ADV -	ADV -	10	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	10	суб-копр	_	_
+4	мокрый	МОКРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	опред	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	дрожащий	ДРОЖАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act inan	PARTCP ipf inpraes acc sg plen m act inan	5	соч-союзн	_	_
+7	от	ОТ	PR	PR	PR	6	1-компл	_	_
+8	напряжения	НАПРЯЖЕНИЕ	S	S n inan gen sg	S n inan gen sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	осадишь	ОСАЖИВАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	14	опред	_	_
+11	вспененную	ВСПЕНИВАТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	14	опред	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	хрипящую	ХРИПЕТЬ	PARTCP	PARTCP ipf inpraes acc sg plen f act -	PARTCP ipf inpraes acc sg plen f act -	11	кратн	_	_
+14	лошадь	ЛОШАДЬ	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	жадно	ЖАДНО	ADV	ADV -	ADV -	17	обст	_	_
+17	глотаешь	ГЛОТАТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	15	соч-союзн	_	_
+18	ледяную	ЛЕДЯНОЙ	A	A - acc sg plen f -	A - acc sg plen f -	19	опред	_	_
+19	сырость	СЫРОСТЬ	S	S f inan acc sg	S f inan acc sg	17	1-компл	_	_
+20	лесной	ЛЕСНОЙ	A	A - gen sg plen f -	A - gen sg plen f -	21	опред	_	_
+21	долины	ДОЛИНА	S	S f inan gen sg	S f inan gen sg	19	квазиагент	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Вдали	ВДАЛИ	ADV	ADV -	ADV -	2	обст	_	_
+2	замирают	ЗАМИРАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+3	крики	КРИК	S	S m inan nom pl	S m inan nom pl	2	предик	_	_
+4	охотников	ОХОТНИК	S	S m anim gen pl	S m anim gen pl	3	квазиагент	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	лай	ЛАЙ	S	S m inan nom sg	S m inan nom sg	5	соч-союзн	_	_
+7	собак	СОБАКА	S	S f anim gen pl	S f anim gen pl	6	квазиагент	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+10	вокруг	ВОКРУГ	PR	PR	PR	14	обст	_	_
+11	тебя	ТЫ	SPRO	SPRO sg 2p - acc	SPRO sg 2p - acc	10	предл	_	_
+12	—	—	—	—	PUNC	14	опред	_	_
+13	мертвая	МЕРТВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	опред	_	_
+14	тишина	ТИШИНА	S	S f inan nom sg	S f inan nom sg	9	соч-союзн	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Полураскрытый	ПОЛУРАСКРЫТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+2	строевой	СТРОЕВОЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	лес	ЛЕС	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+4	стоит	СТОЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	неподвижно	НЕПОДВИЖНО	ADV	ADV -	ADV -	4	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	7	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	8	предик	_	_
+11	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	12	предик	_	_
+12	попал	ПОПАДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	подч-союзн	_	_
+13	в	В	PR	PR	PR	12	2-компл	_	_
+14	какие-то	КАКОЙ-ТО	A	A - acc pl plen - inan	A - acc pl plen - inan	16	опред	_	_
+15	заповедные	ЗАПОВЕДНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	16	опред	_	_
+16	чертоги	ЧЕРТОГ	S	S m inan nom pl	S m inan nom pl	13	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Крепко	КРЕПКО	ADV	ADV -	ADV -	2	обст	_	_
+2	пахнет	ПАХНУТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	от	ОТ	PR	PR	PR	2	1-компл	_	_
+4	оврагов	ОВРАГ	S	S m inan gen pl	S m inan gen pl	3	предл	_	_
+5	грибной	ГРИБНОЙ	A	A - ins sg plen f -	A - ins sg plen f -	6	опред	_	_
+6	сыростью	СЫРОСТЬ	S	S f inan ins sg	S f inan ins sg	4	атриб	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	перегнившими	ПЕРЕГНИВАТЬ	PARTCP	PARTCP pf praet ins pl plen - act -	PARTCP pf praet ins pl plen - act -	9	опред	_	_
+9	листьями	ЛИСТ	S	S m inan ins pl	S m inan ins pl	6	сочин	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	мокрой	МОКРЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	13	опред	_	_
+12	древесной	ДРЕВЕСНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	13	опред	_	_
+13	корою	КОРА	S	S f inan ins sg	S f inan ins sg	10	соч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	сырость	СЫРОСТЬ	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+3	из	ИЗ	PR	PR	PR	2	атриб	_	_
+4	оврагов	ОВРАГ	S	S m inan gen pl	S m inan gen pl	3	предл	_	_
+5	становится	СТАНОВИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+6	все	ВСЕ	S	S - - acc pl	S - - acc pl	7	огранич	_	_
+7	ощутительнее	ОЩУТИТЕЛЬНЫЙ	A	A comp - - plen - -	A comp - - plen - -	5	присвяз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	в	В	PR	PR	PR	11	обст	_	_
+10	лесу	ЛЕС	S	S m inan loc2 sg	S m inan loc2 sg	9	предл	_	_
+11	холоднеет	ХОЛОДНЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	сент-соч	_	_
+12	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+13	темнеет	ТЕМНЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	12	соч-союзн	_	_
+14	...	...	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Пора	ПОРА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+2	на	НА	PR	PR	PR	1	1-компл	_	_
+3	ночевку	НОЧЕВКА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	собрать	СОБИРАТЬ	V	V pf - - inf - -	V pf - - inf - -	6	предик	_	_
+3	собак	СОБАКА	S	S f anim acc pl	S f anim acc pl	2	1-компл	_	_
+4	после	ПОСЛЕ	PR	PR	PR	2	обст	_	_
+5	охоты	ОХОТА	S	S f inan gen sg	S f inan gen sg	4	предл	_	_
+6	трудно	ТРУДНО	ADV	ADV -	ADV -	1	соч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Долго	ДОЛГО	ADV	ADV -	ADV -	6	обст	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	безнадежно	БЕЗНАДЕЖНО	ADV	ADV -	ADV -	2	соч-союзн	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	тоскливо	ТОСКЛИВО	ADV	ADV -	ADV -	6	обст	_	_
+6	звенят	ЗВЕНЕТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+7	рога	РОГ	S	S m inan nom pl	S m inan nom pl	6	предик	_	_
+8	в	В	PR	PR	PR	7	атриб	_	_
+9	лесу	ЛЕС	S	S m inan loc2 sg	S m inan loc2 sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	долго	ДОЛГО	ADV	ADV -	ADV -	12	обст	_	_
+12	слышатся	СЛЫШАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	7	релят	_	_
+13	крик	КРИК	S	S m inan acc sg	S m inan acc sg	12	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	брань	БРАНЬ	S	S f inan nom sg	S f inan nom sg	13	разъяснит	_	_
+16	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+17	визг	ВИЗГ	S	S m inan nom sg	S m inan nom sg	16	соч-союзн	_	_
+18	собак	СОБАКА	S	S f anim gen pl	S f anim gen pl	17	квазиагент	_	_
+19	...	...	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Наконец	НАКОНЕЦ	ADV	ADV -	ADV -	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	уже	УЖЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	совсем	СОВСЕМ	ADV	ADV -	ADV -	5	огранич	_	_
+5	в	В	PR	PR	PR	8	обст	_	_
+6	темноте	ТЕМНОТА	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	вваливается	ВВАЛИВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+9	ватага	ВАТАГА	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+10	охотников	ОХОТНИК	S	S m anim gen pl	S m anim gen pl	9	квазиагент	_	_
+11	в	В	PR	PR	PR	9	1-компл	_	_
+12	усадьбу	УСАДЬБА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	какого-нибудь	КАКОЙ-НИБУДЬ	A	A - gen sg plen m -	A - gen sg plen m -	16	опред	_	_
+14	почти	ПОЧТИ	ADV	ADV -	ADV -	15	огранич	_	_
+15	незнакомого	НЕЗНАКОМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	16	опред	_	_
+16	холостяка	ХОЛОСТЯК	S	S m anim gen sg	S m anim gen sg	12	квазиагент	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	помещика	ПОМЕЩИК	S	S m anim gen sg	S m anim gen sg	16	аппоз	_	_
+19	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+20	наполняет	НАПОЛНЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	19	соч-союзн	_	_
+21	шумом	ШУМ	S	S m inan ins sg	S m inan ins sg	20	1-компл	_	_
+22	весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	23	опред	_	_
+23	двор	ДВОР	S	S m inan nom sg	S m inan nom sg	20	предик	_	_
+24	усадьбы	УСАДЬБА	S	S f inan gen sg	S f inan gen sg	23	квазиагент	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	27	предик	_	_
+27	озаряется	ОЗАРЯТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	23	релят	_	_
+28	фонарями	ФОНАРЬ	S	S m inan ins pl	S m inan ins pl	27	1-компл	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	свечами	СВЕЧА	S	S f inan ins pl	S f inan ins pl	28	сочин	_	_
+31	и	И	CONJ	CONJ	CONJ	30	сочин	_	_
+32	лампами	ЛАМПА	S	S f inan ins pl	S f inan ins pl	31	соч-союзн	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	вынесенными	ВЫНЕСТИ	PARTCP	PARTCP pf praet ins pl plen - pass -	PARTCP pf praet ins pl plen - pass -	0	ROOT	_	_
+35	навстречу	НАВСТРЕЧУ	ADV	ADV -	ADV -	34	обст	_	_
+36	гостям	ГОСТЬ	S	S m anim dat pl	S m anim dat pl	35	1-компл	_	_
+37	из	ИЗ	PR	PR	PR	36	атриб	_	_
+38	дому	ДОМ	S	S m inan dat sg	S m inan dat sg	37	предл	_	_
+39	...	...	SENT	SENT	SENT	38	PUNC	_	_
+

@@ -1,0 +1,106 @@
+1	В	В	PR	PR	PR	7	обст	_	_
+2	зале	ЗАЛ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	ожидания	ОЖИДАНИЕ	S	S n inan gen sg	S n inan gen sg	2	квазиагент	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	разумеется	РАЗУМЕЕТСЯ	ADV	ADV -	ADV -	7	вводн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	праздновали	ПРАЗДНОВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Вокруг	ВОКРУГ	ADV	ADV -	ADV -	3	обст	_	_
+2	наскоро	НАСКОРО	ADV	ADV -	ADV -	3	обст	_	_
+3	сдвинутых	СДВИГАТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	14	1-компл	_	_
+4	разномастных	РАЗНОМАСТНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	5	опред	_	_
+5	столов	СТОЛ	S	S m inan gen pl	S m inan gen pl	3	1-компл	_	_
+6	с	С	PR	PR	PR	5	атриб	_	_
+7	нехитрой	НЕХИТРЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	8	опред	_	_
+8	снедью	СНЕДЬ	S	S f inan ins sg	S f inan ins sg	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	но	НО	CONJ	CONJ	CONJ	3	сочин	_	_
+11	значительным	ЗНАЧИТЕЛЬНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	12	опред	_	_
+12	количеством	КОЛИЧЕСТВО	S	S n inan ins sg	S n inan ins sg	10	соч-союзн	_	_
+13	бутылок	БУТЫЛКА	S	S f inan gen pl	S f inan gen pl	12	квазиагент	_	_
+14	пировали	ПИРОВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+15	офицеры	ОФИЦЕР	S	S m anim nom pl	S m anim nom pl	14	предик	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	10	обст	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	предик	_	_
+3	с	С	PR	PR	PR	2	атриб	_	_
+4	Гридневым	ГРИДНЕВ	S	S m anim ins sg	S m anim ins sg	3	предл	_	_
+5	вошли	ВХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	все	ВСЕ	S	S - - acc pl	S - - acc pl	10	1-компл	_	_
+8	как	КАК	CONJ	CONJ	CONJ	7	сравнит	_	_
+9	раз	РАЗ	S	S m inan nom sg	S m inan nom sg	8	сравн-союзн	_	_
+10	грянули	ГРЯНУТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+11	«	«	_	_	PUNC	10	PUNC	_	_
+12	ура	УРА	INTJ	INTJ	INTJ	10	вводн	_	_
+13	»	»	_	_	PUNC	12	PUNC	_	_
+14	,	,	,	,	PUNC	12	PUNC	_	_
+15	подняв	ПОДЫМАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	10	обст	_	_
+16	кружки	КРУЖОК	S	S f inan gen sg	S f inan gen sg	15	1-компл	_	_
+17	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+18	обернувшись	ОБЕРТЫВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	17	соч-союзн	_	_
+19	к	К	PR	PR	PR	18	2-компл	_	_
+20	столу	СТОЛ	S	S m inan dat sg	S m inan dat sg	19	предл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	за	ЗА	PR	PR	PR	24	1-компл	_	_
+23	которым	КОТОРЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	22	предл	_	_
+24	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	сент-соч	_	_
+25	командир	КОМАНДИР	S	S m anim nom sg	S m anim nom sg	24	предик	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Знаменитый	ЗНАМЕНИТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+2	белый	БЕЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	китель	КИТЕЛЬ	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+4	генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	3	квазиагент	_	_
+5	резко	РЕЗКО	ADV	ADV -	ADV -	6	обст	_	_
+6	контрастировал	КОНТРАСТИРОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	с	С	PR	PR	PR	6	1-компл	_	_
+8	черными	ЧЕРНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	13	опред	_	_
+9	армейскими	АРМЕЙСКИЙ	A	A - ins pl plen - -	A - ins pl plen - -	13	опред	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	серыми	СЕРЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	10	соч-союзн	_	_
+12	казачьими	КАЗАЧИЙ	A	A - ins pl plen - -	A - ins pl plen - -	13	опред	_	_
+13	мундирами	МУНДИР	S	S m inan ins pl	S m inan ins pl	7	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Кроме	КРОМЕ	PR	PR	PR	7	вводн	_	_
+2	самого	САМ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+3	Соболева	СОБОЛЕВ	S	S m anim gen sg	S m anim gen sg	1	предл	_	_
+4	за	ЗА	PR	PR	PR	7	обст	_	_
+5	почетным	ПОЧЕТНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	6	опред	_	_
+6	столом	СТОЛ	S	S m inan ins sg	S m inan ins sg	4	предл	_	_
+7	сидели	СИДЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+8	старшие	СТАРШИЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	военачальники	ВОЕНАЧАЛЬНИК	S	S m anim nom pl	S m anim nom pl	7	предик	_	_
+10	(	(	_	_	PUNC	11	PUNC	_	_
+11	из	ИЗ	PR	PR	PR	14	1-компл	_	_
+12	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	11	предл	_	_
+13	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	14	предик	_	_
+14	знала	ЗНАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	7	сент-соч	_	_
+15	только	ТОЛЬКО	PART	PART	PART	16	огранич	_	_
+16	Перепелкина	ПЕРЕПЕЛКИН	S	S m anim acc sg	S m anim acc sg	14	примыкат	_	_
+17	)	)	_	_	PUNC	16	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+19	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	18	соч-союзн	_	_
+20	'	'	_	_	PUNC	19	PUNC	_	_
+21	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Лица	ЛИЦО	S	S n inan nom pl	S n inan nom pl	4	предик	_	_
+2	у	У	PR	PR	PR	1	атриб	_	_
+3	всех	ВСЕ	S	S - - gen pl	S - - gen pl	2	предл	_	_
+4	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	веселые	ВЕСЕЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	раскрасневшиеся	РАСКРАСНЕТЬСЯ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	5	сочин	_	_
+8	–	–	–	–	PUNC	11	1-компл	_	_
+9	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	11	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	праздновали	ПРАЗДНОВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	4	сент-соч	_	_
+12	уже	УЖЕ	ADV	ADV -	ADV -	13	огранич	_	_
+13	давно	ДАВНО	ADV	ADV -	ADV -	11	обст	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

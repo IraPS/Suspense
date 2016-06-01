@@ -1,0 +1,29 @@
+1	Поскольку	ПОСКОЛЬКУ	CONJ	CONJ	CONJ	12	обст	_	_
+2	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	опред	_	_
+3	'	'	_	_	PUNC	2	PUNC	_	_
+4	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	5	предик	_	_
+5	казался	КАЗАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	подч-союзн	_	_
+6	расслабленным	РАССЛАБЛЕННЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	как	КАК	CONJ	CONJ	CONJ	6	сравнит	_	_
+9	никогда	НИКОГДА	ADV	ADV -	ADV -	8	сравн-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	12	предик	_	_
+12	задала	ЗАДАВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+13	вопрос	ВОПРОС	S	S m inan acc sg	S m inan acc sg	12	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	давно	ДАВНО	ADV	ADV -	ADV -	20	обст	_	_
+16	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	20	1-компл	_	_
+17	интересовавший	ИНТЕРЕСОВАТЬ	PARTCP	PARTCP ipf praet acc sg plen m act inan	PARTCP ipf praet acc sg plen m act inan	18	опред	_	_
+18	:	:	:	:	PUNC	20	опред	_	_
+19	–	–	–	–	PUNC	20	опред	_	_
+20	Шарль	ШАРЛЬ	S	S m anim nom sg	S m anim nom sg	13	релят	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	а	А	CONJ	CONJ	CONJ	12	сент-соч	_	_
+23	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	22	соч-союзн	_	_
+24	ли	ЛИ	PART	PART	PART	23	огранич	_	_
+25	у	У	PR	PR	PR	23	присвяз	_	_
+26	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	25	предл	_	_
+27	семья	СЕМЬЯ	S	S f inan nom sg	S f inan nom sg	23	предик	_	_
+28	?	?	SENT	SENT	SENT	27	PUNC	_	_
+

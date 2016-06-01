@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"самодержец","gr":"S,m,anim=nom,sg"}],"text":"Самодержец"}
+{"analysis":[{"lex":"испытующий","gr":"A=sg,brev,n"}],"text":"испытующе"}
+{"analysis":[{"lex":"посмотреть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"посмотрел"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=acc"},{"lex":"он","gr":"SPRO,sg,3p,m=gen"}],"text":"него"}
+{"analysis":[{"lex":"улавливать","gr":"V,tran=praet,ger,pf"}],"text":"уловив"}
+{"analysis":[{"lex":"недосказанность","gr":"S,f,inan=acc,sg"},{"lex":"недосказанность","gr":"S,f,inan=nom,sg"}],"text":"недосказанность"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Фандорин"}
+{"analysis":[{"lex":"больше","gr":"ADV="}],"text":"больше"}
+{"analysis":[{"lex":"ничто","gr":"SPRO,sg,n=gen"}],"text":"ничего"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"присовокуплять","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"присовокупил"}

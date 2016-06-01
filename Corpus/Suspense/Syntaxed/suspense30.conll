@@ -1,0 +1,39 @@
+1	Бледный	БЛЕДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	солдатик	СОЛДАТИК	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	криво	КРИВОЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+5	улыбаясь	УЛЫБАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	обст	_	_
+6	трясущимися	ТРЯСТИСЬ	PARTCP	PARTCP ipf inpraes ins pl plen - act -	PARTCP ipf inpraes ins pl plen - act -	7	опред	_	_
+7	губами	ГУБА	S	S f inan ins pl	S f inan ins pl	5	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	почесал	ПОЧЕСАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	вводн	_	_
+10	за	ЗА	PR	PR	PR	9	1-компл	_	_
+11	ухом	УХО	S	S n inan ins sg	S n inan ins sg	10	предл	_	_
+12	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+13	махнул	МАХНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	соч-союзн	_	_
+14	рукой	РУКА	S	S f inan ins sg	S f inan ins sg	13	1-компл	_	_
+15	:	:	:	:	PUNC	13	сочин	_	_
+16	-	-	-	-	PUNC	15	PUNC	_	_
+17	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Вяжи	ВЯЗАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	ребята	РЕБЯТА	S	S - anim nom pl	S - anim nom pl	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Мой	МОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	2	опред	_	_
+2	грех	ГРЕХ	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	3	2-компл	_	_
+3	пожелал	ПОЖЕЛАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	:	:	:	:	PUNC	3	1-компл	_	_
+5	"	"	_	_	PUNC	4	PUNC	_	_
+6	Чтоб	ЧТОБ	CONJ	CONJ	CONJ	3	обст	_	_
+7	те	ТОТ	A	A - acc pl plen - inan	A - acc pl plen - inan	8	1-компл	_	_
+8	лопнуть	ЛОПНУТЬ	V	V pf - - inf - -	V pf - - inf - -	6	инф-союзн	_	_
+9	!	!	!	!	PUNC	8	обст	_	_
+10	"	"	SENT	SENT	SENT	9	PUNC	_	_
+

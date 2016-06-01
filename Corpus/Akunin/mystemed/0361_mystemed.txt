@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"подходить","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"подошла"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=dat,sg"}],"text":"Эрасту"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=dat,sg"}],"text":"Петровичу"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,f,pf"}],"text":"спросила"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"это","gr":"PART="}],"text":"это"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=abl"},{"lex":"вы","gr":"SPRO,pl,2p=acc"},{"lex":"вы","gr":"SPRO,pl,2p=gen"}],"text":"вас"}
+{"analysis":[{"lex":"эразм","gr":"S,persn,m,anim=ins,sg"}],"text":"Эразмом"}
+{"analysis":[{"lex":"называть","gr":"V,tran=inpraes,sg,indic,3p,ipf"}],"text":"называет"}

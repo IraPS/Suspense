@@ -1,0 +1,33 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	 	 	 	 	PUNC	0	ROOT	_	_
+3	«	«	_	_	PUNC	2	PUNC	_	_
+4	Его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	высокопревосходительству	ВЫСОКОПРЕВОСХОДИТЕЛЬСТВО	S	S n inan dat sg	S n inan dat sg	6	2-компл	_	_
+6	генерал-адъютанту	ГЕНЕРАЛ-АДЪЮТАНТ	S	S m anim dat sg	S m anim dat sg	2	релят	_	_
+7	Л.	Л.	S	S - - nonflex nonflex	S - - nonflex nonflex	9	опред	_	_
+8	А.	А.	S	S - - nonflex nonflex	S - - nonflex nonflex	9	опред	_	_
+9	Мизинову	МИЗИНОВ	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+10	в	В	PR	PR	PR	2	обст	_	_
+11	ответ	ОТВЕТ	S	S m inan acc sg	S m inan acc sg	10	предл	_	_
+12	на	НА	PR	PR	PR	11	3-компл	_	_
+13	запрос	ЗАПРОС	S	S m inan acc sg	S m inan acc sg	12	предл	_	_
+14	от	ОТ	PR	PR	PR	2	разъяснит	_	_
+15	августа	АВГУСТ	S	S m inan gen sg	S m inan gen sg	14	предл	_	_
+16	31	31	NUM	NUM - - -	NUM - - -	17	опред	_	_
+17	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	15	квазиагент	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	полученный	ПОЛУЧАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	14	соотнос	_	_
+20	в	В	PR	PR	PR	14	соотнос	_	_
+21	1	1	NUM	NUM - - -	NUM - - -	22	количест	_	_
+22	час	ЧАС	S	S m inan acc sg	S m inan acc sg	20	предл	_	_
+23	52	52	NUM	NUM - - -	NUM - - -	24	количест	_	_
+24	минуты	МИНУТА	S	S f inan gen sg	S f inan gen sg	14	предл	_	_
+25	пополудни	ПОПОЛУДНИ	ADV	ADV -	ADV -	14	соотнос	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Сверхсрочно	СВЕРХСРОЧНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Сверхсекретно	СВЕРХСЕКРЕТНО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+

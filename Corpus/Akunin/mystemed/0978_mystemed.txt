@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"анвар","gr":"S,persn,m,anim=nom,sg"}],"text":"Анвар"}
+{"analysis":[{"lex":"эфенди","gr":"S,m,anim=abl,pl"},{"lex":"эфенди","gr":"S,m,anim=abl,sg"},{"lex":"эфенди","gr":"S,m,anim=acc,pl"},{"lex":"эфенди","gr":"S,m,anim=acc,sg"},{"lex":"эфенди","gr":"S,m,anim=dat,pl"},{"lex":"эфенди","gr":"S,m,anim=dat,sg"},{"lex":"эфенди","gr":"S,m,anim=gen,pl"},{"lex":"эфенди","gr":"S,m,anim=gen,sg"},{"lex":"эфенди","gr":"S,m,anim=ins,pl"},{"lex":"эфенди","gr":"S,m,anim=ins,sg"},{"lex":"эфенди","gr":"S,m,anim=nom,pl"},{"lex":"эфенди","gr":"S,m,anim=nom,sg"}],"text":"эфенди"}
+{"analysis":[{"lex":"про","gr":"PR="}],"text":"про"}
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"д"}
+{"analysis":[{"lex":"эвр","qual":"bastard","gr":"S,m,inan=abl,sg"}],"text":"Эвре"}
+{"analysis":[{"lex":"следовать","gr":"V,ipf=praet,sg,indic,n"}],"text":"следовало"}
+{"analysis":[{"lex":"забывать","gr":"V=inf,pf"}],"text":"забыть"}
+{"analysis":[{"lex":"доставать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"достал"}
+{"analysis":[{"lex":"часы","gr":"S,pl,inan=acc"},{"lex":"часы","gr":"S,pl,inan=nom"}],"text":"часы"}

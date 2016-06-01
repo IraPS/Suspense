@@ -1,0 +1,36 @@
+1	Лукан	ЛУКАН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	галантно	ГАЛАНТНО	ADV	ADV -	ADV -	3	обст	_	_
+3	взял	ВЗЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	3	1-компл	_	_
+5	за	ЗА	PR	PR	PR	3	обст	_	_
+6	запястье	ЗАПЯСТЬЕ	S	S n inan loc sg	S n inan loc sg	5	предл	_	_
+7	двумя	ДВА	NUM	NUM ins - -	NUM ins - -	8	количест	_	_
+8	пальцами	ПАЛЕЦ	S	S m inan ins pl	S m inan ins pl	6	3-компл	_	_
+9	(	(	_	_	PUNC	10	PUNC	_	_
+10	сверкнул	СВЕРКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+11	перстень	ПЕРСТЕНЬ	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+12	с	С	PR	PR	PR	11	атриб	_	_
+13	нешуточным	НЕШУТОЧНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	14	опред	_	_
+14	бриллиантом	БРИЛЛИАНТ	S	S m inan ins sg	S m inan ins sg	12	предл	_	_
+15	)	)	_	_	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+17	хотел	ХОТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	соч-союзн	_	_
+18	припасть	ПРИПАДАТЬ	V	V pf - - inf - -	V pf - - inf - -	17	1-компл	_	_
+19	поцелуем	ПОЦЕЛУЙ	S	S m inan ins sg	S m inan ins sg	18	1-компл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	но	НО	CONJ	CONJ	CONJ	17	сочин	_	_
+22	получил	ПОЛУЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	соч-союзн	_	_
+23	должный	ДОЛЖНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	24	опред	_	_
+24	отпор	ОТПОР	S	S m inan acc sg	S m inan acc sg	22	1-компл	_	_
+25	:	:	:	:	PUNC	26	опред	_	_
+26	–	–	–	–	PUNC	34	1-компл	_	_
+27	В	В	PR	PR	PR	26	обст	_	_
+28	Петербурге	ПЕТЕРБУРГ	S	S m inan loc sg	S m inan loc sg	27	предл	_	_
+29	у	У	PR	PR	PR	34	обст	_	_
+30	современных	СОВРЕМЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	31	опред	_	_
+31	женщин	ЖЕНЩИНА	S	S f anim gen pl	S f anim gen pl	29	предл	_	_
+32	рук	РУКА	S	S f inan gen pl	S f inan gen pl	34	1-компл	_	_
+33	не	НЕ	PART	PART	PART	34	огранич	_	_
+34	целуют	ЦЕЛОВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	10	1-компл	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+

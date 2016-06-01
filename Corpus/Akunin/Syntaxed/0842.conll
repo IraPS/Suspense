@@ -1,0 +1,15 @@
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	8	вводн	_	_
+2	ж	Ж	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	скажем	СКАЖЕМ	ADV	ADV -	ADV -	5	огранич	_	_
+5	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	8	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	туда	ТУДА	ADV	ADV -	ADV -	8	2-компл	_	_
+8	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	Турции	ТУРЦИЯ	S	S f inan gen sg	S f inan gen sg	8	разъяснит	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+13	дорога	ДОРОГА	S	S f inan nom sg	S f inan nom sg	12	соч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

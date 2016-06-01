@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"перепелкин","gr":"S,famn,m,anim=nom,sg"}],"text":"Перепелкин"}
+{"analysis":[{"lex":"торчать","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"торчал"}
+{"analysis":[{"lex":"рядом","gr":"ADV="}],"text":"рядом"}
+{"analysis":[{"lex":"со","gr":"PR="}],"text":"со"}
+{"analysis":[{"lex":"свой","gr":"APRO=dat,pl"},{"lex":"свой","gr":"APRO=ins,sg,m"},{"lex":"свой","gr":"APRO=ins,sg,n"}],"text":"своим"}
+{"analysis":[{"lex":"кумир","gr":"S,m,anim=ins,sg"}],"text":"кумиром"}
+{"analysis":[{"lex":"делать","gr":"V,ipf,tran=inpraes,ger"}],"text":"делая"}
+{"analysis":[{"lex":"вид","gr":"S,m,inan=acc,sg"},{"lex":"вид","gr":"S,m,inan=nom,sg"}],"text":"вид"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"тоже","gr":"PART="}],"text":"тоже"}
+{"analysis":[{"lex":"заинтересовывать","gr":"V=praet,sg,partcp,brev,m,pf,pass"}],"text":"заинтересован"}
+{"analysis":[{"lex":"игра","gr":"S,f,inan=ins,sg"}],"text":"игрой"}

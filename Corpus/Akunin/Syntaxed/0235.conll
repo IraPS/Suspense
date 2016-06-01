@@ -1,0 +1,142 @@
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	Глупо	ГЛУПО	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	6	2-компл	_	_
+5	–	–	–	–	PUNC	6	1-компл	_	_
+6	буркнул	БУРКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	обернулся	ОБЕРТЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	1-компл	_	_
+4	Варе	ВАР	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	неприязненно	НЕПРИЯЗНЕННЫЙ	A	A - - sg brev n -	A - - sg brev n -	5	соч-союзн	_	_
+7	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	аналит	_	_
+3	что-нибудь	ЧТО-НИБУДЬ	S	S n - acc sg	S n - acc sg	4	1-компл	_	_
+4	умеете	УМЕТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Почерк	ПОЧЕРК	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	хороший	ХОРОШИЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	CONJ	CONJ	CONJ	1	1-компл	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+4	курсы	КУРСЫ	S	S - inan acc pl	S - inan acc pl	5	опред	_	_
+5	стенографии	СТЕНОГРАФИЯ	S	S m inan gen sg	S m inan gen sg	6	1-компл	_	_
+6	закончила	ЗАКАНЧИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	соч-союзн	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	телеграфисткой	ТЕЛЕГРАФИСТКА	S	S f anim ins sg	S f anim ins sg	3	обст	_	_
+3	работала	РАБОТАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	акушеркой	АКУШЕРКА	S	S f anim ins sg	S f anim ins sg	1	соч-союзн	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	зачем-то	ЗАЧЕМ-ТО	ADV	ADV -	ADV -	3	обст	_	_
+3	приврала	ПРИВИРАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	напоследок	НАПОСЛЕДОК	ADV	ADV -	ADV -	3	обст	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Стенографисткой	СТЕНОГРАФИСТКА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	телеграфисткой	ТЕЛЕГРАФИСТКА	S	S f anim ins sg	S f anim ins sg	3	соч-союзн	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	удивился	УДИВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	предик	_	_
+2	Тогда	ТОГДА	ADV	ADV -	ADV -	4	обст	_	_
+3	тем	ТО	S	S n inan ins sg	S n inan ins sg	4	атриб	_	_
+4	более	БОЛЕЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	5	вводн	_	_
+2	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	оставлю	ОСТАВЛЯТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+6	здесь	ЗДЕСЬ	ADV	ADV -	ADV -	5	обст	_	_
+7	эту	ЭТОТ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	барышню	БАРЫШНЯ	S	S f anim acc sg	S f anim acc sg	5	1-компл	_	_
+9	с	С	PR	PR	PR	8	атриб	_	_
+10	одним	ОДИН	A	A - ins sg plen m -	A - ins sg plen m -	9	предл	_	_
+11	-	-	-	-	PUNC	10	PUNC	_	_
+12	единственным	ЕДИНСТВЕННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	13	опред	_	_
+13	условием	УСЛОВИЕ	S	S n inan ins sg	S n inan ins sg	5	2-компл	_	_
+14	:	:	:	:	PUNC	17	1-компл	_	_
+15	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	16	предик	_	_
+16	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	1-компл	_	_
+17	исполнять	ИСПОЛНЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	16	аналит	_	_
+18	обязанности	ОБЯЗАННОСТЬ	S	S f inan acc pl	S f inan acc pl	17	1-компл	_	_
+19	вашего	ВАШ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+20	секретаря	СЕКРЕТАРЬ	S	S m anim gen sg	S m anim gen sg	18	квазиагент	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Все равно	Все равно	ADV	ADV -	-	3	обст	_	_
+2	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	3	2-компл	_	_
+3	понадобится	ПОНАДОБИТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+4	какой-то	КАКОЙ-ТО	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	курьер	КУРЬЕР	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+6	или	ИЛИ	CONJ	CONJ	CONJ	5	сочин	_	_
+7	связной	СВЯЗНОЙ	S	S m anim nom sg	S m anim nom sg	6	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	вызывающий	ВЫЗЫВАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act inan	PARTCP ipf inpraes acc sg plen m act inan	3	сент-соч	_	_
+11	лишних	ЛИШНИЙ	A	A - gen pl plen - -	A - gen pl plen - -	12	опред	_	_
+12	подозрений	ПОДОЗРЕНИЕ	S	S n inan gen pl	S n inan gen pl	10	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	учтите	УЧИТЫВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	7	неакт-компл	_	_
+3	–	–	–	–	PUNC	7	1-компл	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	7	предик	_	_
+5	за	ЗА	PR	PR	PR	7	обст	_	_
+6	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	5	предл	_	_
+7	поручились	ПОРУЧАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	предик	_	_
+2	Ну	НУ	PART	PART	PART	4	вводн	_	_
+3	уж	УЖ	PART	PART	PART	4	огранич	_	_
+4	нет	НЕТ	ADV	ADV -	ADV -	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	предик	_	_
+2	в	В	PR	PR	PR	5	обст	_	_
+3	один	ОДИН	A	A - acc sg plen m inan	A - acc sg plen m inan	4	количест	_	_
+4	голос	ГОЛОС	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+5	вскричали	ВСКРИЧАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	6	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	9	соч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	закончили	ЗАКАНЧИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	соч-союзн	_	_
+3	тоже	ТОЖЕ	PART	PART	PART	4	огранич	_	_
+4	хором	ХОР	S	S m inan ins sg	S m inan ins sg	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	2	сочин	_	_
+7	уже	УЖЕ	ADV	ADV -	ADV -	8	огранич	_	_
+8	по-разному	ПО-РАЗНОМУ	ADV	ADV -	ADV -	6	соч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

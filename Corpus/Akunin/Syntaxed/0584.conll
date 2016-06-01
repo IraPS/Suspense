@@ -1,0 +1,43 @@
+1	Бу	БУ	NONLEX	NONLEX	NONLEX	0	ROOT	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	бух	БУХ	INTJ	INTJ	INTJ	1	вводн	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Бу	БУ	NONLEX	NONLEX	NONLEX	3	композ	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	бух	БУХ	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	ухали	УХАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	тяжелые	ТЯЖЕЛЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+4	осадные	ОСАДНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	орудия	ОРУДИЕ	S	S n inan nom pl	S n inan nom pl	2	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Бух	БУХ	INTJ	INTJ	INTJ	3	вводн	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	бух	БУХ	INTJ	INTJ	INTJ	0	ROOT	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	бух	БУХ	INTJ	INTJ	INTJ	3	вводн	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	пожиже	ЖИДКИЙ	A	A comp - - plen - -	A comp - - plen - -	1	атриб	_	_
+3	вторили	ВТОРИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	полевые	ПОЛЕВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	пушки	ПУШКА	S	S f inan nom pl	S f inan nom pl	3	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	4	1-компл	_	_
+2	надолго	НАДОЛГО	ADV	ADV -	ADV -	4	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	подумала	ПОДУМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Надо	НАДО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	бы	БЫ	PART	PART	PART	3	аналит	_	_
+3	позавтракать	ПОЗАВТРАКАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

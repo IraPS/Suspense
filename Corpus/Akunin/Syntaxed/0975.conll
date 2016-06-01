@@ -1,0 +1,175 @@
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Назовите	НАЗЫВАТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+3	ваши	ВАШ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+4	условия	УСЛОВИЕ	S	S n inan nom pl	S n inan nom pl	2	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	2	вводн	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	2-компл	_	_
+2	это	ЭТО	S	S n - nom sg	S n - nom sg	3	1-компл	_	_
+3	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Никаких	НИКАКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	3	опред	_	_
+3	условий	УСЛОВИЕ	S	S n inan gen pl	S n inan gen pl	1	1-компл	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	(	(	_	_	PUNC	2	PUNC	_	_
+2	Мизинов	МИЗИН	S	S m inan gen pl	S m inan gen pl	0	ROOT	_	_
+3	)	)	_	_	PUNC	2	PUNC	_	_
+4	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Немедленно	НЕМЕДЛЕННО	ADV	ADV -	ADV -	2	обст	_	_
+2	открывайте	ОТКРЫВАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	или	ИЛИ	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+6	прикажу	ПРИКАЗЫВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	4	соч-союзн	_	_
+7	подорвать	ПОДОРВАТЬ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+8	дверь	ДВЕРЬ	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+9	динамитом	ДИНАМИТ	S	S m inan ins sg	S m inan ins sg	7	2-компл	_	_
+10	!	!	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	обст	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	3	предик	_	_
+3	командуйте	КОМАНДОВАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	0	ROOT	_	_
+4	у	У	PR	PR	PR	3	2-компл	_	_
+5	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	4	предл	_	_
+6	в	В	PR	PR	PR	3	обст	_	_
+7	жандармском	ЖАНДАРМСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	8	опред	_	_
+8	корпусе	КОРПУС	S	S m inan loc sg	S m inan loc sg	6	предл	_	_
+9	!	!	SENT	SENT	SENT	8	PUNC	_	_
+
+1	(	(	_	_	PUNC	2	PUNC	_	_
+2	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	)	)	_	_	PUNC	2	PUNC	_	_
+4	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	динамитом	ДИНАМИТ	S	S m inan ins sg	S m inan ins sg	5	обст	_	_
+3	–	–	–	–	PUNC	5	1-компл	_	_
+4	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	5	предик	_	_
+5	погибнет	ПОГИБАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	1	подч-союзн	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Господа	ГОСПОДИН	S	S m anim gen sg	S m anim gen sg	1	1-компл	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	крикнул	КРИКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	опред	_	_
+3	по-французски	ПО-ФРАНЦУЗСКИ	ADV	ADV -	ADV -	2	обст	_	_
+4	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	2	2-компл	_	_
+5	'	'	_	_	PUNC	4	PUNC	_	_
+6	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	предик	_	_
+9	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	релят	_	_
+10	никакой	НИКАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	суб-копр	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	9	присвяз	_	_
+13	'	'	_	_	PUNC	12	PUNC	_	_
+14	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	12	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Это	ЭТО	S	S n - nom sg	S n - nom sg	4	предик	_	_
+3	в конце концов	в конце концов	ADV	ADV -	-	4	огранич	_	_
+4	невежливо	НЕВЕЖЛИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+2	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	4	1-компл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	даете	ДАВАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+5	поговорить	ПОГОВОРИТЬ	V	V pf - - inf - -	V pf - - inf - -	4	1-компл	_	_
+6	с	С	PR	PR	PR	5	обст	_	_
+7	дамой	ДАМА	S	S f anim ins sg	S f anim ins sg	6	предл	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Шарль	ШАРЛЬ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Или	ИЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	как	КАК	ADV	ADV -	ADV -	4	обст	_	_
+3	там	ТАМ	ADV	ADV -	ADV -	4	обст	_	_
+4	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	1	соч-союзн	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	зычным	ЗЫЧНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	4	опред	_	_
+3	генеральским	ГЕНЕРАЛЬСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	4	опред	_	_
+4	басом	БАС	S	S m inan ins sg	S m inan ins sg	5	обст	_	_
+5	заорал	ЗАОРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Если	ЕСЛИ	CONJ	CONJ	CONJ	1	обст	_	_
+3	с	С	PR	PR	PR	7	обст	_	_
+4	головы	ГОЛОВА	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	Варвары	ВАРВАРА	S	S f anim gen sg	S f anim gen sg	4	квазиагент	_	_
+6	Андреевны	АНДРЕЕВНА	S	S f anim gen sg	S f anim gen sg	5	аппоз	_	_
+7	упадет	УПАСТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	2	подч-союзн	_	_
+8	хоть	ХОТЬ	PART	PART	PART	9	огранич	_	_
+9	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	10	количест	_	_
+10	волос	ВОЛОС	S	S m inan gen pl	S m inan gen pl	7	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	14	предик	_	_
+13	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	14	1-компл	_	_
+14	вздерну	ВЗДЕРГИВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	10	релят	_	_
+15	на	НА	PR	PR	PR	14	1-компл	_	_
+16	столбе	СТОЛБ	S	S m inan loc sg	S m inan loc sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	безо	БЕЗО	PR	PR	PR	14	обст	_	_
+19	всякого	ВСЯКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+20	суда	СУД	S	S m inan gen sg	S m inan gen sg	18	предл	_	_
+21	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+22	следствия	СЛЕДСТВИЕ	S	S n inan gen sg	S n inan gen sg	21	соч-союзн	_	_
+23	!	!	SENT	SENT	SENT	22	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	одно	ОДИН	A	A - nom sg plen n -	A - nom sg plen n -	4	количест	_	_
+4	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	1	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	1	сент-соч	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+8	застрелю	ЗАСТРЕЛИВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	6	соч-союзн	_	_
+9	сначала	СНАЧАЛА	ADV	ADV -	ADV -	8	обст	_	_
+10	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	а	А	CONJ	CONJ	CONJ	1	сочин	_	_
+13	потом	ПОТОМ	ADV	ADV -	ADV -	14	обст	_	_
+14	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	12	соч-союзн	_	_
+15	!	!	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	драматически	ДРАМАТИЧЕСКИ	ADV	ADV -	ADV -	3	обст	_	_
+3	повысил	ПОВЫШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	голос	ГОЛОС	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+5	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	аппоз	_	_
+6	'	'	_	_	PUNC	5	PUNC	_	_
+7	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	3	обст	_	_
+8	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+9	внезапно	ВНЕЗАПНО	ADV	ADV -	ADV -	10	обст	_	_
+10	подмигнул	ПОДМИГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+11	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	10	2-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	словно	СЛОВНО	CONJ	CONJ	CONJ	10	сравнит	_	_
+14	отмочил	ОТМАЧИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	сравн-союзн	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	вполне	ВПОЛНЕ	ADV	ADV -	ADV -	17	огранич	_	_
+17	пристойную	ПРИСТОЙНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	предик	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	но	НО	CONJ	CONJ	CONJ	17	сочин	_	_
+20	ужасно	УЖАСНО	ADV	ADV -	ADV -	21	огранич	_	_
+21	смешную	СМЕШНОЙ	A	A - acc sg plen f -	A - acc sg plen f -	22	опред	_	_
+22	шутку	ШУТКА	S	S f inan acc sg	S f inan acc sg	19	соч-союзн	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

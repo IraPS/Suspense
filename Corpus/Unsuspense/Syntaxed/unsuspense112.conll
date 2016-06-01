@@ -1,0 +1,86 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	высок	ВЫСОКИЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+3	ростом	РОСТ	S	S m inan ins sg	S m inan ins sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	худощав	ХУДОЩАВЫЙ	A	A - - sg brev m -	A - - sg brev m -	2	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	5	сочин	_	_
+8	широкоплеч	ШИРОКОПЛЕЧИЙ	A	A - - sg brev m -	A - - sg brev m -	7	соч-союзн	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	строен	СТРОЙНЫЙ	A	A - - sg brev m -	A - - sg brev m -	9	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+13	лицом	ЛИЦО	S	S n inan ins sg	S n inan ins sg	15	атриб	_	_
+14	—	—	—	—	PUNC	15	опред	_	_
+15	красавец	КРАСАВЕЦ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+16	цыган	ЦЫГАН	S	S m anim nom sg	S m anim nom sg	15	аппоз	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	4	предик	_	_
+2	у	У	PR	PR	PR	4	обст	_	_
+3	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	2	предл	_	_
+4	блестят	БЛЕСТЕТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+5	дико	ДИКО	ADV	ADV -	ADV -	4	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	9	предик	_	_
+8	очень	ОЧЕНЬ	ADV	ADV -	ADV -	9	огранич	_	_
+9	ловок	ЛОВКИЙ	A	A - - sg brev m -	A - - sg brev m -	4	сент-соч	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	в	В	PR	PR	PR	0	ROOT	_	_
+12	шелковой	ШЕЛКОВЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	14	опред	_	_
+13	малиновой	МАЛИНОВЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	14	опред	_	_
+14	рубахе	РУБАХА	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	бархатных	БАРХАТНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	17	опред	_	_
+17	шароварах	ШАРОВАРЫ	S	S - inan loc pl	S - inan loc pl	14	сочин	_	_
+18	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+19	длинных	ДЛИННЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	20	опред	_	_
+20	сапогах	САПОГ	S	S m inan loc pl	S m inan loc pl	18	соч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Напугав	НАПУГАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	12	обст	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	собаку	СОБАКА	S	S f anim acc sg	S f anim acc sg	2	соч-союзн	_	_
+4	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+5	гостей	ГОСТЬ	S	S m anim acc pl	S m anim acc pl	4	соч-союзн	_	_
+6	выстрелом	ВЫСТРЕЛ	S	S m inan ins sg	S m inan ins sg	1	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	предик	_	_
+9	шутливо	ШУТЛИВО	ADV	ADV -	ADV -	12	вводн	_	_
+10	-	-	-	-	PUNC	9	PUNC	_	_
+11	важно	ВАЖНО	ADV	ADV -	ADV -	12	обст	_	_
+12	декламирует	ДЕКЛАМИРОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+13	баритоном	БАРИТОН	S	S m inan ins sg	S m inan ins sg	12	1-компл	_	_
+14	:	:	:	:	PUNC	15	опред	_	_
+15	Пора	ПОРА	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	пора	ПОРА	ADV	ADV -	ADV -	18	обст	_	_
+18	седлать	СЕДЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	15	разъяснит	_	_
+19	проворного	ПРОВОРНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	20	опред	_	_
+20	донца	ДОНЕЦ	S	S f inan acc sg	S f inan acc sg	18	1-компл	_	_
+21	И	И	CONJ	CONJ	CONJ	18	сочин	_	_
+22	звонкий	ЗВОНКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	23	опред	_	_
+23	рог	РОГ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+24	за	ЗА	PR	PR	PR	26	обст	_	_
+25	плечи	ПЛЕЧО	S	S n inan acc pl	S n inan acc pl	24	предл	_	_
+26	перекинуть	ПЕРЕКИДЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	23	предик	_	_
+27	!	!	SENT	SENT	SENT	26	PUNC	_	_
+
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	громко	ГРОМКО	ADV	ADV -	ADV -	4	обст	_	_
+4	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	соч-союзн	_	_
+5	:	:	:	:	PUNC	6	опред	_	_
+6	—	—	—	—	PUNC	4	3-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Ну	НУ	PART	PART	PART	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	нечего	НЕЧЕГО	S	S n inan gen sg	S n inan gen sg	6	1-компл	_	_
+6	терять	ТЕРЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	инф-союзн	_	_
+7	золотое	ЗОЛОТОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	8	опред	_	_
+8	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	6	длительн	_	_
+9	!	!	SENT	SENT	SENT	8	PUNC	_	_
+

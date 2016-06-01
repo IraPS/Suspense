@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"граф","gr":"S,m,anim=nom,sg"}],"text":"Граф"}
+{"analysis":[{"lex":"подвигать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"подвинул"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=abl"},{"lex":"я","gr":"SPRO,sg,1p=dat"}],"text":"мне"}
+{"analysis":[{"lex":"кресло","gr":"S,n,inan=acc,pl"},{"lex":"кресло","gr":"S,n,inan=gen,sg"},{"lex":"кресло","gr":"S,n,inan=nom,pl"}],"text":"кресла"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"живой","gr":"A=dat,pl,plen,supr"},{"lex":"живой","gr":"A=ins,sg,plen,supr,m"},{"lex":"живой","gr":"A=ins,sg,plen,supr,n"}],"text":"живейшим"}
+{"analysis":[{"lex":"любопытство","gr":"S,n,inan=ins,sg"}],"text":"любопытством"}
+{"analysis":[{"lex":"услышать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"услышал"}
+{"analysis":[{"lex":"следующий","gr":"A=acc,sg,plen,m,inan"},{"lex":"следующий","gr":"A=nom,sg,plen,m"}],"text":"следующий"}
+{"analysis":[{"lex":"рассказ","gr":"S,m,inan=acc,sg"},{"lex":"рассказ","gr":"S,m,inan=nom,sg"}],"text":"рассказ"}

@@ -1,0 +1,28 @@
+1	–	–	–	–	PUNC	8	предик	_	_
+2	Вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	в	В	PR	PR	PR	1	обст	_	_
+4	клубе	КЛУБ	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+5	Лукана	ЛУКАН	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	за	ЗА	PR	PR	PR	3	сочин	_	_
+7	дурака	ДУРАК	S	S m anim acc sg	S m anim acc sg	6	предл	_	_
+8	держат	ДЕРЖАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	18	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	а	А	CONJ	CONJ	CONJ	8	сент-соч	_	_
+11	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	предик	_	_
+12	поумнее	УМНЫЙ	A	A comp - - plen - -	A comp - - plen - -	10	соч-союзн	_	_
+13	Криденера	КРИДЕНЕРА	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+14	оказался	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	вводн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	 	 	 	 	PUNC	18	обст	_	_
+17	–	–	–	–	PUNC	18	1-компл	_	_
+18	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+19	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	18	предик	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	потому что	потому что	CONJ	CONJ	ZERO	18	обст	_	_
+22	молчать	МОЛЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	25	предик	_	_
+23	больше	БОЛЬШЕ	ADV	ADV -	ADV -	25	присвяз	_	_
+24	не	НЕ	PART	PART	PART	25	огранич	_	_
+25	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	21	подч-союзн	_	_
+26	сил	СИЛА	S	S f inan gen pl	S f inan gen pl	25	присвяз	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

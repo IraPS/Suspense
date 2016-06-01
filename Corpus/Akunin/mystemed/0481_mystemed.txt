@@ -1,0 +1,3 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"начинать","gr":"V,tran=praet,sg,indic,f,pf"}],"text":"начала"}
+{"analysis":[{"lex":"злиться","gr":"V,ipf,intr=inf"}],"text":"злиться"}

@@ -1,0 +1,52 @@
+1	–	–	–	–	PUNC	5	обст	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	давеча	ДАВЕЧА	ADV	ADV -	ADV -	5	обст	_	_
+5	заметила	ЗАМЕЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+8	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	20	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	как	КАК	CONJ	CONJ	CONJ	8	сравнит	_	_
+11	учитель	УЧИТЕЛЬ	S	S m anim nom sg	S m anim nom sg	10	сравн-союзн	_	_
+12	танцев	ТАНЕЦ	S	S m inan gen pl	S m inan gen pl	11	1-компл	_	_
+13	:	:	:	:	PUNC	14	опред	_	_
+14	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	18	обст	_	_
+15	-	-	-	-	PUNC	14	PUNC	_	_
+16	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	14	кратн	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	три	ТРИ	NUM	NUM nom - -	NUM nom - -	12	аппрокс-колич	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	7	подч-союзн	_	_
+21	-	-	-	-	PUNC	20	PUNC	_	_
+22	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	20	кратн	_	_
+23	-	-	-	-	PUNC	22	PUNC	_	_
+24	три	ТРИ	NUM	NUM nom - -	NUM nom - -	20	распред	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Кто	КТО	S	S m - nom sg	S m - nom sg	3	предик	_	_
+2	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	3	1-компл	_	_
+3	научил	НАУЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	этой	ЭТОТ	A	A - ins sg plen f -	A - ins sg plen f -	6	опред	_	_
+5	глупой	ГЛУПЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	6	опред	_	_
+6	манере	МАНЕРА	S	S f inan dat sg	S f inan dat sg	3	1-компл	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	учителя	УЧИТЕЛЬ	S	S m anim nom pl	S m anim nom pl	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	 	 	 	 	PUNC	3	опред	_	_
+6	–	–	–	–	PUNC	8	1-компл	_	_
+7	туманно	ТУМАННО	ADV	ADV -	ADV -	8	обст	_	_
+8	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	разъяснит	_	_
+9	Фандорин	ФАНДОРИНА	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+11	невежливо	НЕВЕЖЛИВЫЙ	A	A - - sg brev n -	A - - sg brev n -	12	обст	_	_
+12	уткнулся	УТЫКАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	соч-союзн	_	_
+13	в	В	PR	PR	PR	12	2-компл	_	_
+14	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	16	опред	_	_
+15	турецкую	ТУРЕЦКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	16	опред	_	_
+16	книжку	КНИЖКА	S	S f inan acc sg	S f inan acc sg	13	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

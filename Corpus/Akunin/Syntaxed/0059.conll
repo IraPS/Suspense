@@ -1,0 +1,19 @@
+1	–	–	–	–	PUNC	11	1-компл	_	_
+2	Второй	ВТОРОЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	суб-копр	_	_
+3	от	ОТ	PR	PR	PR	2	атриб	_	_
+4	к	К	S	S - - nonflex nonflex	S - - nonflex nonflex	3	предл	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	края	КРАЙ	S	S m inan gen sg	S m inan gen sg	4	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	11	обст	_	_
+9	–	–	–	–	PUNC	11	1-компл	_	_
+10	сосредоточенно	СОСРЕДОТОЧЕННО	ADV	ADV -	ADV -	11	обст	_	_
+11	прищурился	ПРИЩУРИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	останавливаясь	ОСТАНАВЛИВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	11	обст	_	_
+16	на	НА	PR	PR	PR	15	обст	_	_
+17	крыльце	КРЫЛЬЦО	S	S n inan loc sg	S n inan loc sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

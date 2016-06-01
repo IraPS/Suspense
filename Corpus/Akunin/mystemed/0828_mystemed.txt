@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"канцлер","gr":"S,m,anim=nom,sg"}],"text":"Канцлер"}
+{"analysis":[{"lex":"выразительный","gr":"A=sg,brev,n"}],"text":"выразительно"}
+{"analysis":[{"lex":"посмотреть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"посмотрел"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=acc,sg"}],"text":"Варю"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=acc,sg"},{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=gen,sg"}],"text":"Фандорина"}

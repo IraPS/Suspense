@@ -1,0 +1,45 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Чэтники	ЧЭТНИК	S	S m anim nom pl	S m anim nom pl	1	предик	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Опросил	ОПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	цивильный	ЦИВИЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+4	с	С	PR	PR	PR	3	атриб	_	_
+5	сильным	СИЛЬНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	7	опред	_	_
+6	английским	АНГЛИЙСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	7	опред	_	_
+7	акцентом	АКЦЕНТ	S	S m inan ins sg	S m inan ins sg	4	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	8	1-компл	_	_
+2	Ноу	НОУ	A	A - loc pl plen - -	A - loc pl plen - -	1	опред	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	сэр	СЭР	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	8	неакт-компл	_	_
+7	–	–	–	–	PUNC	8	1-компл	_	_
+8	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	Фандорин	ФАНДОРИНА	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+11	добавил	ДОБАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	соч-союзн	_	_
+12	еще	ЕЩЕ	ADV	ADV -	ADV -	13	огранич	_	_
+13	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	11	1-компл	_	_
+14	на	НА	PR	PR	PR	13	атриб	_	_
+15	том	ТОТ	A	A - loc sg plen m -	A - loc sg plen m -	19	опред	_	_
+16	же	ЖЕ	CONJ	CONJ	CONJ	15	огранич	_	_
+17	языке	ЯЗЫК	S	S m inan loc sg	S m inan loc sg	16	соч-союзн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	но	НО	CONJ	CONJ	CONJ	14	предл	_	_
+20	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	22	предик	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	поняла	ПОНИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	сент-соч	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	ибо	ИБО	CONJ	CONJ	CONJ	22	обст	_	_
+25	в	В	PR	PR	PR	27	обст	_	_
+26	гимназии	ГИМНАЗИЯ	S	S f inan loc sg	S f inan loc sg	25	предл	_	_
+27	учила	УЧИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	24	подч-союзн	_	_
+28	французский	ФРАНЦУЗСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	27	1-компл	_	_
+29	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+30	немецкий	НЕМЕЦКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	29	соч-союзн	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+

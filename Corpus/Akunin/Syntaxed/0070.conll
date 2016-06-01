@@ -1,0 +1,23 @@
+1	Варварское	ВАРВАРСКИЙ	A	A - acc sg plen n -	A - acc sg plen n -	2	опред	_	_
+2	седло	СЕДЛО	S	S n inan acc sg	S n inan acc sg	7	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	орудие	ОРУДИЕ	S	S n inan nom sg	S n inan nom sg	7	предик	_	_
+5	пытки	ПЫТКА	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	доставляло	ДОСТАВЛЯТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+8	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	7	2-компл	_	_
+9	массу	МАССА	S	S f inan acc sg	S f inan acc sg	7	сочин	_	_
+10	неудобств	НЕУДОБСТВО	S	S n inan gen pl	S n inan gen pl	9	квазиагент	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	но	НО	CONJ	CONJ	CONJ	7	сент-соч	_	_
+13	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	14	предик	_	_
+14	терпела	ТЕРПЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	12	соч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	19	обст	_	_
+17	от	ОТ	PR	PR	PR	16	атриб	_	_
+18	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	17	предл	_	_
+19	меняя	МЕНЯТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	14	обст	_	_
+20	центр	ЦЕНТР	S	S m inan nom sg	S m inan nom sg	14	сент-соч	_	_
+21	тяжести	ТЯЖЕСТЬ	S	S f inan gen sg	S f inan gen sg	20	квазиагент	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

@@ -1,0 +1,26 @@
+1	Назревала	НАЗРЕВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+2	рубка	РУБКА	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	вертела	ВЕРТЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	2	1-компл	_	_
+4	то	ТО	CONJ	CONJ	CONJ	2	соотнос	_	_
+5	туда	ТУДА	ADV	ADV -	ADV -	2	2-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	то	ТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+8	сюда	СЮДА	ADV	ADV -	ADV -	10	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	забыв	ЗАБЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	17	обст	_	_
+11	об	ОБ	PR	PR	PR	10	1-компл	_	_
+12	опасности	ОПАСНОСТЬ	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	 	 	 	 	PUNC	17	предик	_	_
+15	–	–	–	–	PUNC	17	обст	_	_
+16	зрелище	ЗРЕЛИЩЕ	S	S n inan nom sg	S n inan nom sg	17	предик	_	_
+17	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	7	подч-союзн	_	_
+18	страшным	СТРАШНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	17	присвяз	_	_
+19	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+20	красивым	КРАСИВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	19	соч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

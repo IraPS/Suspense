@@ -1,0 +1,71 @@
+1	Долговязая	ДОЛГОВЯЗЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	фигура	ФИГУРА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	атриб	_	_
+4	котелке	КОТЕЛОК	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	рединготе	РЕДИНГОТ	S	S m inan loc sg	S m inan loc sg	5	соч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	нескладно	НЕСКЛАДНО	ADV	ADV -	ADV -	9	обст	_	_
+9	сидевшая	СИДЕТЬ	PARTCP	PARTCP ipf praet nom sg plen f act -	PARTCP ipf praet nom sg plen f act -	2	опред	_	_
+10	на	НА	PR	PR	PR	9	обст	_	_
+11	понурой	ПОНУРЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	13	опред	_	_
+12	рыжей	РЫЖИЙ	A	A - loc sg plen f -	A - loc sg plen f -	13	опред	_	_
+13	кобыле	КОБЫЛА	S	S f anim dat sg	S f anim dat sg	10	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	 	 	 	 	PUNC	9	1-компл	_	_
+16	–	–	–	–	PUNC	9	2-компл	_	_
+17	обознаться	ОБОЗНАВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+18	невозможно	НЕВОЗМОЖНО	ADV	ADV -	ADV -	17	обст	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	У	У	PR	PR	PR	3	обст	_	_
+2	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	1	предл	_	_
+3	возникло	ВОЗНИКАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+4	ощущение	ОЩУЩЕНИЕ	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+5	deja	DEJA	NONLEX	NONLEX	NONLEX	4	аппоз	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	vu	VU	NONLEX	NONLEX	NONLEX	5	аппоз	_	_
+8	:	:	:	:	PUNC	4	опред	_	_
+9	во время	во время	PR	PR	ZERO	8	обст	_	_
+10	третьей	ТРЕТИЙ	A	A - gen sg plen f -	A - gen sg plen f -	11	опред	_	_
+11	Плевны	ПЛЕВНА	S	S f inan gen sg	S f inan gen sg	9	предл	_	_
+12	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	15	предик	_	_
+13	точно	ТОЧНО	ADV	ADV -	ADV -	14	огранич	_	_
+14	так же	так же	ADV	ADV -	-	15	обст	_	_
+15	возвращалась	ВОЗВРАЩАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	3	сент-соч	_	_
+16	к	К	PR	PR	PR	15	2-компл	_	_
+17	расположению	РАСПОЛОЖЕНИЕ	S	S n inan dat sg	S n inan dat sg	16	предл	_	_
+18	армии	АРМИЯ	S	S f inan gen sg	S f inan gen sg	17	1-компл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	и	И	CONJ	CONJ	CONJ	15	сент-соч	_	_
+21	точно	ТОЧНО	ADV	ADV -	ADV -	26	обст	_	_
+22	так же	так же	ADV	ADV -	-	26	обст	_	_
+23	на	НА	PR	PR	PR	26	обст	_	_
+24	дороге	ДОРОГА	S	S f inan dat sg	S f inan dat sg	23	предл	_	_
+25	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	26	1-компл	_	_
+26	повстречался	ПОВСТРЕЧАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	20	соч-союзн	_	_
+27	ирландец	ИРЛАНДЕЦ	S	S m anim nom sg	S m anim nom sg	26	предик	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Только	ТОЛЬКО	PART	PART	PART	2	огранич	_	_
+2	тогда	ТОГДА	ADV	ADV -	ADV -	3	обст	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	жарко	ЖАРКО	ADV	ADV -	ADV -	3	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	4	сочин	_	_
+7	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	6	соч-союзн	_	_
+8	холодно	ХОЛОДНО	ADV	ADV -	ADV -	3	обст	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	да	ДА	CONJ	CONJ	CONJ	3	сент-соч	_	_
+11	и	И	CONJ	CONJ	CONJ	12	соотнос	_	_
+12	выглядела	ВЫГЛЯДЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	10	соч-союзн	_	_
+13	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	17	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	наверно	НАВЕРНО	ADV	ADV -	ADV -	17	вводн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	получше	ХОРОШО	ADV	ADV comp	ADV comp	12	обст	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

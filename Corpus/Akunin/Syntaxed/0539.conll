@@ -1,0 +1,15 @@
+1	В	В	PR	PR	PR	4	обст	_	_
+2	толпе	ТОЛПА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	одобрительно	ОДОБРИТЕЛЬНО	ADV	ADV -	ADV -	4	обст	_	_
+4	зашумели	ЗАШУМЕТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	кто-то	КТО-ТО	S	S m - nom sg	S m - nom sg	8	1-компл	_	_
+7	даже	ДАЖЕ	PART	PART	PART	8	огранич	_	_
+8	крикнул	КРИКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+9	:	:	:	:	PUNC	8	2-компл	_	_
+10	«	«	_	_	PUNC	9	PUNC	_	_
+11	Браво	БРАВО	INTJ	INTJ	INTJ	8	вводн	_	_
+12	!	!	!	!	PUNC	8	2-компл	_	_
+13	»	»	_	_	PUNC	12	PUNC	_	_
+14	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

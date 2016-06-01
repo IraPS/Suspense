@@ -1,0 +1,273 @@
+1	Теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	4	обст	_	_
+2	восстановим	ВОССТАНАВЛИВАТЬ	V	V pf - pl imper - 1p	V pf - pl imper - 1p	3	опред	_	_
+3	события	СОБЫТИЕ	S	S n inan nom pl	S n inan nom pl	4	предик	_	_
+4	30	30	NUM	NUM - - -	NUM - - -	0	ROOT	_	_
+5	августа	АВГУСТ	S	S m inan gen sg	S m inan gen sg	4	атриб	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+2	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	действуя	ДЕЙСТВОВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	обст	_	_
+5	по	ПО	PR	PR	PR	4	обст	_	_
+6	собственной	СОБСТВЕННЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	7	опред	_	_
+7	инициативе	ИНИЦИАТИВА	S	S f inan dat sg	S f inan dat sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	прорвал	ПРОРВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+10	турецкую	ТУРЕЦКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+11	оборону	ОБОРОНА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+13	вышел	ВЫХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	соч-союзн	_	_
+14	на	НА	PR	PR	PR	13	2-компл	_	_
+15	южную	ЮЖНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	16	опред	_	_
+16	окраину	ОКРАИНА	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+17	Плевны	ПЛЕВНА	S	S f inan gen sg	S f inan gen sg	16	квазиагент	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	15	предик	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	понятно	ПОНЯТНЫЙ	A	A comp2 - - plen - -	A comp2 - - plen - -	2	соч-союзн	_	_
+4	–	–	–	–	PUNC	15	обст	_	_
+5	ведь	ВЕДЬ	PART	PART	PART	15	огранич	_	_
+6	предупрежденный	ПРЕДУПРЕЖДАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	15	обст	_	_
+7	своим	СВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	8	опред	_	_
+8	агентом	АГЕНТ	S	S m anim ins sg	S m anim ins sg	6	агент	_	_
+9	о	О	PR	PR	PR	6	3-компл	_	_
+10	плане	ПЛАН	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+11	нашего	НАШ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	наступления	НАСТУПЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	10	квазиагент	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	15	предик	_	_
+15	стянул	СТЯГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+16	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	17	опред	_	_
+17	силы	СИЛА	S	S f inan gen sg	S f inan gen sg	15	1-компл	_	_
+18	в	В	PR	PR	PR	15	2-компл	_	_
+19	центр	ЦЕНТР	S	S m inan acc sg	S m inan acc sg	18	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Удар	УДАР	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+2	Соболева	СОБОЛЕВА	S	S m anim gen sg	S m anim gen sg	1	квазиагент	_	_
+3	застал	ЗАСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	3	1-компл	_	_
+5	врасплох	ВРАСПЛОХ	ADV	ADV -	ADV -	3	обст	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	4	соотнос	_	_
+3	наше	НАШ	A	A - nom sg plen n -	A - nom sg plen n -	4	опред	_	_
+4	командование	КОМАНДОВАНИЕ	S	S n inan nom sg	S n inan nom sg	9	предик	_	_
+5	вовремя	ВОВРЕМЯ	ADV	ADV -	ADV -	9	обст	_	_
+6	об	ОБ	PR	PR	PR	9	обст	_	_
+7	успехе	УСПЕХ	S	S m inan loc sg	S m inan loc sg	6	предл	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	узнало	УЗНАВАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	9	сент-соч	_	_
+12	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+13	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	соч-союзн	_	_
+14	недостаточно	НЕДОСТАТОЧНО	ADV	ADV -	ADV -	13	1-компл	_	_
+15	сил	СИЛА	S	S f inan gen pl	S f inan gen pl	14	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	13	обст	_	_
+18	двигаться	ДВИГАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	17	инф-союзн	_	_
+19	дальше	ДАЛЕКО	ADV	ADV comp	ADV comp	18	обст	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Маклафлин	МАКЛАФЛИН	S	S m inan nom sg	S m inan nom sg	12	предик	_	_
+2	с	С	PR	PR	PR	1	1-компл	_	_
+3	прочими	ПРОЧИЙ	A	A - ins pl plen - -	A - ins pl plen - -	4	опред	_	_
+4	журналистами	ЖУРНАЛИСТ	S	S m anim ins pl	S m anim ins pl	2	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	иностранными	ИНОСТРАННЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	7	опред	_	_
+7	наблюдателями	НАБЛЮДАТЕЛЬ	S	S m anim ins pl	S m anim ins pl	5	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	среди	СРЕДИ	PR	PR	PR	12	обст	_	_
+10	которых	КОТОРЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	замечу	ЗАМЕЧАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+13	мимоходом	МИМОХОДОМ	ADV	ADV -	ADV -	12	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	находился	НАХОДИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	1-компл	_	_
+16	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+17	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	21	предик	_	_
+18	Веллсли	ВЕЛЛСЛИ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	17	аппоз	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	случайно	СЛУЧАЙНО	ADV	ADV -	ADV -	21	обст	_	_
+21	оказались	ОКАЗЫВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	16	соч-союзн	_	_
+22	в	В	PR	PR	PR	21	присвяз	_	_
+23	самой	САМЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	24	опред	_	_
+24	ключевой	КЛЮЧЕВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	25	опред	_	_
+25	точке	ТОЧКА	S	S f inan dat sg	S f inan dat sg	22	предл	_	_
+26	нашего	НАШ	A	A - gen sg plen m -	A - gen sg plen m -	27	опред	_	_
+27	фронта	ФРОНТ	S	S m inan gen sg	S m inan gen sg	25	атриб	_	_
+28	–	–	–	–	PUNC	21	суб-копр	_	_
+29	между	МЕЖДУ	PR	PR	PR	28	атриб	_	_
+30	центром	ЦЕНТР	S	S m inan ins sg	S m inan ins sg	29	предл	_	_
+31	и	И	CONJ	CONJ	CONJ	30	сочин	_	_
+32	левым	ЛЕВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	33	опред	_	_
+33	флангом	ФЛАНГ	S	S m inan ins sg	S m inan ins sg	31	соч-союзн	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	В	В	PR	PR	PR	7	обст	_	_
+2	шесть	ШЕСТЬ	NUM	NUM acc - -	NUM acc - -	3	количест	_	_
+3	часов	ЧАС	S	S m inan gen pl	S m inan gen pl	1	предл	_	_
+4	через	ЧЕРЕЗ	PR	PR	PR	7	обст	_	_
+5	турецкие	ТУРЕЦКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	6	опред	_	_
+6	заслоны	ЗАСЛОН	S	S m inan acc pl	S m inan acc pl	4	предл	_	_
+7	прорывается	ПРОРЫВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+8	граф	ГРАФ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+9	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	адъютант	АДЪЮТАНТ	S	S m anim nom sg	S m anim nom sg	8	об-аппоз	_	_
+12	Соболева	СОБОЛЕВ	S	S m anim gen sg	S m anim gen sg	11	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Проезжая	ПРОЕЗЖИЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+2	мимо	МИМО	PR	PR	PR	1	атриб	_	_
+3	журналистов	ЖУРНАЛИСТ	S	S m anim gen pl	S m anim gen pl	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	8	предик	_	_
+6	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	8	1-компл	_	_
+7	хорошо	ХОРОШО	ADV	ADV -	ADV -	8	огранич	_	_
+8	знакомы	ЗНАКОМЫЙ	A	A - - pl brev - -	A - - pl brev - -	1	сент-соч	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	11	предик	_	_
+11	кричит	КРИЧАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	8	сент-соч	_	_
+12	об	ОБ	PR	PR	PR	11	1-компл	_	_
+13	успехе	УСПЕХ	S	S m inan loc sg	S m inan loc sg	12	предл	_	_
+14	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+15	отряда	ОТРЯД	S	S m inan gen sg	S m inan gen sg	13	квазиагент	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Что	ЧТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	происходит	ПРОИСХОДИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	дальше	ДАЛЕКО	ADV	ADV comp	ADV comp	2	обст	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	корреспонденты	КОРРЕСПОНДЕНТ	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+3	бросаются	БРОСАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	3-компл	_	_
+5	тыл	ТЫЛ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	3	обст	_	_
+8	поскорее	СКОРО	ADV	ADV comp	ADV comp	9	обст	_	_
+9	сообщить	СООБЩАТЬ	V	V pf - - inf - -	V pf - - inf - -	7	инф-союзн	_	_
+10	по	ПО	PR	PR	PR	9	обст	_	_
+11	телеграфу	ТЕЛЕГРАФ	S	S f inan acc sg	S f inan acc sg	10	предл	_	_
+12	о	О	PR	PR	PR	9	2-компл	_	_
+13	том	ТО	S	S n - loc sg	S n - loc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	что	ЧТО	CONJ	CONJ	CONJ	13	эксплет	_	_
+16	русская	РУССКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	17	опред	_	_
+17	армия	АРМИЯ	S	S f inan nom sg	S f inan nom sg	18	предик	_	_
+18	побеждает	ПОБЕЖДАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	15	подч-союзн	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	2	опред	_	_
+2	–	–	–	–	PUNC	0	ROOT	_	_
+3	но	НО	CONJ	CONJ	CONJ	2	сочин	_	_
+4	только	ТОЛЬКО	PART	PART	PART	3	огранич	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	3	соч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Суворова	СУВОРОВ	S	S m anim acc sg	S m anim acc sg	2	1-компл	_	_
+2	встречает	ВСТРЕЧАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	11	1-компл	_	_
+4	примерно	ПРИМЕРНО	ADV	ADV -	ADV -	5	огранич	_	_
+5	полчаса	ПОЛЧАСА	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+6	спустя	СПУСТЯ	PR	PR	PR	7	обст	_	_
+7	–	–	–	–	PUNC	11	опред	_	_
+8	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	10	количест	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	забрызганного	ЗАБРЫЗГАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	11	опред	_	_
+11	грязью	ГРЯЗЬ	S	S f inan ins sg	S f inan ins sg	2	2-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+13	почему-то	ПОЧЕМУ-ТО	ADV	ADV -	ADV -	14	обст	_	_
+14	выезжающего	ВЫЕЗЖАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act anim	PARTCP ipf inpraes acc sg plen m act anim	12	соч-союзн	_	_
+15	из	ИЗ	PR	PR	PR	14	1-компл	_	_
+16	зарослей	ЗАРОСЛЬ	S	S f inan gen pl	S f inan gen pl	15	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Безусловно	БЕЗУСЛОВНО	ADV	ADV -	ADV -	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	у	У	PR	PR	PR	5	обст	_	_
+4	журналиста	ЖУРНАЛИСТ	S	S m anim gen sg	S m anim gen sg	3	предл	_	_
+5	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	6	соч-союзн	_	_
+8	и	И	CONJ	CONJ	CONJ	5	сент-соч	_	_
+9	возможность	ВОЗМОЖНОСТЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+10	догнать	ДОГНАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+11	гонца	ГОНЕЦ	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+13	убить	УБИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	12	соч-союзн	_	_
+14	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	13	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	а	А	CONJ	CONJ	CONJ	13	сочин	_	_
+17	заодно	ЗАОДНО	ADV	ADV -	ADV -	20	огранич	_	_
+18	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+19	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	18	соч-союзн	_	_
+20	Казанзаки	КАЗАНЗАК	S	S m anim nom pl	S m anim nom pl	16	соч-союзн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	на	НА	PR	PR	PR	25	обст	_	_
+23	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	24	опред	_	_
+24	беду	БЕДА	S	S f inan acc sg	S f inan acc sg	22	предл	_	_
+25	увязавшегося	УВЯЗЫВАТЬСЯ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	20	опред	_	_
+26	за	ЗА	PR	PR	PR	25	1-компл	_	_
+27	Зуровым	ЗУРОВ	S	S m anim gen sg	S m anim gen sg	26	предл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Ведь	ВЕДЬ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	оба	ОБА	NUM	NUM acc m inan	NUM acc m inan	3	количест	_	_
+3	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	5	предик	_	_
+4	хорошо	ХОРОШО	ADV	ADV -	ADV -	5	обст	_	_
+5	знали	ЗНАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	подч-союзн	_	_
+6	Маклафлина	МАКЛАФЛИН	S	S m anim nom pl	S m anim nom pl	5	присвяз	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	вероломства	ВЕРОЛОМСТВО	S	S n inan gen sg	S n inan gen sg	7	соч-союзн	_	_
+9	от	ОТ	PR	PR	PR	11	1-компл	_	_
+10	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	9	предл	_	_
+11	ожидать	ОЖИДАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	1-компл	_	_
+12	никак	НИКАК	ADV	ADV -	ADV -	14	обст	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	могли	МОЧЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	5	сочин	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Ну	НУ	PART	PART	PART	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	а	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+4	инсценировать	ИНСЦЕНИРОВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	предик	_	_
+5	самоубийство	САМОУБИЙСТВО	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+6	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	5	квазиагент	_	_
+7	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	соч-союзн	_	_
+8	несложно	НЕСЛОЖНО	ADV	ADV -	ADV -	10	обст	_	_
+9	–	–	–	–	PUNC	10	предик	_	_
+10	оттащил	ОТТАСКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	1-компл	_	_
+11	тело	ТЕЛО	S	S n inan acc sg	S n inan acc sg	10	1-компл	_	_
+12	в	В	PR	PR	PR	10	2-компл	_	_
+13	кусты	КУСТ	S	S m inan acc pl	S m inan acc pl	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	пальнул	ПАЛЬНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	сочин	_	_
+16	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	17	количест	_	_
+17	раза	РАЗ	S	S m inan gen sg	S m inan gen sg	15	обст	_	_
+18	в	В	PR	PR	PR	17	распред	_	_
+19	воздух	ВОЗДУХ	S	S m inan acc sg	S m inan acc sg	18	предл	_	_
+20	из	ИЗ	PR	PR	PR	15	2-компл	_	_
+21	жандармова	ЖАНДАРМОВ	S	S m anim acc sg	S m anim acc sg	20	предл	_	_
+22	револьвера	РЕВОЛЬВЕР	S	S m inan gen sg	S m inan gen sg	21	1-компл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+25	довольно	ДОВОЛЬНО	ADV	ADV -	ADV -	24	соч-союзн	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	0	ROOT	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	1	предик	_	_
+3	на	НА	PR	PR	PR	1	сент-соч	_	_
+4	эту	ЭТОТ	A	A - acc sg plen f -	A - acc sg plen f -	5	опред	_	_
+5	удочку	УДОЧКА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	1	вводн	_	_
+7	попался	ПОПАДАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

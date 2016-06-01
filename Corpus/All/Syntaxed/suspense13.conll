@@ -1,0 +1,16 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вдруг	ВДРУГ	ADV	ADV -	ADV -	4	обст	_	_
+3	сурово	СУРОВО	ADV	ADV -	ADV -	4	обст	_	_
+4	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	узнавая	УЗНАВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	обст	_	_
+8	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	голоса	ГОЛОС	S	S m inan gen sg	S m inan gen sg	7	1-компл	_	_
+10	:	:	:	:	PUNC	7	2-компл	_	_
+11	-	-	-	-	PUNC	10	PUNC	_	_
+12	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Камфары	КАМФАРА	S	S f inan gen sg	S f inan gen sg	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+

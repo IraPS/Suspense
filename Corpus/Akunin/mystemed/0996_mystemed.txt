@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"начинаться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"Началось"}
+{"text":"\\s"}
+{"analysis":[{"lex":"ударять","gr":"V,tran=praet,pl,indic,pf"}],"text":"Ударили"}
+{"analysis":[{"lex":"рано","gr":"ADV=comp"}],"text":"раньше"}
+{"analysis":[{"lex":"время","gr":"S,n,inan=abl,sg"},{"lex":"время","gr":"S,n,inan=dat,sg"},{"lex":"время","gr":"S,n,inan=gen,sg"}],"text":"времени"}

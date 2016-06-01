@@ -1,0 +1,16 @@
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+2	никогда	НИКОГДА	ADV	ADV -	ADV -	4	обст	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	позволяю	ПОЗВОЛЯТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+5	коню	КОНЬ	S	S m anim dat sg	S m anim dat sg	4	2-компл	_	_
+6	топтать	ТОПТАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+7	репейник	РЕПЕЙНИК	S	S m inan acc sg	S m inan acc sg	6	1-компл	_	_
+8	–	–	–	–	PUNC	11	предик	_	_
+9	вдруг	ВДРУГ	ADV	ADV -	ADV -	11	обст	_	_
+10	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	11	предик	_	_
+11	растет	РАСТИ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	сент-соч	_	_
+12	из	ИЗ	PR	PR	PR	11	1-компл	_	_
+13	старого	СТАРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	14	опред	_	_
+14	Исаака	ИСААК	S	S m anim gen sg	S m anim gen sg	12	предл	_	_
+15	?	?	SENT	SENT	SENT	14	PUNC	_	_
+

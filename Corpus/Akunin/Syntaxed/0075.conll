@@ -1,0 +1,33 @@
+1	Внезапно	ВНЕЗАПНО	ADV	ADV -	ADV -	5	обст	_	_
+2	размышления	РАЗМЫШЛЕНИЕ	S	S n inan nom pl	S n inan nom pl	5	предик	_	_
+3	Варвары	ВАРВАРА	S	S f anim gen sg	S f anim gen sg	2	квазиагент	_	_
+4	Андреевны	АНДРЕЕВНА	S	S f anim gen sg	S f anim gen sg	3	аппоз	_	_
+5	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	прерваны	ПРЕРЫВАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	5	пасс-анал	_	_
+7	самым	САМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	8	опред	_	_
+8	бесцеремонным	БЕСЦЕРЕМОННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	9	опред	_	_
+9	образом	ОБРАЗ	S	S m inan ins sg	S m inan ins sg	6	обст	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Наклонившись	НАКЛОНЯТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	4	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	волонтер	ВОЛОНТЕР	S	S m inan gen sg	S m inan gen sg	1	1-компл	_	_
+4	схватил	СХВАТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	ишака	ИШАК	S	S m anim gen sg	S m anim gen sg	4	1-компл	_	_
+6	под	ПОД	PR	PR	PR	4	обст	_	_
+7	уздцы	УЗДЦЫ	S	S - inan acc pl	S - inan acc pl	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	глупое	ГЛУПЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	10	опред	_	_
+10	животное	ЖИВОТНОЕ	S	S n anim nom sg	S n anim nom sg	4	2-компл	_	_
+11	резко	РЕЗКО	ADV	ADV -	ADV -	12	обст	_	_
+12	остановилось	ОСТАНАВЛИВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	4	разъяснит	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+15	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	17	предик	_	_
+16	чуть не	чуть не	PART	PART	ZERO	17	огранич	_	_
+17	перелетела	ПЕРЕЛЕТАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	соч-союзн	_	_
+18	через	ЧЕРЕЗ	PR	PR	PR	17	обст	_	_
+19	ушастую	УШАСТЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	20	опред	_	_
+20	башку	БАШКА	S	S f inan acc sg	S f inan acc sg	18	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

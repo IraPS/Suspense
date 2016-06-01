@@ -1,0 +1,27 @@
+1	На	НА	PR	PR	PR	12	обст	_	_
+2	белом	БЕЛЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	3	опред	_	_
+3	лице	ЛИЦО	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+4	у	У	PR	PR	PR	12	обст	_	_
+5	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как	КАК	CONJ	CONJ	CONJ	4	сравнит	_	_
+8	гипсовая	ГИПСОВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	сравн-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	неподвижная	НЕПОДВИЖНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	8	сочин	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	потухала	ПОТУХАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+13	действительно	ДЕЙСТВИТЕЛЬНО	ADV	ADV -	ADV -	14	огранич	_	_
+14	редкостная	РЕДКОСТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	15	опред	_	_
+15	красота	КРАСОТА	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	всегда	ВСЕГДА	ADV	ADV -	ADV -	6	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	часто	ЧАСТО	ADV	ADV -	ADV -	6	обст	_	_
+6	встретишь	ВСТРЕЧАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+7	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	8	опред	_	_
+8	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

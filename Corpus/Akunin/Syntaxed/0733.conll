@@ -1,0 +1,238 @@
+1	–	–	–	–	PUNC	7	предик	_	_
+2	Сегодня	СЕГОДНЯ	ADV	ADV -	ADV -	7	обст	_	_
+3	вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	7	обст	_	_
+4	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	паша	ПАША	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+7	сдастся	СДАВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	PART	PART	PART	4	огранич	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	2	вспом	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	1	предик	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	вскричала	ВСКРИЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Тише	ТИХО	ADV	ADV comp	ADV comp	1	обст	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Ровно	РОВНО	ADV	ADV -	ADV -	6	огранич	_	_
+2	в	В	PR	PR	PR	6	огранич	_	_
+3	10	10	NUM	NUM - - -	NUM - - -	4	количест	_	_
+4	часов	ЧАС	S	S m inan gen pl	S m inan gen pl	2	предл	_	_
+5	вечера	ВЕЧЕР	S	S m inan gen sg	S m inan gen sg	4	квазиагент	_	_
+6	к	К	PR	PR	PR	15	обст	_	_
+7	командиру	КОМАНДИР	S	S m anim dat sg	S m anim dat sg	6	предл	_	_
+8	гренадерского	ГРЕНАДЕРСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	корпуса	КОРПУС	S	S m inan gen sg	S m inan gen sg	7	1-компл	_	_
+10	генерал-лейтенанту	ГЕНЕРАЛ-ЛЕЙТЕНАНТ	S	S m anim dat sg	S m anim dat sg	7	аппоз	_	_
+11	Ганецкому	ГАНЕЦКИЙ	S	S m anim dat sg	S m anim dat sg	10	аппоз	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	чьи	ЧЕЙ	A	A - nom pl plen - -	A - nom pl plen - -	14	опред	_	_
+14	войска	ВОЙСКО	S	S n inan nom pl	S n inan nom pl	15	предик	_	_
+15	занимают	ЗАНИМАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+16	позицию	ПОЗИЦИЯ	S	S f inan acc sg	S f inan acc sg	15	1-компл	_	_
+17	по	ПО	PR	PR	PR	16	атриб	_	_
+18	левому	ЛЕВЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	19	опред	_	_
+19	берегу	БЕРЕГ	S	S m inan dat sg	S m inan dat sg	17	предл	_	_
+20	Вида	ВИД	S	S m inan gen sg	S m inan gen sg	19	квазиагент	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	явятся	ЯВЛЯТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	15	вводн	_	_
+23	парламентеры	ПАРЛАМЕНТЕР	S	S m anim nom pl	S m anim nom pl	22	предик	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	буду	БЫТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	единственным	ЕДИНСТВЕННЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	2	присвяз	_	_
+4	из	ИЗ	PR	PR	PR	3	атриб	_	_
+5	журналистов	ЖУРНАЛИСТ	S	S m anim gen pl	S m anim gen pl	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	кто	КТО	S	S m - nom sg	S m - nom sg	8	предик	_	_
+8	окажется	ОКАЗЫВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	2	сент-соч	_	_
+9	свидетелем	СВИДЕТЕЛЬ	S	S m anim ins sg	S m anim ins sg	8	присвяз	_	_
+10	этого	ЭТОТ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+11	великого	ВЕЛИКИЙ	A	A - gen sg plen n -	A - gen sg plen n -	12	опред	_	_
+12	события	СОБЫТИЕ	S	S n inan gen sg	S n inan gen sg	9	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	заодно	ЗАОДНО	ADV	ADV -	ADV -	3	обст	_	_
+3	предупрежу	ПРЕДУПРЕЖДАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	1	соч-союзн	_	_
+4	генерала	ГЕНЕРАЛ	S	S m anim acc sg	S m anim acc sg	3	1-компл	_	_
+5	–	–	–	–	PUNC	4	опред	_	_
+6	в	В	PR	PR	PR	5	обст	_	_
+7	половине	ПОЛОВИНА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	десятого	ДЕСЯТЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	ранее	РАНЕЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	 	 	 	 	PUNC	0	ROOT	_	_
+14	–	–	–	–	PUNC	0	ROOT	_	_
+15	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	14	обст	_	_
+16	дозоры	ДОЗОР	S	S m inan nom pl	S m inan nom pl	20	предик	_	_
+17	по	ПО	PR	PR	PR	20	обст	_	_
+18	ошибке	ОШИБКА	S	S f inan dat sg	S f inan dat sg	17	предл	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	открыли	ОТКРЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	15	подч-союзн	_	_
+21	по	ПО	PR	PR	PR	20	обст	_	_
+22	парламентерам	ПАРЛАМЕНТЕР	S	S m anim dat pl	S m anim dat pl	21	предл	_	_
+23	огонь	ОГОНЬ	S	S m inan acc sg	S m inan acc sg	20	1-компл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Представляете	ПРЕДСТАВЛЯТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	какая	КАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	предик	_	_
+4	получится	ПОЛУЧАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+5	статья	СТАТЬЯ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Представляю	ПРЕДСТАВЛЯТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	6	предик	_	_
+5	–	–	–	–	PUNC	6	1-компл	_	_
+6	восхищенно	ВОСХИЩЕННЫЙ	A	A - - sg brev n -	A - - sg brev n -	2	изъясн	_	_
+7	кивнула	КИВНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	вводн	_	_
+8	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	И	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	2	соч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	никому	НИКТО	S	S m - dat sg	S m - dat sg	8	вводн	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	никому	НИКТО	S	S m - dat sg	S m - dat sg	9	1-компл	_	_
+8	нельзя	НЕЛЬЗЯ	ADV	ADV -	ADV -	3	подч-союзн	_	_
+9	рассказать	РАССКАЗЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	8	предик	_	_
+10	?	?	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+3	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	4	1-компл	_	_
+4	погубите	ПОГУБИТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	в	В	PR	PR	PR	4	обст	_	_
+3	панике	ПАНИКА	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+4	воскликнул	ВОСКЛИЦАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	2-компл	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	3	предик	_	_
+3	дали	ДАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	слово	СЛОВО	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Хорошо	ХОРОШО	ADV	ADV -	ADV -	1	обст	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	хорошо	ХОРОШО	ADV	ADV -	ADV -	8	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	8	1-компл	_	_
+7	–	–	–	–	PUNC	8	предик	_	_
+8	успокоила	УСПОКАИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	сент-соч	_	_
+9	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	8	1-компл	_	_
+10	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	8	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	До	ДО	PR	PR	PR	0	ROOT	_	_
+3	десяти	ДЕСЯТЬ	NUM	NUM loc - -	NUM loc - -	4	количест	_	_
+4	буду	БЫТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	2	предл	_	_
+5	молчать	МОЛЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	аналит	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как	КАК	CONJ	CONJ	CONJ	5	сравнит	_	_
+8	рыба	РЫБА	S	S f anim nom sg	S f anim nom sg	7	сравн-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	предик	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	вот	ВОТ	PART	PART	PART	4	огранич	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	развилка	РАЗВИЛКА	S	S f inan nom sg	S f inan nom sg	4	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Стой	СТОЯТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	обст	_	_
+2	корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	ткнул	ТКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	извозчика	ИЗВОЗЧИК	S	S m anim acc sg	S m anim acc sg	3	1-компл	_	_
+5	в	В	PR	PR	PR	3	2-компл	_	_
+6	спину	СПИНА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	3	2-компл	_	_
+3	направо	НАПРАВО	ADV	ADV -	ADV -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	3	вводн	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	5	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+9	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	0	ROOT	_	_
+10	налево	НАЛЕВО	ADV	ADV -	ADV -	9	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Предвкушаю	ПРЕДВКУШАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	эффект	ЭФФЕКТ	S	S m inan nom sg	S m inan nom sg	1	предик	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Сидим	СИДЕТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	0	ROOT	_	_
+2	с	С	PR	PR	PR	1	1-компл	_	_
+3	генералом	ГЕНЕРАЛ	S	S m anim ins sg	S m anim ins sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	пьем	ПИТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	1	сочин	_	_
+6	чай	ЧАЙ	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	болтаем	БОЛТАТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	5	сочин	_	_
+9	о	О	PR	PR	PR	8	2-компл	_	_
+10	всякой	ВСЯКИЙ	A	A - loc sg plen f -	A - loc sg plen f -	11	опред	_	_
+11	ерунде	ЕРУНДА	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	а	А	CONJ	CONJ	CONJ	8	сент-соч	_	_
+14	в	В	PR	PR	PR	18	обст	_	_
+15	половине	ПОЛОВИНА	S	S f inan loc sg	S f inan loc sg	14	предл	_	_
+16	десятого	ДЕСЯТЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	18	1-компл	_	_
+17	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	18	предик	_	_
+18	достаю	ДОСТАВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	13	соч-союзн	_	_
+19	часы	ЧАСЫ	S	S - inan acc pl	S - inan acc pl	18	1-компл	_	_
+20	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+21	как бы	как бы	ADV	ADV -	-	22	огранич	_	_
+22	между	МЕЖДУ	PR	PR	PR	20	соч-союзн	_	_
+23	прочим	ПРОЧЕЕ	S	S n - ins sg	S n - ins sg	22	предл	_	_
+24	:	:	:	:	PUNC	23	сочин	_	_
+25	«	«	_	_	PUNC	24	PUNC	_	_
+26	Кстати	КСТАТИ	ADV	ADV -	ADV -	24	вводн	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	Ivan	IVAN	NONLEX	NONLEX	NONLEX	33	предик	_	_
+29	Stepanovich	STEPANOVICH	NONLEX	NONLEX	NONLEX	28	аппоз	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	через	ЧЕРЕЗ	PR	PR	PR	33	вводн	_	_
+32	полчаса	ПОЛЧАСА	S	S m inan acc sg	S m inan acc sg	31	предл	_	_
+33	к	К	PR	PR	PR	24	сент-соч	_	_
+34	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	33	предл	_	_
+35	приедут	ПРИЕЗЖАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	33	сент-соч	_	_
+36	от	ОТ	PR	PR	PR	35	1-компл	_	_
+37	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	36	предл	_	_
+38	-	-	-	-	PUNC	37	PUNC	_	_
+39	паши	ПАША	S	S m anim gen sg	S m anim gen sg	35	квазиагент	_	_
+40	»	»	_	_	PUNC	39	PUNC	_	_
+41	.	.	SENT	SENT	SENT	39	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	каково	КАКОВО	ADV	ADV -	ADV -	1	соч-союзн	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+

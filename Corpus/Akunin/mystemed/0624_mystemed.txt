@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"Так"}
+{"analysis":[{"lex":"увянуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"увял"}
+{"analysis":[{"lex":"многообещающий","gr":"A=acc,sg,plen,m,inan"},{"lex":"многообещающий","gr":"A=nom,sg,plen,m"}],"text":"многообещающий"}
+{"analysis":[{"lex":"талант","gr":"S,m,inan=acc,sg"},{"lex":"талант","gr":"S,m,inan=nom,sg"}],"text":"талант"}
+{"analysis":[{"lex":"который","gr":"APRO=dat,sg,m"},{"lex":"который","gr":"APRO=dat,sg,n"}],"text":"которому"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"суждено","gr":"ADV,praed="}],"text":"суждено"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"было"}
+{"analysis":[{"lex":"расцвесть","qual":"bastard","gr":"V,inpraes,sg,indic,3p,ipf="}],"text":"расцвесть"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"полный","gr":"A=acc,sg,plen,f"}],"text":"полную"}
+{"analysis":[{"lex":"сила","gr":"S,f,inan=acc,sg"}],"text":"силу"}

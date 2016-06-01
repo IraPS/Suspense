@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"адъютант","gr":"S,m,anim=nom,sg"}],"text":"Адъютант"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"сомнение","gr":"S,n,inan=ins,sg"}],"text":"сомнением"}
+{"analysis":[{"lex":"покоситься","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"покосился"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=acc,sg"}],"text":"Варю"}

@@ -1,0 +1,2 @@
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"Что"}
+{"analysis":[{"lex":"менять","gr":"V,ipf,tran=inpraes,sg,indic,3p"}],"text":"меняет"}

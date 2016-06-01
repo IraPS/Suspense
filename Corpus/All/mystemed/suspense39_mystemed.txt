@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"умирать","gr":"V,intr=sg,imper,2p,ipf"}],"text":"Умирай"}
+{"text":"\\s"}
+{"analysis":[{"lex":"умирать","gr":"V,intr=sg,imper,2p,ipf"}],"text":"Умирай"}
+{"analysis":[{"lex":"скоро","gr":"ADV=comp"}],"text":"скорее"}
+{"analysis":[{"lex":"подумать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"подумал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"умирать","gr":"V,intr=sg,imper,2p,ipf"}],"text":"умирай"}
+{"text":"\\s"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"А"}
+{"analysis":[{"lex":"то","gr":"SPRO,sg,n,inan=acc"},{"lex":"то","gr":"SPRO,sg,n,inan=nom"}],"text":"то"}
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"что"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inpraes,sg,indic,1p"}],"text":"буду"}
+{"analysis":[{"lex":"делать","gr":"V,ipf,tran=inf"}],"text":"делать"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"ты","gr":"SPRO,sg,2p=ins"}],"text":"тобой"}

@@ -1,0 +1,26 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	каждый	КАЖДЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	предик	_	_
+3	обязательно	ОБЯЗАТЕЛЬНО	ADV	ADV -	ADV -	4	обст	_	_
+4	поднимал	ПОДЫМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+5	брови	БРОВЬ	S	S f inan acc pl	S f inan acc pl	4	1-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	спрашивал	СПРАШИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	соч-союзн	_	_
+8	:	:	:	:	PUNC	7	1-компл	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Неужели	НЕУЖЕЛИ	PART	PART	PART	0	ROOT	_	_
+2	?	?	SENT	SENT	SENT	1	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	то	ТО	PART	PART	PART	2	огранич	_	_
+5	думал	ДУМАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+8	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	10	предик	_	_
+9	еще	ЕЩЕ	ADV	ADV -	ADV -	10	огранич	_	_
+10	студент	СТУДЕНТ	S	S m anim nom sg	S m anim nom sg	7	подч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

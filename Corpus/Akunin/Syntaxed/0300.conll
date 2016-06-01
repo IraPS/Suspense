@@ -1,0 +1,18 @@
+1	Было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+2	в	В	PR	PR	PR	1	обст	_	_
+3	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	4	квазиагент	_	_
+4	голосе	ГОЛОС	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+5	что-то	ЧТО-ТО	S	S n - nom sg	S n - nom sg	1	предик	_	_
+6	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	5	опред	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	отчего	ОТЧЕГО	ADV	ADV -	ADV -	10	обст	_	_
+9	капитан	КАПИТАН	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+10	насторожился	НАСТОРАЖИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	сент-соч	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	на	НА	PR	PR	PR	14	обст	_	_
+13	журналистов	ЖУРНАЛИСТ	S	S m anim gen pl	S m anim gen pl	12	предл	_	_
+14	обращать	ОБРАЩАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	соч-союзн	_	_
+15	внимание	ВНИМАНИЕ	S	S n inan acc sg	S n inan acc sg	14	1-компл	_	_
+16	перестал	ПЕРЕСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	сочин	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

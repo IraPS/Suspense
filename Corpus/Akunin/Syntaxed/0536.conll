@@ -1,0 +1,142 @@
+1	–	–	–	–	PUNC	3	обст	_	_
+2	Меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	3	1-компл	_	_
+3	вызывают	ВЫЗЫВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	2-компл	_	_
+5	дуэль	ДУЭЛЬ	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	9	предик	_	_
+2	Румын	РУМЫН	S	S m inan gen sg	S m inan gen sg	1	1-компл	_	_
+3	сипло	СИПЛО	ADV	ADV -	ADV -	1	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	словно	СЛОВНО	CONJ	CONJ	CONJ	1	сравнит	_	_
+6	через	ЧЕРЕЗ	PR	PR	PR	5	сравн-союзн	_	_
+7	силу	СИЛА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	цедил	ЦЕДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+10	французские	ФРАНЦУЗСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	11	опред	_	_
+11	слова	СЛОВО	S	S n inan acc pl	S n inan acc pl	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Сразу	СРАЗУ	ADV	ADV -	ADV -	3	огранич	_	_
+3	оба	ОБА	NUM	NUM acc m inan	NUM acc m inan	0	ROOT	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Или	ИЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	все-таки	ВСЕ-ТАКИ	PART	PART	PART	3	огранич	_	_
+3	по	ПО	PR	PR	PR	1	соч-союзн	_	_
+4	одному	ОДИН	A	A - dat sg plen m -	A - dat sg plen m -	3	предл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	2-компл	_	_
+2	Выбирайте	ВЫБИРАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	0	ROOT	_	_
+3	того	ТО	S	S n - gen sg	S n - gen sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	кто	КТО	S	S m - nom sg	S m - nom sg	8	предик	_	_
+6	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	8	1-компл	_	_
+7	больше	МНОГО	ADV	ADV comp	ADV comp	8	обст	_	_
+8	нравится	НРАВИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	эксплет	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	 	 	 	 	PUNC	13	2-компл	_	_
+11	–	–	–	–	PUNC	13	1-компл	_	_
+12	сухо	СУХО	ADV	ADV -	ADV -	13	обст	_	_
+13	обронил	ОБРОНИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+14	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	13	1-компл	_	_
+15	'	'	_	_	PUNC	14	PUNC	_	_
+16	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	14	аппоз	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+4	повезет	ПОВЕЗТИ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	3	подч-союзн	_	_
+5	с	С	PR	PR	PR	4	обст	_	_
+6	первым	ПЕРВЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	8	опред	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	будете	БЫТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	5	предл	_	_
+9	иметь	ИМЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+10	дело	ДЕЛО	S	S n inan acc sg	S n inan acc sg	9	1-компл	_	_
+11	со	СО	PR	PR	PR	9	обст	_	_
+12	вторым	ВТОРОЙ	A	A - ins sg plen m -	A - ins sg plen m -	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	предик	_	_
+2	Э	Э	INTJ	INTJ	INTJ	5	вводн	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	э	Э	INTJ	INTJ	INTJ	5	вводн	_	_
+5	нет	НЕТ	PART	PART	PART	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	 	 	 	 	PUNC	9	2-компл	_	_
+8	–	–	–	–	PUNC	9	1-компл	_	_
+9	возмутился	ВОЗМУЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	вводн	_	_
+10	граф	ГРАФ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	предик	_	_
+2	Так	ТАК	ADV	ADV -	ADV -	4	обст	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	пойдет	ПОЙТИ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+2	первым	ПЕРВЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	3	суб-копр	_	_
+3	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	про	ПРО	PR	PR	PR	3	3-компл	_	_
+5	шкуру	ШКУРА	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	со	СО	PR	PR	PR	0	ROOT	_	_
+8	мной	Я	SPRO	SPRO sg 1p - ins	SPRO sg 1p - ins	7	предл	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	стреляться	СТРЕЛЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	9	соч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Стреляться	СТРЕЛЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	неприятно	НЕПРИЯТНО	ADV	ADV -	ADV -	3	обст	_	_
+3	засмеялся	ЗАСМЕЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Лукан	ЛУКАН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Нет	НЕТ	PART	PART	PART	5	огранич	_	_
+3	уж	УЖ	PART	PART	PART	2	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+6	шулер	ШУЛЕР	S	S m anim nom sg	S m anim nom sg	5	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	выбор	ВЫБОР	S	S m inan nom sg	S m inan nom sg	5	сочин	_	_
+9	оружия	ОРУЖИЕ	S	S n inan gen sg	S n inan gen sg	8	1-компл	_	_
+10	за	ЗА	PR	PR	PR	9	1-компл	_	_
+11	мной	Я	SPRO	SPRO sg 1p - ins	SPRO sg 1p - ins	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	11	опред	_	_
+2	отлично	ОТЛИЧНО	ADV	ADV -	ADV -	3	огранич	_	_
+3	известно	ИЗВЕСТНО	ADV	ADV -	ADV -	1	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+6	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	9	предик	_	_
+7	с	С	PR	PR	PR	9	обст	_	_
+8	мсье	МСЬЕ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	7	предл	_	_
+9	писакой	ПИСАКА	S	S f inan acc sg	S f inan acc sg	5	подч-союзн	_	_
+10	записные	ЗАПИСНОЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	опред	_	_
+11	стрелки	СТРЕЛКА	S	S f inan nom pl	S f inan nom pl	0	ROOT	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	здесь	ЗДЕСЬ	ADV	ADV -	ADV -	3	огранич	_	_
+3	Румыния	РУМЫНИЯ	S	S f inan nom sg	S f inan nom sg	8	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	драться	ДРАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	5	соч-союзн	_	_
+7	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	8	предик	_	_
+8	будем	БЫТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	1	соч-союзн	_	_
+9	по-нашему	ПО-НАШЕМУ	ADV	ADV -	ADV -	8	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	по-валашски	ПО-ВАЛАШСКИ	ADV	ADV -	ADV -	8	обст	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

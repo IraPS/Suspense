@@ -1,0 +1,2 @@
+{"analysis":[{"lex":"мы","gr":"SPRO,pl,1p=nom"}],"text":"Мы"}
+{"analysis":[{"lex":"помолчать","gr":"V,pf,intr=praet,pl,indic"}],"text":"помолчали"}

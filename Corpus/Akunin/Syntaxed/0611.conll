@@ -1,0 +1,35 @@
+1	Вдали	ВДАЛИ	ADV	ADV -	ADV -	6	обст	_	_
+2	на	НА	PR	PR	PR	6	обст	_	_
+3	поле	ПОЛЕ	S	S n inan loc sg	S n inan loc sg	2	предл	_	_
+4	уже	УЖЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	вовсю	ВОВСЮ	ADV	ADV -	ADV -	6	обст	_	_
+6	рвались	РВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	снаряды	СНАРЯД	S	S m inan nom pl	S m inan nom pl	6	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	6	сент-соч	_	_
+10	плохо	ПЛОХО	ADV	ADV -	ADV -	11	обст	_	_
+11	видно	ВИДНО	ADV	ADV -	ADV -	9	присвяз	_	_
+12	из-за	ИЗ-ЗА	PR	PR	PR	11	1-компл	_	_
+13	стелющегося	СТЕЛЮЩИЙСЯ	A	A - acc sg plen m anim	A - acc sg plen m anim	33	опред	_	_
+14	по	ПО	PR	PR	PR	13	обст	_	_
+15	земле	ЗЕМЛЯ	S	S f inan loc sg	S f inan loc sg	14	предл	_	_
+16	дыма	ДЫМ	S	S m inan gen sg	S m inan gen sg	15	квазиагент	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	но	НО	CONJ	CONJ	CONJ	13	сочин	_	_
+19	Варина	ВАРИНА	S	S f anim nom sg	S f anim nom sg	18	соч-союзн	_	_
+20	рота	РОТА	S	S f inan nom sg	S f inan nom sg	19	аппоз	_	_
+21	пока	ПОКА	CONJ	CONJ	CONJ	13	обст	_	_
+22	бежала	БЕЖАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	21	подч-союзн	_	_
+23	исправно	ИСПРАВНО	ADV	ADV -	ADV -	22	обст	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+26	по	ПО	PR	PR	PR	25	соч-союзн	_	_
+27	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	26	предл	_	_
+28	никто	НИКТО	S	S m - nom sg	S m - nom sg	33	1-компл	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	33	вводн	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	не	НЕ	PART	PART	PART	33	огранич	_	_
+33	стрелял	СТРЕЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	предл	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+

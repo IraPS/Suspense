@@ -1,0 +1,115 @@
+1	Теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	2	обст	_	_
+2	предстояло	ПРЕДСТОЯТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	осуществить	ОСУЩЕСТВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+4	последнюю	ПОСЛЕДНИЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	самую	САМЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	7	опред	_	_
+7	ответственную	ОТВЕТСТВЕННЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	4	сочин	_	_
+8	часть	ЧАСТЬ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+9	Плана	ПЛАН	S	S m inan gen sg	S m inan gen sg	8	квазиагент	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	разработанного	РАЗРАБАТЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	8	опред	_	_
+12	еще	ЕЩЕ	ADV	ADV -	ADV -	13	огранич	_	_
+13	в	В	PR	PR	PR	11	обст	_	_
+14	Петербурге	ПЕТЕРБУРГ	S	S m inan loc sg	S m inan loc sg	13	предл	_	_
+15	(	(	_	_	PUNC	16	PUNC	_	_
+16	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	8	примыкат	_	_
+17	так	ТАК	ADV	ADV -	ADV -	18	огранич	_	_
+18	про	ПРО	PR	PR	PR	3	обст	_	_
+19	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	18	предл	_	_
+20	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+21	называла	НАЗЫВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	20	соч-союзн	_	_
+22	–	–	–	–	PUNC	23	опред	_	_
+23	План	ПЛАН	S	S m inan nom sg	S m inan nom sg	21	предик	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	с	С	PR	PR	PR	0	ROOT	_	_
+26	большой	БОЛЬШОЙ	A	A - gen sg plen f -	A - gen sg plen f -	27	опред	_	_
+27	буквы	БУКВА	S	S f inan gen sg	S f inan gen sg	25	предл	_	_
+28	)	)	_	_	PUNC	27	PUNC	_	_
+29	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Вчера	ВЧЕРА	ADV	ADV -	ADV -	9	обст	_	_
+2	вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	1	атриб	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	под	ПОД	PR	PR	PR	1	сочин	_	_
+5	покровом	ПОКРОВ	S	S m inan ins sg	S m inan ins sg	4	предл	_	_
+6	темноты	ТЕМНОТА	S	S f inan gen sg	S f inan gen sg	5	квазиагент	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	9	предик	_	_
+9	переправилась	ПЕРЕПРАВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+10	на	НА	PR	PR	PR	9	обст	_	_
+11	лодке	ЛОДКА	S	S f inan loc sg	S f inan loc sg	10	предл	_	_
+12	через	ЧЕРЕЗ	PR	PR	PR	9	обст	_	_
+13	Дунай	ДУНАЙ	S	S m inan acc sg	S m inan acc sg	12	предл	_	_
+14	чуть	ЧУТЬ	ADV	ADV -	ADV -	15	колич-огран	_	_
+15	повыше	ВЫСОКО	ADV	ADV comp	ADV comp	16	обст	_	_
+16	Зимницы	ЗИМНИЦА	S	S f anim gen sg	S f anim gen sg	9	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	где	ГДЕ	ADV	ADV -	ADV -	29	обст	_	_
+19	тому	ТО	S	S n - dat sg	S n - dat sg	29	обст	_	_
+20	две	ДВА	NUM	NUM nom f -	NUM nom f -	21	количест	_	_
+21	недели	НЕДЕЛЯ	S	S f inan gen sg	S f inan gen sg	29	длительн	_	_
+22	героическая	ГЕРОИЧЕСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	23	опред	_	_
+23	14	14	NUM	NUM - - -	NUM - - -	29	предик	_	_
+24	-	-	-	-	PUNC	23	PUNC	_	_
+25	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	29	обст	_	_
+26	дивизия	ДИВИЗИЯ	S	S f inan nom sg	S f inan nom sg	29	предик	_	_
+27	генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	26	квазиагент	_	_
+28	Драгомирова	ДРАГОМИРОВ	S	S m anim gen sg	S m anim gen sg	27	аппоз	_	_
+29	форсировала	ФОРСИРОВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	16	релят	_	_
+30	непреодолимую	НЕПРЕОДОЛИМЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	32	опред	_	_
+31	водную	ВОДНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	32	опред	_	_
+32	преграду	ПРЕГРАДА	S	S f inan acc sg	S f inan acc sg	29	1-компл	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	Отсюда	ОТСЮДА	ADV	ADV -	ADV -	2	1-компл	_	_
+2	начиналась	НАЧИНАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	турецкая	ТУРЕЦКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	территория	ТЕРРИТОРИЯ	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	зона	ЗОНА	S	S f inan nom sg	S f inan nom sg	4	сочин	_	_
+7	боевых	БОЕВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	8	опред	_	_
+8	действий	ДЕЙСТВИЕ	S	S n inan gen pl	S n inan gen pl	6	квазиагент	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+11	запросто	ЗАПРОСТО	ADV	ADV -	ADV -	13	обст	_	_
+12	можно	МОЖНО	ADV	ADV -	ADV -	13	присвяз	_	_
+13	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	10	соч-союзн	_	_
+14	попасться	ПОПАДАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	13	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	3	вводн	_	_
+2	дорогам	ДОРОГА	S	S f inan dat pl	S f inan dat pl	1	предл	_	_
+3	рыскали	РЫСКАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	казачьи	КАЗАЧИЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	разъезды	РАЗЪЕЗД	S	S m inan acc pl	S m inan acc pl	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	чуть	ЧУТЬ	ADV	ADV -	ADV -	8	огранич	_	_
+8	зазеваешься	ЗАЗЕВЫВАТЬСЯ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	3	сент-соч	_	_
+9	–	–	–	–	PUNC	12	предик	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	пиши	ПИСАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	10	соч-союзн	_	_
+12	пропало	ПРОПАДАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	8	сент-соч	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	в	В	PR	PR	PR	17	обст	_	_
+15	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	16	количест	_	_
+16	счета	СЧЕТ	S	S m inan acc pl	S m inan acc pl	14	предл	_	_
+17	отправят	ОТПРАВЛЯТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	12	сент-соч	_	_
+18	обратно	ОБРАТНО	ADV	ADV -	ADV -	17	обст	_	_
+19	в	В	PR	PR	PR	17	4-компл	_	_
+20	Букарешт	БУКАРЕШТЫ	S	S m inan loc sg	S m inan loc sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	девушка	ДЕВУШКА	S	S f anim nom sg	S f anim nom sg	2	аппоз	_	_
+5	находчивая	НАХОДЧИВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	8	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	это	ЭТО	S	S n - nom sg	S n - nom sg	8	1-компл	_	_
+8	предвидела	ПРЕДВИДЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	релят	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	приняла	ПРИНИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	соч-союзн	_	_
+11	меры	МЕРА	S	S f inan acc pl	S f inan acc pl	10	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

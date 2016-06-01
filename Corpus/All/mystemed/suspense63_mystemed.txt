@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=nom"}],"text":"Вы"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=ins"}],"text":"ним"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"драться","gr":"V,ipf,intr=praet,pl,indic"}],"text":"дрались"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,m,pf"}],"text":"спросил"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"обстоятельство","gr":"S,n,inan=acc,pl"},{"lex":"обстоятельство","gr":"S,n,inan=gen,sg"},{"lex":"обстоятельство","gr":"S,n,inan=nom,pl"}],"text":"Обстоятельства"}
+{"analysis":[{"lex":"верно","gr":"ADV,parenth="}],"text":"верно"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=abl"},{"lex":"вы","gr":"SPRO,pl,2p=acc"},{"lex":"вы","gr":"SPRO,pl,2p=gen"}],"text":"вас"}
+{"analysis":[{"lex":"разлучать","gr":"V,tran=praet,pl,indic,pf"}],"text":"разлучили"}

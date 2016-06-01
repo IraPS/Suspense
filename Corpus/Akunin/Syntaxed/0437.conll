@@ -1,0 +1,51 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	громко	ГРОМКО	ADV	ADV -	ADV -	3	обст	_	_
+3	откашлялся	ОТКАШЛИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	через	ЧЕРЕЗ	PR	PR	PR	11	обст	_	_
+7	секунду	СЕКУНДА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	из	ИЗ	PR	PR	PR	6	уточн	_	_
+9	клуба	КЛУБ	S	S m inan gen sg	S m inan gen sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	вытирая	ВЫТИРАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	5	соч-союзн	_	_
+12	руки	РУКА	S	S f inan acc pl	S f inan acc pl	11	1-компл	_	_
+13	о	О	PR	PR	PR	11	2-компл	_	_
+14	край	КРАЙ	S	S m inan acc sg	S m inan acc sg	13	предл	_	_
+15	шелковой	ШЕЛКОВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	16	опред	_	_
+16	поддевки	ПОДДЕВКА	S	S f inan acc pl	S f inan acc pl	11	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	выкатился	ВЫКАТИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+19	буфетчик	БУФЕТЧИК	S	S m anim nom sg	S m anim nom sg	18	предик	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Деловито	ДЕЛОВИТЫЙ	A	A - - sg brev n -	A - - sg brev n -	13	присвяз	_	_
+2	посмотрел	ПОСМОТРЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	предик	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	ясное	ЯСНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	5	опред	_	_
+5	небо	НЕБО	S	S n inan acc sg	S n inan acc sg	3	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	пробормотал	ПРОБОРМОТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	вводн	_	_
+8	:	:	:	:	PUNC	7	обст	_	_
+9	«	«	_	_	PUNC	8	PUNC	_	_
+10	Ох	ОХ	INTJ	INTJ	INTJ	7	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+14	бы	БЫ	PART	PART	PART	13	аналит	_	_
+15	дождя	ДОЖДЬ	S	S m inan gen sg	S m inan gen sg	13	предик	_	_
+16	»	»	_	_	PUNC	15	PUNC	_	_
+17	,	,	,	,	PUNC	15	PUNC	_	_
+18	 	 	 	 	PUNC	13	разъяснит	_	_
+19	–	–	–	–	PUNC	0	ROOT	_	_
+20	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+21	убрался	УБИРАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	20	соч-союзн	_	_
+22	обратно	ОБРАТНО	ADV	ADV -	ADV -	21	обст	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	даже	ДАЖЕ	PART	PART	PART	26	огранич	_	_
+25	не	НЕ	PART	PART	PART	26	огранич	_	_
+26	посмотрев	ПОСМОТРЕТЬ	V	V pf praet - ger - -	V pf praet - ger - -	21	обст	_	_
+27	на	НА	PR	PR	PR	26	1-компл	_	_
+28	Зурова	ЗУРОВ	S	S m anim gen sg	S m anim gen sg	27	предл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

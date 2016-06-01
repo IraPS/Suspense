@@ -1,0 +1,108 @@
+1	Слава	СЛАВА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+2	богу	БОГ	S	S m anim dat sg	S m anim dat sg	1	вспом	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	а то	а то	CONJ	CONJ	ZERO	1	предик	_	_
+5	уж	УЖ	PART	PART	PART	4	огранич	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	соч-союзн	_	_
+7	решила	РЕШАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	галлюцинация	ГАЛЛЮЦИНАЦИЯ	S	S f inan nom sg	S f inan nom sg	7	1-компл	_	_
+11	ли	ЛИ	PART	PART	PART	10	огранич	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Сербский	СЕРБСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	волонтер	ВОЛОНТЕР	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Из	ИЗ	PR	PR	PR	0	ROOT	_	_
+2	турецкого	ТУРЕЦКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+3	плена	ПЛЕН	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+2	почтительно	ПОЧТИТЕЛЬНО	ADV	ADV -	ADV -	3	обст	_	_
+3	взглянула	ВЗГЛЯДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	2-компл	_	_
+5	седые	СЕДОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	6	опред	_	_
+6	виски	ВИСОК	S	S m inan acc pl	S m inan acc pl	4	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	удержавшись	УДЕРЖИВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	12	обст	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	да	ДА	CONJ	CONJ	CONJ	12	сент-соч	_	_
+15	еще	ЕЩЕ	ADV	ADV -	ADV -	16	огранич	_	_
+16	пальцем	ПАЛЕЦ	S	S m inan ins sg	S m inan ins sg	18	обст	_	_
+17	неделикатно	НЕДЕЛИКАТНЫЙ	A	A - - sg brev n -	A - - sg brev n -	18	обст	_	_
+18	показала	ПОКАЗЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	соч-союзн	_	_
+19	:	:	:	:	PUNC	24	предик	_	_
+20	–	–	–	–	PUNC	24	обст	_	_
+21	Это	ЭТО	S	S n - nom sg	S n - nom sg	24	предик	_	_
+22	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	24	1-компл	_	_
+23	там	ТАМ	ADV	ADV -	ADV -	24	обст	_	_
+24	мучили	МУЧИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	18	сент-соч	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	да	ДА	PART	PART	PART	24	сент-соч	_	_
+27	?	?	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	читала	ЧИТАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	про	ПРО	PR	PR	PR	2	1-компл	_	_
+4	ужасы	УЖАС	S	S m inan acc pl	S m inan acc pl	3	предл	_	_
+5	турецкого	ТУРЕЦКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	плена	ПЛЕН	S	S m inan gen sg	S m inan gen sg	4	квазиагент	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	заикание	ЗАИКАНИЕ	S	S n inan nom sg	S n inan nom sg	7	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	наверное	НАВЕРНОЕ	ADV	ADV -	ADV -	7	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	тоже	ТОЖЕ	PART	PART	PART	7	огранич	_	_
+7	от	ОТ	PR	PR	PR	1	соч-союзн	_	_
+8	этого	ЭТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+4	насупился	НАСУПЛИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сочин	_	_
+7	неохотно	НЕОХОТНО	ADV	ADV -	ADV -	13	обст	_	_
+8	:	:	:	:	PUNC	13	обст	_	_
+9	–	–	–	–	PUNC	13	1-компл	_	_
+10	Никто	НИКТО	S	S m - nom sg	S m - nom sg	13	обст	_	_
+11	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	13	1-компл	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	мучил	МУЧИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	С	С	PR	PR	PR	7	обст	_	_
+2	утра	УТРО	S	S n inan gen sg	S n inan gen sg	1	предл	_	_
+3	до	ДО	PR	PR	PR	1	соотнос	_	_
+4	вечера	ВЕЧЕР	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	7	предик	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	поили	ПОИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+8	кофеем	КОФЕЙ	S	S m inan ins sg	S m inan ins sg	7	2-компл	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	разговаривали	РАЗГОВАРИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	соч-союзн	_	_
+11	исключительно	ИСКЛЮЧИТЕЛЬНО	ADV	ADV -	ADV -	12	огранич	_	_
+12	по-французски	ПО-ФРАНЦУЗСКИ	ADV	ADV -	ADV -	10	обст	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Жил	ЖИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	на	НА	PR	PR	PR	1	1-компл	_	_
+3	положении	ПОЛОЖЕНИЕ	S	S n inan loc sg	S n inan loc sg	2	предл	_	_
+4	гостя	ГОСТЬ	S	S m anim gen sg	S m anim gen sg	3	квазиагент	_	_
+5	у	У	PR	PR	PR	1	2-компл	_	_
+6	видинского	ВИДИНСКИЙ	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	к	К	PR	PR	PR	1	1-компл	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	каймакама	КАЙМАКАМА	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

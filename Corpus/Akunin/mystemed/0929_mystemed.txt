@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"Все"}
+{"analysis":[{"lex":"взглядывать","gr":"V,intr=praet,pl,indic,pf"}],"text":"взглянули"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=acc,sg"}],"text":"Варю"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"почувствовать","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"почувствовала"}
+{"analysis":[{"lex":"себя","gr":"SPRO=acc"},{"lex":"себя","gr":"SPRO=gen"}],"text":"себя"}
+{"analysis":[{"lex":"что-то","gr":"SPRO,sg,n,inan=abl"},{"lex":"что-то","gr":"SPRO,sg,n,inan=ins"}],"text":"чем-то"}
+{"analysis":[{"lex":"вроде","gr":"PR="}],"text":"вроде"}
+{"analysis":[{"lex":"вещественный","gr":"A=acc,sg,plen,m,anim"},{"lex":"вещественный","gr":"A=gen,sg,plen,m"},{"lex":"вещественный","gr":"A=gen,sg,plen,n"}],"text":"вещественного"}
+{"analysis":[{"lex":"доказательство","gr":"S,n,inan=acc,pl"},{"lex":"доказательство","gr":"S,n,inan=gen,sg"},{"lex":"доказательство","gr":"S,n,inan=nom,pl"}],"text":"доказательства"}

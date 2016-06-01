@@ -1,0 +1,38 @@
+1	Даже	ДАЖЕ	PART	PART	PART	3	огранич	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	взглянув	ВЗГЛЯДЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	13	обст	_	_
+4	на	НА	PR	PR	PR	3	1-компл	_	_
+5	даму	ДАМА	S	S f anim acc sg	S f anim acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	из-за	ИЗ-ЗА	PR	PR	PR	3	обст	_	_
+8	чести	ЧЕСТЬ	S	S f inan dat sg	S f inan dat sg	7	предл	_	_
+9	которой	КОТОРЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	квазиагент	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	собственно	СОБСТВЕННО	ADV	ADV -	ADV -	13	вводн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	произошла	ПРОИСХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+14	вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	15	опред	_	_
+15	история	ИСТОРИЯ	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	свора	СВОРА	S	S f inan nom sg	S f inan nom sg	15	сочин	_	_
+18	мужчин	МУЖЧИНА	S	S m anim gen pl	S m anim gen pl	17	квазиагент	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	оживленно	ОЖИВЛЕННО	ADV	ADV -	ADV -	21	обст	_	_
+21	переговариваясь	ПЕРЕГОВАРИВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	13	обст	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	двинулась	ДВИНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	13	сочин	_	_
+24	по	ПО	PR	PR	PR	23	обст	_	_
+25	коридору	КОРИДОР	S	S m inan dat sg	S m inan dat sg	24	предл	_	_
+26	в	В	PR	PR	PR	23	обст	_	_
+27	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	26	предл	_	_
+28	внутреннего	ВНУТРЕННИЙ	A	A - gen sg plen m -	A - gen sg plen m -	29	опред	_	_
+29	дворика	ДВОРИК	S	S m inan gen sg	S m inan gen sg	27	квазиагент	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	С	С	PR	PR	PR	3	обст	_	_
+2	Варей	ВАРЯ	S	S f anim ins sg	S f anim ins sg	1	предл	_	_
+3	остался	ОСТАВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	5	количест	_	_
+5	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

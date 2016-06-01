@@ -1,0 +1,57 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	черное	ЧЕРНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	3	опред	_	_
+3	небо	НЕБО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+4	чертят	ЧЕРТИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	1	соч-союзн	_	_
+5	огнистыми	ОГНИСТЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	6	опред	_	_
+6	полосками	ПОЛОСКА	S	S f inan ins pl	S f inan ins pl	4	2-компл	_	_
+7	падающие	ПАДАТЬ	PARTCP	PARTCP ipf inpraes nom pl plen - act -	PARTCP ipf inpraes nom pl plen - act -	8	опред	_	_
+8	звезды	ЗВЕЗДА	S	S f inan gen sg	S f inan gen sg	6	квазиагент	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Долго	ДОЛГО	ADV	ADV -	ADV -	2	обст	_	_
+2	глядишь	ГЛЯДЕТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	обст	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	6	квазиагент	_	_
+5	темно-синюю	ТЕМНО-СИНИЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	глубину	ГЛУБИНА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	переполненную	ПЕРЕПОЛНЕННЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+9	созвездиями	СОЗВЕЗДИЕ	S	S n inan ins pl	S n inan ins pl	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	пока	ПОКА	CONJ	CONJ	CONJ	8	обст	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	поплывет	ПОПЛЫТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	11	подч-союзн	_	_
+14	земля	ЗЕМЛЯ	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+15	под	ПОД	PR	PR	PR	14	атриб	_	_
+16	ногами	НОГА	S	S f inan ins pl	S f inan ins pl	15	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Тогда	ТОГДА	ADV	ADV -	ADV -	2	обст	_	_
+2	встрепенешься	ВСТРЕПЕНУТЬСЯ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	пряча	ПРЯТАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	11	обст	_	_
+6	руки	РУКА	S	S f inan acc pl	S f inan acc pl	5	1-компл	_	_
+7	в	В	PR	PR	PR	5	2-компл	_	_
+8	рукава	РУКАВ	S	S m inan acc pl	S m inan acc pl	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	быстро	БЫСТРО	ADV	ADV -	ADV -	11	обст	_	_
+11	побежишь	ПОБЕЖАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	3	соч-союзн	_	_
+12	по	ПО	PR	PR	PR	11	обст	_	_
+13	аллее	АЛЛЕЯ	S	S f inan dat sg	S f inan dat sg	12	предл	_	_
+14	к	К	PR	PR	PR	11	2-компл	_	_
+15	дому	ДОМ	S	S m inan dat sg	S m inan dat sg	14	предл	_	_
+16	...	...	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Как	КАК	ADV	ADV -	ADV -	2	огранич	_	_
+2	холодно	ХОЛОДНО	ADV	ADV -	ADV -	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	росисто	РОСИСТЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	как	КАК	ADV	ADV -	ADV -	8	обст	_	_
+7	хорошо	ХОРОШО	ADV	ADV -	ADV -	8	обст	_	_
+8	жить	ЖИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	соч-союзн	_	_
+9	на	НА	PR	PR	PR	8	1-компл	_	_
+10	свете	СВЕТ	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+11	!	!	SENT	SENT	SENT	10	PUNC	_	_
+

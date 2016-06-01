@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"румын","gr":"S,m,anim=acc,pl"},{"lex":"румын","gr":"S,m,anim=gen,pl"},{"lex":"румын","gr":"S,m,anim=nom,sg"}],"text":"Румын"}
+{"analysis":[{"lex":"лишь","gr":"PART="}],"text":"лишь"}
+{"analysis":[{"lex":"таинственно","gr":"ADV="}],"text":"таинственно"}
+{"analysis":[{"lex":"улыбаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"улыбнулся"}
+{"analysis":[{"lex":"словно","gr":"CONJ="}],"text":"словно"}
+{"analysis":[{"lex":"собираться","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"собирался"}
+{"analysis":[{"lex":"умчать","gr":"V,pf,tran=inf"}],"text":"умчать"}
+{"analysis":[{"lex":"спутница","gr":"S,f,anim=acc,sg"}],"text":"спутницу"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"меньший","gr":"A,plen=abl,sg,f"},{"lex":"меньший","gr":"A,plen=dat,sg,f"},{"lex":"меньший","gr":"A,plen=gen,sg,f"},{"lex":"меньший","gr":"A,plen=ins,sg,f"}],"text":"меньшей"}
+{"analysis":[{"lex":"мера","gr":"S,f,inan=abl,sg"},{"lex":"мера","gr":"S,f,inan=dat,sg"}],"text":"мере"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"тридевятый","gr":"A=acc,sg,plen,n"},{"lex":"тридевятый","gr":"A=nom,sg,plen,n"}],"text":"тридевятое"}
+{"analysis":[{"lex":"царство","gr":"S,n,inan=acc,sg"},{"lex":"царство","gr":"S,n,inan=nom,sg"}],"text":"царство"}

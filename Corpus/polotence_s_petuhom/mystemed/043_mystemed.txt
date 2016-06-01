@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"при","gr":"PR="}],"text":"При"}
+{"analysis":[{"lex":"чем","gr":"CONJ="}],"text":"чем"}
+{"analysis":[{"lex":"тут","gr":"ADVPRO="}],"text":"тут"}
+{"analysis":[{"lex":"сода","gr":"S,f,inan=nom,sg"}],"text":"сода"}
+{"text":"\\s"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"ипекакуанка","qual":"bastard","gr":"S,f,anim=acc,sg"}],"text":"ипекакуанку"}
+{"analysis":[{"lex":"выписывать","gr":"V,tran=inpraes,sg,indic,1p,pf"}],"text":"выпишу"}
+{"analysis":[{"lex":"инфузум","qual":"bastard","gr":"S,m,inan=acc,sg"},{"lex":"инфузум","qual":"bastard","gr":"S,m,inan=nom,sg"}],"text":"инфузум"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"text":"\\s"}
+{"analysis":[{"lex":"или","gr":"CONJ="}],"text":"Или"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"двести","gr":"NUM=acc"},{"lex":"двести","gr":"NUM=nom"}],"text":"двести"}
+{"text":"\\s"}
+{"analysis":[{"lex":"позволять","gr":"V,tran=pl,imper,2p,pf"}],"text":"Позвольте"}

@@ -1,0 +1,24 @@
+1	–	–	–	–	PUNC	5	предик	_	_
+2	Видимо	ВИДИМО	ADV	ADV -	ADV -	5	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вчера	ВЧЕРА	ADV	ADV -	ADV -	5	обст	_	_
+5	отмечали	ОТМЕЧАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	успех	УСПЕХ	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+7	дела	ДЕЛО	S	S n inan gen sg	S n inan gen sg	6	1-компл	_	_
+8	под	ПОД	PR	PR	PR	6	атриб	_	_
+9	Ловчей	ЛОВКО	ADV	ADV comp	ADV comp	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	 	 	 	 	PUNC	13	2-компл	_	_
+12	–	–	–	–	PUNC	13	1-компл	_	_
+13	предположил	ПРЕДПОЛАГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	вводн	_	_
+14	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Кто-то	КТО-ТО	S	S m - nom sg	S m - nom sg	3	обст	_	_
+3	наотмечался	НАОТМЕЧАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	до	ДО	PR	PR	PR	3	обст	_	_
+5	потери	ПОТЕРЯ	S	S f inan gen sg	S f inan gen sg	4	предл	_	_
+6	подтяжек	ПОДТЯЖКА	S	S f inan gen pl	S f inan gen pl	5	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

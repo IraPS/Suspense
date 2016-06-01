@@ -1,0 +1,156 @@
+1	в	В	PR	PR	PR	3	обст	_	_
+2	которой	КОТОРЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	1	предл	_	_
+3	ругают	РУГАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	Россию	РОССИЯ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+6	звучит	ЗВУЧАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	соч-союзн	_	_
+7	язык	ЯЗЫК	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+8	Данте	ДАНТЕ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	7	квазиагент	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Правительственный	ПРАВИТЕЛЬСТВЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	вестник	ВЕСТНИК	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+4	»	»	_	_	PUNC	6	PUNC	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	Санкт-Петербург	САНКТ-ПЕТЕРБУРГ	S	S m inan nom sg	S m inan nom sg	3	примыкат	_	_
+7	)	)	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	9	9	NUM	NUM - - -	NUM - - -	0	ROOT	_	_
+10	(	(	_	_	PUNC	11	PUNC	_	_
+11	21	21	NUM	NUM - - -	NUM - - -	9	примыкат	_	_
+12	)	)	_	_	PUNC	11	PUNC	_	_
+13	января	ЯНВАРЬ	S	S m inan gen sg	S m inan gen sg	9	атриб	_	_
+14	1878	1878	NUM	NUM - - -	NUM - - -	15	опред	_	_
+15	г	Г	S	S m inan nonflex nonflex	S m inan nonflex nonflex	13	атриб	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	…	…	…	…	PUNC	3	предик	_	_
+3	наводит	НАВОДИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	2-компл	_	_
+5	печальные	ПЕЧАЛЬНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	6	опред	_	_
+6	размышления	РАЗМЫШЛЕНИЕ	S	S n inan acc pl	S n inan acc pl	4	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	2	огранич	_	_
+2	выжимки	ВЫЖИМКА	S	S f inan acc pl	S f inan acc pl	10	1-компл	_	_
+3	из	ИЗ	PR	PR	PR	2	атриб	_	_
+4	речи	РЕЧЬ	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	министра	МИНИСТР	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	финансов	ФИНАНСЫ	S	S - inan gen pl	S - inan gen pl	5	1-компл	_	_
+7	статс-секретаря	СТАТС-СЕКРЕТАРЬ	S	S m anim gen sg	S m anim gen sg	5	аппоз	_	_
+8	М.	М.	S	S - - nonflex nonflex	S - - nonflex nonflex	10	опред	_	_
+9	Х.	Х.	S	S - - nonflex nonflex	S - - nonflex nonflex	10	опред	_	_
+10	Рейтерна	РЕЙТЕРН	S	S m anim acc sg	S m anim acc sg	0	ROOT	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	произнесенной	ПРОИЗНОСИТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	10	опред	_	_
+13	в	В	PR	PR	PR	12	2-компл	_	_
+14	минувший	МИНУВШИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	15	опред	_	_
+15	четверг	ЧЕТВЕРГ	S	S m inan acc sg	S m inan acc sg	13	предл	_	_
+16	на	НА	PR	PR	PR	10	обст	_	_
+17	заседании	ЗАСЕДАНИЕ	S	S n inan loc sg	S n inan loc sg	16	предл	_	_
+18	Всероссийского	ВСЕРОССИЙСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+19	банковского	БАНКОВСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	20	опред	_	_
+20	союза	СОЮЗ	S	S m inan gen sg	S m inan gen sg	17	квазиагент	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	В	В	PR	PR	PR	9	обст	_	_
+2	1874	1874	NUM	NUM - - -	NUM - - -	3	опред	_	_
+3	году	ГОД	S	S m inan loc2 sg	S m inan loc2 sg	1	предл	_	_
+4	впервые	ВПЕРВЫЕ	ADV	ADV -	ADV -	5	огранич	_	_
+5	за	ЗА	PR	PR	PR	9	обст	_	_
+6	долгие	ДОЛГИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	7	опред	_	_
+7	годы	ГОД	S	S m inan acc pl	S m inan acc pl	5	предл	_	_
+8	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	9	предик	_	_
+9	вышли	ВЫХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+10	к	К	PR	PR	PR	9	2-компл	_	_
+11	положительному	ПОЛОЖИТЕЛЬНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	12	опред	_	_
+12	сальдо	САЛЬДО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	10	предл	_	_
+13	доходов	ДОХОД	S	S m inan gen pl	S m inan gen pl	12	1-компл	_	_
+14	над	НАД	PR	PR	PR	13	1-компл	_	_
+15	расходами	РАСХОД	S	S m inan ins pl	S m inan ins pl	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	вводн	_	_
+18	министр	МИНИСТР	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Роспись	РОСПИСЬ	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+2	1876	1876	NUM	NUM - - -	NUM - - -	3	опред	_	_
+3	года	ГОД	S	S m inan gen sg	S m inan gen sg	1	атриб	_	_
+4	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	исчислена	ИСЧИСЛЯТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	4	пасс-анал	_	_
+6	Государственным	ГОСУДАРСТВЕННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	7	опред	_	_
+7	Казначейством	КАЗНАЧЕЙСТВО	S	S m anim ins sg	S m anim ins sg	5	агент	_	_
+8	со	СО	PR	PR	PR	5	обст	_	_
+9	свободным	СВОБОДНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	10	опред	_	_
+10	остатком	ОСТАТОК	S	S m inan ins sg	S m inan ins sg	8	предл	_	_
+11	в	В	PR	PR	PR	5	2-компл	_	_
+12	40	40	NUM	NUM - - -	NUM - - -	13	количест	_	_
+13	миллионов	МИЛЛИОН	S	S m inan gen pl	S m inan gen pl	11	предл	_	_
+14	рублей	РУБЛЬ	S	S m inan gen pl	S m inan gen pl	13	квазиагент	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	без	БЕЗ	PR	PR	PR	4	обст	_	_
+3	малого	МАЛОЕ	S	S n inan gen sg	S n inan gen sg	2	предл	_	_
+4	год	ГОД	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+5	военных	ВОЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	действий	ДЕЙСТВИЕ	S	S n inan gen pl	S n inan gen pl	4	квазиагент	_	_
+7	обошелся	ОБХОДИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+8	казне	КАЗНА	S	S f inan dat sg	S f inan dat sg	7	2-компл	_	_
+9	в	В	PR	PR	PR	7	3-компл	_	_
+10	1	1	NUM	NUM - - -	NUM - - -	11	количест	_	_
+11	миллиард	МИЛЛИАРД	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+12	20	20	NUM	NUM - - -	NUM - - -	13	количест	_	_
+13	миллионов	МИЛЛИОН	S	S m inan gen pl	S m inan gen pl	7	1-компл	_	_
+14	рублей	РУБЛЬ	S	S m inan gen pl	S m inan gen pl	13	квазиагент	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	и	И	CONJ	CONJ	CONJ	7	сент-соч	_	_
+17	для	ДЛЯ	PR	PR	PR	23	обст	_	_
+18	дальнейшего	ДАЛЬНЕЙШИЙ	A	A - gen sg plen n -	A - gen sg plen n -	19	опред	_	_
+19	ведения	ВЕДЕНИЕ	S	S n inan gen sg	S n inan gen sg	17	предл	_	_
+20	войны	ВОЙНА	S	S f inan gen sg	S f inan gen sg	19	1-компл	_	_
+21	средств	СРЕДСТВО	S	S n inan gen pl	S n inan gen pl	23	предик	_	_
+22	не	НЕ	PART	PART	PART	23	огранич	_	_
+23	остается	ОСТАВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	16	соч-союзн	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Из-за	ИЗ-ЗА	PR	PR	PR	14	обст	_	_
+2	урезания	УРЕЗАНИЕ	S	S n inan gen sg	S n inan gen sg	1	предл	_	_
+3	расходов	РАСХОД	S	S m inan gen pl	S m inan gen pl	2	1-компл	_	_
+4	на	НА	PR	PR	PR	3	1-компл	_	_
+5	гражданские	ГРАЖДАНСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	6	опред	_	_
+6	нужды	НУЖДА	S	S f inan acc pl	S f inan acc pl	4	предл	_	_
+7	в	В	PR	PR	PR	2	атриб	_	_
+8	1877	1877	NUM	NUM - - -	NUM - - -	9	опред	_	_
+9	году	ГОД	S	S m inan loc2 sg	S m inan loc2 sg	7	предл	_	_
+10	на	НА	PR	PR	PR	14	обст	_	_
+11	территории	ТЕРРИТОРИЯ	S	S f inan loc sg	S f inan loc sg	10	предл	_	_
+12	империи	ИМПЕРИЯ	S	S f inan gen sg	S f inan gen sg	11	квазиагент	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	проложено	ПРОЛАГАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	0	ROOT	_	_
+15	ни	НИ	CONJ	CONJ	CONJ	17	соотнос	_	_
+16	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	17	количест	_	_
+17	версты	ВЕРСТА	S	S f inan gen sg	S f inan gen sg	14	предик	_	_
+18	железных	ЖЕЛЕЗНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	19	опред	_	_
+19	дорог	ДОРОГА	S	S f inan gen pl	S f inan gen pl	17	квазиагент	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Сумма	СУММА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+2	внешнего	ВНЕШНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	внутреннего	ВНУТРЕННИЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	соч-союзн	_	_
+5	государственного	ГОСУДАРСТВЕННЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	долга	ДОЛГ	S	S m inan gen sg	S m inan gen sg	1	1-компл	_	_
+7	возросла	ВОЗРАСТАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	до	ДО	PR	PR	PR	7	обст	_	_
+9	небывалых	НЕБЫВАЛЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	опред	_	_
+10	размеров	РАЗМЕР	S	S m inan gen pl	S m inan gen pl	8	предл	_	_
+11	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+12	составила	СОСТАВЛЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	11	соч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	соответственно	СООТВЕТСТВЕННО	ADV	ADV -	ADV -	15	огранич	_	_
+15	…	…	…	…	PUNC	12	1-компл	_	_
+16	»	»	SENT	SENT	SENT	15	PUNC	_	_
+

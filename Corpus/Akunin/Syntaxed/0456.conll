@@ -1,0 +1,64 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Что	ЧТО	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	вчерашняя	ВЧЕРАШНИЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	игра	ИГРА	S	S f inan nom sg	S f inan nom sg	2	сравн-союзн	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	приглядываясь	ПРИГЛЯДЫВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+6	к	К	PR	PR	PR	5	1-компл	_	_
+7	коричневым	КОРИЧНЕВЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	8	опред	_	_
+8	кругам	КРУГ	S	S m inan dat pl	S m inan dat pl	6	предл	_	_
+9	под	ПОД	PR	PR	PR	8	атриб	_	_
+10	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	9	предл	_	_
+11	Лукана	ЛУКАН	S	S m anim gen sg	S m anim gen sg	10	квазиагент	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Фортуна	ФОРТУНА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+3	ко	КО	PR	PR	PR	6	обст	_	_
+4	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	3	предл	_	_
+5	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	6	обст	_	_
+6	повернулась	ПОВЕРТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	10	2-компл	_	_
+9	–	–	–	–	PUNC	10	1-компл	_	_
+10	просиял	ПРОСИЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	вводн	_	_
+11	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	10	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Везенью	ВЕЗЕНИЕ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	вашего	ВАШ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	Зурова	ЗУРОВ	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+5	конец	КОНЕЦ	S	S m inan nom sg	S m inan nom sg	2	аппоз	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Известно	ИЗВЕСТНО	ADV	ADV -	ADV -	3	обст	_	_
+2	ли	ЛИ	PART	PART	PART	1	огранич	_	_
+3	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	0	ROOT	_	_
+4	о	О	PR	PR	PR	3	2-компл	_	_
+5	законе	ЗАКОН	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	больших	БОЛЬШОЙ	A	A - gen pl plen - -	A - gen pl plen - -	7	опред	_	_
+7	чисел	ЧИСЛО	S	S n inan gen pl	S n inan gen pl	5	квазиагент	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	14	обст	_	_
+2	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	5	обст	_	_
+3	за	ЗА	PR	PR	PR	2	атриб	_	_
+4	днем	ДЕНЬ	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+5	ставить	СТАВИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	1	инф-союзн	_	_
+6	крупные	КРУПНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	7	опред	_	_
+7	суммы	СУММА	S	S f inan acc pl	S f inan acc pl	5	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	то	ТО	CONJ	CONJ	CONJ	1	соотнос	_	_
+10	рано	РАНО	ADV	ADV -	ADV -	14	обст	_	_
+11	или	ИЛИ	CONJ	CONJ	CONJ	10	сочин	_	_
+12	поздно	ПОЗДНО	ADV	ADV -	ADV -	11	соч-союзн	_	_
+13	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	14	обст	_	_
+14	отыграешься	ОТЫГРЫВАТЬСЯ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

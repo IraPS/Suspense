@@ -1,0 +1,77 @@
+1	Мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	2	1-компл	_	_
+2	вспоминаются	ВСПОМИНАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+3	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	6	1-компл	_	_
+4	две	ДВА	NUM	NUM nom f -	NUM nom f -	6	количест	_	_
+5	любимые	ЛЮБИМЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+6	поговорки	ПОГОВОРКА	S	S f inan nom pl	S f inan nom pl	2	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	которые	КОТОРЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	предик	_	_
+9	хорошо	ХОРОШО	ADV	ADV -	ADV -	10	обст	_	_
+10	отвечали	ОТВЕЧАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	сент-соч	_	_
+11	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	10	1-компл	_	_
+12	характеру	ХАРАКТЕР	S	S m inan dat sg	S m inan dat sg	10	2-компл	_	_
+13	этого	ЭТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	14	опред	_	_
+14	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	12	атриб	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	17	обст	_	_
+2	случалось	СЛУЧАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	подч-союзн	_	_
+3	что-либо	ЧТО-ЛИБО	S	S n - nom sg	S n - nom sg	8	агент	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	совсем	СОВСЕМ	ADV	ADV -	ADV -	6	огранич	_	_
+6	для	ДЛЯ	PR	PR	PR	8	обст	_	_
+7	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	6	предл	_	_
+8	приятное	ПРИЯТНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	2	предик	_	_
+9	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+10	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	11	1-компл	_	_
+11	рассказывали	РАССКАЗЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	соч-союзн	_	_
+12	о	О	PR	PR	PR	11	3-компл	_	_
+13	том	ТО	S	S n - loc sg	S n - loc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	то	ТО	CONJ	CONJ	CONJ	1	соотнос	_	_
+16	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	17	предик	_	_
+17	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+18	шутливо	ШУТЛИВО	ADV	ADV -	ADV -	19	обст	_	_
+19	:	:	:	:	PUNC	17	1-компл	_	_
+20	«	«	_	_	PUNC	19	PUNC	_	_
+21	Ну	НУ	PART	PART	PART	22	вводн	_	_
+22	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+23	пусть	ПУСТЬ	PART	PART	PART	22	соч-союзн	_	_
+24	»	»	_	_	PUNC	23	PUNC	_	_
+25	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	3	предик	_	_
+2	так	ТАК	ADV	ADV -	ADV -	3	обст	_	_
+3	гармонировало	ГАРМОНИРОВАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	с	С	PR	PR	PR	3	обст	_	_
+5	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	8	квазиагент	_	_
+6	всегдашней	ВСЕГДАШНИЙ	A	A - loc sg plen f -	A - loc sg plen f -	8	опред	_	_
+7	покорностью	ПОКОРНОСТЬ	S	S f inan ins sg	S f inan ins sg	6	1-компл	_	_
+8	Провидению	ПРОВИДЕНИЕ	S	S n inan dat sg	S n inan dat sg	4	предл	_	_
+9	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+10	легкостью	ЛЕГКОСТЬ	S	S f inan ins sg	S f inan ins sg	0	ROOT	_	_
+11	отношения	ОТНОШЕНИЕ	S	S n inan nom pl	S n inan nom pl	0	ROOT	_	_
+12	к	К	PR	PR	PR	11	1-компл	_	_
+13	неприятностям	НЕПРИЯТНОСТЬ	S	S f inan dat pl	S f inan dat pl	12	предл	_	_
+14	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	13	квазиагент	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Когда	КОГДА	ADV	ADV -	ADV -	4	обст	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	4	1-компл	_	_
+4	сообщали	СООБЩАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	что-либо	ЧТО-ЛИБО	S	S n - acc sg	S n - acc sg	6	опред	_	_
+6	приятное	ПРИЯТНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	4	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	9	предик	_	_
+9	восклицал	ВОСКЛИЦАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сент-соч	_	_
+10	:	:	:	:	PUNC	9	1-компл	_	_
+11	«	«	_	_	PUNC	10	PUNC	_	_
+12	А	А	CONJ	CONJ	CONJ	4	обст	_	_
+13	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	0	ROOT	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	рад	РАД	A	A - - sg brev m -	A - - sg brev m -	14	соч-союзн	_	_
+16	!	!	!	!	PUNC	15	1-компл	_	_
+17	»	»	_	_	PUNC	16	PUNC	_	_
+18	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

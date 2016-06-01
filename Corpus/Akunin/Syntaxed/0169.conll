@@ -1,0 +1,40 @@
+1	Застигнутый	ЗАСТИГАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	4	предик	_	_
+2	врасплох	ВРАСПЛОХ	ADV	ADV -	ADV -	4	обст	_	_
+3	жандарм	ЖАНДАРМ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	вытянулся	ВЫТЯГИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	в	В	PR	PR	PR	4	2-компл	_	_
+6	струнку	СТРУНКА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+8	зашлепал	ЗАШЛЕПАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+9	губами	ГУБА	S	S f inan ins pl	S f inan ins pl	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+12	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	16	предик	_	_
+13	во	ВО	PR	PR	PR	16	обст	_	_
+14	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	15	опред	_	_
+15	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	13	предл	_	_
+16	уставилась	УСТАВЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	11	соч-союзн	_	_
+17	на	НА	PR	PR	PR	16	1-компл	_	_
+18	главного	ГЛАВНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	19	опред	_	_
+19	сатрапа	САТРАП	S	S m inan gen sg	S m inan gen sg	17	предл	_	_
+20	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+21	палача	ПАЛАЧ	S	S m anim gen sg	S m anim gen sg	20	соч-союзн	_	_
+22	свободы	СВОБОДА	S	S f inan gen sg	S f inan gen sg	21	1-компл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	каковым	КАКОВОЙ	A	A - ins sg plen n -	A - ins sg plen n -	25	присвяз	_	_
+25	слыл	СЛЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	1-компл	_	_
+26	у	У	PR	PR	PR	25	обст	_	_
+27	передовой	ПЕРЕДОВОЙ	A	A - ins sg plen f -	A - ins sg plen f -	28	опред	_	_
+28	молодежи	МОЛОДЕЖЬ	S	S f inan ins sg	S f inan ins sg	26	предл	_	_
+29	начальник	НАЧАЛЬНИК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+30	Третьего	ТРЕТИЙ	A	A - gen sg plen m -	A - gen sg plen m -	31	опред	_	_
+31	отделения	ОТДЕЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	29	1-компл	_	_
+32	и	И	CONJ	CONJ	CONJ	29	сочин	_	_
+33	шеф	ШЕФ	S	S m anim nom sg	S m anim nom sg	32	соч-союзн	_	_
+34	жандармского	ЖАНДАРМСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	35	опред	_	_
+35	корпуса	КОРПУС	S	S m inan gen sg	S m inan gen sg	33	1-компл	_	_
+36	Лаврентий	ЛАВРЕНТИЙ	S	S m anim nom sg	S m anim nom sg	33	аппоз	_	_
+37	Аркадьевич	АРКАДЬЕВИЧ	S	S m anim nom sg	S m anim nom sg	36	аппоз	_	_
+38	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	37	аппоз	_	_
+39	.	.	SENT	SENT	SENT	38	PUNC	_	_
+

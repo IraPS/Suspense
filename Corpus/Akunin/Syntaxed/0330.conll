@@ -1,0 +1,49 @@
+1	Обернувшись	ОБЕРТЫВАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	4	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+4	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	у	У	PR	PR	PR	4	обст	_	_
+6	входа	ВХОД	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+7	статного	СТАТНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	9	опред	_	_
+8	гусарского	ГУСАРСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	офицера	ОФИЦЕР	S	S m anim gen sg	S m anim gen sg	6	квазиагент	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	черноволосого	ЧЕРНОВОЛОСЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	4	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	с	С	PR	PR	PR	4	2-компл	_	_
+14	лихими	ЛИХОЙ	A	A - ins pl plen - -	A - ins pl plen - -	15	опред	_	_
+15	усами	УС	S	S m inan ins pl	S m inan ins pl	13	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	бесшабашными	БЕСШАБАШНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	27	предик	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	чуть	ЧУТЬ	ADV	ADV -	ADV -	20	огранич	_	_
+20	навыкате	НАВЫКАТЕ	ADV	ADV -	ADV -	21	огранич	_	_
+21	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	17	сочин	_	_
+22	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+23	новеньким	НОВЕНЬКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	25	опред	_	_
+24	«	«	_	_	PUNC	25	PUNC	_	_
+25	георгием	ГЕОРГИЙ	S	S m anim ins sg	S m anim ins sg	22	соч-союзн	_	_
+26	»	»	_	_	PUNC	25	PUNC	_	_
+27	на	НА	PR	PR	PR	4	сент-соч	_	_
+28	ментике	МЕНТИК	S	S f inan acc sg	S f inan acc sg	27	предл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Вошедшего	ВХОДИТЬ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	3	опред	_	_
+2	всеобщее	ВСЕОБЩИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	3	опред	_	_
+3	внимание	ВНИМАНИЕ	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+4	нисколько	НИСКОЛЬКО	ADV	ADV -	ADV -	6	обст	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	смутило	СМУЩАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+7	–	–	–	–	PUNC	6	предик	_	_
+8	напротив	НАПРОТИВ	ADV	ADV -	ADV -	11	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	гусар	ГУСАР	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+11	воспринял	ВОСПРИНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	сент-соч	_	_
+12	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	11	1-компл	_	_
+13	как	КАК	ADV	ADV -	ADV -	14	обст	_	_
+14	нечто	НЕЧТО	S	S n - nom sg	S n - nom sg	11	сент-соч	_	_
+15	само	САМ	A	A - nom sg plen n -	A - nom sg plen n -	17	опред	_	_
+16	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	15	вспом	_	_
+17	разумеющееся	РАЗУМЕТЬСЯ	PARTCP	PARTCP ipf inpraes acc sg plen n act -	PARTCP ipf inpraes acc sg plen n act -	14	предик	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

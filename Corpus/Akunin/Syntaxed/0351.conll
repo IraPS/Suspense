@@ -1,0 +1,19 @@
+1	Мужчины	МУЖЧИНА	S	S m anim nom pl	S m anim nom pl	2	предик	_	_
+2	захохотали	ЗАХОХОТАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+6	воскликнула	ВОСКЛИЦАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	соч-союзн	_	_
+7	:	:	:	:	PUNC	0	ROOT	_	_
+8	–	–	–	–	PUNC	9	1-компл	_	_
+9	Стыдитесь	СТЫДИТЬСЯ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	7	сочин	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	господа	ГОСПОДИН	S	S m anim gen sg	S m anim gen sg	9	сент-соч	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	ведь	ВЕДЬ	CONJ	CONJ	CONJ	7	обст	_	_
+14	это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+15	ужас	УЖАС	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+16	что	ЧТО	CONJ	CONJ	CONJ	15	1-компл	_	_
+17	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	16	подч-союзн	_	_
+18	!	!	SENT	SENT	SENT	17	PUNC	_	_
+

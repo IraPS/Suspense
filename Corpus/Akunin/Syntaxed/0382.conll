@@ -1,0 +1,21 @@
+1	Лукан	ЛУКАН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	3	обст	_	_
+3	вскрыл	ВСКРЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	зуровские	ЗУРОВСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	5	опред	_	_
+5	карты	КАРТА	S	S f inan gen sg	S f inan gen sg	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	протяжно	ПРОТЯЖНО	ADV	ADV -	ADV -	8	обст	_	_
+8	застонал	ЗАСТОНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	схватился	СХВАТЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+11	за	ЗА	PR	PR	PR	10	2-компл	_	_
+12	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Граф	ГРАФ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	скептически	СКЕПТИЧЕСКИ	ADV	ADV -	ADV -	3	обст	_	_
+3	разглядывал	РАЗГЛЯДЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	выигранный	ВЫИГРЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	5	опред	_	_
+5	перстень	ПЕРСТЕНЬ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

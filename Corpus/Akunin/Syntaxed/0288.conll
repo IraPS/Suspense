@@ -1,0 +1,52 @@
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Ставлю	СТАВИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	двести	ДВЕСТИ	NUM	NUM acc - -	NUM acc - -	4	количест	_	_
+4	рублей	РУБЛЬ	S	S m inan gen pl	S m inan gen pl	2	компл-аппоз	_	_
+5	на	НА	PR	PR	PR	4	распред	_	_
+6	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	5	предл	_	_
+7	'	'	_	_	PUNC	6	PUNC	_	_
+8	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+9	!	!	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	объявил	ОБЪЯВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	На	НА	PR	PR	PR	1	2-компл	_	_
+3	любую	ЛЮБОЙ	A	A - acc sg plen f -	A - acc sg plen f -	4	опред	_	_
+4	тему	ТЕМА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	медленно	МЕДЛЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	повторил	ПОВТОРЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	ирландец	ИРЛАНДЕЦ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Так-таки	ТАК-ТАКИ	PART	PART	PART	3	огранич	_	_
+3	на	НА	PR	PR	PR	1	3-компл	_	_
+4	любую	ЛЮБОЙ	A	A - acc sg plen f -	A - acc sg plen f -	3	предл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Абсолютно	АБСОЛЮТНО	ADV	ADV -	ADV -	1	обст	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Хоть	ХОТЬ	PART	PART	PART	2	огранич	_	_
+2	вон	ВОН	ADV	ADV -	ADV -	0	ROOT	_	_
+3	про	ПРО	PR	PR	PR	7	3-компл	_	_
+4	ту	ТОТ	A	A - acc sg plen f -	A - acc sg plen f -	5	опред	_	_
+5	муху	МУХА	S	S f anim acc sg	S f anim acc sg	3	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	2	эксплет	_	_
+8	сидит	СИДЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	подч-союзн	_	_
+9	на	НА	PR	PR	PR	8	1-компл	_	_
+10	усе	УС	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+11	у	У	PR	PR	PR	8	2-компл	_	_
+12	полковника	ПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	11	предл	_	_
+13	Лукана	ЛУКАН	S	S m anim gen sg	S m anim gen sg	12	аппоз	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"корреспондент","gr":"S,m,anim=nom,sg"}],"text":"корреспондент"}
+{"analysis":[{"lex":"посмотреть","gr":"V,pf,tran=praet,pl,indic"}],"text":"посмотрели"}
+{"analysis":[{"lex":"друг","gr":"S,m,anim=nom,sg"}],"text":"друг"}
+{"analysis":[{"lex":"друг","gr":"S,m,anim=dat,sg"}],"text":"другу"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=acc,pl"},{"lex":"глаз","gr":"S,m,inan=gen,sg"},{"lex":"глаз","gr":"S,m,inan=nom,pl"}],"text":"глаза"}

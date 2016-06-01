@@ -1,0 +1,43 @@
+1	Физиологическая	ФИЗИОЛОГИЧЕСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	надобность	НАДОБНОСТЬ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	затянулась	ЗАТЯГИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	дольше	ДОЛГО	ADV	ADV comp	ADV comp	3	обст	_	_
+5	всех	ВЕСЬ	A	A - gen pl plen - -	A - gen pl plen - -	7	опред	_	_
+6	мыслимых	МЫСЛИМЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	7	опред	_	_
+7	пределов	ПРЕДЕЛ	S	S m inan gen pl	S m inan gen pl	4	сравнит	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+2	немного	НЕМНОГО	ADV	ADV -	ADV -	3	огранич	_	_
+3	поела	ПОЕСТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	соленого	СОЛЕНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+5	невкусного	НЕВКУСНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	6	опред	_	_
+6	сыра	СЫР	S	S m inan gen sg	S m inan gen sg	3	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	пригубила	ПРИГУБЛИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	сочин	_	_
+9	кислого	КИСЛЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	10	опред	_	_
+10	вина	ВИНО	S	S n inan gen sg	S n inan gen sg	8	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	а	А	CONJ	CONJ	CONJ	8	сочин	_	_
+13	потом	ПОТОМ	ADV	ADV -	ADV -	20	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	выдержав	ВЫДЕРЖИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	20	обст	_	_
+17	внимания	ВНИМАНИЕ	S	S n inan gen sg	S n inan gen sg	16	1-компл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	которое	КОТОРЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	20	предик	_	_
+20	начали	НАЧИНАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	12	соч-союзн	_	_
+21	проявлять	ПРОЯВЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	20	1-компл	_	_
+22	к	К	PR	PR	PR	21	2-компл	_	_
+23	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	24	квазиагент	_	_
+24	персоне	ПЕРСОНА	S	S f anim loc sg	S f anim loc sg	22	предл	_	_
+25	жутковатые	ЖУТКОВАТЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	26	опред	_	_
+26	посетители	ПОСЕТИТЕЛЬ	S	S m anim nom pl	S m anim nom pl	20	предик	_	_
+27	питейного	ПИТЕЙНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	28	опред	_	_
+28	заведения	ЗАВЕДЕНИЕ	S	S n inan gen sg	S n inan gen sg	26	1-компл	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	вышла	ВЫХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	20	разъяснит	_	_
+31	во	ВО	PR	PR	PR	30	2-компл	_	_
+32	двор	ДВОР	S	S m inan acc sg	S m inan acc sg	31	предл	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+

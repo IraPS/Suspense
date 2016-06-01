@@ -1,0 +1,32 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	близка	БЛИЗКИЙ	A	A - - sg brev f -	A - - sg brev f -	2	присвяз	_	_
+4	к	К	PR	PR	PR	3	1-компл	_	_
+5	панике	ПАНИКА	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Уехать	УЕЗЖАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+2	с	С	PR	PR	PR	1	1-компл	_	_
+3	Луканом	ЛУКАН	S	S m anim ins sg	S m anim ins sg	2	предл	_	_
+4	–	–	–	–	PUNC	6	обст	_	_
+5	навсегда	НАВСЕГДА	ADV	ADV -	ADV -	6	обст	_	_
+6	погубить	ПОГУБИТЬ	V	V pf - - inf - -	V pf - - inf - -	1	сочин	_	_
+7	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	репутацию	РЕПУТАЦИЯ	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	да	ДА	CONJ	CONJ	CONJ	6	сочин	_	_
+11	еще	ЕЩЕ	ADV	ADV -	ADV -	13	огранич	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	известно	ИЗВЕСТНО	ADV	ADV -	ADV -	16	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	чем	ЧТО	S	S n inan loc sg	S n inan loc sg	16	1-компл	_	_
+16	кончится	КОНЧАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	10	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Отказать	ОТКАЗЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+2	–	–	–	–	PUNC	0	ROOT	_	_
+3	сорвать	СОРВАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	полученное	ПОЛУЧАТЬ	PARTCP	PARTCP pf praet acc sg plen n pass -	PARTCP pf praet acc sg plen n pass -	5	опред	_	_
+5	задание	ЗАДАНИЕ	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

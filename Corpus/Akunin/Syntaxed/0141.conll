@@ -1,0 +1,25 @@
+1	Генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	оглядел	ОГЛЯДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Фандорина	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+4	с	С	PR	PR	PR	3	атриб	_	_
+5	головы	ГОЛОВА	S	S f inan gen sg	S f inan gen sg	4	предл	_	_
+6	до	ДО	PR	PR	PR	4	соотнос	_	_
+7	ног	НОГА	S	S f inan gen pl	S f inan gen pl	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Уважительно	УВАЖИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+2	поинтересовался	ПОИНТЕРЕСОВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	предик	_	_
+3	:	:	:	:	PUNC	5	опред	_	_
+4	–	–	–	–	PUNC	5	опред	_	_
+5	Поди	ПОДИ	INTJ	INTJ	INTJ	2	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	хлебнули	ХЛЕБНУТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	вводн	_	_
+8	горя	ГОРЕ	S	S n inan gen sg	S n inan gen sg	7	1-компл	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Чем	ЧЕМ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	занимались	ЗАНИМАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	соч-союзн	_	_
+3	до	ДО	PR	PR	PR	2	1-компл	_	_
+4	Сербии	СЕРБИЯ	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+

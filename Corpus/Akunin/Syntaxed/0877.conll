@@ -1,0 +1,18 @@
+1	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	взглянул	ВЗГЛЯДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	8	предик	_	_
+8	заметила	ЗАМЕЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	8	1-компл	_	_
+11	глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	13	предик	_	_
+12	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	13	квазиагент	_	_
+13	засветились	ЗАСВЕЧИВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	10	подч-союзн	_	_
+14	каким-то	КАКОЙ-ТО	A	A - ins sg plen m -	A - ins sg plen m -	16	опред	_	_
+15	особенным	ОСОБЕННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	16	опред	_	_
+16	блеском	БЛЕСК	S	S m inan ins sg	S m inan ins sg	13	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

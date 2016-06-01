@@ -1,0 +1,29 @@
+1	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	1-компл	_	_
+2	'	'	_	_	PUNC	1	PUNC	_	_
+3	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	1	1-компл	_	_
+4	шевельнулся	ШЕВЕЛЬНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+7	жандармы	ЖАНДАРМ	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+8	вскинули	ВСКИДЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	соч-союзн	_	_
+9	карабины	КАРАБИН	S	S m inan acc pl	S m inan acc pl	8	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	готовые	ГОТОВЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	0	ROOT	_	_
+12	стрелять	СТРЕЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Журналист	ЖУРНАЛИСТ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	выразительно	ВЫРАЗИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+3	покачал	ПОКАЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	3	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	спрятал	СПРЯТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+7	руки	РУКА	S	S f inan acc pl	S f inan acc pl	6	1-компл	_	_
+8	назад	НАЗАД	ADV	ADV -	ADV -	6	2-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	под	ПОД	PR	PR	PR	6	обст	_	_
+11	фалды	ФАЛДА	S	S f inan acc pl	S f inan acc pl	10	предл	_	_
+12	дорожного	ДОРОЖНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	опред	_	_
+13	сюртука	СЮРТУК	S	S m inan gen sg	S m inan gen sg	11	квазиагент	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

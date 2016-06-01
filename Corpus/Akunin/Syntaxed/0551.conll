@@ -1,0 +1,11 @@
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+2	обреченно	ОБРЕЧЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	припала	ПРИПАДАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	плечом	ПЛЕЧО	S	S n inan ins sg	S n inan ins sg	3	1-компл	_	_
+5	к	К	PR	PR	PR	4	1-компл	_	_
+6	стене	СТЕНА	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	подбородок	ПОДБОРОДОК	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+9	задрожал	ЗАДРОЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

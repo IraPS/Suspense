@@ -1,0 +1,91 @@
+1	Поверь	ПОВЕРЯТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	7	обст	_	_
+2	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Лаврентий	ЛАВРЕНТИЙ	S	S m anim gen sg	S m anim gen sg	1	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	7	предик	_	_
+7	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	в	В	PR	PR	PR	7	обст	_	_
+10	силах	СИЛА	S	S f inan loc pl	S f inan loc pl	9	предл	_	_
+11	что-либо	ЧТО-ЛИБО	S	S n - acc sg	S n - acc sg	12	1-компл	_	_
+12	изменить	ИЗМЕНЯТЬ	V	V pf - - inf - -	V pf - - inf - -	10	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	заклинал	ЗАКЛИНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	угрожал	УГРОЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	интриговал	ИНТРИГОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	как	КАК	CONJ	CONJ	CONJ	6	1-компл	_	_
+9	евнух	ЕВНУХ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+10	в	В	PR	PR	PR	8	подч-союзн	_	_
+11	гареме	ГАРЕМ	S	S m inan loc sg	S m inan loc sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+14	Абдул	АБДУЛ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+15	-	-	-	-	PUNC	14	PUNC	_	_
+16	Азис	АЗИС	S	S m inan nom sg	S m inan nom sg	17	предик	_	_
+17	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	14	релят	_	_
+18	глух	ГЛУХОЙ	A	A - - sg brev m -	A - - sg brev m -	17	присвяз	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	нем	НЕМОЙ	A	A - nom sg plen n -	A - nom sg plen n -	19	соч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	29	29	NUM	NUM - - -	NUM - - -	7	опред	_	_
+2	мая	МАЙ	S	S m inan gen sg	S m inan gen sg	1	атриб	_	_
+3	вокруг	ВОКРУГ	PR	PR	PR	1	уточн	_	_
+4	дворца	ДВОРЕЦ	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	Долма	ДОЛМА	S	S f inan nom sg	S f inan nom sg	4	аппоз	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	бахче	БАХЧА	S	S f inan loc sg	S f inan loc sg	17	1-компл	_	_
+8	(	(	_	_	PUNC	9	PUNC	_	_
+9	преуродливое	ПРЕУРОДЛИВЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	10	опред	_	_
+10	строение	СТРОЕНИЕ	S	S n inan nom sg	S n inan nom sg	11	предик	_	_
+11	в	В	PR	PR	PR	7	примыкат	_	_
+12	европейско	ЕВРОПЕЙСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	восточном	ВОСТОЧНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	15	опред	_	_
+15	стиле	СТИЛЬ	S	S m inan loc sg	S m inan loc sg	11	предл	_	_
+16	)	)	_	_	PUNC	15	PUNC	_	_
+17	гудела	ГУДЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+18	многотысячная	МНОГОТЫСЯЧНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	19	опред	_	_
+19	толпа	ТОЛПА	S	S f inan nom sg	S f inan nom sg	17	предик	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	а	А	CONJ	CONJ	CONJ	17	сент-соч	_	_
+22	падишах	ПАДИШАХ	S	S m anim nom sg	S m anim nom sg	25	предик	_	_
+23	даже	ДАЖЕ	PART	PART	PART	25	огранич	_	_
+24	не	НЕ	PART	PART	PART	25	огранич	_	_
+25	попытался	ПОПЫТАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	соч-союзн	_	_
+26	успокоить	УСПОКАИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	25	1-компл	_	_
+27	подданных	ПОДДАННЫЙ	S	S m anim acc pl	S m anim acc pl	26	1-компл	_	_
+28	–	–	–	–	PUNC	30	1-компл	_	_
+29	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	30	предик	_	_
+30	заперся	ЗАПИРАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	25	сочин	_	_
+31	на	НА	PR	PR	PR	30	обст	_	_
+32	женской	ЖЕНСКИЙ	A	A - loc sg plen f -	A - loc sg plen f -	33	опред	_	_
+33	половине	ПОЛОВИНА	S	S f inan loc sg	S f inan loc sg	31	предл	_	_
+34	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	35	опред	_	_
+35	резиденции	РЕЗИДЕНЦИЯ	S	S f inan gen sg	S f inan gen sg	33	квазиагент	_	_
+36	,	,	,	,	PUNC	35	PUNC	_	_
+37	куда	КУДА	ADV	ADV -	ADV -	40	огранич	_	_
+38	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	39	опред	_	_
+39	хода	ХОД	S	S m inan gen sg	S m inan gen sg	40	предик	_	_
+40	нет	НЕТ	ADV	ADV -	ADV -	30	обст	_	_
+41	,	,	,	,	PUNC	40	PUNC	_	_
+42	и	И	CONJ	CONJ	CONJ	40	сочин	_	_
+43	слушал	СЛУШАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	42	соч-союзн	_	_
+44	,	,	,	,	PUNC	43	PUNC	_	_
+45	как	КАК	ADV	ADV -	ADV -	49	обст	_	_
+46	Михри	МИХОРЬ	S	S m inan acc pl	S m inan acc pl	49	1-компл	_	_
+47	-	-	-	-	PUNC	46	PUNC	_	_
+48	ханум	ХАНУМ	S	S f inan nom sg	S f inan nom sg	49	предик	_	_
+49	играет	ИГРАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	30	сент-соч	_	_
+50	на	НА	PR	PR	PR	49	1-компл	_	_
+51	фортепиано	ФОРТЕПИАНО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	50	предл	_	_
+52	венские	ВЕНСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	53	опред	_	_
+53	вальсы	ВАЛЬС	S	S m inan acc pl	S m inan acc pl	49	сочин	_	_
+54	.	.	SENT	SENT	SENT	53	PUNC	_	_
+

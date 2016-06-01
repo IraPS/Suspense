@@ -1,0 +1,37 @@
+1	Наступила	НАСТУПАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+2	ночь	НОЧЬ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	в	В	PR	PR	PR	6	обст	_	_
+5	штаб	ШТАБ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	вернулись	ВЕРНУТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	сент-соч	_	_
+7	угрюмые	УГРЮМЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	8	опред	_	_
+8	генералы	ГЕНЕРАЛ	S	S m anim nom pl	S m anim nom pl	6	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	видела	ВИДЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	2	сравнит	_	_
+5	в	В	PR	PR	PR	4	сравн-союзн	_	_
+6	домик	ДОМИК	S	S m inan acc sg	S m inan acc sg	5	предл	_	_
+7	оперативного	ОПЕРАТИВНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	8	опред	_	_
+8	отдела	ОТДЕЛ	S	S m inan gen sg	S m inan gen sg	6	квазиагент	_	_
+9	прошел	ПРОХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+10	окруженный	ОКРУЖАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	12	опред	_	_
+11	адъютантами	АДЪЮТАНТ	S	S m anim ins pl	S m anim ins pl	10	агент	_	_
+12	Николай	НИКОЛАЙ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+13	Николаевич	НИКОЛАЕВИЧ	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	8	квазиагент	_	_
+2	лошадиное	ЛОШАДИНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	8	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	обрамленное	ОБРАМЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen n pass -	PARTCP pf praet acc sg plen n pass -	2	сочин	_	_
+5	густыми	ГУСТОЙ	A	A - ins pl plen - -	A - ins pl plen - -	6	опред	_	_
+6	бакенбардами	БАКЕНБАРДА	S	S f inan ins pl	S f inan ins pl	4	агент	_	_
+7	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	8	предик	_	_
+8	дергалось	ДЕРГАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+9	от	ОТ	PR	PR	PR	8	1-компл	_	_
+10	тика	ТИК	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

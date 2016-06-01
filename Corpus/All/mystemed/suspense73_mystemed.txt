@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"да","gr":"CONJ="}],"text":"Да"}
+{"analysis":[{"lex":"пойти","gr":"V,pf,intr=inpraes,sg,indic,1p"}],"text":"пойду"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"поглядеть","gr":"V,pf,tran=inpraes,sg,indic,1p"}],"text":"погляжу"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"последний","gr":"A=acc,sg,plen,m,inan"},{"lex":"последний","gr":"A=nom,sg,plen,m"}],"text":"последний"}
+{"analysis":[{"lex":"раз","gr":"S,m,inan=acc,sg"},{"lex":"раз","gr":"S,m,inan=gen,pl"},{"lex":"раз","gr":"S,m,inan=nom,sg"}],"text":"раз"}
+{"text":"\\s"}
+{"analysis":[{"lex":"сейчас","gr":"ADV="}],"text":"Сейчас"}
+{"analysis":[{"lex":"раздаваться","gr":"V,intr=inpraes,sg,indic,3p,pf"}],"text":"раздастся"}
+{"analysis":[{"lex":"стук","gr":"S,m,inan=acc,sg"},{"lex":"стук","gr":"S,m,inan=nom,sg"}],"text":"стук"}

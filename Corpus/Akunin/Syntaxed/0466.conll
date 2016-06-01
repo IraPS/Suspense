@@ -1,0 +1,90 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	стратег	СТРАТЕГ	S	S m anim nom sg	S m anim nom sg	1	примыкат	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	3	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	гляжу	ГЛЯДЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	7	соч-союзн	_	_
+9	дальше	ДАЛЕКО	ADV	ADV comp	ADV comp	8	обст	_	_
+10	ваших	ВАШ	A	A - gen pl plen - -	A - gen pl plen - -	11	опред	_	_
+11	генштабистов	ГЕНШТАБИСТ	S	S m inan gen sg	S m inan gen sg	9	сравнит	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Здесь	ЗДЕСЬ	ADV	ADV -	ADV -	4	обст	_	_
+2	(	(	_	_	PUNC	3	PUNC	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	2-компл	_	_
+6	свой	СВОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	7	опред	_	_
+7	планшет	ПЛАНШЕТ	S	S m inan acc sg	S m inan acc sg	5	предл	_	_
+8	)	)	_	_	PUNC	7	PUNC	_	_
+9	копия	КОПИЯ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+10	моего	МОЙ	A	A - gen sg plen m -	A - gen sg plen m -	11	опред	_	_
+11	рапорта	РАПОРТ	S	S m inan gen sg	S m inan gen sg	9	квазиагент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	еще	ЕЩЕ	ADV	ADV -	ADV -	14	огранич	_	_
+14	вчера	ВЧЕРА	ADV	ADV -	ADV -	15	обст	_	_
+15	отправленного	ОТПРАВЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	9	опред	_	_
+16	князю	КНЯЗЬ	S	S m anim dat sg	S m anim dat sg	15	2-компл	_	_
+17	Карлу	КАРЛА	S	S m anim acc sg	S m anim acc sg	15	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+2	предсказываю	ПРЕДСКАЗЫВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	русским	РУССКИЙ	A	A - ins sg plen n -	A - ins sg plen n -	4	опред	_	_
+4	полное	ПОЛНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	2	1-компл	_	_
+5	фиаско	ФИАСКО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	4	1-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	уверен	УВЕРЕННЫЙ	A	A - - sg brev m -	A - - sg brev m -	6	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	11	квазиагент	_	_
+11	высочество	ВЫСОЧЕСТВО	S	S n inan nom sg	S n inan nom sg	12	предик	_	_
+12	оценит	ОЦЕНИВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	9	подч-союзн	_	_
+13	мою	МОЙ	A	A - acc sg plen f -	A - acc sg plen f -	14	опред	_	_
+14	прозорливость	ПРОЗОРЛИВОСТЬ	S	S f inan nom sg	S f inan nom sg	12	присвяз	_	_
+15	по	ПО	PR	PR	PR	14	атриб	_	_
+16	достоинству	ДОСТОИНСТВО	S	S n inan dat sg	S n inan dat sg	15	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Ваши	ВАШ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	полководцы	ПОЛКОВОДЕЦ	S	S m anim nom pl	S m anim nom pl	4	предик	_	_
+3	слишком	СЛИШКОМ	ADV	ADV -	ADV -	4	огранич	_	_
+4	спесивы	СПЕСИВЫЙ	A	A - - pl brev - -	A - - pl brev - -	0	ROOT	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	самоуверенны	САМОУВЕРЕННЫЙ	A	A - - pl brev - -	A - - pl brev - -	5	соч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	9	предик	_	_
+9	переоценивают	ПЕРЕОЦЕНИВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	4	сент-соч	_	_
+10	своих	СВОЙ	A	A - acc pl plen - anim	A - acc pl plen - anim	11	опред	_	_
+11	солдат	СОЛДАТ	S	S m anim gen pl	S m anim gen pl	9	1-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+13	недооценивают	НЕДООЦЕНИВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	12	соч-союзн	_	_
+14	турок	ТУРОК	S	S m anim acc pl	S m anim acc pl	13	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	А также	А также	CONJ	CONJ	ZERO	6	опред	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	2	соч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	румынских	РУМЫНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	союзников	СОЮЗНИК	S	S m anim gen pl	S m anim gen pl	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Ничего	НИЧЕГО	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	после	ПОСЛЕ	PR	PR	PR	8	обст	_	_
+4	сегодняшнего	СЕГОДНЯШНИЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	урока	УРОК	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+6	царь	ЦАРЬ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+7	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	8	суб-копр	_	_
+8	попросит	ПОПРОСИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+9	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	8	1-компл	_	_
+10	о	О	PR	PR	PR	9	1-компл	_	_
+11	помощи	ПОМОЩЬ	S	S f inan loc sg	S f inan loc sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	вот	ВОТ	PART	PART	PART	14	огранич	_	_
+14	увидите	УВИДЕТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	8	вводн	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

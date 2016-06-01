@@ -1,0 +1,112 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	в	В	PR	PR	PR	11	обст	_	_
+3	клубе	КЛУБ	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	в	В	PR	PR	PR	5	соч-союзн	_	_
+7	офицерской	ОФИЦЕРСКИЙ	A	A - loc sg plen f -	A - loc sg plen f -	8	опред	_	_
+8	кантине	КАНТИНА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	где	ГДЕ	ADV	ADV -	ADV -	11	обст	_	_
+11	столовалась	СТОЛОВАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	1	соч-союзн	_	_
+12	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	16	предик	_	_
+15	разом	РАЗОМ	ADV	ADV -	ADV -	16	обст	_	_
+16	превратились	ПРЕВРАЩАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	11	сент-соч	_	_
+17	в	В	PR	PR	PR	16	1-компл	_	_
+18	стратегов	СТРАТЕГ	S	S m anim gen pl	S m anim gen pl	17	предл	_	_
+19	–	–	–	–	PUNC	20	1-компл	_	_
+20	рисовали	РИСОВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	16	сент-соч	_	_
+21	схемы	СХЕМА	S	S f inan nom pl	S f inan nom pl	20	предик	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	сыпали	СЫПАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	20	сент-соч	_	_
+24	именами	ИМЯ	S	S n inan ins pl	S n inan ins pl	23	1-компл	_	_
+25	турецких	ТУРЕЦКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	26	опред	_	_
+26	пашей	ПАША	S	S m inan gen pl	S m inan gen pl	24	квазиагент	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	гадали	ГАДАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	23	сочин	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	откуда	ОТКУДА	ADV	ADV -	ADV -	31	обст	_	_
+31	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	28	сент-соч	_	_
+32	нанесен	НАНОСИТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	31	пасс-анал	_	_
+33	главный	ГЛАВНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	34	опред	_	_
+34	удар	УДАР	S	S m inan nom sg	S m inan nom sg	31	предик	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+
+1	Несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	2	количест	_	_
+2	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	3	обст	_	_
+3	заезжал	ЗАЕЗЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	3	сочин	_	_
+7	держался	ДЕРЖАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	соч-союзн	_	_
+8	загадочно	ЗАГАДОЧНО	ADV	ADV -	ADV -	7	обст	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	важно	ВАЖНО	ADV	ADV -	ADV -	9	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	в	В	PR	PR	PR	16	обст	_	_
+13	шахматы	ШАХМАТЫ	S	S - inan acc pl	S - inan acc pl	12	предл	_	_
+14	больше	МНОГО	ADV	ADV comp	ADV comp	16	обст	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	играл	ИГРАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сочин	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	на	НА	PR	PR	PR	20	обст	_	_
+19	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	18	предл	_	_
+20	посматривал	ПОСМАТРИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	сочин	_	_
+21	с	С	PR	PR	PR	20	1-компл	_	_
+22	достоинством	ДОСТОИНСТВО	S	S n inan ins sg	S n inan ins sg	21	предл	_	_
+23	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+24	на	НА	PR	PR	PR	23	соч-союзн	_	_
+25	злодейку	ЗЛОДЕЙКА	S	S f anim acc sg	S f anim acc sg	24	предл	_	_
+26	-	-	-	-	PUNC	25	PUNC	_	_
+27	судьбу	СУДЬБА	S	S f inan acc sg	S f inan acc sg	20	2-компл	_	_
+28	уже	УЖЕ	ADV	ADV -	ADV -	30	огранич	_	_
+29	не	НЕ	PART	PART	PART	30	огранич	_	_
+30	жаловался	ЖАЛОВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	20	сочин	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	Знакомый	ЗНАКОМЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	штабист	ШТАБИСТ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	шепнул	ШЕПНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	генерал-майору	ГЕНЕРАЛ-МАЙОР	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+7	в	В	PR	PR	PR	10	обст	_	_
+8	грядущем	ГРЯДУЩИЙ	A	A - loc sg plen m -	A - loc sg plen m -	9	опред	_	_
+9	приступе	ПРИСТУП	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+10	отводится	ОТВОДИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	подч-союзн	_	_
+11	хоть	ХОТЬ	PART	PART	PART	14	огранич	_	_
+12	и	И	CONJ	CONJ	CONJ	11	вспом	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	ключевая	КЛЮЧЕВОЙ	A	A - nom sg plen f -	A - nom sg plen f -	19	опред	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	но	НО	CONJ	CONJ	CONJ	14	сочин	_	_
+17	очень	ОЧЕНЬ	ADV	ADV -	ADV -	18	огранич	_	_
+18	важная	ВАЖНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	16	соч-союзн	_	_
+19	роль	РОЛЬ	S	S f inan nom sg	S f inan nom sg	10	присвяз	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	и	И	CONJ	CONJ	CONJ	10	сент-соч	_	_
+22	под	ПОД	PR	PR	PR	0	ROOT	_	_
+23	началом	НАЧАЛО	S	S n inan ins sg	S n inan ins sg	22	предл	_	_
+24	у	У	PR	PR	PR	29	1-компл	_	_
+25	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	24	предл	_	_
+26	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	29	огранич	_	_
+27	целых	ЦЕЛЫЙ	A	A - acc pl plen - anim	A - acc pl plen - anim	29	опред	_	_
+28	две	ДВА	NUM	NUM nom f -	NUM nom f -	29	количест	_	_
+29	бригады	БРИГАДА	S	S f inan gen sg	S f inan gen sg	23	квазиагент	_	_
+30	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+31	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	32	количест	_	_
+32	полк	ПОЛК	S	S m inan nom sg	S m inan nom sg	30	соч-союзн	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	Оценили	ОЦЕНИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	1	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	Михаила	МИХАИЛ	S	S m anim gen sg	S m anim gen sg	1	предик	_	_
+6	Дмитриевича	ДМИТРИЕВИЧ	S	S m anim gen sg	S m anim gen sg	5	аппоз	_	_
+7	по	ПО	PR	PR	PR	1	обст	_	_
+8	заслугам	ЗАСЛУГА	S	S f inan dat pl	S f inan dat pl	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

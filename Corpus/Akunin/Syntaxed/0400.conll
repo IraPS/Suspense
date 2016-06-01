@@ -1,0 +1,66 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	что	ЧТО	S	S n - nom sg	S n - nom sg	8	1-компл	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	8	предик	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	то	ТО	PART	PART	PART	5	огранич	_	_
+8	молчите	МОЛЧАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	2	соч-союзн	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	воззвала	ВЗЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	к	К	PR	PR	PR	2	2-компл	_	_
+5	Фандорину	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+8	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	9	предик	_	_
+9	отличился	ОТЛИЧАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+12	такое	ТАКОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	11	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	что	ЧТО	CONJ	CONJ	CONJ	11	1-компл	_	_
+15	лучше	ХОРОШО	ADV	ADV comp	ADV comp	18	обст	_	_
+16	бы	БЫ	PART	PART	PART	18	аналит	_	_
+17	уж	УЖ	PART	PART	PART	18	огранич	_	_
+18	помалкивал	ПОМАЛКИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	14	подч-союзн	_	_
+19	:	:	:	:	PUNC	18	1-компл	_	_
+20	–	–	–	–	PUNC	21	опред	_	_
+21	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	18	предик	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+24	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	23	аппоз	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	вообще	ВООБЩЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+27	противник	ПРОТИВНИК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+28	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	27	аппоз	_	_
+29	-	-	-	-	PUNC	28	PUNC	_	_
+30	демократии	ДЕМОКРАТИЯ	S	S f inan gen sg	S f inan gen sg	27	1-компл	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	(	(	_	_	PUNC	3	PUNC	_	_
+3	Сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	ном-аппоз	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	покраснел	ПОКРАСНЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+6	)	)	_	_	PUNC	5	PUNC	_	_
+7	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	2-компл	_	_
+2	Один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	3	количест	_	_
+3	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+4	изначально	ИЗНАЧАЛЬНО	ADV	ADV -	ADV -	6	обст	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	равен	РАВНЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+7	другому	ДРУГОЙ	A	A - dat sg plen m -	A - dat sg plen m -	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+10	тут	ТУТ	ADV	ADV -	ADV -	14	обст	_	_
+11	уж	УЖ	PART	PART	PART	12	огранич	_	_
+12	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	14	1-компл	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	поделаешь	ПОДЕЛАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	9	соч-союзн	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

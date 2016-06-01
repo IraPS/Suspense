@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"Не"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"кучум","gr":"S,famn,m,anim=nom,sg"}],"text":"кучум"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"а"}
+{"analysis":[{"lex":"кучук","qual":"bastard","gr":"S,persn,m,anim=nom,sg"}],"text":"кучук"}
+{"analysis":[{"lex":"поправлять","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"поправил"}
+{"analysis":[{"lex":"фандорина","qual":"bastard","gr":"S,f,inan=gen,pl"}],"text":"Фандорин"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"вдруг","gr":"ADV="}],"text":"вдруг"}
+{"analysis":[{"lex":"покраснеть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"покраснел"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"показываться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"показалось"}
+{"analysis":[{"lex":"вар","gr":"S,m,inan=abl,sg"}],"text":"Варе"}
+{"analysis":[{"lex":"странный","gr":"A=dat,pl,plen"},{"lex":"странный","gr":"A=ins,sg,plen,m"},{"lex":"странный","gr":"A=ins,sg,plen,n"}],"text":"странным"}

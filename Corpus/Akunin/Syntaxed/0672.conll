@@ -1,0 +1,48 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	прижимая	ПРИЖИМАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	1	обст	_	_
+4	ладонь	ЛАДОНЬ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	к	К	PR	PR	PR	3	2-компл	_	_
+6	ноющему	НОЮЩИЙ	A	A - dat sg plen m -	A - dat sg plen m -	7	опред	_	_
+7	виску	ВИСОК	S	S m inan dat sg	S m inan dat sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	искоса	ИСКОСА	ADV	ADV -	ADV -	10	обст	_	_
+10	посмотрела	ПОСМОТРЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+11	на	НА	PR	PR	PR	10	1-компл	_	_
+12	Фандорина	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	2	предик	_	_
+2	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	вид	ВИД	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+4	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	5	огранич	_	_
+5	невозмутимый	НЕВОЗМУТИМЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	суб-копр	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	однако	ОДНАКО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+8	скулы	СКУЛА	S	S f inan nom pl	S f inan nom pl	10	предик	_	_
+9	едва	ЕДВА	ADV	ADV -	ADV -	10	огранич	_	_
+10	заметно	ЗАМЕТНО	ADV	ADV -	ADV -	23	огранич	_	_
+11	(	(	_	_	PUNC	12	PUNC	_	_
+12	кроме	КРОМЕ	PR	PR	PR	10	примыкат	_	_
+13	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	12	предл	_	_
+14	никто	НИКТО	S	S m - nom sg	S m - nom sg	23	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	пожалуй	ПОЖАЛУЙ	PART	PART	PART	18	вводн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	разглядел	РАЗГЛЯДЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	18	соч-союзн	_	_
+21	бы	БЫ	PART	PART	PART	20	аналит	_	_
+22	)	)	_	_	PUNC	21	PUNC	_	_
+23	порозовели	ПОРОЗОВЕТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	27	опред	_	_
+24	–	–	–	–	PUNC	25	1-компл	_	_
+25	видно	ВИДНО	ADV	ADV -	ADV -	23	1-компл	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	слова	СЛОВО	S	S n inan gen sg	S n inan gen sg	29	предик	_	_
+28	шефа	ШЕФ	S	S m anim gen sg	S m anim gen sg	27	квазиагент	_	_
+29	задели	ЗАДЕТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	7	соч-союзн	_	_
+30	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	29	1-компл	_	_
+31	за	ЗА	PR	PR	PR	29	обст	_	_
+32	живое	ЖИВОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	31	предл	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+

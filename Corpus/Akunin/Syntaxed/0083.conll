@@ -1,0 +1,246 @@
+1	Среди	СРЕДИ	PR	PR	PR	5	обст	_	_
+2	разбойников	РАЗБОЙНИК	S	S m anim gen pl	S m anim gen pl	1	предл	_	_
+3	задом	ЗАД	S	S m inan ins sg	S m inan ins sg	2	атриб	_	_
+4	наперед	НАПЕРЕД	ADV	ADV -	ADV -	5	обст	_	_
+5	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	в	В	PR	PR	PR	5	1-компл	_	_
+7	седле	СЕДЛО	S	S n inan loc sg	S n inan loc sg	6	предл	_	_
+8	русский	РУССКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	офицер	ОФИЦЕР	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+10	в	В	PR	PR	PR	0	ROOT	_	_
+11	пыльном	ПЫЛЬНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	14	опред	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	изодранном	ИЗОДРАННЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	11	сочин	_	_
+14	мундире	МУНДИР	S	S m inan loc sg	S m inan loc sg	10	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Руки	РУКА	S	S f inan nom pl	S f inan nom pl	3	предик	_	_
+2	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	1	квазиагент	_	_
+3	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	скручены	СКРУЧИВАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	3	пасс-анал	_	_
+5	за	ЗА	PR	PR	PR	4	обст	_	_
+6	спиной	СПИНА	S	S f inan ins sg	S f inan ins sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	на	НА	PR	PR	PR	11	обст	_	_
+9	шее	ШЕЯ	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	почему-то	ПОЧЕМУ-ТО	ADV	ADV -	ADV -	11	обст	_	_
+11	висели	ВИСЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	сочин	_	_
+12	пустые	ПУСТОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	13	опред	_	_
+13	ножны	НОЖНЫ	S	S - inan acc pl	S - inan acc pl	11	1-компл	_	_
+14	от	ОТ	PR	PR	PR	13	1-компл	_	_
+15	шашки	ШАШКА	S	S f inan acc pl	S f inan acc pl	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	а	А	CONJ	CONJ	CONJ	11	сент-соч	_	_
+18	в	В	PR	PR	PR	21	обст	_	_
+19	углу	УГОЛ	S	S m inan loc2 sg	S m inan loc2 sg	18	предл	_	_
+20	рта	РОТ	S	S m inan gen sg	S m inan gen sg	19	квазиагент	_	_
+21	запеклась	ЗАПЕКАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	17	соч-союзн	_	_
+22	кровь	КРОВЬ	S	S f inan nom sg	S f inan nom sg	21	предик	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	закусила	ЗАКУСЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	губу	ГУБА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	2	обст	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	вскрикнуть	ВСКРИКИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	5	инф-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	выдержав	ВЫДЕРЖИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	13	опред	_	_
+13	безнадежности	БЕЗНАДЕЖНОСТЬ	S	S f inan loc sg	S f inan loc sg	9	соч-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	читавшейся	ЧИТАТЬСЯ	PARTCP	PARTCP ipf praet loc sg plen f act -	PARTCP ipf praet loc sg plen f act -	13	опред	_	_
+16	во	ВО	PR	PR	PR	15	обст	_	_
+17	взгляде	ВЗГЛЯД	S	S m inan loc sg	S m inan loc sg	16	предл	_	_
+18	пленного	ПЛЕННЫЙ	S	S m anim acc sg	S m anim acc sg	15	1-компл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	опустила	ОПУСКАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	сочин	_	_
+21	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	20	1-компл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	крик	КРИК	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	а	А	CONJ	CONJ	CONJ	2	сочин	_	_
+5	точнее	ТОЧНО	ADV	ADV comp	ADV comp	8	вводн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	истерический	ИСТЕРИЧЕСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	всхлип	ВСХЛИП	S	S m inan nom sg	S m inan nom sg	4	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	все-таки	ВСЕ-ТАКИ	PART	PART	PART	11	огранич	_	_
+11	вырвался	ВЫРЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	сент-соч	_	_
+12	из	ИЗ	PR	PR	PR	11	1-компл	_	_
+13	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	14	квазиагент	_	_
+14	пересохшего	ПЕРЕСЫХАТЬ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	12	предл	_	_
+15	от	ОТ	PR	PR	PR	14	1-компл	_	_
+16	страха	СТРАХ	S	S m inan gen sg	S m inan gen sg	15	предл	_	_
+17	горла	ГОРЛО	S	S n inan gen sg	S n inan gen sg	16	квазиагент	_	_
+18	–	–	–	–	PUNC	27	агент	_	_
+19	у	У	PR	PR	PR	26	обст	_	_
+20	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	19	предл	_	_
+21	из	ИЗ	PR	PR	PR	20	электив	_	_
+22	бандитов	БАНДИТ	S	S m anim gen pl	S m anim gen pl	21	предл	_	_
+23	к	К	PR	PR	PR	26	обст	_	_
+24	луке	ЛУКА	S	S f inan dat sg	S f inan dat sg	23	предл	_	_
+25	седла	СЕДЛО	S	S n inan gen sg	S n inan gen sg	24	квазиагент	_	_
+26	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	11	сент-соч	_	_
+27	приторочена	ПРИТОРАЧИВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	26	пасс-анал	_	_
+28	светловолосая	СВЕТЛОВОЛОСЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	30	опред	_	_
+29	человеческая	ЧЕЛОВЕЧЕСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	30	опред	_	_
+30	голова	ГОЛОВА	S	S f inan nom sg	S f inan nom sg	26	предик	_	_
+31	с	С	PR	PR	PR	30	атриб	_	_
+32	длинными	ДЛИННЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	33	опред	_	_
+33	усами	УС	S	S m inan ins pl	S m inan ins pl	31	предл	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	крепко	КРЕПКО	ADV	ADV -	ADV -	3	обст	_	_
+3	стиснул	СТИСКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	3	2-компл	_	_
+5	локоть	ЛОКОТЬ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+7	коротко	КОРОЧЕ	ADV	ADV -	ADV -	8	обст	_	_
+8	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+9	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	13	1-компл	_	_
+10	по-турецки	ПО-ТУРЕЦКИ	ADV	ADV -	ADV -	11	огранич	_	_
+11	–	–	–	–	PUNC	13	обст	_	_
+12	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	13	предик	_	_
+13	разобрала	РАЗБИРАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	1-компл	_	_
+14	слова	СЛОВО	S	S n inan acc pl	S n inan acc pl	13	1-компл	_	_
+15	«	«	_	_	PUNC	16	PUNC	_	_
+16	Юсуф	ЮСУФ	S	S f inan nom sg	S f inan nom sg	14	аппоз	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	паша	ПАША	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+19	»	»	_	_	PUNC	18	PUNC	_	_
+20	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+21	«	«	_	_	PUNC	22	PUNC	_	_
+22	каймакам	КАЙМАК	S	S m inan dat pl	S m inan dat pl	20	соч-союзн	_	_
+23	»	»	_	_	PUNC	22	PUNC	_	_
+24	,	,	,	,	PUNC	22	PUNC	_	_
+25	но	НО	CONJ	CONJ	CONJ	8	сент-соч	_	_
+26	на	НА	PR	PR	PR	30	обст	_	_
+27	разбойников	РАЗБОЙНИК	S	S m anim gen pl	S m anim gen pl	26	предл	_	_
+28	это	ЭТО	S	S n - nom sg	S n - nom sg	30	предик	_	_
+29	не	НЕ	PART	PART	PART	30	огранич	_	_
+30	подействовало	ПОДЕЙСТВОВАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	25	соч-союзн	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	Один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	11	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	с	С	PR	PR	PR	1	сочин	_	_
+4	острой	ОСТРЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	5	опред	_	_
+5	бородой	БОРОДА	S	S f inan ins sg	S f inan ins sg	3	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	огромным	ОГРОМНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	9	опред	_	_
+8	кривым	КРИВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	9	опред	_	_
+9	носом	НОС	S	S m inan ins sg	S m inan ins sg	6	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	задрал	ЗАДИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	фандоринской	ФАНДОРИНСКАЯ	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+13	кобыле	КОБЫЛА	S	S f anim dat sg	S f anim dat sg	11	2-компл	_	_
+14	верхнюю	ВЕРХНИЙ	A	A - acc sg plen f -	A - acc sg plen f -	15	опред	_	_
+15	губу	ГУБА	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	обнажив	ОБНАЖАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	11	обст	_	_
+18	длинные	ДЛИННЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	20	опред	_	_
+19	гнилые	ГНИЛОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	20	опред	_	_
+20	зубы	ЗУБ	S	S m inan acc pl	S m inan acc pl	17	1-компл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Пренебрежительно	ПРЕНЕБРЕЖИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+2	сплюнул	СПЛЕВЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	предик	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	соч-союзн	_	_
+5	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	от	ОТ	PR	PR	PR	10	1-компл	_	_
+8	чего	ЧТО	S	S n - gen sg	S n - gen sg	7	предл	_	_
+9	остальные	ОСТАЛЬНОЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	предик	_	_
+10	засмеялись	ЗАСМЕЯТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	сент-соч	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Потом	ПОТОМ	ADV	ADV -	ADV -	2	обст	_	_
+2	хлестнул	ХЛЕСТНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	клячу	КЛЯЧА	S	S f anim acc sg	S f anim acc sg	2	1-компл	_	_
+4	нагайкой	НАГАЙКА	S	S f inan ins sg	S f inan ins sg	2	обст	_	_
+5	по	ПО	PR	PR	PR	2	обст	_	_
+6	крупу	КРУП	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+9	та	ТОТ	A	A - nom sg plen f -	A - nom sg plen f -	11	предик	_	_
+10	испуганно	ИСПУГАННО	ADV	ADV -	ADV -	11	обст	_	_
+11	метнулась	МЕТНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+12	в	В	PR	PR	PR	11	2-компл	_	_
+13	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	сразу	СРАЗУ	ADV	ADV -	ADV -	16	обст	_	_
+16	перейдя	ПЕРЕХОДИТЬ	V	V pf praet - ger - -	V pf praet - ger - -	11	обст	_	_
+17	на	НА	PR	PR	PR	16	2-компл	_	_
+18	неровную	НЕРОВНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	19	опред	_	_
+19	рысь	РЫСЬ	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	ударила	УДАРЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	осла	ОСЕЛ	S	S m anim acc sg	S m anim acc sg	2	1-компл	_	_
+4	каблуками	КАБЛУК	S	S m inan ins pl	S m inan ins pl	2	2-компл	_	_
+5	в	В	PR	PR	PR	2	обст	_	_
+6	раздутые	РАЗДУВАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	7	опред	_	_
+7	бока	БОК	S	S m inan acc pl	S m inan acc pl	5	предл	_	_
+8	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+9	затрусила	ЗАТРУСИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+10	следом	СЛЕДОМ	ADV	ADV -	ADV -	9	обст	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	боясь	БОЯТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	обст	_	_
+13	поверить	ПОВЕРЯТЬ	V	V pf - - inf - -	V pf - - inf - -	12	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	что	ЧТО	CONJ	CONJ	CONJ	13	1-компл	_	_
+16	опасность	ОПАСНОСТЬ	S	S f inan nom sg	S f inan nom sg	17	предик	_	_
+17	миновала	МИНОВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	15	подч-союзн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	4	предик	_	_
+2	так	ТАК	ADV	ADV -	ADV -	4	обст	_	_
+3	и	И	CONJ	CONJ	CONJ	2	вспом	_	_
+4	плыло	ПЛЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	вокруг	ВОКРУГ	ADV	ADV -	ADV -	4	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	кошмарная	КОШМАРНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	8	опред	_	_
+8	голова	ГОЛОВА	S	S f inan nom sg	S f inan nom sg	20	предик	_	_
+9	со	СО	PR	PR	PR	8	атриб	_	_
+10	страдальчески	СТРАДАЛЬЧЕСКИ	ADV	ADV -	ADV -	11	обст	_	_
+11	закрытыми	ЗАКРЫВАТЬ	PARTCP	PARTCP pf praet ins pl plen - pass -	PARTCP pf praet ins pl plen - pass -	12	опред	_	_
+12	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	9	предл	_	_
+13	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+14	запекшейся	ЗАПЕКАТЬСЯ	PARTCP	PARTCP pf praet loc sg plen f act -	PARTCP pf praet loc sg plen f act -	13	соч-союзн	_	_
+15	кровью	КРОВЬ	S	S f inan ins sg	S f inan ins sg	14	1-компл	_	_
+16	в	В	PR	PR	PR	8	атриб	_	_
+17	углах	УГОЛ	S	S m inan loc pl	S m inan loc pl	16	предл	_	_
+18	рта	РОТ	S	S m inan gen sg	S m inan gen sg	17	квазиагент	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	давала	ДАВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	сент-соч	_	_
+21	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	20	1-компл	_	_
+22	покоя	ПОКОЙ	S	S m inan gen sg	S m inan gen sg	21	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Головорезы	ГОЛОВОРЕЗ	S	S m anim nom pl	S m anim nom pl	10	предик	_	_
+2	–	–	–	–	PUNC	10	обст	_	_
+3	это	ЭТО	S	S n - nom sg	S n - nom sg	10	1-компл	_	_
+4	те	ТОТ	A	A - nom pl plen - -	A - nom pl plen - -	10	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	кто	КТО	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+7	режут	РЕЗАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	4	релят	_	_
+8	головы	ГОЛОВА	S	S f inan acc pl	S f inan acc pl	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	вертелась	ВЕРТЕТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+11	в	В	PR	PR	PR	10	1-компл	_	_
+12	голове	ГОЛОВА	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	нелепая	НЕЛЕПЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	16	опред	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	полуобморочная	ПОЛУОБМОРОЧНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	16	опред	_	_
+16	фраза	ФРАЗА	S	S f inan nom sg	S f inan nom sg	10	разъяснит	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

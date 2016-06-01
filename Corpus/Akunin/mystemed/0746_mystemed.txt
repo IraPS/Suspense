@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"К"}
+{"analysis":[{"lex":"ганецкий","qual":"bastard","gr":"S,famn,m,anim=dat,sg"}],"text":"Ганецкому"}
+{"text":"\\s"}
+{"analysis":[{"lex":"п","gr":"S,abbr=abl,pl"},{"lex":"п","gr":"S,abbr=abl,sg"},{"lex":"п","gr":"S,abbr=acc,pl"},{"lex":"п","gr":"S,abbr=acc,sg"},{"lex":"п","gr":"S,abbr=dat,pl"},{"lex":"п","gr":"S,abbr=dat,sg"},{"lex":"п","gr":"S,abbr=gen,pl"},{"lex":"п","gr":"S,abbr=gen,sg"},{"lex":"п","gr":"S,abbr=ins,pl"},{"lex":"п","gr":"S,abbr=ins,sg"},{"lex":"п","gr":"S,abbr=nom,pl"},{"lex":"п","gr":"S,abbr=nom,sg"}],"text":"П"}
+{"analysis":[{"lex":"почему","gr":"ADVPRO="}],"text":"почему"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"ганецкий","qual":"bastard","gr":"S,famn,m,anim=dat,sg"}],"text":"Ганецкому"}
+{"analysis":[{"lex":"нахмуриваться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"нахмурился"}
+{"analysis":[{"lex":"титулярный","gr":"A=acc,sg,plen,m,inan"},{"lex":"титулярный","gr":"A=nom,sg,plen,m"}],"text":"титулярный"}
+{"analysis":[{"lex":"советник","gr":"S,m,anim=nom,sg"}],"text":"советник"}
+{"analysis":[{"lex":"дослушивать","gr":"V,tran=praet,ger,pf"}],"text":"дослушав"}
+{"analysis":[{"lex":"до","gr":"PR="}],"text":"до"}
+{"analysis":[{"lex":"конец","gr":"S,m,inan=gen,sg"}],"text":"конца"}

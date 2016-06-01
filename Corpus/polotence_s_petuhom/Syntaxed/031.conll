@@ -1,0 +1,8 @@
+1	Надвигался	НАДВИГАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	вечер	ВЕЧЕР	S	S m inan acc sg	S m inan acc sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+6	осваивался	ОСВАИВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	соч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

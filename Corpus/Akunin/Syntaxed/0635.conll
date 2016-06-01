@@ -1,0 +1,86 @@
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	в	В	PR	PR	PR	7	обст	_	_
+3	штабе	ШТАБ	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	7	1-компл	_	_
+5	толком	ТОЛКОМ	ADV	ADV -	ADV -	7	обст	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	знали	ЗНАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	подч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	поскольку	ПОСКОЛЬКУ	CONJ	CONJ	CONJ	7	обст	_	_
+10	из	ИЗ	PR	PR	PR	13	1-компл	_	_
+11	ставки	СТАВКА	S	S f inan gen sg	S f inan gen sg	10	предл	_	_
+12	никаких	НИКАКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	13	опред	_	_
+13	сообщений	СООБЩЕНИЕ	S	S n inan gen pl	S n inan gen pl	9	подч-союзн	_	_
+14	о	О	PR	PR	PR	13	2-компл	_	_
+15	взятии	ВЗЯТИЕ	S	S n inan loc sg	S n inan loc sg	14	предл	_	_
+16	Плевны	ПЛЕВНА	S	S f inan gen sg	S f inan gen sg	15	1-компл	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	поступало	ПОСТУПАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	сент-соч	_	_
+19	–	–	–	–	PUNC	22	предик	_	_
+20	наоборот	НАОБОРОТ	ADV	ADV -	ADV -	22	вводн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	выходило	ВЫХОДИТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	18	предик	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	что	ЧТО	CONJ	CONJ	CONJ	22	1-компл	_	_
+25	наступление	НАСТУПЛЕНИЕ	S	S n inan nom sg	S n inan nom sg	26	предик	_	_
+26	отбито	ОТБИВАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	24	подч-союзн	_	_
+27	по	ПО	PR	PR	PR	26	2-компл	_	_
+28	всем	ВЕСЬ	A	A - dat pl plen - -	A - dat pl plen - -	30	опред	_	_
+29	главным	ГЛАВНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	30	опред	_	_
+30	пунктам	ПУНКТ	S	S m inan dat pl	S m inan dat pl	27	предл	_	_
+31	и	И	CONJ	CONJ	CONJ	26	сент-соч	_	_
+32	потери	ПОТЕРЯ	S	S f inan nom pl	S f inan nom pl	34	предик	_	_
+33	какие-то	КАКОЙ-ТО	A	A - nom pl plen - -	A - nom pl plen - -	34	опред	_	_
+34	астрономические	АСТРОНОМИЧЕСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	31	соч-союзн	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	не	НЕ	PART	PART	PART	37	огранич	_	_
+37	менее	МАЛО	NUM	NUM - - -	NUM - - -	38	количест	_	_
+38	двадцати	ДВАДЦАТЬ	NUM	NUM loc - -	NUM loc - -	22	разъяснит	_	_
+39	тысяч	ТЫСЯЧА	S	S f inan gen pl	S f inan gen pl	38	квазиагент	_	_
+40	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	38	предик	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+
+1	Говорили	ГОВОРИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+4	государь	ГОСУДАРЬ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+5	совсем	СОВСЕМ	ADV	ADV -	ADV -	6	огранич	_	_
+6	пал	ПАСТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	подч-союзн	_	_
+7	духом	ДУХ	S	S m inan ins sg	S m inan ins sg	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	6	сент-соч	_	_
+10	на	НА	PR	PR	PR	16	обст	_	_
+11	вопросы	ВОПРОС	S	S m inan acc pl	S m inan acc pl	10	предл	_	_
+12	об	ОБ	PR	PR	PR	11	1-компл	_	_
+13	успехе	УСПЕХ	S	S m inan loc sg	S m inan loc sg	12	предл	_	_
+14	Соболева	СОБОЛЕВ	S	S m anim gen sg	S m anim gen sg	13	квазиагент	_	_
+15	только	ТОЛЬКО	PART	PART	PART	16	огранич	_	_
+16	махали	МАХАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	соч-союзн	_	_
+17	рукой	РУКА	S	S f inan ins sg	S f inan ins sg	16	1-компл	_	_
+18	:	:	:	:	PUNC	26	суб-копр	_	_
+19	как	КАК	CONJ	CONJ	CONJ	18	сравнит	_	_
+20	мог	МОЧЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	19	сравн-союзн	_	_
+21	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	20	предик	_	_
+22	с	С	PR	PR	PR	21	атриб	_	_
+23	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	25	1-компл	_	_
+24	двумя	ДВА	NUM	NUM ins - -	NUM ins - -	25	количест	_	_
+25	бригадами	БРИГАДА	S	S f inan ins pl	S f inan ins pl	22	предл	_	_
+26	взять	ВЗЯТЬ	V	V pf - - inf - -	V pf - - inf - -	17	1-компл	_	_
+27	Плевну	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	26	1-компл	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	если	ЕСЛИ	CONJ	CONJ	CONJ	26	обст	_	_
+30	60	60	NUM	NUM - - -	NUM - - -	31	количест	_	_
+31	батальонов	БАТАЛЬОН	S	S m inan gen pl	S m inan gen pl	37	предик	_	_
+32	центра	ЦЕНТР	S	S m inan gen sg	S m inan gen sg	31	квазиагент	_	_
+33	и	И	CONJ	CONJ	CONJ	31	сочин	_	_
+34	правого	ПРАВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	35	опред	_	_
+35	фланга	ФЛАНГ	S	S m inan gen sg	S m inan gen sg	33	соч-союзн	_	_
+36	не	НЕ	PART	PART	PART	37	огранич	_	_
+37	сумели	СУМЕТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	29	подч-союзн	_	_
+38	занять	ЗАНИМАТЬ	V	V pf - - inf - -	V pf - - inf - -	37	1-компл	_	_
+39	даже	ДАЖЕ	PART	PART	PART	40	огранич	_	_
+40	первой	ПЕРВЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	41	опред	_	_
+41	линии	ЛИНИЯ	S	S f inan gen sg	S f inan gen sg	38	1-компл	_	_
+42	редутов	РЕДУТ	S	S m inan gen pl	S m inan gen pl	41	квазиагент	_	_
+43	?	?	SENT	SENT	SENT	42	PUNC	_	_
+

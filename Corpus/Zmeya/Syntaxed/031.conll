@@ -1,0 +1,115 @@
+1	Молча	МОЛЧА	ADV	ADV -	ADV -	7	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	стиснув	СТИСКИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	7	обст	_	_
+4	зубы	ЗУБ	S	S m inan acc pl	S m inan acc pl	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+7	боролась	БОРОТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+8	с	С	PR	PR	PR	7	1-компл	_	_
+9	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	в	В	PR	PR	PR	7	2-компл	_	_
+12	странной	СТРАННЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	13	опред	_	_
+13	запальчивости	ЗАПАЛЬЧИВОСТЬ	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+14	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	0	ROOT	_	_
+15	предпочитая	ПРЕДПОЧИТАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	0	ROOT	_	_
+16	умереть	УМИРАТЬ	V	V pf - - inf - -	V pf - - inf - -	15	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	чем	ЧЕМ	CONJ	CONJ	CONJ	16	сравнит	_	_
+19	принять	ПРИНИМАТЬ	V	V pf - - inf - -	V pf - - inf - -	18	сравн-союзн	_	_
+20	жизнь	ЖИЗНЬ	S	S f inan acc sg	S f inan acc sg	19	1-компл	_	_
+21	из	ИЗ	PR	PR	PR	19	атриб	_	_
+22	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	23	квазиагент	_	_
+23	рук	РУКА	S	S f inan gen pl	S f inan gen pl	21	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+2	отлично	ОТЛИЧНО	ADV	ADV -	ADV -	3	обст	_	_
+3	знала	ЗНАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	чем	ЧТО	S	S n inan loc sg	S n inan loc sg	3	сравнит	_	_
+6	это	ЭТО	S	S n - nom sg	S n - nom sg	8	1-компл	_	_
+7	должно	ДОЛЖНО	ADV	ADV -	ADV -	8	обст	_	_
+8	кончиться	КОНЧАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	У	У	PR	PR	PR	3	1-компл	_	_
+2	Кольбера	КОЛЬБЕР	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	3	обст	_	_
+5	шанс	ШАНС	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+6	стать	СТАНОВИТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	5	1-компл	_	_
+7	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	6	1-компл	_	_
+8	мужем	МУЖ	S	S m anim ins sg	S m anim ins sg	6	присвяз	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	без	БЕЗ	PR	PR	PR	15	огранич	_	_
+13	слов	СЛОВО	S	S n inan gen pl	S n inan gen pl	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	без	БЕЗ	PR	PR	PR	10	соч-союзн	_	_
+16	мыслей	МЫСЛЬ	S	S f inan gen pl	S f inan gen pl	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	заключив	ЗАКЛЮЧАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	3	обст	_	_
+19	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	20	опред	_	_
+20	это	ЭТО	S	S n - nom sg	S n - nom sg	18	1-компл	_	_
+21	в	В	PR	PR	PR	18	обст	_	_
+22	одном	ОДИН	A	A - loc sg plen m -	A - loc sg plen m -	23	количест	_	_
+23	инстинкте	ИНСТИНКТ	S	S m inan loc sg	S m inan loc sg	21	предл	_	_
+24	своем	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	0	ROOT	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	28	предик	_	_
+27	отчаянно	ОТЧАЯННО	ADV	ADV -	ADV -	28	обст	_	_
+28	билась	БИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	24	релят	_	_
+29	в	В	PR	PR	PR	28	обст	_	_
+30	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	31	квазиагент	_	_
+31	руках	РУКА	S	S f inan loc pl	S f inan loc pl	29	предл	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	Вне	ВНЕ	PR	PR	PR	4	обст	_	_
+2	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	1	предл	_	_
+3	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	подтащил	ПОДТАСКИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	4	1-компл	_	_
+6	к	К	PR	PR	PR	4	2-компл	_	_
+7	дереву	ДЕРЕВО	S	S n inan dat sg	S n inan dat sg	6	предл	_	_
+8	с	С	PR	PR	PR	7	1-компл	_	_
+9	раздвоенным	РАЗДВАИВАТЬ	PARTCP	PARTCP pf praet dat pl plen - pass -	PARTCP pf praet dat pl plen - pass -	10	опред	_	_
+10	стволом	СТВОЛ	S	S m inan ins sg	S m inan ins sg	8	предл	_	_
+11	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	протиснув	ПРОТИСКИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	0	ROOT	_	_
+14	в	В	PR	PR	PR	13	2-компл	_	_
+15	это	ЭТОТ	A	A - acc sg plen n inan	A - acc sg plen n inan	16	опред	_	_
+16	раздвоение	РАЗДВОЕНИЕ	S	S n inan acc sg	S n inan acc sg	14	предл	_	_
+17	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	18	квазиагент	_	_
+18	руку	РУКА	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	причем	ПРИЧЕМ	CONJ	CONJ	CONJ	13	неакт-компл	_	_
+21	ободрал	ОБДИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	20	соч-союзн	_	_
+22	кожу	КОЖА	S	S f inan acc sg	S f inan acc sg	21	1-компл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	зашел	ЗАЙТИ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	сочин	_	_
+25	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	24	суб-копр	_	_
+26	с	С	PR	PR	PR	24	обст	_	_
+27	другой	ДРУГОЙ	A	A - gen sg plen f -	A - gen sg plen f -	28	опред	_	_
+28	стороны	СТОРОНА	S	S f inan gen sg	S f inan gen sg	26	предл	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Здесь	ЗДЕСЬ	ADV	ADV -	ADV -	3	обст	_	_
+2	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+3	схватил	СХВАТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Джой	ДЖОЙ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	за	ЗА	PR	PR	PR	3	2-компл	_	_
+6	кисть	КИСТЬ	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	4	обст	_	_
+2	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	4	1-компл	_	_
+3	рука	РУКА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+4	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	как	КАК	CONJ	CONJ	CONJ	4	присвяз	_	_
+6	в	В	PR	PR	PR	5	сравн-союзн	_	_
+7	тисках	ТИСКИ	S	S - inan loc pl	S - inan loc pl	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

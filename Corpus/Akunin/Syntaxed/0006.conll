@@ -1,0 +1,47 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	сидела	СИДЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	обст	_	_
+4	углу	УГОЛ	S	S m inan loc2 sg	S m inan loc2 sg	3	предл	_	_
+5	темного	ТЕМНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	2	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	заплеванного	ЗАПЛЕВЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	2	сочин	_	_
+8	сарая	САРАЙ	S	S m inan gen sg	S m inan gen sg	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	за	ЗА	PR	PR	PR	7	обст	_	_
+11	неструганым	НЕСТРУГАНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	13	опред	_	_
+12	дощатым	ДОЩАТЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	13	опред	_	_
+13	столом	СТОЛ	S	S m inan ins sg	S m inan ins sg	10	предл	_	_
+14	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+15	смертельно	СМЕРТЕЛЬНО	ADV	ADV -	ADV -	16	обст	_	_
+16	боялась	БОЯТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	14	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Такой	ТАКОЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	тоскливый	ТОСКЛИВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	безнадежный	БЕЗНАДЕЖНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	ужас	УЖАС	S	S m inan nom sg	S m inan nom sg	7	1-компл	_	_
+6	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	7	предик	_	_
+7	испытала	ИСПЫТЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	релят	_	_
+8	только	ТОЛЬКО	PART	PART	PART	9	огранич	_	_
+9	однажды	ОДНАЖДЫ	ADV	ADV -	ADV -	7	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	в	В	PR	PR	PR	9	сочин	_	_
+12	шестилетнем	ШЕСТИЛЕТНИЙ	A	A - loc sg plen m -	A - loc sg plen m -	13	опред	_	_
+13	возрасте	ВОЗРАСТ	S	S m inan loc sg	S m inan loc sg	11	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	когда	КОГДА	CONJ	CONJ	CONJ	13	эксплет	_	_
+16	расколола	РАСКАЛЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	подч-союзн	_	_
+17	любимую	ЛЮБИМЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	19	опред	_	_
+18	бабушкину	БАБУШКИН	A	A - acc sg plen f -	A - acc sg plen f -	19	опред	_	_
+19	чашку	ЧАШКА	S	S f inan acc sg	S f inan acc sg	16	1-компл	_	_
+20	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+21	спряталась	СПРЯТАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	20	соч-союзн	_	_
+22	под	ПОД	PR	PR	PR	21	2-компл	_	_
+23	диван	ДИВАН	S	S m inan acc sg	S m inan acc sg	22	предл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	ожидая	ОЖИДАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	21	обст	_	_
+26	неминуемой	НЕМИНУЕМЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	27	опред	_	_
+27	кары	КАРА	S	S f inan gen sg	S f inan gen sg	25	1-компл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+

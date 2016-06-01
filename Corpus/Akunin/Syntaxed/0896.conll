@@ -1,0 +1,43 @@
+1	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	успокоил	УСПОКАИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	туземцев	ТУЗЕМЕЦ	S	S m anim acc pl	S m anim acc pl	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	объяснил	ОБЪЯСНЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+8	контрибуцию	КОНТРИБУЦИЯ	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+9	взимать	ВЗИМАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	предик	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	уполномочен	УПОЛНОМОЧИВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	7	подч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Горбоносый	ГОРБОНОСЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	предик	_	_
+2	покосился	ПОКОСИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	незапертую	НЕЗАПЕРТЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	5	опред	_	_
+5	дверь	ДВЕРЬ	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+6	в	В	PR	PR	PR	2	2-компл	_	_
+7	хранилище	ХРАНИЛИЩЕ	S	S n inan acc sg	S n inan acc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	почтительно	ПОЧТИТЕЛЬНО	ADV	ADV -	ADV -	10	обст	_	_
+10	закатил	ЗАКАТИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+11	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	10	1-компл	_	_
+12	:	:	:	:	PUNC	14	2-компл	_	_
+13	–	–	–	–	PUNC	14	1-компл	_	_
+14	Понимаю	ПОНИМАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	10	сочин	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	эфенди	ЭФЕНДИ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	14	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Сто	СТО	NUM	NUM acc - -	NUM acc - -	2	количест	_	_
+2	тысяч	ТЫСЯЧА	S	S f inan gen pl	S f inan gen pl	10	предик	_	_
+3	лир	ЛИРА	S	S f inan gen pl	S f inan gen pl	2	квазиагент	_	_
+4	для	ДЛЯ	PR	PR	PR	2	атриб	_	_
+5	такого	ТАКОЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+6	большого	БОЛЬШОЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	человека	ЧЕЛОВЕК	S	S m anim gen sg	S m anim gen sg	4	предл	_	_
+8	–	–	–	–	PUNC	10	опред	_	_
+9	сущий	СУЩИЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	опред	_	_
+10	пустяк	ПУСТЯК	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

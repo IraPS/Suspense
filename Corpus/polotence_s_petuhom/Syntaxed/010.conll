@@ -1,0 +1,29 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Эх	ЭХ	INTJ	INTJ	INTJ	3	вводн	_	_
+3	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	5	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	Госпо	ГОСПО	S	S m anim voc sg	S m anim voc sg	0	ROOT	_	_
+6	...	...	SENT	SENT	SENT	5	PUNC	_	_
+
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	начал	НАЧИНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	16	вводн	_	_
+3	возница	ВОЗНИЦА	S	S - anim nom sg	S - anim nom sg	4	огранич	_	_
+4	испуганно	ИСПУГАННО	ADV	ADV -	ADV -	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+8	никаких	НИКАКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	претензий	ПРЕТЕНЗИЯ	S	S f inan gen pl	S f inan gen pl	11	1-компл	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	предчявлял	ПРЕДЧЯВЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	соч-союзн	_	_
+12	-	-	-	-	PUNC	11	PUNC	_	_
+13	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	16	1-компл	_	_
+14	у	У	PR	PR	PR	16	обст	_	_
+15	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	14	предл	_	_
+16	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+17	все равно	все равно	ADV	ADV -	-	18	огранич	_	_
+18	хоть	ХОТЬ	CONJ	CONJ	CONJ	0	ROOT	_	_
+19	выбрось	ВЫБРАСЫВАТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	18	подч-союзн	_	_
+20	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	19	1-компл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+

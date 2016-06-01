@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"внезапно","gr":"ADV="}],"text":"внезапно"}
+{"analysis":[{"lex":"вырываться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"вырвалось"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=acc"},{"lex":"она","gr":"SPRO,sg,3p,f=gen"}],"text":"нее"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"слово","gr":"S,n,inan=acc,pl"},{"lex":"слово","gr":"S,n,inan=gen,sg"},{"lex":"слово","gr":"S,n,inan=nom,pl"}],"text":"слова"}
+{"analysis":[{"lex":"застревать","gr":"V,intr=praet,pl,indic,pf"}],"text":"застряли"}
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"так"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"выплескиваться","gr":"V,intr=praet,pl,indic,pf"}],"text":"выплеснулись"}

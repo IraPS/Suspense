@@ -1,0 +1,43 @@
+1	По	ПО	PR	PR	PR	4	вводн	_	_
+2	окончании	ОКОНЧАНИЕ	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+3	гимназии	ГИМНАЗИЯ	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	подобно	ПОДОБНО	PR	PR	PR	4	вводн	_	_
+7	Американским	АМЕРИКАНСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	8	опред	_	_
+8	Штатам	ШТАТ	S	S m inan dat pl	S m inan dat pl	6	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	провела	ПРОВОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	17	присвяз	_	_
+11	победоносную	ПОБЕДОНОСНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	12	опред	_	_
+12	войну	ВОЙНА	S	S f inan acc sg	S f inan acc sg	10	1-компл	_	_
+13	за	ЗА	PR	PR	PR	10	2-компл	_	_
+14	независимость	НЕЗАВИСИМОСТЬ	S	S f inan acc sg	S f inan acc sg	13	предл	_	_
+15	(	(	_	_	PUNC	16	PUNC	_	_
+16	мягкотел	МЯГКОТЕЛЫЙ	A	A - - sg brev m -	A - - sg brev m -	10	1-компл	_	_
+17	оказался	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+18	папенька	ПАПЕНЬКА	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	адвокат	АДВОКАТ	S	S m anim nom sg	S m anim nom sg	18	аппоз	_	_
+21	Суворов	СУВОРОВ	S	S m anim nom sg	S m anim nom sg	20	аппоз	_	_
+22	)	)	_	_	PUNC	21	PUNC	_	_
+23	и	И	CONJ	CONJ	CONJ	17	сент-соч	_	_
+24	поступила	ПОСТУПАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	23	соч-союзн	_	_
+25	на	НА	PR	PR	PR	24	1-компл	_	_
+26	акушерские	АКУШЕРСКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	27	опред	_	_
+27	курсы	КУРСЫ	S	S - inan acc pl	S - inan acc pl	25	предл	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	тем	ТО	S	S n - ins sg	S n - ins sg	31	опред	_	_
+30	самым	САМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	31	опред	_	_
+31	превратившись	ПРЕВРАЩАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	24	обст	_	_
+32	из	ИЗ	PR	PR	PR	31	1-компл	_	_
+33	«	«	_	_	PUNC	34	PUNC	_	_
+34	Божьего	БОЖИЙ	A	A - gen sg plen n -	A - gen sg plen n -	35	опред	_	_
+35	наказания	НАКАЗАНИЕ	S	S n inan gen sg	S n inan gen sg	32	предл	_	_
+36	»	»	_	_	PUNC	35	PUNC	_	_
+37	в	В	PR	PR	PR	31	2-компл	_	_
+38	«	«	_	_	PUNC	39	PUNC	_	_
+39	полоумную	ПОЛОУМНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	40	опред	_	_
+40	нигилистку	НИГИЛИСТКА	S	S f anim acc sg	S f anim acc sg	37	предл	_	_
+41	»	»	_	_	PUNC	40	PUNC	_	_
+42	.	.	SENT	SENT	SENT	40	PUNC	_	_
+

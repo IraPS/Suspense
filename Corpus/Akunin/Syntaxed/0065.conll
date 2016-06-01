@@ -1,0 +1,57 @@
+1	Совсем	СОВСЕМ	ADV	ADV -	ADV -	2	обст	_	_
+2	отуречился	ОТУРЕЧИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	обст	_	_
+4	плену	ПЛЕН	S	S m inan loc2 sg	S m inan loc2 sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	сердито	СЕРДИТО	ADV	ADV -	ADV -	7	обст	_	_
+7	подумала	ПОДУМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	разъяснит	_	_
+8	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Мог	МОЧЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	бы	БЫ	PART	PART	PART	1	аналит	_	_
+3	даму	ДАМА	S	S f anim acc sg	S f anim acc sg	1	1-компл	_	_
+4	на	НА	PR	PR	PR	1	обст	_	_
+5	лошадь	ЛОШАДЬ	S	S f anim acc sg	S f anim acc sg	4	предл	_	_
+6	посадить	ПОСАДИТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Типично	ТИПИЧНО	ADV	ADV -	ADV -	2	огранич	_	_
+2	мужской	МУЖСКОЙ	A	A - ins sg plen f -	A - ins sg plen f -	3	опред	_	_
+3	нарциссизм	НАРЦИССИЗМ	S	S f inan ins sg	S f inan ins sg	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Павлин	ПАВЛИН	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Селезень	СЕЛЕЗЕНЬ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Только	ТОЛЬКО	PART	PART	PART	2	огранич	_	_
+2	бы	БЫ	PART	PART	PART	0	ROOT	_	_
+3	перед	ПЕРЕД	PR	PR	PR	0	ROOT	_	_
+4	серой	СЕРЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	5	опред	_	_
+5	уточкой	УТОЧКА	S	S f inan ins sg	S f inan ins sg	3	предл	_	_
+6	покрасоваться	ПОКРАСОВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	5	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	так	ТАК	ADV	ADV -	ADV -	4	обст	_	_
+3	бог	БОГ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	знает	ЗНАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+5	на	НА	PR	PR	PR	4	1-компл	_	_
+6	кого	КТО	S	S m - gen sg	S m - gen sg	5	предл	_	_
+7	похожа	ПОХОЖИЙ	A	A - - sg brev f -	A - - sg brev f -	4	сочин	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	7	сочин	_	_
+10	тут	ТУТ	ADV	ADV -	ADV -	12	обст	_	_
+11	еще	ЕЩЕ	ADV	ADV -	ADV -	12	огранич	_	_
+12	изображай	ИЗОБРАЖАТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	9	соч-союзн	_	_
+13	Санчо	САНЧО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	12	1-компл	_	_
+14	Пансу	ПАНСА	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+15	при	ПРИ	PR	PR	PR	14	атриб	_	_
+16	Рыцаре	РЫЦАРЬ	S	S m anim gen sg	S m anim gen sg	15	предл	_	_
+17	Печального	ПЕЧАЛЬНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	18	опред	_	_
+18	Образа	ОБРАЗ	S	S m inan gen sg	S m inan gen sg	16	1-компл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

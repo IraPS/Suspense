@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"мы","gr":"SPRO,pl,1p=dat"}],"text":"Нам"}
+{"analysis":[{"lex":"недолго","gr":"ADV="}],"text":"недолго"}
+{"analysis":[{"lex":"погулять","gr":"V,pf,intr=inf"}],"text":"погулять"}
+{"analysis":[],"text":"Ых"}
+{"analysis":[{"lex":"только","gr":"PART="}],"text":"только"}
+{"analysis":[{"lex":"до","gr":"PR="}],"text":"до"}

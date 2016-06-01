@@ -1,0 +1,149 @@
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Дейли	ДЕЙЛИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	16	опред	_	_
+3	пост	ПОСТ	S	S m inan acc sg	S m inan acc sg	2	атриб	_	_
+4	»	»	_	_	PUNC	6	PUNC	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	Лондон	ЛОНДОН	S	S m inan acc sg	S m inan acc sg	3	примыкат	_	_
+7	)	)	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	9	9	NUM	NUM - - -	NUM - - -	2	нум-аппоз	_	_
+10	декабря	ДЕКАБРЬ	S	S m inan gen sg	S m inan gen sg	2	атриб	_	_
+11	(	(	_	_	PUNC	12	PUNC	_	_
+12	27	27	NUM	NUM - - -	NUM - - -	13	количест	_	_
+13	ноября	НОЯБРЬ	S	S m inan gen sg	S m inan gen sg	10	примыкат	_	_
+14	)	)	_	_	PUNC	13	PUNC	_	_
+15	1877	1877	NUM	NUM - - -	NUM - - -	16	опред	_	_
+16	г	Г	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Последние	ПОСЛЕДНИЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	4	количест	_	_
+4	месяца	МЕСЯЦ	S	S m inan gen sg	S m inan gen sg	8	длительн	_	_
+5	осадой	ОСАДА	S	S f inan ins sg	S f inan ins sg	8	1-компл	_	_
+6	Плевны	ПЛЕВНА	S	S f inan gen sg	S f inan gen sg	5	квазиагент	_	_
+7	фактически	ФАКТИЧЕСКИ	ADV	ADV -	ADV -	8	обст	_	_
+8	руководит	РУКОВОДИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+9	старый	СТАРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	опред	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	опытный	ОПЫТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	соч-союзн	_	_
+12	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+13	Тотлебен	ТОТЛЕБЕН	S	S m inan acc sg	S m inan acc sg	12	атриб	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	хорошо	ХОРОШО	ADV	ADV -	ADV -	16	огранич	_	_
+16	памятный	ПАМЯТНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	17	опред	_	_
+17	британцам	БРИТАНЕЦ	S	S m inan acc sg	S m inan acc sg	13	сочин	_	_
+18	по	ПО	PR	PR	PR	12	атриб	_	_
+19	Севастопольской	СЕВАСТОПОЛЬСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	20	опред	_	_
+20	кампании	КАМПАНИЯ	S	S f inan gen sg	S f inan gen sg	18	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Будучи	БЫТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	10	обст	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	столько	СТОЛЬКО	NUM	NUM acc - -	NUM acc - -	6	соотнос	_	_
+4	полководцем	ПОЛКОВОДЕЦ	S	S m anim ins sg	S m anim ins sg	1	присвяз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	сколько	СКОЛЬКО	CONJ	CONJ	CONJ	4	сочин	_	_
+7	инженером	ИНЖЕНЕР	S	S m anim ins sg	S m anim ins sg	6	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	Тотлебен	ТОТЛЕБЕН	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+10	отказался	ОТКАЗЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+11	от	ОТ	PR	PR	PR	10	1-компл	_	_
+12	тактики	ТАКТИКА	S	S f inan gen sg	S f inan gen sg	11	предл	_	_
+13	лобовых	ЛОБОВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	14	опред	_	_
+14	атак	АТАКА	S	S f inan gen pl	S f inan gen pl	12	1-компл	_	_
+15	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+16	подверг	ПОДВЕРГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+17	армию	АРМИЯ	S	S f inan acc sg	S f inan acc sg	16	1-компл	_	_
+18	Османа	ОСМАН	S	S m anim gen sg	S m anim gen sg	17	квазиагент	_	_
+19	-	-	-	-	PUNC	18	PUNC	_	_
+20	паши	ПАША	S	S m inan gen sg	S m inan gen sg	17	1-компл	_	_
+21	правильной	ПРАВИЛЬНЫЙ	A	A - dat sg plen f -	A - dat sg plen f -	22	опред	_	_
+22	блокаде	БЛОКАДА	S	S f inan loc sg	S f inan loc sg	16	2-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Русские	РУССКИЙ	S	S m anim nom pl	S m anim nom pl	2	предик	_	_
+2	потратили	ПОТРАТИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	массу	МАССА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	драгоценного	ДРАГОЦЕННЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	5	опред	_	_
+5	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	3	квазиагент	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	за	ЗА	PR	PR	PR	10	обст	_	_
+8	что	ЧТО	S	S n - acc sg	S n - acc sg	7	предл	_	_
+9	Тотлебена	ТОТЛЕБЕН	S	S m inan gen sg	S m inan gen sg	8	квазиагент	_	_
+10	подвергали	ПОДВЕРГАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	5	релят	_	_
+11	резкой	РЕЗКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	12	опред	_	_
+12	критике	КРИТИКА	S	S f inan dat sg	S f inan dat sg	10	2-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	однако	ОДНАКО	CONJ	CONJ	CONJ	2	обст	_	_
+15	ныне	НЫНЕ	ADV	ADV -	ADV -	16	обст	_	_
+16	приходится	ПРИХОДИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	14	подч-союзн	_	_
+17	признать	ПРИЗНАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	16	предик	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	что	ЧТО	CONJ	CONJ	CONJ	17	1-компл	_	_
+20	осторожный	ОСТОРОЖНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	21	опред	_	_
+21	инженер	ИНЖЕНЕР	S	S m anim nom sg	S m anim nom sg	22	предик	_	_
+22	прав	ПРАВЫЙ	A	A - - sg brev m -	A - - sg brev m -	19	подч-союзн	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	С тех пор	С тех пор	ADV	ADV -	-	14	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+4	месяц	МЕСЯЦ	S	S m inan acc sg	S m inan acc sg	8	1-компл	_	_
+5	назад	НАЗАД	ADV	ADV -	ADV -	8	обст	_	_
+6	турок	ТУРОК	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+7	окончательно	ОКОНЧАТЕЛЬНО	ADV	ADV -	ADV -	8	обст	_	_
+8	отрезали	ОТРЕЗАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	3	сравн-союзн	_	_
+9	от	ОТ	PR	PR	PR	8	обст	_	_
+10	Софии	СОФИЯ	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	в	В	PR	PR	PR	14	обст	_	_
+13	Плевне	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	начался	НАЧИНАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+15	голод	ГОЛОД	S	S m inan nom sg	S m inan nom sg	14	предик	_	_
+16	и	И	CONJ	CONJ	CONJ	14	сент-соч	_	_
+17	нехватка	НЕХВАТКА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+18	боеприпасов	БОЕПРИПАСЫ	S	S m inan gen pl	S m inan gen pl	17	квазиагент	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Тотлебена	ТОТЛЕБЕН	S	S m inan gen sg	S m inan gen sg	4	1-компл	_	_
+2	все	ВСЕ	S	S - - nom pl	S - - nom pl	4	2-компл	_	_
+3	чаще	ЧАСТО	ADV	ADV comp	ADV comp	4	обст	_	_
+4	называют	НАЗЫВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+5	вторым	ВТОРОЙ	A	A - ins sg plen m -	A - ins sg plen m -	6	опред	_	_
+6	Кутузовым	КУТУЗОВ	S	S m anim ins sg	S m anim ins sg	4	2-компл	_	_
+7	(	(	_	_	PUNC	8	PUNC	_	_
+8	русский	РУССКИЙ	S	S m anim nom sg	S m anim nom sg	6	примыкат	_	_
+9	фельдмаршал	ФЕЛЬДМАРШАЛ	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	измотавший	ИЗМАТЫВАТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	6	сочин	_	_
+12	силы	СИЛА	S	S f inan gen sg	S f inan gen sg	11	1-компл	_	_
+13	Наполеона	НАПОЛЕОН	S	S m anim gen sg	S m anim gen sg	12	квазиагент	_	_
+14	бесконечным	БЕСКОНЕЧНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	15	опред	_	_
+15	отступлением	ОТСТУПЛЕНИЕ	S	S n inan ins sg	S n inan ins sg	4	обст	_	_
+16	в	В	PR	PR	PR	15	атриб	_	_
+17	1812	1812	NUM	NUM - - -	NUM - - -	18	опред	_	_
+18	году	ГОД	S	S m inan loc2 sg	S m inan loc2 sg	16	предл	_	_
+19	–	–	–	–	PUNC	21	опред	_	_
+20	прим.	ПРИМА.	S	S f inan gen pl	S f inan gen pl	19	1-компл	_	_
+21	редакции	РЕДАКЦИЯ	S	S f inan nom pl	S f inan nom pl	15	примыкат	_	_
+22	)	)	_	_	PUNC	21	PUNC	_	_
+23	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Со	СО	PR	PR	PR	5	обст	_	_
+2	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	на	НА	PR	PR	PR	5	обст	_	_
+4	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+5	ожидается	ОЖИДАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	капитуляция	КАПИТУЛЯЦИЯ	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+7	Османа	ОСМАН	S	S m anim gen sg	S m anim gen sg	6	квазиагент	_	_
+8	со	СО	PR	PR	PR	5	обст	_	_
+9	всем	ВЕСЬ	A	A - dat pl plen - -	A - dat pl plen - -	11	опред	_	_
+10	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	11	атриб	_	_
+11	50	50	NUM	NUM - - -	NUM - - -	13	композ	_	_
+12	-	-	-	-	PUNC	11	PUNC	_	_
+13	тысячным	ТЫСЯЧНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	14	опред	_	_
+14	войском	ВОЙСКО	S	S n inan ins sg	S n inan ins sg	8	предл	_	_
+15	»	»	_	_	PUNC	14	PUNC	_	_
+16	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

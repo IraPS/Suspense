@@ -1,0 +1,36 @@
+1	По	ПО	PR	PR	PR	4	вводн	_	_
+2	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	квазиагент	_	_
+3	тону	ТОН	S	S m inan dat sg	S m inan dat sg	1	предл	_	_
+4	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	ясно	ЯСНО	ADV	ADV -	ADV -	4	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	4	предик	_	_
+8	привечать	ПРИВЕЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	предик	_	_
+9	румына	РУМЫН	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	следует	СЛЕДОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	подч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+14	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	16	предик	_	_
+15	чопорно	ЧОПОРНО	ADV	ADV -	ADV -	16	обст	_	_
+16	ответила	ОТВЕЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	13	соч-союзн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	нарочно	НАРОЧНО	ADV	ADV -	ADV -	19	обст	_	_
+19	опершись	ОПИРАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	16	обст	_	_
+20	на	НА	PR	PR	PR	19	2-компл	_	_
+21	Петин	ПЕТИН	S	S m anim nom sg	S m anim nom sg	26	предик	_	_
+22	локоть	ЛОКОТЬ	S	S m inan acc sg	S m inan acc sg	26	1-компл	_	_
+23	:	:	:	:	PUNC	26	обст	_	_
+24	–	–	–	–	PUNC	26	предик	_	_
+25	Очень	ОЧЕНЬ	ADV	ADV -	ADV -	26	огранич	_	_
+26	рада	РАД	A	A - - sg brev f -	A - - sg brev f -	20	предл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Мой	МОЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	жених	ЖЕНИХ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	вольноопределяющийся	ВОЛЬНООПРЕДЕЛЯЮЩИЙСЯ	S	S m anim nom sg	S m anim nom sg	2	аппоз	_	_
+5	Петр	ПЕТР	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	Яблоков	ЯБЛОКОВ	S	S m anim nom sg	S m anim nom sg	5	аппоз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

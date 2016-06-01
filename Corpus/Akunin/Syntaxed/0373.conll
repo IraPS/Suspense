@@ -1,0 +1,33 @@
+1	Фандорина	ФАНДОРИНА	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+2	в	В	PR	PR	PR	1	атриб	_	_
+3	клубе	КЛУБ	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	5	сент-соч	_	_
+8	'	'	_	_	PUNC	7	PUNC	_	_
+9	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+10	тоже	ТОЖЕ	PART	PART	PART	13	огранич	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	Маклафлин	МАКЛАФЛИН	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+13	играл	ИГРАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	присвяз	_	_
+14	в	В	PR	PR	PR	13	2-компл	_	_
+15	шахматы	ШАХМАТЫ	S	S - inan acc pl	S - inan acc pl	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	а	А	CONJ	CONJ	CONJ	5	сент-соч	_	_
+18	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	23	предик	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	окруженный	ОКРУЖАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	18	опред	_	_
+21	офицерами	ОФИЦЕР	S	S m anim ins pl	S m anim ins pl	20	2-компл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	колдовал	КОЛДОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	17	соч-союзн	_	_
+24	над	НАД	PR	PR	PR	23	1-компл	_	_
+25	трехверсткой	ТРЕХВЕРСТКА	S	S f inan acc sg	S f inan acc sg	24	предл	_	_
+26	и	И	CONJ	CONJ	CONJ	24	сочин	_	_
+27	на	НА	PR	PR	PR	26	соч-союзн	_	_
+28	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	27	предл	_	_
+29	даже	ДАЖЕ	CONJ	CONJ	CONJ	23	обст	_	_
+30	не	НЕ	PART	PART	PART	31	огранич	_	_
+31	взглянул	ВЗГЛЯДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	29	подч-союзн	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+

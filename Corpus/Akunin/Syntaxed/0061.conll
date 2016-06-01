@@ -1,0 +1,39 @@
+1	–	–	–	–	PUNC	12	1-компл	_	_
+2	Вон	ВОН	PART	PART	PART	3	огранич	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	ваш	ВАШ	A	A - acc sg plen m inan	A - acc sg plen m inan	8	опред	_	_
+6	б	Б	PART	PART	PART	5	огранич	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	буцефал	БУЦЕФАЛ	S	S m anim nom sg	S m anim nom sg	3	об-аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	 	 	 	 	PUNC	12	обст	_	_
+11	–	–	–	–	PUNC	12	1-компл	_	_
+12	показал	ПОКАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+13	волонтер	ВОЛОНТЕР	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+14	на	НА	PR	PR	PR	12	обст	_	_
+15	бурого	БУРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	16	опред	_	_
+16	ишачка	ИШАЧОК	S	S m anim gen sg	S m anim gen sg	14	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Неказист	НЕКАЗИСТЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	зато	ЗАТО	CONJ	CONJ	CONJ	2	сочин	_	_
+5	падать	ПАДАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	соч-союзн	_	_
+6	невысоко	НЕВЫСОКО	ADV	ADV -	ADV -	5	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+3	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	4	1-компл	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	выиграли	ВЫИГРЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	сообразила	СООБРАЖАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

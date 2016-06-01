@@ -1,0 +1,10 @@
+1	Из	ИЗ	PR	PR	PR	3	1-компл	_	_
+2	двора	ДВОР	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	донесся	ДОНОСИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	дружный	ДРУЖНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	вопль	ВОПЛЬ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+6	множества	МНОЖЕСТВО	S	S n inan gen sg	S n inan gen sg	5	квазиагент	_	_
+7	мужских	МУЖСКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	8	опред	_	_
+8	голосов	ГОЛОС	S	S m inan gen pl	S m inan gen pl	6	квазиагент	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

@@ -1,0 +1,56 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Видали	ВИДАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	2	предик	_	_
+4	это	ЭТО	S	S n - acc sg	S n - acc sg	2	1-компл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	возбужденно	ВОЗБУЖДЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	заговорил	ЗАГОВАРИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	смотря	СМОТРЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	обст	_	_
+7	в	В	PR	PR	PR	6	1-компл	_	_
+8	гневное	ГНЕВНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	7	предл	_	_
+9	лицо	ЛИЦО	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+10	Джой	ДЖОЙ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Простите	ПРОЩАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	если	ЕСЛИ	CONJ	CONJ	CONJ	2	обст	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+6	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	8	1-компл	_	_
+7	сильно	СИЛЬНО	ADV	ADV -	ADV -	8	обст	_	_
+8	толкнул	ТОЛКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	подч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Бронзовая	БРОНЗОВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	змея	ЗМЕЯ	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Одна	ОДИН	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+2	из	ИЗ	PR	PR	PR	1	электив	_	_
+3	самых	САМЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	4	опред	_	_
+4	опасных	ОПАСНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	2	предл	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Женщины	ЖЕНЩИНА	S	S f anim nom pl	S f anim nom pl	4	предик	_	_
+2	почти	ПОЧТИ	ADV	ADV -	ADV -	3	огранич	_	_
+3	всегда	ВСЕГДА	ADV	ADV -	ADV -	4	обст	_	_
+4	принимают	ПРИНИМАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+5	змей	ЗМЕЙ	S	S f anim acc pl	S f anim acc pl	4	1-компл	_	_
+6	за	ЗА	PR	PR	PR	5	атриб	_	_
+7	ящериц	ЯЩЕРИЦА	S	S f anim acc pl	S f anim acc pl	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Укушенный	УКУСИТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	4	предик	_	_
+2	бронзовой	БРОНЗОВЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	3	опред	_	_
+3	змеей	ЗМЕЯ	S	S f inan ins sg	S f inan ins sg	1	агент	_	_
+4	умирает	УМИРАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	в течение	в течение	PR	PR	ZERO	4	обст	_	_
+6	трех	ТРИ	NUM	NUM loc - -	NUM loc - -	7	количест	_	_
+7	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	5	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

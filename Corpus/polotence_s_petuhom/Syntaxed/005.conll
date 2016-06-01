@@ -1,0 +1,29 @@
+1	-	-	-	-	PUNC	2	PUNC	_	_
+2	Эх...	ЭХ...	INTJ	INTJ	INTJ	3	вводн	_	_
+3	товарищ	ТОВАРИЩ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+4	доктор	ДОКТОР	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	-	-	-	-	PUNC	4	PUNC	_	_
+7	отозвался	ОТЗЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	возница	ВОЗНИЦА	S	S - anim nom sg	S - anim nom sg	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	тоже	ТОЖЕ	PART	PART	PART	11	огранич	_	_
+11	еле	ЕЛЕ	ADV	ADV -	ADV -	12	обст	_	_
+12	шевеля	ШЕВЕЛИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	обст	_	_
+13	губами	ГУБА	S	S f inan ins pl	S f inan ins pl	12	1-компл	_	_
+14	под	ПОД	PR	PR	PR	13	атриб	_	_
+15	светлыми	СВЕТЛЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	16	опред	_	_
+16	усишками	УСИШКА	S	S m inan ins pl	S m inan ins pl	14	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	-	-	-	-	PUNC	16	PUNC	_	_
+19	пятнадцать	ПЯТНАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	16	кратн	_	_
+20	годов	ГОД	S	S m inan gen pl	S m inan gen pl	16	квазиагент	_	_
+21	езжу	ЕЗДИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	7	сочин	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	а	А	CONJ	CONJ	CONJ	7	сент-соч	_	_
+24	все	ВСЕ	S	S - - acc pl	S - - acc pl	25	1-компл	_	_
+25	привыкнуть	ПРИВЫКАТЬ	V	V pf - - inf - -	V pf - - inf - -	27	1-компл	_	_
+26	не	НЕ	PART	PART	PART	27	огранич	_	_
+27	могу	МОЧЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	23	соч-союзн	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+

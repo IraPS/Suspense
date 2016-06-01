@@ -1,0 +1,95 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	PART	PART	PART	3	огранич	_	_
+3	нет	НЕТ	PART	PART	PART	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	майор	МАЙОР	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	какая	КАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	10	опред	_	_
+8	к	К	PR	PR	PR	0	ROOT	_	_
+9	черту	ЧЕРТА	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	измена	ИЗМЕНА	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+11	!	!	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	услышала	УСЛЫШАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	раздраженный	РАЗДРАЖАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	5	опред	_	_
+5	голос	ГОЛОС	S	S m inan nom sg	S m inan nom sg	3	аппоз	_	_
+6	Соболева	СОБОЛЕВ	S	S m anim gen sg	S m anim gen sg	5	квазиагент	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Прав	ПРАВЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+3	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	штабная	ШТАБНОЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	голова	ГОЛОВА	S	S f inan nom sg	S f inan nom sg	3	разъяснит	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	6	опред	_	_
+9	–	–	–	–	PUNC	11	опред	_	_
+10	просто	ПРОСТО	PART	PART	PART	11	огранич	_	_
+11	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+12	прошел	ПРОХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	релят	_	_
+13	форсированным	ФОРСИРОВАННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	14	опред	_	_
+14	маршем	МАРШ	S	S m inan ins sg	S m inan ins sg	12	присвяз	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	а	А	CONJ	CONJ	CONJ	12	сент-соч	_	_
+17	наши	НАШ	A	A - nom pl plen - -	A - nom pl plen - -	18	опред	_	_
+18	шапкозакидатели	ШАПКОЗАКИДАТЕЛЬ	S	S m anim nom pl	S m anim nom pl	24	предик	_	_
+19	такой	ТАКОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	20	опред	_	_
+20	прыти	ПРЫТЬ	S	S f inan gen sg	S f inan gen sg	18	1-компл	_	_
+21	от	ОТ	PR	PR	PR	18	атриб	_	_
+22	турок	ТУРОК	S	S m anim gen pl	S m anim gen pl	21	предл	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	ждали	ЖДАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	16	соч-союзн	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	3	обст	_	_
+2	шутки	ШУТКА	S	S f inan nom pl	S f inan nom pl	3	предик	_	_
+3	кончены	КОНЧАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	У	У	PR	PR	PR	3	1-компл	_	_
+2	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	1	предл	_	_
+3	появился	ПОЯВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	грозный	ГРОЗНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	противник	ПРОТИВНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+8	война	ВОЙНА	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+9	пойдет	ПОЙТИ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	7	соч-союзн	_	_
+10	всерьез	ВСЕРЬЕЗ	ADV	ADV -	ADV -	9	обст	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Винер	ВИНЕР	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+3	Цайтунг	ЦАЙТУНГ	S	S f anim nom sg	S f anim nom sg	2	аппоз	_	_
+4	»	»	_	_	PUNC	6	PUNC	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	Вена	ВЕНА	S	S f inan nom sg	S f inan nom sg	3	примыкат	_	_
+7	)	)	_	_	PUNC	6	PUNC	_	_
+8	,	,	,	,	PUNC	6	PUNC	_	_
+9	30	30	NUM	NUM - - -	NUM - - -	6	нум-аппоз	_	_
+10	(	(	_	_	PUNC	11	PUNC	_	_
+11	18	18	NUM	NUM - - -	NUM - - -	9	примыкат	_	_
+12	)	)	_	_	PUNC	11	PUNC	_	_
+13	июля	ИЮЛЬ	S	S m inan gen sg	S m inan gen sg	6	квазиагент	_	_
+14	1877	1877	NUM	NUM - - -	NUM - - -	15	опред	_	_
+15	г	Г	S	S m inan nonflex nonflex	S m inan nonflex nonflex	13	атриб	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Наш	НАШ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+4	сообщает	СООБЩАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	из	ИЗ	PR	PR	PR	4	1-компл	_	_
+6	Шумена	ШУМЕН	S	S m anim ins sg	S m anim ins sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	где	ГДЕ	ADV	ADV -	ADV -	9	1-компл	_	_
+9	находится	НАХОДИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	сент-соч	_	_
+10	штаб-квартира	ШТАБ-КВАРТИРА	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+11	турецкой	ТУРЕЦКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+12	Балканской	БАЛКАНСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+13	армии	АРМИЯ	S	S f inan gen sg	S f inan gen sg	10	квазиагент	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

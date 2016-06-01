@@ -1,0 +1,24 @@
+1	Пистолет	ПИСТОЛЕТ	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+2	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	1	аппоз	_	_
+3	'	'	_	_	PUNC	2	PUNC	_	_
+4	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+5	грянул	ГРЯНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	еще	ЕЩЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	5	обст	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	прямо	ПРЯМО	PART	PART	PART	10	огранич	_	_
+10	из-под	ИЗ-ПОД	PR	PR	PR	5	1-компл	_	_
+11	Вариного	ВАРИНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	локтя	ЛОКОТЬ	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	5	сент-соч	_	_
+15	юный	ЮНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	16	опред	_	_
+16	прапорщик	ПРАПОРЩИК	S	S m anim nom sg	S m anim nom sg	20	предик	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	ойкнув	ОЙКНУТЬ	V	V pf praet - ger - -	V pf praet - ger - -	20	обст	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	упал	УПАСТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	соч-союзн	_	_
+21	лицом	ЛИЦО	S	S n inan ins sg	S n inan ins sg	20	1-компл	_	_
+22	вниз	ВНИЗ	ADV	ADV -	ADV -	20	2-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

@@ -1,0 +1,28 @@
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Это	ЭТО	S	S n - nom sg	S n - nom sg	8	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	2	вводн	_	_
+5	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	воздушные	ВОЗДУШНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	8	опред	_	_
+8	шары	ШАР	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	 	 	 	 	PUNC	12	2-компл	_	_
+11	–	–	–	–	PUNC	12	3-компл	_	_
+12	сообщил	СООБЩАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	релят	_	_
+13	подошедший	ПОДХОДИТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	12	1-компл	_	_
+14	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	С	С	PR	PR	PR	1	обст	_	_
+3	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	2	предл	_	_
+4	при помощи	при помощи	PR	PR	ZERO	7	обст	_	_
+5	сигнальных	СИГНАЛЬНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	флажков	ФЛАЖОК	S	S m inan gen pl	S m inan gen pl	4	предл	_	_
+7	ведется	ВЕСТИСЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	сент-соч	_	_
+8	корректировка	КОРРЕКТИРОВКА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+9	артиллерийского	АРТИЛЛЕРИЙСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+10	огня	ОГОНЬ	S	S m inan gen sg	S m inan gen sg	8	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

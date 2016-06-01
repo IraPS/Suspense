@@ -1,0 +1,38 @@
+1	Каждое	КАЖДЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	опред	_	_
+2	лето	ЛЕТО	S	S n inan acc sg	S n inan acc sg	4	длительн	_	_
+3	дети	РЕБЕНОК	S	S m anim nom pl	S m anim nom pl	4	предик	_	_
+4	проводили	ПРОВОДИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	1-компл	_	_
+6	даче	ДАЧА	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	или	ИЛИ	CONJ	CONJ	CONJ	5	сочин	_	_
+8	в	В	PR	PR	PR	7	соч-союзн	_	_
+9	деревне	ДЕРЕВНЯ	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	под	ПОД	PR	PR	PR	4	обст	_	_
+11	Москвой	МОСКВА	S	S f inan ins sg	S f inan ins sg	10	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Здесь	ЗДЕСЬ	ADV	ADV -	ADV -	5	обст	_	_
+2	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+3	много	МНОГО	ADV	ADV -	ADV -	5	обст	_	_
+4	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	3	1-компл	_	_
+5	посвящал	ПОСВЯЩАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	деревенским	ДЕРЕВЕНСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	7	опред	_	_
+7	малышам	МАЛЫШ	S	S m anim dat pl	S m anim dat pl	5	2-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	10	предик	_	_
+10	любил	ЛЮБИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	сент-соч	_	_
+11	играть	ИГРАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	1-компл	_	_
+12	с	С	PR	PR	PR	11	1-компл	_	_
+13	ними	ОНИ	SPRO	SPRO pl - - ins	SPRO pl - - ins	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	катал	КАТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	сочин	_	_
+16	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	15	1-компл	_	_
+17	на	НА	PR	PR	PR	15	обст	_	_
+18	своем	СВОЙ	A	A - loc sg plen m -	A - loc sg plen m -	19	опред	_	_
+19	велосипеде	ВЕЛОСИПЕД	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	забавлял	ЗАБАВЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	сочин	_	_
+22	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+23	т.д	Т.Д	S	S - - nonflex nonflex	S - - nonflex nonflex	22	соч-союзн	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+

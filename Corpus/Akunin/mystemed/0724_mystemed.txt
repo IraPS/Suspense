@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"петырница","qual":"bastard","gr":"S,f,inan=acc,sg"}],"text":"Петырницу"}
+{"analysis":[{"lex":"то","gr":"CONJ="}],"text":"то"}
+{"analysis":[{"lex":"зачем","gr":"ADVPRO="}],"text":"зачем"}
+{"analysis":[{"lex":"небрежно","gr":"ADV="}],"text":"небрежно"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,f,pf"}],"text":"спросила"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"text":"\\s"}
+{"analysis":[{"lex":"снова","gr":"ADV="}],"text":"Снова"}
+{"analysis":[{"lex":"встречаться","gr":"V,intr=inpraes,pl,indic,2p,ipf"}],"text":"встречаетесь"}
+{"analysis":[{"lex":"со","gr":"PR="}],"text":"со"}
+{"analysis":[{"lex":"свой","gr":"APRO=dat,pl"},{"lex":"свой","gr":"APRO=ins,sg,m"},{"lex":"свой","gr":"APRO=ins,sg,n"}],"text":"своим"}
+{"analysis":[{"lex":"плевненский","gr":"A=dat,pl,plen"},{"lex":"плевненский","gr":"A=ins,sg,plen,m"},{"lex":"плевненский","gr":"A=ins,sg,plen,n"}],"text":"плевненским"}
+{"analysis":[{"lex":"осведомитель","gr":"S,m,anim=ins,sg"}],"text":"осведомителем"}
+{"analysis":[{"lex":"да","gr":"PART="}],"text":"да"}

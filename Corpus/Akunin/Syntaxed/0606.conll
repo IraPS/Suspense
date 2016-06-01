@@ -1,0 +1,39 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	оглянулась	ОГЛЯНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	8	опред	_	_
+8	долина	ДОЛИНА	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+9	пришла	ПРИХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	подч-союзн	_	_
+10	в	В	PR	PR	PR	9	2-компл	_	_
+11	движение	ДВИЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	10	предл	_	_
+12	:	:	:	:	PUNC	16	2-компл	_	_
+13	островки	ОСТРОВОК	S	S m inan nom pl	S m inan nom pl	16	предик	_	_
+14	белых	БЕЛЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	15	опред	_	_
+15	гимнастерок	ГИМНАСТЕРКА	S	S m inan gen pl	S m inan gen pl	13	квазиагент	_	_
+16	заколыхались	ЗАКОЛЫХАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	сент-соч	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	быстро	БЫСТРО	ADV	ADV -	ADV -	19	обст	_	_
+19	стягиваясь	СТЯГИВАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	16	обст	_	_
+20	к	К	PR	PR	PR	19	1-компл	_	_
+21	передовой	ПЕРЕДОВОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	20	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Мимо	МИМО	PR	PR	PR	3	1-компл	_	_
+2	высотки	ВЫСОТКА	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+3	бежали	БЕЖАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	бледные	БЛЕДНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	впереди	ВПЕРЕДИ	ADV	ADV -	ADV -	8	огранич	_	_
+8	ходко	ХОДКО	ADV	ADV -	ADV -	9	обст	_	_
+9	прихрамывал	ПРИХРАМЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	сент-соч	_	_
+10	пожилой	ПОЖИЛОЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	офицер	ОФИЦЕР	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+12	с	С	PR	PR	PR	11	атриб	_	_
+13	длинными	ДЛИННЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	14	опред	_	_
+14	усами	УС	S	S m inan ins pl	S m inan ins pl	12	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

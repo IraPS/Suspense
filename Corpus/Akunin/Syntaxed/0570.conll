@@ -1,0 +1,24 @@
+1	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	смотрел	СМОТРЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	растянув	РАСТЯГИВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+7	толстые	ТОЛСТЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	8	опред	_	_
+8	губы	ГУБА	S	S f inan acc pl	S f inan acc pl	6	1-компл	_	_
+9	в	В	PR	PR	PR	6	обст	_	_
+10	улыбке	УЛЫБКА	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+13	взгляд	ВЗГЛЯД	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+14	у	У	PR	PR	PR	16	обст	_	_
+15	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	14	предл	_	_
+16	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	соч-союзн	_	_
+17	непонятный	НЕПОНЯТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	16	присвяз	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	чуть	ЧУТЬ	ADV	ADV -	ADV -	21	огранич	_	_
+20	ли	ЛИ	PART	PART	PART	19	огранич	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	искательный	ИСКАТЕЛЬНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	17	сочин	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

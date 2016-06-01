@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"тотчас","gr":"ADV="}],"text":"Тотчас"}
+{"analysis":[{"lex":"бумажка","gr":"S,f,inan=nom,sg"}],"text":"бумажка"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,f,ipf"}],"text":"была"}
+{"analysis":[{"lex":"составлять","gr":"V,tran=praet,sg,partcp,brev,f,pf,pass"}],"text":"составлена"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"посылать","gr":"V=praet,sg,partcp,brev,f,pf,pass"}],"text":"послана"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"склад","gr":"S,m,inan=acc,sg"},{"lex":"склад","gr":"S,m,inan=nom,sg"}],"text":"склад"}

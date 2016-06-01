@@ -1,0 +1,118 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вышло	ВЫХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+3	так	ТАК	ADV	ADV -	ADV -	2	обст	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Три	ТРИ	NUM	NUM nom - -	NUM nom - -	2	количест	_	_
+2	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	7	предик	_	_
+3	назад	НАЗАД	ADV	ADV -	ADV -	7	обст	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+5	после	ПОСЛЕ	PR	PR	PR	7	обст	_	_
+6	завтрака	ЗАВТРАК	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+7	заглянула	ЗАГЛЯДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	к	К	PR	PR	PR	7	1-компл	_	_
+9	Эрасту	ЭРАСТ	S	S m anim dat sg	S m anim dat sg	8	предл	_	_
+10	Петровичу	ПЕТРОВИЧ	S	S m anim dat sg	S m anim dat sg	9	аппоз	_	_
+11	в	В	PR	PR	PR	7	2-компл	_	_
+12	палатку	ПАЛАТКА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+14	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	13	соч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	что	ЧТО	CONJ	CONJ	CONJ	14	1-компл	_	_
+17	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	18	предик	_	_
+18	лежит	ЛЕЖАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	16	подч-союзн	_	_
+19	на	НА	PR	PR	PR	18	1-компл	_	_
+20	кровати	КРОВАТЬ	S	S f inan loc sg	S f inan loc sg	19	предл	_	_
+21	одетый	ОДЕВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	18	сочин	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	в	В	PR	PR	PR	21	сочин	_	_
+24	грязных	ГРЯЗНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	25	опред	_	_
+25	сапогах	САПОГ	S	S m inan loc pl	S m inan loc pl	23	предл	_	_
+26	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+27	спит	СПАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	26	соч-союзн	_	_
+28	беспробудным	БЕСПРОБУДНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	29	опред	_	_
+29	сном	СОН	S	S m inan ins sg	S m inan ins sg	27	1-компл	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+2	предыдущий	ПРЕДЫДУЩИЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	день	ДЕНЬ	S	S m inan nom sg	S m inan nom sg	5	обст	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+5	отсутствовал	ОТСУТСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	видно	ВИДНО	ADV	ADV -	ADV -	10	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	вернулся	ВЕРНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+11	только	ТОЛЬКО	PART	PART	PART	12	огранич	_	_
+12	под	ПОД	PR	PR	PR	10	2-компл	_	_
+13	утро	УТРО	S	S n inan acc sg	S n inan acc sg	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	хотела	ХОТЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	было	БЫЛО	PART	PART	PART	2	аналит	_	_
+4	потихоньку	ПОТИХОНЬКУ	ADV	ADV -	ADV -	5	обст	_	_
+5	удалиться	УДАЛЯТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	2	сочин	_	_
+8	вдруг	ВДРУГ	ADV	ADV -	ADV -	9	обст	_	_
+9	заметила	ЗАМЕЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	9	1-компл	_	_
+12	из	ИЗ	PR	PR	PR	18	обст	_	_
+13	расстегнутого	РАССТЕГНУТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	14	опред	_	_
+14	ворота	ВОРОТ	S	S - - acc pl	S - - acc pl	12	предл	_	_
+15	на	НА	PR	PR	PR	18	обст	_	_
+16	грудь	ГРУДЬ	S	S f inan acc sg	S f inan acc sg	15	предл	_	_
+17	спящего	СПАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act anim	PARTCP ipf inpraes acc sg plen m act anim	18	предик	_	_
+18	свисает	СВИСАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	подч-союзн	_	_
+19	серебряный	СЕРЕБРЯНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	20	опред	_	_
+20	медальон	МЕДАЛЬОН	S	S m inan acc sg	S m inan acc sg	18	1-компл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Искушение	ИСКУШЕНИЕ	S	S n inan nom sg	S n inan nom sg	2	предик	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	слишком	СЛИШКОМ	ADV	ADV -	ADV -	4	огранич	_	_
+4	велико	БОЛЬШОЙ	A	A - - sg brev n -	A - - sg brev n -	2	присвяз	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+2	на	НА	PR	PR	PR	4	обст	_	_
+3	цыпочках	ЦЫПОЧКИ	S	S - inan loc pl	S - inan loc pl	2	предл	_	_
+4	подкралась	ПОДКРАДЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	к	К	PR	PR	PR	4	обст	_	_
+6	кровати	КРОВАТЬ	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	отрывая	ОТРЫВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	4	обст	_	_
+10	взгляда	ВЗГЛЯД	S	S m inan gen sg	S m inan gen sg	9	1-компл	_	_
+11	от	ОТ	PR	PR	PR	10	1-компл	_	_
+12	лица	ЛИЦО	S	S n inan gen sg	S n inan gen sg	11	предл	_	_
+13	Фандорина	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	4	вводн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	2	предик	_	_
+2	дышал	ДЫШАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	ровно	РОВНО	ADV	ADV -	ADV -	6	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	рот	РОТ	S	S m inan acc sg	S m inan acc sg	6	1-компл	_	_
+6	приоткрылся	ПРИОТКРЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+9	похож	ПОХОЖИЙ	A	A - - sg brev m -	A - - sg brev m -	8	соч-союзн	_	_
+10	титулярный	ТИТУЛЯРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	советник	СОВЕТНИК	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+12	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	13	обст	_	_
+13	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	сент-соч	_	_
+14	на	НА	PR	PR	PR	13	присвяз	_	_
+15	мальчишку	МАЛЬЧИШКА	S	S m anim acc sg	S m anim acc sg	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	20	предик	_	_
+18	из	ИЗ	PR	PR	PR	17	электив	_	_
+19	озорства	ОЗОРСТВО	S	S n inan gen sg	S n inan gen sg	18	предл	_	_
+20	вымазал	ВЫМАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	сент-соч	_	_
+21	виски	ВИСОК	S	S m inan acc pl	S m inan acc pl	20	1-компл	_	_
+22	пудрой	ПУДРА	S	S f inan ins sg	S f inan ins sg	20	2-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

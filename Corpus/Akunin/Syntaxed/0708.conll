@@ -1,0 +1,45 @@
+1	По	ПО	PR	PR	PR	5	вводн	_	_
+2	пустой	ПУСТОЙ	A	A - loc sg plen f -	A - loc sg plen f -	3	опред	_	_
+3	дороге	ДОРОГА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+4	лошадка	ЛОШАДКА	S	S f anim nom sg	S f anim nom sg	5	предик	_	_
+5	затрусила	ЗАТРУСИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	живей	ЖИВО	ADV	ADV comp	ADV comp	5	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	да	ДА	CONJ	CONJ	CONJ	5	сент-соч	_	_
+9	и	И	CONJ	CONJ	CONJ	12	соотнос	_	_
+10	дождь	ДОЖДЬ	S	S m inan nom sg	S m inan nom sg	12	предик	_	_
+11	почти	ПОЧТИ	ADV	ADV -	ADV -	12	огранич	_	_
+12	прекратился	ПРЕКРАЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Еще	ЕЩЕ	ADV	ADV -	ADV -	2	огранич	_	_
+2	часок	ЧАСОК	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	другой	ДРУГОЙ	A	A - gen sg plen f -	A - gen sg plen f -	2	сочин	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	дома	ДОМА	ADV	ADV -	ADV -	5	соч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	фыркнула	ФЫРКНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Ничего	НИЧЕГО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	себе	СЕБЕ	PART	PART	PART	1	огранич	_	_
+3	«	«	_	_	PUNC	4	PUNC	_	_
+4	дома	ДОМА	ADV	ADV -	ADV -	1	сравнит	_	_
+5	»	»	_	_	PUNC	4	PUNC	_	_
+6	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+2	в	В	PR	PR	PR	0	ROOT	_	_
+3	сырой	СЫРОЙ	A	A - gen sg plen f -	A - gen sg plen f -	2	предл	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	то	ТО	CONJ	CONJ	CONJ	1	огранич	_	_
+6	палатке	ПАЛАТКА	S	S f inan loc sg	S f inan loc sg	5	соч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	под	ПОД	PR	PR	PR	6	атриб	_	_
+9	семью	СЕМЬ	NUM	NUM ins - -	NUM ins - -	10	количест	_	_
+10	ветрами	ВЕТЕР	S	S m inan ins pl	S m inan ins pl	8	предл	_	_
+11	!	!	SENT	SENT	SENT	10	PUNC	_	_
+

@@ -1,0 +1,71 @@
+1	Жалко	ЖАЛКО	ADV	ADV -	ADV -	3	обст	_	_
+2	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	3	1-компл	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	безумно	БЕЗУМНО	ADV	ADV -	ADV -	3	присвяз	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	в	В	PR	PR	PR	0	ROOT	_	_
+3	то	ТОТ	A	A - acc sg plen n inan	A - acc sg plen n inan	8	1-компл	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	8	длительн	_	_
+6	все	ВСЕ	S	S - - acc pl	S - - acc pl	8	1-компл	_	_
+7	чаще	ЧАСТО	ADV	ADV comp	ADV comp	8	обст	_	_
+8	подступал	ПОДСТУПАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	предл	_	_
+9	неприятный	НЕПРИЯТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	опред	_	_
+10	вопрос	ВОПРОС	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+11	:	:	:	:	PUNC	14	1-компл	_	_
+12	можно	МОЖНО	ADV	ADV -	ADV -	10	1-компл	_	_
+13	ли	ЛИ	PART	PART	PART	12	огранич	_	_
+14	выходить	ВЫХОДИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	предик	_	_
+15	замуж	ЗАМУЖ	ADV	ADV -	ADV -	14	2-компл	_	_
+16	из	ИЗ	PR	PR	PR	15	1-компл	_	_
+17	жалости	ЖАЛОСТЬ	S	S f inan gen sg	S f inan gen sg	16	предл	_	_
+18	?	?	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Получалось	ПОЛУЧАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	предик	_	_
+4	нельзя	НЕЛЬЗЯ	ADV	ADV -	ADV -	3	подч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	еще	ЕЩЕ	PART	PART	PART	3	огранич	_	_
+3	немыслимей	НЕМЫСЛИМЫЙ	A	A comp - - plen - -	A comp - - plen - -	4	присвяз	_	_
+4	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	соч-союзн	_	_
+5	бы	БЫ	PART	PART	PART	4	аналит	_	_
+6	сказать	СКАЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	предик	_	_
+7	:	:	:	:	PUNC	6	1-компл	_	_
+8	«	«	_	_	PUNC	7	PUNC	_	_
+9	Знаешь	ЗНАТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	4	разъяснит	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	Петенька	ПЕТЕНЬКА	S	S m anim nom sg	S m anim nom sg	9	вводн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	14	предик	_	_
+14	передумала	ПЕРЕДУМЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	релят	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	твоей	ТВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	17	опред	_	_
+17	женой	ЖЕНА	S	S f anim ins sg	S f anim ins sg	15	соч-союзн	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	стану	СТАНОВИТЬСЯ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	9	сочин	_	_
+20	»	»	_	_	PUNC	19	PUNC	_	_
+21	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+2	все равно	все равно	ADV	ADV -	-	4	огранич	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	2	вспом	_	_
+4	подранка	ПОДРАНОК	S	S m anim acc sg	S m anim acc sg	5	1-компл	_	_
+5	добить	ДОБИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	В	В	PR	PR	PR	6	обст	_	_
+2	общем	ОБЩИЙ	A	A - loc sg plen m -	A - loc sg plen m -	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	куда	КУДА	ADV	ADV -	ADV -	6	2-компл	_	_
+5	ни	НИ	PART	PART	PART	6	огранич	_	_
+6	кинь	КИНУТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	9	опред	_	_
+9	клин	КЛИН	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

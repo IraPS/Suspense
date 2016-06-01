@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"уж","gr":"PART="}],"text":"Уж"}
+{"analysis":[{"lex":"поверять","gr":"V=pl,imper,2p,pf"}],"text":"поверьте"}
+{"analysis":[{"lex":"мой","gr":"APRO=dat,sg,m"},{"lex":"мой","gr":"APRO=dat,sg,n"}],"text":"моему"}
+{"analysis":[{"lex":"чутье","gr":"S,sg,n,inan=dat"}],"text":"чутью"}
+{"analysis":[{"lex":"милый","gr":"A=nom,sg,plen,f"}],"text":"милая"}
+{"analysis":[{"lex":"вздыхать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"вздохнул"}
+{"analysis":[{"lex":"генерал","gr":"S,m,anim=nom,sg"}],"text":"генерал"}
+{"text":"\\s"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"С"}
+{"analysis":[{"lex":"этот","gr":"APRO=dat,pl"},{"lex":"этот","gr":"APRO=ins,sg,m"},{"lex":"этот","gr":"APRO=ins,sg,n"}],"text":"этим"}
+{"analysis":[{"lex":"джентльмен","gr":"S,m,anim=ins,sg"}],"text":"джентльменом"}
+{"analysis":[{"lex":"мы","gr":"SPRO,pl,1p=nom"}],"text":"мы"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"непременно","gr":"ADV="}],"text":"непременно"}
+{"analysis":[{"lex":"встречаться","gr":"V,intr=pl,imper,1p,pf"},{"lex":"встречаться","gr":"V,intr=inpraes,pl,indic,1p,pf"}],"text":"встретимся"}

@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"насколько","gr":"ADV="}],"text":"Насколько"}
+{"analysis":[{"lex":"помнить","gr":"V,ipf,tran=praet,sg,indic,f"}],"text":"помнила"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"петя","gr":"S,persn,m,anim=nom,sg"}],"text":"Петя"}
+{"analysis":[{"lex":"излагать","gr":"V,tran=praet,sg,indic,m,ipf"}],"text":"излагал"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=dat"},{"lex":"она","gr":"SPRO,sg,3p,f=ins"}],"text":"ей"}
+{"analysis":[{"lex":"этот","gr":"APRO=acc,sg,f"}],"text":"эту"}
+{"analysis":[{"lex":"теория","gr":"S,f,inan=acc,sg"}],"text":"теорию"}
+{"analysis":[{"lex":"несколько","gr":"ADV="}],"text":"несколько"}
+{"analysis":[{"lex":"иначе","gr":"CONJ="}],"text":"иначе"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"спорить","gr":"V,ipf,intr=inf"}],"text":"спорить"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}

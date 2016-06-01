@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"господин","gr":"S,m,anim=nom,pl"}],"text":"Господа"}
+{"analysis":[{"lex":"разве","gr":"PART="}],"text":"разве"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"парламент","gr":"S,m,inan=acc,sg"},{"lex":"парламент","gr":"S,m,inan=nom,sg"}],"text":"парламент"}
+{"analysis":[{"lex":"принудительно","gr":"ADV="}],"text":"принудительно"}
+{"analysis":[{"lex":"выбирать","gr":"V=inpraes,pl,indic,3p,ipf,tran"}],"text":"выбирают"}
+{"analysis":[{"lex":"встревожиться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"встревожился"}
+{"analysis":[{"lex":"гусар","gr":"S,m,anim=acc,pl"},{"lex":"гусар","gr":"S,m,anim=gen,pl"},{"lex":"гусар","gr":"S,m,anim=nom,sg"}],"text":"гусар"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"все"}
+{"analysis":[{"lex":"развеселяться","gr":"V,intr=praet,pl,indic,pf"}],"text":"развеселились"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"пуще","gr":"ADV="}],"text":"пуще"}

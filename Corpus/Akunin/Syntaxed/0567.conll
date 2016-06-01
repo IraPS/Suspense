@@ -1,0 +1,90 @@
+1	В	В	PR	PR	PR	0	ROOT	_	_
+2	надежде	НАДЕЖДА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	повстречать	ПОВСТРЕЧАТЬ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	Зурова	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+5	или	ИЛИ	CONJ	CONJ	CONJ	4	сочин	_	_
+6	хотя бы	хотя бы	ADV	ADV -	-	5	соч-союзн	_	_
+7	Маклафлина	МАКЛАФЛИН	S	S f inan nom sg	S f inan nom sg	1	сент-соч	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	выведать	ВЫВЕДЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	8	соч-союзн	_	_
+10	у	У	PR	PR	PR	9	обст	_	_
+11	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	насколько	НАСКОЛЬКО	ADV	ADV -	ADV -	15	огранич	_	_
+14	сурово	СУРОВО	ADV	ADV -	ADV -	15	огранич	_	_
+15	к	К	PR	PR	PR	9	1-компл	_	_
+16	преступнице	ПРЕСТУПНИЦА	S	S f anim loc sg	S f anim loc sg	15	предл	_	_
+17	общественное	ОБЩЕСТВЕННЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	18	опред	_	_
+18	мнение	МНЕНИЕ	S	S n inan acc sg	S n inan acc sg	16	1-компл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	бедная	БЕДНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	21	опред	_	_
+21	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	22	предик	_	_
+22	прогуливалась	ПРОГУЛИВАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	18	релят	_	_
+23	кругами	КРУГ	S	S m inan ins pl	S m inan ins pl	22	1-компл	_	_
+24	вокруг	ВОКРУГ	PR	PR	PR	23	атриб	_	_
+25	пестревшего	ПЕСТРЕТЬ	PARTCP	PARTCP ipf praet acc sg plen m act anim	PARTCP ipf praet acc sg plen m act anim	24	предл	_	_
+26	разноцветными	РАЗНОЦВЕТНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	27	опред	_	_
+27	флажками	ФЛАЖОК	S	S m inan ins pl	S m inan ins pl	30	обст	_	_
+28	шатра	ШАТЕР	S	S m inan gen sg	S m inan gen sg	27	квазиагент	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	держа	ДЕРЖАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	0	ROOT	_	_
+31	дистанцию	ДИСТАНЦИЯ	S	S f inan acc sg	S f inan acc sg	30	1-компл	_	_
+32	в	В	PR	PR	PR	30	2-компл	_	_
+33	сто	СТО	NUM	NUM acc - -	NUM acc - -	34	количест	_	_
+34	шагов	ШАГ	S	S m inan gen pl	S m inan gen pl	32	предл	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+
+1	Податься	ПОДАВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	предик	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	решительно	РЕШИТЕЛЬНО	ADV	ADV -	ADV -	4	огранич	_	_
+4	некуда	НЕКУДА	ADV	ADV -	ADV -	2	присвяз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	идти	ИДТИ	V	V ipf - - inf - -	V ipf - - inf - -	15	предик	_	_
+8	к	К	PR	PR	PR	7	2-компл	_	_
+9	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	8	предл	_	_
+10	в	В	PR	PR	PR	15	обст	_	_
+11	палатку	ПАЛАТКА	S	S f inan acc sg	S f inan acc sg	10	предл	_	_
+12	очень	ОЧЕНЬ	ADV	ADV -	ADV -	15	огранич	_	_
+13	уж	УЖ	PART	PART	PART	15	огранич	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	хотелось	ХОТЕТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	6	соч-союзн	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Милосердные	МИЛОСЕРДНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	2	опред	_	_
+2	сестры	СЕСТРА	S	S f anim gen sg	S f anim gen sg	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	славные	СЛАВНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	ограниченные	ОГРАНИЧЕННЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	8	опред	_	_
+8	создания	СОЗДАНИЕ	S	S n inan nom pl	S n inan nom pl	11	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	снова	СНОВА	ADV	ADV -	ADV -	11	обст	_	_
+11	станут	СТАНОВИТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	6	соч-союзн	_	_
+12	обсуждать	ОБСУЖДАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	кто	КТО	S	S m - nom sg	S m - nom sg	17	предик	_	_
+15	из	ИЗ	PR	PR	PR	14	электив	_	_
+16	врачей	ВРАЧ	S	S m anim gen pl	S m anim gen pl	15	предл	_	_
+17	душка	ДУШКА	S	S - anim nom sg	S - anim nom sg	11	изъясн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	а	А	CONJ	CONJ	CONJ	17	сочин	_	_
+20	кто	КТО	S	S m - nom sg	S m - nom sg	19	соч-союзн	_	_
+21	злюка	ЗЛЮКА	S	S - anim nom sg	S - anim nom sg	20	огранич	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+24	всерьез	ВСЕРЬЕЗ	ADV	ADV -	ADV -	23	соч-союзн	_	_
+25	ли	ЛИ	CONJ	CONJ	CONJ	11	огранич	_	_
+26	однорукий	ОДНОРУКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	27	опред	_	_
+27	поручик	ПОРУЧИК	S	S m anim nom sg	S m anim nom sg	32	предик	_	_
+28	Штрумпф	ШТРУМПФ	S	S m anim nom sg	S m anim nom sg	27	аппоз	_	_
+29	из	ИЗ	PR	PR	PR	32	обст	_	_
+30	шестнадцатой	ШЕСТНАДЦАТЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	31	опред	_	_
+31	палаты	ПАЛАТА	S	S f inan gen sg	S f inan gen sg	29	предл	_	_
+32	сделал	СДЕЛАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	25	подч-союзн	_	_
+33	предложение	ПРЕДЛОЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	32	1-компл	_	_
+34	Насте	НАСТЯ	S	S f anim dat sg	S f anim dat sg	32	2-компл	_	_
+35	Прянишниковой	ПРЯНИШНИКОВА	S	S f anim loc sg	S f anim loc sg	34	аппоз	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+

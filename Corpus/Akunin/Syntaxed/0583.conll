@@ -1,0 +1,51 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	поежилась	ПОЕЖИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	представив	ПРЕДСТАВЛЯТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+5	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	4	1-компл	_	_
+6	на	НА	PR	PR	PR	4	2-компл	_	_
+7	месте	МЕСТО	S	S n inan loc sg	S n inan loc sg	6	предл	_	_
+8	несчастных	НЕСЧАСТНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	защитников	ЗАЩИТНИК	S	S m anim gen pl	S m anim gen pl	7	квазиагент	_	_
+10	Плевны	ПЛЕВНА	S	S f inan gen sg	S f inan gen sg	9	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Ведь	ВЕДЬ	PART	PART	PART	0	ROOT	_	_
+2	это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+3	ужасно	УЖАСНО	ADV	ADV -	ADV -	4	обст	_	_
+4	–	–	–	–	PUNC	0	ROOT	_	_
+5	ждать	ЖДАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+6	решительных	РЕШИТЕЛЬНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	7	опред	_	_
+7	событий	СОБЫТИЕ	S	S n inan gen pl	S n inan gen pl	5	1-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	час	ЧАС	S	S m inan nom sg	S m inan nom sg	8	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+12	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	11	соч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+15	три	ТРИ	NUM	NUM nom - -	NUM nom - -	14	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	а	А	CONJ	CONJ	CONJ	4	сочин	_	_
+18	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	19	предик	_	_
+19	попусту	ПОПУСТУ	ADV	ADV -	ADV -	17	соч-союзн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	5	предик	_	_
+2	бы	БЫ	PART	PART	PART	5	аналит	_	_
+3	точно	ТОЧНО	ADV	ADV -	ADV -	5	обст	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	выдержала	ВЫДЕРЖИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Задумано	ЗАДУМЫВАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	0	ROOT	_	_
+2	хитро	ХИТРО	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	этого	ЭТО	S	S n - gen sg	S n - gen sg	1	предик	_	_
+5	у	У	PR	PR	PR	9	обст	_	_
+6	штабных	ШТАБНОЙ	A	A - gen pl plen - -	A - gen pl plen - -	7	опред	_	_
+7	гениев	ГЕНИЙ	S	S m anim gen pl	S m anim gen pl	5	предл	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	отнимешь	ОТНИМАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	1	сент-соч	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

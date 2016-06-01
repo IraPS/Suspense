@@ -1,0 +1,93 @@
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Не	НЕ	PART	PART	PART	3	огранич	_	_
+3	смотрите	СМОТРЕТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	2-компл	_	_
+5	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	4	предл	_	_
+6	так	ТАК	ADV	ADV -	ADV -	3	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	словно	СЛОВНО	CONJ	CONJ	CONJ	6	сравнит	_	_
+9	у	У	PR	PR	PR	8	сравн-союзн	_	_
+10	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	9	предл	_	_
+11	вдруг	ВДРУГ	ADV	ADV -	ADV -	12	обст	_	_
+12	выросли	ВЫРАСТАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	3	сент-соч	_	_
+13	рога	РОГ	S	S m inan nom pl	S m inan nom pl	12	предик	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	клыки	КЛЫК	S	S m inan nom pl	S m inan nom pl	14	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	12	вводн	_	_
+18	Барбара	БАРБАРА	S	S f anim nom sg	S f anim nom sg	17	аппоз	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	 	 	 	 	PUNC	23	предик	_	_
+21	–	–	–	–	PUNC	23	1-компл	_	_
+22	вполголоса	ВПОЛГОЛОСА	ADV	ADV -	ADV -	23	обст	_	_
+23	произнес	ПРОИЗНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	сент-соч	_	_
+24	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	23	1-компл	_	_
+25	'	'	_	_	PUNC	24	PUNC	_	_
+26	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	23	атриб	_	_
+27	своим	СВОЙ	A	A - ins sg plen m -	A - ins sg plen m -	29	опред	_	_
+28	обычным	ОБЫЧНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	29	опред	_	_
+29	голосом	ГОЛОС	S	S m inan ins sg	S m inan ins sg	23	обст	_	_
+30	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+31	устало	УСТАЛО	ADV	ADV -	ADV -	32	обст	_	_
+32	потер	ПОТИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	30	соч-союзн	_	_
+33	глаза	ГЛАЗ	S	S m inan nom pl	S m inan nom pl	32	предик	_	_
+34	.	.	SENT	SENT	SENT	33	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	обст	_	_
+2	Разумеется	РАЗУМЕЕТСЯ	ADV	ADV -	ADV -	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	стану	СТАНОВИТЬСЯ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+7	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	6	1-компл	_	_
+8	убивать	УБИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	2-компл	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	ни	НИ	PART	PART	PART	11	огранич	_	_
+11	за	ЗА	PR	PR	PR	14	обст	_	_
+12	что	ЧТО	S	S n - acc sg	S n - acc sg	11	предл	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	хотел	ХОТЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	9	соч-союзн	_	_
+15	бы	БЫ	PART	PART	PART	14	аналит	_	_
+16	подвергать	ПОДВЕРГАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	14	1-компл	_	_
+17	вашу	ВАШ	A	A - acc sg plen f -	A - acc sg plen f -	18	опред	_	_
+18	жизнь	ЖИЗНЬ	S	S f inan acc sg	S f inan acc sg	16	1-компл	_	_
+19	опасности	ОПАСНОСТЬ	S	S f inan gen sg	S f inan gen sg	18	квазиагент	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	язвительно	ЯЗВИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+3	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	предик	_	_
+4	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	предик	_	_
+2	Зачем	ЗАЧЕМ	ADV	ADV -	ADV -	4	огранич	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	тогда	ТОГДА	ADV	ADV -	ADV -	7	обст	_	_
+5	весь	ВЕСЬ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+6	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	балаган	БАЛАГАН	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Зачем	ЗАЧЕМ	ADV	ADV -	ADV -	3	обст	_	_
+2	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	3	предик	_	_
+3	убили	УБИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	трех	ТРИ	NUM	NUM loc - -	NUM loc - -	3	1-компл	_	_
+5	ни	НИ	CONJ	CONJ	CONJ	3	сент-соч	_	_
+6	в	В	PR	PR	PR	0	ROOT	_	_
+7	чем	ЧЕМ	CONJ	CONJ	CONJ	6	предл	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	повинных	ПОВИННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	опред	_	_
+10	людей	ЧЕЛОВЕК	S	S m anim gen pl	S m anim gen pl	7	сравн-союзн	_	_
+11	?	?	SENT	SENT	SENT	10	PUNC	_	_
+
+1	На	НА	PR	PR	PR	4	обст	_	_
+2	что	ЧТО	S	S n - acc sg	S n - acc sg	1	предл	_	_
+3	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+4	надеетесь	НАДЕЯТЬСЯ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+

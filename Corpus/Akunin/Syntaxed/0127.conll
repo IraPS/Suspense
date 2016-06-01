@@ -1,0 +1,21 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Свиты	СВИТА	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+4	императорского	ИМПЕРАТОРСКИЙ	A	A - gen sg plen n -	A - gen sg plen n -	5	опред	_	_
+5	величества	ВЕЛИЧЕСТВО	S	S n inan gen sg	S n inan gen sg	2	квазиагент	_	_
+6	генерал-майор	ГЕНЕРАЛ-МАЙОР	S	S m anim nom sg	S m anim nom sg	1	вводн	_	_
+7	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	второй	ВТОРОЙ	A	A - gen sg plen f -	A - gen sg plen f -	0	ROOT	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	 	 	 	 	PUNC	9	кратн	_	_
+12	–	–	–	–	PUNC	13	1-компл	_	_
+13	представился	ПРЕДСТАВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	релят	_	_
+14	Мишель	МИШЕЛЬ	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+15	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+16	вопросительно	ВОПРОСИТЕЛЬНО	ADV	ADV -	ADV -	17	обст	_	_
+17	взглянул	ВЗГЛЯДЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+18	на	НА	PR	PR	PR	17	1-компл	_	_
+19	Фандорина	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	18	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

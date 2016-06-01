@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"сода","gr":"S,f,inan=acc,sg"}],"text":"Соду"}
+{"analysis":[{"lex":"можно","gr":"ADV,praed="}],"text":"можно"}
+{"analysis":[{"lex":"выписывать","gr":"V,tran=inf,pf"}],"text":"выписать"}
+{"analysis":[{"lex":"явно","gr":"ADV="}],"text":"явно"}
+{"analysis":[{"lex":"издеваться","gr":"V,ipf,intr=inpraes,ger"}],"text":"издеваясь"}
+{"analysis":[{"lex":"отзываться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"отозвался"}
+{"analysis":[{"lex":"мой","gr":"APRO=acc,sg,m,inan"},{"lex":"мой","gr":"APRO=nom,sg,m"}],"text":"мой"}
+{"analysis":[{"lex":"внутренний","gr":"A=acc,sg,plen,m,inan"},{"lex":"внутренний","gr":"A=nom,sg,plen,m"}],"text":"внутренний"}
+{"analysis":[{"lex":"собеседник","gr":"S,m,anim=nom,sg"}],"text":"собеседник"}

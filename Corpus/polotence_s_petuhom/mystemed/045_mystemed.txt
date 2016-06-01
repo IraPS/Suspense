@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"инсипин","qual":"bastard","gr":"S,m,inan=acc,sg"},{"lex":"инсипин","qual":"bastard","gr":"S,m,inan=nom,sg"}],"text":"Инсипин"}
+{"analysis":[{"lex":"инсипин","qual":"bastard","gr":"S,m,inan=ins,sg"}],"text":"инсипином"}
+{"analysis":[{"lex":"а","gr":"CONJ="}],"text":"а"}
+{"analysis":[{"lex":"как","gr":"ADVPRO="}],"text":"как"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}
+{"analysis":[{"lex":"все-таки","gr":"PART="}],"text":"все-таки"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"грыжа","gr":"S,f,inan=ins,sg"}],"text":"грыжей"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inpraes,sg,indic,3p"}],"text":"будет"}
+{"analysis":[{"lex":"упорно","gr":"ADV="}],"text":"упорно"}
+{"analysis":[{"lex":"приставать","gr":"V,intr=praet,sg,indic,m,ipf"}],"text":"приставал"}
+{"analysis":[{"lex":"страх","gr":"S,m,inan=acc,sg"},{"lex":"страх","gr":"S,m,inan=nom,sg"}],"text":"страх"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"валя","gr":"S,persn,mf,anim=abl,sg"},{"lex":"валя","gr":"S,persn,mf,anim=dat,sg"}],"text":"вале"}
+{"analysis":[{"lex":"голос","gr":"S,m,inan=acc,pl"},{"lex":"голос","gr":"S,m,inan=gen,sg"},{"lex":"голос","gr":"S,m,inan=nom,pl"}],"text":"голоса"}

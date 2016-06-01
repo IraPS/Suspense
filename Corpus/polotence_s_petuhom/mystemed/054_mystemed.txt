@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"Что"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=nom"}],"text":"вы"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=nom"}],"text":"вы"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"вы","gr":"SPRO,pl,2p=nom"}],"text":"вы"}
+{"analysis":[{"lex":"забормотать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"забормотал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"потянуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"потянул"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"серый","gr":"A=acc,sg,plen,m,inan"},{"lex":"серый","gr":"A=nom,sg,plen,m"}],"text":"серый"}
+{"analysis":[{"lex":"рукав","gr":"S,m,inan=acc,sg"},{"lex":"рукав","gr":"S,m,inan=nom,sg"}],"text":"рукав"}

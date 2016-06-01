@@ -1,0 +1,119 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	бесилась	БЕСИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	от	ОТ	PR	PR	PR	2	1-компл	_	_
+4	сознания	СОЗНАНИЕ	S	S n inan gen sg	S n inan gen sg	3	предл	_	_
+5	своей	СВОЙ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+6	беспомощности	БЕСПОМОЩНОСТЬ	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Днем	ДЕНЬ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	ходила	ХОДИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	по	ПО	PR	PR	PR	2	обст	_	_
+4	лагерю	ЛАГЕРЬ	S	S m inan dat sg	S m inan dat sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	смотрела	СМОТРЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	сочин	_	_
+7	в	В	PR	PR	PR	6	обст	_	_
+8	оба	ОБА	NUM	NUM acc m inan	NUM acc m inan	11	количест	_	_
+9	–	–	–	–	PUNC	11	1-компл	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	обнаружится	ОБНАРУЖИВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	7	предл	_	_
+12	ли	ЛИ	PART	PART	PART	11	огранич	_	_
+13	что-нибудь	ЧТО-НИБУДЬ	S	S n - nom sg	S n - nom sg	6	1-компл	_	_
+14	подозрительное	ПОДОЗРИТЕЛЬНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	6	сочин	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Подозрительное	ПОДОЗРИТЕЛЬНЫЙ	A	A comp2 - - plen - -	A comp2 - - plen - -	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	обнаруживалось	ОБНАРУЖИВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	устав	УСТАВ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+10	шла	ИДТИ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	7	релят	_	_
+11	в	В	PR	PR	PR	10	обст	_	_
+12	палатку	ПАЛАТКА	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	к	К	PR	PR	PR	10	2-компл	_	_
+14	Эрасту	ЭРАСТ	S	S m anim dat sg	S m anim dat sg	13	предл	_	_
+15	Петровичу	ПЕТРОВИЧ	S	S m anim dat sg	S m anim dat sg	14	аппоз	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	10	обст	_	_
+18	расшевелить	РАСШЕВЕЛИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	17	инф-союзн	_	_
+19	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	18	1-компл	_	_
+20	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+21	побудить	ПОБУЖДАТЬ	V	V pf - - inf - -	V pf - - inf - -	20	соч-союзн	_	_
+22	к	К	PR	PR	PR	21	1-компл	_	_
+23	действию	ДЕЙСТВИЕ	S	S n inan dat sg	S n inan dat sg	22	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	В	В	PR	PR	PR	5	обст	_	_
+2	берлоге	БЕРЛОГА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	титулярного	ТИТУЛЯРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+5	царил	ЦАРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	поистине	ПОИСТИНЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	ужасающий	УЖАСАЮЩИЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	беспорядок	БЕСПОРЯДОК	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+9	:	:	:	:	PUNC	11	1-компл	_	_
+10	повсюду	ПОВСЮДУ	ADV	ADV -	ADV -	11	обст	_	_
+11	валялись	ВАЛЯТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	5	сент-соч	_	_
+12	книги	КНИГА	S	S f inan nom pl	S f inan nom pl	11	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	трехверстные	ТРЕХВЕРСТНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	15	опред	_	_
+15	карты	КАРТА	S	S f inan acc pl	S f inan acc pl	11	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	плетеные	ПЛЕТЕНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	18	опред	_	_
+18	бутылки	БУТЫЛКА	S	S f inan gen sg	S f inan gen sg	15	разъяснит	_	_
+19	из-под	ИЗ-ПОД	PR	PR	PR	11	обст	_	_
+20	болгарского	БОЛГАРСКИЙ	A	A - gen sg plen n -	A - gen sg plen n -	21	опред	_	_
+21	вина	ВИНО	S	S n inan gen sg	S n inan gen sg	19	предл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	одежда	ОДЕЖДА	S	S f inan nom sg	S f inan nom sg	11	предик	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	пушечные	ПУШЕЧНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	26	опред	_	_
+26	ядра	ЯДРО	S	S n inan nom pl	S n inan nom pl	23	сочин	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	очевидно	ОЧЕВИДНО	ADV	ADV -	ADV -	30	вводн	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	использовавшиеся	ИСПОЛЬЗОВАТЬСЯ	PARTCP	PARTCP ipf praet nom pl plen - act -	PARTCP ipf praet nom pl plen - act -	26	опред	_	_
+31	в качестве	в качестве	PR	PR	ZERO	30	обст	_	_
+32	гирь	ГИРЯ	S	S f inan gen pl	S f inan gen pl	31	предл	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	Однажды	ОДНАЖДЫ	ADV	ADV -	ADV -	7	обст	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	заметив	ЗАМЕЧАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	7	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	села	САДИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	на	НА	PR	PR	PR	7	2-компл	_	_
+9	тарелку	ТАРЕЛКА	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	с	С	PR	PR	PR	9	атриб	_	_
+11	холодным	ХОЛОДНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	12	опред	_	_
+12	пловом	ПЛОВ	S	S m inan ins sg	S m inan ins sg	10	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	которая	КОТОРЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	16	предик	_	_
+15	почему-то	ПОЧЕМУ-ТО	ADV	ADV -	ADV -	16	обст	_	_
+16	оказалась	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	12	релят	_	_
+17	на	НА	PR	PR	PR	16	присвяз	_	_
+18	стуле	СТУЛ	S	S m inan loc sg	S m inan loc sg	17	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	страшно	СТРАШНО	ADV	ADV -	ADV -	21	обст	_	_
+21	рассердилась	РАССЕРДИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	сочин	_	_
+22	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+23	потом	ПОТОМ	ADV	ADV -	ADV -	26	обст	_	_
+24	никак	НИКАК	ADV	ADV -	ADV -	26	обст	_	_
+25	не	НЕ	PART	PART	PART	26	огранич	_	_
+26	могла	МОЧЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	22	соч-союзн	_	_
+27	застирать	ЗАСТИРЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	26	1-компл	_	_
+28	жирное	ЖИРНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	29	опред	_	_
+29	пятно	ПЯТНО	S	S n inan nom sg	S n inan nom sg	26	предик	_	_
+30	на	НА	PR	PR	PR	29	атриб	_	_
+31	своем	СВОЙ	A	A - loc sg plen m -	A - loc sg plen m -	34	опред	_	_
+32	единственном	ЕДИНСТВЕННЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	34	опред	_	_
+33	приличном	ПРИЛИЧНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	34	опред	_	_
+34	платье	ПЛАТЬЕ	S	S n inan nom sg	S n inan nom sg	30	предл	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+

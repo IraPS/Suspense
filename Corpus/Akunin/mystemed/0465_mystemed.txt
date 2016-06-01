@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"усмехаться","gr":"V,intr=praet,ger,pf"}],"text":"Усмехнувшись"}
+{"analysis":[{"lex":"полковник","gr":"S,m,anim=nom,sg"}],"text":"полковник"}
+{"analysis":[{"lex":"постучать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"постучал"}
+{"analysis":[{"lex":"себя","gr":"SPRO=acc"},{"lex":"себя","gr":"SPRO=gen"}],"text":"себя"}
+{"analysis":[{"lex":"палец","gr":"S,m,inan=ins,sg"}],"text":"пальцем"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"висок","gr":"S,m,inan=dat,sg"}],"text":"виску"}

@@ -1,0 +1,19 @@
+1	Когда	КОГДА	CONJ	CONJ	CONJ	9	обст	_	_
+2	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+3	проходила	ПРОХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	подч-союзн	_	_
+4	мимо	МИМО	PR	PR	PR	3	обст	_	_
+5	Соболева	СОБОЛЕВА	S	S m anim gen sg	S m anim gen sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	9	предик	_	_
+8	тихонько	ТИХОНЬКО	ADV	ADV -	ADV -	9	обст	_	_
+9	шепнул	ШЕПНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+10	:	:	:	:	PUNC	12	опред	_	_
+11	–	–	–	–	PUNC	12	опред	_	_
+12	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+13	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	12	аппоз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	17	предик	_	_
+16	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	17	обст	_	_
+17	дождусь	ДОЖДАТЬСЯ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	9	сент-соч	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

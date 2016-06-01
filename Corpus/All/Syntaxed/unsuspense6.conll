@@ -1,0 +1,116 @@
+1	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	обычно	ОБЫЧНО	ADV	ADV -	ADV -	3	обст	_	_
+3	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	душой	ДУША	S	S f inan ins sg	S f inan ins sg	3	присвяз	_	_
+5	детских	ДЕТСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	опред	_	_
+6	игр	ИГРА	S	S f inan gen pl	S f inan gen pl	4	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Никто	НИКТО	S	S m - nom sg	S m - nom sg	5	1-компл	_	_
+2	так	ТАК	ADV	ADV -	ADV -	3	огранич	_	_
+3	быстро	БЫСТРО	ADV	ADV -	ADV -	5	обст	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	бегал	БЕГАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	выручал	ВЫРУЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	соч-союзн	_	_
+9	так	ТАК	ADV	ADV -	ADV -	10	огранич	_	_
+10	искусно	ИСКУСНО	ADV	ADV -	ADV -	8	обст	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	как	КАК	CONJ	CONJ	CONJ	8	сравнит	_	_
+13	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	12	сравн-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Здесь	ЗДЕСЬ	ADV	ADV -	ADV -	11	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	как	КАК	ADV	ADV -	ADV -	11	обст	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	во	ВО	PR	PR	PR	4	соч-союзн	_	_
+6	всей	ВЕСЬ	A	A - loc sg plen f -	A - loc sg plen f -	10	1-компл	_	_
+7	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	8	квазиагент	_	_
+8	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	6	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	сказывалась	СКАЗЫВАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	5	предл	_	_
+11	горячность	ГОРЯЧНОСТЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+12	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	13	квазиагент	_	_
+13	натуры	НАТУРА	S	S f inan gen sg	S f inan gen sg	11	квазиагент	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	16	квазиагент	_	_
+16	свойство	СВОЙСТВО	S	S n inan nom sg	S n inan nom sg	11	предик	_	_
+17	вкладывать	ВКЛАДЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	16	1-компл	_	_
+18	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	20	опред	_	_
+19	свое	СВОЙ	A	A - nom sg plen n -	A - nom sg plen n -	20	опред	_	_
+20	сердце	СЕРДЦЕ	S	S n inan nom sg	S n inan nom sg	16	сочин	_	_
+21	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+22	отдавать	ОТДАВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+23	всю	ВЕСЬ	A	A - acc sg plen f -	A - acc sg plen f -	25	опред	_	_
+24	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	25	опред	_	_
+25	энергию	ЭНЕРГИЯ	S	S f inan acc sg	S f inan acc sg	22	1-компл	_	_
+26	в	В	PR	PR	PR	22	2-компл	_	_
+27	то	ТОТ	A	A - acc sg plen n inan	A - acc sg plen n inan	26	предл	_	_
+28	дело	ДЕЛО	S	S n inan acc sg	S n inan acc sg	22	1-компл	_	_
+29	(	(	_	_	PUNC	30	PUNC	_	_
+30	или	ИЛИ	CONJ	CONJ	CONJ	22	примыкат	_	_
+31	в	В	PR	PR	PR	33	обст	_	_
+32	детстве	ДЕТСТВО	S	S n inan loc sg	S n inan loc sg	31	предл	_	_
+33	–	–	–	–	PUNC	30	соч-союзн	_	_
+34	в	В	PR	PR	PR	33	2-компл	_	_
+35	игру	ИГРА	S	S f inan acc sg	S f inan acc sg	34	предл	_	_
+36	)	)	_	_	PUNC	35	PUNC	_	_
+37	,	,	,	,	PUNC	35	PUNC	_	_
+38	которым	КОТОРЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	40	1-компл	_	_
+39	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	40	предик	_	_
+40	занимался	ЗАНИМАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	35	релят	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+
+1	После	ПОСЛЕ	PR	PR	PR	3	обст	_	_
+2	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	1	предл	_	_
+3	остался	ОСТАВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	между прочим	между прочим	ADV	ADV -	-	8	вводн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	«	«	_	_	PUNC	5	PUNC	_	_
+8	учебник	УЧЕБНИК	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+9	для	ДЛЯ	PR	PR	PR	8	1-компл	_	_
+10	игры	ИГРА	S	S f inan gen sg	S f inan gen sg	9	предл	_	_
+11	в	В	PR	PR	PR	3	обст	_	_
+12	слова	СЛОВО	S	S n inan gen sg	S n inan gen sg	11	предл	_	_
+13	»	»	_	_	PUNC	12	PUNC	_	_
+14	,	,	,	,	PUNC	12	PUNC	_	_
+15	составленный	СОСТАВЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	3	присвяз	_	_
+16	им	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	15	агент	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	когда	КОГДА	CONJ	CONJ	CONJ	3	обст	_	_
+19	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	22	дат-субъект	_	_
+20	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	18	подч-союзн	_	_
+21	12	12	NUM	NUM - - -	NUM - - -	22	количест	_	_
+22	лет	ГОД	S	S m inan gen pl	S m inan gen pl	20	предик	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Учебник	УЧЕБНИК	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+3	»	»	_	_	PUNC	2	PUNC	_	_
+4	написан	НАПИСАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+5	очень	ОЧЕНЬ	ADV	ADV -	ADV -	6	огранич	_	_
+6	обстоятельно	ОБСТОЯТЕЛЬНО	ADV	ADV -	ADV -	7	огранич	_	_
+7	:	:	:	:	PUNC	4	2-компл	_	_
+8	в	В	PR	PR	PR	7	атриб	_	_
+9	отдельной	ОТДЕЛЬНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	10	опред	_	_
+10	книжечке	КНИЖЕЧКА	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	печатными	ПЕЧАТНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	13	опред	_	_
+13	буквами	БУКВА	S	S f inan ins pl	S f inan ins pl	4	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	с	С	PR	PR	PR	4	обст	_	_
+16	детальными	ДЕТАЛЬНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	17	опред	_	_
+17	объяснениями	ОБЪЯСНЕНИЕ	S	S n inan ins pl	S n inan ins pl	15	предл	_	_
+18	правил	ПРАВИЛО	S	S n inan gen pl	S n inan gen pl	17	квазиагент	_	_
+19	игры	ИГРА	S	S f inan gen sg	S f inan gen sg	18	квазиагент	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	примерами	ПРИМЕР	S	S m inan ins pl	S m inan ins pl	17	сочин	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	пояснениями	ПОЯСНЕНИЕ	S	S m inan gen sg	S m inan gen sg	21	сочин	_	_
+24	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+25	т.п	Т.П	S	S - - nonflex nonflex	S - - nonflex nonflex	24	соч-союзн	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

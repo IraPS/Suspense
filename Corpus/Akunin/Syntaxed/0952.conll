@@ -1,0 +1,25 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	8	предик	_	_
+6	Белого	БЕЛЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	Генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	5	квазиагент	_	_
+8	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	4	подч-союзн	_	_
+9	красным	КРАСНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	8	присвяз	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	откашлялся	ОТКАШЛИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	с	С	PR	PR	PR	7	обст	_	_
+5	важным	ВАЖНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	6	опред	_	_
+6	видом	ВИД	S	S m inan ins sg	S m inan ins sg	4	предл	_	_
+7	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	заинтересованно	ЗАИНТЕРЕСОВАННЫЙ	A	A - - sg brev n -	A - - sg brev n -	2	сент-соч	_	_
+10	разглядывая	РАЗГЛЯДЫВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	обст	_	_
+11	мраморный	МРАМОРНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	12	опред	_	_
+12	пол	ПОЛ	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

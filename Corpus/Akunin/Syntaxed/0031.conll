@@ -1,0 +1,156 @@
+1	Эта	ЭТОТ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	история	ИСТОРИЯ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+3	плохо	ПЛОХО	ADV	ADV -	ADV -	4	обст	_	_
+4	подействовала	ПОДЕЙСТВОВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	1-компл	_	_
+6	Петю	ПЕТЯ	S	S m anim acc sg	S m anim acc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	март	МАРТ	S	S m inan nom sg	S m inan nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	весна	ВЕСНА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+5	началась	НАЧИНАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	2	релят	_	_
+6	рано	РАНО	ADV	ADV -	ADV -	5	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	от	ОТ	PR	PR	PR	5	1-компл	_	_
+9	Невы	НЕВА	S	S f inan gen sg	S f inan gen sg	8	предл	_	_
+10	пахло	ПАХНУТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	сент-соч	_	_
+11	простором	ПРОСТОР	S	S m inan ins sg	S m inan ins sg	10	1-компл	_	_
+12	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+13	ледоходом	ЛЕДОХОД	S	S m inan ins sg	S m inan ins sg	12	соч-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	10	сент-соч	_	_
+16	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+17	поставил	ПОСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+18	ультиматум	УЛЬТИМАТУМ	S	S m inan acc sg	S m inan acc sg	17	1-компл	_	_
+19	:	:	:	:	PUNC	24	предик	_	_
+20	так	ТАК	ADV	ADV -	ADV -	21	огранич	_	_
+21	больше	БОЛЬШЕ	ADV	ADV -	ADV -	24	обст	_	_
+22	продолжаться	ПРОДОЛЖАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	24	предик	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	может	МОЧЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	вводн	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	27	предик	_	_
+27	созданы	СОЗДАВАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	1	сент-соч	_	_
+28	друг	ДРУГ	S	S - - nom sg	S - - nom sg	30	вспом	_	_
+29	для	ДЛЯ	PR	PR	PR	27	обст	_	_
+30	друга	ДРУГ	S	S - - gen sg	S - - gen sg	29	предл	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	33	квазиагент	_	_
+33	отношения	ОТНОШЕНИЕ	S	S n inan gen sg	S n inan gen sg	27	1-компл	_	_
+34	проверены	ПРОВЕРЯТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	27	обст	_	_
+35	временем	ВРЕМЯ	S	S n inan ins sg	S n inan ins sg	27	3-компл	_	_
+36	.	.	SENT	SENT	SENT	35	PUNC	_	_
+
+1	Оба	ОБА	NUM	NUM acc m inan	NUM acc m inan	0	ROOT	_	_
+2	живые	ЖИВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	1	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+6	нечего	НЕЧЕГО	ADV	ADV -	ADV -	7	обст	_	_
+7	обманывать	ОБМАНЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	соч-союзн	_	_
+8	законы	ЗАКОН	S	S m inan acc pl	S m inan acc pl	7	1-компл	_	_
+9	природы	ПРИРОДА	S	S f inan gen sg	S f inan gen sg	8	квазиагент	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	конечно	КОНЕЧНО	ADV	ADV -	ADV -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	согласится	СОГЛАШАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+6	на	НА	PR	PR	PR	5	2-компл	_	_
+7	телесную	ТЕЛЕСНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	опред	_	_
+8	любовь	ЛЮБОВЬ	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+9	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+10	без	БЕЗ	PR	PR	PR	9	соч-союзн	_	_
+11	венца	ВЕНЕЦ	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	5	сент-соч	_	_
+14	лучше	ХОРОШО	ADV	ADV comp	ADV comp	15	обст	_	_
+15	пожениться	ПОЖЕНИТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	13	соч-союзн	_	_
+16	по-настоящему	ПО-НАСТОЯЩЕМУ	ADV	ADV -	ADV -	15	обст	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	ибо	ИБО	CONJ	CONJ	CONJ	15	обст	_	_
+19	это	ЭТО	S	S n - nom sg	S n - nom sg	20	предик	_	_
+20	избавит	ИЗБАВЛЯТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	18	подч-союзн	_	_
+21	от	ОТ	PR	PR	PR	20	1-компл	_	_
+22	многих	МНОГИЙ	A	A - gen pl plen - -	A - gen pl plen - -	23	опред	_	_
+23	сложностей	СЛОЖНОСТЬ	S	S f inan gen pl	S f inan gen pl	21	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	как-то	КАК-ТО	ADV	ADV -	ADV -	5	обст	_	_
+3	так	ТАК	ADV	ADV -	ADV -	4	огранич	_	_
+4	ловко	ЛОВКО	ADV	ADV -	ADV -	5	обст	_	_
+5	повернул	ПОВЕРТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+8	далее	ДАЛЕЕ	ADV	ADV -	ADV -	9	обст	_	_
+9	дискутировалось	ДИСКУТИРОВАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	7	подч-союзн	_	_
+10	лишь	ЛИШЬ	PART	PART	PART	11	огранич	_	_
+11	одно	ОДИН	A	A - nom sg plen n -	A - nom sg plen n -	12	количест	_	_
+12	–	–	–	–	PUNC	9	предик	_	_
+13	в	В	PR	PR	PR	16	обст	_	_
+14	каком	КАКОЙ	A	A - loc sg plen m -	A - loc sg plen m -	15	опред	_	_
+15	браке	БРАК	S	S m inan loc sg	S m inan loc sg	13	предл	_	_
+16	жить	ЖИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	1-компл	_	_
+17	–	–	–	–	PUNC	16	1-компл	_	_
+18	гражданском	ГРАЖДАНСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	0	ROOT	_	_
+19	или	ИЛИ	CONJ	CONJ	CONJ	18	сочин	_	_
+20	церковном	ЦЕРКОВНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	19	соч-союзн	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Споры	СПОР	S	S m inan nom pl	S m inan nom pl	2	предик	_	_
+2	продолжались	ПРОДОЛЖАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	до	ДО	PR	PR	PR	2	обст	_	_
+4	апреля	АПРЕЛЬ	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	в	В	PR	PR	PR	9	обст	_	_
+8	апреле	АПРЕЛЬ	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+9	началась	НАЧИНАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	соч-союзн	_	_
+10	долгожданная	ДОЛГОЖДАННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	11	опред	_	_
+11	война	ВОЙНА	S	S f inan nom sg	S f inan nom sg	9	предик	_	_
+12	за	ЗА	PR	PR	PR	11	1-компл	_	_
+13	освобождение	ОСВОБОЖДЕНИЕ	S	S n inan acc sg	S n inan acc sg	12	предл	_	_
+14	славянских	СЛАВЯНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	15	опред	_	_
+15	братьев	БРАТ	S	S m anim gen pl	S m anim gen pl	13	квазиагент	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	и	И	CONJ	CONJ	CONJ	9	сент-соч	_	_
+18	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	23	предик	_	_
+19	Яблоков	ЯБЛОКОВ	S	S m anim nom sg	S m anim nom sg	18	аппоз	_	_
+20	как	КАК	CONJ	CONJ	CONJ	18	сравнит	_	_
+21	порядочный	ПОРЯДОЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	22	опред	_	_
+22	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	20	сравн-союзн	_	_
+23	отправился	ОТПРАВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	17	соч-союзн	_	_
+24	волонтером	ВОЛОНТЕР	S	S m anim nom sg	S m anim nom sg	23	2-компл	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Перед	ПЕРЕД	PR	PR	PR	4	обст	_	_
+2	отъездом	ОТЪЕЗД	S	S m inan ins sg	S m inan ins sg	1	предл	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+4	пообещала	ПООБЕЩАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	4	2-компл	_	_
+6	две	ДВА	NUM	NUM nom f -	NUM nom f -	7	количест	_	_
+7	вещи	ВЕЩЬ	S	S f inan acc pl	S f inan acc pl	4	1-компл	_	_
+8	:	:	:	:	PUNC	25	1-компл	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	8	1-компл	_	_
+10	скоро	СКОРО	ADV	ADV -	ADV -	11	обст	_	_
+11	даст	ДАВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	9	подч-союзн	_	_
+12	окончательный	ОКОНЧАТЕЛЬНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	13	опред	_	_
+13	ответ	ОТВЕТ	S	S m inan acc sg	S m inan acc sg	11	1-компл	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+15	что	ЧТО	CONJ	CONJ	CONJ	14	соч-союзн	_	_
+16	воевать	ВОЕВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	18	аналит	_	_
+17	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	18	предик	_	_
+18	будут	БЫТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	15	подч-союзн	_	_
+19	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	18	обст	_	_
+20	вместе	ВМЕСТЕ	ADV	ADV -	ADV -	18	обст	_	_
+21	–	–	–	–	PUNC	18	аналит	_	_
+22	уж	УЖ	PART	PART	PART	23	огранич	_	_
+23	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	25	предик	_	_
+24	что-нибудь	ЧТО-НИБУДЬ	S	S n - nom sg	S n - nom sg	25	1-компл	_	_
+25	придумает	ПРИДУМЫВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	4	разъяснит	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

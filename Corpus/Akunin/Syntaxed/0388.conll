@@ -1,0 +1,140 @@
+1	Вот	ВОТ	PART	PART	PART	9	огранич	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	утром	УТРО	S	S n inan ins sg	S n inan ins sg	2	соч-союзн	_	_
+4	18	18	NUM	NUM - - -	NUM - - -	9	обст	_	_
+5	июля	ИЮЛЬ	S	S m inan gen sg	S m inan gen sg	4	атриб	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	в	В	PR	PR	PR	9	огранич	_	_
+8	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	7	предл	_	_
+9	важный	ВАЖНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	18	предик	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	примечательный	ПРИМЕЧАТЕЛЬНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	10	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	о	О	PR	PR	PR	11	разъяснит	_	_
+14	чем	ЧЕМ	CONJ	CONJ	CONJ	13	предл	_	_
+15	позже	ПОЗДНО	ADV	ADV comp2	ADV comp2	14	сравн-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	13	предик	_	_
+18	проснулась	ПРОСЫПАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+19	с	С	PR	PR	PR	18	1-компл	_	_
+20	улыбкой	УЛЫБКА	S	S f inan ins sg	S f inan ins sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Даже	ДАЖЕ	PART	PART	PART	2	огранич	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	проснулась	ПРОСЫПАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	–	–	–	–	PUNC	4	1-компл	_	_
+6	только	ТОЛЬКО	PART	PART	PART	7	огранич	_	_
+7	ощутила	ОЩУЩАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	сочин	_	_
+8	сквозь	СКВОЗЬ	PR	PR	PR	7	обст	_	_
+9	зажмуренные	ЗАЖМУРИВАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	10	опред	_	_
+10	веки	ВЕКО	S	S n inan acc pl	S n inan acc pl	8	предл	_	_
+11	солнечный	СОЛНЕЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	опред	_	_
+12	свет	СВЕТ	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	только	ТОЛЬКО	PART	PART	PART	15	огранич	_	_
+15	сладко	СЛАДКО	ADV	ADV -	ADV -	16	обст	_	_
+16	потянулась	ПОТЯНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	сочин	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+19	сразу	СРАЗУ	ADV	ADV -	ADV -	20	обст	_	_
+20	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	18	соч-союзн	_	_
+21	радостно	РАДОСТНО	ADV	ADV -	ADV -	20	обст	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	празднично	ПРАЗДНИЧНЫЙ	A	A - - sg brev n -	A - - sg brev n -	20	присвяз	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	весело	ВЕСЕЛО	ADV	ADV -	ADV -	20	обст	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	12	предик	_	_
+2	уже	УЖЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	потом	ПОТОМ	ADV	ADV -	ADV -	1	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	когда	КОГДА	CONJ	CONJ	CONJ	3	сочин	_	_
+6	вслед	ВСЛЕД	ADV	ADV -	ADV -	9	обст	_	_
+7	за	ЗА	PR	PR	PR	6	1-компл	_	_
+8	телом	ТЕЛО	S	S n inan ins sg	S n inan ins sg	7	предл	_	_
+9	проснулся	ПРОСЫПАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	подч-союзн	_	_
+10	разум	РАЗУМ	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	вспомнилось	ВСПОМИНАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+13	про	ПРО	PR	PR	PR	12	1-компл	_	_
+14	Петю	ПЕТЯ	S	S m anim acc sg	S m anim acc sg	13	предл	_	_
+15	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+16	про	ПРО	PR	PR	PR	0	ROOT	_	_
+17	войну	ВОЙНА	S	S f inan acc sg	S f inan acc sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+2	усилием	УСИЛИЕ	S	S n inan ins sg	S n inan ins sg	4	обст	_	_
+3	воли	ВОЛЯ	S	S f inan gen sg	S f inan gen sg	2	квазиагент	_	_
+4	заставила	ЗАСТАВЛЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	4	1-компл	_	_
+6	нахмуриться	НАХМУРИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	4	2-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	думать	ДУМАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	соч-союзн	_	_
+10	о	О	PR	PR	PR	9	2-компл	_	_
+11	грустном	ГРУСТНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	10	сочин	_	_
+14	в	В	PR	PR	PR	13	соч-союзн	_	_
+15	непослушную	НЕПОСЛУШНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	17	опред	_	_
+16	спросонья	СПРОСОНЬЯ	ADV	ADV -	ADV -	17	огранич	_	_
+17	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+18	лезло	ЛЕЗТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	4	вводн	_	_
+19	совсем	СОВСЕМ	ADV	ADV -	ADV -	20	огранич	_	_
+20	другое	ДРУГОЙ	A	A - nom sg plen n -	A - nom sg plen n -	18	предик	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	в	В	PR	PR	PR	26	обст	_	_
+23	духе	ДУХ	S	S m inan loc sg	S m inan loc sg	22	предл	_	_
+24	Агафьи	АГАФЬЯ	S	S f anim gen sg	S f anim gen sg	23	квазиагент	_	_
+25	Тихоновны	ТИХОНОВНА	S	S f anim gen sg	S f anim gen sg	24	аппоз	_	_
+26	:	:	:	:	PUNC	20	разъяснит	_	_
+27	если	ЕСЛИ	CONJ	CONJ	CONJ	32	обст	_	_
+28	б	Б	PART	PART	PART	29	огранич	_	_
+29	к	К	PR	PR	PR	31	2-компл	_	_
+30	Петиной	ПЕТИНА	S	S f anim loc sg	S f anim loc sg	29	предл	_	_
+31	преданности	ПРЕДАННОСТЬ	S	S f inan loc sg	S f inan loc sg	27	подч-союзн	_	_
+32	прибавить	ПРИБАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	26	1-компл	_	_
+33	соболевскую	СОБОЛЕВСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	34	опред	_	_
+34	славу	СЛАВА	S	S f inan acc sg	S f inan acc sg	32	1-компл	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	да	ДА	CONJ	CONJ	CONJ	26	сочин	_	_
+37	зуровскую	ЗУРОВСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	38	опред	_	_
+38	бесшабашность	БЕСШАБАШНОСТЬ	S	S f inan nom sg	S f inan nom sg	36	соч-союзн	_	_
+39	,	,	,	,	PUNC	38	PUNC	_	_
+40	да	ДА	CONJ	CONJ	CONJ	38	сочин	_	_
+41	таланты	ТАЛАНТ	S	S m inan nom pl	S m inan nom pl	40	соч-союзн	_	_
+42	Шарля	ШАРЛЬ	S	S m anim gen sg	S m anim gen sg	41	квазиагент	_	_
+43	,	,	,	,	PUNC	42	PUNC	_	_
+44	да	ДА	CONJ	CONJ	CONJ	4	сент-соч	_	_
+45	фандоринский	ФАНДОРИНСКИЙ	S	S m anim nom sg	S m anim nom sg	47	предик	_	_
+46	прищуренный	ПРИЩУРИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	47	опред	_	_
+47	взгляд	ВЗГЛЯД	S	S m inan acc sg	S m inan acc sg	44	соч-союзн	_	_
+48	…	…	SENT	SENT	SENT	47	PUNC	_	_
+
+1	Хотя	ХОТЯ	CONJ	CONJ	CONJ	8	обст	_	_
+2	нет	НЕТ	PART	PART	PART	1	подч-союзн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+5	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	сюда	СЮДА	ADV	ADV -	ADV -	8	обст	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	подходил	ПОДХОДИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	ибо	ИБО	CONJ	CONJ	CONJ	8	обст	_	_
+11	к	К	PR	PR	PR	21	дат-субъект	_	_
+12	поклонникам	ПОКЛОННИК	S	S m anim dat pl	S m anim dat pl	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	даже	ДАЖЕ	PART	PART	PART	15	огранич	_	_
+15	с	С	PR	PR	PR	11	сочин	_	_
+16	натяжкой	НАТЯЖКА	S	S f inan ins sg	S f inan ins sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	причислить	ПРИЧИСЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	16	1-компл	_	_
+19	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	18	1-компл	_	_
+20	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	10	подч-союзн	_	_
+21	нельзя	НЕЛЬЗЯ	ADV	ADV -	ADV -	20	присвяз	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

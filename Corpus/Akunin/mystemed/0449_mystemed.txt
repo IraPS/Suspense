@@ -1,0 +1,15 @@
+{"analysis":[],"text":"Ravissante"}
+{"analysis":[],"text":"comme"}
+{"analysis":[],"text":"l"}
+{"analysis":[],"text":"Aurore"}
+{"analysis":[{"lex":"кинуться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"кинулся"}
+{"analysis":[{"lex":"было","gr":"PART="}],"text":"было"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"ручка","gr":"S,f,inan=abl,sg"},{"lex":"ручка","gr":"S,f,inan=dat,sg"}],"text":"ручке"}
+{"analysis":[{"lex":"полковник","gr":"S,m,anim=nom,sg"}],"text":"полковник"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"отпрядывать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"отпрянул"}
+{"analysis":[{"lex":"вспомнить","gr":"V,pf,tran=praet,ger"}],"text":"вспомнив"}
+{"analysis":[{"lex":"о","gr":"PR="}],"text":"о"}
+{"analysis":[{"lex":"современный","gr":"A=abl,pl,plen"},{"lex":"современный","gr":"A=acc,pl,plen,anim"},{"lex":"современный","gr":"A=gen,pl,plen"}],"text":"современных"}
+{"analysis":[{"lex":"женщина","gr":"S,f,anim=abl,pl"}],"text":"женщинах"}

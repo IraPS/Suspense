@@ -1,0 +1,129 @@
+1	Эпилог	ЭПИЛОГ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Московские	МОСКОВСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+3	губернские	ГУБЕРНСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+4	ведомости	ВЕДОМОСТЬ	S	S f inan nom pl	S f inan nom pl	7	предик	_	_
+5	»	»	_	_	PUNC	4	PUNC	_	_
+6	,	,	,	,	PUNC	4	PUNC	_	_
+7	19	19	NUM	NUM - - -	NUM - - -	16	количест	_	_
+8	февраля	ФЕВРАЛЬ	S	S m inan gen sg	S m inan gen sg	7	атриб	_	_
+9	(	(	_	_	PUNC	10	PUNC	_	_
+10	3	3	NUM	NUM - - -	NUM - - -	7	примыкат	_	_
+11	марта	МАРТ	S	S m inan gen sg	S m inan gen sg	10	атриб	_	_
+12	)	)	_	_	PUNC	11	PUNC	_	_
+13	1878	1878	NUM	NUM - - -	NUM - - -	14	опред	_	_
+14	г.	Г.	S	S - - nonflex nonflex	S - - nonflex nonflex	16	агент	_	_
+15	МИР	МИР	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+16	ПОДПИСАН	ПОДПИСЫВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+17	!	!	SENT	SENT	SENT	16	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Сегодня	СЕГОДНЯ	ADV	ADV -	ADV -	16	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	в	В	PR	PR	PR	11	обст	_	_
+5	светлую	СВЕТЛЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	годовщину	ГОДОВЩИНА	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+7	Высочайшего	ВЫСОКИЙ	A	A supr gen sg plen n -	A supr gen sg plen n -	8	опред	_	_
+8	милосердия	МИЛОСЕРДИЕ	S	S n inan gen sg	S n inan gen sg	6	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	явленного	ЯВЛЕННЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	11	опред	_	_
+11	крестьянству	КРЕСТЬЯНСТВО	S	S n inan dat sg	S n inan dat sg	14	предл	_	_
+12	17	17	NUM	NUM - - -	NUM - - -	13	количест	_	_
+13	лет	ГОД	S	S m inan gen pl	S m inan gen pl	14	предл	_	_
+14	назад	НАЗАД	ADV	ADV -	ADV -	16	вводн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	в	В	PR	PR	PR	0	ROOT	_	_
+17	летопись	ЛЕТОПИСЬ	S	S f inan acc sg	S f inan acc sg	16	предл	_	_
+18	царствования	ЦАРСТВОВАНИЕ	S	S n inan gen sg	S n inan gen sg	17	1-компл	_	_
+19	Царя	ЦАРЬ	S	S m anim acc sg	S m anim acc sg	16	предл	_	_
+20	-	-	-	-	PUNC	19	PUNC	_	_
+21	Освободителя	ОСВОБОДИТЕЛЬ	S	S f inan nom sg	S f inan nom sg	16	предик	_	_
+22	вписана	ВПИСЫВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	16	сент-соч	_	_
+23	новая	НОВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	25	опред	_	_
+24	светлая	СВЕТЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	25	опред	_	_
+25	страница	СТРАНИЦА	S	S f inan nom sg	S f inan nom sg	22	предик	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Русские	РУССКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	5	1-компл	_	_
+2	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	турецкие	ТУРЕЦКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+4	уполномоченные	УПОЛНОМОЧЕННЫЙ	S	S m anim nom pl	S m anim nom pl	2	соч-союзн	_	_
+5	подписали	ПОДПИСЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+6	в	В	PR	PR	PR	5	2-компл	_	_
+7	Сан	САН	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	Стефано	СТЕФАНО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	5	1-компл	_	_
+10	мир	МИР	S	S m inan nom sg	S m inan nom sg	9	аппоз	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	завершивший	ЗАВЕРШАТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	9	опред	_	_
+13	славную	СЛАВНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	14	опред	_	_
+14	войну	ВОЙНА	S	S f inan acc sg	S f inan acc sg	12	1-компл	_	_
+15	за	ЗА	PR	PR	PR	14	1-компл	_	_
+16	освобождение	ОСВОБОЖДЕНИЕ	S	S n inan acc sg	S n inan acc sg	15	предл	_	_
+17	христианских	ХРИСТИАНСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	18	опред	_	_
+18	народов	НАРОД	S	S m inan gen pl	S m inan gen pl	16	1-компл	_	_
+19	от	ОТ	PR	PR	PR	18	1-компл	_	_
+20	турецкого	ТУРЕЦКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	19	предл	_	_
+21	владычества	ВЛАДЫЧЕСТВО	S	S n inan gen sg	S n inan gen sg	20	1-компл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	5	вводн	_	_
+2	условиям	УСЛОВИЕ	S	S n inan dat pl	S n inan dat pl	1	предл	_	_
+3	трактата	ТРАКТАТ	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	Румыния	РУМЫНИЯ	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	Сербия	СЕРБИЯ	S	S f inan nom sg	S f inan nom sg	6	соч-союзн	_	_
+8	обретают	ОБРЕТАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+9	полную	ПОЛНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	10	опред	_	_
+10	независимость	НЕЗАВИСИМОСТЬ	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	образуется	ОБРАЗОВЫВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	8	сент-соч	_	_
+13	обширное	ОБШИРНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	15	опред	_	_
+14	Болгарское	БОЛГАРСКИЙ	A	A - nom sg plen n -	A - nom sg plen n -	15	опред	_	_
+15	княжество	КНЯЖЕСТВО	S	S n inan nom sg	S n inan nom sg	12	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	а	А	CONJ	CONJ	CONJ	12	сент-соч	_	_
+18	Россия	РОССИЯ	S	S f inan nom sg	S f inan nom sg	19	предик	_	_
+19	получает	ПОЛУЧАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	17	соч-союзн	_	_
+20	в	В	PR	PR	PR	19	1-компл	_	_
+21	компенсацию	КОМПЕНСАЦИЯ	S	S f inan acc sg	S f inan acc sg	20	предл	_	_
+22	военных	ВОЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	23	опред	_	_
+23	затрат	ЗАТРАТА	S	S f inan gen pl	S f inan gen pl	21	1-компл	_	_
+24	1	1	NUM	NUM - - -	NUM - - -	25	количест	_	_
+25	миллиард	МИЛЛИАРД	S	S m inan acc sg	S m inan acc sg	19	длительн	_	_
+26	410	410	NUM	NUM - - -	NUM - - -	27	количест	_	_
+27	миллионов	МИЛЛИОН	S	S m inan gen pl	S m inan gen pl	25	квазиагент	_	_
+28	рублей	РУБЛЬ	S	S m inan gen pl	S m inan gen pl	27	квазиагент	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	причем	ПРИЧЕМ	CONJ	CONJ	CONJ	19	сент-соч	_	_
+31	основная	ОСНОВНОЙ	A	A - nom sg plen f -	A - nom sg plen f -	32	опред	_	_
+32	часть	ЧАСТЬ	S	S f inan nom sg	S f inan nom sg	35	предик	_	_
+33	этой	ЭТОТ	A	A - gen sg plen f -	A - gen sg plen f -	34	опред	_	_
+34	суммы	СУММА	S	S f inan gen sg	S f inan gen sg	32	квазиагент	_	_
+35	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	30	соч-союзн	_	_
+36	внесена	ВНОСИТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	35	пасс-анал	_	_
+37	территориальными	ТЕРРИТОРИАЛЬНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	38	опред	_	_
+38	уступками	УСТУПКА	S	S m inan ins pl	S m inan ins pl	36	2-компл	_	_
+39	,	,	,	,	PUNC	38	PUNC	_	_
+40	в	В	PR	PR	PR	43	1-компл	_	_
+41	число	ЧИСЛО	S	S n inan acc sg	S n inan acc sg	40	предл	_	_
+42	которых	КОТОРЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	41	квазиагент	_	_
+43	входят	ВХОДИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	38	релят	_	_
+44	Бессарабия	БЕССАРАБИЯ	S	S f inan nom sg	S f inan nom sg	43	предик	_	_
+45	и	И	CONJ	CONJ	CONJ	44	сочин	_	_
+46	Добруджа	ДОБРУДЖА	S	S f inan nom sg	S f inan nom sg	45	соч-союзн	_	_
+47	,	,	,	,	PUNC	46	PUNC	_	_
+48	а также	а также	CONJ	CONJ	ZERO	35	обст	_	_
+49	Ардаган	АРДАГАН	S	S f inan nom sg	S f inan nom sg	51	предик	_	_
+50	,	,	,	,	PUNC	49	PUNC	_	_
+51	Каре	КАРЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	48	подч-союзн	_	_
+52	,	,	,	,	PUNC	51	PUNC	_	_
+53	Батум	БАТУМ	S	S m inan nom sg	S m inan nom sg	51	сочин	_	_
+54	,	,	,	,	PUNC	53	PUNC	_	_
+55	Баязет	БАЯЗЕТ	S	S m inan gen sg	S m inan gen sg	53	сочин	_	_
+56	…	…	…	…	PUNC	55	PUNC	_	_
+57	»	»	SENT	SENT	SENT	56	PUNC	_	_
+

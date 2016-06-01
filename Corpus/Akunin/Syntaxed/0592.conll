@@ -1,0 +1,101 @@
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Заботу	ЗАБОТА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	проявляете	ПРОЯВЛЯТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	4-компл	_	_
+2	П	П	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	право	ПРАВО	S	S n inan nom sg	S n inan nom sg	2	вводн	_	_
+5	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	2	вводн	_	_
+8	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	7	аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	ну	НУ	PART	PART	PART	11	огранич	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	2	предик	_	_
+12	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	14	предик	_	_
+13	там	ТАМ	ADV	ADV -	ADV -	14	обст	_	_
+14	потеряли	ПОТЕРЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	11	подч-союзн	_	_
+15	?	?	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Сначала	СНАЧАЛА	ADV	ADV -	ADV -	2	обст	_	_
+2	будут	БЫТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+3	долго	ДОЛГО	ADV	ADV -	ADV -	4	обст	_	_
+4	стрелять	СТРЕЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	2	аналит	_	_
+5	из	ИЗ	PR	PR	PR	4	1-компл	_	_
+6	пушек	ПУШКА	S	S f inan gen pl	S f inan gen pl	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	потом	ПОТОМ	ADV	ADV -	ADV -	9	обст	_	_
+9	побегут	ПОБЕЖАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	2	сент-соч	_	_
+10	вперед	ВПЕРЕД	ADV	ADV -	ADV -	9	2-компл	_	_
+11	и	И	CONJ	CONJ	CONJ	9	сент-соч	_	_
+12	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	14	1-компл	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	поднимутся	ПОДНИМАТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	11	соч-союзн	_	_
+15	клубы	КЛУБ	S	S m inan nom pl	S m inan nom pl	14	предик	_	_
+16	дыма	ДЫМ	S	S m inan gen sg	S m inan gen sg	15	квазиагент	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	21	предик	_	_
+19	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	21	1-компл	_	_
+20	не	НЕ	PART	PART	PART	21	огранич	_	_
+21	увидите	УВИДЕТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	14	сент-соч	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	только	ТОЛЬКО	PART	PART	PART	24	огранич	_	_
+24	услышите	УСЛЫШАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	21	сент-соч	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	как	КАК	ADV	ADV -	ADV -	28	обст	_	_
+27	одни	ОДИН	A	A - nom pl plen - -	A - nom pl plen - -	28	предик	_	_
+28	кричат	КРИЧАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	24	сент-соч	_	_
+29	«	«	_	_	PUNC	28	PUNC	_	_
+30	ура	УРА	INTJ	INTJ	INTJ	28	сент-соч	_	_
+31	»	»	_	_	PUNC	30	PUNC	_	_
+32	,	,	,	,	PUNC	30	PUNC	_	_
+33	а	А	CONJ	CONJ	CONJ	30	сент-соч	_	_
+34	другие	ДРУГОЙ	A	A - nom pl plen - -	A - nom pl plen - -	35	предик	_	_
+35	кричат	КРИЧАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	33	соч-союзн	_	_
+36	от	ОТ	PR	PR	PR	35	1-компл	_	_
+37	боли	БОЛЬ	S	S f inan gen sg	S f inan gen sg	36	предл	_	_
+38	.	.	SENT	SENT	SENT	37	PUNC	_	_
+
+1	Очень	ОЧЕНЬ	ADV	ADV -	ADV -	2	огранич	_	_
+2	интересно	ИНТЕРЕСНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Наша	НАШ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+2	с	С	PR	PR	PR	1	атриб	_	_
+3	вами	ВЫ	SPRO	SPRO pl 2p - ins	SPRO pl 2p - ins	2	предл	_	_
+4	работа	РАБОТА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	там	ТАМ	ADV	ADV -	ADV -	4	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	6	сент-соч	_	_
+9	здесь	ЗДЕСЬ	ADV	ADV -	ADV -	14	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	в	В	PR	PR	PR	9	сочин	_	_
+12	т	Т	S	S n - nonflex nonflex	S n - nonflex nonflex	11	предл	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	тылу	ТЫЛ	S	S m inan loc2 sg	S m inan loc2 sg	8	соч-союзн	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	опред	_	_
+2	Тыловая	ТЫЛОВОЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	крыса	КРЫСА	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	 	 	 	 	PUNC	7	обст	_	_
+6	–	–	–	–	PUNC	7	1-компл	_	_
+7	вспомнила	ВСПОМНИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	7	1-компл	_	_
+9	подходящий	ПОДХОДЯЩИЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+10	к	К	PR	PR	PR	9	атриб	_	_
+11	случаю	СЛУЧАЙ	S	S m inan dat sg	S m inan dat sg	10	предл	_	_
+12	термин	ТЕРМИН	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+13	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+14	оставила	ОСТАВЛЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	13	соч-союзн	_	_
+15	мизантропа	МИЗАНТРОП	S	S f inan nom sg	S f inan nom sg	14	предик	_	_
+16	наедине	НАЕДИНЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+17	с	С	PR	PR	PR	16	1-компл	_	_
+18	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	19	квазиагент	_	_
+19	Тацитом	ТАЦИТ	S	S f inan gen sg	S f inan gen sg	17	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

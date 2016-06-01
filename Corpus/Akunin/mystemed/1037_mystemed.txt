@@ -1,0 +1,4 @@
+{"analysis":[{"lex":"лязгнуть","gr":"V,pf,intr=praet,pl,indic"}],"text":"Лязгнули"}
+{"analysis":[{"lex":"колесо","gr":"S,n,inan=acc,pl"},{"lex":"колесо","gr":"S,n,inan=gen,sg"},{"lex":"колесо","gr":"S,n,inan=nom,pl"}],"text":"колеса"}
+{"analysis":[{"lex":"вагон","gr":"S,m,inan=acc,sg"},{"lex":"вагон","gr":"S,m,inan=nom,sg"}],"text":"вагон"}
+{"analysis":[{"lex":"качнуться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"качнулся"}

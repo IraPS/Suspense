@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"бледный","gr":"A=acc,sg,plen,n"},{"lex":"бледный","gr":"A=nom,sg,plen,n"}],"text":"Бледное"}
+{"analysis":[{"lex":"лицо","gr":"S,n,inan=acc,sg"},{"lex":"лицо","gr":"S,n,inan=nom,sg"}],"text":"лицо"}
+{"analysis":[{"lex":"аксинья","gr":"S,persn,f,anim=gen,sg"},{"lex":"аксинья","gr":"S,persn,f,anim=nom,pl"}],"text":"Аксиньи"}
+{"analysis":[{"lex":"висеть","gr":"V,ipf,intr=praet,sg,indic,n"}],"text":"висело"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"черный","gr":"A=abl,sg,plen,m"},{"lex":"черный","gr":"A=abl,sg,plen,n"}],"text":"черном"}
+{"analysis":[{"lex":"квадрат","gr":"S,m,inan=abl,sg"}],"text":"квадрате"}
+{"analysis":[{"lex":"дверь","gr":"S,f,inan=abl,sg"},{"lex":"дверь","gr":"S,f,inan=acc,pl"},{"lex":"дверь","gr":"S,f,inan=dat,sg"},{"lex":"дверь","gr":"S,f,inan=gen,sg"},{"lex":"дверь","gr":"S,f,inan=nom,pl"},{"lex":"дверь","gr":"S,f,inan=loc,sg"}],"text":"двери"}
+{"text":"\\s"}
+{"analysis":[{"lex":"тоска","gr":"S,f,inan=nom,sg"}],"text":"Тоска"}
+{"analysis":[{"lex":"обвиваться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"обвилась"}
+{"analysis":[{"lex":"вокруг","gr":"PR="}],"text":"вокруг"}
+{"analysis":[{"lex":"мой","gr":"APRO=acc,sg,m,anim"},{"lex":"мой","gr":"APRO=gen,sg,m"},{"lex":"мой","gr":"APRO=gen,sg,n"}],"text":"моего"}
+{"analysis":[{"lex":"сердце","gr":"S,n,inan=acc,pl"},{"lex":"сердце","gr":"S,n,inan=gen,sg"},{"lex":"сердце","gr":"S,n,inan=nom,pl"}],"text":"сердца"}

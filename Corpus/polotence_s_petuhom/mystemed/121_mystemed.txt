@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"до","gr":"PR="}],"text":"до"}
+{"analysis":[{"lex":"то","gr":"SPRO,sg,n,inan=gen"}],"text":"того"}
+{"analysis":[{"lex":"растериваться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"растерялся"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"вместо","gr":"PR="}],"text":"вместо"}
+{"analysis":[{"lex":"губа","gr":"S,f,inan=gen,pl"}],"text":"губ"}
+{"analysis":[{"lex":"поцеловать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"поцеловал"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=acc"},{"lex":"она","gr":"SPRO,sg,3p,f=gen"}],"text":"ее"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"нос","gr":"S,m,inan=acc,sg"},{"lex":"нос","gr":"S,m,inan=nom,sg"}],"text":"нос"}

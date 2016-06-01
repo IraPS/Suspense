@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"какой","gr":"APRO=nom,sg,f"}],"text":"Какая"}
+{"analysis":[{"lex":"жалость","gr":"S,f,inan=acc,sg"},{"lex":"жалость","gr":"S,f,inan=nom,sg"}],"text":"жалость"}
+{"analysis":[{"lex":"варвара","gr":"S,persn,f,anim=nom,sg"}],"text":"Варвара"}
+{"analysis":[{"lex":"андреевна","gr":"S,patrn,f,anim=nom,sg"}],"text":"Андреевна"}
+{"analysis":[{"lex":"еще","gr":"ADV="}],"text":"еще"}
+{"analysis":[{"lex":"издали","gr":"ADV="}],"text":"издали"}
+{"analysis":[{"lex":"крикнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"крикнул"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"text":"\\s"}
+{"analysis":[{"lex":"какой","gr":"APRO=nom,sg,f"}],"text":"Какая"}
+{"analysis":[{"lex":"непоправимый","gr":"A=nom,sg,plen,f"}],"text":"непоправимая"}
+{"analysis":[{"lex":"утрата","gr":"S,f,inan=nom,sg"}],"text":"утрата"}

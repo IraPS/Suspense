@@ -1,0 +1,44 @@
+1	Джой	ДЖОЙ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	Тевис	ТЕВИС	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+3	с	С	PR	PR	PR	2	атриб	_	_
+4	шестнадцати	ШЕСТНАДЦАТЬ	NUM	NUM loc - -	NUM loc - -	5	количест	_	_
+5	лет	ГОД	S	S m inan gen pl	S m inan gen pl	3	предл	_	_
+6	по	ПО	PR	PR	PR	9	обст	_	_
+7	сей	СЕЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	8	опред	_	_
+8	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+9	наносила	НАНОСИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	релят	_	_
+10	рану	РАНА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+11	за	ЗА	PR	PR	PR	10	1-компл	_	_
+12	раной	РАНА	S	S f inan ins sg	S f inan ins sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	так как	так как	CONJ	CONJ	ZERO	14	соч-союзн	_	_
+17	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	19	предик	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	умела	УМЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	16	подч-союзн	_	_
+20	или	ИЛИ	CONJ	CONJ	CONJ	19	сочин	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	хотела	ХОТЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	20	соч-союзн	_	_
+23	их	ОНИ	SPRO	SPRO pl - - acc	SPRO pl - - acc	22	1-компл	_	_
+24	лечить	ЛЕЧИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	19	1-компл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	29	предик	_	_
+27	без	БЕЗ	PR	PR	PR	29	обст	_	_
+28	врача	ВРАЧ	S	S m anim gen sg	S m anim gen sg	27	предл	_	_
+29	заживали	ЗАЖИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	сент-соч	_	_
+30	довольно	ДОВОЛЬНО	ADV	ADV -	ADV -	31	огранич	_	_
+31	быстро	БЫСТРО	ADV	ADV -	ADV -	29	обст	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	ранен	РАНИТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	2	пасс-анал	_	_
+4	серьезнее	СЕРЬЕЗНО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+5	других	ДРУГОЙ	A	A - gen pl plen - -	A - gen pl plen - -	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	скрывал	СКРЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	соч-союзн	_	_
+9	этого	ЭТО	S	S n - gen sg	S n - gen sg	8	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

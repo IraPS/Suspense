@@ -1,0 +1,20 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	1	предик	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	2	1-компл	_	_
+2	увозят	УВОЗИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+3	без	БЕЗ	PR	PR	PR	2	обст	_	_
+4	тебя	ТЫ	SPRO	SPRO sg 2p - acc	SPRO sg 2p - acc	3	предл	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	отчаянно	ОТЧАЯННО	ADV	ADV -	ADV -	3	обст	_	_
+3	крикнул	КРИКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Скорей	СКОРО	ADV	ADV comp	ADV comp	1	обст	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+

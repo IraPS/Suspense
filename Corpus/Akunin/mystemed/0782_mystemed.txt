@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"С"}
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=abl"},{"lex":"что","gr":"SPRO,sg,n,inan=ins"}],"text":"чем"}
+{"analysis":[{"lex":"поздравлять","gr":"V,tran=inf,pf"}],"text":"поздравить"}
+{"analysis":[{"lex":"михаил","gr":"S,persn,m,anim=nom,sg"}],"text":"Михаил"}
+{"analysis":[{"lex":"дмитриевич","gr":"S,patrn,m,anim=nom,sg"}],"text":"Дмитриевич"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,m,pf"}],"text":"спросил"}
+{"analysis":[{"lex":"кавказский","gr":"A=acc,sg,plen,m,anim"},{"lex":"кавказский","gr":"A=gen,sg,plen,m"},{"lex":"кавказский","gr":"A=gen,sg,plen,n"}],"text":"кавказского"}
+{"analysis":[{"lex":"вид","gr":"S,m,inan=gen,sg"}],"text":"вида"}
+{"analysis":[{"lex":"генерал","gr":"S,m,anim=nom,sg"}],"text":"генерал"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"черкеска","gr":"S,f,inan=abl,sg"},{"lex":"черкеска","gr":"S,f,inan=dat,sg"}],"text":"черкеске"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"золоченый","gr":"A=ins,pl,plen"}],"text":"золочеными"}
+{"analysis":[{"lex":"газырь","gr":"S,m,inan=ins,pl"}],"text":"газырями"}

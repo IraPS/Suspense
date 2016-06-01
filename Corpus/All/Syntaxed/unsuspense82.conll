@@ -1,0 +1,137 @@
+1	—	—	—	—	PUNC	2	опред	_	_
+2	Здорово	ЗДОРОВО	INTJ	INTJ	INTJ	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Степановна	СТЕПАНОВНА	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	здорово	ЗДОРОВО	ADV	ADV -	ADV -	4	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	Анюта	АНЮТА	S	S f anim nom sg	S f anim nom sg	4	аппоз	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	—	—	—	—	PUNC	2	предик	_	_
+2	Зашли	ЗАЙТИ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	бы	БЫ	PART	PART	PART	2	аналит	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	да	ДА	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	и	И	CONJ	CONJ	CONJ	10	соотнос	_	_
+7	ночевали	НОЧЕВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	5	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	—	—	—	—	PUNC	10	1-компл	_	_
+10	сказала	СКАЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	сочин	_	_
+11	Степановна	СТЕПАНОВНА	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	пока	ПОКА	CONJ	CONJ	CONJ	10	обст	_	_
+14	Нюшка	НЮШКА	S	S f anim nom sg	S f anim nom sg	17	предик	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	Катерина	КАТЕРИНА	S	S f anim nom sg	S f anim nom sg	15	соч-союзн	_	_
+17	укладывали	УКЛАДЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	13	подч-союзн	_	_
+18	тулуп	ТУЛУП	S	S m inan acc sg	S m inan acc sg	17	1-компл	_	_
+19	с	С	PR	PR	PR	17	2-компл	_	_
+20	ребенком	РЕБЕНОК	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	Нет	НЕТ	PART	PART	PART	3	огранич	_	_
+3	уж	УЖ	PART	PART	PART	6	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	какой	КАКОЙ	A	A - gen sg plen f -	A - gen sg plen f -	6	опред	_	_
+6	ночлег	НОЧЛЕГ	S	S m inan acc sg	S m inan acc sg	1	1-компл	_	_
+7	...	...	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Пятьдесят	ПЯТЬДЕСЯТ	NUM	NUM acc - -	NUM acc - -	3	количест	_	_
+2	четыре	ЧЕТЫРЕ	NUM	NUM nom - -	NUM nom - -	3	количест	_	_
+3	рубля...	РУБЛЬ...	S	S m inan gen sg	S m inan gen sg	6	предик	_	_
+4	с	С	PR	PR	PR	3	атриб	_	_
+5	копейками...	КОПЕЙКА...	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	высчитали	ВЫСЧИТЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	из	ИЗ	PR	PR	PR	6	1-компл	_	_
+8	пособия	ПОСОБИЕ	S	S n inan gen sg	S n inan gen sg	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	—	—	—	—	PUNC	4	опред	_	_
+2	Может	МОЖЕТ	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	самовары	САМОВАР	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	ти	ТИ	S	S f inan loc sg	S f inan loc sg	4	опред	_	_
+7	взять	ВЗЯТЬ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+8	да	ДА	CONJ	CONJ	CONJ	7	сочин	_	_
+9	починить	ПОЧИНЯТЬ	V	V pf - - inf - -	V pf - - inf - -	8	соч-союзн	_	_
+10	?	?	SENT	SENT	SENT	9	PUNC	_	_
+
+1	—	—	—	—	PUNC	2	1-компл	_	_
+2	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Степановна.	СТЕПАНОВНА.	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	—	—	—	—	PUNC	5	опред	_	_
+5	Ей-богу	ЕЙ-БОГУ	INTJ	INTJ	INTJ	3	аппоз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	возьми	ВЗЯТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	2	разъяснит	_	_
+8	самовары	САМОВАР	S	S m inan acc pl	S m inan acc pl	7	1-компл	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	ти	ТИ	S	S f inan loc sg	S f inan loc sg	7	сочин	_	_
+11	!	!	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Саша	САША	S	S - anim nom sg	S - anim nom sg	8	1-компл	_	_
+2	Пятак	ПЯТАК	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+3	в	В	PR	PR	PR	2	атриб	_	_
+4	кузнице	КУЗНИЦА	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+5	кранты	КРАНТЫ	ADV	ADV -	ADV -	7	вводн	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	ти	ТИ	S	S f inan loc sg	S f inan loc sg	4	аппоз	_	_
+8	припаяет	ПРИПАИВАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Нам	МЫ	SPRO	SPRO pl 1p - dat	SPRO pl 1p - dat	4	дат-субъект	_	_
+2	вон	ВОН	PART	PART	PART	4	огранич	_	_
+3	тоже	ТОЖЕ	PART	PART	PART	4	огранич	_	_
+4	надо	НАДО	ADV	ADV -	ADV -	0	ROOT	_	_
+5	бы	БЫ	PART	PART	PART	8	аналит	_	_
+6	самовар	САМОВАР	S	S m inan nom sg	S m inan nom sg	8	композ	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	то	ТО	NONLEX	NONLEX	NONLEX	4	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+11	другой	ДРУГОЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	предик	_	_
+12	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	10	соч-союзн	_	_
+13	возьмешь	ВЗЯТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	4	вводн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	Аи	АИ	S	S f anim nonflex nonflex	S f anim nonflex nonflex	1	аппоз	_	_
+3	верно	ВЕРНО	ADV	ADV -	ADV -	1	вводн	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Возьму	ВЗЯТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	0	ROOT	_	_
+2	да	ДА	CONJ	CONJ	CONJ	1	сочин	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	починю	ПОЧИНЯТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	3	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	2	предик	_	_
+2	как	КАК	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Катерина	КАТЕРИНА	S	S f anim nom sg	S f anim nom sg	2	сравн-союзн	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	Ой	ОЙ	INTJ	INTJ	INTJ	5	опред	_	_
+3	тебя	ТЫ	SPRO	SPRO sg 2p - acc	SPRO sg 2p - acc	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	лешой	ЛЕША	S	S m anim ins sg	S m anim ins sg	1	присвяз	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	—	—	—	—	PUNC	3	1-компл	_	_
+2	Катерина	КАТЕРИНА	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+3	покачала	ПОКАЧАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	13	обст	_	_
+4	головой.	ГОЛОВА.	S	S f inan ins sg	S f inan ins sg	3	обст	_	_
+5	—	—	—	—	PUNC	8	опред	_	_
+6	Это	ЭТО	S	S n - nom sg	S n - nom sg	8	предик	_	_
+7	пошто	ПОШТО	ADV	ADV -	ADV -	8	обст	_	_
+8	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	сент-соч	_	_
+9	лошадь	ЛОШАДЬ	S	S f anim acc sg	S f anim acc sg	8	предик	_	_
+10	-	-	-	-	PUNC	9	PUNC	_	_
+11	то	ТО	CONJ	CONJ	CONJ	3	соотнос	_	_
+12	одну	ОДИН	A	A - acc sg plen f -	A - acc sg plen f -	13	1-компл	_	_
+13	отпускать	ОТПУСКАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	0	ROOT	_	_
+14	?	?	SENT	SENT	SENT	13	PUNC	_	_
+

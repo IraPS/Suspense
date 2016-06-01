@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"пропадать","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"пропал"}
+{"analysis":[{"lex":"тоскливо","gr":"ADV="}],"text":"тоскливо"}
+{"analysis":[{"lex":"подумать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"подумал"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}

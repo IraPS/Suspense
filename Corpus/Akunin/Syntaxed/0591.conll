@@ -1,0 +1,10 @@
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	остановилась	ОСТАНАВЛИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	удивленно	УДИВЛЕННО	ADV	ADV -	ADV -	5	обст	_	_
+5	оглянулась	ОГЛЯНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	соч-союзн	_	_
+6	на	НА	PR	PR	PR	5	1-компл	_	_
+7	Эраста	ЭРАСТ	S	S m anim acc sg	S m anim acc sg	6	предл	_	_
+8	Петровича	ПЕТРОВИЧ	S	S m anim gen sg	S m anim gen sg	7	аппоз	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

@@ -1,0 +1,29 @@
+1	–	–	–	–	PUNC	7	1-компл	_	_
+2	Как	КАК	ADV	ADV -	ADV -	5	огранич	_	_
+3	угодно	УГОДНО	PART	PART	PART	2	вспом	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	 	 	 	 	PUNC	7	обст	_	_
+6	–	–	–	–	PUNC	7	1-компл	_	_
+7	пожал	ПОЖИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	плечами	ПЛЕЧО	S	S n inan ins pl	S n inan ins pl	7	2-компл	_	_
+9	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	поднимаясь	ПОДНИМАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	обст	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	опред	_	_
+2	Новгородцев	НОВГОРОДЕЦ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	конвой	КОНВОЙ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	2-компл	_	_
+2	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	согласна	СОГЛАСНЫЙ	A	A - - sg brev f -	A - - sg brev f -	0	ROOT	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	крикнула	КРИКНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

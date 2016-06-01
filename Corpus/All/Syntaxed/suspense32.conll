@@ -1,0 +1,82 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	успел	УСПЕВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	сказать	СКАЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	по	ПО	PR	PR	PR	10	обст	_	_
+8	безжизненному	БЕЗЖИЗНЕННЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	9	опред	_	_
+9	телу	ТЕЛО	S	S n inan dat sg	S n inan dat sg	7	предл	_	_
+10	прошла	ПРОХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	подч-союзн	_	_
+11	едва	ЕДВА	ADV	ADV -	ADV -	12	огранич	_	_
+12	заметная	ЗАМЕТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	13	опред	_	_
+13	спазма	СПАЗМ	S	S m inan gen sg	S m inan gen sg	10	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Змея	ЗМЕЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	ожила	ОЖИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	мгновение	МГНОВЕНИЕ	S	S n inan acc sg	S n inan acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	только	ТОЛЬКО	PART	PART	PART	7	огранич	_	_
+7	затем	ЗАТЕМ	ADV	ADV -	ADV -	2	обст	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	2	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	почувствовав	ПОЧУВСТВОВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	17	обст	_	_
+12	враждебное	ВРАЖДЕБНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	13	опред	_	_
+13	тепло	ТЕПЛО	S	S n inan acc sg	S n inan acc sg	11	1-компл	_	_
+14	человеческой	ЧЕЛОВЕЧЕСКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	15	опред	_	_
+15	руки	РУКА	S	S f inan gen sg	S f inan gen sg	13	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	открыть	ОТКРЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	9	инф-союзн	_	_
+18	рот	РОТ	S	S m inan acc sg	S m inan acc sg	17	1-компл	_	_
+19	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+20	ущемить	УЩЕМЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	19	соч-союзн	_	_
+21	руку	РУКА	S	S f inan acc sg	S f inan acc sg	20	1-компл	_	_
+22	Джой	ДЖОЙ	S	S m anim nom sg	S m anim nom sg	2	вводн	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	4	сент-предик	_	_
+2	усилие	УСИЛИЕ	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+3	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	4	огранич	_	_
+4	умертвило	УМЕРТВЛЯТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+5	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	схватил	СХВАТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	змею	ЗМЕЯ	S	S f anim acc sg	S f anim acc sg	2	1-компл	_	_
+4	у	У	PR	PR	PR	2	обст	_	_
+5	головы	ГОЛОВА	S	S f inan gen sg	S f inan gen sg	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+7	так	ТАК	ADV	ADV -	ADV -	8	обст	_	_
+8	сдавил	СДАВЛИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	8	1-компл	_	_
+11	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	12	предик	_	_
+12	порвалась	ПОРВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	10	подч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	потом	ПОТОМ	ADV	ADV -	ADV -	15	обст	_	_
+15	сбросил	СБРОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	сочин	_	_
+16	с	С	PR	PR	PR	15	2-компл	_	_
+17	руки	РУКА	S	S f inan acc pl	S f inan acc pl	16	предл	_	_
+18	Джой	ДЖОЙ	S	S m anim gen sg	S m anim gen sg	17	квазиагент	_	_
+19	остаток	ОСТАТОК	S	S m inan acc sg	S m inan acc sg	15	1-компл	_	_
+20	туловища	ТУЛОВИЩЕ	S	S n inan gen sg	S n inan gen sg	19	квазиагент	_	_
+21	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+22	увидел	УВИДЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	21	соч-союзн	_	_
+23	две	ДВА	NUM	NUM nom f -	NUM nom f -	24	количест	_	_
+24	капли	КАПЛЯ	S	S f inan gen sg	S f inan gen sg	22	1-компл	_	_
+25	крови	КРОВЬ	S	S f inan gen sg	S f inan gen sg	24	квазиагент	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	смысл	СМЫСЛ	S	S m inan nom sg	S m inan nom sg	29	предик	_	_
+28	которых	КОТОРЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	27	квазиагент	_	_
+29	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	сент-соч	_	_
+30	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	31	2-компл	_	_
+31	понятен	ПОНЯТНЫЙ	A	A - - sg brev m -	A - - sg brev m -	29	присвяз	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	как	КАК	CONJ	CONJ	CONJ	31	сравнит	_	_
+34	крик	КРИК	S	S m inan nom sg	S m inan nom sg	33	сравн-союзн	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+

@@ -1,0 +1,193 @@
+1	Панфилыч	ПАНФИЛЫЧ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	прямо	ПРЯМО	ADV	ADV -	ADV -	3	обст	_	_
+3	ахнул	АХНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	когда	КОГДА	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	увидел	УВИДЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	подч-союзн	_	_
+7	эти	ЭТОТ	A	A - nom pl plen - -	A - nom pl plen - -	8	опред	_	_
+8	сигналы	СИГНАЛ	S	S m inan nom pl	S m inan nom pl	6	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	С	С	PR	PR	PR	4	обст	_	_
+2	тревогой	ТРЕВОГА	S	S f inan ins sg	S f inan ins sg	1	предл	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	начальнику	НАЧАЛЬНИК	S	S m anim dat sg	S m anim dat sg	4	2-компл	_	_
+6	станции	СТАНЦИЯ	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+7	:	:	:	:	PUNC	6	аппоз	_	_
+8	—	—	—	—	PUNC	4	3-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Уважаемый	УВАЖАЕМЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	отправляйте	ОТПРАВЛЯТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	1	разъяснит	_	_
+5	поезд	ПОЕЗД	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	У	У	PR	PR	PR	0	ROOT	_	_
+2	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	1	предл	_	_
+3	все	ВСЕ	S	S - - acc pl	S - - acc pl	4	опред	_	_
+4	пчёлы	ПЧЕЛА	S	S f anim nom pl	S f anim nom pl	1	предик	_	_
+5	в	В	PR	PR	PR	4	атриб	_	_
+6	разгоне	РАЗГОН	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Начальник	НАЧАЛЬНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	станции	СТАНЦИЯ	S	S f inan gen sg	S f inan gen sg	1	1-компл	_	_
+3	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	:	:	:	:	PUNC	5	опред	_	_
+5	—	—	—	—	PUNC	3	3-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+3	им	ОНИ	SPRO	SPRO pl - - dat	SPRO pl - - dat	4	1-компл	_	_
+4	свистните	СВИСТНУТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	1	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	чтоб	ЧТОБ	CONJ	CONJ	CONJ	4	сент-соч	_	_
+7	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	10	предик	_	_
+8	скорей	СКОРО	ADV	ADV comp	ADV comp	10	обст	_	_
+9	обратно	ОБРАТНО	ADV	ADV -	ADV -	10	обст	_	_
+10	садились	САДИТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	6	соч-союзн	_	_
+11	!	!	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Более	МНОГО	ADV	ADV comp	ADV comp	6	обст	_	_
+2	трёх	ТРИ	NUM	NUM loc - -	NUM loc - -	3	количест	_	_
+3	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	1	сравнит	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	могу	МОЧЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+7	поезд	ПОЕЗД	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+8	задерживать	ЗАДЕРЖИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Панфилыч	ПАНФИЛЫЧ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+3	:	:	:	:	PUNC	4	опред	_	_
+4	—	—	—	—	PUNC	2	3-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Умоляю	УМОЛЯТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	задержите	ЗАДЕРЖИВАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	1	1-компл	_	_
+4	поезд	ПОЕЗД	S	S m inan nom sg	S m inan nom sg	3	аппоз	_	_
+5	до	ДО	PR	PR	PR	1	обст	_	_
+6	заката	ЗАКАТ	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+7	солнца	СОЛНЦЕ	S	S n inan gen sg	S n inan gen sg	6	квазиагент	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+
+1	На	НА	PR	PR	PR	5	обст	_	_
+2	закате	ЗАКАТ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	солнца	СОЛНЦЕ	S	S n inan gen sg	S n inan gen sg	2	квазиагент	_	_
+4	пчёлы	ПЧЕЛА	S	S f anim nom pl	S f anim nom pl	5	предик	_	_
+5	вернутся	ВЕРНУТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+6	на	НА	PR	PR	PR	5	2-компл	_	_
+7	свои	СВОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	8	опред	_	_
+8	места	МЕСТО	S	S n inan acc pl	S n inan acc pl	6	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	В	В	PR	PR	PR	4	обст	_	_
+2	крайнем	КРАЙНИЙ	A	A - loc sg plen m -	A - loc sg plen m -	3	опред	_	_
+3	случае	СЛУЧАЙ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+4	отцепите	ОТЦЕПЛЯТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	0	ROOT	_	_
+5	мою	МОЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	платформу	ПЛАТФОРМА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+2	без	БЕЗ	PR	PR	PR	5	обст	_	_
+3	пчёл	ПЧЕЛА	S	S f anim gen pl	S f anim gen pl	2	предл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	могу	МОЧЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+6	ехать	ЕХАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Тут	ТУТ	ADV	ADV -	ADV -	6	обст	_	_
+2	у	У	PR	PR	PR	6	обст	_	_
+3	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	2	предл	_	_
+4	одна	ОДИН	A	A - nom sg plen f -	A - nom sg plen f -	5	количест	_	_
+5	тысяча	ТЫСЯЧА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+6	осталась	ОСТАВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	6	сент-соч	_	_
+9	пятнадцать	ПЯТНАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	10	количест	_	_
+10	тысяч	ТЫСЯЧА	S	S f inan gen pl	S f inan gen pl	0	ROOT	_	_
+11	в	В	PR	PR	PR	10	атриб	_	_
+12	полях	ПОЛЕ	S	S n inan loc pl	S n inan loc pl	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Войдите	ВХОДИТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+2	в	В	PR	PR	PR	1	2-компл	_	_
+3	положение	ПОЛОЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	2	предл	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	отнеситесь	ОТНОСИТЬСЯ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+3	равнодушно	РАВНОДУШНО	ADV	ADV -	ADV -	2	обст	_	_
+4	к	К	PR	PR	PR	2	1-компл	_	_
+5	такой	ТАКОЙ	A	A - loc sg plen f -	A - loc sg plen f -	6	опред	_	_
+6	беде	БЕДА	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Начальник	НАЧАЛЬНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	станции	СТАНЦИЯ	S	S f inan gen sg	S f inan gen sg	1	1-компл	_	_
+3	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	:	:	:	:	PUNC	5	опред	_	_
+5	—	—	—	—	PUNC	3	3-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	У	У	PR	PR	PR	0	ROOT	_	_
+2	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	1	предл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	пчелиный	ПЧЕЛИНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	курорт	КУРОРТ	S	S m inan nom sg	S m inan nom sg	1	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	5	сочин	_	_
+8	железная	ЖЕЛЕЗНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+9	дорога	ДОРОГА	S	S f inan nom sg	S f inan nom sg	7	соч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Подумаешь	ПОДУМАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	пчёлы	ПЧЕЛА	S	S f anim nom pl	S f anim nom pl	4	предик	_	_
+4	улетели	УЛЕТАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	сент-соч	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	на	НА	PR	PR	PR	5	обст	_	_
+3	следующем	СЛЕДУЮЩИЙ	A	A - loc sg plen m -	A - loc sg plen m -	4	опред	_	_
+4	поезде	ПОЕЗД	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+5	скажут	СКАЗАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	1	соч-союзн	_	_
+6	:	:	:	:	PUNC	8	1-компл	_	_
+7	мухи	МУХА	S	S f anim nom pl	S f anim nom pl	8	предик	_	_
+8	улетели	УЛЕТАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	5	1-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Или	ИЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	блохи	БЛОХА	S	S f anim nom pl	S f anim nom pl	1	соч-союзн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	скажут	СКАЗАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	2	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	выскочили	ВЫСКОЧИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	4	сочин	_	_
+7	из	ИЗ	PR	PR	PR	6	2-компл	_	_
+8	мягкого	МЯГКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	вагона	ВАГОН	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Так что	Так что	CONJ	CONJ	ZERO	0	ROOT	_	_
+2	ж	Ж	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	должен	ДОЛЖНЫЙ	A	A - - sg brev m -	A - - sg brev m -	1	соч-союзн	_	_
+6	ради	РАДИ	PR	PR	PR	5	1-компл	_	_
+7	этого	ЭТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	8	опред	_	_
+8	поезда	ПОЕЗД	S	S m inan gen sg	S m inan gen sg	6	предл	_	_
+9	задерживать	ЗАДЕРЖИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	2-компл	_	_
+10	?	?	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	смешите	СМЕШИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+3	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	2	1-компл	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+

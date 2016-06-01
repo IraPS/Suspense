@@ -1,0 +1,167 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вот	ВОТ	PART	PART	PART	4	огранич	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	вижу	ВИДЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	соч-союзн	_	_
+5	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	4	1-компл	_	_
+6	в	В	PR	PR	PR	4	2-компл	_	_
+7	усадьбе	УСАДЬБА	S	S f inan loc sg	S f inan loc sg	6	предл	_	_
+8	Арсения	АРСЕНИЯ	S	S f anim nom sg	S f anim nom sg	4	1-компл	_	_
+9	Семеныча	СЕМЕНЫЧ	S	S m anim acc sg	S m anim acc sg	8	аппоз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	в	В	PR	PR	PR	8	атриб	_	_
+12	большом	БОЛЬШОЙ	A	A - loc sg plen m -	A - loc sg plen m -	13	опред	_	_
+13	доме	ДОМ	S	S m inan loc sg	S m inan loc sg	11	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	в	В	PR	PR	PR	8	атриб	_	_
+16	зале	ЗАЛ	S	S m inan loc sg	S m inan loc sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	полной	ПОЛНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	8	опред	_	_
+19	солнца	СОЛНЦЕ	S	S n inan gen sg	S n inan gen sg	18	1-компл	_	_
+20	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+21	дыма	ДЫМ	S	S m inan gen sg	S m inan gen sg	20	соч-союзн	_	_
+22	от	ОТ	PR	PR	PR	4	2-компл	_	_
+23	трубок	ТРУБКА	S	S f inan gen pl	S f inan gen pl	22	предл	_	_
+24	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+25	папирос	ПАПИРОСА	S	S f inan gen pl	S f inan gen pl	24	соч-союзн	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Народу	НАРОД	S	S m inan - sg	S m inan - sg	0	ROOT	_	_
+2	много	МНОГО	ADV	ADV -	ADV -	3	колич-огран	_	_
+3	—	—	—	—	PUNC	5	опред	_	_
+4	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	5	опред	_	_
+5	люди	ЧЕЛОВЕК	S	S m anim nom pl	S m anim nom pl	6	предик	_	_
+6	загорелые	ЗАГОРЕЛЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	1	примыкат	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	с	С	PR	PR	PR	1	1-компл	_	_
+9	обветренными	ОБВЕТРЕННЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	10	опред	_	_
+10	лицами	ЛИЦО	S	S n anim ins pl	S n anim ins pl	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	в	В	PR	PR	PR	1	2-компл	_	_
+13	поддевках	ПОДДЕВКА	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	длинных	ДЛИННЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	16	опред	_	_
+16	сапогах	САПОГ	S	S m inan loc pl	S m inan loc pl	14	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Только	ТОЛЬКО	PART	PART	PART	5	огранич	_	_
+2	что	ЧТО	CONJ	CONJ	CONJ	1	вспом	_	_
+3	очень	ОЧЕНЬ	ADV	ADV -	ADV -	4	огранич	_	_
+4	сытно	СЫТНО	ADV	ADV -	ADV -	5	обст	_	_
+5	пообедали	ПООБЕДАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	раскраснелись	РАСКРАСНЕТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	5	сочин	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	возбуждены	ВОЗБУЖДАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	8	соч-союзн	_	_
+10	шумными	ШУМНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	11	опред	_	_
+11	разговорами	РАЗГОВОР	S	S m inan ins pl	S m inan ins pl	9	обст	_	_
+12	о	О	PR	PR	PR	9	2-компл	_	_
+13	предстоящей	ПРЕДСТОЯЩИЙ	A	A - loc sg plen f -	A - loc sg plen f -	14	опред	_	_
+14	охоте	ОХОТА	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	но	НО	CONJ	CONJ	CONJ	5	сочин	_	_
+17	не	НЕ	PART	PART	PART	18	огранич	_	_
+18	забывают	ЗАБЫВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	16	соч-союзн	_	_
+19	допивать	ДОПИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	18	1-компл	_	_
+20	водку	ВОДКА	S	S f inan acc sg	S f inan acc sg	19	1-компл	_	_
+21	и	И	CONJ	CONJ	CONJ	18	сент-соч	_	_
+22	после	ПОСЛЕ	PR	PR	PR	0	ROOT	_	_
+23	обеда	ОБЕД	S	S m inan gen sg	S m inan gen sg	22	предл	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	на	НА	PR	PR	PR	4	обст	_	_
+3	дворе	ДВОР	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	трубит	ТРУБИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+5	рог	РОГ	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	завывают	ЗАВЫВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	6	соч-союзн	_	_
+8	на	НА	PR	PR	PR	7	1-компл	_	_
+9	разные	РАЗНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	10	опред	_	_
+10	голоса	ГОЛОС	S	S m inan acc pl	S m inan acc pl	8	предл	_	_
+11	собаки	СОБАКА	S	S f anim gen sg	S f anim gen sg	10	квазиагент	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Черный	ЧЕРНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	борзой	БОРЗАЯ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	любимец	ЛЮБИМЕЦ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+5	Арсения	АРСЕНИЯ	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	Семеныча	СЕМЕНЫЧ	S	S m anim acc sg	S m anim acc sg	4	об-аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	взлезает	ВЗЛЕЗАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	релят	_	_
+9	на	НА	PR	PR	PR	8	2-компл	_	_
+10	стол	СТОЛ	S	S m inan acc sg	S m inan acc sg	9	предл	_	_
+11	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+12	начинает	НАЧИНАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	соч-союзн	_	_
+13	пожирать	ПОЖИРАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	1-компл	_	_
+14	с	С	PR	PR	PR	13	обст	_	_
+15	блюда	БЛЮДО	S	S n inan gen sg	S n inan gen sg	14	предл	_	_
+16	остатки	ОСТАТОК	S	S m inan acc pl	S m inan acc pl	13	1-компл	_	_
+17	зайца	ЗАЯЦ	S	S m anim acc sg	S m anim acc sg	13	обст	_	_
+18	под	ПОД	PR	PR	PR	13	обст	_	_
+19	соусом	СОУС	S	S m inan ins sg	S m inan ins sg	18	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вдруг	ВДРУГ	ADV	ADV -	ADV -	4	обст	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	испускает	ИСПУСКАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+5	страшный	СТРАШНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	визг	ВИЗГ	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	опрокидывая	ОПРОКИДЫВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	14	обст	_	_
+10	тарелки	ТАРЕЛКА	S	S f inan gen sg	S f inan gen sg	9	1-компл	_	_
+11	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+12	рюмки	РЮМКА	S	S f inan nom pl	S f inan nom pl	11	соч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	срывается	СРЫВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	соч-союзн	_	_
+15	со	СО	PR	PR	PR	14	обст	_	_
+16	стола	СТОЛ	S	S m inan gen sg	S m inan gen sg	15	предл	_	_
+17	:	:	:	:	PUNC	14	сент-соч	_	_
+18	Арсений	АРСЕНИЙ	S	S m anim nom sg	S m anim nom sg	17	предик	_	_
+19	Семеныч	СЕМЕНЫЧ	S	S m anim nom sg	S m anim nom sg	18	аппоз	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	вышедший	ВЫХОДИТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	17	опред	_	_
+22	из	ИЗ	PR	PR	PR	21	1-компл	_	_
+23	кабинета	КАБИНЕТ	S	S m inan gen sg	S m inan gen sg	22	предл	_	_
+24	с	С	PR	PR	PR	23	атриб	_	_
+25	арапником	АРАПНИК	S	S m inan ins sg	S m inan ins sg	24	предл	_	_
+26	и	И	CONJ	CONJ	CONJ	25	сочин	_	_
+27	револьвером	РЕВОЛЬВЕР	S	S m inan ins sg	S m inan ins sg	26	соч-союзн	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	внезапно	ВНЕЗАПНО	ADV	ADV -	ADV -	30	обст	_	_
+30	оглушает	ОГЛУШАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	17	сент-соч	_	_
+31	залу	ЗАЛ	S	S f inan acc sg	S f inan acc sg	30	1-компл	_	_
+32	выстрелом	ВЫСТРЕЛ	S	S m inan ins sg	S m inan ins sg	30	2-компл	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	Зала	ЗАЛА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	более	БОЛЕЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	наполняется	НАПОЛНЯТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	дымом	ДЫМ	S	S m inan ins sg	S m inan ins sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+8	Арсений	АРСЕНИЙ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+9	Семеныч	СЕМЕНЫЧ	S	S m anim nom sg	S m anim nom sg	8	аппоз	_	_
+10	стоит	СТОЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	соч-союзн	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	смеется	СМЕЯТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	11	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	Жалко	ЖАЛКО	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+5	промахнулся	ПРОМАХИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	подч-союзн	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	вводн	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	играя	ИГРАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+6	глазами	ГЛАЗ	S	S m inan ins pl	S m inan ins pl	5	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+

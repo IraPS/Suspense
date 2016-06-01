@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"смотреть","gr":"V,ipf,tran=praet,sg,indic,f"}],"text":"смотрела"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"враль","gr":"S,m,anim=acc,sg"},{"lex":"враль","gr":"S,m,anim=gen,sg"}],"text":"враля"}
+{"analysis":[{"lex":"недоверчиво","gr":"ADV="}],"text":"недоверчиво"}
+{"analysis":[{"lex":"ибо","gr":"CONJ="}],"text":"ибо"}
+{"analysis":[{"lex":"представлять","gr":"V,tran=inf,pf"}],"text":"представить"}
+{"analysis":[{"lex":"титулярный","gr":"A=acc,sg,plen,m,anim"},{"lex":"титулярный","gr":"A=gen,sg,plen,m"},{"lex":"титулярный","gr":"A=gen,sg,plen,n"}],"text":"титулярного"}
+{"analysis":[{"lex":"советник","gr":"S,m,anim=acc,sg"},{"lex":"советник","gr":"S,m,anim=gen,sg"}],"text":"советника"}
+{"analysis":[{"lex":"аравийский","gr":"A=dat,pl,plen"},{"lex":"аравийский","gr":"A=ins,sg,plen,m"},{"lex":"аравийский","gr":"A=ins,sg,plen,n"}],"text":"аравийским"}
+{"analysis":[{"lex":"ураган","gr":"S,m,inan=ins,sg"}],"text":"ураганом"}
+{"analysis":[{"lex":"быть","gr":"V,intr=praet,sg,indic,n,ipf"}],"text":"было"}
+{"analysis":[{"lex":"совершенно","gr":"ADV="}],"text":"совершенно"}
+{"analysis":[{"lex":"невозможный","gr":"A=sg,brev,n"}],"text":"невозможно"}

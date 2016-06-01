@@ -1,0 +1,109 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	с	С	PR	PR	PR	5	обст	_	_
+3	утра	УТРО	S	S n inan gen sg	S n inan gen sg	2	предл	_	_
+4	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	5	дат-субъект	_	_
+5	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	соч-союзн	_	_
+6	скучно	СКУЧНО	ADV	ADV -	ADV -	5	присвяз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Сестры	СЕСТРА	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	ушли	УХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	лазарет	ЛАЗАРЕТ	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+5	–	–	–	–	PUNC	8	предик	_	_
+6	из-под	ИЗ-ПОД	PR	PR	PR	8	обст	_	_
+7	Ловчи	ЛОВЧИТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	6	предл	_	_
+8	привезли	ПРИВОЗИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	сент-соч	_	_
+9	двоих	ДВОЕ	NUM	NUM loc - -	NUM loc - -	8	1-компл	_	_
+10	раненых	РАНЕНЫЙ	S	S m anim gen pl	S m anim gen pl	9	квазиагент	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	попила	ПОПИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	кофе	КОФЕ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	2	1-компл	_	_
+4	в	В	PR	PR	PR	2	2-компл	_	_
+5	одиночестве	ОДИНОЧЕСТВО	S	S n inan loc sg	S n inan loc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	сходила	СХОДИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	релят	_	_
+8	отправить	ОТПРАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	7	1-компл	_	_
+9	родителям	РОДИТЕЛЬ	S	S m anim dat pl	S m anim dat pl	8	2-компл	_	_
+10	телеграмму	ТЕЛЕГРАММА	S	S f inan acc sg	S f inan acc sg	8	1-компл	_	_
+11	:	:	:	:	PUNC	8	4-компл	_	_
+12	во-первых	ВО-ПЕРВЫХ	ADV	ADV -	ADV -	8	обст	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	чтоб	ЧТОБ	CONJ	CONJ	CONJ	2	обст	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	сходили	СХОДИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	14	подч-союзн	_	_
+17	с	С	PR	PR	PR	16	1-компл	_	_
+18	ума	УМ	S	S m inan gen sg	S m inan gen sg	17	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	а	А	CONJ	CONJ	CONJ	16	сочин	_	_
+21	во-вторых	ВО-ВТОРЫХ	ADV	ADV -	ADV -	23	вводн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	чтоб	ЧТОБ	CONJ	CONJ	CONJ	20	соч-союзн	_	_
+24	выслали	ВЫСЫЛАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	23	подч-союзн	_	_
+25	денег	ДЕНЬГИ	S	S - inan gen pl	S - inan gen pl	24	1-компл	_	_
+26	(	(	_	_	PUNC	27	PUNC	_	_
+27	исключительно	ИСКЛЮЧИТЕЛЬНО	PART	PART	PART	28	огранич	_	_
+28	взаймы	ВЗАЙМЫ	ADV	ADV -	ADV -	29	огранич	_	_
+29	–	–	–	–	PUNC	24	обст	_	_
+30	пусть	ПУСТЬ	CONJ	CONJ	CONJ	24	обст	_	_
+31	не	НЕ	PART	PART	PART	32	огранич	_	_
+32	надеются	НАДЕЯТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	30	подч-союзн	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	что	ЧТО	CONJ	CONJ	CONJ	32	1-компл	_	_
+35	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	36	предик	_	_
+36	вернулась	ВЕРНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	34	подч-союзн	_	_
+37	в	В	PR	PR	PR	36	2-компл	_	_
+38	клетку	КЛЕТКА	S	S f inan acc sg	S f inan acc sg	37	предл	_	_
+39	)	)	_	_	PUNC	38	PUNC	_	_
+40	.	.	SENT	SENT	SENT	38	PUNC	_	_
+
+1	Погуляла	ПОГУЛЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	1-компл	_	_
+2	по	ПО	PR	PR	PR	1	обст	_	_
+3	лагерю	ЛАГЕРЬ	S	S m inan dat sg	S m inan dat sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	поглазела	ПОГЛАЗЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	сочин	_	_
+6	на	НА	PR	PR	PR	5	1-компл	_	_
+7	диковинный	ДИКОВИННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	поезд	ПОЕЗД	S	S m inan nom sg	S m inan nom sg	6	предл	_	_
+9	без	БЕЗ	PR	PR	PR	8	атриб	_	_
+10	рельсов	РЕЛЬС	S	S m inan gen pl	S m inan gen pl	9	предл	_	_
+11	:	:	:	:	PUNC	5	сочин	_	_
+12	с	С	PR	PR	PR	11	1-компл	_	_
+13	того	ТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	14	опред	_	_
+14	берега	БЕРЕГ	S	S m inan gen sg	S m inan gen sg	12	предл	_	_
+15	прибыл	ПРИБЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+16	обоз	ОБОЗ	S	S m inan nom sg	S m inan nom sg	15	предик	_	_
+17	на	НА	PR	PR	PR	16	атриб	_	_
+18	механической	МЕХАНИЧЕСКИЙ	A	A - loc sg plen f -	A - loc sg plen f -	19	опред	_	_
+19	тяге	ТЯГА	S	S f inan loc sg	S f inan loc sg	17	предл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Пыхающие	ПЫХАТЬ	PARTCP	PARTCP ipf inpraes nom pl plen - act -	PARTCP ipf inpraes nom pl plen - act -	4	опред	_	_
+2	паром	ПАР	S	S m inan ins sg	S m inan ins sg	1	агент	_	_
+3	железные	ЖЕЛЕЗНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+4	локомобили	ЛОКОМОБИЛЬ	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+5	с	С	PR	PR	PR	8	обст	_	_
+6	огромными	ОГРОМНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	7	опред	_	_
+7	колесами	КОЛЕСО	S	S f inan ins pl	S f inan ins pl	5	предл	_	_
+8	волокли	ВОЛОЧЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+9	за	ЗА	PR	PR	PR	8	обст	_	_
+10	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	9	предл	_	_
+11	тяжелые	ТЯЖЕЛЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	12	опред	_	_
+12	пушки	ПУШКА	S	S f inan gen sg	S f inan gen sg	8	1-компл	_	_
+13	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+14	фуры	ФУРА	S	S f inan nom pl	S f inan nom pl	0	ROOT	_	_
+15	с	С	PR	PR	PR	14	атриб	_	_
+16	боеприпасами	БОЕПРИПАСЫ	S	S - inan ins pl	S - inan ins pl	15	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Зрелище	ЗРЕЛИЩЕ	S	S n inan nom sg	S n inan nom sg	2	предик	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	впечатляющее	ВПЕЧАТЛЯЮЩИЙ	A	A - nom sg plen n -	A - nom sg plen n -	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	настоящий	НАСТОЯЩИЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+6	триумф	ТРИУМФ	S	S m inan nom sg	S m inan nom sg	2	разъяснит	_	_
+7	прогресса	ПРОГРЕСС	S	S m inan gen sg	S m inan gen sg	6	квазиагент	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

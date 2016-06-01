@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"кольбер","gr":"S,famn,m,anim=nom,sg"}],"text":"Кольбер"}
+{"analysis":[{"lex":"замечать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"заметил"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"отдыхать","gr":"V,intr=praet,ger,pf"}],"text":"отдохнув"}
+{"analysis":[{"lex":"следовать","gr":"V,ipf=inpraes,sg,indic,3p"}],"text":"следует"}
+{"analysis":[{"lex":"возвращаться","gr":"V,intr=inf,pf"}],"text":"возвратиться"}

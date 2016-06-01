@@ -1,0 +1,19 @@
+1	"	"	_	_	PUNC	2	PUNC	_	_
+2	Фу	ФУ	INTJ	INTJ	INTJ	3	вводн	_	_
+3	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	8	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	черт	ЧЕРТ	S	S f inan gen pl	S f inan gen pl	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	-	-	-	-	PUNC	5	PUNC	_	_
+8	подумал	ПОДУМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	2-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	-	-	-	-	PUNC	9	PUNC	_	_
+12	как	КАК	ADV	ADV -	ADV -	13	обст	_	_
+13	сговорились	СГОВАРИВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	8	сент-соч	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	честное	ЧЕСТНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	16	опред	_	_
+16	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	13	предик	_	_
+17	!	!	!	!	PUNC	16	аппоз	_	_
+18	"	"	SENT	SENT	SENT	17	PUNC	_	_
+

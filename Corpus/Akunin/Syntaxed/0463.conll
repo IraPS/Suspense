@@ -1,0 +1,106 @@
+1	Полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	выпил	ВЫПИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	залпом	ЗАЛП	S	S m inan ins sg	S m inan ins sg	2	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	сразу	СРАЗУ	ADV	ADV -	ADV -	7	обст	_	_
+6	же	ЖЕ	PART	PART	PART	5	огранич	_	_
+7	налил	НАЛИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+8	еще	ЕЩЕ	ADV	ADV -	ADV -	7	огранич	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Заметил	ЗАМЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	жуя	ЖЕВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	1	обст	_	_
+4	:	:	:	:	PUNC	6	опред	_	_
+5	–	–	–	–	PUNC	6	опред	_	_
+6	План	ПЛАН	S	S m inan nom sg	S m inan nom sg	10	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	конечно	КОНЕЧНО	ADV	ADV -	ADV -	10	вводн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	хорош	ХОРОШИЙ	A	A - - sg brev m -	A - - sg brev m -	1	сент-соч	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Как	КАК	CONJ	CONJ	CONJ	6	вводн	_	_
+2	личный	ЛИЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	представитель	ПРЕДСТАВИТЕЛЬ	S	S m anim nom sg	S m anim nom sg	1	сравн-союзн	_	_
+4	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	высочества	ВЫСОЧЕСТВО	S	S n inan gen sg	S n inan gen sg	3	1-компл	_	_
+6	ознакомлен	ОЗНАКОМЛЯТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	даже	ДАЖЕ	PART	PART	PART	9	огранич	_	_
+9	в	В	PR	PR	PR	12	обст	_	_
+10	некотором	НЕКОТОРЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	11	опред	_	_
+11	роде	РОД	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+12	участвовал	УЧАСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	соч-союзн	_	_
+13	в	В	PR	PR	PR	12	1-компл	_	_
+14	составлении	СОСТАВЛЕНИЕ	S	S n inan loc sg	S n inan loc sg	13	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Особенно	ОСОБЕННО	ADV	ADV -	ADV -	2	огранич	_	_
+2	остроумен	ОСТРОУМНЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+3	обходной	ОБХОДНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	4	опред	_	_
+4	маневр	МАНЕВР	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+5	под	ПОД	PR	PR	PR	2	обст	_	_
+6	прикрытием	ПРИКРЫТИЕ	S	S n inan ins sg	S n inan ins sg	5	предл	_	_
+7	гряды	ГРЯДА	S	S f inan gen sg	S f inan gen sg	6	квазиагент	_	_
+8	холмов	ХОЛМ	S	S m inan gen pl	S m inan gen pl	7	квазиагент	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Колонны	КОЛОННА	S	S f inan nom pl	S f inan nom pl	5	предик	_	_
+2	Шаховского	ШАХОВСКОЙ	S	S m anim gen sg	S m anim gen sg	1	квазиагент	_	_
+3	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+4	Вельяминова	ВЕЛЬЯМИНОВО	S	S f inan nom sg	S f inan nom sg	3	соч-союзн	_	_
+5	выходят	ВЫХОДИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+6	на	НА	PR	PR	PR	5	2-компл	_	_
+7	Плевну	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	с	С	PR	PR	PR	5	1-компл	_	_
+9	востока	ВОСТОК	S	S m inan gen sg	S m inan gen sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Небольшой	НЕБОЛЬШОЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+2	отряд	ОТРЯД	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+3	Соболева	СОБОЛЕВ	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+4	с	С	PR	PR	PR	6	обст	_	_
+5	юга	ЮГ	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	отвлекает	ОТВЛЕКАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	на	НА	PR	PR	PR	6	2-компл	_	_
+8	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	7	предл	_	_
+9	внимание	ВНИМАНИЕ	S	S n inan acc sg	S n inan acc sg	6	1-компл	_	_
+10	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	12	композ	_	_
+11	-	-	-	-	PUNC	10	PUNC	_	_
+12	паши	ПАША	S	S m inan gen sg	S m inan gen sg	9	квазиагент	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	На	НА	PR	PR	PR	3	обст	_	_
+2	бумаге	БУМАГА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	выглядит	ВЫГЛЯДЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	красиво	КРАСИВО	ADV	ADV -	ADV -	3	обст	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	2-компл	_	_
+2	Лукан	ЛУКАН	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	осушил	ОСУШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	бокал	БОКАЛ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Но	НО	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	война	ВОЙНА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	3	вводн	_	_
+6	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	5	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	это	ЭТО	S	S n - nom sg	S n - nom sg	10	предик	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	бумага	БУМАГА	S	S f inan nom sg	S f inan nom sg	3	сент-соч	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	ничегошеньки	НИЧЕГОШЕНЬКИ	ADV	ADV -	ADV -	7	обст	_	_
+3	у	У	PR	PR	PR	7	1-компл	_	_
+4	ваших	ВАШ	A	A - loc pl plen - -	A - loc pl plen - -	5	опред	_	_
+5	компатриотов	КОМПАТРИОТ	S	S m inan loc pl	S m inan loc pl	3	предл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	выйдет	ВЫХОДИТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	1	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

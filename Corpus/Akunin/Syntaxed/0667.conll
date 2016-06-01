@@ -1,0 +1,13 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Не	НЕ	PART	PART	PART	3	огранич	_	_
+3	до	ДО	PR	PR	PR	1	обст	_	_
+4	такой	ТАКОЙ	A	A - loc sg plen f -	A - loc sg plen f -	5	опред	_	_
+5	степени	СТЕПЕНЬ	S	S f inan loc sg	S f inan loc sg	3	предл	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	невесело	НЕВЕСЕЛО	ADV	ADV -	ADV -	3	обст	_	_
+3	хмыкнул	ХМЫКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

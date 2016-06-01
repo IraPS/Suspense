@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"дверь","gr":"S,f,inan=acc,sg"},{"lex":"дверь","gr":"S,f,inan=nom,sg"}],"text":"Дверь"}
+{"analysis":[{"lex":"предостерегающе","gr":"ADV="}],"text":"предостерегающе"}
+{"analysis":[{"lex":"заскрипеть","gr":"V,pf,intr=praet,sg,indic,f"}],"text":"заскрипела"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"зеркало","gr":"S,n,inan=abl,sg"}],"text":"зеркале"}
+{"analysis":[{"lex":"прямо","gr":"PART="}],"text":"прямо"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"спина","gr":"S,f,inan=ins,sg"}],"text":"спиной"}
+{"analysis":[{"lex":"возникать","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"возникла"}
+{"analysis":[{"lex":"красный","gr":"A=nom,sg,plen,f"}],"text":"красная"}
+{"analysis":[{"lex":"сердитый","gr":"A=nom,sg,plen,f"}],"text":"сердитая"}
+{"analysis":[{"lex":"физиономия","gr":"S,f,inan=nom,sg"}],"text":"физиономия"}
+{"analysis":[{"lex":"полковник","gr":"S,m,anim=acc,sg"},{"lex":"полковник","gr":"S,m,anim=gen,sg"}],"text":"полковника"}

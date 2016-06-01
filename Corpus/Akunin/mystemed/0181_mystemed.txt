@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"Так"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"стало"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inf,ipf"}],"text":"быть"}
+{"analysis":[{"lex":"мочь","gr":"V,ipf,intr=inpraes,pl,indic,2p"}],"text":"можете"}
+{"analysis":[{"lex":"служить","gr":"V,ipf,tran=inf"}],"text":"служить"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,m,pf"}],"text":"спросил"}
+{"analysis":[{"lex":"генерал","gr":"S,m,anim=nom,sg"}],"text":"генерал"}

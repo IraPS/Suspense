@@ -1,0 +1,15 @@
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	2	предик	_	_
+2	взглянули	ВЗГЛЯДЫВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	2-компл	_	_
+4	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	8	предик	_	_
+8	почувствовала	ПОЧУВСТВОВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	соч-союзн	_	_
+9	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	8	1-компл	_	_
+10	чем-то	ЧТО-ТО	S	S n - ins sg	S n - ins sg	8	2-компл	_	_
+11	вроде	ВРОДЕ	PR	PR	PR	10	атриб	_	_
+12	вещественного	ВЕЩЕСТВЕННЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	11	предл	_	_
+13	доказательства	ДОКАЗАТЕЛЬСТВО	S	S n inan gen sg	S n inan gen sg	12	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

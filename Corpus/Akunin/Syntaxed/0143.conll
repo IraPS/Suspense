@@ -1,0 +1,81 @@
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	неожиданно	НЕОЖИДАННЫЙ	A	A - - sg brev n -	A - - sg brev n -	2	присвяз	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Дипломат	ДИПЛОМАТ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+2	?	?	SENT	SENT	SENT	1	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	3	обст	_	_
+2	правде	ПРАВДА	S	S f inan dat sg	S f inan dat sg	1	предл	_	_
+3	говоря	ГОВОРИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	новые	НОВЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	6	опред	_	_
+6	впечатления	ВПЕЧАТЛЕНИЕ	S	S n inan acc pl	S n inan acc pl	8	1-компл	_	_
+7	несколько	НЕСКОЛЬКО	ADV	ADV -	ADV -	8	огранич	_	_
+8	ослабили	ОСЛАБЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+9	изрядный	ИЗРЯДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	15	опред	_	_
+10	(	(	_	_	PUNC	11	PUNC	_	_
+11	что	ЧТО	CONJ	CONJ	CONJ	9	примыкат	_	_
+12	уж	УЖ	PART	PART	PART	13	огранич	_	_
+13	скрывать	СКРЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	подч-союзн	_	_
+14	)	)	_	_	PUNC	13	PUNC	_	_
+15	эффект	ЭФФЕКТ	S	S m inan nom sg	S m inan nom sg	8	предик	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	произведенный	ПРОИЗВОДИТЬ	PARTCP	PARTCP pf praet acc sg plen m pass inan	PARTCP pf praet acc sg plen m pass inan	15	опред	_	_
+18	на	НА	PR	PR	PR	17	2-компл	_	_
+19	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	18	предл	_	_
+20	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	22	атриб	_	_
+21	немногословным	НЕМНОГОСЛОВНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	22	опред	_	_
+22	спутником	СПУТНИК	S	S m anim ins sg	S m anim ins sg	17	агент	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	однако	ОДНАКО	CONJ	CONJ	CONJ	8	сент-соч	_	_
+25	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	29	обст	_	_
+26	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	29	предик	_	_
+27	вновь	ВНОВЬ	ADV	ADV -	ADV -	29	обст	_	_
+28	им	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	29	1-компл	_	_
+29	залюбовалась	ЗАЛЮБОВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	24	соч-союзн	_	_
+30	.	.	SENT	SENT	SENT	29	PUNC	_	_
+
+1	Дипломат	ДИПЛОМАТ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	отправившийся	ОТПРАВЛЯТЬСЯ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	1	опред	_	_
+4	добровольцем	ДОБРОВОЛЕЦ	S	S m anim ins sg	S m anim ins sg	3	2-компл	_	_
+5	на	НА	PR	PR	PR	3	1-компл	_	_
+6	войну	ВОЙНА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	3	2-компл	_	_
+9	–	–	–	–	PUNC	10	пролепт	_	_
+10	это	ЭТО	S	S n - nom sg	S n - nom sg	3	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	согласитесь	СОГЛАШАТЬСЯ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	0	ROOT	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	нечасто	НЕЧАСТО	ADV	ADV -	ADV -	15	обст	_	_
+15	бывает	БЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	12	сент-соч	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Нет	НЕТ	PART	PART	PART	7	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	определенно	ОПРЕДЕЛЕННО	ADV	ADV -	ADV -	7	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+6	трое	ТРОЕ	NUM	NUM nom - -	NUM nom - -	7	предик	_	_
+7	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+8	замечательно	ЗАМЕЧАТЕЛЬНО	ADV	ADV -	ADV -	9	огранич	_	_
+9	хороши	ХОРОШИЙ	A	A - - pl brev - -	A - - pl brev - -	7	присвяз	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	каждый	КАЖДЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	предик	_	_
+12	по-своему	ПО-СВОЕМУ	ADV	ADV -	ADV -	13	обст	_	_
+13	:	:	:	:	PUNC	9	разъяснит	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	Фандорин	ФАНДОРИНА	S	S f inan gen pl	S f inan gen pl	14	соч-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	и	И	CONJ	CONJ	CONJ	13	сент-соч	_	_
+18	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	17	соч-союзн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+21	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	20	соч-союзн	_	_
+22	'	'	_	_	PUNC	21	PUNC	_	_
+23	Эвре	ЭВР	S	S m anim nom sg	S m anim nom sg	18	аппоз	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+

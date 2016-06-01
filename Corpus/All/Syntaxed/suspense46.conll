@@ -1,0 +1,38 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	тут	ТУТ	ADV	ADV -	ADV -	12	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	под	ПОД	PR	PR	PR	12	обст	_	_
+5	давлением	ДАВЛЕНИЕ	S	S n inan ins sg	S n inan ins sg	4	предл	_	_
+6	секретаря	СЕКРЕТАРЬ	S	S m anim gen sg	S m anim gen sg	5	квазиагент	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	директора	ДИРЕКТОР	S	S m anim gen sg	S m anim gen sg	7	соч-союзн	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	истопник	ИСТОПНИК	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+11	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	12	обст	_	_
+12	произнёс	ПРОИЗНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+13	искомое	ИСКОМЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	14	опред	_	_
+14	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	12	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	3	опред	_	_
+3	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	7	предик	_	_
+4	в	В	PR	PR	PR	7	обст	_	_
+5	устах	УСТА	S	S - inan loc pl	S - inan loc pl	4	предл	_	_
+6	истопника	ИСТОПНИК	S	S m inan gen sg	S m inan gen sg	5	1-компл	_	_
+7	звучало	ЗВУЧАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	подч-союзн	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	так	ТАК	ADV	ADV -	ADV -	12	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	как	КАК	ADV	ADV -	ADV -	12	обст	_	_
+12	ожидалось	ОЖИДАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	7	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	7	неакт-компл	_	_
+15	вроде	ВРОДЕ	PART	PART	PART	16	огранич	_	_
+16	—	—	—	—	PUNC	7	1-компл	_	_
+17	«	«	_	_	PUNC	16	PUNC	_	_
+18	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	19	количест	_	_
+19	кочерыжек	КОЧЕРЫЖКА	S	S f inan gen pl	S f inan gen pl	7	длительн	_	_
+20	»	»	_	_	PUNC	19	PUNC	_	_
+21	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

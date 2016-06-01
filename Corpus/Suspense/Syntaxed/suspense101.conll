@@ -1,0 +1,13 @@
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	2	предик	_	_
+2	поглядела	ПОГЛЯДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	2-компл	_	_
+4	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	щеки	ЩЕКА	S	S f inan gen sg	S f inan gen sg	9	предик	_	_
+8	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+9	замело	ЗАМЕТАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	6	соч-союзн	_	_
+10	розовой	РОЗОВЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	11	опред	_	_
+11	краской	КРАСКА	S	S f inan ins sg	S f inan ins sg	9	2-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

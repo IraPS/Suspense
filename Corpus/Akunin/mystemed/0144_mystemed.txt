@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"Что"}
+{"analysis":[{"lex":"за","gr":"PR="}],"text":"за"}
+{"analysis":[{"lex":"сообщение","gr":"S,n,inan=acc,sg"},{"lex":"сообщение","gr":"S,n,inan=nom,sg"}],"text":"сообщение"}
+{"analysis":[{"lex":"нахмуриваться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"нахмурился"}
+{"analysis":[{"lex":"соболев","gr":"S,famn,m,anim=nom,sg"}],"text":"Соболев"}

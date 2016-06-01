@@ -1,0 +1,43 @@
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	смешно	СМЕШНО	ADV	ADV -	ADV -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	господа	ГОСПОДЬ	S	S m anim gen sg	S m anim gen sg	2	вводн	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Нужно	НУЖНО	ADV	ADV -	ADV -	2	обст	_	_
+2	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	1-компл	_	_
+3	страусом	СТРАУС	S	S m anim ins sg	S m anim ins sg	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	2	обст	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	видеть	ВИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	инф-союзн	_	_
+8	нависшую	НАВИСАТЬ	PARTCP	PARTCP pf praet acc sg plen f act -	PARTCP pf praet acc sg plen f act -	13	опред	_	_
+9	над	НАД	PR	PR	PR	8	обст	_	_
+10	всей	ВЕСЬ	A	A - gen sg plen f -	A - gen sg plen f -	12	опред	_	_
+11	просвещенной	ПРОСВЕЩЕННЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	12	опред	_	_
+12	Европой	ЕВРОПА	S	S f inan ins sg	S f inan ins sg	9	предл	_	_
+13	опасность	ОПАСНОСТЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Промедление	ПРОМЕДЛЕНИЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+2	подобно	ПОДОБНО	PR	PR	PR	1	атриб	_	_
+3	смерти	СМЕРТЬ	S	S f inan gen sg	S f inan gen sg	2	предл	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	3	предик	_	_
+3	будем	БЫТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	1	подч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	сложа	СЛОЖЕ	S	S n inan acc pl	S n inan acc pl	3	сочин	_	_
+6	руки	РУКА	S	S f inan acc pl	S f inan acc pl	5	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	сидеть	СИДЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	аналит	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	смотреть	СМОТРЕТЬ	V	V ipf - - inf - -	V ipf - - inf - -	9	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	как	КАК	CONJ	CONJ	CONJ	10	1-компл	_	_
+13	скифские	СКИФСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	14	опред	_	_
+14	орды	ОРДА	S	S f inan nom pl	S f inan nom pl	15	предик	_	_
+15	…	…	…	…	PUNC	12	подч-союзн	_	_
+16	»	»	SENT	SENT	SENT	15	PUNC	_	_
+

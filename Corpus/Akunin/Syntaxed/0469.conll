@@ -1,0 +1,28 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+2	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	4	суб-копр	_	_
+3	это	ЭТО	S	S n - acc sg	S n - acc sg	4	предик	_	_
+4	пересказывала	ПЕРЕСКАЗЫВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	21	обст	_	_
+5	Эрасту	ЭРАСТ	S	S m anim dat sg	S m anim dat sg	4	2-компл	_	_
+6	Петровичу	ПЕТРОВИЧ	S	S m anim dat sg	S m anim dat sg	5	аппоз	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+9	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	10	предик	_	_
+10	молчал	МОЛЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	соч-союзн	_	_
+11	–	–	–	–	PUNC	10	1-компл	_	_
+12	то	ТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+13	ли	ЛИ	PART	PART	PART	12	огранич	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+15	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	17	суб-копр	_	_
+16	все	ВСЕ	S	S - - acc pl	S - - acc pl	17	1-компл	_	_
+17	знал	ЗНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	14	соч-союзн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	то	ТО	CONJ	CONJ	CONJ	4	соотнос	_	_
+20	ли	ЛИ	PART	PART	PART	19	огранич	_	_
+21	пребывал	ПРЕБЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+22	в	В	PR	PR	PR	21	1-компл	_	_
+23	потрясении	ПОТРЯСЕНИЕ	S	S n inan loc sg	S n inan loc sg	22	предл	_	_
+24	–	–	–	–	PUNC	26	1-компл	_	_
+25	не	НЕ	PART	PART	PART	26	огранич	_	_
+26	поймешь	ПОНИМАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	21	сент-соч	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

@@ -1,0 +1,105 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Вряд ли	Вряд ли	ADV	ADV -	-	1	обст	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Почему	ПОЧЕМУ	ADV	ADV -	ADV -	1	обст	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	изумилась	ИЗУМЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	предик	_	_
+2	Слишком	СЛИШКОМ	ADV	ADV -	ADV -	3	огранич	_	_
+3	много	МНОГО	ADV	ADV -	ADV -	0	ROOT	_	_
+4	чести	ЧЕСТЬ	S	S f inan gen sg	S f inan gen sg	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	3	обст	_	_
+7	–	–	–	–	PUNC	9	1-компл	_	_
+8	задумчиво	ЗАДУМЧИВО	ADV	ADV -	ADV -	9	обст	_	_
+9	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	1-компл	_	_
+10	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	опред	_	_
+2	Еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	г	Г	S	S m inan nonflex nonflex	S m inan nonflex nonflex	0	ROOT	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	генералов	ГЕНЕРАЛ	S	S m anim gen pl	S m anim gen pl	8	предик	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	всех	ВСЕ	S	S - - acc pl	S - - acc pl	8	1-компл	_	_
+8	наградили	НАГРАЖДАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	3	сент-соч	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	а	А	CONJ	CONJ	CONJ	8	сент-соч	_	_
+11	наш	НАШ	A	A - nom sg plen m -	A - nom sg plen m -	12	опред	_	_
+12	номер	НОМЕР	S	S m inan nom sg	S m inan nom sg	13	предик	_	_
+13	шестнадцатый	ШЕСТНАДЦАТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	соч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	адр-присв	_	_
+2	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	ведь	ВЕДЬ	PART	PART	PART	4	огранич	_	_
+4	если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+5	бы	БЫ	PART	PART	PART	0	ROOT	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	0	ROOT	_	_
+8	с	С	PR	PR	PR	7	атриб	_	_
+9	вами	ВЫ	SPRO	SPRO pl 2p - ins	SPRO pl 2p - ins	8	предл	_	_
+10	…	…	SENT	SENT	SENT	9	PUNC	_	_
+
+1	То есть	То есть	ADV	ADV -	-	4	обст	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	4	предик	_	_
+4	хочу	ХОТЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+5	сказать	СКАЗАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	если	ЕСЛИ	CONJ	CONJ	CONJ	5	обст	_	_
+8	бы	БЫ	PART	PART	PART	10	аналит	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	7	подч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	паша	ПАША	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+15	непременно	НЕПРЕМЕННО	ADV	ADV -	ADV -	17	обст	_	_
+16	бы	БЫ	PART	PART	PART	15	вспом	_	_
+17	прорвался	ПРОРВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	1-компл	_	_
+18	!	!	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Представляете	ПРЕДСТАВЛЯТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	6	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	S	S n inan acc sg	S n inan acc sg	6	предик	_	_
+4	бы	БЫ	PART	PART	PART	3	огранич	_	_
+5	тогда	ТОГДА	ADV	ADV -	ADV -	6	обст	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	2-компл	_	_
+2	П	П	S	S - - nonflex nonflex	S - - nonflex nonflex	4	1-компл	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	представляю	ПРЕДСТАВЛЯТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	после	ПОСЛЕ	PR	PR	PR	0	ROOT	_	_
+3	победы	ПОБЕДА	S	S f inan gen sg	S f inan gen sg	2	предл	_	_
+4	о	О	PR	PR	PR	3	1-компл	_	_
+5	таком	ТАКОЙ	A	A - loc sg plen m -	A - loc sg plen m -	8	1-компл	_	_
+6	обычно	ОБЫЧНО	ADV	ADV -	ADV -	8	обст	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	думают	ДУМАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	4	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Нет	НЕТ	PART	PART	PART	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	здесь	ЗДЕСЬ	ADV	ADV -	ADV -	4	обст	_	_
+4	пахнет	ПАХНУТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	политикой	ПОЛИТИКА	S	S f inan ins sg	S f inan ins sg	4	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	уж	УЖ	PART	PART	PART	8	огранич	_	_
+8	поверьте	ПОВЕРЯТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	4	разъяснит	_	_
+9	опыту	ОПЫТ	S	S m inan dat sg	S m inan dat sg	8	1-компл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

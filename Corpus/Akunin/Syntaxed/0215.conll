@@ -1,0 +1,96 @@
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вернемся	ВЕРНУТЬСЯ	V	V pf fut pl indic - 1p	V pf fut pl indic - 1p	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	2-компл	_	_
+4	Мураду	МУРАД	S	S m anim dat sg	S m anim dat sg	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	красивый	КРАСИВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	присвяз	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	неглупый	НЕГЛУПЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	сочин	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	даже	ДАЖЕ	PART	PART	PART	8	огранич	_	_
+8	весьма	ВЕСЬМА	ADV	ADV -	ADV -	9	огранич	_	_
+9	начитанный	НАЧИТАННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	соч-союзн	_	_
+10	молодец	МОЛОДЕЦ	S	S m anim nom sg	S m anim nom sg	2	сент-соч	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	однако	ОДНАКО	CONJ	CONJ	CONJ	2	вводн	_	_
+13	склонный	СКЛОННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+14	к	К	PR	PR	PR	13	1-компл	_	_
+15	чрезмерным	ЧРЕЗМЕРНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	16	опред	_	_
+16	возлияниям	ВОЗЛИЯНИЕ	S	S n inan ins sg	S n inan ins sg	14	предл	_	_
+17	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+18	одержимый	ОДЕРЖИМЫЙ	S	S m anim nom sg	S m anim nom sg	17	соч-союзн	_	_
+19	вполне	ВПОЛНЕ	ADV	ADV -	ADV -	20	огранич	_	_
+20	оправданной	ОПРАВДАННЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	21	опред	_	_
+21	манией	МАНИЯ	S	S f inan ins sg	S f inan ins sg	18	1-компл	_	_
+22	преследования	ПРЕСЛЕДОВАНИЕ	S	S n inan gen sg	S n inan gen sg	21	квазиагент	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+2	с	С	PR	PR	PR	4	обст	_	_
+3	радостью	РАДОСТЬ	S	S f inan ins sg	S f inan ins sg	2	предл	_	_
+4	вверил	ВВЕРЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	мудрому	МУДРЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	6	опред	_	_
+6	Мидхату	МИДХАТ	S	S m anim dat sg	S m anim dat sg	4	2-компл	_	_
+7	бразды	БРАЗДЫ	S	S f inan acc pl	S f inan acc pl	4	1-компл	_	_
+8	правления	ПРАВЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	7	квазиагент	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	так что	так что	CONJ	CONJ	ZERO	4	сент-соч	_	_
+11	все	ВСЕ	S	S - - acc pl	S - - acc pl	15	предик	_	_
+12	у	У	PR	PR	PR	15	обст	_	_
+13	наших	НАШ	A	A - gen pl plen - -	A - gen pl plen - -	14	опред	_	_
+14	хитрецов	ХИТРЕЦ	S	S f inan gen pl	S f inan gen pl	12	предл	_	_
+15	шло	ИДТИ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	10	соч-союзн	_	_
+16	по	ПО	PR	PR	PR	15	обст	_	_
+17	плану	ПЛАН	S	S m inan dat sg	S m inan dat sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	внезапный	ВНЕЗАПНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	взлет	ВЗЛЕТ	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	удивительная	УДИВИТЕЛЬНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	смерть	СМЕРТЬ	S	S f inan nom sg	S f inan nom sg	4	соч-союзн	_	_
+7	дяди	ДЯДЯ	S	S m anim gen sg	S m anim gen sg	6	квазиагент	_	_
+8	так	ТАК	ADV	ADV -	ADV -	9	обст	_	_
+9	подействовали	ПОДЕЙСТВОВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	соч-союзн	_	_
+10	на	НА	PR	PR	PR	9	2-компл	_	_
+11	бедного	БЕДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	Мурада	МУРАД	S	S m anim acc sg	S m anim acc sg	10	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	что	ЧТО	CONJ	CONJ	CONJ	9	1-компл	_	_
+15	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	16	предик	_	_
+16	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	подч-союзн	_	_
+17	заговариваться	ЗАГОВАРИВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	16	1-компл	_	_
+18	и	И	CONJ	CONJ	CONJ	17	сочин	_	_
+19	впадать	ВПАДАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	18	соч-союзн	_	_
+20	в	В	PR	PR	PR	19	2-компл	_	_
+21	буйство	БУЙСТВО	S	S n inan acc sg	S n inan acc sg	20	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Европейские	ЕВРОПЕЙСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	психиатры	ПСИХИАТР	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	тайно	ТАЙНО	ADV	ADV -	ADV -	5	обст	_	_
+5	посетившие	ПОСЕЩАТЬ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	2	опред	_	_
+6	падишаха	ПАДИШАХ	S	S m anim gen sg	S m anim gen sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	пришли	ПРИХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+9	к	К	PR	PR	PR	8	2-компл	_	_
+10	заключению	ЗАКЛЮЧЕНИЕ	S	S n inan dat sg	S n inan dat sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	10	эксплет	_	_
+13	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	14	предик	_	_
+14	неизлечим	НЕИЗЛЕЧИМЫЙ	A	A - - sg brev m -	A - - sg brev m -	12	подч-союзн	_	_
+15	и	И	CONJ	CONJ	CONJ	16	соотнос	_	_
+16	в	В	PR	PR	PR	14	1-компл	_	_
+17	дальнейшем	ДАЛЬНЕЙШИЙ	A	A - loc sg plen n -	A - loc sg plen n -	16	предл	_	_
+18	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	19	квазиагент	_	_
+19	состояние	СОСТОЯНИЕ	S	S n inan nom sg	S n inan nom sg	20	предик	_	_
+20	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	8	сент-соч	_	_
+21	только	ТОЛЬКО	PART	PART	PART	22	огранич	_	_
+22	ухудшаться	УХУДШАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	20	аналит	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

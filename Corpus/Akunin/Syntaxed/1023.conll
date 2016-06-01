@@ -1,0 +1,47 @@
+1	С	С	PR	PR	PR	6	обст	_	_
+2	Петей	ПЕТЯ	S	S m anim ins sg	S m anim ins sg	1	предл	_	_
+3	титулярный	ТИТУЛЯРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	советник	СОВЕТНИК	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+5	уже	УЖЕ	ADV	ADV -	ADV -	6	огранич	_	_
+6	попрощался	ПОПРОЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+9	вчерашний	ВЧЕРАШНИЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	предик	_	_
+10	подследственный	ПОДСЛЕДСТВЕННЫЙ	A	A comp2 - - plen - -	A comp2 - - plen - -	8	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	а	А	CONJ	CONJ	CONJ	10	сочин	_	_
+13	ныне	НЫНЕ	ADV	ADV -	ADV -	18	обст	_	_
+14	вольный	ВОЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	15	опред	_	_
+15	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	18	предик	_	_
+16	Петр	ПЕТР	S	S m anim nom sg	S m anim nom sg	15	аппоз	_	_
+17	Яблоков	ЯБЛОКОВ	S	S m anim nom sg	S m anim nom sg	16	аппоз	_	_
+18	поднялся	ПОДНИМАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	соч-союзн	_	_
+19	в	В	PR	PR	PR	18	2-компл	_	_
+20	вагон	ВАГОН	S	S m inan acc sg	S m inan acc sg	19	предл	_	_
+21	–	–	–	–	PUNC	18	1-компл	_	_
+22	осваивать	ОСВАИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	18	обст	_	_
+23	купе	КУПЕ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	22	1-компл	_	_
+24	и	И	CONJ	CONJ	CONJ	22	сочин	_	_
+25	раскладывать	РАСКЛАДЫВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	24	соч-союзн	_	_
+26	вещи	ВЕЩЬ	S	S f inan acc pl	S f inan acc pl	25	1-компл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	6	вводн	_	_
+2	случаю	СЛУЧАЙ	S	S m inan dat sg	S m inan dat sg	1	предл	_	_
+3	победоносного	ПОБЕДОНОСНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	4	опред	_	_
+4	окончания	ОКОНЧАНИЕ	S	S n inan gen sg	S n inan gen sg	2	квазиагент	_	_
+5	войны	ВОЙНА	S	S f inan gen sg	S f inan gen sg	4	1-компл	_	_
+6	вышли	ВЫХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+7	Пете	ПЕТЯ	S	S m anim dat sg	S m anim dat sg	6	2-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+9	полное	ПОЛНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	10	опред	_	_
+10	помилование	ПОМИЛОВАНИЕ	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+13	даже	ДАЖЕ	PART	PART	PART	14	огранич	_	_
+14	медаль	МЕДАЛЬ	S	S f inan nom sg	S f inan nom sg	12	соч-союзн	_	_
+15	за	ЗА	PR	PR	PR	14	атриб	_	_
+16	ревностную	РЕВНОСТНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	17	опред	_	_
+17	службу	СЛУЖБА	S	S f inan acc sg	S f inan acc sg	15	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

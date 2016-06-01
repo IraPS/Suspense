@@ -1,0 +1,52 @@
+1	–	–	–	–	PUNC	3	предик	_	_
+2	Теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	3	обст	_	_
+3	история	ИСТОРИЯ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+4	с	С	PR	PR	PR	3	атриб	_	_
+5	Маклафлином	МАКЛАФЛИН	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+7	несостоявшимся	НЕСОСТОЯВШИЙСЯ	A	A - ins sg plen m -	A - ins sg plen m -	8	опред	_	_
+8	прорывом	ПРОРЫВ	S	S m inan ins sg	S m inan ins sg	6	соч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+2	все	ВСЕ	S	S n - nom sg	S n - nom sg	3	предик	_	_
+3	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	просто	ПРОСТО	ADV	ADV -	ADV -	3	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	никакого	НИКАКОЙ	A	A - gen sg plen n -	A - gen sg plen n -	7	опред	_	_
+7	риска	РИСК	S	S m inan gen sg	S m inan gen sg	3	предик	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Подбросить	ПОДБРАСЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	10	предик	_	_
+2	доверчивому	ДОВЕРЧИВЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	3	опред	_	_
+3	Шеймасу	ШЕЙМАС	S	S m anim dat sg	S m anim dat sg	1	2-компл	_	_
+4	«	«	_	_	PUNC	3	PUNC	_	_
+5	сенсационную	СЕНСАЦИОННЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	1	3-компл	_	_
+6	»	»	_	_	PUNC	5	PUNC	_	_
+7	весть	ВЕСТЬ	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+8	труда	ТРУД	S	S m inan gen sg	S m inan gen sg	7	квазиагент	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	составило	СОСТАВЛЯТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Информатор	ИНФОРМАТОР	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	8	1-компл	_	_
+4	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	8	предик	_	_
+5	так	ТАК	ADV	ADV -	ADV -	8	обст	_	_
+6	от	ОТ	PR	PR	PR	5	1-компл	_	_
+7	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	6	предл	_	_
+8	скрывал	СКРЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	которым	КОТОРЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	12	1-компл	_	_
+11	так	ТАК	ADV	ADV -	ADV -	12	обст	_	_
+12	гордился	ГОРДИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	9	соч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	наверняка	НАВЕРНЯКА	ADV	ADV -	ADV -	15	обст	_	_
+15	работал	РАБОТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	сочин	_	_
+16	на	НА	PR	PR	PR	15	1-компл	_	_
+17	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	15	2-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+

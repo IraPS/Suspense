@@ -1,0 +1,96 @@
+1	–	–	–	–	PUNC	6	предл	_	_
+2	Ни	НИ	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	среди	СРЕДИ	PR	PR	PR	2	сравн-союзн	_	_
+4	пленных	ПЛЕННЫЙ	S	S m anim gen pl	S m anim gen pl	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	ни	НИ	CONJ	CONJ	CONJ	7	соотнос	_	_
+7	среди	СРЕДИ	PR	PR	PR	20	обст	_	_
+8	убитых	УБИТЫЙ	S	S m anim gen pl	S m anim gen pl	7	предл	_	_
+9	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	к	К	PR	PR	PR	15	2-компл	_	_
+12	сожалению	СОЖАЛЕНИЕ	S	S n inan dat sg	S n inan dat sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	обнаружен	ОБНАРУЖИВАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	9	релят	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	 	 	 	 	PUNC	20	предик	_	_
+18	–	–	–	–	PUNC	20	1-компл	_	_
+19	тоже	ТОЖЕ	PART	PART	PART	20	огранич	_	_
+20	вздохнул	ВЗДЫХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	но	НО	CONJ	CONJ	CONJ	20	сент-соч	_	_
+23	в	В	PR	PR	PR	26	обст	_	_
+24	другой	ДРУГОЙ	A	A - gen sg plen f -	A - gen sg plen f -	25	опред	_	_
+25	тональности	ТОНАЛЬНОСТЬ	S	S f inan gen sg	S f inan gen sg	23	предл	_	_
+26	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	22	соч-союзн	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Сумел	СУМЕТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	уйти	УХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Уж	УЖ	PART	PART	PART	3	огранич	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	ведаю	ВЕДАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	каким	КАКОЙ	A	A - ins sg plen m -	A - ins sg plen m -	6	опред	_	_
+6	образом	ОБРАЗ	S	S m inan ins sg	S m inan ins sg	3	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Ловок	ЛОВКИЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	змей	ЗМЕЯ	S	S f anim gen pl	S f anim gen pl	1	1-компл	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Нет	НЕТ	PART	PART	PART	2	огранич	_	_
+2	среди	СРЕДИ	PR	PR	PR	0	ROOT	_	_
+3	пленных	ПЛЕННЫЙ	S	S m anim gen pl	S m anim gen pl	2	предл	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	4	соч-союзн	_	_
+6	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	8	композ	_	_
+7	-	-	-	-	PUNC	6	PUNC	_	_
+8	паши	ПАША	S	S m inan gen sg	S m inan gen sg	5	1-компл	_	_
+9	пресловутого	ПРЕСЛОВУТЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	10	опред	_	_
+10	Али	АЛИ	CONJ	CONJ	CONJ	2	сент-соч	_	_
+11	-	-	-	-	PUNC	10	PUNC	_	_
+12	бея	БЕЙ	S	S f inan nom sg	S f inan nom sg	10	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Того	ТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	3	опред	_	_
+2	самого	САМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+3	бородача	БОРОДАЧ	S	S m anim gen sg	S m anim gen sg	6	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	предик	_	_
+6	сорвал	СОРВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	нам	МЫ	SPRO	SPRO pl 1p - dat	SPRO pl 1p - dat	6	2-компл	_	_
+8	первый	ПЕРВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	штурм	ШТУРМ	S	S m inan acc sg	S m inan acc sg	6	1-компл	_	_
+10	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+11	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	17	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	как	КАК	CONJ	CONJ	CONJ	17	вводн	_	_
+14	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	15	предик	_	_
+15	предполагаем	ПРЕДПОЛАГАТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	13	сравн-союзн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	является	ЯВЛЯТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	соч-союзн	_	_
+18	alter	ALTER	NONLEX	NONLEX	NONLEX	17	1-компл	_	_
+19	ego	EGO	NONLEX	NONLEX	NONLEX	18	аппоз	_	_
+20	самого	САМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	21	опред	_	_
+21	Анвара	АНВАР	S	S m anim acc sg	S m anim acc sg	17	сочин	_	_
+22	-	-	-	-	PUNC	21	PUNC	_	_
+23	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	21	сочин	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	О	О	PR	PR	PR	9	3-компл	_	_
+2	сем	СИЕ	S	S n - loc sg	S n - loc sg	5	2-компл	_	_
+3	последнем	ПОСЛЕДНИЙ	A	A - loc sg plen m -	A - loc sg plen m -	5	обст	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	представлял	ПРЕДСТАВЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	предл	_	_
+6	вашему	ВАШ	A	A - dat sg plen m -	A - dat sg plen m -	7	опред	_	_
+7	величеству	ВЕЛИЧЕСТВО	S	S n inan dat sg	S n inan dat sg	5	1-компл	_	_
+8	докладную	ДОКЛАДНОЙ	A	A - acc sg plen f -	A - acc sg plen f -	9	опред	_	_
+9	записку	ЗАПИСКА	S	S f inan acc sg	S f inan acc sg	0	ROOT	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

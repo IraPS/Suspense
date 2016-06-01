@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"отдуться","qual":"bastard","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"Отдулся"}
+{"text":"\\s"}
+{"analysis":[{"lex":"тяжело","gr":"ADV="}],"text":"Тяжело"}
+{"analysis":[{"lex":"посмотреть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"посмотрел"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"культя","gr":"S,f,inan=acc,sg"}],"text":"культю"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"восковой","gr":"A=acc,sg,plen,n"},{"lex":"восковой","gr":"A=nom,sg,plen,n"}],"text":"восковое"}
+{"analysis":[{"lex":"лицо","gr":"S,n,inan=acc,sg"},{"lex":"лицо","gr":"S,n,inan=nom,sg"}],"text":"лицо"}
+{"text":"\\s"}
+{"analysis":[{"lex":"спрашивать","gr":"V=praet,sg,indic,m,pf"}],"text":"Спросил"}
+{"analysis":[{"lex":"живой","gr":"A=sg,brev,f"}],"text":"Жива"}

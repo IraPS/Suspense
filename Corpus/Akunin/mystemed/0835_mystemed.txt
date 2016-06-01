@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"мизин","qual":"bastard","gr":"S,m,inan=gen,pl"}],"text":"Мизинов"}
+{"analysis":[{"lex":"оглянуться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"оглянулся"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"шептун","gr":"S,m,anim=acc,pl"},{"lex":"шептун","gr":"S,m,anim=gen,pl"}],"text":"шептунов"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"грозно","gr":"ADV="}],"text":"грозно"}
+{"analysis":[{"lex":"двинуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"двинул"}
+{"analysis":[{"lex":"бровь","gr":"S,f,inan=ins,pl"}],"text":"бровями"}

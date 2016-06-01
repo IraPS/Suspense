@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"господин","gr":"S,m,anim=nom,sg"}],"text":"Господин"}
+{"analysis":[{"lex":"кэзанзак","qual":"bastard","gr":"S,m,anim=nom,pl"}],"text":"Кэзанзаки"}
+{"analysis":[{"lex":"где","gr":"ADVPRO="}],"text":"где"}
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"д"}
+{"analysis":[{"lex":"эвр","qual":"bastard","gr":"S,m,inan=abl,sg"}],"text":"Эвре"}
+{"analysis":[{"lex":"обертываться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"обернулся"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"входить","gr":"V,intr=praet,dat,sg,partcp,plen,m,pf,act"},{"lex":"входить","gr":"V,intr=praet,dat,sg,partcp,plen,n,pf,act"}],"text":"вошедшему"}
+{"analysis":[{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"},{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Маклафлин"}

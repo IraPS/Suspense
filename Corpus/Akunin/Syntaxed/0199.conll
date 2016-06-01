@@ -1,0 +1,48 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	все	ВСЕ	S	S - - acc pl	S - - acc pl	3	опред	_	_
+3	дело	ДЕЛО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+4	в	В	PR	PR	PR	1	соч-союзн	_	_
+5	том	ТО	S	S n - loc sg	S n - loc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	эксплет	_	_
+8	в	В	PR	PR	PR	10	огранич	_	_
+9	мае	МАЙ	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+10	в	В	PR	PR	PR	18	обст	_	_
+11	столицу	СТОЛИЦА	S	S f inan acc sg	S f inan acc sg	10	предл	_	_
+12	великого	ВЕЛИКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	15	опред	_	_
+13	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+14	несравненного	НЕСРАВНЕННЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	13	соч-союзн	_	_
+15	султана	СУЛТАН	S	S m inan gen sg	S m inan gen sg	11	квазиагент	_	_
+16	Абдул	АБДУЛ	S	S m anim gen sg	S m anim gen sg	15	квазиагент	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	Азиса	АЗИСА	S	S f anim nom sg	S f anim nom sg	7	подч-союзн	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	Тени	ТЕНЬ	S	S f inan nom pl	S f inan nom pl	18	сочин	_	_
+21	Всевышнего	ВСЕВЫШНИЙ	S	S m anim gen sg	S m anim gen sg	20	квазиагент	_	_
+22	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+23	Хранителя	ХРАНИТЕЛЬ	S	S f inan nom sg	S f inan nom sg	22	соч-союзн	_	_
+24	Веры	ВЕРА	S	S f anim gen sg	S f anim gen sg	23	квазиагент	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	триумфально	ТРИУМФАЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	4	разъяснит	_	_
+27	вернулся	ВЕРНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	26	предик	_	_
+28	из	ИЗ	PR	PR	PR	27	2-компл	_	_
+29	ссылки	ССЫЛКА	S	S f inan gen sg	S f inan gen sg	28	предл	_	_
+30	Мидхат	МИДХАТ	S	S m anim nom sg	S m anim nom sg	27	предик	_	_
+31	-	-	-	-	PUNC	30	PUNC	_	_
+32	паша	ПАША	S	S m anim nom sg	S m anim nom sg	30	аппоз	_	_
+33	и	И	CONJ	CONJ	CONJ	27	сочин	_	_
+34	привез	ПРИВОЗИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	33	соч-союзн	_	_
+35	с	С	PR	PR	PR	34	2-компл	_	_
+36	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	35	предл	_	_
+37	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	40	опред	_	_
+38	«	«	_	_	PUNC	37	PUNC	_	_
+39	серого	СЕРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	40	опред	_	_
+40	кардинала	КАРДИНАЛ	S	S m anim gen sg	S m anim gen sg	34	1-компл	_	_
+41	»	»	_	_	PUNC	40	PUNC	_	_
+42	,	,	,	,	PUNC	40	PUNC	_	_
+43	хитроумного	ХИТРОУМНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	44	опред	_	_
+44	Анвара	АНВАР	S	S m anim acc sg	S m anim acc sg	34	сочин	_	_
+45	-	-	-	-	PUNC	44	PUNC	_	_
+46	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	44	сочин	_	_
+47	.	.	SENT	SENT	SENT	46	PUNC	_	_
+

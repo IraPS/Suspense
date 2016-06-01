@@ -1,0 +1,32 @@
+1	С	С	PR	PR	PR	6	обст	_	_
+2	другой	ДРУГОЙ	A	A - gen sg plen f -	A - gen sg plen f -	3	опред	_	_
+3	стороны	СТОРОНА	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+4	(	(	_	_	PUNC	5	PUNC	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+6	стыдилась	СТЫДИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+7	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	6	1-компл	_	_
+8	в	В	PR	PR	PR	10	обст	_	_
+9	этом	ЭТО	S	S n - loc sg	S n - loc sg	8	предл	_	_
+10	признаться	ПРИЗНАВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	6	примыкат	_	_
+11	)	)	_	_	PUNC	10	PUNC	_	_
+12	,	,	,	,	PUNC	10	PUNC	_	_
+13	никогда	НИКОГДА	ADV	ADV -	ADV -	17	обст	_	_
+14	еще	ЕЩЕ	ADV	ADV -	ADV -	17	огранич	_	_
+15	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	17	1-компл	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	жилось	ЖИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	6	сент-соч	_	_
+18	настолько	НАСТОЛЬКО	ADV	ADV -	ADV -	19	огранич	_	_
+19	…	…	…	…	PUNC	17	предик	_	_
+20	интересно	ИНТЕРЕСНО	ADV	ADV -	ADV -	19	обст	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	2	огранич	_	_
+2	именно	ИМЕННО	PART	PART	PART	3	огранич	_	_
+3	:	:	:	:	PUNC	4	1-компл	_	_
+4	интересно	ИНТЕРЕСНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	самое	САМЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	7	опред	_	_
+7	точное	ТОЧНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	8	опред	_	_
+8	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	4	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

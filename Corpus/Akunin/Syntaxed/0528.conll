@@ -1,0 +1,11 @@
+1	Лукан	ЛУКАН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	4	огранич	_	_
+4	по-румынски	ПО-РУМЫНСКИ	ADV	ADV -	ADV -	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	зрители	ЗРИТЕЛЬ	S	S m anim nom pl	S m anim nom pl	9	предик	_	_
+8	понимающе	ПОНИМАЮЩЕ	ADV	ADV -	ADV -	9	обст	_	_
+9	засмеялись	ЗАСМЕЯТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	соч-союзн	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

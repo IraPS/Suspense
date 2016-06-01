@@ -1,0 +1,91 @@
+1	Характерно	ХАРАКТЕРНО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	эксплет	_	_
+4	в	В	PR	PR	PR	6	огранич	_	_
+5	Турции	ТУРЦИЯ	S	S f inan loc sg	S f inan loc sg	4	предл	_	_
+6	про	ПРО	PR	PR	PR	13	1-компл	_	_
+7	Анвара	АНВАР	S	S m anim acc sg	S m anim acc sg	6	предл	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	7	опред	_	_
+10	почти	ПОЧТИ	ADV	ADV -	ADV -	11	огранич	_	_
+11	никто	НИКТО	S	S m - nom sg	S m - nom sg	13	предик	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	знает	ЗНАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	подч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	лезет	ЛЕЗТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	вперед	ВПЕРЕД	ADV	ADV -	ADV -	3	2-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	на	НА	PR	PR	PR	3	1-компл	_	_
+7	людях	ЧЕЛОВЕК	S	S m anim loc pl	S m anim loc pl	6	предл	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	показывается	ПОКАЗЫВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	сочин	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	например	НАПРИМЕР	ADV	ADV -	ADV -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	видел	ВИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	5	1-компл	_	_
+7	всего	ВСЕГО	PART	PART	PART	8	огранич	_	_
+8	однажды	ОДНАЖДЫ	ADV	ADV -	ADV -	5	обст	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	когда	КОГДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+11	представлялся	ПРЕДСТАВЛЯТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	подч-союзн	_	_
+12	новому	НОВЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	13	опред	_	_
+13	падишаху	ПАДИШАХ	S	S m anim dat sg	S m anim dat sg	11	2-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	сидел	СИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	сбоку	СБОКУ	ADV	ADV -	ADV -	2	обст	_	_
+4	от	ОТ	PR	PR	PR	3	1-компл	_	_
+5	трона	ТРОН	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	в	В	PR	PR	PR	2	обст	_	_
+8	тени	ТЕНЬ	S	S f inan loc2 sg	S f inan loc2 sg	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	с	С	PR	PR	PR	2	1-компл	_	_
+11	огромной	ОГРОМНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	13	опред	_	_
+12	черной	ЧЕРНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	13	опред	_	_
+13	бородой	БОРОДА	S	S f inan ins sg	S f inan ins sg	10	предл	_	_
+14	(	(	_	_	PUNC	15	PUNC	_	_
+15	по-моему	ПО-МОЕМУ	ADV	ADV -	ADV -	17	вводн	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	фальшивой	ФАЛЬШИВЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	примыкат	_	_
+18	)	)	_	_	PUNC	17	PUNC	_	_
+19	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+20	в	В	PR	PR	PR	19	соч-союзн	_	_
+21	темных	ТЕМНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	22	опред	_	_
+22	очках	ОЧКИ	S	S - inan loc pl	S - inan loc pl	20	предл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+25	вообще-то	ВООБЩЕ-ТО	ADV	ADV -	ADV -	26	обст	_	_
+26	является	ЯВЛЯТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	24	подч-союзн	_	_
+27	неслыханным	НЕСЛЫХАННЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	28	опред	_	_
+28	нарушением	НАРУШЕНИЕ	S	S n inan ins sg	S n inan ins sg	26	1-компл	_	_
+29	придворного	ПРИДВОРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	30	опред	_	_
+30	этикета	ЭТИКЕТ	S	S m inan gen sg	S m inan gen sg	28	1-компл	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+
+1	Во время	Во время	PR	PR	ZERO	8	обст	_	_
+2	аудиенции	АУДИЕНЦИЯ	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+3	Абдул	АБДУЛ	S	S m anim gen sg	S m anim gen sg	2	квазиагент	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	Гамид	ГАМИД	S	S m inan gen sg	S m inan gen sg	2	1-компл	_	_
+6	несколько	НЕСКОЛЬКО	ADV	ADV -	ADV -	7	огранич	_	_
+7	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	8	обст	_	_
+8	оглядывался	ОГЛЯДЫВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+9	на	НА	PR	PR	PR	8	1-компл	_	_
+10	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	словно	СЛОВНО	CONJ	CONJ	CONJ	8	сравнит	_	_
+13	искал	ИСКАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	сравн-союзн	_	_
+14	поддержки	ПОДДЕРЖКА	S	S f inan gen sg	S f inan gen sg	13	1-компл	_	_
+15	или	ИЛИ	CONJ	CONJ	CONJ	14	сочин	_	_
+16	совета	СОВЕТ	S	S m inan gen sg	S m inan gen sg	15	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

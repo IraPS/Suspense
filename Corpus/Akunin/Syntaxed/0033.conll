@@ -1,0 +1,102 @@
+1	Ну	НУ	PART	PART	PART	3	вводн	_	_
+2	уж	УЖ	PART	PART	PART	3	огранич	_	_
+3	пристроиться	ПРИСТРАИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	21	предик	_	_
+4	на	НА	PR	PR	PR	3	1-компл	_	_
+5	какую-нибудь	КАКОЙ-НИБУДЬ	A	A - acc sg plen f inan	A - acc sg plen f inan	4	предл	_	_
+6	Службу	СЛУЖБА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+7	при	ПРИ	PR	PR	PR	3	обст	_	_
+8	главной	ГЛАВНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	9	опред	_	_
+9	квартире	КВАРТИРА	S	S f inan loc sg	S f inan loc sg	7	предл	_	_
+10	или	ИЛИ	CONJ	CONJ	CONJ	3	сочин	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	на	НА	PR	PR	PR	17	обст	_	_
+13	худой	ХУДОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	14	опред	_	_
+14	конец	КОНЕЦ	S	S m inan acc sg	S m inan acc sg	12	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	просто	ПРОСТО	PART	PART	PART	17	огранич	_	_
+17	затеряться	ЗАТЕРИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	10	соч-союзн	_	_
+18	в	В	PR	PR	PR	17	обст	_	_
+19	тыловой	ТЫЛОВОЙ	A	A - loc sg plen f -	A - loc sg plen f -	20	опред	_	_
+20	сутолоке	СУТОЛОКА	S	S f inan loc sg	S f inan loc sg	18	предл	_	_
+21	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+22	нетрудно	НЕТРУДНО	ADV	ADV -	ADV -	21	обст	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	решила	РЕШАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	21	вводн	_	_
+25	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	24	предик	_	_
+26	и	И	CONJ	CONJ	CONJ	24	сочин	_	_
+27	немедленно	НЕМЕДЛЕННО	ADV	ADV -	ADV -	28	обст	_	_
+28	составила	СОСТАВЛЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	26	соч-союзн	_	_
+29	План	ПЛАН	S	S m inan acc sg	S m inan acc sg	28	1-компл	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	36	предик	_	_
+32	на	НА	PR	PR	PR	36	обст	_	_
+33	первых	ПЕРВЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	34	опред	_	_
+34	двух	ДВА	NUM	NUM loc - -	NUM loc - -	35	количест	_	_
+35	этапах	ЭТАП	S	S m inan loc pl	S m inan loc pl	32	предл	_	_
+36	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	29	релят	_	_
+37	чудо	ЧУДО	S	S n inan acc sg	S n inan acc sg	36	присвяз	_	_
+38	как	КАК	CONJ	CONJ	CONJ	37	сравнит	_	_
+39	хорош	ХОРОШИЙ	A	A - - sg brev m -	A - - sg brev m -	38	сравн-союзн	_	_
+40	,	,	,	,	PUNC	39	PUNC	_	_
+41	а	А	CONJ	CONJ	CONJ	28	сент-соч	_	_
+42	на	НА	PR	PR	PR	0	ROOT	_	_
+43	третьем	ТРЕТИЙ	A	A - loc sg plen m -	A - loc sg plen m -	44	предик	_	_
+44	завершился	ЗАВЕРШАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	42	предл	_	_
+45	катастрофой	КАТАСТРОФА	S	S f inan ins sg	S f inan ins sg	44	1-компл	_	_
+46	.	.	SENT	SENT	SENT	45	PUNC	_	_
+
+1	Между	МЕЖДУ	PR	PR	PR	3	обст	_	_
+2	тем	ТО	S	S n - ins sg	S n - ins sg	1	предл	_	_
+3	приближалась	ПРИБЛИЖАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+4	развязка	РАЗВЯЗКА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Багровоносый	БАГРОВОНОСЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	1-компл	_	_
+2	хозяин	ХОЗЯИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	буркнул	БУРКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	что-то	ЧТО-ТО	S	S n - acc sg	S n - acc sg	5	опред	_	_
+5	угрожающее	УГРОЖАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen n act -	PARTCP ipf inpraes acc sg plen n act -	3	2-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	вытирая	ВЫТИРАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	14	обст	_	_
+9	руки	РУКА	S	S f inan acc pl	S f inan acc pl	8	1-компл	_	_
+10	серым	СЕРЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	11	опред	_	_
+11	полотенцем	ПОЛОТЕНЦЕ	S	S n inan ins sg	S n inan ins sg	8	2-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	вразвалочку	ВРАЗВАЛОЧКУ	ADV	ADV -	ADV -	14	обст	_	_
+14	направился	НАПРАВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+15	к	К	PR	PR	PR	14	2-компл	_	_
+16	Варе	ВАР	S	S m inan loc sg	S m inan loc sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	очень	ОЧЕНЬ	ADV	ADV -	ADV -	19	огранич	_	_
+19	похожий	ПОХОЖИЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	суб-копр	_	_
+20	в	В	PR	PR	PR	19	атриб	_	_
+21	своей	СВОЙ	A	A - loc sg plen f -	A - loc sg plen f -	23	опред	_	_
+22	красной	КРАСНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	23	опред	_	_
+23	рубахе	РУБАХА	S	S f inan loc sg	S f inan loc sg	20	предл	_	_
+24	на	НА	PR	PR	PR	19	атриб	_	_
+25	подходящего	ПОДХОДИТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act anim	PARTCP ipf inpraes acc sg plen m act anim	24	предл	_	_
+26	к	К	PR	PR	PR	19	разъяснит	_	_
+27	плахе	ПЛАХА	S	S f inan dat sg	S f inan dat sg	26	предл	_	_
+28	палача	ПАЛАЧ	S	S m anim gen sg	S m anim gen sg	27	квазиагент	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+
+1	Стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+2	сухо	СУХО	ADV	ADV -	ADV -	3	огранич	_	_
+3	во	ВО	PR	PR	PR	1	обст	_	_
+4	рту	РОТ	S	S m inan loc2 sg	S m inan loc2 sg	3	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+6	слегка	СЛЕГКА	ADV	ADV -	ADV -	7	огранич	_	_
+7	затошнило	ЗАТОШНИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	5	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Может	МОЖЕТ	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	прикинуться	ПРИКИДЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	0	ROOT	_	_
+4	глухонемой	ГЛУХОНЕМОЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	1-компл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	То есть	То есть	ADV	ADV -	-	2	огранич	_	_
+2	глухонемым	ГЛУХОНЕМОЙ	S	S m anim dat pl	S m anim dat pl	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

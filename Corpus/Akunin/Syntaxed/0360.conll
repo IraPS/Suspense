@@ -1,0 +1,23 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	1	обст	_	_
+3	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	5	предик	_	_
+4	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+5	султанчиком	СУЛТАНЧИК	S	S m inan ins sg	S m inan ins sg	2	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	господа	ГОСПОДИН	S	S m anim gen sg	S m anim gen sg	5	квазиагент	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	L	L	NUM	NUM - - -	NUM - - -	4	композ	_	_
+3	'	'	_	_	PUNC	2	PUNC	_	_
+4	as	AS	NONLEX	NONLEX	NONLEX	1	аппоз	_	_
+5	de	DE	NONLEX	NONLEX	NONLEX	4	аппоз	_	_
+6	carreau	CARREAU	NONLEX	NONLEX	NONLEX	5	аппоз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	опред	_	_
+2	Ха-ха	ХА-ХА	INTJ	INTJ	INTJ	4	вводн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	бито	БИТЬ	PARTCP	PARTCP ipf praet - sg brev n pass -	PARTCP ipf praet - sg brev n pass -	0	ROOT	_	_
+5	!	!	SENT	SENT	SENT	4	PUNC	_	_
+

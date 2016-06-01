@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"пусть","gr":"PART="}],"text":"Пусть"}
+{"analysis":[{"lex":"ждать","gr":"V,ipf,tran=inpraes,sg,indic,3p"}],"text":"ждет"}
+{"text":"\\s"}
+{"analysis":[{"lex":"скоро","gr":"ADV="}],"text":"Скоро"}
+{"analysis":[{"lex":"выходить","gr":"V,intr=inpraes,sg,indic,1p,pf"}],"text":"выйду"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"сказала"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"она"}
+{"analysis":[{"lex":"отбрасывать","gr":"V=inpraes,ger,ipf,tran"}],"text":"отбрасывая"}
+{"analysis":[{"lex":"одеяло","gr":"S,n,inan=acc,sg"},{"lex":"одеяло","gr":"S,n,inan=nom,sg"}],"text":"одеяло"}

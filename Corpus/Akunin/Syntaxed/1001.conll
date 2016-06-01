@@ -1,0 +1,10 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	встрепенулся	ВСТРЕПЕНУТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	–	–	–	–	PUNC	4	опред	_	_
+4	выстрелы	ВЫСТРЕЛ	S	S m inan nom pl	S m inan nom pl	5	предик	_	_
+5	звучали	ЗВУЧАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	примыкат	_	_
+6	в	В	PR	PR	PR	5	обст	_	_
+7	самом	САМ	A	A - loc sg plen n -	A - loc sg plen n -	8	опред	_	_
+8	здании	ЗДАНИЕ	S	S n inan loc sg	S n inan loc sg	6	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

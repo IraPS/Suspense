@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"казанзак","qual":"bastard","gr":"S,m,anim=nom,pl"}],"text":"Казанзаки"}
+{"analysis":[{"lex":"вынимать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"вынул"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"карман","gr":"S,m,inan=gen,sg"}],"text":"кармана"}
+{"analysis":[{"lex":"золотой","gr":"A=acc,pl,plen,inan"},{"lex":"золотой","gr":"A=nom,pl,plen"}],"text":"золотые"}
+{"analysis":[{"lex":"часы","gr":"S,pl,inan=acc"},{"lex":"часы","gr":"S,pl,inan=nom"}],"text":"часы"}
+{"analysis":[{"lex":"взволнованно","gr":"ADV="}],"text":"взволнованно"}
+{"analysis":[{"lex":"сдергивать","gr":"V=praet,sg,indic,m,pf"}],"text":"сдернул"}
+{"analysis":[{"lex":"кепи","gr":"S,n,inan=abl,pl"},{"lex":"кепи","gr":"S,n,inan=abl,sg"},{"lex":"кепи","gr":"S,n,inan=acc,pl"},{"lex":"кепи","gr":"S,n,inan=acc,sg"},{"lex":"кепи","gr":"S,n,inan=dat,pl"},{"lex":"кепи","gr":"S,n,inan=dat,sg"},{"lex":"кепи","gr":"S,n,inan=gen,pl"},{"lex":"кепи","gr":"S,n,inan=gen,sg"},{"lex":"кепи","gr":"S,n,inan=ins,pl"},{"lex":"кепи","gr":"S,n,inan=ins,sg"},{"lex":"кепи","gr":"S,n,inan=nom,pl"},{"lex":"кепи","gr":"S,n,inan=nom,sg"}],"text":"кепи"}
+{"analysis":[{"lex":"перекрещиваться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"перекрестился"}

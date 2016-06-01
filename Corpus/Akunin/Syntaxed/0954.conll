@@ -1,0 +1,46 @@
+1	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	3	дат-субъект	_	_
+2	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	жалко	ЖАЛКО	ADV	ADV -	ADV -	2	присвяз	_	_
+4	бедного	БЕДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	Ахиллеса	АХИЛЛЕС	S	S m anim gen sg	S m anim gen sg	3	1-компл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+8	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	9	предик	_	_
+9	отвернулась	ОТВЕРТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	9	сент-соч	_	_
+12	дубина	ДУБИН	S	S f inan nom sg	S f inan nom sg	16	предик	_	_
+13	хорунжий	ХОРУНЖИЙ	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+14	так же	так же	ADV	ADV -	-	16	обст	_	_
+15	зычно	ЗЫЧНО	ADV	ADV -	ADV -	16	обст	_	_
+16	отрапортовал	ОТРАПОРТОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	соч-союзн	_	_
+17	:	:	:	:	PUNC	20	количест	_	_
+18	–	–	–	–	PUNC	20	квазиагент	_	_
+19	Шесть	ШЕСТЬ	NUM	NUM acc - -	NUM acc - -	20	количест	_	_
+20	часов	ЧАС	S	S m inan gen pl	S m inan gen pl	16	1-компл	_	_
+21	ровно	РОВНО	ADV	ADV -	ADV -	16	обст	_	_
+22	!	!	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Согласно	СОГЛАСНО	PR	PR	PR	5	вводн	_	_
+2	приказу	ПРИКАЗ	S	S m inan dat sg	S m inan dat sg	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	батальон	БАТАЛЬОН	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+5	построен	ПОСТРОИТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	Гульнора	ГУЛЬНОРА	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+8	оседлана	ОСЕДЛЫВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	5	сент-соч	_	_
+9	!	!	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Ждем	ЖДАТЬ	V	V ipf praes pl indic - 1p	V ipf praes pl indic - 1p	0	ROOT	_	_
+2	только	ТОЛЬКО	PART	PART	PART	3	огранич	_	_
+3	вашего	ВАШ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	превосходительства	ПРЕВОСХОДИТЕЛЬСТВО	S	S n anim gen sg	S n anim gen sg	1	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	вперед	ВПЕРЕД	ADV	ADV -	ADV -	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	к	К	PR	PR	PR	7	сочин	_	_
+10	цареградским	ЦАРЕГРАДСКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	11	опред	_	_
+11	вратам	ВРАТА	S	S - inan dat pl	S - inan dat pl	9	предл	_	_
+12	!	!	SENT	SENT	SENT	11	PUNC	_	_
+

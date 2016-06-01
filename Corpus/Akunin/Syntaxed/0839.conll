@@ -1,0 +1,18 @@
+1	Когда	КОГДА	CONJ	CONJ	CONJ	7	обст	_	_
+2	вышли	ВЫХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	адъютантскую	АДЪЮТАНТСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+7	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	генерала	ГЕНЕРАЛ	S	S m anim acc sg	S m anim acc sg	7	1-компл	_	_
+9	:	:	:	:	PUNC	10	опред	_	_
+10	–	–	–	–	PUNC	7	2-компл	_	_
+11	А	А	CONJ	CONJ	CONJ	7	обст	_	_
+12	если	ЕСЛИ	CONJ	CONJ	CONJ	0	ROOT	_	_
+13	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+14	вообще	ВООБЩЕ	ADV	ADV -	ADV -	16	обст	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	отыщется	ОТЫСКИВАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	12	подч-союзн	_	_
+17	?	?	SENT	SENT	SENT	16	PUNC	_	_
+

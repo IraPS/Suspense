@@ -1,0 +1,63 @@
+1	Запах	ЗАПАХ	S	S m inan nom sg	S m inan nom sg	4	предик	_	_
+2	антоновских	АНТОНОВСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	3	опред	_	_
+3	яблок	ЯБЛОКО	S	S n inan gen pl	S n inan gen pl	1	квазиагент	_	_
+4	исчезает	ИСЧЕЗАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	из	ИЗ	PR	PR	PR	4	1-компл	_	_
+6	помещичьих	ПОМЕЩИЧИЙ	A	A - gen pl plen - -	A - gen pl plen - -	7	опред	_	_
+7	усадеб	УСАДЬБА	S	S f inan gen pl	S f inan gen pl	5	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Эти	ЭТОТ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	дни	ДЕНЬ	S	S m inan nom pl	S m inan nom pl	3	предик	_	_
+3	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	так	ТАК	ADV	ADV -	ADV -	5	огранич	_	_
+5	недавно	НЕДАВНО	ADV	ADV -	ADV -	3	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+8	меж	МЕЖ	PR	PR	PR	11	обст	_	_
+9	тем	ТО	S	S n - ins sg	S n - ins sg	11	обст	_	_
+10	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	11	2-компл	_	_
+11	кажется	КАЗАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	что	ЧТО	CONJ	CONJ	CONJ	11	предик	_	_
+14	с	С	PR	PR	PR	17	1-компл	_	_
+15	тех	ТОТ	A	A - gen pl plen - -	A - gen pl plen - -	16	опред	_	_
+16	пор	ПОРА	S	S f inan gen pl	S f inan gen pl	14	предл	_	_
+17	прошло	ПРОХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	13	подч-союзн	_	_
+18	чуть не	чуть не	PART	PART	ZERO	19	огранич	_	_
+19	целое	ЦЕЛЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	20	опред	_	_
+20	столетие	СТОЛЕТИЕ	S	S n inan nom sg	S n inan nom sg	17	предик	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Перемерли	ПЕРЕМИРАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+2	старики	СТАРИК	S	S m anim nom pl	S m anim nom pl	1	предик	_	_
+3	в	В	PR	PR	PR	2	атриб	_	_
+4	Выселках	ВЫСЕЛКИ	S	S f inan loc pl	S f inan loc pl	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	умерла	УМИРАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	вводн	_	_
+7	Анна	АННА	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+8	Герасимовна	ГЕРАСИМОВНА	S	S f anim nom sg	S f anim nom sg	7	аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	застрелился	ЗАСТРЕЛИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	вводн	_	_
+11	Арсений	АРСЕНИЙ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+12	Семеныч	СЕМЕНЫЧ	S	S m anim nom sg	S m anim nom sg	11	аппоз	_	_
+13	...	...	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Наступает	НАСТУПАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	6	вводн	_	_
+2	царство	ЦАРСТВО	S	S n inan acc sg	S n inan acc sg	1	1-компл	_	_
+3	мелкопоместных	МЕЛКОПОМЕСТНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	6	оп-опред	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	обедневших	ОБЕДНЕТЬ	PARTCP	PARTCP pf praet loc pl plen - act -	PARTCP pf praet loc pl plen - act -	3	сочин	_	_
+6	до	ДО	PR	PR	PR	0	ROOT	_	_
+7	нищенства	НИЩЕНСТВО	S	S n inan gen sg	S n inan gen sg	6	предл	_	_
+8	!..	!..	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	хороша	ХОРОШИЙ	A	A - - sg brev f -	A - - sg brev f -	1	соч-союзн	_	_
+3	и	И	CONJ	CONJ	CONJ	7	соотнос	_	_
+4	эта	ЭТОТ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+5	нищенская	НИЩЕНСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+6	мелкопоместная	МЕЛКОПОМЕСТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+7	жизнь	ЖИЗНЬ	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+8	!	!	SENT	SENT	SENT	7	PUNC	_	_
+

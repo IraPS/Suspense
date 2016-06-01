@@ -1,0 +1,41 @@
+1	–	–	–	–	PUNC	5	предик	_	_
+2	Не	НЕ	PART	PART	PART	3	огранич	_	_
+3	жалко	ЖАЛКО	ADV	ADV -	ADV -	5	обст	_	_
+4	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	5	дат-субъект	_	_
+5	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	бедного	БЕДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	Маклафлина	МАКЛАФЛИН	S	S m anim acc sg	S m anim acc sg	5	присвяз	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	поинтересовался	ПОИНТЕРЕСОВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	8	опред	_	_
+7	'	'	_	_	PUNC	8	PUNC	_	_
+8	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	5	соч-союзн	_	_
+9	(	(	_	_	PUNC	10	PUNC	_	_
+10	или	ИЛИ	CONJ	CONJ	CONJ	8	примыкат	_	_
+11	в	В	PR	PR	PR	17	огранич	_	_
+12	самом	САМЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	13	опред	_	_
+13	деле	ДЕЛО	S	S n inan loc sg	S n inan loc sg	11	предл	_	_
+14	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	16	композ	_	_
+15	-	-	-	-	PUNC	14	PUNC	_	_
+16	эфенди	ЭФЕНДИ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	17	вспом	_	_
+17	?	?	?	?	PUNC	10	соч-союзн	_	_
+18	)	)	_	_	PUNC	17	PUNC	_	_
+19	изящным	ИЗЯЩНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	20	опред	_	_
+20	жестом	ЖЕСТ	S	S m inan ins sg	S m inan ins sg	2	обст	_	_
+21	предложил	ПРЕДЛАГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+22	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	21	2-компл	_	_
+23	продолжать	ПРОДОЛЖАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	21	1-компл	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+26	вновь	ВНОВЬ	ADV	ADV -	ADV -	27	обст	_	_
+27	спрятал	СПРЯТАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	25	соч-союзн	_	_
+28	руку	РУКА	S	S f inan acc sg	S f inan acc sg	27	1-компл	_	_
+29	за	ЗА	PR	PR	PR	27	2-компл	_	_
+30	спину	СПИНА	S	S f inan acc sg	S f inan acc sg	29	предл	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+

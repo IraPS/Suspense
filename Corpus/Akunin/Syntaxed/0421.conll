@@ -1,0 +1,53 @@
+1	–	–	–	–	PUNC	2	предик	_	_
+2	Хорош	ХОРОШИЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+3	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	2	вспом	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	опять	ОПЯТЬ	ADV	ADV -	ADV -	7	огранич	_	_
+6	же	ЖЕ	PART	PART	PART	5	огранич	_	_
+7	брюнет	БРЮНЕТ	S	S m anim nom sg	S m anim nom sg	2	разъяснит	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	0	ROOT	_	_
+2	б	Б	PART	PART	PART	3	огранич	_	_
+3	в	В	PR	PR	PR	0	ROOT	_	_
+4	гусарский	ГУСАРСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	мундир	МУНДИР	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+6	–	–	–	–	PUNC	0	ROOT	_	_
+7	и	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+8	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	соч-союзн	_	_
+9	бы	БЫ	PART	PART	PART	8	аналит	_	_
+10	совсем	СОВСЕМ	ADV	ADV -	ADV -	11	огранич	_	_
+11	молодец	МОЛОДЕЦ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	 	 	 	 	PUNC	16	3-компл	_	_
+14	–	–	–	–	PUNC	16	предик	_	_
+15	решительно	РЕШИТЕЛЬНО	ADV	ADV -	ADV -	16	обст	_	_
+16	вел	ВЕСТИ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	релят	_	_
+17	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	18	опред	_	_
+18	линию	ЛИНИЯ	S	S f inan acc sg	S f inan acc sg	16	1-компл	_	_
+19	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	предик	_	_
+2	Это	ЭТО	S	S n - nom sg	S n - nom sg	5	обст	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+4	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	5	обст	_	_
+5	ходит	ХОДИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	мокрой	МОКРЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	7	опред	_	_
+7	курицей	КУРИЦА	S	S f anim ins sg	S f anim ins sg	5	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	5	сент-соч	_	_
+10	видели	ВИДЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	соч-союзн	_	_
+11	б	Б	PART	PART	PART	12	огранич	_	_
+12	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	10	предик	_	_
+13	Эразма	ЭРАЗМ	S	S m anim acc sg	S m anim acc sg	10	1-компл	_	_
+14	прежним	ПРЕЖНИЙ	A	A - ins sg plen n -	A - ins sg plen n -	13	опред	_	_
+15	!	!	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Пламень	ПЛАМЕНЬ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Аравийский	АРАВИЙСКИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	2	опред	_	_
+2	ураган	УРАГАН	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+

@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"волонтер","gr":"S,m,anim=nom,sg"}],"text":"Волонтер"}
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"все"}
+{"analysis":[{"lex":"же","gr":"PART="}],"text":"же"}
+{"analysis":[{"lex":"понижать","gr":"V=praet,sg,indic,m,pf"}],"text":"понизил"}
+{"analysis":[{"lex":"голос","gr":"S,m,inan=acc,sg"},{"lex":"голос","gr":"S,m,inan=nom,sg"}],"text":"голос"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"корреспондент","gr":"S,m,anim=nom,pl"}],"text":"корреспонденты"}
+{"analysis":[{"lex":"навострить","gr":"V,pf,tran=praet,pl,indic"}],"text":"навострили"}
+{"analysis":[{"lex":"ухо","gr":"S,n,inan=acc,pl"},{"lex":"ухо","gr":"S,n,inan=nom,pl"}],"text":"уши"}

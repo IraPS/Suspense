@@ -1,0 +1,23 @@
+1	Полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	властно	ВЛАСТНО	ADV	ADV -	ADV -	3	обст	_	_
+3	обхватил	ОБХВАТИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	3	1-компл	_	_
+5	за	ЗА	PR	PR	PR	3	2-компл	_	_
+6	талию	ТАЛИЯ	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+8	повел	ПОВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+9	к	К	PR	PR	PR	8	2-компл	_	_
+10	выходу	ВЫХОД	S	S m inan dat sg	S m inan dat sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	да	ДА	CONJ	CONJ	CONJ	8	сочин	_	_
+13	так	ТАК	ADV	ADV -	ADV -	14	огранич	_	_
+14	ловко	ЛОВКО	ADV	ADV -	ADV -	12	соч-союзн	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	что	ЧТО	CONJ	CONJ	CONJ	14	эксплет	_	_
+17	сопротивляться	СОПРОТИВЛЯТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	19	предик	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	16	подч-союзн	_	_
+20	никакой	НИКАКОЙ	A	A - gen sg plen f -	A - gen sg plen f -	21	опред	_	_
+21	возможности	ВОЗМОЖНОСТЬ	S	S f inan gen sg	S f inan gen sg	19	присвяз	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

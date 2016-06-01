@@ -1,0 +1,67 @@
+1	Вперед	ВПЕРЕД	ADV	ADV -	ADV -	3	обст	_	_
+2	лихо	ЛИХО	ADV	ADV -	ADV -	3	обст	_	_
+3	выкатился	ВЫКАТИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	гвардейский	ГВАРДЕЙСКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	полковник	ПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	отсалютовал	ОТСАЛЮТОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	звонким	ЗВОНКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	11	опред	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	подрагивающим	ПОДРАГИВАТЬ	PARTCP	PARTCP ipf inpraes dat pl plen - act -	PARTCP ipf inpraes dat pl plen - act -	8	соч-союзн	_	_
+12	от	ОТ	PR	PR	PR	11	1-компл	_	_
+13	волнения	ВОЛНЕНИЕ	S	S n inan gen sg	S n inan gen sg	12	предл	_	_
+14	басом	БАС	S	S m inan ins sg	S m inan ins sg	15	обст	_	_
+15	зачеканил	ЗАЧЕКАНИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+16	:	:	:	:	PUNC	22	опред	_	_
+17	–	–	–	–	PUNC	22	опред	_	_
+18	Ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	22	опред	_	_
+19	им	ОНИ	SPRO	SPRO pl - - dat	SPRO pl - - dat	18	2-компл	_	_
+20	-	-	-	-	PUNC	19	PUNC	_	_
+21	ператорское	ПЕРАТОРСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	22	опред	_	_
+22	величчество	ВЕЛИЧЧЕСТВО	S	S n inan acc sg	S n inan acc sg	15	1-компл	_	_
+23	!	!	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Па	ПА	S	S m inan nonflex nonflex	S m inan nonflex nonflex	3	вводн	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	азвольте	АЗВОЛИТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+4	от	ОТ	PR	PR	PR	3	1-компл	_	_
+5	офицеров	ОФИЦЕР	S	S m anim gen pl	S m anim gen pl	4	предл	_	_
+6	вашего	ВАШ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	личчного	ЛИЧЧНЫЙ	S	S m anim acc sg	S m anim acc sg	3	сочин	_	_
+8	конвоя	КОНВОЙ	S	S m inan gen sg	S m inan gen sg	7	атриб	_	_
+9	пре	ПРЯ	S	S f inan loc sg	S f inan loc sg	7	сочин	_	_
+10	-	-	-	-	PUNC	9	PUNC	_	_
+11	паднести	ПАДНЕСТИ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+12	ззза	ЗЗЗА	S	S f anim nom sg	S f anim nom sg	3	вводн	_	_
+13	-	-	-	-	PUNC	12	PUNC	_	_
+14	латую	ЛАТЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	15	опред	_	_
+15	саблю	САБЛЯ	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+16	с	С	PR	PR	PR	15	атриб	_	_
+17	надписью	НАДПИСЬ	S	S f inan ins sg	S f inan ins sg	16	предл	_	_
+18	«	«	_	_	PUNC	19	PUNC	_	_
+19	За	ЗА	PR	PR	PR	3	обст	_	_
+20	храбрость	ХРАБРОСТЬ	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	»	»	_	_	PUNC	20	PUNC	_	_
+22	!	!	SENT	SENT	SENT	20	PUNC	_	_
+
+1	В	В	S	S - - nonflex nonflex	S - - nonflex nonflex	4	предик	_	_
+2	оз	ОЗ	S	S n inan gen sg	S n inan gen sg	1	1-компл	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	намено	НАМЕНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	вание	ВАНИЕ	S	S n inan acc sg	S n inan acc sg	4	1-компл	_	_
+7	са	СА	NONLEX	NONLEX	NONLEX	6	аппоз	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	авместной	АВМЕСТНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	11	опред	_	_
+10	рратной	РРАТНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	11	опред	_	_
+11	службы	СЛУЖБА	S	S f inan gen sg	S f inan gen sg	6	1-компл	_	_
+12	!	!	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Куплена	КУПИТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	0	ROOT	_	_
+2	на	НА	PR	PR	PR	1	2-компл	_	_
+3	личные	ЛИЧНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	опред	_	_
+4	средства	СРЕДСТВО	S	S n inan acc pl	S n inan acc pl	2	предл	_	_
+5	офицеров	ОФИЦЕР	S	S m anim gen pl	S m anim gen pl	4	квазиагент	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+

@@ -1,0 +1,68 @@
+1	Вскоре	ВСКОРЕ	ADV	ADV -	ADV -	6	обст	_	_
+2	за	ЗА	PR	PR	PR	6	обст	_	_
+3	спинами	СПИНА	S	S f inan ins pl	S f inan ins pl	2	предл	_	_
+4	развернувшихся	РАЗВЕРТЫВАТЬСЯ	PARTCP	PARTCP pf praet loc pl plen - act -	PARTCP pf praet loc pl plen - act -	5	опред	_	_
+5	колонн	КОЛОННА	S	S f inan gen pl	S f inan gen pl	3	квазиагент	_	_
+6	разглядеть	РАЗГЛЯДЕТЬ	V	V pf - - inf - -	V pf - - inf - -	10	предик	_	_
+7	«	«	_	_	PUNC	8	PUNC	_	_
+8	своих	СВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	10	1-компл	_	_
+9	»	»	_	_	PUNC	8	PUNC	_	_
+10	стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+11	уже	УЖЕ	ADV	ADV -	ADV -	12	огранич	_	_
+12	невозможно	НЕВОЗМОЖНО	ADV	ADV -	ADV -	10	присвяз	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	18	обст	_	_
+2	открытое	ОТКРЫТЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	3	опред	_	_
+3	пространство	ПРОСТРАНСТВО	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+4	перед	ПЕРЕД	PR	PR	PR	3	2-компл	_	_
+5	редутом	РЕДУТ	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+6	наполнилось	НАПОЛНЯТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	подч-союзн	_	_
+7	белыми	БЕЛЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	8	опред	_	_
+8	гимнастерками	ГИМНАСТЕРКА	S	S f inan ins pl	S f inan ins pl	6	1-компл	_	_
+9	до	ДО	PR	PR	PR	6	2-компл	_	_
+10	середины	СЕРЕДИНА	S	S f inan gen sg	S f inan gen sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	прямо	ПРЯМО	PART	PART	PART	13	огранич	_	_
+13	по	ПО	PR	PR	PR	18	обст	_	_
+14	людской	ЛЮДСКОЙ	A	A - loc sg plen f -	A - loc sg plen f -	15	опред	_	_
+15	массе	МАССА	S	S f inan loc sg	S f inan loc sg	13	предл	_	_
+16	аккуратными	АККУРАТНЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	17	опред	_	_
+17	кустами	КУСТ	S	S m inan ins pl	S m inan ins pl	18	1-компл	_	_
+18	встали	ВСТАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+19	разрывы	РАЗРЫВ	S	S m inan nom pl	S m inan nom pl	18	предик	_	_
+20	:	:	:	:	PUNC	0	ROOT	_	_
+21	первый	ПЕРВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	второй	ВТОРОЙ	A	A - gen sg plen f -	A - gen sg plen f -	21	сочин	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	третий	ТРЕТИЙ	A	A - nom sg plen m -	A - nom sg plen m -	23	сочин	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	четвертый	ЧЕТВЕРТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	25	сочин	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Потом	ПОТОМ	ADV	ADV -	ADV -	5	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	чуть	ЧУТЬ	ADV	ADV -	ADV -	4	огранич	_	_
+4	ближе	БЛИЗКО	ADV	ADV comp	ADV comp	5	обст	_	_
+5	–	–	–	–	PUNC	0	ROOT	_	_
+6	еще	ЕЩЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	8	обст	_	_
+8	:	:	:	:	PUNC	0	ROOT	_	_
+9	первый	ПЕРВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	второй	ВТОРОЙ	A	A - gen sg plen f -	A - gen sg plen f -	9	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	третий	ТРЕТИЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	сочин	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	четвертый	ЧЕТВЕРТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	сочин	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	1	соч-союзн	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	1	соч-союзн	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

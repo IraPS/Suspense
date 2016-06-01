@@ -1,0 +1,39 @@
+1	Потом	ПОТОМ	ADV	ADV -	ADV -	2	обст	_	_
+2	заспорили	ЗАСПОРИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	какая	КАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+5	парламентская	ПАРЛАМЕНТСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	6	опред	_	_
+6	система	СИСТЕМА	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+7	лучше	ХОРОШИЙ	A	A comp - - plen - -	A comp - - plen - -	2	сент-соч	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	за	ЗА	PR	PR	PR	2	присвяз	_	_
+4	британскую	БРИТАНСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	10	опред	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	4	сочин	_	_
+7	'	'	_	_	PUNC	6	PUNC	_	_
+8	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	6	сочин	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	хоть	ХОТЬ	CONJ	CONJ	CONJ	3	предл	_	_
+11	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+12	француз	ФРАНЦУЗ	S	S m anim nom sg	S m anim nom sg	18	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	за	ЗА	PR	PR	PR	18	обст	_	_
+15	американскую	АМЕРИКАНСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	14	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	18	предик	_	_
+18	напирал	НАПИРАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	11	соч-союзн	_	_
+19	на	НА	PR	PR	PR	18	2-компл	_	_
+20	какую-то	КАКОЙ-ТО	A	A - acc sg plen f inan	A - acc sg plen f inan	19	предл	_	_
+21	особенную	ОСОБЕННЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	26	1-компл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	исконно	ИСКОННО	ADV	ADV -	ADV -	24	огранич	_	_
+24	русскую	РУССКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	21	сочин	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	дворянско	ДВОРЯНСКИЙ	A	A - - sg brev n -	A - - sg brev n -	18	1-компл	_	_
+27	-	-	-	-	PUNC	26	PUNC	_	_
+28	крестьянскую	КРЕСТЬЯНСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	26	пролепт	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

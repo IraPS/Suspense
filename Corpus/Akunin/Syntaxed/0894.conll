@@ -1,0 +1,48 @@
+1	Дверь	ДВЕРЬ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+2	в	В	PR	PR	PR	4	обст	_	_
+3	хранилище	ХРАНИЛИЩЕ	S	S n inan acc sg	S n inan acc sg	2	предл	_	_
+4	осталась	ОСТАВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	приоткрытой	ПРИОТКРЫВАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	4	присвяз	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+8	про	ПРО	PR	PR	PR	12	3-компл	_	_
+9	миллионы	МИЛЛИОН	S	S m inan acc pl	S m inan acc pl	8	предл	_	_
+10	никто	НИКТО	S	S m - nom sg	S m - nom sg	12	1-компл	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	вспоминал	ВСПОМИНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Со	СО	PR	PR	PR	5	обст	_	_
+2	станции	СТАНЦИЯ	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	в	В	PR	PR	PR	5	обст	_	_
+4	приемную	ПРИЕМНАЯ	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	перенесли	ПЕРЕНЕСТИ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+6	телеграфный	ТЕЛЕГРАФНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	аппарат	АППАРАТ	S	S m inan nom sg	S m inan nom sg	5	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	провод	ПРОВОД	S	S m inan nom sg	S m inan nom sg	10	предик	_	_
+10	протянули	ПРОТЯГИВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	7	релят	_	_
+11	прямо	ПРЯМО	PART	PART	PART	12	огранич	_	_
+12	через	ЧЕРЕЗ	PR	PR	PR	10	обст	_	_
+13	площадь	ПЛОЩАДЬ	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Раз	РАЗ	S	S m inan acc sg	S m inan acc sg	6	обст	_	_
+2	в	В	PR	PR	PR	1	распред	_	_
+3	пятнадцать	ПЯТНАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	4	количест	_	_
+4	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	2	предл	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	6	предик	_	_
+6	пробовала	ПРОБОВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+7	связаться	СВЯЗЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+8	хотя бы	хотя бы	ADV	ADV -	-	7	обст	_	_
+9	с	С	PR	PR	PR	7	1-компл	_	_
+10	Адрианополем	АДРИАНОПОЛЬ	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+13	аппарат	АППАРАТ	S	S m inan nom sg	S m inan nom sg	17	предик	_	_
+14	признаков	ПРИЗНАК	S	S m inan gen pl	S m inan gen pl	13	квазиагент	_	_
+15	жизни	ЖИЗНЬ	S	S f inan gen sg	S f inan gen sg	14	квазиагент	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	подавал	ПОДАВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	соч-союзн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

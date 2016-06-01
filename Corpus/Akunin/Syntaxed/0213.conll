@@ -1,0 +1,80 @@
+1	Дело	ДЕЛО	S	S n inan nom sg	S n inan nom sg	2	предик	_	_
+2	в	В	PR	PR	PR	0	ROOT	_	_
+3	том	ТО	S	S n - loc sg	S n - loc sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	эксплет	_	_
+6	пророк	ПРОРОК	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+7	Магомет	МАГОМЕТ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	при	ПРИ	PR	PR	PR	13	обст	_	_
+9	наличии	НАЛИЧИЕ	S	S n inan loc sg	S n inan loc sg	8	предл	_	_
+10	пятнадцати	ПЯТНАДЦАТЬ	NUM	NUM loc - -	NUM loc - -	13	обст	_	_
+11	жен	ЖЕНА	S	S f anim acc pl	S f anim acc pl	13	1-компл	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	подч-союзн	_	_
+14	ни	НИ	PART	PART	PART	15	огранич	_	_
+15	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	16	количест	_	_
+16	сына	СЫН	S	S m anim gen sg	S m anim gen sg	13	1-компл	_	_
+17	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+18	никаких	НИКАКОЙ	A	A - gen pl plen - -	A - gen pl plen - -	19	опред	_	_
+19	инструкций	ИНСТРУКЦИЯ	S	S f inan gen pl	S f inan gen pl	17	соч-союзн	_	_
+20	по	ПО	PR	PR	PR	22	вводн	_	_
+21	вопросу	ВОПРОС	S	S m inan dat sg	S m inan dat sg	20	предл	_	_
+22	престолонаследия	ПРЕСТОЛОНАСЛЕДИЕ	S	S n inan acc pl	S n inan acc pl	13	предл	_	_
+23	не	НЕ	PART	PART	PART	24	огранич	_	_
+24	оставил	ОСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	сочин	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Посему	ПОСЕМУ	ADV	ADV -	ADV -	9	обст	_	_
+2	на	НА	PR	PR	PR	9	обст	_	_
+3	протяжении	ПРОТЯЖЕНИЕ	S	S n inan loc sg	S n inan loc sg	2	предл	_	_
+4	веков	ВЕК	S	S m inan gen pl	S m inan gen pl	3	квазиагент	_	_
+5	каждая	КАЖДЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	предик	_	_
+6	из	ИЗ	PR	PR	PR	5	электив	_	_
+7	многочисленных	МНОГОЧИСЛЕННЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	8	опред	_	_
+8	султанш	СУЛТАНША	S	S f inan loc pl	S f inan loc pl	6	предл	_	_
+9	мечтала	МЕЧТАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+10	возвести	ВОЗВОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+11	на	НА	PR	PR	PR	10	2-компл	_	_
+12	престол	ПРЕСТОЛ	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+13	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	14	опред	_	_
+14	сына	СЫН	S	S m anim gen sg	S m anim gen sg	12	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	а	А	CONJ	CONJ	CONJ	9	сент-соч	_	_
+17	сыновей	СЫН	S	S m anim acc pl	S m anim acc pl	22	1-компл	_	_
+18	своих	СВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	19	опред	_	_
+19	соперниц	СОПЕРНИЦА	S	S f anim gen pl	S f anim gen pl	17	1-компл	_	_
+20	всячески	ВСЯЧЕСКИ	ADV	ADV -	ADV -	21	обст	_	_
+21	пыталась	ПЫТАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	16	соч-союзн	_	_
+22	истребить	ИСТРЕБЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	21	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	При	ПРИ	PR	PR	PR	3	обст	_	_
+2	дворце	ДВОРЕЦ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	особое	ОСОБЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	5	опред	_	_
+5	кладбище	КЛАДБИЩЕ	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+6	для	ДЛЯ	PR	PR	PR	5	атриб	_	_
+7	невинно	НЕВИННО	ADV	ADV -	ADV -	8	огранич	_	_
+8	убиенных	УБИЕННЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	принцев	ПРИНЦ	S	S m anim acc pl	S m anim acc pl	6	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	так что	так что	CONJ	CONJ	ZERO	3	предик	_	_
+12	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	28	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	русские	РУССКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	12	оп-опред	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	с	С	PR	PR	PR	12	атриб	_	_
+17	нашими	НАШ	A	A - ins pl plen - -	A - ins pl plen - -	18	опред	_	_
+18	Борисом	БОРИС	S	S m anim ins sg	S m anim ins sg	16	предл	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	Глебом	ГЛЕБ	S	S m anim ins sg	S m anim ins sg	19	соч-союзн	_	_
+21	да	ДА	CONJ	CONJ	CONJ	12	сочин	_	_
+22	царевичем	ЦАРЕВИЧ	S	S m anim ins sg	S m anim ins sg	21	соч-союзн	_	_
+23	Дмитрием	ДМИТРИЙ	S	S m anim ins sg	S m anim ins sg	22	аппоз	_	_
+24	по	ПО	PR	PR	PR	22	обст	_	_
+25	турецким	ТУРЕЦКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	26	опред	_	_
+26	масштабам	МАСШТАБ	S	S m inan dat pl	S m inan dat pl	24	предл	_	_
+27	просто	ПРОСТО	ADV	ADV -	ADV -	28	огранич	_	_
+28	смехотворны	СМЕХОТВОРНЫЙ	A	A - - pl brev - -	A - - pl brev - -	11	подч-союзн	_	_
+29	.	.	SENT	SENT	SENT	28	PUNC	_	_
+

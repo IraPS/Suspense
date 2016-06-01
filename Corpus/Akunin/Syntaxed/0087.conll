@@ -1,0 +1,56 @@
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+3	взяла	ВЗЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	все-таки	ВСЕ-ТАКИ	PART	PART	PART	6	огранич	_	_
+6	обернулась	ОБЕРТЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	соч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	только	ТОЛЬКО	PART	PART	PART	9	огранич	_	_
+9	лучше	ХОРОШО	ADV	ADV comp	ADV comp	14	обст	_	_
+10	бы	БЫ	PART	PART	PART	14	аналит	_	_
+11	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	14	предик	_	_
+12	этого	ЭТО	S	S n - gen sg	S n - gen sg	14	1-компл	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	делала	ДЕЛАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	3	разъяснит	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	От	ОТ	PR	PR	PR	4	обст	_	_
+2	башибузуков	БАШИБУЗУК	S	S m anim gen pl	S m anim gen pl	1	предл	_	_
+3	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	4	предик	_	_
+4	успели	УСПЕВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	отъехать	ОТЪЕЗЖАТЬ	V	V pf - - inf - -	V pf - - inf - -	4	1-компл	_	_
+6	шагов	ШАГ	S	S m inan gen pl	S m inan gen pl	5	1-компл	_	_
+7	на	НА	PR	PR	PR	5	2-компл	_	_
+8	двести	ДВЕСТИ	NUM	NUM acc - -	NUM acc - -	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	но	НО	CONJ	CONJ	CONJ	4	сент-соч	_	_
+11	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	34	предик	_	_
+12	из	ИЗ	PR	PR	PR	11	электив	_	_
+13	всадников	ВСАДНИК	S	S m anim gen pl	S m anim gen pl	12	предл	_	_
+14	–	–	–	–	PUNC	34	1-компл	_	_
+15	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	34	предик	_	_
+16	самый	САМЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	15	опред	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	при	ПРИ	PR	PR	PR	15	атриб	_	_
+19	отрезанной	ОТРЕЗАТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	20	опред	_	_
+20	голове	ГОЛОВА	S	S f inan loc sg	S f inan loc sg	18	предл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	 	 	 	 	PUNC	24	1-компл	_	_
+23	–	–	–	–	PUNC	24	обст	_	_
+24	скакал	СКАКАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	релят	_	_
+25	обратно	ОБРАТНО	ADV	ADV -	ADV -	24	обст	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	быстро	БЫСТРО	ADV	ADV -	ADV -	24	обст	_	_
+28	нагоняя	НАГОНЯЙ	S	S m inan gen sg	S m inan gen sg	24	длительн	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	и	И	CONJ	CONJ	CONJ	24	сочин	_	_
+31	страшный	СТРАШНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	32	опред	_	_
+32	трофей	ТРОФЕЙ	S	S m inan acc sg	S m inan acc sg	30	соч-союзн	_	_
+33	весело	ВЕСЕЛО	ADV	ADV -	ADV -	34	обст	_	_
+34	колотился	КОЛОТИТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	10	соч-союзн	_	_
+35	по	ПО	PR	PR	PR	34	обст	_	_
+36	крупу	КРУП	S	S f inan acc sg	S f inan acc sg	35	предл	_	_
+37	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	38	атриб	_	_
+38	коня	КОНЬ	S	S m anim gen sg	S m anim gen sg	36	1-компл	_	_
+39	.	.	SENT	SENT	SENT	38	PUNC	_	_
+

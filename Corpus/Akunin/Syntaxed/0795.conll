@@ -1,0 +1,45 @@
+1	Царь	ЦАРЬ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	«	«	_	_	PUNC	5	PUNC	_	_
+5	здравствуйте	ЗДРАВСТВОВАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	3	1-компл	_	_
+6	»	»	_	_	PUNC	5	PUNC	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	даже	ДАЖЕ	PART	PART	PART	10	огранич	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	спеша	СПЕШИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	3	обст	_	_
+3	закончил	ЗАКАНЧИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	осмотр	ОСМОТР	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+5	Вариной	ВАРИНА	S	S f anim loc sg	S f anim loc sg	9	предик	_	_
+6	фигуры	ФИГУРА	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	потом	ПОТОМ	ADV	ADV -	ADV -	9	обст	_	_
+9	повернул	ПОВЕРТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сент-соч	_	_
+10	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+11	к	К	PR	PR	PR	9	2-компл	_	_
+12	Эрасту	ЭРАСТ	S	S m anim dat sg	S m anim dat sg	11	предл	_	_
+13	Петровичу	ПЕТРОВИЧ	S	S m anim dat sg	S m anim dat sg	12	аппоз	_	_
+14	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+15	негромко	НЕГРОМКО	ADV	ADV -	ADV -	16	обст	_	_
+16	молвил	МОЛВИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	соч-союзн	_	_
+17	по-актерски	ПО-АКТЕРСКИ	ADV	ADV -	ADV -	18	обст	_	_
+18	поставленным	ПОСТАВЛЯТЬ	PARTCP	PARTCP pf praet dat pl plen - pass -	PARTCP pf praet dat pl plen - pass -	19	опред	_	_
+19	голосом	ГОЛОС	S	S m inan ins sg	S m inan ins sg	22	1-компл	_	_
+20	:	:	:	:	PUNC	22	2-компл	_	_
+21	–	–	–	–	PUNC	22	1-компл	_	_
+22	Помню	ПОМНИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	16	1-компл	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	Азазель	АЗАЗЕЛЬ	S	S m inan nom sg	S m inan nom sg	16	предик	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+3	только	ТОЛЬКО	PART	PART	PART	5	огранич	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	3	вспом	_	_
+5	говорил	ГОВОРИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

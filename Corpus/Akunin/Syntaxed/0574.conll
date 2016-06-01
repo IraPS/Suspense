@@ -1,0 +1,62 @@
+1	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	приподнял	ПРИПОДЫМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	густейшие	ГУСТОЙ	A	A supr acc pl plen - inan	A supr acc pl plen - inan	4	опред	_	_
+4	брови	БРОВЬ	S	S f inan acc pl	S f inan acc pl	2	1-компл	_	_
+5	:	:	:	:	PUNC	6	опред	_	_
+6	–	–	–	–	PUNC	8	предик	_	_
+7	Разве что	Разве что	ADV	ADV -	-	8	огранич	_	_
+8	Маклафлин	МАКЛАФЛИН	S	S f inan nom sg	S f inan nom sg	2	сент-соч	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	Еремей	ЕРЕМЕЙ	S	S m anim nom sg	S m anim nom sg	9	соч-союзн	_	_
+11	Ионович	ИОНОВИЧ	S	S m anim nom sg	S m anim nom sg	10	аппоз	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	первый	ПЕРВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+3	–	–	–	–	PUNC	5	опред	_	_
+4	известный	ИЗВЕСТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	5	опред	_	_
+5	брюзга	БРЮЗГА	S	S - anim nom sg	S - anim nom sg	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	5	сочин	_	_
+8	второй	ВТОРОЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	предик	_	_
+9	редко	РЕДКО	ADV	ADV -	ADV -	10	обст	_	_
+10	наезжает	НАЕЗЖАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	только	ТОЛЬКО	PART	PART	PART	13	огранич	_	_
+13	если	ЕСЛИ	CONJ	CONJ	CONJ	10	обст	_	_
+14	с	С	PR	PR	PR	13	подч-союзн	_	_
+15	Соболевым	СОБОЛЕВ	S	S m inan loc sg	S m inan loc sg	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Кстати	КСТАТИ	ADV	ADV -	ADV -	10	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Перепелкину	ПЕРЕПЕЛКИН	S	S f inan nom sg	S f inan nom sg	10	предик	_	_
+4	за	ЗА	PR	PR	PR	3	атриб	_	_
+5	последний	ПОСЛЕДНИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	6	опред	_	_
+6	бой	БОЙ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+7	«	«	_	_	PUNC	6	PUNC	_	_
+8	Георгий	ГЕОРГИЙ	S	S m anim nom sg	S m anim nom sg	6	кратн	_	_
+9	»	»	_	_	PUNC	8	PUNC	_	_
+10	вышел	ВЫХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	С	С	PR	PR	PR	0	ROOT	_	_
+2	каких	КАКОЙ	A	A - loc pl plen - -	A - loc pl plen - -	0	ROOT	_	_
+3	таких	ТАКОЙ	A	A - loc pl plen - -	A - loc pl plen - -	0	ROOT	_	_
+4	заслуг	ЗАСЛУГА	S	S f inan gen pl	S f inan gen pl	3	1-компл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Вот	ВОТ	PART	PART	PART	3	огранич	_	_
+2	что	ЧТО	S	S n - nom sg	S n - nom sg	1	вспом	_	_
+3	значит	ЗНАЧИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	–	–	–	–	PUNC	0	ROOT	_	_
+5	оказаться	ОКАЗЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	4	1-компл	_	_
+6	в	В	PR	PR	PR	5	присвяз	_	_
+7	правильном	ПРАВИЛЬНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	8	опред	_	_
+8	месте	МЕСТО	S	S n inan loc sg	S n inan loc sg	6	предл	_	_
+9	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+10	в	В	PR	PR	PR	9	соч-союзн	_	_
+11	правильное	ПРАВИЛЬНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	12	опред	_	_
+12	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

@@ -1,0 +1,15 @@
+1	Румын	РУМЫН	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	лишь	ЛИШЬ	PART	PART	PART	3	огранич	_	_
+3	таинственно	ТАИНСТВЕННО	ADV	ADV -	ADV -	4	обст	_	_
+4	улыбнулся	УЛЫБАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	словно	СЛОВНО	CONJ	CONJ	CONJ	4	сравнит	_	_
+7	собирался	СОБИРАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	6	сравн-союзн	_	_
+8	умчать	УМЧАТЬ	V	V pf - - inf - -	V pf - - inf - -	7	1-компл	_	_
+9	спутницу	СПУТНИЦА	S	S f anim acc sg	S f anim acc sg	8	1-компл	_	_
+10	по меньшей мере	по меньшей мере	ADV	ADV -	-	11	огранич	_	_
+11	в	В	PR	PR	PR	8	обст	_	_
+12	тридевятое	ТРИДЕВЯТЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	13	опред	_	_
+13	царство	ЦАРСТВО	S	S n inan acc sg	S n inan acc sg	11	предл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

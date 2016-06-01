@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"осторожно","gr":"ADV="}],"text":"осторожно"}
+{"analysis":[{"lex":"приближаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"приблизился"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"дверь","gr":"S,f,inan=abl,sg"},{"lex":"дверь","gr":"S,f,inan=acc,pl"},{"lex":"дверь","gr":"S,f,inan=dat,sg"},{"lex":"дверь","gr":"S,f,inan=gen,sg"},{"lex":"дверь","gr":"S,f,inan=nom,pl"},{"lex":"дверь","gr":"S,f,inan=loc,sg"}],"text":"двери"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"хранилище","gr":"S,n,inan=abl,sg"},{"lex":"хранилище","gr":"S,n,inan=acc,sg"},{"lex":"хранилище","gr":"S,n,inan=nom,sg"}],"text":"хранилище"}
+{"analysis":[{"lex":"проводить","gr":"V=praet,sg,indic,m,pf"}],"text":"провел"}
+{"analysis":[{"lex":"рука","gr":"S,f,inan=ins,sg"}],"text":"рукой"}
+{"analysis":[{"lex":"по","gr":"PR="}],"text":"по"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,pl,indic,pf"}],"text":"стали"}

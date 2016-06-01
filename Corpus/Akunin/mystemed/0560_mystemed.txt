@@ -1,0 +1,9 @@
+{"analysis":[{"lex":"интересный","gr":"A=acc,pl,plen,supr,inan"},{"lex":"интересный","gr":"A=nom,pl,plen,supr"}],"text":"Интереснейшие"}
+{"analysis":[{"lex":"пометка","gr":"S,f,inan=acc,pl"},{"lex":"пометка","gr":"S,f,inan=gen,sg"},{"lex":"пометка","gr":"S,f,inan=nom,pl"}],"text":"пометки"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"записной","gr":"A=acc,sg,plen,m,inan"},{"lex":"записной","gr":"A=nom,sg,plen,m"},{"lex":"записной","gr":"A=abl,sg,plen,f"},{"lex":"записной","gr":"A=dat,sg,plen,f"},{"lex":"записной","gr":"A=gen,sg,plen,f"},{"lex":"записной","gr":"A=ins,sg,plen,f"}],"text":"записной"}
+{"analysis":[{"lex":"книжка","gr":"S,f,inan=abl,sg"},{"lex":"книжка","gr":"S,f,inan=dat,sg"}],"text":"книжке"}
+{"text":"\\s"}
+{"analysis":[{"lex":"вот","gr":"PART="}],"text":"Вот"}
+{"analysis":[{"lex":"взглядывать","gr":"V,intr=pl,imper,2p,pf"}],"text":"взгляните"}
+{"analysis":[{"lex":"ка","gr":"PART="}],"text":"ка"}

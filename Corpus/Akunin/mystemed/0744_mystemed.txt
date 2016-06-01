@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"что-то","gr":"SPRO,sg,n,inan=acc"},{"lex":"что-то","gr":"SPRO,sg,n,inan=nom"}],"text":"Что-то"}
+{"analysis":[{"lex":"знать","gr":"V,ipf,tran=inpraes,pl,indic,2p"}],"text":"знаете"}
+{"text":"\\s"}
+{"analysis":[{"lex":"что","gr":"SPRO,sg,n,inan=acc"},{"lex":"что","gr":"SPRO,sg,n,inan=nom"}],"text":"Что"}
+{"text":"\\s"}
+{"analysis":[{"lex":"откуда","gr":"ADVPRO="}],"text":"Откуда"}

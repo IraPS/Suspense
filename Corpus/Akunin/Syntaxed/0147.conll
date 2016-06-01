@@ -1,0 +1,11 @@
+1	Волонтер	ВОЛОНТЕР	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	все же	все же	PART	PART	ZERO	3	огранич	_	_
+3	понизил	ПОНИЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	голос	ГОЛОС	S	S m inan nom sg	S m inan nom sg	3	об-аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+7	корреспонденты	КОРРЕСПОНДЕНТ	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+8	навострили	НАВОСТРИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	соч-союзн	_	_
+9	уши	УХО	S	S n inan nom pl	S n inan nom pl	8	суб-копр	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

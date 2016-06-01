@@ -1,0 +1,51 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	голубоглазый	ГОЛУБОГЛАЗЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	предик	_	_
+3	ни	НИ	CONJ	CONJ	CONJ	4	соотнос	_	_
+4	о	О	PR	PR	PR	6	2-компл	_	_
+5	чем	ЧТО	S	S n - ins sg	S n - ins sg	4	предл	_	_
+6	спрашивать	СПРАШИВАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	8	1-компл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Удрученно	УДРУЧЕННО	ADV	ADV -	ADV -	2	обст	_	_
+2	вздохнул	ВЗДЫХАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	слегка	СЛЕГКА	ADV	ADV -	ADV -	6	огранич	_	_
+6	заикаясь	ЗАИКАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	8	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	соч-союзн	_	_
+9	на	НА	PR	PR	PR	8	обст	_	_
+10	чистом	ЧИСТЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	14	опред	_	_
+11	русском	РУССКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	12	опред	_	_
+12	:	:	:	:	PUNC	14	опред	_	_
+13	–	–	–	–	PUNC	14	опред	_	_
+14	Эх	ЭХ	INTJ	INTJ	INTJ	9	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	м	М	S	S - - nonflex nonflex	S - - nonflex nonflex	8	3-компл	_	_
+17	-	-	-	-	PUNC	16	PUNC	_	_
+18	мадемуазель	МАДЕМУАЗЕЛЬ	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	лучше	ХОРОШО	ADV	ADV comp	ADV comp	21	обст	_	_
+21	дожидались	ДОЖИДАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	сент-соч	_	_
+22	бы	БЫ	PART	PART	PART	21	аналит	_	_
+23	жениха	ЖЕНИХ	S	S m anim acc sg	S m anim acc sg	21	1-компл	_	_
+24	дома	ДОМА	ADV	ADV -	ADV -	21	обст	_	_
+25	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	Тут	ТУТ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	вам	ВЫ	SPRO	SPRO pl 2p - dat	SPRO pl 2p - dat	0	ROOT	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	роман	РОМАН	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+5	Майн	МАЙН	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	Рида	РИД	S	S m anim gen sg	S m anim gen sg	5	аппоз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Скверно	СКВЕРНО	ADV	ADV -	ADV -	2	обст	_	_
+2	могло	МОЧЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+3	з	З	S	S - - nonflex nonflex	S - - nonflex nonflex	2	1-компл	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	закончиться	ЗАКАНЧИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	2-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

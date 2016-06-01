@@ -1,0 +1,89 @@
+1	Вчера	ВЧЕРА	ADV	ADV -	ADV -	4	обст	_	_
+2	до	ДО	PR	PR	PR	4	1-компл	_	_
+3	Царевиц	ЦАРЕВИЦ	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	добрались	ДОБИРАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	только	ТОЛЬКО	PART	PART	PART	6	огранич	_	_
+6	к	К	PR	PR	PR	4	2-компл	_	_
+7	ночи	НОЧЬ	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	немедленно	НЕМЕДЛЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	отправился	ОТПРАВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	штаб	ШТАБ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+8	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	18	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	хоть	ХОТЬ	CONJ	CONJ	CONJ	8	сочин	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	валилась	ВАЛИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	11	соч-союзн	_	_
+13	с	С	PR	PR	PR	12	1-компл	_	_
+14	ног	НОГА	S	S f inan gen pl	S f inan gen pl	13	предл	_	_
+15	от	ОТ	PR	PR	PR	12	2-компл	_	_
+16	усталости	УСТАЛОСТЬ	S	S f inan gen sg	S f inan gen sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	занялась	ЗАНИМАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	7	соч-союзн	_	_
+19	необходимым	НЕОБХОДИМЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	18	2-компл	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	Милосердные	МИЛОСЕРДНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	2	опред	_	_
+2	сестры	СЕСТРА	S	S f anim gen sg	S f anim gen sg	0	ROOT	_	_
+3	из	ИЗ	PR	PR	PR	2	атриб	_	_
+4	санитарного	САНИТАРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	отряда	ОТРЯД	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+6	баронессы	БАРОНЕССА	S	S f anim gen sg	S f anim gen sg	5	квазиагент	_	_
+7	Врейской	ВРЕЙСКИЙ	A	A - loc sg plen f -	A - loc sg plen f -	8	опред	_	_
+8	дали	ДАЛЬ	S	S f inan loc sg	S f inan loc sg	2	разъяснит	_	_
+9	ей	ОНА	SPRO	SPRO sg 3p f dat	SPRO sg 3p f dat	10	опред	_	_
+10	одежду	ОДЕЖДА	S	S f inan acc sg	S f inan acc sg	12	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	согрели	СОГРЕВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	сент-соч	_	_
+13	воды	ВОДА	S	S f inan nom pl	S f inan nom pl	12	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+16	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	18	предик	_	_
+17	сначала	СНАЧАЛА	ADV	ADV -	ADV -	18	обст	_	_
+18	привела	ПРИВОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	соч-союзн	_	_
+19	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	18	1-компл	_	_
+20	в	В	PR	PR	PR	18	3-компл	_	_
+21	порядок	ПОРЯДОК	S	S m inan acc sg	S m inan acc sg	20	предл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	а	А	CONJ	CONJ	CONJ	18	сент-соч	_	_
+24	уже	УЖЕ	ADV	ADV -	ADV -	25	огранич	_	_
+25	потом	ПОТОМ	ADV	ADV -	ADV -	26	обст	_	_
+26	рухнула	РУХНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	23	соч-союзн	_	_
+27	на	НА	PR	PR	PR	26	1-компл	_	_
+28	лазаретную	ЛАЗАРЕТНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	29	опред	_	_
+29	койку	КОЙКА	S	S f inan acc sg	S f inan acc sg	27	предл	_	_
+30	–	–	–	–	PUNC	26	2-компл	_	_
+31	благо	БЛАГО	CONJ	CONJ	CONJ	26	обст	_	_
+32	раненых	РАНЕНЫЙ	S	S m anim gen pl	S m anim gen pl	38	предик	_	_
+33	в	В	PR	PR	PR	38	обст	_	_
+34	госпитальных	ГОСПИТАЛЬНЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	35	опред	_	_
+35	палатках	ПАЛАТКА	S	S f inan loc pl	S f inan loc pl	33	предл	_	_
+36	почти	ПОЧТИ	ADV	ADV -	ADV -	38	огранич	_	_
+37	не	НЕ	PART	PART	PART	38	огранич	_	_
+38	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	31	подч-союзн	_	_
+39	.	.	SENT	SENT	SENT	38	PUNC	_	_
+
+1	Встреча	ВСТРЕЧА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+2	с	С	PR	PR	PR	1	1-компл	_	_
+3	Петей	ПЕТЯ	S	S m anim ins sg	S m anim ins sg	2	предл	_	_
+4	была	БЫТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	отложена	ОТКЛАДЫВАТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	4	пасс-анал	_	_
+6	на	НА	PR	PR	PR	5	2-компл	_	_
+7	завтра	ЗАВТРА	ADV	ADV -	ADV -	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	ибо	ИБО	CONJ	CONJ	CONJ	4	обст	_	_
+10	во время	во время	PR	PR	ZERO	15	1-компл	_	_
+11	предстоящего	ПРЕДСТОЯЩИЙ	A	A - gen sg plen n -	A - gen sg plen n -	13	опред	_	_
+12	важного	ВАЖНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	13	опред	_	_
+13	объяснения	ОБЪЯСНЕНИЕ	S	S n inan gen sg	S n inan gen sg	10	предл	_	_
+14	следовало	СЛЕДОВАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	9	подч-союзн	_	_
+15	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	14	предик	_	_
+16	во	ВО	PR	PR	PR	15	присвяз	_	_
+17	всеоружии	ВСЕОРУЖИЕ	S	S n inan loc sg	S n inan loc sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

@@ -1,0 +1,84 @@
+1	Сначала	СНАЧАЛА	ADV	ADV -	ADV -	3	обст	_	_
+2	ротмистр	РОТМИСТР	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	развлекал	РАЗВЛЕКАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	3	1-компл	_	_
+5	джигитовкой	ДЖИГИТОВКА	S	S m inan gen sg	S m inan gen sg	4	1-компл	_	_
+6	–	–	–	–	PUNC	7	1-компл	_	_
+7	срывал	СРЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	сочин	_	_
+8	на	НА	PR	PR	PR	7	обст	_	_
+9	скаку	СКАК	S	S m inan dat sg	S m inan dat sg	8	предл	_	_
+10	синие	СИНИЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	опред	_	_
+11	колокольчики	КОЛОКОЛЬЧИК	S	S m inan nom pl	S m inan nom pl	7	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	жонглировал	ЖОНГЛИРОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	7	сочин	_	_
+14	золотыми	ЗОЛОТОЙ	A	A - ins pl plen - -	A - ins pl plen - -	15	опред	_	_
+15	империалами	ИМПЕРИАЛ	S	S m inan ins pl	S m inan ins pl	13	1-компл	_	_
+16	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+17	вставал	ВСТАВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	16	соч-союзн	_	_
+18	в	В	PR	PR	PR	17	1-компл	_	_
+19	седле	СЕДЛО	S	S n inan loc sg	S n inan loc sg	18	предл	_	_
+20	на	НА	PR	PR	PR	19	2-компл	_	_
+21	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	20	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Потом	ПОТОМ	ADV	ADV -	ADV -	2	обст	_	_
+2	предпринял	ПРЕДПРИНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	попытку	ПОПЫТКА	S	S f inan acc sg	S f inan acc sg	2	1-компл	_	_
+4	поменяться	ПОМЕНЯТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	с	С	PR	PR	PR	4	обст	_	_
+6	Маклафлином	МАКЛАФЛИН	S	S m anim ins sg	S m anim ins sg	5	предл	_	_
+7	местами	МЕСТО	S	S n inan ins pl	S n inan ins pl	4	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+10	когда	КОГДА	CONJ	CONJ	CONJ	18	обст	_	_
+11	получил	ПОЛУЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	подч-союзн	_	_
+12	флегматичный	ФЛЕГМАТИЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	суб-копр	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	но	НО	CONJ	CONJ	CONJ	10	сочин	_	_
+15	решительный	РЕШИТЕЛЬНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	16	опред	_	_
+16	отпор	ОТПОР	S	S m inan acc sg	S m inan acc sg	14	соч-союзн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	пересадил	ПЕРЕСАЖИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+19	на	НА	PR	PR	PR	18	2-компл	_	_
+20	свою	СВОЙ	A	A - acc sg plen f -	A - acc sg plen f -	22	опред	_	_
+21	рыжую	РЫЖИЙ	A	A - acc sg plen f -	A - acc sg plen f -	22	опред	_	_
+22	кобылу	КОБЫЛА	S	S f anim acc sg	S f anim acc sg	19	предл	_	_
+23	безответного	БЕЗОТВЕТНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	24	опред	_	_
+24	кучера	КУЧЕР	S	S m anim gen sg	S m anim gen sg	22	квазиагент	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	28	суб-копр	_	_
+27	же	ЖЕ	PART	PART	PART	26	огранич	_	_
+28	уселся	УСАЖИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	18	сочин	_	_
+29	на	НА	PR	PR	PR	28	1-компл	_	_
+30	козлы	КОЗЛЫ	S	S - inan acc pl	S - inan acc pl	29	предл	_	_
+31	и	И	CONJ	CONJ	CONJ	28	сочин	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	поминутно	ПОМИНУТНО	ADV	ADV -	ADV -	34	обст	_	_
+34	вертя	ВЕРТЕТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	37	обст	_	_
+35	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	34	1-компл	_	_
+36	,	,	,	,	PUNC	35	PUNC	_	_
+37	смешил	СМЕШИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	31	соч-союзн	_	_
+38	Варю	ВАРИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	37	1-компл	_	_
+39	враками	ВРАКИ	S	S - inan ins pl	S - inan ins pl	38	1-компл	_	_
+40	о	О	PR	PR	PR	39	1-компл	_	_
+41	своем	СВОЙ	A	A - loc sg plen m -	A - loc sg plen m -	42	опред	_	_
+42	героизме	ГЕРОИЗМ	S	S m inan loc sg	S m inan loc sg	40	предл	_	_
+43	и	И	CONJ	CONJ	CONJ	42	сочин	_	_
+44	происках	ПРОИСКИ	S	S - inan loc pl	S - inan loc pl	43	соч-союзн	_	_
+45	ревнивого	РЕВНИВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	46	опред	_	_
+46	Жеромки	ЖЕРОМКА	S	S m inan gen sg	S m inan gen sg	44	1-компл	_	_
+47	Перепелкина	ПЕРЕПЕЛКИН	S	S m anim acc sg	S m anim acc sg	39	разъяснит	_	_
+48	,	,	,	,	PUNC	47	PUNC	_	_
+49	с	С	PR	PR	PR	53	обст	_	_
+50	которым	КОТОРЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	49	предл	_	_
+51	новоиспеченный	НОВОИСПЕЧЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	52	опред	_	_
+52	адъютант	АДЪЮТАНТ	S	S m anim nom sg	S m anim nom sg	53	предик	_	_
+53	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	47	релят	_	_
+54	на	НА	PR	PR	PR	53	обст	_	_
+55	ножах	НОЖ	S	S m inan loc pl	S m inan loc pl	54	предл	_	_
+56	.	.	SENT	SENT	SENT	55	PUNC	_	_
+
+1	Так и	Так и	CONJ	CONJ	ZERO	0	ROOT	_	_
+2	доехали	ДОЕЗЖАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+

@@ -1,0 +1,18 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Отставить	ОТСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	болван	БОЛВАН	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	8	обст	_	_
+7	–	–	–	–	PUNC	8	1-компл	_	_
+8	пробурчал	ПРОБУРЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	сент-соч	_	_
+9	багровый	БАГРОВЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	10	опред	_	_
+10	герой	ГЕРОЙ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	опред	_	_
+2	К	К	PR	PR	PR	1	2-компл	_	_
+3	черту	ЧЕРТА	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	врата	ВРАТА	S	S - inan acc pl	S - inan acc pl	0	ROOT	_	_
+5	…	…	SENT	SENT	SENT	4	PUNC	_	_
+

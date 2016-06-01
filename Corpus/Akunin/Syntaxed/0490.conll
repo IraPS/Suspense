@@ -1,0 +1,51 @@
+1	Нет	НЕТ	PART	PART	PART	7	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	положительно	ПОЛОЖИТЕЛЬНО	ADV	ADV -	ADV -	7	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	это	ЭТО	S	S n - nom sg	S n - nom sg	7	предик	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	7	сент-соч	_	_
+10	кусок	КУСОК	S	S m inan nom sg	S m inan nom sg	13	предик	_	_
+11	льда	ЛЕД	S	S m inan gen sg	S m inan gen sg	10	квазиагент	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	подумала	ПОДУМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	соч-союзн	_	_
+14	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	13	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Попробуй	ПОПРОБОВАТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	0	ROOT	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	ка	КА	PART	PART	PART	1	огранич	_	_
+4	такого	ТАКОЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	разморозь	РАЗМОРАЖИВАТЬ	V	V pf - sg imper - 2p	V pf - sg imper - 2p	1	предик	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Неужто	НЕУЖТО	PART	PART	PART	3	огранич	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	видит	ВИДЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	француз	ФРАНЦУЗ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+7	кругами	КРУГ	S	S m inan ins pl	S m inan ins pl	8	обст	_	_
+8	ходит	ХОДИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	подч-союзн	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Да	ДА	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	нет	НЕТ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	5	1-компл	_	_
+5	видит	ВИДЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	просто	ПРОСТО	PART	PART	PART	8	огранич	_	_
+8	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	5	2-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	как	КАК	CONJ	CONJ	CONJ	5	сравнит	_	_
+11	говорит	ГОВОРИТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	сравн-союзн	_	_
+12	Лушка	ЛУШКА	S	S f anim nom sg	S f anim nom sg	11	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	плюнуть	ПЛЮНУТЬ	V	V pf - - inf - -	V pf - - inf - -	5	предик	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	размазать	РАЗМАЗЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	15	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

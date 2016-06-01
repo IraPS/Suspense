@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"мужественно","gr":"ADV="}],"text":"мужественно"}
+{"analysis":[{"lex":"сдергивать","gr":"V=praet,sg,indic,f,pf"}],"text":"сдернула"}
+{"analysis":[{"lex":"шляпка","gr":"S,f,inan=acc,sg"}],"text":"шляпку"}
+{"analysis":[{"lex":"обнажать","gr":"V,tran=praet,ger,pf"}],"text":"обнажив"}
+{"analysis":[{"lex":"свой","gr":"APRO=acc,sg,m,inan"},{"lex":"свой","gr":"APRO=nom,sg,m"}],"text":"свой"}
+{"analysis":[{"lex":"постыдный","gr":"A=acc,sg,plen,m,inan"},{"lex":"постыдный","gr":"A=nom,sg,plen,m"}],"text":"постыдный"}
+{"analysis":[{"lex":"бобрик","gr":"S,geo,m,inan=acc,sg"},{"lex":"бобрик","gr":"S,geo,m,inan=nom,sg"}],"text":"бобрик"}
+{"text":"\\s"}
+{"analysis":[{"lex":"проверка","gr":"S,f,inan=nom,sg"}],"text":"Проверка"}
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"так"}
+{"analysis":[{"lex":"проверка","gr":"S,f,inan=nom,sg"}],"text":"проверка"}

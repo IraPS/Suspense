@@ -1,0 +1,14 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	нахмурилась	НАХМУРИВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	покоробленная	ПОКОРОБИТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	2	1-компл	_	_
+5	словом	СЛОВОМ	ADV	ADV -	ADV -	4	обст	_	_
+6	«	«	_	_	PUNC	5	PUNC	_	_
+7	немножко	НЕМНОЖКО	ADV	ADV -	ADV -	10	вводн	_	_
+8	»	»	_	_	PUNC	7	PUNC	_	_
+9	:	:	:	:	PUNC	10	опред	_	_
+10	–	–	–	–	PUNC	2	обст	_	_
+11	Премного	ПРЕМНОГО	ADV	ADV -	ADV -	12	огранич	_	_
+12	благодарна	БЛАГОДАРНЫЙ	A	A - - sg brev f -	A - - sg brev f -	2	сочин	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

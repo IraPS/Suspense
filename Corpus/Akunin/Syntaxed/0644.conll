@@ -1,0 +1,73 @@
+1	–	–	–	–	PUNC	12	предик	_	_
+2	А	А	S	S - - nonflex nonflex	S - - nonflex nonflex	1	аппоз	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	а	А	CONJ	CONJ	CONJ	1	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	господин	ГОСПОДИН	S	S m anim nom sg	S m anim nom sg	4	соч-союзн	_	_
+7	титулярный	ТИТУЛЯРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+8	советник	СОВЕТНИК	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+9	с	С	PR	PR	PR	12	обст	_	_
+10	госпожой	ГОСПОЖА	S	S f anim ins sg	S f anim ins sg	9	предл	_	_
+11	секретаршей	СЕКРЕТАРША	S	S f anim ins sg	S f anim ins sg	10	аппоз	_	_
+12	пожаловали	ПОЖАЛОВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	 	 	 	 	PUNC	17	2-компл	_	_
+15	–	–	–	–	PUNC	17	1-компл	_	_
+16	ядовито	ЯДОВИТО	ADV	ADV -	ADV -	17	обст	_	_
+17	произнес	ПРОИЗНОСИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	вводн	_	_
+18	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	17	предик	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	предик	_	_
+2	Ну	НУ	PART	PART	PART	3	огранич	_	_
+3	чудненько	ЧУДНЕНЬКИЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	6	обст	_	_
+6	осталось	ОСТАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	3	сент-соч	_	_
+7	только	ТОЛЬКО	PART	PART	PART	8	огранич	_	_
+8	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	9	квазиагент	_	_
+9	высокоблагородие	ВЫСОКОБЛАГОРОДИЕ	S	S n inan nom sg	S n inan nom sg	6	предик	_	_
+10	господина	ГОСПОДИН	S	S m anim gen sg	S m anim gen sg	9	квазиагент	_	_
+11	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	10	аппоз	_	_
+12	дождаться	ДОЖДАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+15	можно	МОЖНО	ADV	ADV -	ADV -	16	присвяз	_	_
+16	начинать	НАЧИНАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	14	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Где	ГДЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	?!	?!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	рявкнул	РЯВКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	1-компл	_	_
+2	Ивана	ИВАН	S	S m anim gen sg	S m anim gen sg	1	квазиагент	_	_
+3	Харитоновича	ХАРИТОНОВИЧ	S	S m anim gen sg	S m anim gen sg	2	аппоз	_	_
+4	вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	7	обст	_	_
+5	никто	НИКТО	S	S m - nom sg	S m - nom sg	7	1-компл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	видел	ВИДЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	12	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	12	2-компл	_	_
+10	–	–	–	–	PUNC	12	1-компл	_	_
+11	робко	РОБКО	ADV	ADV -	ADV -	12	обст	_	_
+12	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+13	старший	СТАРШИЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	предик	_	_
+14	из	ИЗ	PR	PR	PR	13	электив	_	_
+15	офицеров	ОФИЦЕР	S	S m anim gen pl	S m anim gen pl	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Славно	СЛАВНО	ADV	ADV -	ADV -	1	обст	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Хороши	ХОРОШИЙ	A	A - - pl brev - -	A - - pl brev - -	0	ROOT	_	_
+2	защитники	ЗАЩИТНИК	S	S m anim nom pl	S m anim nom pl	1	предик	_	_
+3	секретов	СЕКРЕТ	S	S m inan gen pl	S m inan gen pl	2	1-компл	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

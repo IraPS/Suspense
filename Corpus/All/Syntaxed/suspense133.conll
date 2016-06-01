@@ -1,0 +1,15 @@
+1	Все	ВСЕ	S	S - - nom pl	S - - nom pl	4	предик	_	_
+2	с	С	PR	PR	PR	4	обст	_	_
+3	облегчением	ОБЛЕГЧЕНИЕ	S	S n inan ins sg	S n inan ins sg	2	предл	_	_
+4	вздохнули	ВЗДЫХАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	когда	КОГДА	CONJ	CONJ	CONJ	4	обст	_	_
+7	увидели	УВИДЕТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	подч-союзн	_	_
+8	платформу	ПЛАТФОРМА	S	S f inan acc sg	S f inan acc sg	7	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	на	НА	PR	PR	PR	12	1-компл	_	_
+11	которой	КОТОРЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	10	предл	_	_
+12	стоял	СТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сент-соч	_	_
+13	Панфилыч	ПАНФИЛЫЧ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

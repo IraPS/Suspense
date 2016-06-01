@@ -1,0 +1,39 @@
+1	Восьмым	ВОСЬМОЙ	A	A - ins sg plen n -	A - ins sg plen n -	2	присвяз	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	приглашен	ПРИГЛАШАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	2	пасс-анал	_	_
+4	Кольбер	КОЛЬБЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	несчастная	НЕСЧАСТНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+7	любовь	ЛЮБОВЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+8	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	квазиагент	_	_
+9	к	К	PR	PR	PR	7	1-компл	_	_
+10	одной	ОДИН	A	A - loc sg plen f -	A - loc sg plen f -	9	предл	_	_
+11	из	ИЗ	PR	PR	PR	10	электив	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	трех	ТРИ	NUM	NUM loc - -	NUM loc - -	2	количест	_	_
+2	пустившихся	ПУСКАТЬСЯ	PARTCP	PARTCP pf praet loc pl plen - act -	PARTCP pf praet loc pl plen - act -	6	опред	_	_
+3	в	В	PR	PR	PR	2	2-компл	_	_
+4	путешествие	ПУТЕШЕСТВИЕ	S	S n inan acc sg	S n inan acc sg	3	предл	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	Джой	ДЖОЙ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+7	Тевис	ТЕВИС	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	стала	СТАНОВИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+10	очень	ОЧЕНЬ	ADV	ADV -	ADV -	11	огранич	_	_
+11	популярной	ПОПУЛЯРНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	9	присвяз	_	_
+12	в	В	PR	PR	PR	9	обст	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	университете	УНИВЕРСИТЕТ	S	S m inan loc sg	S m inan loc sg	7	предик	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	год	ГОД	S	S m inan acc sg	S m inan acc sg	7	длительн	_	_
+4	назад	НАЗАД	ADV	ADV -	ADV -	7	обст	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	часто	ЧАСТО	ADV	ADV -	ADV -	5	соч-союзн	_	_
+7	служила	СЛУЖИТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+8	материалом	МАТЕРИАЛ	S	S m inan ins sg	S m inan ins sg	7	1-компл	_	_
+9	для	ДЛЯ	PR	PR	PR	8	атриб	_	_
+10	комментариев	КОММЕНТАРИЙ	S	S m inan gen pl	S m inan gen pl	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

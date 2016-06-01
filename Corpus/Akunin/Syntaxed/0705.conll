@@ -1,0 +1,120 @@
+1	Холодным	ХОЛОДНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	4	опред	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	противным	ПРОТИВНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	4	опред	_	_
+4	днем	ДЕНЬ	S	S m inan ins sg	S m inan ins sg	10	обст	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	серое	СЕРЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	7	опред	_	_
+7	небо	НЕБО	S	S n inan nom sg	S n inan nom sg	10	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	ледяная	ЛЕДЯНОЙ	A	A - nom sg plen f -	A - nom sg plen f -	10	опред	_	_
+10	морось	МОРОСЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	чавкающая	ЧАВКАТЬ	PARTCP	PARTCP ipf inpraes nom sg plen f act -	PARTCP ipf inpraes nom sg plen f act -	10	вводн	_	_
+13	грязь	ГРЯЗЬ	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+14	)	)	_	_	PUNC	13	PUNC	_	_
+15	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	16	предик	_	_
+16	возвращалась	ВОЗВРАЩАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	13	релят	_	_
+17	на	НА	PR	PR	PR	16	2-компл	_	_
+18	специально	СПЕЦИАЛЬНО	ADV	ADV -	ADV -	19	обст	_	_
+19	нанятом	НАНИМАТЬ	PARTCP	PARTCP pf praet loc sg plen m pass -	PARTCP pf praet loc sg plen m pass -	20	опред	_	_
+20	извозчике	ИЗВОЗЧИК	S	S m anim loc sg	S m anim loc sg	17	предл	_	_
+21	в	В	PR	PR	PR	16	обст	_	_
+22	расположение	РАСПОЛОЖЕНИЕ	S	S n inan acc sg	S n inan acc sg	21	предл	_	_
+23	армии	АРМИЯ	S	S f inan gen sg	S f inan gen sg	22	квазиагент	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Целый	ЦЕЛЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	2	опред	_	_
+2	месяц	МЕСЯЦ	S	S m inan acc sg	S m inan acc sg	3	1-компл	_	_
+3	провалялась	ПРОВАЛЯТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	обст	_	_
+5	Тырновском	ТЫРНОВСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	7	опред	_	_
+6	эпидемическом	ЭПИДЕМИЧЕСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	7	опред	_	_
+7	госпитале	ГОСПИТАЛЬ	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+8	на	НА	PR	PR	PR	7	атриб	_	_
+9	больничной	БОЛЬНИЧНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	10	опред	_	_
+10	койке	КОЙКА	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+11	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+12	даже	ДАЖЕ	PART	PART	PART	13	огранич	_	_
+13	вполне	ВПОЛНЕ	ADV	ADV -	ADV -	14	огранич	_	_
+14	могла	МОЧЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	11	соч-союзн	_	_
+15	умереть	УМИРАТЬ	V	V pf - - inf - -	V pf - - inf - -	14	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	потому что	потому что	CONJ	CONJ	ZERO	3	обст	_	_
+18	от	ОТ	PR	PR	PR	20	1-компл	_	_
+19	тифа	ТИФ	S	S m inan gen sg	S m inan gen sg	18	предл	_	_
+20	умирали	УМИРАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	17	подч-союзн	_	_
+21	многие	МНОГИЕ	S	S - - nom pl	S - - nom pl	20	предик	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	но	НО	CONJ	CONJ	CONJ	20	сент-соч	_	_
+24	ничего	НИЧЕГО	ADV	ADV -	ADV -	26	вводн	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	обошлось	ОБХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	23	соч-союзн	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	Потом	ПОТОМ	ADV	ADV -	ADV -	5	обст	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	4	количест	_	_
+4	месяца	МЕСЯЦ	S	S m inan gen sg	S m inan gen sg	5	длительн	_	_
+5	изнывала	ИЗНЫВАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+6	от	ОТ	PR	PR	PR	5	1-компл	_	_
+7	скуки	СКУКА	S	S f inan gen sg	S f inan gen sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	дожидаясь	ДОЖИДАТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	5	обст	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	пока	ПОКА	CONJ	CONJ	CONJ	9	1-компл	_	_
+12	отрастут	ОТРАСТАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	11	подч-союзн	_	_
+13	волосы	ВОЛОС	S	S m inan nom pl	S m inan nom pl	12	предик	_	_
+14	–	–	–	–	PUNC	16	1-компл	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	ехать	ЕХАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	12	1-компл	_	_
+17	же	ЖЕ	PART	PART	PART	16	огранич	_	_
+18	стриженой	СТРИЖЕНЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	0	ROOT	_	_
+19	под	ПОД	PR	PR	PR	18	1-компл	_	_
+20	татарина	ТАТАРИН	S	S m anim gen sg	S m anim gen sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Проклятые	ПРОКЛЯТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	волосы	ВОЛОС	S	S m inan nom pl	S m inan nom pl	3	предик	_	_
+3	отрастали	ОТРАСТАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	медленно	МЕДЛЕННО	ADV	ADV -	ADV -	3	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	0	ROOT	_	_
+7	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+8	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	11	обст	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	столько	СТОЛЬКО	NUM	NUM acc - -	NUM acc - -	11	1-компл	_	_
+11	лежали	ЛЕЖАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	7	соч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	сколько	СКОЛЬКО	ADV	ADV -	ADV -	14	1-компл	_	_
+14	стояли	СТОЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	11	сочин	_	_
+15	бобриком	БОБРИКОМ	ADV	ADV -	ADV -	14	обст	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Вид	ВИД	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	жутко	ЖУТКО	ADV	ADV -	ADV -	4	огранич	_	_
+4	нелепый	НЕЛЕПЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	присвяз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	терпение	ТЕРПЕНИЕ	S	S n inan nom sg	S n inan nom sg	8	предик	_	_
+8	кончилось	КОНЧАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	6	соч-союзн	_	_
+9	–	–	–	–	PUNC	8	1-компл	_	_
+10	еще	ЕЩЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	неделя	НЕДЕЛЯ	S	S f inan nom sg	S f inan nom sg	8	сочин	_	_
+12	безделья	БЕЗДЕЛЬЕ	S	S n inan gen sg	S n inan gen sg	11	квазиагент	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+15	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	14	соч-союзн	_	_
+16	просто	ПРОСТО	ADV	ADV -	ADV -	17	обст	_	_
+17	сошла	СХОДИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	сент-соч	_	_
+18	бы	БЫ	PART	PART	PART	17	аналит	_	_
+19	с	С	PR	PR	PR	17	1-компл	_	_
+20	ума	УМ	S	S m inan gen sg	S m inan gen sg	19	предл	_	_
+21	от	ОТ	PR	PR	PR	17	2-компл	_	_
+22	вида	ВИД	S	S m inan gen sg	S m inan gen sg	21	предл	_	_
+23	горбатых	ГОРБАТЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	24	опред	_	_
+24	улочек	УЛОЧКА	S	S f inan gen pl	S f inan gen pl	22	квазиагент	_	_
+25	опостылевшего	ОПОСТЫЛЕТЬ	PARTCP	PARTCP pf praet acc sg plen m act anim	PARTCP pf praet acc sg plen m act anim	26	опред	_	_
+26	городишки	ГОРОДИШКО	S	S m inan acc pl	S m inan acc pl	17	1-компл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+

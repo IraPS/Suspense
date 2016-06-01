@@ -1,0 +1,66 @@
+1	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	сомневались	СОМНЕВАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	1-компл	_	_
+5	последствиях	ПОСЛЕДСТВИЕ	S	S n inan loc pl	S n inan loc pl	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+7	полагали	ПОЛАГАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	6	соч-союзн	_	_
+8	нового	НОВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	товарища	ТОВАРИЩ	S	S m anim gen sg	S m anim gen sg	7	1-компл	_	_
+10	уже	УЖЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	убитым	УБИТЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	9	опред	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Офицер	ОФИЦЕР	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	вышел	ВЫХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	вон	ВОН	PART	PART	PART	5	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	сказав	СКАЗАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+8	за	ЗА	PR	PR	PR	10	обст	_	_
+9	обиду	ОБИДА	S	S f inan acc sg	S f inan acc sg	8	предл	_	_
+10	готов	ГОТОВЫЙ	A	A - - sg brev m -	A - - sg brev m -	7	подч-союзн	_	_
+11	отвечать	ОТВЕЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	как	КАК	CONJ	CONJ	CONJ	10	сравнит	_	_
+14	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	13	сравн-союзн	_	_
+15	угодно	УГОДНО	PART	PART	PART	16	огранич	_	_
+16	господину	ГОСПОДИН	S	S m anim dat sg	S m anim dat sg	14	2-компл	_	_
+17	банкомету	БАНКОМЕТ	S	S m inan gen sg	S m inan gen sg	16	1-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Игра	ИГРА	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+2	продолжалась	ПРОДОЛЖАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	5	огранич	_	_
+4	несколько	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	5	количест	_	_
+5	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	2	1-компл	_	_
+6	;	;	SENT	SENT	SENT	5	PUNC	_	_
+
+1	но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	чувствуя	ЧУВСТВОВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	13	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+6	хозяину	ХОЗЯИН	S	S m anim dat sg	S m anim dat sg	9	дат-субъект	_	_
+7	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	5	подч-союзн	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	до	ДО	PR	PR	PR	7	присвяз	_	_
+10	игры	ИГРА	S	S f inan gen sg	S f inan gen sg	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	13	предик	_	_
+13	отстали	ОТСТАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	соч-союзн	_	_
+14	один	ОДИН	A	A - acc sg plen m inan	A - acc sg plen m inan	15	количест	_	_
+15	за	ЗА	PR	PR	PR	13	обст	_	_
+16	другим	ДРУГОЙ	A	A - dat pl plen - -	A - dat pl plen - -	0	ROOT	_	_
+17	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+18	разбрелись	РАЗБРЕДАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	17	соч-союзн	_	_
+19	по	ПО	PR	PR	PR	18	обст	_	_
+20	квартирам	КВАРТИРА	S	S f inan dat pl	S f inan dat pl	19	предл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	толкуя	ТОЛКОВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	18	обст	_	_
+23	о	О	PR	PR	PR	22	1-компл	_	_
+24	скорой	СКОРЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	25	опред	_	_
+25	ваканции	ВАКАНЦИЯ	S	S f inan loc sg	S f inan loc sg	23	предл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+

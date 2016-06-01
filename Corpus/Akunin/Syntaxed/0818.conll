@@ -1,0 +1,42 @@
+1	Император	ИМПЕРАТОР	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	изумленно	ИЗУМЛЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	уставился	УСТАВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	1-компл	_	_
+5	дерзкую	ДЕРЗКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	нарушительницу	НАРУШИТЕЛЬНИЦА	S	S f anim acc sg	S f anim acc sg	4	предл	_	_
+7	этикета	ЭТИКЕТ	S	S m inan gen sg	S m inan gen sg	6	квазиагент	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+10	старенький	СТАРЕНЬКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	Корчаков	КОРЧАК	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+12	укоризненно	УКОРИЗНЕННО	ADV	ADV -	ADV -	13	обст	_	_
+13	покачал	ПОКАЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+14	головой	ГОЛОВА	S	S f inan ins sg	S f inan ins sg	13	1-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Даже	ДАЖЕ	PART	PART	PART	2	огранич	_	_
+2	Фандорин	ФАНДОРИНА	S	S f inan gen pl	S f inan gen pl	9	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+5	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	4	соч-союзн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	9	вводн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	смутился	СМУЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+10	–	–	–	–	PUNC	11	1-компл	_	_
+11	переступил	ПЕРЕСТУПАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	сочин	_	_
+12	с	С	PR	PR	PR	11	2-компл	_	_
+13	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	12	предл	_	_
+14	на	НА	PR	PR	PR	11	3-компл	_	_
+15	ногу	НОГА	S	S f inan acc sg	S f inan acc sg	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	В	В	PR	PR	PR	7	обст	_	_
+2	общем	ОБЩИЙ	A	A - loc sg plen m -	A - loc sg plen m -	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	всем	ВСЕ	S	S - - dat pl	S - - dat pl	7	1-компл	_	_
+5	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	7	предик	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	угодила	УГОЖДАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"Из"}
+{"analysis":[{"lex":"двор","gr":"S,m,inan=gen,sg"}],"text":"двора"}
+{"analysis":[{"lex":"доноситься","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"донесся"}
+{"analysis":[{"lex":"дружный","gr":"A=acc,sg,plen,m,inan"},{"lex":"дружный","gr":"A=nom,sg,plen,m"}],"text":"дружный"}
+{"analysis":[{"lex":"вопль","gr":"S,m,inan=acc,sg"},{"lex":"вопль","gr":"S,m,inan=nom,sg"}],"text":"вопль"}
+{"analysis":[{"lex":"множество","gr":"S,n,inan=acc,pl"},{"lex":"множество","gr":"S,n,inan=gen,sg"},{"lex":"множество","gr":"S,n,inan=nom,pl"}],"text":"множества"}
+{"analysis":[{"lex":"мужской","gr":"A,plen=abl,pl"},{"lex":"мужской","gr":"A,plen=gen,pl"},{"lex":"мужской","gr":"A,plen=acc,pl,anim"}],"text":"мужских"}
+{"analysis":[{"lex":"голос","gr":"S,m,inan=gen,pl"}],"text":"голосов"}

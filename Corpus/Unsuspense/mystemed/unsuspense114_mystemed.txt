@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"хозяйственный","gr":"A=nom,sg,plen,f"}],"text":"Хозяйственная"}
+{"analysis":[{"lex":"бабочка","gr":"S,f,anim=nom,sg"}],"text":"бабочка"}
+{"analysis":[{"lex":"говорить","gr":"V,ipf,tran=inpraes,sg,indic,3p"}],"text":"говорит"}
+{"analysis":[{"lex":"о","gr":"PR="}],"text":"о"}
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=abl"},{"lex":"она","gr":"SPRO,sg,3p,f=dat"},{"lex":"она","gr":"SPRO,sg,3p,f=gen"},{"lex":"она","gr":"SPRO,sg,3p,f=ins"}],"text":"ней"}
+{"analysis":[{"lex":"мещанин","gr":"S,m,anim=nom,sg"}],"text":"мещанин"}
+{"analysis":[{"lex":"покачивать","gr":"V,ipf,tran=inpraes,ger"}],"text":"покачивая"}
+{"analysis":[{"lex":"голова","gr":"S,f,inan=ins,sg"}],"text":"головою"}
+{"text":"\\s"}
+{"analysis":[{"lex":"переводиться","gr":"V,intr=inpraes,pl,indic,3p,ipf"}],"text":"Переводятся"}
+{"analysis":[{"lex":"теперь","gr":"ADV="}],"text":"теперь"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"такой","gr":"APRO=nom,pl"},{"lex":"такой","gr":"APRO=acc,pl,inan"}],"text":"такие"}

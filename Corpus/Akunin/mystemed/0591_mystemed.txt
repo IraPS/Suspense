@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"она","gr":"SPRO,sg,3p,f=nom"}],"text":"Она"}
+{"analysis":[{"lex":"останавливаться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"остановилась"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"удивленно","gr":"ADV="}],"text":"удивленно"}
+{"analysis":[{"lex":"оглянуться","gr":"V,pf,intr=praet,sg,indic,f"}],"text":"оглянулась"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=acc,sg"},{"lex":"эраст","gr":"S,persn,m,anim=gen,sg"}],"text":"Эраста"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=acc,sg"},{"lex":"петрович","gr":"S,patrn,m,anim=gen,sg"}],"text":"Петровича"}

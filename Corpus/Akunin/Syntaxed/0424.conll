@@ -1,0 +1,68 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	лишь	ЛИШЬ	PART	PART	PART	4	огранич	_	_
+4	пожал	ПОЖИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+5	плечами	ПЛЕЧО	S	S n inan ins pl	S n inan ins pl	4	1-компл	_	_
+6	:	:	:	:	PUNC	7	опред	_	_
+7	–	–	–	–	PUNC	4	2-компл	_	_
+8	А	А	CONJ	CONJ	CONJ	4	обст	_	_
+9	черт	ЧЕРТ	S	S f inan gen pl	S f inan gen pl	11	предик	_	_
+10	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	11	1-компл	_	_
+11	знает	ЗНАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	8	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	6	предик	_	_
+2	с	С	PR	PR	PR	6	1-компл	_	_
+3	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	2	предл	_	_
+4	год	ГОД	S	S m inan acc sg	S m inan acc sg	2	предл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	виделись	ВИДЕТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Не	НЕ	PART	PART	PART	2	огранич	_	_
+2	иначе	ИНАЧЕ	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	как	КАК	CONJ	CONJ	CONJ	2	сравнит	_	_
+4	роковая	РОКОВОЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+5	любовь	ЛЮБОВЬ	S	S f inan nom sg	S f inan nom sg	3	сравн-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Ведь	ВЕДЬ	PART	PART	PART	3	огранич	_	_
+2	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	3	предик	_	_
+3	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	10	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	мужчин	МУЖЧИНА	S	S m anim gen pl	S m anim gen pl	3	вводн	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	за	ЗА	PR	PR	PR	10	3-компл	_	_
+8	бессердечных	БЕССЕРДЕЧНЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	9	опред	_	_
+9	болванов	БОЛВАН	S	S m anim gen pl	S m anim gen pl	7	предл	_	_
+10	держите	ДЕРЖАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	а	А	CONJ	CONJ	CONJ	10	сент-соч	_	_
+13	душа	ДУША	S	S f inan nom sg	S f inan nom sg	19	предик	_	_
+14	у	У	PR	PR	PR	19	обст	_	_
+15	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	14	предл	_	_
+16	пылкая	ПЫЛКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	19	предик	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	легко	ЛЕГКО	ADV	ADV -	ADV -	19	обст	_	_
+19	ранимая	РАНИТЬ	PARTCP	PARTCP ipf inpraes nom sg plen f pass -	PARTCP ipf inpraes nom sg plen f pass -	12	соч-союзн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+3	горько	ГОРЬКО	ADV	ADV -	ADV -	4	обст	_	_
+4	потупился	ПОТУПЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	С	С	PR	PR	PR	1	атриб	_	_
+3	разбитым	РАЗБИВАТЬ	PARTCP	PARTCP pf praet dat pl plen - pass -	PARTCP pf praet dat pl plen - pass -	4	опред	_	_
+4	сердцем	СЕРДЦЕ	S	S n inan ins sg	S n inan ins sg	2	предл	_	_
+5	можно	МОЖНО	ADV	ADV -	ADV -	11	присвяз	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	в	В	PR	PR	PR	6	соч-союзн	_	_
+8	двадцать	ДВАДЦАТЬ	NUM	NUM acc - -	NUM acc - -	9	количест	_	_
+9	лет	ГОД	S	S m inan gen pl	S m inan gen pl	7	предл	_	_
+10	стариком	СТАРИК	S	S m anim ins sg	S m anim ins sg	0	ROOT	_	_
+11	стать	СТАНОВИТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	10	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

@@ -1,0 +1,55 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Разве что	Разве что	ADV	ADV -	-	3	огранич	_	_
+3	по	ПО	PR	PR	PR	1	обст	_	_
+4	маленькой	МАЛЕНЬКИЙ	A	A - loc sg plen f -	A - loc sg plen f -	3	предл	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	неуверенно	НЕУВЕРЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	протянул	ПРОТЯГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Лукан	ЛУКАН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Для	ДЛЯ	PR	PR	PR	1	3-компл	_	_
+3	укрепления	УКРЕПЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	2	предл	_	_
+4	боевого	БОЕВОЙ	A	A - gen sg plen n -	A - gen sg plen n -	5	опред	_	_
+5	товарищества	ТОВАРИЩЕСТВО	S	S n inan gen sg	S n inan gen sg	3	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	11	опред	_	_
+2	Конечно	КОНЕЧНО	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	для	ДЛЯ	PR	PR	PR	1	обст	_	_
+5	укрепления	УКРЕПЛЕНИЕ	S	S n inan gen sg	S n inan gen sg	4	предл	_	_
+6	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+7	исключительно	ИСКЛЮЧИТЕЛЬНО	ADV	ADV -	ADV -	8	огранич	_	_
+8	по	ПО	PR	PR	PR	6	соч-союзн	_	_
+9	маленькой	МАЛЕНЬКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	 	 	 	 	PUNC	13	2-компл	_	_
+12	–	–	–	–	PUNC	13	1-компл	_	_
+13	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+14	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	13	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	высыпая	ВЫСЫПАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	21	обст	_	_
+17	из	ИЗ	PR	PR	PR	16	1-компл	_	_
+18	ташки	ТАШКА	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+19	на	НА	PR	PR	PR	16	2-компл	_	_
+20	стол	СТОЛ	S	S m inan acc sg	S m inan acc sg	19	предл	_	_
+21	запечатанные	ЗАПЕЧАТЫВАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	13	сент-соч	_	_
+22	колоды	КОЛОДА	S	S f inan gen sg	S f inan gen sg	21	1-компл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Заход	ЗАХОД	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	по	ПО	PR	PR	PR	2	атриб	_	_
+4	сотенке	СОТЕНКА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Кто	КТО	S	S m - nom sg	S m - nom sg	0	ROOT	_	_
+2	еще	ЕЩЕ	ADV	ADV -	ADV -	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	господа	ГОСПОДИН	S	S m anim gen sg	S m anim gen sg	1	квазиагент	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+

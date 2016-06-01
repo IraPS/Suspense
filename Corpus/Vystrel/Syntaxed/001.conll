@@ -1,0 +1,70 @@
+1	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	2	предик	_	_
+2	стояли	СТОЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	1-компл	_	_
+4	местечке	МЕСТЕЧКО	S	S n inan loc sg	S n inan loc sg	3	предл	_	_
+5	*	*	*	*	PUNC	7	опред	_	_
+6	*	*	*	*	PUNC	7	опред	_	_
+7	*	*	*	*	PUNC	2	длительн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Жизнь	ЖИЗНЬ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+2	армейского	АРМЕЙСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	3	опред	_	_
+3	офицера	ОФИЦЕР	S	S m anim gen sg	S m anim gen sg	1	квазиагент	_	_
+4	известна	ИЗВЕСТНЫЙ	A	A - - sg brev f -	A - - sg brev f -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Утром	УТРО	S	S n inan ins sg	S n inan ins sg	0	ROOT	_	_
+2	ученье	УЧЕНИЕ	S	S n inan nom sg	S n inan nom sg	4	композ	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	манеж	МАНЕЖ	S	S m inan acc sg	S m inan acc sg	1	1-компл	_	_
+5	;	;	SENT	SENT	SENT	4	PUNC	_	_
+
+1	обед	ОБЕД	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+2	у	У	PR	PR	PR	1	атриб	_	_
+3	полкового	ПОЛКОВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	командира	КОМАНДИР	S	S m anim gen sg	S m anim gen sg	2	предл	_	_
+5	или	ИЛИ	CONJ	CONJ	CONJ	2	сочин	_	_
+6	в	В	PR	PR	PR	5	соч-союзн	_	_
+7	жидовском	ЖИДОВСКИЙ	A	A - loc sg plen m -	A - loc sg plen m -	8	опред	_	_
+8	трактире	ТРАКТИР	S	S m inan loc sg	S m inan loc sg	6	предл	_	_
+9	;	;	SENT	SENT	SENT	8	PUNC	_	_
+
+1	вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	0	ROOT	_	_
+2	пунш	ПУНШ	S	S m inan acc sg	S m inan acc sg	1	1-компл	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	карты	КАРТА	S	S f inan acc pl	S f inan acc pl	3	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	В	В	S	S - - nonflex nonflex	S - - nonflex nonflex	6	дат-субъект	_	_
+2	*	*	*	*	PUNC	6	предик	_	_
+3	*	*	*	*	PUNC	6	дат-субъект	_	_
+4	*	*	*	*	PUNC	6	предик	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+7	ни	НИ	PART	PART	PART	8	огранич	_	_
+8	одного	ОДИН	A	A - gen sg plen m -	A - gen sg plen m -	10	количест	_	_
+9	открытого	ОТКРЫТЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	10	опред	_	_
+10	дома	ДОМ	S	S m inan gen sg	S m inan gen sg	6	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	ни	НИ	CONJ	CONJ	CONJ	10	сочин	_	_
+13	одной	ОДИН	A	A - gen sg plen f -	A - gen sg plen f -	14	количест	_	_
+14	невесты	НЕВЕСТА	S	S f anim gen sg	S f anim gen sg	12	соч-союзн	_	_
+15	;	;	SENT	SENT	SENT	14	PUNC	_	_
+
+1	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	2	предик	_	_
+2	собирались	СОБИРАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	друг	ДРУГ	S	S - - nom -	S - - nom -	5	вспом	_	_
+4	у	У	PR	PR	PR	2	1-компл	_	_
+5	друга	ДРУГ	S	S - - gen sg	S - - gen sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	где	ГДЕ	ADV	ADV -	ADV -	9	вводн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	кроме	КРОМЕ	PR	PR	PR	2	обст	_	_
+10	своих	СВОЙ	A	A - gen pl plen - -	A - gen pl plen - -	11	опред	_	_
+11	мундиров	МУНДИР	S	S m inan gen pl	S m inan gen pl	9	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	не	НЕ	PART	PART	PART	14	огранич	_	_
+14	видали	ВИДАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	сочин	_	_
+15	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	14	сочин	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+

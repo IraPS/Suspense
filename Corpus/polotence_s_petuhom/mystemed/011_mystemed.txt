@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"эй","gr":"INTJ="}],"text":"Эй"}
+{"analysis":[{"lex":"кто","gr":"SPRO,sg,m,anim=nom"}],"text":"кто"}
+{"analysis":[{"lex":"тут","gr":"ADVPRO="}],"text":"тут"}
+{"text":"\\s"}
+{"analysis":[{"lex":"эй","gr":"INTJ="}],"text":"Эй"}
+{"analysis":[{"lex":"закричать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"закричал"}
+{"analysis":[{"lex":"возница","gr":"S,mf,anim=nom,sg"}],"text":"возница"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"захлопать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"захлопал"}
+{"analysis":[{"lex":"рука","gr":"S,f,inan=ins,pl"}],"text":"руками"}
+{"analysis":[{"lex":"как","gr":"CONJ="}],"text":"как"}
+{"analysis":[{"lex":"петух","gr":"S,m,anim=nom,sg"}],"text":"петух"}
+{"analysis":[{"lex":"крыло","gr":"S,n,inan=ins,pl"}],"text":"крыльями"}
+{"text":"\\s"}
+{"analysis":[{"lex":"эй","gr":"INTJ="}],"text":"Эй"}
+{"analysis":[{"lex":"доктор","gr":"S,m,anim=acc,sg"},{"lex":"доктор","gr":"S,m,anim=gen,sg"},{"lex":"доктор","gr":"S,m,anim=nom,pl"}],"text":"доктора"}
+{"analysis":[{"lex":"привозить","gr":"V=praet,sg,indic,m,pf"}],"text":"привез"}

@@ -1,0 +1,14 @@
+1	Петя	ПЕТЯ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	несолидно	НЕСОЛИДНО	ADV	ADV -	ADV -	3	обст	_	_
+3	взвизгнул	ВЗВИЗГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	снова	СНОВА	ADV	ADV -	ADV -	6	обст	_	_
+6	полез	ПОЛЕЗТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+7	обниматься	ОБНИМАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	но	НО	CONJ	CONJ	CONJ	6	сент-соч	_	_
+10	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	12	предик	_	_
+11	уже	УЖЕ	ADV	ADV -	ADV -	12	огранич	_	_
+12	опомнилась	ОПОМИНАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

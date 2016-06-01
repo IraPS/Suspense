@@ -1,0 +1,12 @@
+{"analysis":[{"lex":"иван","gr":"S,persn,m,anim=nom,sg"}],"text":"Иван"}
+{"analysis":[{"lex":"африканович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Африканович"}
+{"analysis":[{"lex":"осторожно","gr":"ADV="}],"text":"осторожно"}
+{"analysis":[{"lex":"поправлять","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"поправил"}
+{"analysis":[{"lex":"тулуп","gr":"S,m,inan=acc,sg"},{"lex":"тулуп","gr":"S,m,inan=nom,sg"}],"text":"тулуп"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"ребенок","gr":"S,m,anim=ins,sg"}],"text":"ребенком"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"торопливо","gr":"ADV="}],"text":"торопливо"}
+{"analysis":[{"lex":"пойти","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"пошел"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"сельсовет","gr":"S,m,inan=acc,sg"},{"lex":"сельсовет","gr":"S,m,inan=nom,sg"}],"text":"сельсовет"}

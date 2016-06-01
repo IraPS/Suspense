@@ -1,0 +1,138 @@
+1	–	–	–	–	PUNC	5	предик	_	_
+2	Очень	ОЧЕНЬ	ADV	ADV -	ADV -	3	огранич	_	_
+3	скоро	СКОРО	ADV	ADV -	ADV -	5	обст	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	понял	ПОНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	5	1-компл	_	_
+8	в	В	PR	PR	PR	12	обст	_	_
+9	высшем	ВЫСОКИЙ	A	A supr loc sg plen n -	A supr loc sg plen n -	10	опред	_	_
+10	обществе	ОБЩЕСТВО	S	S n inan loc sg	S n inan loc sg	8	предл	_	_
+11	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	12	1-компл	_	_
+12	делать	ДЕЛАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	13	предик	_	_
+13	нечего	НЕЧЕГО	ADV	ADV -	ADV -	7	подч-союзн	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Климат	КЛИМАТ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	для	ДЛЯ	PR	PR	PR	1	атриб	_	_
+4	моего	МОЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	опред	_	_
+5	организма	ОРГАНИЗМ	S	S m inan gen sg	S m inan gen sg	3	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Так и	Так и	CONJ	CONJ	ZERO	0	ROOT	_	_
+2	жили	ЖИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	подч-союзн	_	_
+3	–	–	–	–	PUNC	2	1-компл	_	_
+4	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+5	в	В	PR	PR	PR	2	сент-соч	_	_
+6	походах	ПОХОД	S	S m inan loc pl	S m inan loc pl	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	9	предик	_	_
+9	в	В	PR	PR	PR	6	релят	_	_
+10	столице	СТОЛИЦА	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Кончится	КОНЧАТЬСЯ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+2	война	ВОЙНА	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	потребую	ПОТРЕБОВАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	1	1-компл	_	_
+5	развода	РАЗВОД	S	S m inan gen sg	S m inan gen sg	4	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Могу	МОЧЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+2	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	3	2-компл	_	_
+3	позволить	ПОЗВОЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	заслужил	ЗАСЛУЖИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	вводн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	никто	НИКТО	S	S m - nom sg	S m - nom sg	4	1-компл	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	осудит	ОСУЖДАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	1	соч-союзн	_	_
+5	–	–	–	–	PUNC	7	предик	_	_
+6	как-никак	КАК-НИКАК	ADV	ADV -	ADV -	7	огранич	_	_
+7	герой	ГЕРОЙ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+3	лукаво	ЛУКАВО	ADV	ADV -	ADV -	4	обст	_	_
+4	улыбнулся	УЛЫБАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Так что	Так что	CONJ	CONJ	ZERO	1	сравнит	_	_
+3	скажете	СКАЗАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	2	сравн-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	Варенька	ВАРЕНЬКА	S	S f anim nom sg	S f anim nom sg	1	предик	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	О	О	PR	PR	PR	1	1-компл	_	_
+3	чем	ЧЕМ	CONJ	CONJ	CONJ	2	предл	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	с	С	PR	PR	PR	1	атриб	_	_
+3	невинным	НЕВИННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	4	опред	_	_
+4	видом	ВИД	S	S m inan ins sg	S m inan ins sg	2	предл	_	_
+5	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+6	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	5	предик	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Проклятая	ПРОКЛЯТЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+2	кокетливая	КОКЕТЛИВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	натура	НАТУРА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+4	так и	так и	CONJ	CONJ	ZERO	3	сравнит	_	_
+5	пела	ПЕТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	4	сравн-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Вроде	ВРОДЕ	PART	PART	PART	3	вводн	_	_
+2	бы	БЫ	PART	PART	PART	1	вспом	_	_
+3	и	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+4	ни	НИ	PART	PART	PART	5	огранич	_	_
+5	к	К	PR	PR	PR	0	ROOT	_	_
+6	чему	ЧТО	S	S n - dat sg	S n - dat sg	5	предл	_	_
+7	это	ЭТО	S	S n - nom sg	S n - nom sg	8	опред	_	_
+8	признание	ПРИЗНАНИЕ	S	S n inan nom sg	S n inan nom sg	5	сочин	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	одни	ОДИН	A	A - nom pl plen - -	A - nom pl plen - -	11	опред	_	_
+11	осложнения	ОСЛОЖНЕНИЕ	S	S n inan nom pl	S n inan nom pl	8	сочин	_	_
+12	от	ОТ	PR	PR	PR	11	1-компл	_	_
+13	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	а	А	CONJ	CONJ	CONJ	11	сочин	_	_
+16	все	ВСЕ	S	S n - nom sg	S n - nom sg	17	1-компл	_	_
+17	равно	РАВНЫЙ	A	A - - sg brev n -	A - - sg brev n -	15	соч-союзн	_	_
+18	–	–	–	–	PUNC	19	опред	_	_
+19	праздник	ПРАЗДНИК	S	S m inan nom sg	S m inan nom sg	17	предик	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Разводиться	РАЗВОДИТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	1	1-компл	_	_
+3	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	2	1-компл	_	_
+4	или	ИЛИ	CONJ	CONJ	CONJ	2	сочин	_	_
+5	нет	НЕТ	PART	PART	PART	4	соч-союзн	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Это	ЭТО	S	S n - nom sg	S n - nom sg	6	1-компл	_	_
+3	уж	УЖ	PART	PART	PART	4	огранич	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	6	предик	_	_
+5	сами	САМ	A	A - nom pl plen - -	A - nom pl plen - -	6	суб-копр	_	_
+6	решайте	РЕШАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	1	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	(	(	_	_	PUNC	2	PUNC	_	_
+2	Вот	ВОТ	PART	PART	PART	3	огранич	_	_
+3	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	6	обст	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	6	обст	_	_
+6	скажет	СКАЗАТЬ	V	V pf fut sg indic - 3p	V pf fut sg indic - 3p	0	ROOT	_	_
+7	те	ТОТ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+8	самые	САМЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	слова	СЛОВО	S	S n inan nom pl	S n inan nom pl	6	предик	_	_
+10	)	)	_	_	PUNC	9	PUNC	_	_
+11	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

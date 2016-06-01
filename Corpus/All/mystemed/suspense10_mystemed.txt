@@ -1,0 +1,13 @@
+{"analysis":[{"lex":"высасывать","gr":"V,tran=inf,pf"}],"text":"Высосать"}
+{"analysis":[{"lex":"яд","gr":"S,m,inan=acc,sg"},{"lex":"яд","gr":"S,m,inan=nom,sg"}],"text":"яд"}
+{"analysis":[{"lex":"кричать","gr":"V,ipf,intr=praet,sg,indic,m"}],"text":"кричал"}
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"он"}
+{"text":"\\s"}
+{"analysis":[{"lex":"больше","gr":"ADV="}],"text":"Больше"}
+{"analysis":[{"lex":"ничто","gr":"SPRO,sg,n=gen"}],"text":"ничего"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"помогать","gr":"V,intr=inpraes,sg,indic,3p,pf"}],"text":"поможет"}
+{"text":"\\s"}
+{"analysis":[{"lex":"джой","gr":"S,persn,m,anim=nom,sg"}],"text":"Джой"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"спорить","gr":"V,ipf,intr=pl,imper,2p"}],"text":"спорьте"}

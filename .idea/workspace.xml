@@ -465,12 +465,6 @@
       <option name="number" value="Default" />
       <updated>1461358052764</updated>
     </task>
-    <task id="LOCAL-00018" summary="started word order">
-      <created>1462612762004</created>
-      <option name="number" value="00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1462612762004</updated>
-    </task>
     <task id="LOCAL-00019" summary="finds order of subject and object">
       <created>1462614129594</created>
       <option name="number" value="00019" />
@@ -759,7 +753,13 @@
       <option name="project" value="LOCAL" />
       <updated>1464793611482</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="improvements">
+      <created>1464793658581</created>
+      <option name="number" value="00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1464793658581</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">

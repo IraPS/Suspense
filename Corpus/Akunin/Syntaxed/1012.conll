@@ -1,0 +1,29 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	перед	ПЕРЕД	PR	PR	PR	2	обст	_	_
+4	собой	СЕБЯ	SPRO	SPRO - - - ins	SPRO - - - ins	3	предл	_	_
+5	бледного	БЛЕДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	6	опред	_	_
+6	Фандорина	ФАНДОРИН	S	S m anim acc sg	S m anim acc sg	2	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+9	у	У	PR	PR	PR	12	1-компл	_	_
+10	выбитого	ВЫБИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	9	предл	_	_
+11	окна	ОКНО	S	S n inan gen sg	S n inan gen sg	10	1-компл	_	_
+12	стоял	СТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	соч-союзн	_	_
+13	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+14	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	13	аппоз	_	_
+15	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+16	покрикивал	ПОКРИКИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	соч-союзн	_	_
+17	на	НА	PR	PR	PR	16	1-компл	_	_
+18	жандармов	ЖАНДАРМ	S	S m anim gen pl	S m anim gen pl	17	предл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	подметавших	ПОДМЕТАТЬ	PARTCP	PARTCP ipf praet loc pl plen - act -	PARTCP ipf praet loc pl plen - act -	16	2-компл	_	_
+21	стеклянные	СТЕКЛЯННЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	22	опред	_	_
+22	осколки	ОСКОЛОК	S	S m inan nom pl	S m inan nom pl	16	предик	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Снаружи	СНАРУЖИ	ADV	ADV -	ADV -	3	обст	_	_
+2	уже	УЖЕ	ADV	ADV -	ADV -	3	огранич	_	_
+3	рассвело	РАССВЕТАТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

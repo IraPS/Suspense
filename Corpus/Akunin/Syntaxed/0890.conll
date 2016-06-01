@@ -1,0 +1,24 @@
+1	Сообщить	СООБЩАТЬ	V	V pf - - inf - -	V pf - - inf - -	16	1-компл	_	_
+2	по	ПО	PR	PR	PR	1	обст	_	_
+3	телеграфу	ТЕЛЕГРАФ	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	в	В	PR	PR	PR	1	2-компл	_	_
+5	штаб	ШТАБ	S	S m inan acc sg	S m inan acc sg	4	предл	_	_
+6	верховного	ВЕРХОВНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+7	о	О	PR	PR	PR	6	1-компл	_	_
+8	захвате	ЗАХВАТ	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+9	Сан	САН	S	S m inan acc sg	S m inan acc sg	1	1-компл	_	_
+10	-	-	-	-	PUNC	9	PUNC	_	_
+11	Стефано	СТЕФАНО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	13	1-компл	_	_
+12	не	НЕ	PART	PART	PART	13	огранич	_	_
+13	удалось	УДАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	9	релят	_	_
+14	–	–	–	–	PUNC	13	предик	_	_
+15	линия	ЛИНИЯ	S	S f inan nom sg	S f inan nom sg	16	предик	_	_
+16	молчала	МОЛЧАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Видно	ВИДНО	ADV	ADV -	ADV -	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	турки	ТУРОК	S	S m anim nom pl	S m anim nom pl	4	предик	_	_
+4	постарались	ПОСТАРАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

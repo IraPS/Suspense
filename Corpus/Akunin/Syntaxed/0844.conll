@@ -1,0 +1,24 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	месяц	МЕСЯЦ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+3	прошел	ПРОХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	а	А	CONJ	CONJ	CONJ	3	сочин	_	_
+6	титулярного	ТИТУЛЯРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	5	соч-союзн	_	_
+8	все	ВСЕ	S	S - - acc pl	S - - acc pl	10	предик	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	сент-соч	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Видимо	ВИДИМО	ADV	ADV -	ADV -	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	найти	НАХОДИТЬ	V	V pf - - inf - -	V pf - - inf - -	7	предик	_	_
+4	Маклафлина	МАКЛАФЛИН	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+5	в	В	PR	PR	PR	4	атриб	_	_
+6	Англии	АНГЛИЯ	S	S f inan loc sg	S f inan loc sg	5	предл	_	_
+7	оказалось	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	так-то	ТАК-ТО	PART	PART	PART	10	огранич	_	_
+10	просто	ПРОСТО	ADV	ADV -	ADV -	7	присвяз	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

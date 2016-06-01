@@ -1,0 +1,15 @@
+1	Граф	ГРАФ	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	подвинул	ПОДВИГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	2	1-компл	_	_
+4	кресла	КРЕСЛО	S	S n inan gen sg	S n inan gen sg	3	квазиагент	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+8	с	С	PR	PR	PR	11	обст	_	_
+9	живейшим	ЖИВОЙ	A	A supr ins sg plen n -	A supr ins sg plen n -	10	опред	_	_
+10	любопытством	ЛЮБОПЫТСТВО	S	S n inan ins sg	S n inan ins sg	8	предл	_	_
+11	услышал	УСЛЫШАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+12	следующий	СЛЕДУЮЩИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	13	опред	_	_
+13	рассказ	РАССКАЗ	S	S m inan acc sg	S m inan acc sg	11	1-компл	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

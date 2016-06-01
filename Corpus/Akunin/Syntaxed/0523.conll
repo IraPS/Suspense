@@ -1,0 +1,20 @@
+1	Дверь	ДВЕРЬ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+2	предостерегающе	ПРЕДОСТЕРЕГАЮЩЕ	ADV	ADV -	ADV -	3	обст	_	_
+3	заскрипела	ЗАСКРИПЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+6	в	В	PR	PR	PR	10	огранич	_	_
+7	зеркале	ЗЕРКАЛО	S	S n inan loc sg	S n inan loc sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	прямо	ПРЯМО	PART	PART	PART	10	огранич	_	_
+10	за	ЗА	PR	PR	PR	13	обст	_	_
+11	спиной	СПИНА	S	S f inan ins sg	S f inan ins sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	возникла	ВОЗНИКАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	соч-союзн	_	_
+14	красная	КРАСНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	17	опред	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	сердитая	СЕРДИТЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	сочин	_	_
+17	физиономия	ФИЗИОНОМИЯ	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+18	полковника	ПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	17	квазиагент	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

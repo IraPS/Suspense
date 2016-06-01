@@ -1,0 +1,3 @@
+{"analysis":[{"lex":"выходить","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"Вышла"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"обмирать","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"обмерла"}

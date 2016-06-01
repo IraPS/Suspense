@@ -1,0 +1,101 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	без	БЕЗ	PR	PR	PR	5	обст	_	_
+4	убийства	УБИЙСТВО	S	S n inan gen sg	S n inan gen sg	3	предл	_	_
+5	получилось	ПОЛУЧАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	2	соч-союзн	_	_
+6	скверно	СКВЕРНО	ADV	ADV -	ADV -	5	обст	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Предатель	ПРЕДАТЕЛЬ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Митко	МИТКО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	1	аппоз	_	_
+3	завел	ЗАВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	спутницу	СПУТНИЦА	S	S f anim acc sg	S f anim acc sg	3	1-компл	_	_
+5	в	В	PR	PR	PR	3	2-компл	_	_
+6	корчму	КОРЧМА	S	S f inan acc sg	S f inan acc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	более	МНОГО	ADV	ADV comp	ADV comp	15	обст	_	_
+9	всего	ВСЕ	S	S n - gen sg	S n - gen sg	8	сравнит	_	_
+10	похожую	ПОХОЖИЙ	A	A - acc sg plen f -	A - acc sg plen f -	15	1-компл	_	_
+11	на	НА	PR	PR	PR	10	1-компл	_	_
+12	разбойничий	РАЗБОЙНИЧИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	13	опред	_	_
+13	притон	ПРИТОН	S	S m inan acc sg	S m inan acc sg	11	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	усадил	УСАДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	сочин	_	_
+16	за	ЗА	PR	PR	PR	15	2-компл	_	_
+17	стол	СТОЛ	S	S m inan acc sg	S m inan acc sg	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	велел	ВЕЛЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	15	сочин	_	_
+20	подать	ПОДАВАТЬ	V	V pf - - inf - -	V pf - - inf - -	19	1-компл	_	_
+21	сыру	СЫР	S	S m inan - sg	S m inan - sg	20	1-компл	_	_
+22	и	И	CONJ	CONJ	CONJ	20	сочин	_	_
+23	кувшин	КУВШИН	S	S m inan acc sg	S m inan acc sg	22	соч-союзн	_	_
+24	вина	ВИНО	S	S n inan gen sg	S n inan gen sg	23	квазиагент	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	а	А	CONJ	CONJ	CONJ	19	сент-соч	_	_
+27	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	28	суб-копр	_	_
+28	повернул	ПОВЕРТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	26	соч-союзн	_	_
+29	к	К	PR	PR	PR	28	2-компл	_	_
+30	двери	ДВЕРЬ	S	S f inan dat sg	S f inan dat sg	29	предл	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	показав	ПОКАЗЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	28	обст	_	_
+33	,	,	,	,	PUNC	32	PUNC	_	_
+34	мол	МОЛ	PART	PART	PART	37	вводн	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	сейчас	СЕЙЧАС	ADV	ADV -	ADV -	37	обст	_	_
+37	приду	ПРИЙТИ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	28	1-компл	_	_
+38	.	.	SENT	SENT	SENT	37	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	метнулась	МЕТНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	за	ЗА	PR	PR	PR	2	обст	_	_
+4	ним	ОН	SPRO	SPRO sg 3p m ins	SPRO sg 3p m ins	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	желая	ЖЕЛАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+8	оставаться	ОСТАВАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+9	в	В	PR	PR	PR	8	присвяз	_	_
+10	этом	ЭТОТ	A	A - loc sg plen m -	A - loc sg plen m -	16	опред	_	_
+11	грязном	ГРЯЗНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	16	опред	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	темном	ТЕМНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	11	сочин	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	зловонном	ЗЛОВОННЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	14	соч-союзн	_	_
+16	вертепе	ВЕРТЕП	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	но	НО	CONJ	CONJ	CONJ	2	сент-соч	_	_
+19	Митко	МИТКО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	20	предик	_	_
+20	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	18	соч-союзн	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	что	ЧТО	CONJ	CONJ	CONJ	20	1-компл	_	_
+23	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	25	дат-субъект	_	_
+24	необходимо	НЕОБХОДИМО	ADV	ADV -	ADV -	25	обст	_	_
+25	отлучиться	ОТЛУЧАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	22	подч-союзн	_	_
+26	,	,	,	,	PUNC	25	PUNC	_	_
+27	ну	НУ	PART	PART	PART	0	ROOT	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	в	В	PR	PR	PR	0	ROOT	_	_
+30	общем	ОБЩИЙ	A	A - loc sg plen m -	A - loc sg plen m -	29	предл	_	_
+31	,	,	,	,	PUNC	30	PUNC	_	_
+32	по	ПО	PR	PR	PR	0	ROOT	_	_
+33	физиологической	ФИЗИОЛОГИЧЕСКИЙ	A	A - dat sg plen f -	A - dat sg plen f -	34	опред	_	_
+34	надобности	НАДОБНОСТЬ	S	S f inan dat sg	S f inan dat sg	32	предл	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+
+1	Когда	КОГДА	CONJ	CONJ	CONJ	6	обст	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	поняла	ПОНИМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	подч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	пояснил	ПОЯСНЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	жестом	ЖЕСТ	S	S m inan ins sg	S m inan ins sg	6	обст	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	и	И	CONJ	CONJ	CONJ	6	сент-соч	_	_
+10	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	14	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	смутившись	СМУЩАТЬСЯ	V	V pf praet - ger - -	V pf praet - ger - -	14	обст	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	вернулась	ВЕРНУТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	соч-союзн	_	_
+15	на	НА	PR	PR	PR	14	2-компл	_	_
+16	место	МЕСТО	S	S n inan acc sg	S n inan acc sg	15	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

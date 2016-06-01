@@ -1,0 +1,14 @@
+{"analysis":[{"lex":"он","gr":"SPRO,sg,3p,m=nom"}],"text":"Он"}
+{"analysis":[{"lex":"перекрещиваться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"перекрестился"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"повалиться","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"повалился"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"колено","gr":"S,n,inan=acc,pl"},{"lex":"колено","gr":"S,n,inan=nom,pl"}],"text":"колени"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"бухнуть","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"бухнул"}
+{"analysis":[{"lex":"лоб","gr":"S,m,inan=ins,sg"}],"text":"лбом"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"пол","gr":"S,m,inan=acc,sg"},{"lex":"пол","gr":"S,m,inan=nom,sg"}],"text":"пол"}
+{"text":"\\s"}
+{"analysis":[{"lex":"это","gr":"SPRO,sg,n,inan=acc"},{"lex":"это","gr":"SPRO,sg,n,inan=nom"}],"text":"Это"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=abl"},{"lex":"я","gr":"SPRO,sg,1p=dat"}],"text":"мне"}

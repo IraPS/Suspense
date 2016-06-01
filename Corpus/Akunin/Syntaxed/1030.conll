@@ -1,0 +1,98 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Чтобы	ЧТОБЫ	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	меня	Я	SPRO	SPRO sg 1p - acc	SPRO sg 1p - acc	4	1-компл	_	_
+4	отправили	ОТПРАВЛЯТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	подч-союзн	_	_
+5	служить	СЛУЖИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+6	куда-нибудь	КУДА-НИБУДЬ	ADV	ADV -	ADV -	7	огранич	_	_
+7	за	ЗА	PR	PR	PR	5	3-компл	_	_
+8	т	Т	S	S n - nonflex nonflex	S n - nonflex nonflex	7	предл	_	_
+9	-	-	-	-	PUNC	8	PUNC	_	_
+10	тридевять	ТРИДЕВЯТЬ	NUM	NUM acc - -	NUM acc - -	11	количест	_	_
+11	земель	ЗЕМЛЯ	S	S f inan gen pl	S f inan gen pl	5	1-компл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	подальше	ДАЛЕКО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+14	от	ОТ	PR	PR	PR	13	1-компл	_	_
+15	всего	ВЕСЬ	A	A - acc sg plen m anim	A - acc sg plen m anim	16	опред	_	_
+16	этого	ЭТО	S	S n inan gen sg	S n inan gen sg	14	предл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+3	неопределенно	НЕОПРЕДЕЛЕННО	ADV	ADV -	ADV -	4	обст	_	_
+4	махнул	МАХНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	рукой	РУКА	S	S f inan ins sg	S f inan ins sg	4	2-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Глупости	ГЛУПОСТЬ	S	S f inan nom pl	S f inan nom pl	1	предик	_	_
+3	какие	КАКОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	2	опред	_	_
+4	!	!	SENT	SENT	SENT	3	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	что	ЧТО	CONJ	CONJ	CONJ	1	соч-союзн	_	_
+3	Мизинов	МИЗИН	S	S m inan gen pl	S m inan gen pl	2	подч-союзн	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Разозлился	РАЗОЗЛИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+3	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+4	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	3	присвяз	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	К	К	S	S - - nonflex nonflex	S - - nonflex nonflex	3	вводн	_	_
+2	-	-	-	-	PUNC	1	PUNC	_	_
+3	кончатся	КОНЧАТЬСЯ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	0	ROOT	_	_
+4	переговоры	ПЕРЕГОВОРЫ	S	S - inan nom pl	S - inan nom pl	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	поеду	ПОЕХАТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	6	соч-союзн	_	_
+8	из	ИЗ	PR	PR	PR	7	1-компл	_	_
+9	Константинополя	КОНСТАНТИНОПОЛЬ	S	S m inan gen sg	S m inan gen sg	8	предл	_	_
+10	в	В	PR	PR	PR	7	2-компл	_	_
+11	Порт-Саид	ПОРТ-САИД	S	S m inan nom sg	S m inan nom sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+14	оттуда	ОТТУДА	ADV	ADV -	ADV -	15	огранич	_	_
+15	пароходом	ПАРОХОД	S	S m inan ins sg	S m inan ins sg	0	ROOT	_	_
+16	в	В	PR	PR	PR	15	1-компл	_	_
+17	Японию	ЯПОНИЯ	S	S f inan acc sg	S f inan acc sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Назначен	НАЗНАЧАТЬ	PARTCP	PARTCP pf praet - sg brev m pass -	PARTCP pf praet - sg brev m pass -	0	ROOT	_	_
+2	вторым	ВТОРОЙ	A	A - ins sg plen m -	A - ins sg plen m -	3	опред	_	_
+3	секретарем	СЕКРЕТАРЬ	S	S m anim ins sg	S m anim ins sg	1	2-компл	_	_
+4	посольства	ПОСОЛЬСТВО	S	S n inan gen sg	S n inan gen sg	3	1-компл	_	_
+5	в	В	PR	PR	PR	4	атриб	_	_
+6	Токио	ТОКИО	S	S m inan loc sg	S m inan loc sg	5	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Дальше	ДАЛЕКО	ADV	ADV comp	ADV comp	6	обст	_	_
+2	уж	УЖ	PART	PART	PART	4	огранич	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	б	Б	PART	PART	PART	6	аналит	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	бывает	БЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	В	В	PR	PR	PR	1	2-компл	_	_
+3	Японию	ЯПОНИЯ	S	S f inan acc sg	S f inan acc sg	2	предл	_	_
+4	…	…	SENT	SENT	SENT	3	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	1-компл	_	_
+2	Слезы	СЛЕЗА	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+3	все-таки	ВСЕ-ТАКИ	PART	PART	PART	4	огранич	_	_
+4	брызнули	БРЫЗНУТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+7	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+8	яростно	ЯРОСТНО	ADV	ADV -	ADV -	9	обст	_	_
+9	смахнула	СМАХИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	соч-союзн	_	_
+10	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	11	квазиагент	_	_
+11	перчаткой	ПЕРЧАТКА	S	S f inan ins sg	S f inan ins sg	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

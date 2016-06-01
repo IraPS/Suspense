@@ -1,0 +1,26 @@
+1	Тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	сдался	СДАВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	чуть не	чуть не	PART	PART	ZERO	6	огранич	_	_
+6	заллакал	ЗАЛЛАКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	моление	МОЛЕНИЕ	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+3	тьме	ТЬМА	S	S f inan loc sg	S f inan loc sg	1	соч-союзн	_	_
+4	за	ЗА	PR	PR	PR	3	атриб	_	_
+5	окном	ОКНО	S	S n inan ins sg	S n inan ins sg	4	предл	_	_
+6	послал	ПОСЫЛАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	вводн	_	_
+7	:	:	:	:	PUNC	16	опред	_	_
+8	все	ВСЕ	S	S - - acc pl	S - - acc pl	7	опред	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+11	угодно	УГОДНО	PART	PART	PART	10	вспом	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	только	ТОЛЬКО	PART	PART	PART	15	огранич	_	_
+14	не	НЕ	PART	PART	PART	15	огранич	_	_
+15	ущемленную	УЩЕМЛЯТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	10	подч-союзн	_	_
+16	грыжу	ГРЫЖА	S	S f inan acc sg	S f inan acc sg	6	1-компл	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

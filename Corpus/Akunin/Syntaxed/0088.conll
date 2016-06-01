@@ -1,0 +1,29 @@
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+2	в	В	PR	PR	PR	4	обст	_	_
+3	отчаянии	ОТЧАЯНИЕ	S	S n inan loc sg	S n inan loc sg	2	предл	_	_
+4	взглянула	ВЗГЛЯДЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	на	НА	PR	PR	PR	4	1-компл	_	_
+6	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	7	опред	_	_
+7	спутника	СПУТНИК	S	S m inan gen sg	S m inan gen sg	5	предл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	5	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	похоже	ПОХОЖЕ	ADV	ADV -	ADV -	5	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	утратил	УТРАЧИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	всегдашнее	ВСЕГДАШНИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	7	опред	_	_
+7	хладнокровие	ХЛАДНОКРОВИЕ	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+8	–	–	–	–	PUNC	9	2-компл	_	_
+9	запрокинув	ЗАПРОКИДЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	5	обст	_	_
+10	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	нервно	НЕРВНО	ADV	ADV -	ADV -	13	обст	_	_
+13	пил	ПИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	5	сочин	_	_
+14	воду	ВОДА	S	S f inan acc sg	S f inan acc sg	13	1-компл	_	_
+15	из	ИЗ	PR	PR	PR	13	обст	_	_
+16	большой	БОЛЬШОЙ	A	A - gen sg plen f -	A - gen sg plen f -	18	опред	_	_
+17	медной	МЕДНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	18	опред	_	_
+18	фляги	ФЛЯГА	S	S f inan gen sg	S f inan gen sg	15	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

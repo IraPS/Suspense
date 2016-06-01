@@ -1,0 +1,24 @@
+1	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	пожал	ПОЖИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	плечами	ПЛЕЧО	S	S n inan ins pl	S n inan ins pl	3	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Лицо	ЛИЦО	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+2	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	1	квазиагент	_	_
+3	так и	так и	CONJ	CONJ	ZERO	1	1-компл	_	_
+4	светилось	СВЕТИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	подч-союзн	_	_
+5	свежим	СВЕЖИЙ	A	A - ins sg plen m -	A - ins sg plen m -	6	опред	_	_
+6	румянцем	РУМЯНЕЦ	S	S m inan ins sg	S m inan ins sg	4	1-компл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Лагерная	ЛАГЕРНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	жизнь	ЖИЗНЬ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+3	явно	ЯВНО	ADV	ADV -	ADV -	4	обст	_	_
+4	шла	ИДТИ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+5	бывшему	БЫВШИЙ	A	A - dat sg plen m -	A - dat sg plen m -	6	опред	_	_
+6	волонтеру	ВОЛОНТЕР	S	S m anim dat sg	S m anim dat sg	4	2-компл	_	_
+7	на	НА	PR	PR	PR	4	обст	_	_
+8	пользу	ПОЛЬЗА	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"прежде","gr":"PR="}],"text":"Прежде"}
+{"analysis":[{"lex":"все","gr":"SPRO,sg,n,inan=gen"}],"text":"всего"}
+{"analysis":[{"lex":"фандорина","qual":"bastard","gr":"S,f,inan=gen,pl"}],"text":"Фандорин"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"опять","gr":"ADV="}],"text":"опять"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"книжка","gr":"S,f,inan=ins,sg"}],"text":"книжкой"}
+{"text":"\\s"}
+{"analysis":[{"lex":"довольно","gr":"ADV="}],"text":"Довольно"}
+{"analysis":[{"lex":"глупо","gr":"ADV="}],"text":"глупо"}
+{"analysis":[{"lex":"читать","gr":"V,ipf,tran=inf"}],"text":"читать"}
+{"analysis":[{"lex":"можно","gr":"ADV,praed="}],"text":"можно"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"у"}
+{"analysis":[{"lex":"себя","gr":"SPRO=acc"},{"lex":"себя","gr":"SPRO=gen"}],"text":"себя"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"палатка","gr":"S,f,inan=abl,sg"},{"lex":"палатка","gr":"S,f,inan=dat,sg"}],"text":"палатке"}

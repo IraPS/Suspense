@@ -1,0 +1,124 @@
+1	–	–	–	–	PUNC	6	PUNC	_	_
+2	Мир	МИР	S	S m inan nom sg	S m inan nom sg	6	предик	_	_
+3	ч	Ч	S	S - - nonflex nonflex	S - - nonflex nonflex	2	аппоз	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	чересчур	ЧЕРЕСЧУР	ADV	ADV -	ADV -	6	огранич	_	_
+6	хороший	ХОРОШИЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	оп-опред	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	 	 	 	 	PUNC	10	2-компл	_	_
+9	–	–	–	–	PUNC	10	1-компл	_	_
+10	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+11	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	10	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Европа	ЕВРОПА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+3	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	5	1-компл	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	признает	ПРИЗНАВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	отлично	ОТЛИЧНО	ADV	ADV -	ADV -	3	обст	_	_
+3	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	провел	ПРОВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+6	свой	СВОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	7	опред	_	_
+7	гамбит	ГАМБИТ	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	а	А	CONJ	CONJ	CONJ	3	сент-соч	_	_
+10	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+11	проиграл	ПРОИГРЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	2	2-компл	_	_
+2	дали	ДАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	орден	ОРДЕН	S	S m inan acc sg	S m inan acc sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	а	А	CONJ	CONJ	CONJ	2	сочин	_	_
+6	надо	НАДО	ADV	ADV -	ADV -	8	огранич	_	_
+7	бы	БЫ	PART	PART	PART	6	вспом	_	_
+8	под	ПОД	PR	PR	PR	5	соч-союзн	_	_
+9	суд	СУД	S	S m inan acc sg	S m inan acc sg	8	предл	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	Как	КАК	ADV	ADV -	ADV -	6	обст	_	_
+3	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	6	предик	_	_
+4	к	К	PR	PR	PR	6	1-компл	_	_
+5	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	4	предл	_	_
+6	несправедливы	НЕСПРАВЕДЛИВЫЙ	A	A - - pl brev - -	A - - pl brev - -	0	ROOT	_	_
+7	!	!	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Ужасно	УЖАСНО	ADV	ADV -	ADV -	2	огранич	_	_
+2	несправедливы	НЕСПРАВЕДЛИВЫЙ	A	A - - pl brev - -	A - - pl brev - -	0	ROOT	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	горячо	ГОРЯЧО	ADV	ADV -	ADV -	3	обст	_	_
+3	заговорила	ЗАГОВАРИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	боясь	БОЯТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	3	обст	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	что	ЧТО	CONJ	CONJ	CONJ	6	1-компл	_	_
+9	выступят	ВЫСТУПАТЬ	V	V pf fut pl indic - 3p	V pf fut pl indic - 3p	8	подч-союзн	_	_
+10	слезы	СЛЕЗА	S	S f inan gen sg	S f inan gen sg	9	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	8	1-компл	_	_
+2	За	ЗА	PR	PR	PR	8	обст	_	_
+3	что	ЧТО	S	S n - acc sg	S n - acc sg	2	предл	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	8	предик	_	_
+5	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	6	опред	_	_
+6	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	8	длительн	_	_
+7	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	8	1-компл	_	_
+8	казните	КАЗНИТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Если	ЕСЛИ	CONJ	CONJ	CONJ	8	обст	_	_
+2	бы	БЫ	PART	PART	PART	4	аналит	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	1	подч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	8	предик	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	знаю	ЗНАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	что	ЧТО	S	S n inan acc sg	S n inan acc sg	0	ROOT	_	_
+11	бы	БЫ	PART	PART	PART	0	ROOT	_	_
+12	со	СО	PR	PR	PR	0	ROOT	_	_
+13	всеми	ВЕСЬ	A	A - ins pl plen - -	A - ins pl plen - -	15	опред	_	_
+14	нами	МЫ	SPRO	SPRO pl 1p - ins	SPRO pl 1p - ins	15	предик	_	_
+15	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	12	предл	_	_
+16	…	…	SENT	SENT	SENT	15	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	Примерно	ПРИМЕРНО	ADV	ADV -	ADV -	6	обст	_	_
+3	то	ТО	PART	PART	PART	2	огранич	_	_
+4	же	ЖЕ	PART	PART	PART	3	огранич	_	_
+5	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	6	1-компл	_	_
+6	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	Лаврентий	ЛАВРЕНТИЙ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+8	Аркадьевич	АРКАДЬЕВИЧ	S	S m anim nom sg	S m anim nom sg	7	аппоз	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	 	 	 	 	PUNC	12	2-компл	_	_
+11	–	–	–	–	PUNC	12	1-компл	_	_
+12	усмехнулся	УСМЕХАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	вводн	_	_
+13	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	предик	_	_
+2	И	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	п	П	S	S - - nonflex nonflex	S - - nonflex nonflex	2	соч-союзн	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	пообещал	ПООБЕЩАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	любую	ЛЮБОЙ	A	A - acc sg plen f -	A - acc sg plen f -	7	опред	_	_
+7	награду	НАГРАДА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	какая	КАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+10	в	В	PR	PR	PR	9	атриб	_	_
+11	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	12	квазиагент	_	_
+12	власти	ВЛАСТЬ	S	S f inan gen sg	S f inan gen sg	10	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+

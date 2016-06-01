@@ -1,0 +1,111 @@
+1	–	–	–	–	PUNC	2	2-компл	_	_
+2	Завидую	ЗАВИДОВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+3	вашему	ВАШ	A	A - dat sg plen m -	A - dat sg plen m -	4	опред	_	_
+4	жениху	ЖЕНИХ	S	S m anim dat sg	S m anim dat sg	2	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	Варвара	ВАРВАРА	S	S f anim nom sg	S f anim nom sg	2	вводн	_	_
+7	Андреевна	АНДРЕЕВНА	S	S f anim nom sg	S f anim nom sg	6	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	2	1-компл	_	_
+10	–	–	–	–	PUNC	11	1-компл	_	_
+11	молвил	МОЛВИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	вводн	_	_
+12	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	лаская	ЛАСКАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	11	обст	_	_
+15	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	14	1-компл	_	_
+16	взглядом	ВЗГЛЯД	S	S m inan ins sg	S m inan ins sg	14	обст	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	опред	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	4	предик	_	_
+3	незаурядная	НЕЗАУРЯДНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	девица	ДЕВИЦА	S	S f anim nom sg	S f anim nom sg	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	позвольте	ПОЗВОЛЯТЬ	V	V pf - pl imper - 2p	V pf - pl imper - 2p	0	ROOT	_	_
+3	представить	ПРЕДСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+4	моих	МОЙ	A	A - acc pl plen - anim	A - acc pl plen - anim	5	опред	_	_
+5	товарищей	ТОВАРИЩ	S	S m anim gen pl	S m anim gen pl	3	1-компл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	С	С	PR	PR	PR	9	обст	_	_
+2	мистером	МИСТЕР	S	S m anim ins sg	S m anim ins sg	1	предл	_	_
+3	Маклафлином	МАКЛАФЛИН	S	S m anim gen sg	S m anim gen sg	2	1-компл	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	9	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	по-моему	ПО-МОЕМУ	ADV	ADV -	ADV -	9	вводн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	уже	УЖЕ	ADV	ADV -	ADV -	9	огранич	_	_
+9	познакомились	ПОЗНАКОМИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	9	сент-соч	_	_
+12	это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+13	мой	МОЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	ординарец	ОРДИНАРЕЦ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+15	Сережа	СЕРЕЖА	S	S m anim nom sg	S m anim nom sg	14	аппоз	_	_
+16	Верещагин	ВЕРЕЩАГИН	S	S m anim nom sg	S m anim nom sg	15	аппоз	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	брат	БРАТ	S	S m anim nom sg	S m anim nom sg	14	аппоз	_	_
+19	того	ТОТ	A	A - acc sg plen m anim	A - acc sg plen m anim	21	опред	_	_
+20	самого	САМЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	21	опред	_	_
+21	Верещагина	ВЕРЕЩАГИН	S	S m anim gen sg	S m anim gen sg	18	1-компл	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	художника	ХУДОЖНИК	S	S m anim gen sg	S m anim gen sg	21	аппоз	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	(	(	_	_	PUNC	2	PUNC	_	_
+2	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	4	1-компл	_	_
+3	смущенно	СМУЩЕННО	ADV	ADV -	ADV -	4	обст	_	_
+4	поклонился	ПОКЛОНИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	худенький	ХУДЕНЬКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+6	миловидный	МИЛОВИДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	юноша	ЮНОША	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+8	в	В	PR	PR	PR	7	атриб	_	_
+9	казачьей	КАЗАЧИЙ	A	A - ins sg plen f -	A - ins sg plen f -	10	опред	_	_
+10	черкеске.	ЧЕРКЕСКА.	S	S f inan ins sg	S f inan ins sg	8	предл	_	_
+11	)	)	_	_	PUNC	10	PUNC	_	_
+12	Между прочим	Между прочим	ADV	ADV -	-	4	обст	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	4	сент-соч	_	_
+15	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	17	опред	_	_
+16	отличный	ОТЛИЧНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	17	опред	_	_
+17	рисовальщик	РИСОВАЛЬЩИК	S	S m anim nom sg	S m anim nom sg	14	соч-союзн	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	На	НА	PR	PR	PR	8	обст	_	_
+2	Дунае	ДУНАЙ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	во время	во время	PR	PR	ZERO	8	обст	_	_
+4	разведки	РАЗВЕДКА	S	S f inan gen sg	S f inan gen sg	3	предл	_	_
+5	так	ТАК	ADV	ADV -	ADV -	6	огранич	_	_
+6	турецкие	ТУРЕЦКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	7	опред	_	_
+7	позиции	ПОЗИЦИЯ	S	S f inan nom pl	S f inan nom pl	8	предик	_	_
+8	изобразил	ИЗОБРАЖАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+9	–	–	–	–	PUNC	11	опред	_	_
+10	просто	ПРОСТО	PART	PART	PART	11	огранич	_	_
+11	заглядение	ЗАГЛЯДЕНИЕ	S	S n inan acc sg	S n inan acc sg	8	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	где	ГДЕ	ADV	ADV -	ADV -	3	обст	_	_
+3	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	1	соч-союзн	_	_
+4	'	'	_	_	PUNC	3	PUNC	_	_
+5	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	3	разъяснит	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Эй	ЭЙ	INTJ	INTJ	INTJ	3	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	давайте	ДАВАТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	3	разъяснит	_	_
+6	-	-	-	-	PUNC	5	PUNC	_	_
+7	ка	КА	PART	PART	PART	8	огранич	_	_
+8	сюда	СЮДА	ADV	ADV -	ADV -	11	обст	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+11	представлю	ПРЕДСТАВЛЯТЬ	V	V pf fut sg indic - 1p	V pf fut sg indic - 1p	5	1-компл	_	_
+12	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	11	1-компл	_	_
+13	интересной	ИНТЕРЕСНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	14	опред	_	_
+14	даме	ДАМА	S	S f anim loc sg	S f anim loc sg	11	2-компл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+

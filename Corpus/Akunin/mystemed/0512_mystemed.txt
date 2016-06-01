@@ -1,0 +1,8 @@
+{"analysis":[{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"},{"lex":"маклафлин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Маклафлин"}
+{"analysis":[{"lex":"доставать","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"достал"}
+{"analysis":[{"lex":"из","gr":"PR="}],"text":"из"}
+{"analysis":[{"lex":"карман","gr":"S,m,inan=gen,sg"}],"text":"кармана"}
+{"analysis":[{"lex":"блокнот","gr":"S,m,inan=acc,sg"},{"lex":"блокнот","gr":"S,m,inan=nom,sg"}],"text":"блокнот"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"становиться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"стал"}
+{"analysis":[{"lex":"записывать","gr":"V,tran=inf,ipf"}],"text":"записывать"}

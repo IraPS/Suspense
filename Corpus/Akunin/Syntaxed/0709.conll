@@ -1,0 +1,23 @@
+1	За	ЗА	PR	PR	PR	3	обст	_	_
+2	Ловчей	ЛОВКО	ADV	ADV comp	ADV comp	1	предл	_	_
+3	стали	СТАНОВИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	встречаться	ВСТРЕЧАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	одиночные	ОДИНОЧНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+6	всадники	ВСАДНИК	S	S m anim nom pl	S m anim nom pl	0	ROOT	_	_
+7	–	–	–	–	PUNC	9	PUNC	_	_
+8	все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	9	колич-огран	_	_
+9	больше	МНОГО	ADV	ADV comp	ADV comp	0	ROOT	_	_
+10	фуражиры	ФУРАЖИР	S	S m inan gen sg	S m inan gen sg	9	сравнит	_	_
+11	да	ДА	CONJ	CONJ	CONJ	9	сравнит	_	_
+12	деловитые	ДЕЛОВИТЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	13	опред	_	_
+13	ординарцы	ОРДИНАРЕЦ	S	S m anim nom pl	S m anim nom pl	11	сравн-союзн	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	а	А	CONJ	CONJ	CONJ	9	сравнит	_	_
+16	вскоре	ВСКОРЕ	ADV	ADV -	ADV -	18	обст	_	_
+17	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	18	предик	_	_
+18	увидела	УВИДЕТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	15	соч-союзн	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	первого	ПЕРВЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	21	опред	_	_
+21	знакомого	ЗНАКОМЫЙ	S	S m anim acc sg	S m anim acc sg	19	соч-союзн	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+

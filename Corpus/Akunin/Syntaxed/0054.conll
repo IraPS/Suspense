@@ -1,0 +1,19 @@
+1	–	–	–	–	PUNC	4	опред	_	_
+2	Д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	1	аппоз	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	дванадесет	ДВАНАДЕСЕТА	S	S f inan gen pl	S f inan gen pl	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	 	 	 	 	PUNC	4	опред	_	_
+7	–	–	–	–	PUNC	9	1-компл	_	_
+8	спокойно	СПОКОЙНО	ADV	ADV -	ADV -	9	обст	_	_
+9	объявил	ОБЪЯВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	примыкат	_	_
+10	Фандорин	ФАНДОРИНА	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+12	встал	ВСТАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	11	соч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	предик	_	_
+2	Где	ГДЕ	ADV	ADV -	ADV -	3	обст	_	_
+3	магарето	МАГАРЕТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	0	ROOT	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+

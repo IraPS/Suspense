@@ -1,0 +1,30 @@
+1	Из	ИЗ	PR	PR	PR	3	1-компл	_	_
+2	сеней	СЕНИ	S	S - inan gen pl	S - inan gen pl	1	предл	_	_
+3	попали	ПОПАДАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	сразу	СРАЗУ	ADV	ADV -	ADV -	3	обст	_	_
+5	в	В	PR	PR	PR	3	2-компл	_	_
+6	адъютантскую	АДЪЮТАНТСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	где	ГДЕ	ADV	ADV -	ADV -	11	обст	_	_
+9	за	ЗА	PR	PR	PR	11	обст	_	_
+10	столами	СТОЛ	S	S m inan ins pl	S m inan ins pl	9	предл	_	_
+11	сидели	СИДЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	3	сент-соч	_	_
+12	дежурный	ДЕЖУРНЫЙ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+15	двое	ДВОЕ	NUM	NUM nom - -	NUM nom - -	16	количест	_	_
+16	офицеров	ОФИЦЕР	S	S m anim gen pl	S m anim gen pl	14	соч-союзн	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Направо	НАПРАВО	ADV	ADV -	ADV -	2	обст	_	_
+2	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	личные	ЛИЧНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	опред	_	_
+4	покои	ПОКОЙ	S	S m inan acc pl	S m inan acc pl	2	присвяз	_	_
+5	государя	ГОСУДАРЬ	S	S m anim gen sg	S m anim gen sg	4	квазиагент	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	налево	НАЛЕВО	ADV	ADV -	ADV -	8	обст	_	_
+8	–	–	–	–	PUNC	2	сент-соч	_	_
+9	рабочий	РАБОЧИЙ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	кабинет	КАБИНЕТ	S	S m inan acc sg	S m inan acc sg	8	1-компл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+

@@ -1,0 +1,19 @@
+1	Шеф	ШЕФ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	жандармов	ЖАНДАРМ	S	S m anim gen pl	S m anim gen pl	1	1-компл	_	_
+3	извлек	ИЗВЛЕКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	из	ИЗ	PR	PR	PR	3	2-компл	_	_
+5	бювара	БЮВАР	S	S m inan gen sg	S m inan gen sg	4	предл	_	_
+6	листы	ЛИСТ	S	S m inan acc pl	S m inan acc pl	3	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	мелко	МЕЛКО	ADV	ADV -	ADV -	9	обст	_	_
+9	исписанные	ИСПИСЫВАТЬ	PARTCP	PARTCP pf praet acc pl plen - pass inan	PARTCP pf praet acc pl plen - pass inan	6	опред	_	_
+10	ровным	РОВНЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	12	опред	_	_
+11	писарским	ПИСАРСКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	12	опред	_	_
+12	почерком	ПОЧЕРК	S	S m inan ins sg	S m inan ins sg	9	агент	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+15	приступил	ПРИСТУПАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	14	соч-союзн	_	_
+16	к	К	PR	PR	PR	15	1-компл	_	_
+17	чтению	ЧТЕНИЕ	S	S n inan dat sg	S n inan dat sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

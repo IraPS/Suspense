@@ -1,0 +1,157 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+3	самый	САМЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	2	опред	_	_
+4	англичанин	АНГЛИЧАНИН	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	7	предик	_	_
+7	писал	ПИСАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	сент-соч	_	_
+8	про	ПРО	PR	PR	PR	7	3-компл	_	_
+9	турецкие	ТУРЕЦКИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	10	опред	_	_
+10	зверства	ЗВЕРСТВО	S	S n inan acc pl	S n inan acc pl	8	предл	_	_
+11	в	В	PR	PR	PR	10	атриб	_	_
+12	Болгарии	БОЛГАРИЯ	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	?	?	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросила	СПРАШИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	снимая	СНИМАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	2	обст	_	_
+6	шапку	ШАПКА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+7	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+8	кое-как	КОЕ-КАК	ADV	ADV -	ADV -	9	обст	_	_
+9	приводя	ПРИВОДИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	соч-союзн	_	_
+10	в	В	PR	PR	PR	9	3-компл	_	_
+11	порядок	ПОРЯДОК	S	S m inan acc sg	S m inan acc sg	10	предл	_	_
+12	волосы	ВОЛОС	S	S m inan acc pl	S m inan acc pl	9	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	7	1-компл	_	_
+2	Ирландец	ИРЛАНДЕЦ	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	 	 	 	 	PUNC	7	2-компл	_	_
+5	–	–	–	–	PUNC	7	1-компл	_	_
+6	строго	СТРОГО	ADV	ADV -	ADV -	7	обст	_	_
+7	поправил	ПОПРАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	Маклафлин	МАКЛАФЛИН	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+3	совсем	СОВСЕМ	ADV	ADV -	ADV -	4	огранич	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	одно	ОДИН	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+6	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+7	то	ТОТ	A	A - acc sg plen n -	A - acc sg plen n -	6	соч-союзн	_	_
+8	же	ЖЕ	PART	PART	PART	7	огранич	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	2-компл	_	_
+2	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+3	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	4	предик	_	_
+4	кто	КТО	S	S m anim nom sg	S m anim nom sg	2	соч-союзн	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	3	предик	_	_
+3	кивнула	КИВНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	в	В	PR	PR	PR	3	2-компл	_	_
+5	ту	ТОТ	A	A - acc sg plen f -	A - acc sg plen f -	6	опред	_	_
+6	сторону	СТОРОНА	S	S f inan acc sg	S f inan acc sg	4	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	где	ГДЕ	ADV	ADV -	ADV -	9	обст	_	_
+9	клубилось	КЛУБИТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	3	сент-соч	_	_
+10	пыльное	ПЫЛЬНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	11	опред	_	_
+11	облако	ОБЛАКО	S	S n inan nom sg	S n inan nom sg	9	предик	_	_
+12	и	И	CONJ	CONJ	CONJ	9	сент-соч	_	_
+13	гремели	ГРЕМЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	12	соч-союзн	_	_
+14	выстрелы	ВЫСТРЕЛ	S	S m inan nom pl	S m inan nom pl	13	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	В	В	PR	PR	PR	1	обст	_	_
+3	шляпе	ШЛЯПА	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+4	–	–	–	–	PUNC	5	вспом	_	_
+5	кто	КТО	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	10	опред	_	_
+2	Этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+3	несравненный	НЕСРАВНЕННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	ковбой	КОВБОЙ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+5	–	–	–	–	PUNC	7	опред	_	_
+6	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	7	опред	_	_
+7	мсье	МСЬЕ	S	S m anim nonflex nonflex	S m anim nonflex nonflex	4	аппоз	_	_
+8	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	7	аппоз	_	_
+9	'	'	_	_	PUNC	8	PUNC	_	_
+10	Эвре	ЭВР	S	S m inan loc sg	S m inan loc sg	0	ROOT	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	блестящее	БЛЕСТЯЩИЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	10	опред	_	_
+13	перо	ПЕРО	S	S n inan acc sg	S n inan acc sg	12	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	любимец	ЛЮБИМЕЦ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+16	французских	ФРАНЦУЗСКИЙ	A	A - gen pl plen - -	A - gen pl plen - -	17	опред	_	_
+17	читателей	ЧИТАТЕЛЬ	S	S m anim gen pl	S m anim gen pl	15	1-компл	_	_
+18	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+19	козырной	КОЗЫРНОЙ	A	A - nom sg plen m -	A - nom sg plen m -	20	опред	_	_
+20	туз	ТУЗ	S	S m inan nom sg	S m inan nom sg	18	соч-союзн	_	_
+21	газеты	ГАЗЕТА	S	S f inan gen sg	S f inan gen sg	20	1-компл	_	_
+22	«	«	_	_	PUNC	21	PUNC	_	_
+23	Ревю	РЕВЮ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	20	квазиагент	_	_
+24	паризьен	ПАРИЗЬЕН	S	S m inan acc sg	S m inan acc sg	10	1-компл	_	_
+25	»	»	_	_	PUNC	24	PUNC	_	_
+26	.	.	SENT	SENT	SENT	24	PUNC	_	_
+
+1	–	–	–	–	PUNC	4	опред	_	_
+2	«	«	_	_	PUNC	3	PUNC	_	_
+3	Ревю	РЕВЮ	S	S n inan nonflex nonflex	S n inan nonflex nonflex	1	аппоз	_	_
+4	паризьен	ПАРИЗЬЕН	S	S m inan acc sg	S m inan acc sg	0	ROOT	_	_
+5	»	»	_	_	PUNC	4	PUNC	_	_
+6	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Да	ДА	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	это	ЭТО	S	S n - nom sg	S n - nom sg	7	предик	_	_
+5	парижская	ПАРИЖСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+6	ежедневная	ЕЖЕДНЕВНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	7	опред	_	_
+7	газета	ГАЗЕТА	S	S f inan nom sg	S f inan nom sg	2	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Тираж	ТИРАЖ	S	S m inan nom sg	S m inan nom sg	0	ROOT	_	_
+2	–	–	–	–	PUNC	5	опред	_	_
+3	сто	СТО	NUM	NUM acc - -	NUM acc - -	4	колич-вспом	_	_
+4	пятьдесят	ПЯТЬДЕСЯТ	NUM	NUM acc - -	NUM acc - -	5	количест	_	_
+5	тысяч	ТЫСЯЧА	S	S f inan gen pl	S f inan gen pl	1	квазиагент	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	что	ЧТО	CONJ	CONJ	CONJ	1	1-компл	_	_
+8	для	ДЛЯ	PR	PR	PR	11	обст	_	_
+9	Франции	ФРАНЦИЯ	S	S f inan loc sg	S f inan loc sg	8	предл	_	_
+10	невероятно	НЕВЕРОЯТНО	ADV	ADV -	ADV -	11	огранич	_	_
+11	много	МНОГО	ADV	ADV -	ADV -	7	подч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	 	 	 	 	PUNC	16	1-компл	_	_
+14	–	–	–	–	PUNC	15	1-компл	_	_
+15	пренебрежительно	ПРЕНЕБРЕЖИТЕЛЬНЫЙ	A	A - - sg brev n -	A - - sg brev n -	13	1-компл	_	_
+16	пояснил	ПОЯСНЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	релят	_	_
+17	корреспондент	КОРРЕСПОНДЕНТ	S	S m anim nom sg	S m anim nom sg	16	предик	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Но	НО	CONJ	CONJ	CONJ	1	сочин	_	_
+3	у	У	PR	PR	PR	2	соч-союзн	_	_
+4	моей	МОЙ	A	A - dat sg plen f -	A - dat sg plen f -	7	опред	_	_
+5	«	«	_	_	PUNC	4	PUNC	_	_
+6	Дейли	ДЕЙЛИ	S	S f inan nonflex nonflex	S f inan nonflex nonflex	4	сочин	_	_
+7	пост	ПОСТ	S	S m inan acc sg	S m inan acc sg	3	предл	_	_
+8	»	»	_	_	PUNC	7	PUNC	_	_
+9	ежедневно	ЕЖЕДНЕВНО	ADV	ADV -	ADV -	10	обст	_	_
+10	продается	ПРОДАВАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	7	релят	_	_
+11	двести	ДВЕСТИ	NUM	NUM acc - -	NUM acc - -	12	колич-вспом	_	_
+12	сорок	СОРОК	NUM	NUM acc - -	NUM acc - -	13	количест	_	_
+13	тысяч	ТЫСЯЧА	S	S f inan gen pl	S f inan gen pl	10	предик	_	_
+14	номеров	НОМЕР	S	S m inan gen pl	S m inan gen pl	13	квазиагент	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	так-то	ТАК-ТО	PART	PART	PART	13	огранич	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+

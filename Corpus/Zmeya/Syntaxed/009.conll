@@ -1,0 +1,25 @@
+1	Они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	2	предик	_	_
+2	вышли	ВЫХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	2-компл	_	_
+4	поляну	ПОЛЯНА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	с	С	PR	PR	PR	2	обст	_	_
+6	высокой	ВЫСОКИЙ	A	A - ins sg plen f -	A - ins sg plen f -	7	опред	_	_
+7	травой	ТРАВА	S	S f inan ins sg	S f inan ins sg	5	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	усеянную	УСЕИВАТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	7	опред	_	_
+10	камнями	КАМЕНЬ	S	S m inan ins pl	S m inan ins pl	9	2-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+13	сели	САДИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	12	соч-союзн	_	_
+14	на	НА	PR	PR	PR	13	обст	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	камни	КАМЕНЬ	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+2	;	;	SENT	SENT	SENT	1	PUNC	_	_
+
+1	думая	ДУМАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	0	ROOT	_	_
+2	каждый	КАЖДЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	0	ROOT	_	_
+3	о	О	PR	PR	PR	2	1-компл	_	_
+4	своем	СВОЙ	A	A - loc sg plen m -	A - loc sg plen m -	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+

@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"проваливаться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"Провалилась"}
+{"analysis":[{"lex":"подлый","gr":"A=nom,sg,plen,f"}],"text":"подлая"}
+{"analysis":[{"lex":"напутственный","gr":"A=sg,brev,n"}],"text":"напутственно"}
+{"analysis":[{"lex":"прошамкать","gr":"V,pf,tran=praet,pl,indic"}],"text":"прошамкали"}
+{"analysis":[{"lex":"чей-то","gr":"APRO=nom,pl"},{"lex":"чей-то","gr":"APRO=acc,pl,inan"}],"text":"чьи-то"}
+{"analysis":[{"lex":"губа","gr":"S,f,inan=acc,pl"},{"lex":"губа","gr":"S,f,inan=gen,sg"},{"lex":"губа","gr":"S,f,inan=nom,pl"}],"text":"губы"}

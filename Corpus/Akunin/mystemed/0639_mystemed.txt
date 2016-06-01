@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"В"}
+{"analysis":[{"lex":"первый","gr":"ANUM=abl,sg,m"},{"lex":"первый","gr":"ANUM=abl,sg,n"}],"text":"первом"}
+{"analysis":[{"lex":"час","gr":"S,m,inan=dat,sg"},{"lex":"час","gr":"S,m,inan=part,sg"},{"lex":"час","gr":"S,m,inan=loc,sg"}],"text":"часу"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=acc,sg"}],"text":"Варю"}
+{"analysis":[{"lex":"разыскивать","gr":"V=praet,sg,indic,m,pf"}],"text":"разыскал"}
+{"analysis":[{"lex":"хмурый","gr":"A=acc,sg,plen,m,inan"},{"lex":"хмурый","gr":"A=nom,sg,plen,m"}],"text":"хмурый"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Фандорин"}

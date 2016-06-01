@@ -1,0 +1,103 @@
+1	–	–	–	–	PUNC	11	1-компл	_	_
+2	Гродненского	ГРОДНЕНСКИЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	4	опред	_	_
+3	гусарского	ГУСАРСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	4	опред	_	_
+4	полка	ПОЛК	S	S m inan gen sg	S m inan gen sg	1	1-компл	_	_
+5	ротмистр	РОТМИСТР	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+6	граф	ГРАФ	S	S m anim nom sg	S m anim nom sg	5	аппоз	_	_
+7	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	6	аппоз	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	11	неакт-компл	_	_
+10	–	–	–	–	PUNC	11	1-компл	_	_
+11	отрекомендовался	ОТРЕКОМЕНДОВЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	офицер	ОФИЦЕР	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+13	и	И	CONJ	CONJ	CONJ	11	сочин	_	_
+14	отсалютовал	ОТСАЛЮТОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	13	соч-союзн	_	_
+15	Соболеву	СОБОЛЕВ	S	S f anim acc sg	S f anim acc sg	14	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	He	HE	NONLEX	NONLEX	NONLEX	3	предик	_	_
+3	припоминаете	ПРИПОМИНАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	6	опред	_	_
+6	превосходительство	ПРЕВОСХОДИТЕЛЬСТВО	S	S n anim nom sg	S n anim nom sg	3	пролепт	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Вместе	ВМЕСТЕ	ADV	ADV -	ADV -	4	обст	_	_
+2	на	НА	PR	PR	PR	4	обст	_	_
+3	Коканд	КОКАНД	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	ходили	ХОДИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	12	предик	_	_
+7	в	В	PR	PR	PR	12	обст	_	_
+8	штабе	ШТАБ	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+9	у	У	PR	PR	PR	8	атриб	_	_
+10	Константина	КОНСТАНТИН	S	S m anim gen sg	S m anim gen sg	9	предл	_	_
+11	Петровича	ПЕТРОВИЧ	S	S m anim gen sg	S m anim gen sg	10	аппоз	_	_
+12	служил	СЛУЖИТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сент-соч	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	1-компл	_	_
+2	Как	КАК	ADV	ADV -	ADV -	5	обст	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	помню	ПОМНИТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	 	 	 	 	PUNC	9	2-компл	_	_
+8	–	–	–	–	PUNC	9	1-компл	_	_
+9	кивнул	КИВНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	вводн	_	_
+10	генерал	ГЕНЕРАЛ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	–	–	–	–	PUNC	8	предик	_	_
+2	Вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	8	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	8	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	под	ПОД	PR	PR	PR	8	обст	_	_
+7	суд	СУД	S	S m inan acc sg	S m inan acc sg	6	предл	_	_
+8	отдали	ОТДАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+9	за	ЗА	PR	PR	PR	8	обст	_	_
+10	картежную	КАРТЕЖНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+11	игру	ИГРА	S	S f inan acc sg	S f inan acc sg	9	предл	_	_
+12	в	В	PR	PR	PR	11	атриб	_	_
+13	походе	ПОХОД	S	S m inan loc sg	S m inan loc sg	12	предл	_	_
+14	и	И	CONJ	CONJ	CONJ	8	сент-соч	_	_
+15	дуэль	ДУЭЛЬ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+16	с	С	PR	PR	PR	15	атриб	_	_
+17	каким-то	КАКОЙ-ТО	A	A - ins sg plen m -	A - ins sg plen m -	18	опред	_	_
+18	интендантом	ИНТЕНДАНТ	S	S m anim ins sg	S m anim ins sg	16	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	1-компл	_	_
+2	Бог	БОГ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+3	милостив	МИЛОСТИВЫЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	обошлось	ОБХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	3	сочин	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	 	 	 	 	PUNC	10	3-компл	_	_
+8	–	–	–	–	PUNC	10	1-компл	_	_
+9	легкомысленно	ЛЕГКОМЫСЛЕННО	ADV	ADV -	ADV -	10	обст	_	_
+10	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	вводн	_	_
+11	гусар	ГУСАР	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	–	–	–	–	PUNC	3	обст	_	_
+2	Мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	3	1-компл	_	_
+3	сказали	СКАЗАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	здесь	ЗДЕСЬ	ADV	ADV -	ADV -	6	обст	_	_
+6	бывает	БЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	сент-соч	_	_
+7	мой	МОЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+8	давний	ДАВНИЙ	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+9	приятель	ПРИЯТЕЛЬ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+10	Эразм	ЭРАЗМ	S	S m anim nom sg	S m anim nom sg	9	аппоз	_	_
+11	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	10	аппоз	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Надеюсь	НАДЕЯТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	соврали	СОВРАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+

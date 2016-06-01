@@ -1,0 +1,11 @@
+1	—	—	—	—	PUNC	0	ROOT	_	_
+2	Сами	САМ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	знаете	ЗНАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	0	ROOT	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	—	—	—	—	PUNC	8	1-компл	_	_
+7	угрюмо	УГРЮМО	ADV	ADV -	ADV -	8	обст	_	_
+8	ответил	ОТВЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	подч-союзн	_	_
+9	истопник	ИСТОПНИК	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

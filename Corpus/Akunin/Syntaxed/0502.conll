@@ -1,0 +1,88 @@
+1	Лукана	ЛУКАН	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+2	пока	ПОКА	CONJ	CONJ	CONJ	1	обст	_	_
+3	в	В	PR	PR	PR	6	присвяз	_	_
+4	зале	ЗАЛ	S	S m inan loc sg	S m inan loc sg	3	предл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	2	подч-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+9	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	8	соч-союзн	_	_
+10	из	ИЗ	PR	PR	PR	9	атриб	_	_
+11	человеколюбия	ЧЕЛОВЕКОЛЮБИЕ	S	S n inan gen sg	S n inan gen sg	10	предл	_	_
+12	попросила	ПОПРОСИТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+13	еще	ЕЩЕ	ADV	ADV -	ADV -	14	огранич	_	_
+14	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	15	обст	_	_
+15	объяснить	ОБЪЯСНЯТЬ	V	V pf - - inf - -	V pf - - inf - -	12	1-компл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	как	КАК	CONJ	CONJ	CONJ	15	1-компл	_	_
+18	играется	ИГРАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	17	подч-союзн	_	_
+19	староперсидская	СТАРОПЕРСИДСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	20	опред	_	_
+20	защита	ЗАЩИТА	S	S f inan nom sg	S f inan nom sg	18	предик	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Ирландец	ИРЛАНДЕЦ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	совершенно	СОВЕРШЕННО	ADV	ADV -	ADV -	4	огранич	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	заметивший	ЗАМЕЧАТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	0	ROOT	_	_
+6	произошедшей	ПРОИСХОДИТЬ	PARTCP	PARTCP pf praet loc sg plen f act -	PARTCP pf praet loc sg plen f act -	0	ROOT	_	_
+7	в	В	PR	PR	PR	6	обст	_	_
+8	Варе	ВАР	S	S m inan loc sg	S m inan loc sg	7	предл	_	_
+9	перемены	ПЕРЕМЕНА	S	S f inan gen sg	S f inan gen sg	8	квазиагент	_	_
+10	(	(	_	_	PUNC	11	PUNC	_	_
+11	а	А	CONJ	CONJ	CONJ	9	примыкат	_	_
+12	потрачено	ПОТРАТИТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	13	пасс-анал	_	_
+13	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	11	соч-союзн	_	_
+14	шесть	ШЕСТЬ	NUM	NUM acc - -	NUM acc - -	15	количест	_	_
+15	часов	ЧАС	S	S m inan gen pl	S m inan gen pl	13	предик	_	_
+16	времени	ВРЕМЯ	S	S n inan gen sg	S n inan gen sg	15	квазиагент	_	_
+17	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+18	почти	ПОЧТИ	ADV	ADV -	ADV -	19	огранич	_	_
+19	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	21	опред	_	_
+20	разъездные	РАЗЪЕЗДНОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	21	опред	_	_
+21	–	–	–	–	PUNC	28	предик	_	_
+22	шестьсот	ШЕСТЬСОТ	NUM	NUM acc - -	NUM acc - -	23	колич-вспом	_	_
+23	восемьдесят	ВОСЕМЬДЕСЯТ	NUM	NUM acc - -	NUM acc - -	24	колич-вспом	_	_
+24	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	25	количест	_	_
+25	франков	ФРАНК	S	S m inan gen pl	S m inan gen pl	21	примыкат	_	_
+26	)	)	_	_	PUNC	25	PUNC	_	_
+27	сухо	СУХО	ADV	ADV -	ADV -	28	обст	_	_
+28	заметил	ЗАМЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	17	соч-союзн	_	_
+29	,	,	,	,	PUNC	28	PUNC	_	_
+30	что	ЧТО	CONJ	CONJ	CONJ	28	1-компл	_	_
+31	такая	ТАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	32	опред	_	_
+32	защита	ЗАЩИТА	S	S f inan nom sg	S f inan nom sg	34	предик	_	_
+33	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	34	1-компл	_	_
+34	неизвестна	НЕИЗВЕСТНЫЙ	A	A - - sg brev f -	A - - sg brev f -	30	подч-союзн	_	_
+35	.	.	SENT	SENT	SENT	34	PUNC	_	_
+
+1	Пришлось	ПРИХОДИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+2	поинтересоваться	ПОИНТЕРЕСОВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	всегда	ВСЕГДА	ADV	ADV -	ADV -	11	огранич	_	_
+5	ли	ЛИ	PART	PART	PART	4	огранич	_	_
+6	в	В	PR	PR	PR	11	огранич	_	_
+7	этих	ЭТОТ	A	A - loc pl plen - -	A - loc pl plen - -	8	опред	_	_
+8	широтах	ШИРОТА	S	S f inan loc pl	S f inan loc pl	6	предл	_	_
+9	так	ТАК	ADV	ADV -	ADV -	10	огранич	_	_
+10	жарко	ЖАРКО	ADV	ADV -	ADV -	11	огранич	_	_
+11	в	В	PR	PR	PR	2	обст	_	_
+12	конце	КОНЕЦ	S	S m inan loc sg	S m inan loc sg	11	предл	_	_
+13	июля	ИЮЛЬ	S	S m inan gen sg	S m inan gen sg	12	квазиагент	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Оказалось	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	что	ЧТО	CONJ	CONJ	CONJ	1	предик	_	_
+4	всегда	ВСЕГДА	ADV	ADV -	ADV -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	но	НО	CONJ	CONJ	CONJ	4	сочин	_	_
+7	это	ЭТО	S	S n - nom sg	S n - nom sg	0	ROOT	_	_
+8	сущие	СУЩИЙ	A	A - nom pl plen - -	A - nom pl plen - -	9	опред	_	_
+9	пустяки	ПУСТЯК	S	S m inan nom pl	S m inan nom pl	0	ROOT	_	_
+10	по сравнению с	по сравнению с	PR	PR	ZERO	9	атриб	_	_
+11	влажной	ВЛАЖНЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	12	опред	_	_
+12	жарой	ЖАРА	S	S f inan ins sg	S f inan ins sg	10	предл	_	_
+13	Бангалора	БАНГАЛОР	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

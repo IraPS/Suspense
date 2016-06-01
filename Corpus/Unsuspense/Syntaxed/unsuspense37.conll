@@ -1,0 +1,70 @@
+1	Часто	ЧАСТО	ADV	ADV -	ADV -	4	обст	_	_
+2	игры	ИГРА	S	S f inan nom pl	S f inan nom pl	4	предик	_	_
+3	детей	РЕБЕНОК	S	S m anim gen pl	S m anim gen pl	2	квазиагент	_	_
+4	принимали	ПРИНИМАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	общий	ОБЩИЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	6	опред	_	_
+6	характер	ХАРАКТЕР	S	S m inan acc sg	S m inan acc sg	4	1-компл	_	_
+7	:	:	:	:	PUNC	25	обст	_	_
+8	так	ТАК	ADV	ADV -	ADV -	7	обст	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	когда	КОГДА	CONJ	CONJ	CONJ	8	1-компл	_	_
+11	в	В	PR	PR	PR	13	обст	_	_
+12	Москве	МОСКВА	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	проводилась	ПРОВОДИТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	10	подч-союзн	_	_
+14	«	«	_	_	PUNC	15	PUNC	_	_
+15	паспортизация	ПАСПОРТИЗАЦИЯ	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+16	»	»	_	_	PUNC	15	PUNC	_	_
+17	,	,	,	,	PUNC	15	PUNC	_	_
+18	всем	ВЕСЬ	A	A - dat pl plen - -	A - dat pl plen - -	19	опред	_	_
+19	Наташиным	НАТАШИН	S	S m anim dat pl	S m anim dat pl	25	2-компл	_	_
+20	куклам	КУКЛА	S	S f inan nom sg	S f inan nom sg	19	аппоз	_	_
+21	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+22	Сережиным	СЕРЕЖИН	S	S f inan nom sg	S f inan nom sg	21	соч-союзн	_	_
+23	зверям	ЗВЕРЬ	S	S m anim dat pl	S m anim dat pl	22	2-компл	_	_
+24	Колюша	КОЛЮША	S	S m anim nom sg	S m anim nom sg	25	предик	_	_
+25	написал	НАПИСАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сочин	_	_
+26	паспорта	ПАСПОРТ	S	S m inan acc pl	S m inan acc pl	25	1-компл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	При	ПРИ	PR	PR	PR	11	обст	_	_
+2	этом	ЭТО	S	S n - loc sg	S n - loc sg	4	предик	_	_
+3	внимательно	ВНИМАТЕЛЬНО	ADV	ADV -	ADV -	4	обст	_	_
+4	разбиралось	РАЗБИРАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	какие	КАКОЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	предик	_	_
+7	у	У	PR	PR	PR	11	1-компл	_	_
+8	кукол	КУКЛА	S	S f anim acc pl	S f anim acc pl	7	предл	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	зверей	ЗВЕРЬ	S	S m anim acc pl	S m anim acc pl	9	соч-союзн	_	_
+11	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+12	«	«	_	_	PUNC	13	PUNC	_	_
+13	дедушки	ДЕДУШКА	S	S m anim gen sg	S m anim gen sg	11	предик	_	_
+14	»	»	_	_	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+16	«	«	_	_	PUNC	17	PUNC	_	_
+17	бабушки	БАБУШКА	S	S f anim gen sg	S f anim gen sg	15	соч-союзн	_	_
+18	»	»	_	_	PUNC	17	PUNC	_	_
+19	,	,	,	,	PUNC	17	PUNC	_	_
+20	подозрительные	ПОДОЗРИТЕЛЬНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	21	опред	_	_
+21	куклы	КУКЛА	S	S f inan acc pl	S f inan acc pl	11	1-компл	_	_
+22	и	И	CONJ	CONJ	CONJ	11	сент-соч	_	_
+23	звери	ЗВЕРЬ	S	S m anim nom pl	S m anim nom pl	26	предик	_	_
+24	паспортов	ПАСПОРТ	S	S m inan gen pl	S m inan gen pl	23	1-компл	_	_
+25	не	НЕ	PART	PART	PART	26	огранич	_	_
+26	получали	ПОЛУЧАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	22	соч-союзн	_	_
+27	,	,	,	,	PUNC	26	PUNC	_	_
+28	а	А	CONJ	CONJ	CONJ	26	сочин	_	_
+29	отправлялись	ОТПРАВЛЯТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	28	соч-союзн	_	_
+30	под	ПОД	PR	PR	PR	29	обст	_	_
+31	кровати	КРОВАТЬ	S	S f inan loc sg	S f inan loc sg	30	предл	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	безногие	БЕЗНОГИЙ	A	A - nom pl plen - -	A - nom pl plen - -	36	предик	_	_
+34	и	И	CONJ	CONJ	CONJ	33	сочин	_	_
+35	калеки	КАЛЕКА	S	S - anim nom pl	S - anim nom pl	34	соч-союзн	_	_
+36	получали	ПОЛУЧАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	11	сент-соч	_	_
+37	бессрочные	БЕССРОЧНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	38	опред	_	_
+38	паспорта	ПАСПОРТ	S	S m inan nom pl	S m inan nom pl	36	длительн	_	_
+39	и	И	CONJ	CONJ	CONJ	38	сочин	_	_
+40	т.п	Т.П	S	S - - nonflex nonflex	S - - nonflex nonflex	39	соч-союзн	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+

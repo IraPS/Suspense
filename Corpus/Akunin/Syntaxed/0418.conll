@@ -1,0 +1,30 @@
+1	В	В	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+2	брешь	БРЕШЬ	S	S f inan acc sg	S f inan acc sg	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	образовавшуюся	ОБРАЗОВЫВАТЬСЯ	PARTCP	PARTCP pf praet acc sg plen f act -	PARTCP pf praet acc sg plen f act -	2	опред	_	_
+5	после	ПОСЛЕ	PR	PR	PR	4	обст	_	_
+6	ретирады	РЕТИРАДА	S	S f inan acc pl	S f inan acc pl	5	предл	_	_
+7	генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	6	квазиагент	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	устремился	УСТРЕМЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	вводн	_	_
+10	Зуров	ЗУРОВ	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	убежденный	УБЕЖДЕННЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	13	опред	_	_
+13	сторонник	СТОРОННИК	S	S m anim nom sg	S m anim nom sg	10	сочин	_	_
+14	кавалерийской	КАВАЛЕРИЙСКИЙ	A	A - loc sg plen f -	A - loc sg plen f -	15	опред	_	_
+15	атаки	АТАКА	S	S f inan gen sg	S f inan gen sg	13	1-компл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	2	предик	_	_
+2	прыснула	ПРЫСНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	припомнив	ПРИПОМИНАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	как	КАК	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	лихо	ЛИХО	ADV	ADV -	ADV -	9	обст	_	_
+8	ротмистр	РОТМИСТР	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+9	провел	ПРОВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	подч-союзн	_	_
+10	предварительную	ПРЕДВАРИТЕЛЬНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	11	опред	_	_
+11	рекогносцировку	РЕКОГНОСЦИРОВКА	S	S f inan acc sg	S f inan acc sg	9	1-компл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

@@ -1,0 +1,98 @@
+1	Говорили	ГОВОРИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+2	про	ПРО	PR	PR	PR	1	3-компл	_	_
+3	генерала	ГЕНЕРАЛ	S	S m anim gen sg	S m anim gen sg	2	предл	_	_
+4	разное	РАЗНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	1	1-компл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Одни	ОДИН	A	A - nom pl plen - -	A - nom pl plen - -	2	предик	_	_
+2	превозносили	ПРЕВОЗНОСИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	2	1-компл	_	_
+4	как	КАК	CONJ	CONJ	CONJ	2	сравнит	_	_
+5	несравненного	НЕСРАВНЕННЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	6	опред	_	_
+6	храбреца	ХРАБРЕЦ	S	S m anim acc sg	S m anim acc sg	4	сравн-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	рыцаря	РЫЦАРЬ	S	S m anim gen sg	S m anim gen sg	6	1-компл	_	_
+9	без	БЕЗ	PR	PR	PR	6	атриб	_	_
+10	страха	СТРАХ	S	S m inan gen sg	S m inan gen sg	9	предл	_	_
+11	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+12	упрека	УПРЕК	S	S m inan gen sg	S m inan gen sg	11	соч-союзн	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	называли	НАЗЫВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	сочин	_	_
+15	будущим	БУДУЩЕЕ	S	S n inan dat pl	S n inan dat pl	14	2-компл	_	_
+16	Суворовым	СУВОРОВ	S	S m anim ins sg	S m anim ins sg	15	присвяз	_	_
+17	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+18	даже	ДАЖЕ	PART	PART	PART	19	огранич	_	_
+19	Бонапартом	БОНАПАРТ	S	S m anim ins sg	S m anim ins sg	17	соч-союзн	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	другие	ДРУГОЙ	A	A - nom pl plen - -	A - nom pl plen - -	22	предик	_	_
+22	ругали	РУГАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	14	сент-соч	_	_
+23	позером	ПОЗЕР	S	S m anim ins sg	S m anim ins sg	22	1-компл	_	_
+24	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+25	честолюбцем	ЧЕСТОЛЮБЕЦ	S	S m anim ins sg	S m anim ins sg	24	соч-союзн	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	В	В	PR	PR	PR	3	обст	_	_
+2	газетах	ГАЗЕТА	S	S f inan loc pl	S f inan loc pl	1	предл	_	_
+3	писали	ПИСАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	про	ПРО	PR	PR	PR	3	обст	_	_
+5	то	ТО	S	S n - acc sg	S n - acc sg	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как	КАК	CONJ	CONJ	CONJ	5	эксплет	_	_
+8	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+9	в одиночку	в одиночку	ADV	ADV -	-	10	обст	_	_
+10	отбился	ОТБИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	подч-союзн	_	_
+11	от	ОТ	PR	PR	PR	10	1-компл	_	_
+12	целой	ЦЕЛЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+13	орды	ОРДА	S	S f inan gen sg	S f inan gen sg	11	предл	_	_
+14	текинцев	ТЕКИНЕЦ	S	S m anim acc pl	S m anim acc pl	10	3-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	получил	ПОЛУЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	10	сочин	_	_
+17	семь	СЕМЬ	NUM	NUM acc - -	NUM acc - -	18	количест	_	_
+18	ран	РАН	S	S f inan gen pl	S f inan gen pl	16	1-компл	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	но	НО	CONJ	CONJ	CONJ	16	сочин	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	отступил	ОТСТУПАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	20	соч-союзн	_	_
+23	;	;	SENT	SENT	SENT	22	PUNC	_	_
+
+1	как	КАК	CONJ	CONJ	CONJ	23	обст	_	_
+2	с	С	PR	PR	PR	5	обст	_	_
+3	маленьким	МАЛЕНЬКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	4	опред	_	_
+4	отрядом	ОТРЯД	S	S m inan ins sg	S m inan ins sg	2	предл	_	_
+5	пересек	ПЕРЕСЕКАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	подч-союзн	_	_
+6	мертвую	МЕРТВЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	7	опред	_	_
+7	пустыню	ПУСТЫНЯ	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+8	и	И	CONJ	CONJ	CONJ	5	сочин	_	_
+9	разгромил	РАЗГРОМИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+10	вдесятеро	ВДЕСЯТЕРО	ADV	ADV -	ADV -	11	огранич	_	_
+11	превосходящее	ПРЕВОСХОДИТЬ	PARTCP	PARTCP ipf inpraes acc sg plen n act -	PARTCP ipf inpraes acc sg plen n act -	12	опред	_	_
+12	войско	ВОЙСКО	S	S n inan nom sg	S n inan nom sg	14	предик	_	_
+13	грозного	ГРОЗНЫЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	14	опред	_	_
+14	Абдурахман	АБДУРАХМАН	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+15	-	-	-	-	PUNC	14	PUNC	_	_
+16	Бека	БЕК	S	S m anim acc sg	S m anim acc sg	9	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	а	А	CONJ	CONJ	CONJ	9	сочин	_	_
+19	кое-кто	КОЕ-КТО	S	S m - nom sg	S m - nom sg	18	соч-союзн	_	_
+20	из	ИЗ	PR	PR	PR	19	атриб	_	_
+21	Вариных	ВАРИН	S	S m anim loc pl	S m anim loc pl	20	предл	_	_
+22	знакомых	ЗНАКОМЫЙ	S	S m anim loc pl	S m anim loc pl	21	аппоз	_	_
+23	пересказывал	ПЕРЕСКАЗЫВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+24	слухи	СЛУХ	S	S m inan acc pl	S m inan acc pl	23	1-компл	_	_
+25	совсем	СОВСЕМ	ADV	ADV -	ADV -	26	огранич	_	_
+26	иного	ИНОЙ	A	A - gen sg plen m -	A - gen sg plen m -	27	опред	_	_
+27	рода	РОД	S	S m inan gen sg	S m inan gen sg	24	атриб	_	_
+28	–	–	–	–	PUNC	23	2-компл	_	_
+29	про	ПРО	PR	PR	PR	28	3-компл	_	_
+30	расстрел	РАССТРЕЛ	S	S m inan acc sg	S m inan acc sg	29	предл	_	_
+31	заложников	ЗАЛОЖНИК	S	S m anim gen pl	S m anim gen pl	30	квазиагент	_	_
+32	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+33	еще	ЕЩЕ	ADV	ADV -	ADV -	34	огранич	_	_
+34	что-то	ЧТО-ТО	S	S n - nom sg	S n - nom sg	32	соч-союзн	_	_
+35	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	36	предик	_	_
+36	про	ПРО	PR	PR	PR	23	сент-соч	_	_
+37	похищенную	ПОХИЩАТЬ	PARTCP	PARTCP pf praet acc sg plen f pass -	PARTCP pf praet acc sg plen f pass -	39	опред	_	_
+38	кокандскую	КОКАНДСКИЙ	A	A - acc sg plen f -	A - acc sg plen f -	39	опред	_	_
+39	казну	КАЗНА	S	S f inan acc sg	S f inan acc sg	36	предл	_	_
+40	.	.	SENT	SENT	SENT	39	PUNC	_	_
+

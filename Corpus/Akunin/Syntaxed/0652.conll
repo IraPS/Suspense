@@ -1,0 +1,143 @@
+1	Ночью	НОЧЬ	S	S f inan ins sg	S f inan ins sg	3	обст	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	спали	СПАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+2	много	МНОГО	ADV	ADV -	ADV -	1	предик	_	_
+3	работы	РАБОТА	S	S f inan gen sg	S f inan gen sg	2	1-компл	_	_
+4	:	:	:	:	PUNC	5	опред	_	_
+5	сотрудники	СОТРУДНИК	S	S m anim nom pl	S m anim nom pl	8	предик	_	_
+6	особой	ОСОБЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	7	опред	_	_
+7	части	ЧАСТЬ	S	S f inan gen sg	S f inan gen sg	5	1-компл	_	_
+8	делили	ДЕЛИТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	сент-соч	_	_
+9	по	ПО	PR	PR	PR	8	обст	_	_
+10	карте	КАРТА	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	район	РАЙОН	S	S m inan acc sg	S m inan acc sg	8	1-компл	_	_
+12	на	НА	PR	PR	PR	8	обст	_	_
+13	полуверстовые	ПОЛУВЕРСТОВОЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	14	опред	_	_
+14	квадраты	КВАДРАТ	S	S m inan acc pl	S m inan acc pl	12	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	определяли	ОПРЕДЕЛЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	8	сочин	_	_
+17	состав	СОСТАВ	S	S m inan acc sg	S m inan acc sg	16	1-компл	_	_
+18	поисковых	ПОИСКОВЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	19	опред	_	_
+19	команд	КОМАНДА	S	S f inan gen pl	S f inan gen pl	17	квазиагент	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	а	А	CONJ	CONJ	CONJ	8	сент-соч	_	_
+22	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	23	предик	_	_
+23	объехала	ОБЪЕХАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	21	соч-союзн	_	_
+24	все	ВЕСЬ	A	A - acc pl plen - inan	A - acc pl plen - inan	25	опред	_	_
+25	шесть	ШЕСТЬ	NUM	NUM acc - -	NUM acc - -	26	количест	_	_
+26	госпиталей	ГОСПИТАЛЬ	S	S m inan gen pl	S m inan gen pl	23	1-компл	_	_
+27	и	И	CONJ	CONJ	CONJ	26	сочин	_	_
+28	лазаретов	ЛАЗАРЕТ	S	S m inan gen pl	S m inan gen pl	27	соч-союзн	_	_
+29	–	–	–	–	PUNC	30	2-компл	_	_
+30	проверяла	ПРОВЕРЯТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	23	разъяснит	_	_
+31	офицеров	ОФИЦЕР	S	S m anim acc pl	S m anim acc pl	30	1-компл	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	привезенных	ПРИВОЗИТЬ	PARTCP	PARTCP pf praet loc pl plen - pass -	PARTCP pf praet loc pl plen - pass -	31	опред	_	_
+34	в	В	PR	PR	PR	33	обст	_	_
+35	бессознательном	БЕССОЗНАТЕЛЬНЫЙ	A	A - loc sg plen m -	A - loc sg plen m -	36	опред	_	_
+36	состоянии	СОСТОЯНИЕ	S	S n inan loc sg	S n inan loc sg	34	предл	_	_
+37	.	.	SENT	SENT	SENT	36	PUNC	_	_
+
+1	Такого	ТАКОЙ	A	A - gen sg plen n -	A - gen sg plen n -	2	предик	_	_
+2	насмотрелась	НАСМОТРЕТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	к	К	PR	PR	PR	7	обст	_	_
+6	рассвету	РАССВЕТ	S	S m inan dat sg	S m inan dat sg	5	предл	_	_
+7	впала	ВПАДАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	подч-союзн	_	_
+8	в	В	PR	PR	PR	7	2-компл	_	_
+9	странную	СТРАННЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	бесчувственную	БЕСЧУВСТВЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	12	опред	_	_
+12	одурь	ОДУРЬ	S	S f inan nom sg	S f inan nom sg	7	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	но	НО	CONJ	CONJ	CONJ	4	сент-соч	_	_
+15	ни	НИ	CONJ	CONJ	CONJ	18	соотнос	_	_
+16	Зурова	ЗУРОВ	S	S m anim acc sg	S m anim acc sg	21	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	ни	НИ	CONJ	CONJ	CONJ	16	сочин	_	_
+19	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	18	соч-союзн	_	_
+20	не	НЕ	PART	PART	PART	21	огранич	_	_
+21	обнаружила	ОБНАРУЖИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	14	соч-союзн	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Зато	ЗАТО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	увидала	УВИДАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	1	соч-союзн	_	_
+3	среди	СРЕДИ	PR	PR	PR	2	обст	_	_
+4	раненых	РАНЕНЫЙ	S	S m anim gen pl	S m anim gen pl	3	предл	_	_
+5	немало	НЕМАЛО	ADV	ADV -	ADV -	2	обст	_	_
+6	знакомых	ЗНАКОМЫЙ	S	S m anim gen pl	S m anim gen pl	5	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	в том числе	в том числе	ADV	ADV -	-	9	огранич	_	_
+9	Перепелкина	ПЕРЕПЕЛКИН	S	S f inan nom sg	S f inan nom sg	2	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Капитан	КАПИТАН	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+2	тоже	ТОЖЕ	PART	PART	PART	3	огранич	_	_
+3	пытался	ПЫТАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	прорваться	ПРОРВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	за	ЗА	PR	PR	PR	4	1-компл	_	_
+6	подмогой	ПОДМОГА	S	S f inan ins sg	S f inan ins sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	но	НО	CONJ	CONJ	CONJ	3	сочин	_	_
+9	получил	ПОЛУЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	соч-союзн	_	_
+10	удар	УДАР	S	S m inan nom sg	S m inan nom sg	9	предик	_	_
+11	кривой	КРИВОЙ	A	A - ins sg plen f -	A - ins sg plen f -	12	опред	_	_
+12	саблей	САБЛЯ	S	S f inan ins sg	S f inan ins sg	10	атриб	_	_
+13	поперек	ПОПЕРЕК	PR	PR	PR	12	атриб	_	_
+14	ключицы	КЛЮЧИЦА	S	S f inan nom pl	S f inan nom pl	17	предик	_	_
+15	–	–	–	–	PUNC	17	1-компл	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	везло	ВЕЗТИ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	13	предл	_	_
+18	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	17	2-компл	_	_
+19	с	С	PR	PR	PR	17	обст	_	_
+20	башибузуками	БАШИБУЗУК	S	S m inan loc sg	S m inan loc sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Лежал	ЛЕЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+2	на	НА	PR	PR	PR	1	обст	_	_
+3	койке	КОЙКА	S	S f inan loc sg	S f inan loc sg	2	предл	_	_
+4	бледный	БЛЕДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	1	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	несчастный	НЕСЧАСТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	сочин	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+9	запавшие	ЗАПАСТЬ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	11	опред	_	_
+10	карие	КАРИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	11	опред	_	_
+11	глаза	ГЛАЗ	S	S m inan acc pl	S m inan acc pl	8	соч-союзн	_	_
+12	смотрели	СМОТРЕТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	1	сент-соч	_	_
+13	почти	ПОЧТИ	ADV	ADV -	ADV -	14	огранич	_	_
+14	так же	так же	ADV	ADV -	-	15	огранич	_	_
+15	тоскливо	ТОСКЛИВО	ADV	ADV -	ADV -	12	обст	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	как	КАК	CONJ	CONJ	CONJ	15	эксплет	_	_
+18	в	В	PR	PR	PR	17	сравн-союзн	_	_
+19	незабываемый	НЕЗАБЫВАЕМЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	20	опред	_	_
+20	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	18	предл	_	_
+21	первой	ПЕРВЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	22	опред	_	_
+22	встречи	ВСТРЕЧА	S	S f inan gen sg	S f inan gen sg	20	квазиагент	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	4	предик	_	_
+2	к	К	PR	PR	PR	4	обст	_	_
+3	нему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	2	предл	_	_
+4	бросилась	БРОСАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	4	сент-соч	_	_
+7	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	8	предик	_	_
+8	отвернулся	ОТВЕРТЫВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+9	и	И	CONJ	CONJ	CONJ	12	соотнос	_	_
+10	ничего	НИЧТО	S	S n - gen sg	S n - gen sg	12	1-компл	_	_
+11	не	НЕ	PART	PART	PART	12	огранич	_	_
+12	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	8	сочин	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	За	ЗА	PR	PR	PR	0	ROOT	_	_
+2	что	ЧТО	S	S n - acc sg	S n - acc sg	1	предл	_	_
+3	такая	ТАКОЙ	A	A - nom sg plen f -	A - nom sg plen f -	4	опред	_	_
+4	нелюбовь	НЕЛЮБОВЬ	S	S f inan nom sg	S f inan nom sg	1	предик	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+

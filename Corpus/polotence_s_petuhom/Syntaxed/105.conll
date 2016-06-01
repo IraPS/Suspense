@@ -1,0 +1,16 @@
+1	В	В	S	S - - nonflex nonflex	S - - nonflex nonflex	0	ROOT	_	_
+2	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	квазиагент	_	_
+3	устах	УСТА	S	S - inan loc pl	S - inan loc pl	4	опред	_	_
+4	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	1	предик	_	_
+5	"	"	_	_	PUNC	6	PUNC	_	_
+6	Леопольд	ЛЕОПОЛЬД	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+7	"	"	_	_	PUNC	6	PUNC	_	_
+8	неизменно	НЕИЗМЕННО	ADV	ADV -	ADV -	9	обст	_	_
+9	звучало	ЗВУЧАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	1	сент-соч	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	как	КАК	CONJ	CONJ	CONJ	9	сравнит	_	_
+12	"	"	_	_	PUNC	13	PUNC	_	_
+13	Дуайен	ДУАЙЕН	S	S m anim nom sg	S m anim nom sg	11	сравн-союзн	_	_
+14	"	"	_	_	PUNC	13	PUNC	_	_
+15	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

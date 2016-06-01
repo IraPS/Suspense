@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"от","gr":"PR="}],"text":"От"}
+{"analysis":[{"lex":"галантность","gr":"S,f,inan=abl,sg"},{"lex":"галантность","gr":"S,f,inan=acc,pl"},{"lex":"галантность","gr":"S,f,inan=dat,sg"},{"lex":"галантность","gr":"S,f,inan=gen,sg"},{"lex":"галантность","gr":"S,f,inan=nom,pl"}],"text":"галантности"}
+{"analysis":[{"lex":"будущий","gr":"A=acc,sg,plen,m,anim"},{"lex":"будущий","gr":"A=gen,sg,plen,m"},{"lex":"будущий","gr":"A=gen,sg,plen,n"}],"text":"будущего"}
+{"analysis":[{"lex":"сенатор","gr":"S,m,anim=acc,sg"},{"lex":"сенатор","gr":"S,m,anim=gen,sg"}],"text":"сенатора"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"оставаться","gr":"V,intr=praet,sg,indic,n,pf"}],"text":"осталось"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"след","gr":"S,m,inan=gen,sg"}],"text":"следа"}
+{"text":"\\s"}
+{"analysis":[{"lex":"карий","gr":"A=acc,pl,plen,inan"},{"lex":"карий","gr":"A=nom,pl,plen"}],"text":"Карие"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"желтизна","gr":"S,sg,f,inan=ins"}],"text":"желтизной"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=acc,pl"},{"lex":"глаз","gr":"S,m,inan=gen,sg"},{"lex":"глаз","gr":"S,m,inan=nom,pl"}],"text":"глаза"}
+{"analysis":[{"lex":"метать","gr":"V,ipf=praet,pl,indic"},{"lex":"метать","gr":"V,ipf=praet,pl,indic"}],"text":"метали"}
+{"analysis":[{"lex":"молния","gr":"S,f,inan=abl,sg"},{"lex":"молния","gr":"S,f,inan=acc,pl"},{"lex":"молния","gr":"S,f,inan=dat,sg"},{"lex":"молния","gr":"S,f,inan=gen,sg"},{"lex":"молния","gr":"S,f,inan=nom,pl"}],"text":"молнии"}

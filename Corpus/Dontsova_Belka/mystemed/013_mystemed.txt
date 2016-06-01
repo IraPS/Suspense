@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"Я"}
+{"analysis":[{"lex":"завертеть","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"завертела"}
+{"analysis":[{"lex":"голова","gr":"S,f,inan=ins,sg"}],"text":"головой"}
+{"analysis":[{"lex":"неужели","gr":"PART="}],"text":"неужели"}
+{"analysis":[{"lex":"я","gr":"SPRO,sg,1p=nom"}],"text":"я"}
+{"analysis":[{"lex":"тоже","gr":"PART="}],"text":"тоже"}
+{"analysis":[{"lex":"сходить","gr":"V,intr=inpraes,sg,indic,1p,ipf"}],"text":"схожу"}
+{"analysis":[{"lex":"с","gr":"PR="}],"text":"с"}
+{"analysis":[{"lex":"ум","gr":"S,m,inan=gen,sg"}],"text":"ума"}
+{"analysis":[{"lex":"или","gr":"CONJ="}],"text":"или"}
+{"analysis":[{"lex":"наяву","gr":"ADV="}],"text":"наяву"}
+{"analysis":[{"lex":"слышать","gr":"V,ipf,tran=inpraes,sg,indic,1p"}],"text":"слышу"}
+{"analysis":[{"lex":"речь","gr":"S,f,inan=acc,sg"},{"lex":"речь","gr":"S,f,inan=nom,sg"}],"text":"речь"}
+{"analysis":[{"lex":"бурундук","gr":"S,m,anim=acc,sg"},{"lex":"бурундук","gr":"S,m,anim=gen,sg"}],"text":"бурундука"}
+{"analysis":[{"lex":"скунс","gr":"S,m,anim=acc,sg"},{"lex":"скунс","gr":"S,m,anim=gen,sg"}],"text":"скунса"}

@@ -1,0 +1,45 @@
+1	Теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	4	обст	_	_
+2	у	У	PR	PR	PR	4	1-компл	_	_
+3	Соболева	СОБОЛЕВА	S	S m anim gen sg	S m anim gen sg	2	предл	_	_
+4	забот	ЗАБОТА	S	S f inan gen pl	S f inan gen pl	5	предик	_	_
+5	хватало	ХВАТАТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	но	НО	CONJ	CONJ	CONJ	5	сент-соч	_	_
+8	третьего	ТРЕТИЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	14	1-компл	_	_
+10	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	11	атриб	_	_
+11	ординарец	ОРДИНАРЕЦ	S	S m anim nom sg	S m anim nom sg	14	предик	_	_
+12	Сережа	СЕРЕЖА	S	S m anim nom sg	S m anim nom sg	11	аппоз	_	_
+13	Верещагин	ВЕРЕЩАГИН	S	S m anim nom sg	S m anim nom sg	12	аппоз	_	_
+14	доставил	ДОСТАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	соч-союзн	_	_
+15	от	ОТ	PR	PR	PR	14	2-компл	_	_
+16	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	17	квазиагент	_	_
+17	превосходительства	ПРЕВОСХОДИТЕЛЬСТВО	S	S n anim gen sg	S n anim gen sg	15	предл	_	_
+18	пышный	ПЫШНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	19	опред	_	_
+19	букет	БУКЕТ	S	S m inan acc sg	S m inan acc sg	14	1-компл	_	_
+20	алых	АЛЫЙ	A	A - gen pl plen - -	A - gen pl plen - -	21	опред	_	_
+21	роз	РОЗА	S	S f inan gen pl	S f inan gen pl	19	квазиагент	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Розы	РОЗА	S	S f anim gen sg	S f anim gen sg	2	1-компл	_	_
+2	стояли	СТОЯТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	как	КАК	CONJ	CONJ	CONJ	2	сравнит	_	_
+5	бородинские	БОРОДИНСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	6	опред	_	_
+6	богатыри	БОГАТЫРЬ	S	S m anim nom pl	S m anim nom pl	4	сравн-союзн	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	и	И	CONJ	CONJ	CONJ	6	сочин	_	_
+9	опадать	ОПАДАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	11	1-компл	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	собирались	СОБИРАТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	8	соч-союзн	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Вся	ВЕСЬ	A	A - nom sg plen f -	A - nom sg plen f -	2	опред	_	_
+2	палатка	ПАЛАТКА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	пропахла	ПРОПАХНУТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+4	густым	ГУСТОЙ	A	A - ins sg plen m -	A - ins sg plen m -	7	опред	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	маслянистым	МАСЛЯНИСТЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	7	опред	_	_
+7	ароматом	АРОМАТ	S	S m inan ins sg	S m inan ins sg	3	1-компл	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

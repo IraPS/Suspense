@@ -1,0 +1,107 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	медленно	МЕДЛЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	подошел	ПОДХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	к	К	PR	PR	PR	3	2-компл	_	_
+5	играющим	ИГРАЮЩИЙ	S	S m anim dat pl	S m anim dat pl	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	минут	МИНУТА	S	S f inan gen pl	S f inan gen pl	3	1-компл	_	_
+8	пять	ПЯТЬ	NUM	NUM acc - -	NUM acc - -	9	1-компл	_	_
+9	стоял	СТОЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	3	сочин	_	_
+10	возле	ВОЗЛЕ	PR	PR	PR	9	обст	_	_
+11	стола	СТОЛ	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	наблюдая	НАБЛЮДАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	обст	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Потом	ПОТОМ	ADV	ADV -	ADV -	2	обст	_	_
+2	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	что-то	ЧТО-ТО	S	S n - nom sg	S n - nom sg	2	1-компл	_	_
+4	такое	ТАКОЙ	A	A - nom sg plen n -	A - nom sg plen n -	6	опред	_	_
+5	(	(	_	_	PUNC	6	PUNC	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	8	предик	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	слышала	СЛЫШАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	2	примыкат	_	_
+9	)	)	_	_	PUNC	8	PUNC	_	_
+10	,	,	,	,	PUNC	8	PUNC	_	_
+11	от	ОТ	PR	PR	PR	15	обст	_	_
+12	чего	ЧТО	S	S n - gen sg	S n - gen sg	11	предл	_	_
+13	все	ВСЕ	S	S - - nom pl	S - - nom pl	15	суб-копр	_	_
+14	разом	РАЗОМ	ADV	ADV -	ADV -	15	обст	_	_
+15	перестали	ПЕРЕСТАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	разъяснит	_	_
+16	кидать	КИДАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	15	1-компл	_	_
+17	кости	КОСТЬ	S	S f inan acc pl	S f inan acc pl	16	1-компл	_	_
+18	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+19	обернулись	ОБЕРТЫВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	18	соч-союзн	_	_
+20	к	К	PR	PR	PR	19	2-компл	_	_
+21	нему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	20	предл	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	показал	ПОКАЗЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	на	НА	PR	PR	PR	2	1-компл	_	_
+4	Варю	ВАРЯ	S	S f anim acc sg	S f anim acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	8	предик	_	_
+8	заерзала	ЗАЕРЗАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	соч-союзн	_	_
+9	на	НА	PR	PR	PR	8	1-компл	_	_
+10	скамье	СКАМЬЯ	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	под	ПОД	PR	PR	PR	10	атриб	_	_
+12	устремленными	УСТРЕМЛЯТЬ	PARTCP	PARTCP pf praet ins pl plen - pass -	PARTCP pf praet ins pl plen - pass -	15	опред	_	_
+13	на	НА	PR	PR	PR	12	2-компл	_	_
+14	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	13	предл	_	_
+15	взглядами	ВЗГЛЯД	S	S m inan ins pl	S m inan ins pl	11	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	Потом	ПОТОМ	ADV	ADV -	ADV -	2	обст	_	_
+2	грянул	ГРЯНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	дружный	ДРУЖНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	хохот	ХОХОТ	S	S m inan nom sg	S m inan nom sg	2	предик	_	_
+5	–	–	–	–	PUNC	11	опред	_	_
+6	явно	ЯВНО	ADV	ADV -	ADV -	7	огранич	_	_
+7	скабрезный	СКАБРЕЗНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	11	опред	_	_
+8	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+9	для	ДЛЯ	PR	PR	PR	8	соч-союзн	_	_
+10	Вари	ВАРЯ	S	S f anim gen sg	S f anim gen sg	9	предл	_	_
+11	оскорбительный	ОСКОРБИТЕЛЬНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	разъяснит	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	но	НО	CONJ	CONJ	CONJ	11	сочин	_	_
+14	Фандорин	ФАНДОРИНА	S	S m anim nom sg	S m anim nom sg	13	соч-союзн	_	_
+15	и	И	CONJ	CONJ	CONJ	14	сочин	_	_
+16	не	НЕ	PART	PART	PART	17	огранич	_	_
+17	подумал	ПОДУМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	15	соч-союзн	_	_
+18	заступиться	ЗАСТУПАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	17	1-компл	_	_
+19	за	ЗА	PR	PR	PR	18	обст	_	_
+20	честь	ЧЕСТЬ	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	дамы	ДАМА	S	S f anim gen sg	S f anim gen sg	20	квазиагент	_	_
+22	.	.	SENT	SENT	SENT	21	PUNC	_	_
+
+1	Вместо	ВМЕСТО	PR	PR	PR	4	обст	_	_
+2	этого	ЭТО	S	S n - gen sg	S n - gen sg	1	предл	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	пожал	ПОЖИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+5	руку	РУКА	S	S f inan acc sg	S f inan acc sg	4	1-компл	_	_
+6	какому-то	КАКОЙ-ТО	A	A - dat sg plen m -	A - dat sg plen m -	8	опред	_	_
+7	усатому	УСАТЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	8	опред	_	_
+8	толстяку	ТОЛСТЯК	S	S m anim dat sg	S m anim dat sg	4	2-компл	_	_
+9	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+10	уселся	УСАЖИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	9	соч-союзн	_	_
+11	на	НА	PR	PR	PR	10	2-компл	_	_
+12	скамью	СКАМЬЯ	S	S f inan acc sg	S f inan acc sg	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Прочие	ПРОЧИЙ	A	A - nom pl plen - -	A - nom pl plen - -	2	предик	_	_
+2	дали	ДАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	2	2-компл	_	_
+4	место	МЕСТО	S	S n inan acc sg	S n inan acc sg	2	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	а	А	CONJ	CONJ	CONJ	2	сент-соч	_	_
+7	вокруг	ВОКРУГ	PR	PR	PR	11	обст	_	_
+8	стола	СТОЛ	S	S m inan gen sg	S m inan gen sg	7	предл	_	_
+9	сразу	СРАЗУ	ADV	ADV -	ADV -	11	обст	_	_
+10	же	ЖЕ	PART	PART	PART	9	огранич	_	_
+11	собралась	СОБИРАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	6	соч-союзн	_	_
+12	кучка	КУЧКА	S	S f inan nom sg	S f inan nom sg	11	предик	_	_
+13	любопытствующих	ЛЮБОПЫТСТВУЮЩИЙ	S	S m anim loc pl	S m anim loc pl	12	аппоз	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+

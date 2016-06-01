@@ -1,0 +1,141 @@
+1	Сухой	СУХОЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	предик	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	неприятный	НЕПРИЯТНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	4	опред	_	_
+4	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+5	Еремей	ЕРЕМЕЙ	S	S m anim nom sg	S m anim nom sg	4	аппоз	_	_
+6	Перепелкин	ПЕРЕПЕЛКИН	S	S m anim nom sg	S m anim nom sg	5	аппоз	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	По	ПО	PR	PR	PR	3	обст	_	_
+2	правде	ПРАВДА	S	S f inan dat sg	S f inan dat sg	1	предл	_	_
+3	говоря	ГОВОРИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	9	вводн	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	за	ЗА	PR	PR	PR	9	обст	_	_
+6	минувшие	МИНУВШИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	7	опред	_	_
+7	месяцы	МЕСЯЦ	S	S m inan acc pl	S m inan acc pl	5	предл	_	_
+8	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	9	предик	_	_
+9	успела	УСПЕВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+10	проникнуться	ПРОНИКАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	9	1-компл	_	_
+11	к	К	PR	PR	PR	10	2-компл	_	_
+12	нему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	11	предл	_	_
+13	живейшей	ЖИВОЙ	A	A supr ins sg plen f -	A supr ins sg plen f -	14	опред	_	_
+14	неприязнью	НЕПРИЯЗНЬ	S	S f inan ins sg	S f inan ins sg	10	1-компл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	хоть	ХОТЬ	CONJ	CONJ	CONJ	9	обст	_	_
+17	и	И	CONJ	CONJ	CONJ	18	соотнос	_	_
+18	принимала	ПРИНИМАТЬ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	16	подч-союзн	_	_
+19	на	НА	PR	PR	PR	18	1-компл	_	_
+20	веру	ВЕРА	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+21	якобы	ЯКОБЫ	PART	PART	PART	22	огранич	_	_
+22	непревзойденные	НЕПРЕВЗОЙДЕННЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	24	опред	_	_
+23	деловые	ДЕЛОВОЙ	A	A - nom pl plen - -	A - nom pl plen - -	24	опред	_	_
+24	качества	КАЧЕСТВО	S	S n inan nom pl	S n inan nom pl	18	предик	_	_
+25	Соболевского	СОБОЛЕВСКИЙ	S	S m anim gen sg	S m anim gen sg	24	квазиагент	_	_
+26	начальника	НАЧАЛЬНИК	S	S m anim gen sg	S m anim gen sg	25	1-компл	_	_
+27	штаба	ШТАБ	S	S m inan gen sg	S m inan gen sg	26	1-компл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Еще	ЕЩЕ	ADV	ADV -	ADV -	2	огранич	_	_
+2	бы	БЫ	PART	PART	PART	5	аналит	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	5	предик	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	усердствовал	УСЕРДСТВОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Шутка	ШУТКА	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+2	ли	ЛИ	PART	PART	PART	1	огранич	_	_
+3	–	–	–	–	PUNC	1	опред	_	_
+4	меньше	МАЛО	ADV	ADV comp	ADV comp	3	1-компл	_	_
+5	чем	ЧЕМ	CONJ	CONJ	CONJ	4	сравнит	_	_
+6	за	ЗА	PR	PR	PR	5	сравн-союзн	_	_
+7	полгода	ПОЛГОДА	S	S f inan acc sg	S f inan acc sg	6	предл	_	_
+8	из	ИЗ	PR	PR	PR	7	атриб	_	_
+9	капитанов	КАПИТАН	S	S m anim gen pl	S m anim gen pl	8	предл	_	_
+10	в	В	PR	PR	PR	3	2-компл	_	_
+11	подполковники	ПОДПОЛКОВНИК	S	S m anim - pl	S m anim - pl	10	предл	_	_
+12	скакнул	СКАКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	да	ДА	CONJ	CONJ	CONJ	12	сочин	_	_
+15	еще	ЕЩЕ	ADV	ADV -	ADV -	17	огранич	_	_
+16	«	«	_	_	PUNC	17	PUNC	_	_
+17	Георгия	ГЕОРГИЙ	S	S m anim gen sg	S m anim gen sg	14	соч-союзн	_	_
+18	»	»	_	_	PUNC	17	PUNC	_	_
+19	сорвал	СОРВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	12	сочин	_	_
+20	,	,	,	,	PUNC	19	PUNC	_	_
+21	анненскую	АННЕНСКАЯ	S	S f anim acc sg	S f anim acc sg	19	1-компл	_	_
+22	шашку	ШАШКА	S	S f inan acc sg	S f inan acc sg	19	2-компл	_	_
+23	за	ЗА	PR	PR	PR	19	обст	_	_
+24	боевое	БОЕВОЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	23	предл	_	_
+25	ранение	РАНЕНИЕ	S	S n inan acc sg	S n inan acc sg	19	1-компл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	все	ВСЕ	S	S - - nom pl	S - - nom pl	0	ROOT	_	_
+3	благодаря	БЛАГОДАРЯ	PR	PR	PR	2	обст	_	_
+4	Мишелю	МИШЕЛЬ	S	S m anim dat sg	S m anim dat sg	3	предл	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	смотрит	СМОТРЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+3	волком	ВОЛК	S	S m anim ins sg	S m anim ins sg	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как будто	как будто	CONJ	CONJ	ZERO	2	предик	_	_
+6	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+7	у	У	PR	PR	PR	10	обст	_	_
+8	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	7	предл	_	_
+9	что-нибудь	ЧТО-НИБУДЬ	S	S n - acc sg	S n - acc sg	10	1-компл	_	_
+10	украла	УКРАСТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	5	подч-союзн	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Впрочем	ВПРОЧЕМ	CONJ	CONJ	CONJ	6	обст	_	_
+2	понятно	ПОНЯТНО	ADV	ADV -	ADV -	4	обст	_	_
+3	–	–	–	–	PUNC	4	1-компл	_	_
+4	ревнует	РЕВНОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	подч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	хочет	ХОТЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	чтоб	ЧТОБ	CONJ	CONJ	CONJ	6	обст	_	_
+9	Ахиллес	АХИЛЛЕС	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+10	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	12	2-компл	_	_
+11	одному	ОДИН	A	A - dat sg plen m -	A - dat sg plen m -	12	1-компл	_	_
+12	принадлежал	ПРИНАДЛЕЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	подч-союзн	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Как	КАК	ADV	ADV -	ADV -	4	огранич	_	_
+2	там	ТАМ	ADV	ADV -	ADV -	1	обст	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	интересно	ИНТЕРЕСНЫЙ	A	A - - sg brev n -	A - - sg brev n -	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	у	У	PR	PR	PR	9	огранич	_	_
+7	Еремея	ЕРЕМЕЙ	S	S m anim acc sg	S m anim acc sg	6	предл	_	_
+8	Ионовича	ИОНОВИЧ	S	S m inan gen sg	S m inan gen sg	7	1-компл	_	_
+9	по	ПО	PR	PR	PR	0	ROOT	_	_
+10	части	ЧАСТЬ	S	S f inan loc sg	S f inan loc sg	9	предл	_	_
+11	казанзакинского	КАЗАНЗАКИНСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	греха	ГРЕХ	S	S m inan gen sg	S m inan gen sg	10	квазиагент	_	_
+13	?	?	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Однажды	ОДНАЖДЫ	ADV	ADV -	ADV -	8	обст	_	_
+2	в	В	PR	PR	PR	8	обст	_	_
+3	разговоре	РАЗГОВОР	S	S m inan loc sg	S m inan loc sg	2	предл	_	_
+4	с	С	PR	PR	PR	3	атриб	_	_
+5	Соболевым	СОБОЛЕВ	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	8	предик	_	_
+7	даже	ДАЖЕ	PART	PART	PART	8	огранич	_	_
+8	позволила	ПОЗВОЛЯТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+9	себе	СЕБЯ	SPRO	SPRO - - - loc	SPRO - - - loc	8	2-компл	_	_
+10	ехидный	ЕХИДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	намек	НАМЕК	S	S m inan nom sg	S m inan nom sg	8	предик	_	_
+12	на	НА	PR	PR	PR	11	1-компл	_	_
+13	эту	ЭТОТ	A	A - acc sg plen f -	A - acc sg plen f -	14	опред	_	_
+14	тематику	ТЕМАТИКА	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+15	–	–	–	–	PUNC	16	опред	_	_
+16	Мишель	МИШЕЛЬ	S	S f anim nom sg	S f anim nom sg	18	предик	_	_
+17	так	ТАК	ADV	ADV -	ADV -	18	обст	_	_
+18	хохотал	ХОХОТАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	8	сент-соч	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	что	ЧТО	CONJ	CONJ	CONJ	18	1-компл	_	_
+21	даже	ДАЖЕ	PART	PART	PART	22	огранич	_	_
+22	закашлялся	ЗАКАШЛИВАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	20	подч-союзн	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+

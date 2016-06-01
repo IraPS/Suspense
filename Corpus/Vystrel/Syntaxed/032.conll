@@ -1,0 +1,175 @@
+1	—	—	—	—	PUNC	12	2-компл	_	_
+2	О	О	INTJ	INTJ	INTJ	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	—	—	—	—	PUNC	5	1-компл	_	_
+5	заметил	ЗАМЕЧАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	релят	_	_
+6	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	5	предик	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	—	—	—	—	PUNC	5	обст	_	_
+9	в	В	PR	PR	PR	12	обст	_	_
+10	таком	ТАКОЙ	A	A - loc sg plen m -	A - loc sg plen m -	11	опред	_	_
+11	случае	СЛУЧАЙ	S	S m inan loc sg	S m inan loc sg	9	предл	_	_
+12	бьюсь	БИТЬСЯ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+13	об	ОБ	PR	PR	PR	12	1-компл	_	_
+14	заклад	ЗАКЛАД	S	S m inan acc sg	S m inan acc sg	13	предл	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	что	ЧТО	CONJ	CONJ	CONJ	14	1-компл	_	_
+17	ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	18	опред	_	_
+18	сиятельство	СИЯТЕЛЬСТВО	S	S n inan nom sg	S n inan nom sg	20	предик	_	_
+19	не	НЕ	PART	PART	PART	20	огранич	_	_
+20	попадете	ПОПАДАТЬ	V	V pf fut pl indic - 2p	V pf fut pl indic - 2p	16	подч-союзн	_	_
+21	в	В	PR	PR	PR	20	1-компл	_	_
+22	карту	КАРТА	S	S f inan acc sg	S f inan acc sg	21	предл	_	_
+23	и	И	CONJ	CONJ	CONJ	21	сочин	_	_
+24	в	В	PR	PR	PR	23	соч-союзн	_	_
+25	двадцати	ДВАДЦАТЬ	NUM	NUM loc - -	NUM loc - -	26	количест	_	_
+26	шагах	ШАГ	S	S m inan loc pl	S m inan loc pl	24	предл	_	_
+27	:	:	:	:	PUNC	29	1-компл	_	_
+28	пистолет	ПИСТОЛЕТ	S	S m inan nom sg	S m inan nom sg	29	предик	_	_
+29	требует	ТРЕБОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	20	изъясн	_	_
+30	ежедневного	ЕЖЕДНЕВНЫЙ	A	A - gen sg plen n -	A - gen sg plen n -	31	опред	_	_
+31	упражнения	УПРАЖНЕНИЕ	S	S n inan gen sg	S n inan gen sg	29	2-компл	_	_
+32	.	.	SENT	SENT	SENT	31	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	3	1-компл	_	_
+2	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	3	предик	_	_
+3	знаю	ЗНАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	0	ROOT	_	_
+4	на	НА	PR	PR	PR	3	обст	_	_
+5	опыте	ОПЫТ	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+
+1	У	У	PR	PR	PR	6	обст	_	_
+2	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	1	предл	_	_
+3	в	В	PR	PR	PR	2	атриб	_	_
+4	полку	ПОЛК	S	S m inan loc2 sg	S m inan loc2 sg	3	предл	_	_
+5	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	6	предик	_	_
+6	считался	СЧИТАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	одним	ОДИН	A	A - ins sg plen m -	A - ins sg plen m -	6	2-компл	_	_
+8	из	ИЗ	PR	PR	PR	7	электив	_	_
+9	лучших	ХОРОШИЙ	A	A supr gen pl plen - -	A supr gen pl plen - -	10	опред	_	_
+10	стрелков	СТРЕЛОК	S	S m anim gen pl	S m anim gen pl	8	предл	_	_
+11	.	.	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Однажды	ОДНАЖДЫ	ADV	ADV -	ADV -	2	обст	_	_
+2	случилось	СЛУЧАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	11	предик	_	_
+4	целый	ЦЕЛЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	5	опред	_	_
+5	месяц	МЕСЯЦ	S	S m inan acc sg	S m inan acc sg	7	1-компл	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	брать	БРАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+8	пистолета	ПИСТОЛЕТ	S	S m inan gen sg	S m inan gen sg	7	1-компл	_	_
+9	:	:	:	:	PUNC	11	присвяз	_	_
+10	мои	МОЙ	A	A - nom pl plen - -	A - nom pl plen - -	11	предик	_	_
+11	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	предик	_	_
+12	в	В	PR	PR	PR	11	присвяз	_	_
+13	починке	ПОЧИНКА	S	S f inan loc sg	S f inan loc sg	12	предл	_	_
+14	;	;	SENT	SENT	SENT	13	PUNC	_	_
+
+1	что	ЧТО	S	S n inan acc sg	S n inan acc sg	5	1-компл	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	бы	БЫ	PART	PART	PART	5	аналит	_	_
+4	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	5	предик	_	_
+5	думали	ДУМАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	8	опред	_	_
+8	сиятельство	СИЯТЕЛЬСТВО	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+9	?	?	SENT	SENT	SENT	8	PUNC	_	_
+
+1	В	В	PR	PR	PR	11	обст	_	_
+2	первый	ПЕРВЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+6	стал	СТАНОВИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	сравн-союзн	_	_
+7	потом	ПОТОМ	ADV	ADV -	ADV -	8	обст	_	_
+8	стрелять	СТРЕЛЯТЬ	V	V ipf - - inf - -	V ipf - - inf - -	6	1-компл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	11	предик	_	_
+11	дал	ДАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+12	сряду	СРЯДУ	ADV	ADV -	ADV -	17	обст	_	_
+13	четыре	ЧЕТЫРЕ	NUM	NUM nom - -	NUM nom - -	14	количест	_	_
+14	промаха	ПРОМАХ	S	S m inan gen sg	S m inan gen sg	17	предик	_	_
+15	по	ПО	PR	PR	PR	14	атриб	_	_
+16	бутылке	БУТЫЛКА	S	S f inan loc sg	S f inan loc sg	15	предл	_	_
+17	в	В	PR	PR	PR	11	1-компл	_	_
+18	двадцати	ДВАДЦАТЬ	NUM	NUM loc - -	NUM loc - -	19	количест	_	_
+19	пяти	ПЯТЬ	NUM	NUM loc - -	NUM loc - -	20	количест	_	_
+20	шагах	ШАГ	S	S m inan loc pl	S m inan loc pl	17	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	У	У	PR	PR	PR	3	1-компл	_	_
+2	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	1	предл	_	_
+3	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	ротмистр	РОТМИСТР	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	остряк	ОСТРЯК	S	S m anim nom sg	S m anim nom sg	4	разъяснит	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	забавник	ЗАБАВНИК	S	S m anim nom sg	S m anim nom sg	6	сочин	_	_
+9	;	;	SENT	SENT	SENT	8	PUNC	_	_
+
+1	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	3	предик	_	_
+2	тут	ТУТ	ADV	ADV -	ADV -	3	обст	_	_
+3	случился	СЛУЧАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	и	И	CONJ	CONJ	CONJ	3	сочин	_	_
+5	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	соч-союзн	_	_
+6	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	12	опред	_	_
+7	:	:	:	:	PUNC	12	опред	_	_
+8	знать	ЗНАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	7	1-компл	_	_
+9	у	У	PR	PR	PR	8	1-компл	_	_
+10	тебя	ТЫ	SPRO	SPRO sg 2p - acc	SPRO sg 2p - acc	9	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	брат	БРАТ	S	S m anim nom sg	S m anim nom sg	5	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	рука	РУКА	S	S f inan nom sg	S f inan nom sg	16	предик	_	_
+15	не	НЕ	PART	PART	PART	16	огранич	_	_
+16	подымается	ПОДЫМАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	сент-соч	_	_
+17	на	НА	PR	PR	PR	16	1-компл	_	_
+18	бутылку	БУТЫЛКА	S	S f inan acc sg	S f inan acc sg	17	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Нет	НЕТ	PART	PART	PART	4	вводн	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	4	опред	_	_
+4	сиятельство	СИЯТЕЛЬСТВО	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	не	НЕ	PART	PART	PART	7	огранич	_	_
+7	должно	ДОЛЖНО	ADV	ADV -	ADV -	8	обст	_	_
+8	пренебрегать	ПРЕНЕБРЕГАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	4	1-компл	_	_
+9	этим	ЭТОТ	A	A - dat pl plen - -	A - dat pl plen - -	10	опред	_	_
+10	упражнением	УПРАЖНЕНИЕ	S	S n inan ins sg	S n inan ins sg	8	1-компл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	не то	не то	CONJ	CONJ	ZERO	4	сочин	_	_
+13	отвыкнешь	ОТВЫКАТЬ	V	V pf fut sg indic - 2p	V pf fut sg indic - 2p	12	соч-союзн	_	_
+14	как раз	как раз	ADV	ADV -	-	13	обст	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Лучший	ХОРОШИЙ	A	A supr nom sg plen m -	A supr nom sg plen m -	2	опред	_	_
+2	стрелок	СТРЕЛОК	S	S m anim nom sg	S m anim nom sg	9	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	5	1-компл	_	_
+5	удалось	УДАВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	2	релят	_	_
+6	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	7	1-компл	_	_
+7	встречать	ВСТРЕЧАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	5	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	стрелял	СТРЕЛЯТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+10	каждый	КАЖДЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	11	опред	_	_
+11	день	ДЕНЬ	S	S m inan nom sg	S m inan nom sg	9	присвяз	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	по крайней мере	по крайней мере	ADV	ADV -	-	16	обст	_	_
+14	три	ТРИ	NUM	NUM nom - -	NUM nom - -	15	количест	_	_
+15	раза	РАЗ	S	S m inan gen sg	S m inan gen sg	16	предик	_	_
+16	перед	ПЕРЕД	PR	PR	PR	9	обст	_	_
+17	обедом	ОБЕД	S	S m inan ins sg	S m inan ins sg	16	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	4	предик	_	_
+2	у	У	PR	PR	PR	4	обст	_	_
+3	него	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	2	предл	_	_
+4	было	БЫТЬ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+5	заведено	ЗАВОДИТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	4	пасс-анал	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	как	КАК	CONJ	CONJ	CONJ	4	сравнит	_	_
+8	рюмка	РЮМКА	S	S f inan nom sg	S f inan nom sg	7	сравн-союзн	_	_
+9	водки	ВОДКА	S	S f inan gen sg	S f inan gen sg	8	квазиагент	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

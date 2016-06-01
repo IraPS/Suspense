@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"услышать","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"услышала"}
+{"analysis":[{"lex":"как","gr":"CONJ="}],"text":"как"}
+{"analysis":[{"lex":"глухо","gr":"ADV="}],"text":"глухо"}
+{"analysis":[{"lex":"застонать","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"застонал"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Фандорин"}

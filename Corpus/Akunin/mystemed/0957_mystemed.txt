@@ -1,0 +1,15 @@
+{"analysis":[],"text":"Et"}
+{"analysis":[],"text":"maintenant"}
+{"analysis":[],"text":"mesdames"}
+{"analysis":[],"text":"et"}
+{"analysis":[],"text":"messieurs"}
+{"analysis":[],"text":"la"}
+{"analysis":[],"text":"parole"}
+{"analysis":[],"text":"est"}
+{"analysis":[],"text":"a"}
+{"analysis":[],"text":"la"}
+{"analysis":[],"text":"defence"}
+{"analysis":[{"lex":"громко","gr":"ADV="}],"text":"громко"}
+{"analysis":[{"lex":"объявлять","gr":"V,tran=praet,sg,indic,m,pf"}],"text":"объявил"}
+{"analysis":[{"lex":"д","gr":"S,abbr=abl,pl"},{"lex":"д","gr":"S,abbr=abl,sg"},{"lex":"д","gr":"S,abbr=acc,pl"},{"lex":"д","gr":"S,abbr=acc,sg"},{"lex":"д","gr":"S,abbr=dat,pl"},{"lex":"д","gr":"S,abbr=dat,sg"},{"lex":"д","gr":"S,abbr=gen,pl"},{"lex":"д","gr":"S,abbr=gen,sg"},{"lex":"д","gr":"S,abbr=ins,pl"},{"lex":"д","gr":"S,abbr=ins,sg"},{"lex":"д","gr":"S,abbr=nom,pl"},{"lex":"д","gr":"S,abbr=nom,sg"}],"text":"д"}
+{"analysis":[{"lex":"эвр","qual":"bastard","gr":"S,m,inan=abl,sg"}],"text":"Эвре"}

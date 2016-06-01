@@ -1,0 +1,34 @@
+1	Все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	время	ВРЕМЯ	S	S n inan acc sg	S n inan acc sg	16	длительн	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	пока	ПОКА	CONJ	CONJ	CONJ	2	эксплет	_	_
+5	шло	ИДТИ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	4	подч-союзн	_	_
+6	это	ЭТОТ	A	A - acc sg plen n -	A - acc sg plen n -	7	опред	_	_
+7	обсуждение	ОБСУЖДЕНИЕ	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+10	незаметно	НЕЗАМЕТНО	ADV	ADV -	ADV -	7	релят	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	по	ПО	PR	PR	PR	10	обст	_	_
+13	четверть	ЧЕТВЕРТЬ	S	S f inan acc sg	S f inan acc sg	12	предл	_	_
+14	шажочка	ШАЖОЧЕК	S	S m inan gen sg	S m inan gen sg	13	квазиагент	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	перемещалась	ПЕРЕМЕЩАТЬСЯ	V	V ipf praet sg indic f -	V ipf praet sg indic f -	0	ROOT	_	_
+17	поближе	БЛИЗКО	ADV	ADV comp	ADV comp	16	обст	_	_
+18	к	К	PR	PR	PR	16	1-компл	_	_
+19	Эрасту	ЭРАСТ	S	S m anim dat sg	S m anim dat sg	18	предл	_	_
+20	Петровичу	ПЕТРОВИЧ	S	S m anim dat sg	S m anim dat sg	19	аппоз	_	_
+21	и	И	CONJ	CONJ	CONJ	16	сочин	_	_
+22	вот	ВОТ	PART	PART	PART	26	огранич	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	наконец	НАКОНЕЦ	ADV	ADV -	ADV -	26	вводн	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	оказалась	ОКАЗЫВАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	21	соч-союзн	_	_
+27	в	В	PR	PR	PR	26	присвяз	_	_
+28	непосредственной	НЕПОСРЕДСТВЕННЫЙ	A	A - loc sg plen f -	A - loc sg plen f -	29	опред	_	_
+29	близости	БЛИЗОСТЬ	S	S f inan loc sg	S f inan loc sg	27	предл	_	_
+30	от	ОТ	PR	PR	PR	29	атриб	_	_
+31	титулярного	ТИТУЛЯРНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	32	опред	_	_
+32	советника	СОВЕТНИК	S	S m anim gen sg	S m anim gen sg	30	предл	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+

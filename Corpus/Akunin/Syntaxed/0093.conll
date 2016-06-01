@@ -1,0 +1,20 @@
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	помог	ПОМОГАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	онемевшей	ОНЕМЕВАТЬ	PARTCP	PARTCP pf praet loc sg plen f act -	PARTCP pf praet loc sg plen f act -	4	опред	_	_
+4	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	2	2-компл	_	_
+5	сесть	САДИТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	2	1-компл	_	_
+6	на	НА	PR	PR	PR	5	1-компл	_	_
+7	гнедого	ГНЕДОЙ	A	A - acc sg plen m anim	A - acc sg plen m anim	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	выдернул	ВЫДЕРГИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	сочин	_	_
+10	из	ИЗ	PR	PR	PR	9	1-компл	_	_
+11	седельного	СЕДЕЛЬНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	12	опред	_	_
+12	чехла	ЧЕХОЛ	S	S m inan gen sg	S m inan gen sg	10	предл	_	_
+13	ружье	РУЖЬЕ	S	S n inan loc sg	S n inan loc sg	9	сочин	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	2	сент-соч	_	_
+16	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	17	предик	_	_
+17	понеслись	ПОНЕСТИСЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	15	соч-союзн	_	_
+18	вскачь	ВСКАЧЬ	ADV	ADV -	ADV -	17	обст	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+

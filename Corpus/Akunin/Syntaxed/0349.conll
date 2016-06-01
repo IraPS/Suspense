@@ -1,0 +1,20 @@
+1	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	4	предик	_	_
+2	(	(	_	_	PUNC	3	PUNC	_	_
+3	тоже	ТОЖЕ	PART	PART	PART	4	огранич	_	_
+4	хорош	ХОРОШИЙ	A	A - - sg brev m -	A - - sg brev m -	0	ROOT	_	_
+5	)	)	_	_	PUNC	4	PUNC	_	_
+6	плотоядно	ПЛОТОЯДНЫЙ	A	A - - sg brev n -	A - - sg brev n -	4	разъяснит	_	_
+7	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	вводн	_	_
+8	:	:	:	:	PUNC	9	опред	_	_
+9	–	–	–	–	PUNC	7	2-компл	_	_
+10	Но	НО	CONJ	CONJ	CONJ	7	обст	_	_
+11	ведь	ВЕДЬ	PART	PART	PART	12	огранич	_	_
+12	кроме	КРОМЕ	PR	PR	PR	16	обст	_	_
+13	жен	ЖЕНА	S	S f inan ins sg	S f inan ins sg	12	предл	_	_
+14	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+15	наложниц	НАЛОЖНИЦА	S	S f anim gen pl	S f anim gen pl	14	соч-союзн	_	_
+16	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	соч-союзн	_	_
+17	еще	ЕЩЕ	ADV	ADV -	ADV -	18	огранич	_	_
+18	рабыни	РАБЫНЯ	S	S f anim nom pl	S f anim nom pl	16	предик	_	_
+19	?	?	SENT	SENT	SENT	18	PUNC	_	_
+

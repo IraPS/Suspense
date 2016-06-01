@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"один","gr":"ANUM=acc,sg,f"}],"text":"Одну"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"запоминать","gr":"V,tran=praet,sg,indic,f,pf"}],"text":"запомнила"}
+{"analysis":[{"lex":"особенно","gr":"ADV="}],"text":"особенно"}
+{"analysis":[{"lex":"хорошо","gr":"ADV=parenth"}],"text":"хорошо"}

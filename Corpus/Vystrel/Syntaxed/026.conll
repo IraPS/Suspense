@@ -1,0 +1,51 @@
+1	Слуга	СЛУГА	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	вошел	ВХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+4	объявил	ОБЪЯВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	3	соч-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	лошади	ЛОШАДЬ	S	S f anim nom pl	S f anim nom pl	8	предик	_	_
+8	готовы	ГОТОВЫЙ	A	A - - pl brev - -	A - - pl brev - -	6	подч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	3	предик	_	_
+2	крепко	КРЕПКО	ADV	ADV -	ADV -	3	обст	_	_
+3	сжал	СЖИНАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	3	2-компл	_	_
+5	руку	РУКА	S	S f inan acc sg	S f inan acc sg	3	1-компл	_	_
+6	;	;	SENT	SENT	SENT	5	PUNC	_	_
+
+1	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	2	предик	_	_
+2	поцеловались	ПОЦЕЛОВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	сел	САДИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	в	В	PR	PR	PR	2	1-компл	_	_
+4	тележку	ТЕЛЕЖКА	S	S f inan acc sg	S f inan acc sg	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	где	ГДЕ	ADV	ADV -	ADV -	7	обст	_	_
+7	лежали	ЛЕЖАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	2	сент-соч	_	_
+8	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	9	количест	_	_
+9	чемодана	ЧЕМОДАН	S	S m inan gen sg	S m inan gen sg	7	предик	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	9	опред	_	_
+12	с	С	PR	PR	PR	11	1-компл	_	_
+13	пистолетами	ПИСТОЛЕТ	S	S m inan ins pl	S m inan ins pl	12	предл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	другой	ДРУГОЙ	A	A - gen sg plen f -	A - gen sg plen f -	13	опред	_	_
+16	с	С	PR	PR	PR	15	атриб	_	_
+17	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	18	квазиагент	_	_
+18	пожитками	ПОЖИТКИ	S	S - inan ins pl	S - inan ins pl	16	предл	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	2	предик	_	_
+2	простились	ПРОЩАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	еще	ЕЩЕ	ADV	ADV -	ADV -	4	огранич	_	_
+4	раз	РАЗ	S	S m inan acc sg	S m inan acc sg	2	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+7	лошади	ЛОШАДЬ	S	S f anim nom pl	S f anim nom pl	6	соч-союзн	_	_
+8	поскакали	ПОСКАКАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	2	сочин	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

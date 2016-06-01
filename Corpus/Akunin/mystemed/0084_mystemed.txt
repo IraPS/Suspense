@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"пожалуйста","gr":"PART="}],"text":"Пожалуйста"}
+{"analysis":[{"lex":"без","gr":"PR="}],"text":"без"}
+{"analysis":[{"lex":"обморок","gr":"S,m,inan=gen,sg"}],"text":"обморока"}
+{"analysis":[{"lex":"тихо","gr":"ADV="}],"text":"тихо"}
+{"analysis":[{"lex":"сказать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"сказал"}
+{"analysis":[{"lex":"фандорин","qual":"bastard","gr":"S,famn,m,anim=nom,sg"}],"text":"Фандорин"}
+{"text":"\\s"}
+{"analysis":[{"lex":"они","gr":"SPRO,pl=nom"}],"text":"Они"}
+{"analysis":[{"lex":"мочь","gr":"V,ipf,intr=inpraes,pl,indic,3p"}],"text":"могут"}
+{"analysis":[{"lex":"вернуться","gr":"V,pf,intr=inf"}],"text":"вернуться"}

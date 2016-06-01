@@ -1,0 +1,253 @@
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	прохладную	ПРОХЛАДНЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	3	опред	_	_
+3	тишину	ТИШИНА	S	S f inan acc sg	S f inan acc sg	5	1-компл	_	_
+4	утра	УТРО	S	S n inan gen sg	S n inan gen sg	3	квазиагент	_	_
+5	нарушает	НАРУШАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	1	соч-союзн	_	_
+6	только	ТОЛЬКО	PART	PART	PART	7	огранич	_	_
+7	сытое	СЫТЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	8	опред	_	_
+8	квохтанье	КВОХТАНЬЕ	S	S n inan nom sg	S n inan nom sg	5	предик	_	_
+9	дроздов	ДРОЗД	S	S m anim acc pl	S m anim acc pl	8	1-компл	_	_
+10	на	НА	PR	PR	PR	8	атриб	_	_
+11	коралловых	КОРАЛЛОВЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	12	опред	_	_
+12	рябинах	РЯБИНА	S	S f inan loc pl	S f inan loc pl	10	предл	_	_
+13	в	В	PR	PR	PR	12	атриб	_	_
+14	чаще	ЧАЩА	S	S f inan loc sg	S f inan loc sg	13	предл	_	_
+15	сада	САД	S	S m inan gen sg	S m inan gen sg	14	квазиагент	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	голоса	ГОЛОС	S	S m inan gen sg	S m inan gen sg	14	1-компл	_	_
+18	да	ДА	CONJ	CONJ	CONJ	5	сент-соч	_	_
+19	гулкий	ГУЛКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	20	опред	_	_
+20	стук	СТУК	S	S m inan nom sg	S m inan nom sg	21	предик	_	_
+21	ссыпаемых	ССЫПАТЬ	PARTCP	PARTCP ipf inpraes loc pl plen - pass -	PARTCP ipf inpraes loc pl plen - pass -	18	соч-союзн	_	_
+22	в	В	PR	PR	PR	21	2-компл	_	_
+23	меры	МЕРА	S	S f inan acc pl	S f inan acc pl	22	предл	_	_
+24	и	И	CONJ	CONJ	CONJ	23	сочин	_	_
+25	кадушки	КАДУШКА	S	S f inan acc pl	S f inan acc pl	24	соч-союзн	_	_
+26	яблок	ЯБЛОКО	S	S n inan gen pl	S n inan gen pl	25	1-компл	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	В	В	PR	PR	PR	5	обст	_	_
+2	поредевшем	ПОРЕДЕТЬ	PARTCP	PARTCP pf praet loc sg plen m act -	PARTCP pf praet loc sg plen m act -	3	опред	_	_
+3	саду	САД	S	S m inan loc2 sg	S m inan loc2 sg	1	предл	_	_
+4	далеко	ДАЛЕКО	ADV	ADV -	ADV -	5	огранич	_	_
+5	видна	ВИДНЫЙ	A	A - - sg brev f -	A - - sg brev f -	0	ROOT	_	_
+6	дорога	ДОРОГА	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+7	к	К	PR	PR	PR	6	2-компл	_	_
+8	большому	БОЛЬШОЙ	A	A - dat sg plen m -	A - dat sg plen m -	9	опред	_	_
+9	шалашу	ШАЛАШ	S	S m inan dat sg	S m inan dat sg	7	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	усыпанная	УСЫПАТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	21	предик	_	_
+12	соломой	СОЛОМА	S	S f inan ins sg	S f inan ins sg	11	агент	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сочин	_	_
+15	самый	САМЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	16	опред	_	_
+16	шалаш	ШАЛАШ	S	S m inan acc sg	S m inan acc sg	14	соч-союзн	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	около	ОКОЛО	PR	PR	PR	21	обст	_	_
+19	которого	КОТОРЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	18	предл	_	_
+20	мещане	МЕЩАНИН	S	S m anim nom pl	S m anim nom pl	21	предик	_	_
+21	обзавелись	ОБЗАВОДИТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	6	релят	_	_
+22	за	ЗА	PR	PR	PR	21	1-компл	_	_
+23	лето	ЛЕТО	S	S n inan acc sg	S n inan acc sg	22	предл	_	_
+24	целым	ЦЕЛЫЙ	A	A - dat pl plen - -	A - dat pl plen - -	25	опред	_	_
+25	хозяйством	ХОЗЯЙСТВО	S	S n inan ins sg	S n inan ins sg	23	2-компл	_	_
+26	.	.	SENT	SENT	SENT	25	PUNC	_	_
+
+1	Всюду	ВСЮДУ	ADV	ADV -	ADV -	3	обст	_	_
+2	сильно	СИЛЬНО	ADV	ADV -	ADV -	3	обст	_	_
+3	пахнет	ПАХНУТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	яблоками	ЯБЛОКО	S	S n inan ins pl	S n inan ins pl	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	тут	ТУТ	ADV	ADV -	ADV -	7	обст	_	_
+7	—	—	—	—	PUNC	3	сент-соч	_	_
+8	особенно	ОСОБЕННО	ADV	ADV -	ADV -	7	обст	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	В	В	PR	PR	PR	3	обст	_	_
+2	шалаше	ШАЛАШ	S	S m inan loc sg	S m inan loc sg	1	предл	_	_
+3	устроены	УСТРАИВАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	0	ROOT	_	_
+4	постели	ПОСТЕЛЬ	S	S f inan gen sg	S f inan gen sg	3	2-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	стоит	СТОЯТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	3	сент-соч	_	_
+7	одноствольное	ОДНОСТВОЛЬНЫЙ	A	A - nom sg plen n -	A - nom sg plen n -	6	предик	_	_
+8	ружье	РУЖЬЕ	S	S n inan loc sg	S n inan loc sg	6	сент-соч	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	позеленевший	ПОЗЕЛЕНЕТЬ	PARTCP	PARTCP pf praet acc sg plen m act inan	PARTCP pf praet acc sg plen m act inan	8	опред	_	_
+11	самовар	САМОВАР	S	S m inan nom sg	S m inan nom sg	10	предик	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	в	В	PR	PR	PR	16	обст	_	_
+14	уголке	УГОЛОК	S	S m inan loc sg	S m inan loc sg	13	предл	_	_
+15	—	—	—	—	PUNC	16	опред	_	_
+16	посуда	ПОСУДА	S	S f inan nom sg	S f inan nom sg	8	предик	_	_
+17	.	.	SENT	SENT	SENT	16	PUNC	_	_
+
+1	Около	ОКОЛО	PR	PR	PR	3	обст	_	_
+2	шалаша	ШАЛАШ	S	S m inan gen sg	S m inan gen sg	1	предл	_	_
+3	валяются	ВАЛЯТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+4	рогожи	РОГОЖА	S	S f inan acc pl	S f inan acc pl	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	ящики	ЯЩИК	S	S m inan acc pl	S m inan acc pl	3	сент-соч	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	всякие	ВСЯКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	опред	_	_
+9	истрепанные	ИСТРЕПАННЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	10	опред	_	_
+10	пожитки	ПОЖИТКИ	S	S - inan nom pl	S - inan nom pl	6	предик	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	вырыта	ВЫРЫТЬ	PARTCP	PARTCP pf praet - sg brev f pass -	PARTCP pf praet - sg brev f pass -	6	сент-соч	_	_
+13	земляная	ЗЕМЛЯНОЙ	A	A - nom sg plen f -	A - nom sg plen f -	14	опред	_	_
+14	печка	ПЕЧКА	S	S f inan nom sg	S f inan nom sg	12	предик	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	В	В	PR	PR	PR	5	обст	_	_
+2	полдень	ПОЛДЕНЬ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+3	на	НА	PR	PR	PR	5	обст	_	_
+4	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	3	предл	_	_
+5	варится	ВАРИТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	великолепный	ВЕЛИКОЛЕПНЫЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	7	опред	_	_
+7	кулеш	КУЛЕШ	S	S m inan acc sg	S m inan acc sg	5	1-компл	_	_
+8	с	С	PR	PR	PR	7	атриб	_	_
+9	салом	САЛО	S	S n inan ins sg	S n inan ins sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	вечером	ВЕЧЕР	S	S m inan ins sg	S m inan ins sg	12	1-компл	_	_
+12	греется	ГРЕТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	9	релят	_	_
+13	самовар	САМОВАР	S	S m inan nom sg	S m inan nom sg	12	предик	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+16	по	ПО	PR	PR	PR	19	вводн	_	_
+17	саду	САД	S	S m inan loc2 sg	S m inan loc2 sg	16	предл	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	между	МЕЖДУ	PR	PR	PR	15	соч-союзн	_	_
+20	деревьями	ДЕРЕВО	S	S n inan ins pl	S n inan ins pl	19	предл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	расстилается	РАССТИЛАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	сочин	_	_
+23	длинной	ДЛИННЫЙ	A	A - ins sg plen f -	A - ins sg plen f -	24	опред	_	_
+24	полосой	ПОЛОСА	S	S f inan ins sg	S f inan ins sg	22	1-компл	_	_
+25	голубоватый	ГОЛУБОВАТЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	26	опред	_	_
+26	дым	ДЫМ	S	S m inan nom sg	S m inan nom sg	22	предик	_	_
+27	.	.	SENT	SENT	SENT	26	PUNC	_	_
+
+1	В	В	PR	PR	PR	9	обст	_	_
+2	праздничные	ПРАЗДНИЧНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	4	опред	_	_
+3	же	ЖЕ	PART	PART	PART	2	огранич	_	_
+4	дни	ДЕНЬ	S	S m inan acc pl	S m inan acc pl	1	предл	_	_
+5	коло	КОЛО	S	S n inan nonflex nonflex	S n inan nonflex nonflex	9	предик	_	_
+6	шалаша	ШАЛАШ	S	S m inan gen sg	S m inan gen sg	5	атриб	_	_
+7	—	—	—	—	PUNC	9	опред	_	_
+8	целая	ЦЕЛЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+9	ярмарка	ЯРМАРКА	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+12	за	ЗА	PR	PR	PR	15	обст	_	_
+13	деревьями	ДЕРЕВО	S	S n inan ins pl	S n inan ins pl	12	предл	_	_
+14	поминутно	ПОМИНУТНО	ADV	ADV -	ADV -	15	обст	_	_
+15	мелькают	МЕЛЬКАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	11	соч-союзн	_	_
+16	красные	КРАСНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	17	опред	_	_
+17	уборы	УБОР	S	S m inan nom pl	S m inan nom pl	15	предик	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Толпятся	ТОЛПИТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+2	бойкие	БОЙКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	3	опред	_	_
+3	девки	ДЕВКА	S	S f anim nom pl	S f anim nom pl	1	предик	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	однодворки	ОДНОДВОРКА	S	S m inan gen sg	S m inan gen sg	3	разъяснит	_	_
+6	в	В	PR	PR	PR	5	атриб	_	_
+7	сарафанах	САРАФАН	S	S m inan loc pl	S m inan loc pl	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	сильно	СИЛЬНО	ADV	ADV -	ADV -	10	огранич	_	_
+10	пахнущих	ПАХНУТЬ	PARTCP	PARTCP ipf inpraes loc pl plen - act -	PARTCP ipf inpraes loc pl plen - act -	11	опред	_	_
+11	краской	КРАСКА	S	S f inan ins sg	S f inan ins sg	5	сочин	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	приходят	ПРИХОДИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	1	сент-соч	_	_
+14	«	«	_	_	PUNC	13	PUNC	_	_
+15	барские	БАРСКИЙ	A	A - nom pl plen - -	A - nom pl plen - -	13	кратн	_	_
+16	»	»	_	_	PUNC	15	PUNC	_	_
+17	в	В	PR	PR	PR	13	обст	_	_
+18	своих	СВОЙ	A	A - loc pl plen - -	A - loc pl plen - -	24	опред	_	_
+19	красивых	КРАСИВЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	24	опред	_	_
+20	и	И	CONJ	CONJ	CONJ	19	сочин	_	_
+21	грубых	ГРУБЫЙ	A	A - loc pl plen - -	A - loc pl plen - -	20	соч-союзн	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	дикарских	ДИКАРСКИЙ	A	A - loc pl plen - -	A - loc pl plen - -	21	сочин	_	_
+24	костюмах	КОСТЮМ	S	S m inan loc pl	S m inan loc pl	17	предл	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	молодая	МОЛОДОЙ	A	A - nom sg plen f -	A - nom sg plen f -	27	опред	_	_
+27	старостиха	СТАРОСТИХА	S	S f anim nom sg	S f anim nom sg	13	предик	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	беременная	БЕРЕМЕННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	27	оп-опред	_	_
+30	,	,	,	,	PUNC	29	PUNC	_	_
+31	с	С	PR	PR	PR	29	сочин	_	_
+32	широким	ШИРОКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	34	опред	_	_
+33	сонным	СОННЫЙ	A	A - ins sg plen m -	A - ins sg plen m -	34	опред	_	_
+34	лицом	ЛИЦО	S	S n inan ins sg	S n inan ins sg	31	предл	_	_
+35	и	И	CONJ	CONJ	CONJ	29	сочин	_	_
+36	важная	ВАЖНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	35	соч-союзн	_	_
+37	,	,	,	,	PUNC	36	PUNC	_	_
+38	как	КАК	CONJ	CONJ	CONJ	36	сравнит	_	_
+39	холмогорская	ХОЛМОГОРСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	40	опред	_	_
+40	корова	КОРОВА	S	S f anim nom sg	S f anim nom sg	38	сравн-союзн	_	_
+41	.	.	SENT	SENT	SENT	40	PUNC	_	_
+
+1	На	НА	PR	PR	PR	8	обст	_	_
+2	голове	ГОЛОВА	S	S f inan loc sg	S f inan loc sg	1	предл	_	_
+3	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	квазиагент	_	_
+4	«	«	_	_	PUNC	5	PUNC	_	_
+5	рога	РОГ	S	S m inan gen sg	S m inan gen sg	2	квазиагент	_	_
+6	»	»	_	_	PUNC	5	PUNC	_	_
+7	,	,	,	,	PUNC	5	PUNC	_	_
+8	—	—	—	—	PUNC	0	ROOT	_	_
+9	косы	КОСА	S	S f inan gen sg	S f inan gen sg	8	1-компл	_	_
+10	положены	ПОЛАГАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	8	об-копр	_	_
+11	по	ПО	PR	PR	PR	10	обст	_	_
+12	бокам	БОК	S	S m inan dat pl	S m inan dat pl	11	предл	_	_
+13	макушки	МАКУШКА	S	S f inan gen sg	S f inan gen sg	12	1-компл	_	_
+14	и	И	CONJ	CONJ	CONJ	10	сочин	_	_
+15	покрыты	ПОКРЫВАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	14	соч-союзн	_	_
+16	несколькими	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	17	количест	_	_
+17	платками	ПЛАТОК	S	S m inan ins pl	S m inan ins pl	15	обст	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	так что	так что	CONJ	CONJ	ZERO	8	сент-соч	_	_
+20	голова	ГОЛОВА	S	S f inan nom sg	S f inan nom sg	22	предик	_	_
+21	кажется	КАЖЕТСЯ	ADV	ADV -	ADV -	22	огранич	_	_
+22	огромной	ОГРОМНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	19	соч-союзн	_	_
+23	;	;	SENT	SENT	SENT	22	PUNC	_	_
+
+1	ноги	НОГА	S	S f inan acc pl	S f inan acc pl	8	1-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	в	В	PR	PR	PR	8	обст	_	_
+4	полусапожках	ПОЛУСАПОЖКИ	S	S - inan loc pl	S - inan loc pl	3	предл	_	_
+5	с	С	PR	PR	PR	4	атриб	_	_
+6	подковками	ПОДКОВКА	S	S f inan ins pl	S f inan ins pl	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	стоят	СТОЯТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	0	ROOT	_	_
+9	тупо	ТУПО	ADV	ADV -	ADV -	8	обст	_	_
+10	и	И	CONJ	CONJ	CONJ	9	сочин	_	_
+11	крепко	КРЕПКО	ADV	ADV -	ADV -	10	соч-союзн	_	_
+12	;	;	SENT	SENT	SENT	11	PUNC	_	_
+
+1	безрукавка	БЕЗРУКАВКА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+2	—	—	—	—	PUNC	3	вспом	_	_
+3	плисовая	ПЛИСОВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	5	опред	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	занавеска	ЗАНАВЕСКА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+6	длинная	ДЛИННЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	6	сент-соч	_	_
+9	понева	ПОНЕВА	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+10	—	—	—	—	PUNC	13	обст	_	_
+11	черно	ЧЕРНО	ADV	ADV -	ADV -	13	вводн	_	_
+12	-	-	-	-	PUNC	11	PUNC	_	_
+13	лиловая	ЛИЛОВЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	8	соч-союзн	_	_
+14	с	С	PR	PR	PR	13	1-компл	_	_
+15	полосами	ПОЛОСА	S	S f inan ins pl	S f inan ins pl	14	предл	_	_
+16	кирпичного	КИРПИЧНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	17	опред	_	_
+17	цвета	ЦВЕТ	S	S m inan gen sg	S m inan gen sg	15	атриб	_	_
+18	и	И	CONJ	CONJ	CONJ	15	сочин	_	_
+19	обложенная	ОБКЛАДЫВАТЬ	PARTCP	PARTCP pf praet nom sg plen f pass -	PARTCP pf praet nom sg plen f pass -	18	соч-союзн	_	_
+20	на	НА	PR	PR	PR	19	обст	_	_
+21	подоле	ПОДОЛ	S	S m inan loc sg	S m inan loc sg	20	предл	_	_
+22	широким	ШИРОКИЙ	A	A - ins sg plen m -	A - ins sg plen m -	25	опред	_	_
+23	золотым	ЗОЛОТОЙ	A	A - dat pl plen - -	A - dat pl plen - -	25	опред	_	_
+24	«	«	_	_	PUNC	25	PUNC	_	_
+25	прозументом	ПРОЗУМЕНТ	S	S m inan ins sg	S m inan ins sg	13	разъяснит	_	_
+26	»	»	_	_	PUNC	25	PUNC	_	_
+27	...	...	SENT	SENT	SENT	25	PUNC	_	_
+

@@ -1,0 +1,45 @@
+1	Казанзаки	КАЗАНЗАК	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	багров	БАГРОВЫЙ	A	A - - sg brev m -	A - - sg brev m -	2	присвяз	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Черные	ЧЕРНЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	7	1-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	как	КАК	CONJ	CONJ	CONJ	1	сравнит	_	_
+4	сливы	СЛИВА	S	S f inan nom pl	S f inan nom pl	3	сравн-союзн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	глаза	ГЛАЗ	S	S m inan gen sg	S m inan gen sg	7	предик	_	_
+7	налились	НАЛИВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+8	кровью	КРОВЬ	S	S f inan ins sg	S f inan ins sg	7	2-компл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	После	ПОСЛЕ	PR	PR	PR	6	обст	_	_
+2	паузы	ПАУЗА	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	сглотнув	СГЛАТЫВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	6	обст	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	сказал	СКАЗАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	18	обст	_	_
+7	:	:	:	:	PUNC	18	предик	_	_
+8	–	–	–	–	PUNC	12	опред	_	_
+9	Приказом	ПРИКАЗ	S	S m inan ins sg	S m inan ins sg	8	агент	_	_
+10	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	9	1-компл	_	_
+11	императорского	ИМПЕРАТОРСКИЙ	A	A - gen sg plen n -	A - gen sg plen n -	12	опред	_	_
+12	величества	ВЕЛИЧЕСТВО	S	S n inan gen sg	S n inan gen sg	7	1-компл	_	_
+13	дуэли	ДУЭЛЬ	S	S f inan gen sg	S f inan gen sg	12	1-компл	_	_
+14	на	НА	PR	PR	PR	12	атриб	_	_
+15	период	ПЕРИОД	S	S m inan acc sg	S m inan acc sg	14	предл	_	_
+16	войны	ВОЙНА	S	S f inan gen sg	S f inan gen sg	15	квазиагент	_	_
+17	строжайше	СТРОЖАЙШЕ	ADV	ADV -	ADV -	18	обст	_	_
+18	запрещены	ЗАПРЕЩАТЬ	PARTCP	PARTCP pf praet - pl brev - pass -	PARTCP pf praet - pl brev - pass -	0	ROOT	_	_
+19	.	.	SENT	SENT	SENT	18	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	8	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	2	об-аппоз	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	отлично	ОТЛИЧНО	ADV	ADV -	ADV -	8	обст	_	_
+7	это	ЭТО	S	S n inan acc sg	S n inan acc sg	8	1-компл	_	_
+8	знаете	ЗНАТЬ	V	V ipf praes pl indic - 2p	V ipf praes pl indic - 2p	1	соч-союзн	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+

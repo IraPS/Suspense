@@ -1,0 +1,15 @@
+{"analysis":[{"lex":"эй","gr":"INTJ="}],"text":"Эй"}
+{"analysis":[{"lex":"человечек","gr":"S,m,anim=nom,sg"}],"text":"человечек"}
+{"analysis":[{"lex":"шустовский","gr":"A=acc,sg,plen,m,inan"},{"lex":"шустовский","gr":"A=nom,sg,plen,m"}],"text":"шустовский"}
+{"analysis":[{"lex":"быть","gr":"V,intr=inpraes,sg,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=inpraes,pl,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,1p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,1p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,2p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,2p,ipf"},{"lex":"быть","gr":"V,intr=praes,pl,indic,3p,ipf"},{"lex":"быть","gr":"V,intr=praes,sg,indic,3p,ipf"}],"text":"есть"}
+{"text":"\\s"}
+{"analysis":[{"lex":"нести","gr":"V,ipf,tran=sg,imper,2p"}],"text":"Неси"}
+{"analysis":[{"lex":"крикнуть","gr":"V,pf,intr=praet,sg,indic,m"}],"text":"крикнул"}
+{"analysis":[{"lex":"гусар","gr":"S,m,anim=acc,pl"},{"lex":"гусар","gr":"S,m,anim=gen,pl"},{"lex":"гусар","gr":"S,m,anim=nom,sg"}],"text":"гусар"}
+{"analysis":[{"lex":"обертываться","gr":"V,intr=praet,ger,pf"}],"text":"обернувшись"}
+{"analysis":[{"lex":"к","gr":"PR="}],"text":"к"}
+{"analysis":[{"lex":"буфетчик","gr":"S,m,anim=dat,sg"}],"text":"буфетчику"}
+{"text":"\\s"}
+{"analysis":[{"lex":"веселиться","gr":"V,ipf,intr=inf"}],"text":"Веселиться"}
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"так"}
+{"analysis":[{"lex":"веселиться","gr":"V,ipf,intr=inf"}],"text":"веселиться"}

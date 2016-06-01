@@ -1,0 +1,11 @@
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	то	ТО	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+3	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	соч-союзн	_	_
+4	только	ТОЛЬКО	PART	PART	PART	5	огранич	_	_
+5	дебют	ДЕБЮТ	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	далее	ДАЛЕЕ	ADV	ADV -	ADV -	8	обст	_	_
+8	последовал	ПОСЛЕДОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	релят	_	_
+9	миттельшпиль	МИТТЕЛЬШПИЛЬ	S	S m anim nom sg	S m anim nom sg	8	предик	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+

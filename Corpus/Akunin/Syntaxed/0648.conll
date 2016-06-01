@@ -1,0 +1,17 @@
+1	После	ПОСЛЕ	PR	PR	PR	6	обст	_	_
+2	продолжительной	ПРОДОЛЖИТЕЛЬНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	3	опред	_	_
+3	паузы	ПАУЗА	S	S f inan gen sg	S f inan gen sg	1	предл	_	_
+4	шеф	ШЕФ	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+5	жандармов	ЖАНДАРМ	S	S m anim gen pl	S m anim gen pl	4	1-компл	_	_
+6	обратился	ОБРАЩАТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	к	К	PR	PR	PR	6	1-компл	_	_
+8	Фандорину	ФАНДОРИН	S	S f inan acc sg	S f inan acc sg	7	предл	_	_
+9	:	:	:	:	PUNC	12	опред	_	_
+10	–	–	–	–	PUNC	12	опред	_	_
+11	Ваши	ВАШ	A	A - nom pl plen - -	A - nom pl plen - -	12	опред	_	_
+12	выводы	ВЫВОД	S	S m inan nom pl	S m inan nom pl	6	предик	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	Эраст	ЭРАСТ	S	S m anim nom sg	S m anim nom sg	6	вводн	_	_
+15	Петрович	ПЕТРОВИЧ	S	S m anim nom sg	S m anim nom sg	14	аппоз	_	_
+16	?	?	SENT	SENT	SENT	15	PUNC	_	_
+

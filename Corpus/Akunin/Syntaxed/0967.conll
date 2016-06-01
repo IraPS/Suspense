@@ -1,0 +1,19 @@
+1	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	2	2-компл	_	_
+2	показалось	ПОКАЗЫВАТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	предик	_	_
+5	сзади	СЗАДИ	ADV	ADV -	ADV -	6	обст	_	_
+6	расступилась	РАССТУПАТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	4	подч-союзн	_	_
+7	стена	СТЕНА	S	S f inan nom sg	S f inan nom sg	6	предик	_	_
+8	–	–	–	–	PUNC	0	ROOT	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	внезапно	ВНЕЗАПНО	ADV	ADV -	ADV -	13	обст	_	_
+11	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	13	предик	_	_
+12	оба	ОБА	NUM	NUM acc m inan	NUM acc m inan	13	1-компл	_	_
+13	оказались	ОКАЗЫВАТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	9	соч-союзн	_	_
+14	в	В	PR	PR	PR	13	присвяз	_	_
+15	каком-то	КАКОЙ-ТО	A	A - loc sg plen m -	A - loc sg plen m -	17	опред	_	_
+16	другом	ДРУГОЙ	A	A - loc sg plen m -	A - loc sg plen m -	17	опред	_	_
+17	помещении	ПОМЕЩЕНИЕ	S	S n inan loc sg	S n inan loc sg	14	предл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

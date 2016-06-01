@@ -1,0 +1,93 @@
+1	Временами	ВРЕМЯ	S	S n inan ins pl	S n inan ins pl	3	обст	_	_
+2	Варе	ВАРЯ	S	S f anim dat sg	S f anim dat sg	3	2-компл	_	_
+3	казалось	КАЗАТЬСЯ	V	V ipf praet sg indic n -	V ipf praet sg indic n -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	предик	_	_
+6	д	Д	S	S - - nonflex nonflex	S - - nonflex nonflex	8	опред	_	_
+7	'	'	_	_	PUNC	6	PUNC	_	_
+8	Эвре	ЭВР	S	S m anim gen sg	S m anim gen sg	9	предик	_	_
+9	бросает	БРОСАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	5	подч-союзн	_	_
+10	на	НА	PR	PR	PR	9	2-компл	_	_
+11	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	10	предл	_	_
+12	взоры	ВЗОР	S	S m inan acc pl	S m inan acc pl	9	1-компл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	которые	КОТОРЫЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	16	1-компл	_	_
+15	можно	МОЖНО	ADV	ADV -	ADV -	12	релят	_	_
+16	растолковать	РАСТОЛКОВЫВАТЬ	V	V pf - - inf - -	V pf - - inf - -	15	предик	_	_
+17	только	ТОЛЬКО	PART	PART	PART	18	огранич	_	_
+18	в	В	PR	PR	PR	16	обст	_	_
+19	одном	ОДИН	A	A - loc sg plen m -	A - loc sg plen m -	20	количест	_	_
+20	смысле	СМЫСЛ	S	S m inan loc sg	S m inan loc sg	18	предл	_	_
+21	,	,	,	,	PUNC	20	PUNC	_	_
+22	однако	ОДНАКО	CONJ	CONJ	CONJ	15	1-компл	_	_
+23	внешне	ВНЕШНЕ	ADV	ADV -	ADV -	25	обст	_	_
+24	француз	ФРАНЦУЗ	S	S m anim nom sg	S m anim nom sg	25	предик	_	_
+25	держался	ДЕРЖАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	22	подч-союзн	_	_
+26	сущим	СУЩИЙ	A	A - ins sg plen m -	A - ins sg plen m -	27	опред	_	_
+27	Баярдом	БАЯРД	S	S m anim ins sg	S m anim ins sg	25	2-компл	_	_
+28	.	.	SENT	SENT	SENT	27	PUNC	_	_
+
+1	Как	КАК	ADV	ADV -	ADV -	4	огранич	_	_
+2	и	И	CONJ	CONJ	CONJ	4	соотнос	_	_
+3	другие	ДРУГОЙ	A	A - nom pl plen - -	A - nom pl plen - -	4	опред	_	_
+4	журналисты	ЖУРНАЛИСТ	S	S m anim nom pl	S m anim nom pl	0	ROOT	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	10	предик	_	_
+7	по	ПО	PR	PR	PR	10	обст	_	_
+8	нескольку	НЕСКОЛЬКО	NUM	NUM - - -	NUM - - -	9	количест	_	_
+9	дней	ДЕНЬ	S	S m inan gen pl	S m inan gen pl	7	предл	_	_
+10	пропадал	ПРОПАДАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	сент-соч	_	_
+11	на	НА	PR	PR	PR	10	1-компл	_	_
+12	передовой	ПЕРЕДОВАЯ	S	S f inan loc sg	S f inan loc sg	11	предл	_	_
+13	,	,	,	,	PUNC	12	PUNC	_	_
+14	и	И	CONJ	CONJ	CONJ	10	сент-соч	_	_
+15	виделись	ВИДЕТЬСЯ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	14	соч-союзн	_	_
+16	они	ОНИ	SPRO	SPRO pl - - nom	SPRO pl - - nom	15	предик	_	_
+17	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	18	колич-огран	_	_
+18	реже	РЕДКО	ADV	ADV comp	ADV comp	15	обст	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	чем	ЧЕМ	CONJ	CONJ	CONJ	18	сравнит	_	_
+21	под	ПОД	PR	PR	PR	20	сравн-союзн	_	_
+22	Плевной	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	21	предл	_	_
+23	.	.	SENT	SENT	SENT	22	PUNC	_	_
+
+1	Но	НО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	однажды	ОДНАЖДЫ	ADV	ADV -	ADV -	3	обст	_	_
+3	произошел	ПРОИСХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+4	у	У	PR	PR	PR	8	1-компл	_	_
+5	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	4	предл	_	_
+6	наедине	НАЕДИНЕ	ADV	ADV -	ADV -	7	огранич	_	_
+7	некий	НЕКИЙ	A	A - nom sg plen m -	A - nom sg plen m -	8	опред	_	_
+8	разговор	РАЗГОВОР	S	S m inan nom sg	S m inan nom sg	3	предик	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	который	КОТОРЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	13	опред	_	_
+11	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	13	предик	_	_
+12	впоследствии	ВПОСЛЕДСТВИИ	ADV	ADV -	ADV -	13	обст	_	_
+13	восстановила	ВОССТАНАВЛИВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	3	разъяснит	_	_
+14	по	ПО	PR	PR	PR	13	обст	_	_
+15	памяти	ПАМЯТЬ	S	S f inan loc sg	S f inan loc sg	14	предл	_	_
+16	и	И	CONJ	CONJ	CONJ	3	сент-соч	_	_
+17	слово	СЛОВО	S	S n inan nom sg	S n inan nom sg	20	предик	_	_
+18	в	В	PR	PR	PR	17	2-компл	_	_
+19	слово	СЛОВО	S	S n inan acc sg	S n inan acc sg	18	предл	_	_
+20	записала	ЗАПИСЫВАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	16	соч-союзн	_	_
+21	в	В	PR	PR	PR	20	обст	_	_
+22	дневнике	ДНЕВНИК	S	S m inan loc sg	S m inan loc sg	21	предл	_	_
+23	(	(	_	_	PUNC	24	PUNC	_	_
+24	после	ПОСЛЕ	PR	PR	PR	29	обст	_	_
+25	отъезда	ОТЪЕЗД	S	S m inan gen sg	S m inan gen sg	24	предл	_	_
+26	Эраста	ЭРАСТ	S	S m anim gen sg	S m anim gen sg	25	квазиагент	_	_
+27	Петровича	ПЕТРОВИЧ	S	S m anim gen sg	S m anim gen sg	26	аппоз	_	_
+28	почему-то	ПОЧЕМУ-ТО	ADV	ADV -	ADV -	29	обст	_	_
+29	потянуло	ПОТЯНУТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	1	вводн	_	_
+30	писать	ПИСАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	29	предик	_	_
+31	дневник	ДНЕВНИК	S	S m inan acc sg	S m inan acc sg	30	1-компл	_	_
+32	–	–	–	–	PUNC	0	ROOT	_	_
+33	должно	ДОЛЖНО	ADV	ADV -	ADV -	34	обст	_	_
+34	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	32	1-компл	_	_
+35	,	,	,	,	PUNC	34	PUNC	_	_
+36	от	ОТ	PR	PR	PR	34	разъяснит	_	_
+37	безделья	БЕЗДЕЛЬЕ	S	S n inan gen sg	S n inan gen sg	36	предл	_	_
+38	)	)	_	_	PUNC	37	PUNC	_	_
+39	.	.	SENT	SENT	SENT	37	PUNC	_	_
+

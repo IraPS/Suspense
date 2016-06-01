@@ -1,0 +1,11 @@
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"увидеть","gr":"V,pf,tran=praet,sg,indic,f"}],"text":"увидела"}
+{"analysis":[{"lex":"что","gr":"CONJ="}],"text":"что"}
+{"analysis":[{"lex":"перепелкин","gr":"S,famn,m,anim=nom,sg"}],"text":"Перепелкин"}
+{"analysis":[{"lex":"смотреть","gr":"V,ipf,tran=inpraes,sg,indic,3p"}],"text":"смотрит"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"красавец","gr":"S,m,anim=acc,sg"},{"lex":"красавец","gr":"S,m,anim=gen,sg"}],"text":"красавца"}
+{"analysis":[{"lex":"генерал","gr":"S,m,anim=acc,sg"},{"lex":"генерал","gr":"S,m,anim=gen,sg"}],"text":"генерала"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=ins,pl"}],"text":"глазами"}
+{"analysis":[{"lex":"прибивать","gr":"V,tran=praet,abl,sg,partcp,plen,f,pf,pass"},{"lex":"прибивать","gr":"V,tran=praet,dat,sg,partcp,plen,f,pf,pass"},{"lex":"прибивать","gr":"V,tran=praet,gen,sg,partcp,plen,f,pf,pass"},{"lex":"прибивать","gr":"V,tran=praet,ins,sg,partcp,plen,f,pf,pass"}],"text":"прибитой"}
+{"analysis":[{"lex":"собака","gr":"S,f,anim=gen,sg"},{"lex":"собака","gr":"S,f,anim=nom,pl"}],"text":"собаки"}

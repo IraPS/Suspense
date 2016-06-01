@@ -1,0 +1,141 @@
+1	–	–	–	–	PUNC	3	опред	_	_
+2	Хороший	ХОРОШИЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	человек	ЧЕЛОВЕК	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+4	ее	ЕЕ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	5	атриб	_	_
+5	муж	МУЖ	S	S m anim nom sg	S m anim nom sg	3	аппоз	_	_
+6	?	?	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	спросил	СПРАШИВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	2	предик	_	_
+4	Ермолая	ЕРМОЛАЙ	S	S m anim acc sg	S m anim acc sg	2	разъяснит	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Ништо	НИШТО	ADV	ADV -	ADV -	1	обст	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	1	1-компл	_	_
+3	дети	РЕБЕНОК	S	S m anim nom pl	S m anim nom pl	6	предик	_	_
+4	у	У	PR	PR	PR	6	1-компл	_	_
+5	них	ОНИ	SPRO	SPRO pl - - loc	SPRO pl - - loc	4	предл	_	_
+6	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	2	соч-союзн	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	1-компл	_	_
+2	Был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	да	ДА	CONJ	CONJ	CONJ	3	сочин	_	_
+6	помер	ПОМИРАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	соч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	предик	_	_
+2	Что	ЧТО	S	S n - nom sg	S n - nom sg	6	обст	_	_
+3	ж	Ж	PART	PART	PART	2	огранич	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	6	предик	_	_
+6	понравилась	ПОНРАВИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+7	мельнику	МЕЛЬНИК	S	S m anim dat sg	S m anim dat sg	6	1-компл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	1-компл	_	_
+10	ли	ЛИ	PART	PART	PART	9	огранич	_	_
+11	?..	?..	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Много	МНОГО	ADV	ADV -	ADV -	6	вводн	_	_
+2	ли	ЛИ	PART	PART	PART	1	огранич	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	1	предик	_	_
+4	за	ЗА	PR	PR	PR	1	обст	_	_
+5	нее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	4	предл	_	_
+6	дал	ДАВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+7	выкупу	ВЫКУП	S	S m inan dat sg	S m inan dat sg	6	2-компл	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	знаю	ЗНАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	2	соч-союзн	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	Она	ОНА	SPRO	SPRO sg 3p f nom	SPRO sg 3p f nom	3	предик	_	_
+2	грамоте	ГРАМОТА	S	S f inan dat sg	S f inan dat sg	3	1-компл	_	_
+3	разумеет	РАЗУМЕТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	;	;	SENT	SENT	SENT	3	PUNC	_	_
+
+1	в	В	PR	PR	PR	9	обст	_	_
+2	их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	3	квазиагент	_	_
+3	деле	ДЕЛО	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+4	оно	ОНО	SPRO	SPRO sg 3p n nom	SPRO sg 3p n nom	9	обст	_	_
+5	…	…	…	…	PUNC	7	опред	_	_
+6	того	ТО	S	S n - gen sg	S n - gen sg	7	сравнит	_	_
+7	…	…	…	…	PUNC	9	предик	_	_
+8	хорошо	ХОРОШО	ADV	ADV -	ADV -	9	обст	_	_
+9	бывает	БЫВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	Стало	СТАНОВИТЬСЯ	V	V pf praet sg indic n -	V pf praet sg indic n -	4	вводн	_	_
+2	быть	БЫТЬ	V	V ipf - - inf - -	V ipf - - inf - -	1	1-компл	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	понравилась	ПОНРАВИТЬСЯ	V	V pf praet sg indic f -	V pf praet sg indic f -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	7	предик	_	_
+4	с	С	PR	PR	PR	7	обст	_	_
+5	ней	ОНА	SPRO	SPRO sg 3p f loc	SPRO sg 3p f loc	4	предл	_	_
+6	давно	ДАВНО	ADV	ADV -	ADV -	7	обст	_	_
+7	знаком	ЗНАКОМЫЙ	A	A - - sg brev m -	A - - sg brev m -	2	соч-союзн	_	_
+8	?	?	SENT	SENT	SENT	7	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Давно	ДАВНО	ADV	ADV -	ADV -	1	обст	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	0	ROOT	_	_
+2	к	К	PR	PR	PR	0	ROOT	_	_
+3	ее	ОНА	SPRO	SPRO sg 3p f acc	SPRO sg 3p f acc	6	1-компл	_	_
+4	господам	ГОСПОДИН	S	S m anim dat pl	S m anim dat pl	6	2-компл	_	_
+5	прежде	ПРЕЖДЕ	ADV	ADV -	ADV -	6	обст	_	_
+6	хаживал	ХАЖИВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	предл	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Их	ИХ	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	2	квазиагент	_	_
+2	усадьба	УСАДЬБА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	отселева	ОТСЕЛЕВЫЙ	A	A - - sg brev f -	A - - sg brev f -	0	ROOT	_	_
+4	недалече	НЕДАЛЕЧЕ	ADV	ADV -	ADV -	3	обст	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	6	1-компл	_	_
+2	И	И	CONJ	CONJ	CONJ	1	сочин	_	_
+3	Петрушку	ПЕТРУШКА	S	S m anim acc sg	S m anim acc sg	2	соч-союзн	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	лакея	ЛАКЕЙ	S	S m anim gen sg	S m anim gen sg	3	сочин	_	_
+6	знаешь	ЗНАТЬ	V	V ipf praes sg indic - 2p	V ipf praes sg indic - 2p	0	ROOT	_	_
+7	?	?	SENT	SENT	SENT	6	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Петра	ПЕТР	S	S m anim gen sg	S m anim gen sg	1	квазиагент	_	_
+3	Васильевича	ВАСИЛЬЕВИЧ	S	S m anim gen sg	S m anim gen sg	2	аппоз	_	_
+4	?	?	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Как	КАК	ADV	ADV -	ADV -	4	обст	_	_
+2	же	ЖЕ	PART	PART	PART	1	огранич	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	знал	ЗНАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+5	.	.	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Где	ГДЕ	ADV	ADV -	ADV -	4	обст	_	_
+3	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	4	предик	_	_
+4	теперь	ТЕПЕРЬ	ADV	ADV -	ADV -	1	обст	_	_
+5	?	?	SENT	SENT	SENT	4	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	А	А	CONJ	CONJ	CONJ	1	сравнит	_	_
+3	в	В	PR	PR	PR	5	обст	_	_
+4	солдаты	СОЛДАТ	S	S m anim - pl	S m anim - pl	3	предл	_	_
+5	поступил	ПОСТУПАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	2	соч-союзн	_	_
+6	.	.	SENT	SENT	SENT	5	PUNC	_	_
+

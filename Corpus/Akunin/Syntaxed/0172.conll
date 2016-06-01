@@ -1,0 +1,125 @@
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Вы	ВЫ	SPRO	SPRO pl 2p - nom	SPRO pl 2p - nom	1	предик	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	Казанзаки	КАЗАНЗАК	S	S m anim nom pl	S m anim nom pl	1	вводн	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	мне	Я	SPRO	SPRO sg 1p - loc	SPRO sg 1p - loc	11	1-компл	_	_
+7	всякой	ВСЯКИЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	опред	_	_
+8	чушью	ЧУШЬ	S	S f inan ins sg	S f inan ins sg	11	обст	_	_
+9	голову	ГОЛОВА	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	морочьте	МОРОЧИТЬ	V	V ipf - pl imper - 2p	V ipf - pl imper - 2p	1	разъяснит	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+
+1	Где	ГДЕ	ADV	ADV -	ADV -	0	ROOT	_	_
+2	Фандорин	ФАНДОРИН	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	?	?	SENT	SENT	SENT	2	PUNC	_	_
+
+1	В	В	PR	PR	PR	3	обст	_	_
+2	донесении	ДОНЕСЕНИЕ	S	S n inan loc sg	S n inan loc sg	1	предл	_	_
+3	сказано	СКАЗАТЬ	PARTCP	PARTCP pf praet - sg brev n pass -	PARTCP pf praet - sg brev n pass -	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	что	ЧТО	CONJ	CONJ	CONJ	3	предик	_	_
+6	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	0	ROOT	_	_
+7	у	У	PR	PR	PR	0	ROOT	_	_
+8	вас	ВЫ	SPRO	SPRO pl 2p - loc	SPRO pl 2p - loc	7	предл	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	–	–	–	–	PUNC	5	предик	_	_
+2	Так	ТАК	ADV	ADV -	ADV -	3	огранич	_	_
+3	точно	ТОЧНО	ADV	ADV -	ADV -	5	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	содержится	СОДЕРЖАТЬСЯ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+6	под	ПОД	PR	PR	PR	5	обст	_	_
+7	стражей	СТРАЖА	S	S f inan ins sg	S f inan ins sg	6	предл	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	 	 	 	 	PUNC	12	1-компл	_	_
+10	–	–	–	–	PUNC	11	1-компл	_	_
+11	молодцевато	МОЛОДЦЕВАТЫЙ	A	A - - sg brev n -	A - - sg brev n -	9	1-компл	_	_
+12	отрапортовал	ОТРАПОРТОВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	1-компл	_	_
+13	подполковник	ПОДПОЛКОВНИК	S	S m anim nom sg	S m anim nom sg	12	предик	_	_
+14	и	И	CONJ	CONJ	CONJ	12	сент-соч	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	понизив	ПОНИЖАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	17	квазиагент	_	_
+17	голос	ГОЛОС	S	S m inan nom sg	S m inan nom sg	14	соч-союзн	_	_
+18	,	,	,	,	PUNC	17	PUNC	_	_
+19	добавил	ДОБАВЛЯТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	5	вводн	_	_
+20	.	.	SENT	SENT	SENT	19	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Имею	ИМЕТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	1	2-компл	_	_
+3	основания	ОСНОВАНИЕ	S	S n inan acc pl	S n inan acc pl	2	1-компл	_	_
+4	полагать	ПОЛАГАТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	1-компл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	что	ЧТО	CONJ	CONJ	CONJ	4	1-компл	_	_
+7	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	0	ROOT	_	_
+8	-	-	-	-	PUNC	7	PUNC	_	_
+9	то	ТО	PART	PART	PART	7	огранич	_	_
+10	и	И	CONJ	CONJ	CONJ	7	сочин	_	_
+11	есть	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	10	соч-союзн	_	_
+12	наш	НАШ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+13	долгожданный	ДОЛГОЖДАННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	гость	ГОСТЬ	S	S m anim nom sg	S m anim nom sg	11	предик	_	_
+15	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	14	аппоз	_	_
+16	-	-	-	-	PUNC	15	PUNC	_	_
+17	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	14	атриб	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+
+1	Все	ВЕСЬ	A	A - nom pl plen - -	A - nom pl plen - -	2	опред	_	_
+2	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	7	предик	_	_
+3	к	К	PR	PR	PR	2	атриб	_	_
+4	одному	ОДИН	A	A - dat sg plen m -	A - dat sg plen m -	3	предл	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	ваше	ВАШ	A	A - nom sg plen n -	A - nom sg plen n -	7	опред	_	_
+7	высокопревосходительство	ВЫСОКОПРЕВОСХОДИТЕЛЬСТВО	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+
+1	Про	ПРО	PR	PR	PR	4	атриб	_	_
+2	Осман	ОСМАН	S	S m anim nom sg	S m anim nom sg	1	предл	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	пашу	ПАША	S	S m anim acc sg	S m anim acc sg	9	1-компл	_	_
+5	и	И	CONJ	CONJ	CONJ	4	сочин	_	_
+6	Плевну	ПЛЕВНА	S	S f inan acc sg	S f inan acc sg	5	соч-союзн	_	_
+7	–	–	–	–	PUNC	9	опред	_	_
+8	явная	ЯВНЫЙ	A	A - nom sg plen f -	A - nom sg plen f -	9	опред	_	_
+9	дезинформация	ДЕЗИНФОРМАЦИЯ	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+10	.	.	SENT	SENT	SENT	9	PUNC	_	_
+
+1	И	И	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	ведь	ВЕДЬ	PART	PART	PART	5	огранич	_	_
+3	как	КАК	ADV	ADV -	ADV -	5	обст	_	_
+4	ловко	ЛОВКО	ADV	ADV -	ADV -	5	обст	_	_
+5	завернул	ЗАВЕРТЫВАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	1	соч-союзн	_	_
+6	…	…	SENT	SENT	SENT	5	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Болван	БОЛВАН	S	S m anim nom sg	S m anim nom sg	1	предик	_	_
+3	!	!	SENT	SENT	SENT	2	PUNC	_	_
+
+1	–	–	–	–	PUNC	2	предик	_	_
+2	рявкнул	РЯВКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	Мизинов	МИЗИН	S	S m inan gen pl	S m inan gen pl	2	1-компл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	да	ДА	CONJ	CONJ	CONJ	2	сент-соч	_	_
+6	так	ТАК	ADV	ADV -	ADV -	7	огранич	_	_
+7	грозно	ГРОЗНО	ADV	ADV -	ADV -	5	соч-союзн	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	что	ЧТО	CONJ	CONJ	CONJ	7	предик	_	_
+10	у	У	PR	PR	PR	13	обст	_	_
+11	подполковника	ПОДПОЛКОВНИК	S	S m anim gen sg	S m anim gen sg	10	предл	_	_
+12	голова	ГОЛОВА	S	S f inan nom sg	S f inan nom sg	13	предик	_	_
+13	уехала	УЕЗЖАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	9	подч-союзн	_	_
+14	в	В	PR	PR	PR	13	2-компл	_	_
+15	плечи	ПЛЕЧО	S	S n inan acc pl	S n inan acc pl	14	предл	_	_
+16	.	.	SENT	SENT	SENT	15	PUNC	_	_
+
+1	–	–	–	–	PUNC	0	ROOT	_	_
+2	Немедленно	НЕМЕДЛЕННО	ADV	ADV -	ADV -	3	обст	_	_
+3	доставить	ДОСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	1	1-компл	_	_
+4	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	3	1-компл	_	_
+5	сюда	СЮДА	ADV	ADV -	ADV -	3	2-компл	_	_
+6	!	!	SENT	SENT	SENT	5	PUNC	_	_
+
+1	Живо	ЖИВО	ADV	ADV -	ADV -	0	ROOT	_	_
+2	!	!	SENT	SENT	SENT	1	PUNC	_	_
+

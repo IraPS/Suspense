@@ -1,0 +1,124 @@
+1	На	НА	PR	PR	PR	7	обст	_	_
+2	другой	ДРУГОЙ	A	A - acc sg plen m inan	A - acc sg plen m inan	3	опред	_	_
+3	день	ДЕНЬ	S	S m inan acc sg	S m inan acc sg	1	предл	_	_
+4	в	В	PR	PR	PR	7	обст	_	_
+5	манеже	МАНЕЖ	S	S m inan loc sg	S m inan loc sg	4	предл	_	_
+6	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	7	предик	_	_
+7	спрашивали	СПРАШИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+8	уже	УЖЕ	ADV	ADV -	ADV -	7	огранич	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	жив	ЖИВОЙ	A	A - - sg brev m -	A - - sg brev m -	7	1-компл	_	_
+11	ли	ЛИ	PART	PART	PART	10	огранич	_	_
+12	еще	ЕЩЕ	ADV	ADV -	ADV -	13	огранич	_	_
+13	бедный	БЕДНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	14	опред	_	_
+14	поручик	ПОРУЧИК	S	S m anim nom sg	S m anim nom sg	10	предик	_	_
+15	,	,	,	,	PUNC	14	PUNC	_	_
+16	как	КАК	CONJ	CONJ	CONJ	14	сравнит	_	_
+17	сам	САМ	A	A - nom sg plen m -	A - nom sg plen m -	19	суб-копр	_	_
+18	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	19	предик	_	_
+19	явился	ЯВЛЯТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	16	сравн-союзн	_	_
+20	между	МЕЖДУ	PR	PR	PR	19	обст	_	_
+21	нами	МЫ	SPRO	SPRO pl 1p - ins	SPRO pl 1p - ins	20	предл	_	_
+22	;	;	SENT	SENT	SENT	21	PUNC	_	_
+
+1	мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	2	предик	_	_
+2	сделали	СДЕЛАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	2	2-компл	_	_
+4	тот	ТОТ	A	A - nom sg plen m -	A - nom sg plen m -	6	опред	_	_
+5	же	ЖЕ	PART	PART	PART	4	огранич	_	_
+6	вопрос	ВОПРОС	S	S m inan nom sg	S m inan nom sg	2	разъяснит	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	отвечал	ОТВЕЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	что	ЧТО	CONJ	CONJ	CONJ	2	1-компл	_	_
+5	об	ОБ	PR	PR	PR	8	1-компл	_	_
+6	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	5	предл	_	_
+7	не	НЕ	PART	PART	PART	8	огранич	_	_
+8	имел	ИМЕТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	4	подч-союзн	_	_
+9	он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	8	предик	_	_
+10	еще	ЕЩЕ	ADV	ADV -	ADV -	11	огранич	_	_
+11	никакого	НИКАКОЙ	A	A - gen sg plen n -	A - gen sg plen n -	12	опред	_	_
+12	известия	ИЗВЕСТИЕ	S	S n inan gen sg	S n inan gen sg	8	1-компл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	Это	ЭТО	S	S n - nom sg	S n - nom sg	3	предик	_	_
+2	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	3	1-компл	_	_
+3	удивило	УДИВЛЯТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	2	предик	_	_
+2	пошли	ПОЙТИ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+3	к	К	PR	PR	PR	2	2-компл	_	_
+4	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	3	предл	_	_
+5	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+6	нашли	НАХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	5	соч-союзн	_	_
+7	его	ОН	SPRO	SPRO sg 3p m acc	SPRO sg 3p m acc	6	1-компл	_	_
+8	на	НА	PR	PR	PR	6	обст	_	_
+9	дворе	ДВОР	S	S m inan loc sg	S m inan loc sg	8	предл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	сажающего	САЖАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen m act anim	PARTCP ipf inpraes acc sg plen m act anim	6	2-компл	_	_
+12	пулю	ПУЛЯ	S	S f inan acc sg	S f inan acc sg	11	1-компл	_	_
+13	на	НА	PR	PR	PR	11	2-компл	_	_
+14	пулю	ПУЛЯ	S	S f inan acc sg	S f inan acc sg	13	предл	_	_
+15	в	В	PR	PR	PR	6	1-компл	_	_
+16	туза	ТУЗ	S	S m anim acc sg	S m anim acc sg	15	предл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	приклеенного	ПРИКЛЕИВАТЬ	PARTCP	PARTCP pf praet acc sg plen m pass anim	PARTCP pf praet acc sg plen m pass anim	16	опред	_	_
+19	к	К	PR	PR	PR	18	2-компл	_	_
+20	воротам	ВОРОТА	S	S - inan dat pl	S - inan dat pl	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	принял	ПРИНИМАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+3	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	2	1-компл	_	_
+4	по	ПО	PR	PR	PR	3	обст	_	_
+5	-	-	-	-	PUNC	4	PUNC	_	_
+6	обыкновенному	ОБЫКНОВЕННЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	9	1-компл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	ни	НИ	PART	PART	PART	9	огранич	_	_
+9	слова	СЛОВО	S	S n inan nom pl	S n inan nom pl	4	предл	_	_
+10	не	НЕ	PART	PART	PART	11	огранич	_	_
+11	говоря	ГОВОРИТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	0	ROOT	_	_
+12	о	О	PR	PR	PR	11	3-компл	_	_
+13	вчерашнем	ВЧЕРАШНИЙ	A	A - loc sg plen n -	A - loc sg plen n -	14	опред	_	_
+14	происшествии	ПРОИСШЕСТВИЕ	S	S n inan loc sg	S n inan loc sg	12	предл	_	_
+15	.	.	SENT	SENT	SENT	14	PUNC	_	_
+
+1	Прошло	ПРОХОДИТЬ	V	V pf praet sg indic n -	V pf praet sg indic n -	0	ROOT	_	_
+2	три	ТРИ	NUM	NUM nom - -	NUM nom - -	3	количест	_	_
+3	дня	ДЕНЬ	S	S m inan gen sg	S m inan gen sg	1	предик	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	поручик	ПОРУЧИК	S	S m anim nom sg	S m anim nom sg	6	предик	_	_
+6	был	БЫТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	1	сент-соч	_	_
+7	еще	ЕЩЕ	ADV	ADV -	ADV -	8	огранич	_	_
+8	жив	ЖИВОЙ	A	A - - sg brev m -	A - - sg brev m -	6	присвяз	_	_
+9	.	.	SENT	SENT	SENT	8	PUNC	_	_
+
+1	Мы	МЫ	SPRO	SPRO pl 1p - nom	SPRO pl 1p - nom	4	предик	_	_
+2	с	С	PR	PR	PR	4	1-компл	_	_
+3	удивлением	УДИВЛЕНИЕ	S	S n inan ins sg	S n inan ins sg	2	предл	_	_
+4	спрашивали	СПРАШИВАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	0	ROOT	_	_
+5	:	:	:	:	PUNC	10	1-компл	_	_
+6	неужели	НЕУЖЕЛИ	PART	PART	PART	7	огранич	_	_
+7	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	9	предик	_	_
+8	не	НЕ	PART	PART	PART	9	огранич	_	_
+9	будет	БЫТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	4	1-компл	_	_
+10	драться	ДРАТЬСЯ	V	V ipf - - inf - -	V ipf - - inf - -	9	аналит	_	_
+11	?	?	SENT	SENT	SENT	10	PUNC	_	_
+
+1	Сильвио	СИЛЬВИО	S	S m anim nonflex nonflex	S m anim nonflex nonflex	3	предик	_	_
+2	не	НЕ	PART	PART	PART	3	огранич	_	_
+3	дрался	ДРАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+
+1	Он	ОН	SPRO	SPRO sg 3p m nom	SPRO sg 3p m nom	2	предик	_	_
+2	довольствовался	ДОВОЛЬСТВОВАТЬСЯ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	очень	ОЧЕНЬ	ADV	ADV -	ADV -	4	огранич	_	_
+4	легким	ЛЕГКИЙ	A	A - dat pl plen - -	A - dat pl plen - -	5	опред	_	_
+5	объяснением	ОБЪЯСНЕНИЕ	S	S n inan ins sg	S n inan ins sg	2	1-компл	_	_
+6	и	И	CONJ	CONJ	CONJ	2	сочин	_	_
+7	помирился	ПОМИРИТЬСЯ	V	V pf praet sg indic m -	V pf praet sg indic m -	6	соч-союзн	_	_
+8	.	.	SENT	SENT	SENT	7	PUNC	_	_
+

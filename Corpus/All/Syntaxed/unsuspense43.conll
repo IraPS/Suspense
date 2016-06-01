@@ -1,0 +1,58 @@
+1	Мишка	МИШКА	S	S m anim nom sg	S m anim nom sg	2	предик	_	_
+2	слушал	СЛУШАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+3	.	.	SENT	SENT	SENT	2	PUNC	_	_
+
+1	Иван	ИВАН	S	S m anim nom sg	S m anim nom sg	7	предик	_	_
+2	Африканович	АФРИКАНОВИЧ	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	,	,	,	,	PUNC	2	PUNC	_	_
+4	не	НЕ	PART	PART	PART	5	огранич	_	_
+5	зная	ЗНАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	7	обст	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	угодил	УГОЖДАТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+8	ли	ЛИ	CONJ	CONJ	CONJ	7	обст	_	_
+9	парню	ПАРЕНЬ	S	S m anim dat sg	S m anim dat sg	11	2-компл	_	_
+10	своими	СВОЙ	A	A - ins pl plen - -	A - ins pl plen - -	11	опред	_	_
+11	словами	СЛОВО	S	S n inan ins pl	S n inan ins pl	8	подч-союзн	_	_
+12	,	,	,	,	PUNC	11	PUNC	_	_
+13	крякнул	КРЯКНУТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	7	сочин	_	_
+14	.	.	SENT	SENT	SENT	13	PUNC	_	_
+
+1	—	—	—	—	PUNC	3	опред	_	_
+2	Конешно	КОНЕШНОЕ	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+3	дело	ДЕЛО	S	S n inan nom sg	S n inan nom sg	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	грамота	ГРАМОТА	S	S f inan nom sg	S f inan nom sg	3	предик	_	_
+6	тоже	ТОЖЕ	PART	PART	PART	5	огранич	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	это...	ЭТО...	S	S m inan gen sg	S m inan gen sg	0	ROOT	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	лишнее	ЛИШНИЙ	A	A - nom sg plen n -	A - nom sg plen n -	0	ROOT	_	_
+11	в	В	PR	PR	PR	10	распред	_	_
+12	девке	ДЕВКА	S	S f anim dat sg	S f anim dat sg	11	предл	_	_
+13	.	.	SENT	SENT	SENT	12	PUNC	_	_
+
+1	А	А	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	и	И	CONJ	CONJ	CONJ	5	соотнос	_	_
+3	ты	ТЫ	SPRO	SPRO sg 2p - nom	SPRO sg 2p - nom	0	ROOT	_	_
+4	-	-	-	-	PUNC	3	PUNC	_	_
+5	то	ТО	CONJ	CONJ	CONJ	3	сочин	_	_
+6	парень	ПАРЕНЬ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+7	у	У	PR	PR	PR	0	ROOT	_	_
+8	нас	МЫ	SPRO	SPRO pl 1p - loc	SPRO pl 1p - loc	7	предл	_	_
+9	не	НЕ	PART	PART	PART	10	огранич	_	_
+10	худой	ХУДОЙ	A	A - nom sg plen m -	A - nom sg plen m -	0	ROOT	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	чего	ЧТО	S	S n - gen sg	S n - gen sg	13	1-компл	_	_
+13	говорить	ГОВОРИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	10	разъяснит	_	_
+14	...	...	SENT	SENT	SENT	13	PUNC	_	_
+
+1	Да	ДА	PART	PART	PART	0	ROOT	_	_
+2	.	.	SENT	SENT	SENT	1	PUNC	_	_
+
+1	Это	ЭТО	S	S n inan acc sg	S n inan acc sg	3	1-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	значит...	ЗНАЧИТЬ...	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+4	чего	ЧТО	S	S n - gen sg	S n - gen sg	5	1-компл	_	_
+5	говорить	ГОВОРИТЬ	V	V ipf - - inf - -	V ipf - - inf - -	3	предик	_	_
+6	...	...	SENT	SENT	SENT	5	PUNC	_	_
+

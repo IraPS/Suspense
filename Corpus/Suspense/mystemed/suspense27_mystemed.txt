@@ -1,0 +1,6 @@
+{"analysis":[{"lex":"немного","gr":"ADV="}],"text":"Немного"}
+{"analysis":[{"lex":"покусать","gr":"V,pf=praet,ger"}],"text":"покусав"}
+{"analysis":[{"lex":"карандаш","gr":"S,m,inan=acc,sg"},{"lex":"карандаш","gr":"S,m,inan=nom,sg"}],"text":"карандаш"}
+{"analysis":[{"lex":"служащий","gr":"S,m,anim=nom,sg"}],"text":"служащий"}
+{"analysis":[{"lex":"набросать","gr":"V,pf,tran=praet,sg,indic,m"}],"text":"набросал"}
+{"analysis":[{"lex":"черновик","gr":"S,m,inan=acc,sg"},{"lex":"черновик","gr":"S,m,inan=nom,sg"}],"text":"черновик"}

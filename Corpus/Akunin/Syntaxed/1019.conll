@@ -1,0 +1,13 @@
+1	Грохоча	ГРОХОТАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	3	обст	_	_
+2	сапогами	САПОГ	S	S m inan ins pl	S m inan ins pl	1	1-компл	_	_
+3	вошел	ВХОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+4	Соболев	СОБОЛЕВ	S	S m anim nom sg	S m anim nom sg	3	предик	_	_
+5	в	В	PR	PR	PR	3	2-компл	_	_
+6	распахнутой	РАСПАХНУТЬ	PARTCP	PARTCP pf praet loc sg plen f pass -	PARTCP pf praet loc sg plen f pass -	8	опред	_	_
+7	белой	БЕЛЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	8	опред	_	_
+8	шинели	ШИНЕЛЬ	S	S f inan gen sg	S f inan gen sg	5	предл	_	_
+9	с	С	PR	PR	PR	3	1-компл	_	_
+10	алыми	АЛЫЙ	A	A - ins pl plen - -	A - ins pl plen - -	11	опред	_	_
+11	отворотами	ОТВОРОТ	S	S m inan ins pl	S m inan ins pl	9	предл	_	_
+12	.	.	SENT	SENT	SENT	11	PUNC	_	_
+

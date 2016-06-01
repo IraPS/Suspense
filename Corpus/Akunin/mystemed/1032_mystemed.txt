@@ -1,0 +1,5 @@
+{"analysis":[{"lex":"эраст","gr":"S,persn,m,anim=nom,sg"}],"text":"Эраст"}
+{"analysis":[{"lex":"петрович","gr":"S,patrn,m,anim=nom,sg"}],"text":"Петрович"}
+{"analysis":[{"lex":"заминаться","gr":"V,intr=praet,sg,indic,m,pf"}],"text":"замялся"}
+{"analysis":[{"lex":"опускать","gr":"V=praet,sg,indic,m,pf"}],"text":"опустил"}
+{"analysis":[{"lex":"глаз","gr":"S,m,inan=acc,pl"},{"lex":"глаз","gr":"S,m,inan=gen,sg"},{"lex":"глаз","gr":"S,m,inan=nom,pl"}],"text":"глаза"}

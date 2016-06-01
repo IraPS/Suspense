@@ -1,0 +1,17 @@
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"На"}
+{"analysis":[{"lex":"вопрос","gr":"S,m,inan=acc,pl"},{"lex":"вопрос","gr":"S,m,inan=nom,pl"}],"text":"вопросы"}
+{"analysis":[{"lex":"отвечать","gr":"V,intr=inf,ipf"}],"text":"отвечать"}
+{"analysis":[{"lex":"громко","gr":"ADV="}],"text":"громко"}
+{"analysis":[{"lex":"отчетливо","gr":"ADV="}],"text":"отчетливо"}
+{"analysis":[{"lex":"обстоятельно","gr":"ADV="}],"text":"обстоятельно"}
+{"analysis":[{"lex":"инструктировать","gr":"V,ipf,tran=praet,sg,indic,m"}],"text":"инструктировал"}
+{"analysis":[{"lex":"на","gr":"PR="}],"text":"на"}
+{"analysis":[{"lex":"ход","gr":"S,m,inan=dat,sg"},{"lex":"ход","gr":"S,m,inan=part,sg"},{"lex":"ход","gr":"S,m,inan=loc,sg"}],"text":"ходу"}
+{"analysis":[{"lex":"мизин","qual":"bastard","gr":"S,m,inan=gen,pl"}],"text":"Мизинов"}
+{"text":"\\s"}
+{"analysis":[{"lex":"подробно","gr":"ADV="}],"text":"Подробно"}
+{"analysis":[{"lex":"но","gr":"CONJ="}],"text":"но"}
+{"analysis":[{"lex":"не","gr":"PART="}],"text":"не"}
+{"analysis":[{"lex":"уклоняться","gr":"V,intr=inpraes,ger,ipf"}],"text":"уклоняясь"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"сторона","gr":"S,f,inan=acc,sg"}],"text":"сторону"}

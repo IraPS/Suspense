@@ -1,0 +1,30 @@
+1	Мизинов	МИЗИН	S	S m inan gen pl	S m inan gen pl	6	1-компл	_	_
+2	,	,	,	,	PUNC	1	PUNC	_	_
+3	недовольно	НЕДОВОЛЬНО	ADV	ADV -	ADV -	4	обст	_	_
+4	хмурясь	ХМУРИТЬСЯ	V	V ipf praes - ger - -	V ipf praes - ger - -	1	сочин	_	_
+5	,	,	,	,	PUNC	4	PUNC	_	_
+6	молчал	МОЛЧАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	а	А	CONJ	CONJ	CONJ	6	сент-соч	_	_
+9	Варя	ВАРЯ	S	S f anim nom sg	S f anim nom sg	10	предик	_	_
+10	подумала	ПОДУМАТЬ	V	V pf praet sg indic f -	V pf praet sg indic f -	8	соч-союзн	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	что	ЧТО	CONJ	CONJ	CONJ	10	1-компл	_	_
+13	и	И	CONJ	CONJ	CONJ	18	соотнос	_	_
+14	среди	СРЕДИ	PR	PR	PR	20	обст	_	_
+15	полицейских	ПОЛИЦЕЙСКИЙ	S	S m anim loc pl	S m anim loc pl	14	предл	_	_
+16	агентов	АГЕНТ	S	S m anim gen pl	S m anim gen pl	15	1-компл	_	_
+17	,	,	,	,	PUNC	16	PUNC	_	_
+18	видно	ВИДНО	ADV	ADV -	ADV -	14	сочин	_	_
+19	,	,	,	,	PUNC	18	PUNC	_	_
+20	бывают	БЫВАТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	12	подч-союзн	_	_
+21	не	НЕ	PART	PART	PART	22	огранич	_	_
+22	вовсе	ВОВСЕ	ADV	ADV -	ADV -	23	огранич	_	_
+23	пропащие	ПРОПАЩИЙ	A	A - acc pl plen - inan	A - acc pl plen - inan	20	присвяз	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
+1	Все-таки	ВСЕ-ТАКИ	PART	PART	PART	2	огранич	_	_
+2	сербский	СЕРБСКИЙ	A	A - nom sg plen f -	A - nom sg plen f -	3	опред	_	_
+3	волонтер	ВОЛОНТЕР	S	S f inan nom sg	S f inan nom sg	0	ROOT	_	_
+4	.	.	SENT	SENT	SENT	3	PUNC	_	_
+

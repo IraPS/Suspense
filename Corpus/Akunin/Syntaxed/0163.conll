@@ -1,0 +1,40 @@
+1	Однако	ОДНАКО	CONJ	CONJ	CONJ	0	ROOT	_	_
+2	утром	УТРО	S	S n inan ins sg	S n inan ins sg	3	обст	_	_
+3	выспаться	ВЫСЫПАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	6	1-компл	_	_
+4	Варе	ВАР	S	S f anim dat sg	S f anim dat sg	3	2-компл	_	_
+5	не	НЕ	PART	PART	PART	6	огранич	_	_
+6	дали	ДАВАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	1	подч-союзн	_	_
+7	.	.	SENT	SENT	SENT	6	PUNC	_	_
+
+1	Явились	ЯВЛЯТЬСЯ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+2	два	ДВА	NUM	NUM acc m inan	NUM acc m inan	3	количест	_	_
+3	жандарма	ЖАНДАРМ	S	S m anim gen sg	S m anim gen sg	1	предик	_	_
+4	в	В	PR	PR	PR	3	атриб	_	_
+5	касках	КАСКА	S	S f inan loc pl	S f inan loc pl	4	предл	_	_
+6	,	,	,	,	PUNC	5	PUNC	_	_
+7	при	ПРИ	PR	PR	PR	1	обст	_	_
+8	карабинах	КАРАБИН	S	S m inan loc pl	S m inan loc pl	7	предл	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	и	И	CONJ	CONJ	CONJ	1	сочин	_	_
+11	препроводили	ПРЕПРОВОЖДАТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	10	соч-союзн	_	_
+12	«	«	_	_	PUNC	11	PUNC	_	_
+13	именующую	ИМЕНОВАТЬ	PARTCP	PARTCP ipf inpraes acc sg plen f act -	PARTCP ipf inpraes acc sg plen f act -	11	кратн	_	_
+14	себя	СЕБЯ	SPRO	SPRO - - - acc	SPRO - - - acc	15	1-компл	_	_
+15	девицей	ДЕВИЦА	S	S f anim ins sg	S f anim ins sg	11	изъясн	_	_
+16	Суворовой	СУВОРОВА	S	S f anim loc sg	S f anim loc sg	15	аппоз	_	_
+17	»	»	_	_	PUNC	16	PUNC	_	_
+18	прямиком	ПРЯМИКОМ	ADV	ADV -	ADV -	19	огранич	_	_
+19	в	В	PR	PR	PR	11	обст	_	_
+20	особую	ОСОБЫЙ	A	A - acc sg plen f -	A - acc sg plen f -	21	опред	_	_
+21	часть	ЧАСТЬ	S	S f inan acc sg	S f inan acc sg	19	предл	_	_
+22	Западного	ЗАПАДНЫЙ	A	A - gen sg plen m -	A - gen sg plen m -	23	опред	_	_
+23	отряда	ОТРЯД	S	S m inan gen sg	S m inan gen sg	21	квазиагент	_	_
+24	,	,	,	,	PUNC	23	PUNC	_	_
+25	даже	ДАЖЕ	CONJ	CONJ	CONJ	11	обст	_	_
+26	не	НЕ	PART	PART	PART	27	огранич	_	_
+27	дав	ДАВАТЬ	V	V pf praet - ger - -	V pf praet - ger - -	30	обст	_	_
+28	как	КАК	CONJ	CONJ	CONJ	27	сравнит	_	_
+29	следует	СЛЕДОВАТЬ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	28	сравн-союзн	_	_
+30	причесаться	ПРИЧЕСЫВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	25	инф-союзн	_	_
+31	.	.	SENT	SENT	SENT	30	PUNC	_	_
+

@@ -1,0 +1,10 @@
+{"analysis":[{"lex":"ошибаться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"Ошиблась"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=nom,sg"}],"text":"Варя"}
+{"analysis":[{"lex":"сильно","gr":"ADV="}],"text":"сильно"}
+{"analysis":[{"lex":"ошибаться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"ошиблась"}
+{"text":"\\s"}
+{"analysis":[{"lex":"поездка","gr":"S,f,inan=nom,sg"}],"text":"Поездка"}
+{"analysis":[{"lex":"в","gr":"PR="}],"text":"в"}
+{"analysis":[{"lex":"букарешты","qual":"bastard","gr":"S,pl,inan=gen"}],"text":"Букарешт"}
+{"analysis":[{"lex":"получаться","gr":"V,intr=praet,sg,indic,f,pf"}],"text":"получилась"}
+{"analysis":[{"lex":"прескучный","gr":"A=abl,sg,plen,f"},{"lex":"прескучный","gr":"A=dat,sg,plen,f"},{"lex":"прескучный","gr":"A=gen,sg,plen,f"},{"lex":"прескучный","gr":"A=ins,sg,plen,f"}],"text":"прескучной"}

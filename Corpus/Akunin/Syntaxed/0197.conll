@@ -1,0 +1,82 @@
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	Милый	МИЛЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	3	опред	_	_
+3	Лаврентий	ЛАВРЕНТИЙ	S	S m anim nom sg	S m anim nom sg	0	ROOT	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	события	СОБЫТИЕ	S	S n inan nom pl	S n inan nom pl	11	предик	_	_
+6	в	В	PR	PR	PR	5	атриб	_	_
+7	нашем	НАШ	A	A - loc sg plen n -	A - loc sg plen n -	9	опред	_	_
+8	хранимом	ХРАНИТЬ	PARTCP	PARTCP ipf inpraes loc sg plen m pass -	PARTCP ipf inpraes loc sg plen m pass -	9	опред	_	_
+9	Аллахом	АЛЛАХ	S	S m anim ins sg	S m anim ins sg	6	предл	_	_
+10	Стамбуле	СТАМБУЛ	S	S m inan loc sg	S m inan loc sg	9	аппоз	_	_
+11	развиваются	РАЗВИВАТЬСЯ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	3	релят	_	_
+12	столь	СТОЛЬ	ADV	ADV -	ADV -	13	огранич	_	_
+13	стремительно	СТРЕМИТЕЛЬНО	ADV	ADV -	ADV -	11	обст	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	что	ЧТО	CONJ	CONJ	CONJ	12	1-компл	_	_
+16	за	ЗА	PR	PR	PR	19	обст	_	_
+17	ними	ОНИ	SPRO	SPRO pl - - ins	SPRO pl - - ins	16	предл	_	_
+18	не	НЕ	PART	PART	PART	19	огранич	_	_
+19	поспеваю	ПОСПЕВАТЬ	V	V ipf praes sg indic - 1p	V ipf praes sg indic - 1p	15	подч-союзн	_	_
+20	даже	ДАЖЕ	PART	PART	PART	21	огранич	_	_
+21	я	Я	SPRO	SPRO sg 1p - nom	SPRO sg 1p - nom	19	предик	_	_
+22	,	,	,	,	PUNC	21	PUNC	_	_
+23	а	А	CONJ	CONJ	CONJ	19	сент-соч	_	_
+24	ведь	ВЕДЬ	PART	PART	PART	33	огранич	_	_
+25	твой	ТВОЙ	A	A - nom sg plen m -	A - nom sg plen m -	27	опред	_	_
+26	покорный	ПОКОРНЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	27	опред	_	_
+27	слуга	СЛУГА	S	S m anim nom sg	S m anim nom sg	33	предик	_	_
+28	,	,	,	,	PUNC	27	PUNC	_	_
+29	без	БЕЗ	PR	PR	PR	33	обст	_	_
+30	ложной	ЛОЖНЫЙ	A	A - gen sg plen f -	A - gen sg plen f -	31	опред	_	_
+31	скромности	СКРОМНОСТЬ	S	S f inan gen sg	S f inan gen sg	29	предл	_	_
+32	,	,	,	,	PUNC	31	PUNC	_	_
+33	держал	ДЕРЖАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	23	соч-союзн	_	_
+34	руку	РУКА	S	S f inan acc sg	S f inan acc sg	33	1-компл	_	_
+35	на	НА	PR	PR	PR	33	обст	_	_
+36	пульсе	ПУЛЬС	S	S m inan loc sg	S m inan loc sg	35	предл	_	_
+37	Европейского	ЕВРОПЕЙСКИЙ	A	A - gen sg plen m -	A - gen sg plen m -	38	опред	_	_
+38	Больного	БОЛЬНОЙ	S	S m anim acc sg	S m anim acc sg	33	1-компл	_	_
+39	не	НЕ	PART	PART	PART	40	огранич	_	_
+40	один	ОДИН	A	A - nom sg plen m -	A - nom sg plen m -	41	количест	_	_
+41	год	ГОД	S	S m inan nom sg	S m inan nom sg	33	предик	_	_
+42	.	.	SENT	SENT	SENT	41	PUNC	_	_
+
+1	Пульс	ПУЛЬС	S	S m inan nom sg	S m inan nom sg	8	предик	_	_
+2	этот	ЭТОТ	A	A - nom sg plen m -	A - nom sg plen m -	1	опред	_	_
+3	не	НЕ	PART	PART	PART	4	огранич	_	_
+4	без	БЕЗ	PR	PR	PR	1	обст	_	_
+5	моих	МОЙ	A	A - loc pl plen - -	A - loc pl plen - -	6	опред	_	_
+6	тщаний	ТЩАНИЕ	S	S n inan gen pl	S n inan gen pl	4	предл	_	_
+7	постепенно	ПОСТЕПЕННО	ADV	ADV -	ADV -	8	обст	_	_
+8	замирал	ЗАМИРАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	0	ROOT	_	_
+9	и	И	CONJ	CONJ	CONJ	8	сочин	_	_
+10	вскоре	ВСКОРЕ	ADV	ADV -	ADV -	11	обст	_	_
+11	обещал	ОБЕЩАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	9	соч-союзн	_	_
+12	вовсе	ВОВСЕ	ADV	ADV -	ADV -	13	огранич	_	_
+13	остановиться	ОСТАНАВЛИВАТЬСЯ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	но	НО	CONJ	CONJ	CONJ	11	сент-соч	_	_
+16	с	С	PR	PR	PR	0	ROOT	_	_
+17	мая	МАЙ	S	S m inan gen sg	S m inan gen sg	16	предл	_	_
+18	месяца	МЕСЯЦ	S	S m inan gen sg	S m inan gen sg	17	квазиагент	_	_
+19	…	…	SENT	SENT	SENT	18	PUNC	_	_
+
+1	«	«	_	_	PUNC	2	PUNC	_	_
+2	–	–	–	–	PUNC	3	опред	_	_
+3	Речь	РЕЧЬ	S	S f inan nom sg	S f inan nom sg	4	предик	_	_
+4	идет	ИДТИ	V	V ipf praes sg indic - 3p	V ipf praes sg indic - 3p	0	ROOT	_	_
+5	о	О	PR	PR	PR	4	1-несобст-компл	_	_
+6	прошлом	ПРОШЛОЕ	S	S n inan loc sg	S n inan loc sg	5	предл	_	_
+7	,	,	,	,	PUNC	6	PUNC	_	_
+8	1876	1876	NUM	NUM - - -	NUM - - -	6	сочин	_	_
+9	,	,	,	,	PUNC	8	PUNC	_	_
+10	годе	ГОД	S	S m inan loc sg	S m inan loc sg	8	сочин	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	 	 	 	 	PUNC	14	предик	_	_
+13	–	–	–	–	PUNC	14	суб-копр	_	_
+14	счел	СЧЕСТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	4	сент-соч	_	_
+15	нужным	НУЖНЫЙ	A	A - ins sg plen n -	A - ins sg plen n -	14	2-компл	_	_
+16	вставить	ВСТАВЛЯТЬ	V	V pf - - inf - -	V pf - - inf - -	14	1-компл	_	_
+17	Мизинов	МИЗИН	S	S m anim nom sg	S m anim nom sg	14	2-компл	_	_
+18	.	.	SENT	SENT	SENT	17	PUNC	_	_
+

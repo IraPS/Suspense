@@ -1,0 +1,7 @@
+{"analysis":[{"lex":"у","gr":"PR="}],"text":"У"}
+{"analysis":[{"lex":"варя","gr":"S,persn,f,anim=gen,sg"},{"lex":"варя","gr":"S,persn,f,anim=nom,pl"}],"text":"Вари"}
+{"analysis":[{"lex":"внутри","gr":"ADV="}],"text":"внутри"}
+{"analysis":[{"lex":"все","gr":"SPRO,pl=acc"},{"lex":"все","gr":"SPRO,pl=nom"}],"text":"все"}
+{"analysis":[{"lex":"так","gr":"ADVPRO="}],"text":"так"}
+{"analysis":[{"lex":"и","gr":"CONJ="}],"text":"и"}
+{"analysis":[{"lex":"оборваться","gr":"V,pf,intr=praet,sg,indic,n"}],"text":"оборвалось"}

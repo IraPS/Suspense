@@ -1,0 +1,81 @@
+1	Ночь	НОЧЬ	S	S f inan nom sg	S f inan nom sg	5	предик	_	_
+2	Гасан	ГАСАН	S	S m anim nom sg	S m anim nom sg	1	аппоз	_	_
+3	-	-	-	-	PUNC	2	PUNC	_	_
+4	бей	БИТЬ	V	V ipf - sg imper - 2p	V ipf - sg imper - 2p	1	опред	_	_
+5	провел	ПРОВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	0	ROOT	_	_
+6	под	ПОД	PR	PR	PR	5	обст	_	_
+7	замком	ЗАМОК	S	S m inan ins sg	S m inan ins sg	6	предл	_	_
+8	в	В	PR	PR	PR	5	обст	_	_
+9	караульном	КАРАУЛЬНЫЙ	A	A - loc sg plen n -	A - loc sg plen n -	10	опред	_	_
+10	помещении	ПОМЕЩЕНИЕ	S	S n inan loc sg	S n inan loc sg	8	предл	_	_
+11	,	,	,	,	PUNC	10	PUNC	_	_
+12	громко	ГРОМКО	ADV	ADV -	ADV -	13	обст	_	_
+13	распевая	РАСПЕВАТЬ	V	V ipf praes - ger - -	V ipf praes - ger - -	5	обст	_	_
+14	арии	АРИЯ	S	S f inan gen sg	S f inan gen sg	13	1-компл	_	_
+15	из	ИЗ	PR	PR	PR	14	1-компл	_	_
+16	«	«	_	_	PUNC	15	PUNC	_	_
+17	Лючии	ЛЮЧИЯ	S	S m anim gen sg	S m anim gen sg	15	предл	_	_
+18	де	ДЕ	PART	PART	PART	19	вспом	_	_
+19	Ламермур	ЛАМЕРМУР	S	S m anim nom sg	S m anim nom sg	5	1-компл	_	_
+20	»	»	_	_	PUNC	19	PUNC	_	_
+21	,	,	,	,	PUNC	19	PUNC	_	_
+22	чем	ЧЕМ	CONJ	CONJ	CONJ	5	сравнит	_	_
+23	,	,	,	,	PUNC	22	PUNC	_	_
+24	говорят	ГОВОРИТЬ	V	V ipf praes pl indic - 3p	V ipf praes pl indic - 3p	26	вводн	_	_
+25	,	,	,	,	PUNC	24	PUNC	_	_
+26	привел	ПРИВОДИТЬ	V	V pf praet sg indic m -	V pf praet sg indic m -	22	сравн-союзн	_	_
+27	Анвара	АНВАР	S	S f inan nom sg	S f inan nom sg	26	предик	_	_
+28	-	-	-	-	PUNC	27	PUNC	_	_
+29	эфенди	ЭФЕНДИ	S	S m inan nonflex nonflex	S m inan nonflex nonflex	27	квазиагент	_	_
+30	в	В	PR	PR	PR	27	атриб	_	_
+31	полнейшее	ПОЛНЫЙ	A	A - acc sg plen n inan	A - acc sg plen n inan	30	предл	_	_
+32	восхищение	ВОСХИЩЕНИЕ	S	S n inan acc sg	S n inan acc sg	26	1-компл	_	_
+33	.	.	SENT	SENT	SENT	32	PUNC	_	_
+
+1	Анвар	АНВАР	S	S m anim nom sg	S m anim nom sg	18	предик	_	_
+2	даже	ДАЖЕ	CONJ	CONJ	CONJ	18	обст	_	_
+3	пробовал	ПРОБОВАТЬ	V	V ipf praet sg indic m -	V ipf praet sg indic m -	2	подч-союзн	_	_
+4	выговорить	ВЫГОВАРИВАТЬ	V	V pf - - inf - -	V pf - - inf - -	3	1-компл	_	_
+5	доблестному	ДОБЛЕСТНЫЙ	A	A - dat sg plen m -	A - dat sg plen m -	6	опред	_	_
+6	злодею	ЗЛОДЕЙ	S	S m anim dat sg	S m anim dat sg	4	2-компл	_	_
+7	помилование	ПОМИЛОВАНИЕ	S	S n inan nom sg	S n inan nom sg	3	предик	_	_
+8	,	,	,	,	PUNC	7	PUNC	_	_
+9	но	НО	CONJ	CONJ	CONJ	3	сент-соч	_	_
+10	озлобившиеся	ОЗЛОБЛЯТЬСЯ	PARTCP	PARTCP pf praet nom pl plen - act -	PARTCP pf praet nom pl plen - act -	11	опред	_	_
+11	министры	МИНИСТР	S	S m anim nom pl	S m anim nom pl	12	предик	_	_
+12	были	БЫТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	9	соч-союзн	_	_
+13	непреклонны	НЕПРЕКЛОННЫЙ	A	A - nom sg plen m -	A - nom sg plen m -	12	присвяз	_	_
+14	,	,	,	,	PUNC	13	PUNC	_	_
+15	и	И	CONJ	CONJ	CONJ	13	сочин	_	_
+16	наутро	НАУТРО	ADV	ADV -	ADV -	17	огранич	_	_
+17	убийцу	УБИЙЦА	S	S - anim acc sg	S - anim acc sg	15	соч-союзн	_	_
+18	повесили	ПОВЕСИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+19	на	НА	PR	PR	PR	18	обст	_	_
+20	дереве	ДЕРЕВО	S	S n inan loc sg	S n inan loc sg	19	предл	_	_
+21	.	.	SENT	SENT	SENT	20	PUNC	_	_
+
+1	Дамы	ДАМА	S	S f anim nom pl	S f anim nom pl	11	предик	_	_
+2	из	ИЗ	PR	PR	PR	1	атриб	_	_
+3	гарема	ГАРЕМ	S	S m inan gen sg	S m inan gen sg	2	предл	_	_
+4	,	,	,	,	PUNC	3	PUNC	_	_
+5	так	ТАК	ADV	ADV -	ADV -	6	огранич	_	_
+6	горячо	ГОРЯЧО	ADV	ADV -	ADV -	7	обст	_	_
+7	любившие	ЛЮБИТЬ	PARTCP	PARTCP ipf praet nom pl plen - act -	PARTCP ipf praet nom pl plen - act -	1	опред	_	_
+8	своего	СВОЙ	A	A - gen sg plen m -	A - gen sg plen m -	9	опред	_	_
+9	Черкеса	ЧЕРКЕС	S	S m anim acc sg	S m anim acc sg	7	1-компл	_	_
+10	,	,	,	,	PUNC	9	PUNC	_	_
+11	пришли	ПРИХОДИТЬ	V	V pf praet pl indic - -	V pf praet pl indic - -	0	ROOT	_	_
+12	посмотреть	ПОСМОТРЕТЬ	V	V pf - - inf - -	V pf - - inf - -	11	1-компл	_	_
+13	на	НА	PR	PR	PR	12	1-компл	_	_
+14	его	ЕГО	A	A - nonflex nonflex plen - -	A - nonflex nonflex plen - -	15	квазиагент	_	_
+15	казнь	КАЗНЬ	S	S f inan acc sg	S f inan acc sg	13	предл	_	_
+16	,	,	,	,	PUNC	15	PUNC	_	_
+17	горько	ГОРЬКО	ADV	ADV -	ADV -	18	обст	_	_
+18	плакали	ПЛАКАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	11	сочин	_	_
+19	и	И	CONJ	CONJ	CONJ	18	сочин	_	_
+20	посылали	ПОСЫЛАТЬ	V	V ipf praet pl indic - -	V ipf praet pl indic - -	19	соч-союзн	_	_
+21	ему	ОН	SPRO	SPRO sg 3p m dat	SPRO sg 3p m dat	20	2-компл	_	_
+22	воздушные	ВОЗДУШНЫЙ	A	A - nom pl plen - -	A - nom pl plen - -	23	опред	_	_
+23	поцелуи	ПОЦЕЛУЙ	S	S m inan nom pl	S m inan nom pl	20	предик	_	_
+24	.	.	SENT	SENT	SENT	23	PUNC	_	_
+
