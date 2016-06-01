@@ -7,7 +7,7 @@ For using it be sure that:
 
 2. You have downloaded Mystem (https://tech.yandex.ru/mystem/)
 
-3. You have dowloaded RU Syntax parser and followed the instructions (http://web-corpora.net/wsgi3/ru-syntax/)
+3. You have dowloaded RU Syntax parser and followed the instructions on istalling it (http://web-corpora.net/wsgi3/ru-syntax/)
 
 4. You have installed following packages: re, os, pymystem3, numpy, copy, nltk, sklearn, pickle, sknn (which is http://scikit-neuralnetwork.readthedocs.io/) 
 
