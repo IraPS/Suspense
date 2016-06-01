@@ -1,11 +1,21 @@
 # Suspense
 This is a program that predicts the level of suspense of a paragraph.
 
-Before using it be sure you have downloaded
+For using it be sure that:
+
+1. You use Python 3
+
+2. You have downloaded Mystem (https://tech.yandex.ru/mystem/)
+
+3. You have dowloaded RU Syntax parser and followed the instructions (http://web-corpora.net/wsgi3/ru-syntax/)
+
+4. You have installed following packages: re, os, pymystem3, numpy, copy, nltk, sklearn, pickle, sknn (which is http://scikit-neuralnetwork.readthedocs.io/) 
+
+
 
 Here is the instructions on how to use it:
 
-1. Download this git.
+1. Download this git. Put your "mystem" file in the same directory with the files of this git.
 
 2. Save the novel you want to analyze in a .txt file with 'utf-8' encoding.
 
