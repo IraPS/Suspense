@@ -15,7 +15,7 @@ def bowVector(corpus):
         for f in files:
             if f.endswith('.txt'):
                 # print(f)
-                t = open('./Corpus/'+ corpus + '/mystemed/' + f, 'r', encoding='utf-8').read()
+                t = open('./Corpus/'+ corpus + '/Mystemed/' + f, 'r', encoding='utf-8').read()
                 vector = [0]*len(lemmas)
                 for i in range(len(lemmas)-1):
                     if lemmas[i] in t:

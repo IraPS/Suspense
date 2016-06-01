@@ -25,22 +25,6 @@ def meanLengthPar(corpus, number_of_files):
                 else:
                     lens[len(sentences)] = 1
                 yield(len(sentences))
-        #print('HERE')
-        '''
-        print(lens)
-        # print(np.median(all))
-        print('SUSPENSE DATA')
-        for i in lens:
-            print(i)
-        print('\n')
-        '''
-        '''
-        for i in lens:
-            print(i)
-        for i in lens:
-            print(round((lens[i]/number_of_files)*100, 2))
-        '''
-
 
 
 #meanLengthPar('Unsuspense', 123)
