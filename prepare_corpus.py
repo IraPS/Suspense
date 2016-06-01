@@ -1,4 +1,5 @@
 import os
+import re
 
 
 def lemmas(corpus, file):
@@ -19,7 +20,10 @@ def prepare(corpus):
     for root, dirs, files in os.walk('./Corpus/' + corpus + '/Original'):
         for file in files:
             if file.endswith('.txt'):
-                parse('/Users/IrinaPavlova/Desktop/Uni/2015-2016/Programming/github\ desktop/Suspense/Corpus/' + corpus + '/Original/' + file)
+                path = os.path.abspath('./Corpus')
+                path = re.sub(' ', '\ ', path)
+                parse(path + '/' + corpus + '/Original/' + file)
 
     print('Corpus is ready for analyzing. Please move the files from RU Syntax'
           ' parser\'s "out" folder to your corpus\' "Syntaxed" folder')
+

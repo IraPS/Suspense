@@ -1,7 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
-from sklearn import svm
-from sklearn.metrics import roc_curve, auc
 from sklearn.linear_model import LogisticRegression
 from sklearn.cross_validation import train_test_split
 from sklearn import metrics

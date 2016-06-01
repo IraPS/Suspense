@@ -1,6 +1,5 @@
 import os
 import re
-import numpy as np
 
 
 def meanLengthPar(corpus, number_of_files):

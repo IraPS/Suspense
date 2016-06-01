@@ -1,6 +1,5 @@
 from pymystem3 import Mystem
 import os
-import nltk
 import re
 
 m = Mystem()
